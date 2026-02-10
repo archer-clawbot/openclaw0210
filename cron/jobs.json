@@ -27,7 +27,7 @@
       "id": "b8890acc-185c-4739-8248-988d0660ca46",
       "agentId": "sentinel",
       "name": "Sentinel Nightly Health Check",
-      "enabled": false,
+      "enabled": true,
       "createdAtMs": 1770661140897,
       "updatedAtMs": 1770661165351,
       "schedule": {
@@ -41,14 +41,10 @@
         "kind": "agentTurn",
         "message": "Run your nightly health check now. Execute all 7 checks as defined in your AGENTS.md brain prompt, compile the report, and deliver it to Slack #sentinel. If status is CRITICAL, also alert #archer.",
         "deliver": true,
-        "channel": "slack"
+        "channel": "slack",
+        "to": "#sentinel"
       },
-      "state": {
-        "lastError": "Cron delivery requires a recipient (--to).",
-        "lastRunAtMs": 1770661165351,
-        "lastStatus": "error",
-        "lastDurationMs": 150246
-      }
+      "state": {}
     },
     {
       "id": "eb73058e-4f6d-49d3-ae0c-ff5d27ce708c",

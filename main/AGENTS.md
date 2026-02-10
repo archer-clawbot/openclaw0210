@@ -33,23 +33,23 @@ You are **Archer**, the master orchestrator for a 17-agent autonomous local SEO 
 
 | ID | Agent | Role | Model | Telegram |
 |----|-------|------|-------|----------|
-| main | **Archer** | Orchestrator — routes all tasks | Opus 4.5 | @ArcherClawBot |
-| silas | **Silas** | SEO Strategist — audits, scorecards, briefs, strategy | Opus 4.5 | @SilasSEOBot |
+| main | **Archer** | Orchestrator — routes all tasks | Sonnet 4.5 | @ArcherClawBot |
+| silas | **Silas** | SEO Strategist — audits, scorecards, briefs, strategy | Sonnet 4.5 | @SilasSEOBot |
 | mozi | **Mozi** | Business Advisor — Hormozi frameworks, pricing, offers | Sonnet 4.5 | @MoziSalesBot |
-| scout | **Scout** | Research — competitor intel, SERP analysis, algorithm updates | Sonnet 4.5 | @ScoutDataBot |
-| canvas | **Canvas** | Design — wireframes, design systems, brand guidelines | Sonnet 4.5 | @CanvasUIBot |
+| scout | **Scout** | Research — competitor intel, SERP analysis, algorithm updates | Haiku 4.5 | @ScoutDataBot |
+| canvas | **Canvas** | Design — wireframes, design systems, brand guidelines | Haiku 4.5 | @CanvasUIBot |
 | scribe | **Scribe** | Content — all written content, GBP posts, blogs, pages | Sonnet 4.5 | @ScribeContentBot |
-| builder | **Builder** | New Sites — WordPress builds from scratch on Cloudways | Sonnet 4.5 | @BuilderSiteBot |
-| wrench | **Wrench** | Existing Sites — optimization, fixes, updates to live sites | Sonnet 4.5 | @WrenchSiteBot |
-| specs | **Specs** | Technical SEO — RankMath, schema, GA4, GSC, Core Web Vitals | Sonnet 4.5 | @SpecsTechBot |
-| herald | **Herald** | GBP Operations — publish posts, manage listings, reviews | Sonnet 4.5 | @HeraldGBPBot |
-| citadel | **Citadel** | Citations — NAP consistency, directory submissions | Sonnet 4.5 | @CitadelSEOBot |
-| ghost | **Ghost** | PBN — private blog network management, link deployment | Sonnet 4.5 | @GhostPBNBot |
-| lookout | **Lookout** | Monitoring — rank tracking, anomaly detection, reporting | Sonnet 4.5 | @LookoutRankBot |
-| ledger | **Ledger** | Cost Analysis — API spend, per-client profitability, budgets | Sonnet 4.5 | @LedgerOpsBot |
+| builder | **Builder** | New Sites — WordPress builds from scratch on Cloudways | Haiku 4.5 | @BuilderSiteBot |
+| wrench | **Wrench** | Existing Sites — optimization, fixes, updates to live sites | Haiku 4.5 | @WrenchSiteBot |
+| specs | **Specs** | Technical SEO — RankMath, schema, GA4, GSC, Core Web Vitals | Haiku 4.5 | @SpecsTechBot |
+| herald | **Herald** | GBP Operations — publish posts, manage listings, reviews | Haiku 4.5 | @HeraldGBPBot |
+| citadel | **Citadel** | Citations — NAP consistency, directory submissions | Haiku 4.5 | @CitadelSEOBot |
+| ghost | **Ghost** | PBN — private blog network management, link deployment | Haiku 4.5 | @GhostPBNBot |
+| lookout | **Lookout** | Monitoring — rank tracking, anomaly detection, reporting | Haiku 4.5 | @LookoutRankBot |
+| ledger | **Ledger** | Cost Analysis — API spend, per-client profitability, budgets | Haiku 4.5 | @LedgerOpsBot |
 | razor | **Razor** | CRO — conversion rate optimization, A/B testing, page analysis | Sonnet 4.5 | @RazorCROBot |
 | blitz | **Blitz** | Paid Ads — Google Ads, Meta Ads, campaign management, A/B testing | Sonnet 4.5 | @BlitzAdsBot |
-| sentinel | **Sentinel** | System Health — nightly infrastructure monitoring, health reports | Sonnet 4.5 | (pending) |
+| sentinel | **Sentinel** | System Health — nightly infrastructure monitoring, health reports | Haiku 4.5 | (pending) |
 
 ---
 

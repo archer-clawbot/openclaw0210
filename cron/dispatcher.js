@@ -1,6 +1,4 @@
 #!/usr/bin/env node
-// TODO: Add log rotation — dispatcher.log grows unbounded (currently 302KB+)
-// Consider rotating at 1MB or daily, keeping last 7 days
 
 require('dotenv').config({ path: require('path').resolve(__dirname, '..', '.env') });
 
@@ -22,23 +20,48 @@ const POLL_MAX_INTERVAL = 120_000;
 const WAIT_TIMEOUT = 3_000;
 const CLIENT_PAUSE = 50; // ms between client polls (rate limit)
 
+// Used as agent whitelist (line ~200 guards against unknown agentIds).
+// Models here match openclaw.json runtime assignments.
 const AGENT_MODEL = {
-  scout:   'haiku',
-  specs:   'haiku',
-  mozi:    'sonnet',
-  silas:   'sonnet',
-  scribe:  'sonnet',
-  herald:  'haiku',
-  wrench:  'haiku',
-  citadel: 'haiku',
-  lookout: 'haiku',
-  razor:   'sonnet',
+  main:     'sonnet',
+  silas:    'sonnet',
+  mozi:     'sonnet',
+  scribe:   'sonnet',
+  razor:    'sonnet',
+  blitz:    'sonnet',
+  scout:    'haiku',
+  canvas:   'haiku',
+  builder:  'haiku',
+  wrench:   'haiku',
+  specs:    'haiku',
+  herald:   'haiku',
+  citadel:  'haiku',
+  ghost:    'haiku',
+  lookout:  'haiku',
+  ledger:   'haiku',
+  sentinel: 'haiku',
 };
 
 const LOG_FILE = path.join(__dirname, 'dispatcher.log');
+const LOG_MAX_BYTES = 1_048_576; // 1 MB
+const LOG_KEEP = 3;
 const DELIVERABLES_ROOT = path.join(process.env.OPENCLAW_HOME || path.resolve(__dirname, '..'), 'deliverables');
 
 // ── Logging ───────────────────────────────────────────────────────────
+
+function rotateLog() {
+  try {
+    const stat = fs.statSync(LOG_FILE);
+    if (stat.size < LOG_MAX_BYTES) return;
+  } catch { return; } // file doesn't exist yet
+  // shift .log.2 → .log.3, .log.1 → .log.2, .log → .log.1
+  for (let i = LOG_KEEP - 1; i >= 1; i--) {
+    const src = `${LOG_FILE}.${i}`;
+    const dst = `${LOG_FILE}.${i + 1}`;
+    try { fs.renameSync(src, dst); } catch {}
+  }
+  try { fs.renameSync(LOG_FILE, `${LOG_FILE}.1`); } catch {}
+}
 
 function log(msg) {
   const line = `[${new Date().toISOString()}] ${msg}`;
@@ -404,6 +427,7 @@ async function main() {
     await gw.connect();
   }
 
+  rotateLog();
   log(`dispatcher started (dryRun=${dryRun}, watch=${watch}, client=${filterSlug || 'all'})`);
 
   // Run first cycle
@@ -419,6 +443,7 @@ async function main() {
 
   async function loop() {
     if (stopping) return;
+    rotateLog();
     try {
       const hadActivity = await pollAllClients(gw, dryRun, filterSlug);
       if (hadActivity) {
