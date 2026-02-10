@@ -1,0 +1,57 @@
+{
+  "agent:silas:dispatch:698a12c8216e79c89db7844d": {
+    "sessionId": "26b73d28-7ec1-4ffa-b683-32eb6a4e5cdd",
+    "updatedAt": 1770679320639,
+    "skillsSnapshot": {
+      "prompt": "",
+      "skills": [],
+      "resolvedSkills": [],
+      "version": 0
+    },
+    "modelProvider": "anthropic",
+    "model": "claude-sonnet-4-5",
+    "contextTokens": 1000000,
+    "abortedLastRun": false,
+    "inputTokens": 4,
+    "outputTokens": 968,
+    "totalTokens": 168218
+  },
+  "agent:silas:slack:channel:silas": {
+    "chatType": "channel",
+    "channel": "slack",
+    "groupId": "silas",
+    "displayName": "slack:g-silas",
+    "origin": {
+      "label": "slack:channel:silas",
+      "provider": "slack",
+      "surface": "slack",
+      "chatType": "channel",
+      "from": "slack:channel:silas",
+      "to": "channel:silas"
+    },
+    "sessionId": "7bb5ce79-9d7c-4a99-a5db-0a6b97fea4a5",
+    "updatedAt": 1770695887233,
+    "deliveryContext": {
+      "channel": "slack"
+    },
+    "lastChannel": "slack",
+    "sessionFile": "C:\\Users\\spart\\.openclaw\\agents\\silas\\sessions\\7bb5ce79-9d7c-4a99-a5db-0a6b97fea4a5.jsonl"
+  },
+  "agent:silas:dispatch:698b4072a87252221209fc7d": {
+    "sessionId": "dc3fe6ea-a000-49e1-8d1a-c64654e0547d",
+    "updatedAt": 1770738535246,
+    "skillsSnapshot": {
+      "prompt": "",
+      "skills": [],
+      "resolvedSkills": [],
+      "version": 0
+    },
+    "modelProvider": "anthropic",
+    "model": "claude-sonnet-4-5",
+    "contextTokens": 1000000,
+    "abortedLastRun": false,
+    "inputTokens": 14,
+    "outputTokens": 623,
+    "totalTokens": 37393
+  }
+}

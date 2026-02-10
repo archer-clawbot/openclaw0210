@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "jobs": [
+    {
+      "id": "21f2305d-a6c8-4b98-8dbe-0501cd3fa418",
+      "agentId": "main",
+      "name": "AI Automation Daily Brief",
+      "enabled": false,
+      "createdAtMs": 1770336417984,
+      "updatedAtMs": 1770337401755,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 8 * * *",
+        "tz": "America/Chicago"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "next-heartbeat",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Daily AI automation news task.\n\n**TOPICS TO SEARCH:**\n1. OpenClaw\n2. Antigravity (AI agent platform)\n3. Claude/Anthropic\n4. AI agent automation systems\n\n**CHANNELS TO CHECK:**\n- Julian Goldie SEO\n- Alex Finn (@AlexFinnOfficial)\n- Nate B Jones (@NateBJones)\n- Matthew Berman\n- Peter Yang\n\n**FORMAT RULES:**\n- Max 3 videos per channel (pick highest view count if more)\n- For each video, include a 1-2 sentence ACTUAL SUMMARY of what the video covers based on transcript — not just the title\n- Group by category (Claude/Anthropic, OpenClaw, AI Agents, etc.)\n- Include channel status section at bottom\n\n**EXAMPLE FORMAT:**\n• \"Video Title\" - Channel Name (duration, time ago)\n  ↳ Actual summary of content: what you learn, key takeaway, main point covered.\n\n**COST OPTIMIZATION:**\n- Use DeepSeek V3 for transcript summarization (bulk text work)\n- Use Claude only for orchestration, formatting final output, and delivery\n\n**DELIVERY:**\nSend compiled brief to Cody via Telegram. If no new relevant videos found, send short 'no new videos today' message.",
+        "deliver": true,
+        "channel": "telegram"
+      },
+      "state": {}
+    },
+    {
+      "id": "b8890acc-185c-4739-8248-988d0660ca46",
+      "agentId": "sentinel",
+      "name": "Sentinel Nightly Health Check",
+      "enabled": false,
+      "createdAtMs": 1770661140897,
+      "updatedAtMs": 1770661165351,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 2 * * *",
+        "tz": "America/Chicago"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "next-heartbeat",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Run your nightly health check now. Execute all 7 checks as defined in your AGENTS.md brain prompt, compile the report, and deliver it to Slack #sentinel. If status is CRITICAL, also alert #archer.",
+        "deliver": true,
+        "channel": "slack"
+      },
+      "state": {
+        "lastError": "Cron delivery requires a recipient (--to).",
+        "lastRunAtMs": 1770661165351,
+        "lastStatus": "error",
+        "lastDurationMs": 150246
+      }
+    },
+    {
+      "id": "eb73058e-4f6d-49d3-ae0c-ff5d27ce708c",
+      "agentId": "main",
+      "name": "Archer Weekly Rollup",
+      "enabled": false,
+      "createdAtMs": 1770663209458,
+      "updatedAtMs": 1770663209458,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 8 * * 0",
+        "tz": "America/Chicago"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "next-heartbeat",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Weekly rollup task. Compile a summary of ALL agent activity from the past 7 days and deliver it to #archer.\n\n**HOW TO COMPILE:**\n1. Use sessions_list to pull recent sessions across all agents\n2. Use sessions_history to review what each agent produced this week\n3. Check the deliverables folder at C:Usersspart.openclawdeliverables for saved outputs\n\n**REPORT FORMAT:**\n\nWEEKLY ROLLUP — {date range}\n\nFor each agent that had activity:\n- **Agent Name**: {1-2 sentence summary of what they did}\n  - Deliverables: {list any saved files or completed tasks}\n  - Clients touched: {which clients got work}\n\nThen a summary section:\n- Total agent sessions this week: {count}\n- Clients with active work: {list}\n- Pending/blocked items: {anything stuck}\n- Sentinel health trend: {any recurring issues from nightly reports}\n\n**DELIVERY:**\nPost the compiled rollup to #archer Slack channel. Keep it scannable — Cody reads this over Sunday morning coffee.",
+        "deliver": true,
+        "channel": "slack"
+      },
+      "state": {}
+    }
+  ]
+}

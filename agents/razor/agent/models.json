@@ -1,0 +1,26 @@
+{
+  "providers": {
+    "openai": {
+      "baseUrl": "http://localhost:1234/v1",
+      "apiKey": "lm-studio",
+      "models": [
+        {
+          "id": "llama-3.1-tulu-3-70b",
+          "name": "Llama 3.1 Tulu 70B (Local LM Studio)",
+          "reasoning": false,
+          "input": [
+            "text"
+          ],
+          "cost": {
+            "input": 0,
+            "output": 0,
+            "cacheRead": 0,
+            "cacheWrite": 0
+          },
+          "contextWindow": 128000,
+          "maxTokens": 8192
+        }
+      ]
+    }
+  }
+}

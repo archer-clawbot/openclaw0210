@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "skills": {
+    "local-places": {
+      "version": "1.0.0",
+      "installedAt": 1770071997271
+    },
+    "trello": {
+      "version": "1.0.0",
+      "installedAt": 1770537600000
+    }
+  }
+}

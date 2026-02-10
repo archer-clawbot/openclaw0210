@@ -1,0 +1,224 @@
+{
+  "homepage_localbusiness": {
+    "comment": "Deploy to homepage (/) via RankMath or custom JSON-LD block",
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "MCC Electric",
+    "alternateName": "MCC Electric Inc",
+    "description": "Licensed and insured 24-hour electrician serving Chicago and surrounding areas. Residential and commercial electrical services with same-day availability.",
+    "image": "https://www.chicagoselectrician.com/wp-content/uploads/2012/06/logo2.png",
+    "url": "https://www.chicagoselectrician.com",
+    "telephone": "+1 847-401-8393",
+    "email": "info@mccelectricinc.com",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "207 E Ohio St Ste 308",
+      "addressLocality": "Chicago",
+      "addressRegion": "IL",
+      "postalCode": "60611",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "41.8924034",
+      "longitude": "-87.6219606"
+    },
+    "openingHours": [
+      "Mo-Fr 08:00-17:00",
+      "Sa 09:00-14:00",
+      "Su closed"
+    ],
+    "areaServed": {
+      "@type": "GeoCircle",
+      "geoMidpoint": {
+        "@type": "GeoCoordinates",
+        "latitude": "41.8924034",
+        "longitude": "-87.6219606"
+      },
+      "geoRadius": "20 km",
+      "name": "Chicago metropolitan area"
+    },
+    "priceRange": "$$",
+    "sameAs": [
+      "https://www.facebook.com/MccElectricInc",
+      "https://www.linkedin.com/company/mcc-electric-inc/",
+      "https://www.yelp.com/biz/mcc-electric-chicago",
+      "https://www.pinterest.com/chicagos_electrician/"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "ratingCount": "150",
+      "reviewCount": "150"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "contactType": "Customer Service",
+      "telephone": "+1 847-401-8393",
+      "areaServed": ["IL", "US"],
+      "availableLanguage": ["en"]
+    }
+  },
+  
+  "commercial_service": {
+    "comment": "Deploy to /commercial-electrician/ page via RankMath",
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Commercial Electrical Services",
+    "description": "Professional commercial electrician services for offices, retail, multi-family buildings, factories, and manufacturers in Chicago. Same-day service available. 24/7 emergency electricians on call.",
+    "image": "https://www.chicagoselectrician.com/wp-content/uploads/2024/03/commercial-service.jpg",
+    "provider": {
+      "@type": "LocalBusiness",
+      "name": "MCC Electric",
+      "telephone": "+1 847-401-8393",
+      "url": "https://www.chicagoselectrician.com"
+    },
+    "areaServed": [
+      {
+        "@type": "City",
+        "name": "Chicago",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "IL",
+          "addressCountry": "US"
+        }
+      }
+    ],
+    "serviceType": [
+      "Electrical Installation",
+      "Electrical Repair",
+      "Electrical Maintenance"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "Contact for quote",
+      "availability": "Call for availability",
+      "url": "https://www.chicagoselectrician.com/contact-us-free-estimate-for-your-electrical-job/"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "ratingCount": "150"
+    },
+    "serviceCategory": "Electrical Installation and Repair",
+    "hasOfferingDetails": [
+      {
+        "@type": "OfferingDetails",
+        "name": "Indoor Lighting",
+        "description": "LED lighting, recessed lighting, decorative and custom lighting solutions for commercial spaces"
+      },
+      {
+        "@type": "OfferingDetails",
+        "name": "Generators",
+        "description": "Commercial-grade generator installation, repair, and maintenance with automatic transfer switches"
+      },
+      {
+        "@type": "OfferingDetails",
+        "name": "Panel & Circuit Breaker Upgrades",
+        "description": "Electrical panel replacement and circuit breaker upgrades for improved safety and capacity"
+      },
+      {
+        "@type": "OfferingDetails",
+        "name": "EV Charger Installation",
+        "description": "Electric vehicle charging station installation and wiring for commercial properties"
+      },
+      {
+        "@type": "OfferingDetails",
+        "name": "Emergency Electrical Services",
+        "description": "24/7 emergency electrician for urgent repairs and power outages"
+      },
+      {
+        "@type": "OfferingDetails",
+        "name": "Tenant Build Outs",
+        "description": "Complete electrical installation for new construction and commercial renovations"
+      }
+    ]
+  },
+
+  "residential_service": {
+    "comment": "Deploy to /residential-electrician/ page via RankMath",
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Residential Electrical Services",
+    "description": "Expert residential electrician services for homes in Chicago. 24-hour emergency electrician available. Licensed and insured with over 25 years of experience.",
+    "image": "https://www.chicagoselectrician.com/wp-content/uploads/2024/02/Electricians-in-Chicago.png",
+    "provider": {
+      "@type": "LocalBusiness",
+      "name": "MCC Electric",
+      "telephone": "+1 847-401-8393",
+      "url": "https://www.chicagoselectrician.com"
+    },
+    "areaServed": [
+      {
+        "@type": "City",
+        "name": "Chicago",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "IL",
+          "addressCountry": "US"
+        }
+      }
+    ],
+    "serviceType": [
+      "Electrical Installation",
+      "Electrical Repair",
+      "Electrical Maintenance"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "Contact for quote",
+      "availability": "24/7 Emergency Service",
+      "url": "https://www.chicagoselectrician.com/contact-us-free-estimate-for-your-electrical-job/"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "ratingCount": "150"
+    },
+    "serviceCategory": "Residential Electrical Installation and Repair",
+    "hasOfferingDetails": [
+      {
+        "@type": "OfferingDetails",
+        "name": "Emergency Electrical Services",
+        "description": "24/7 emergency electrician for urgent repairs, blown fuses, and flickering lights"
+      },
+      {
+        "@type": "OfferingDetails",
+        "name": "Lighting Services",
+        "description": "Indoor and outdoor lighting installation, LED upgrades, and smart lighting solutions"
+      },
+      {
+        "@type": "OfferingDetails",
+        "name": "Electrical Cabling",
+        "description": "Professional structured cabling and electrical wiring for homes"
+      },
+      {
+        "@type": "OfferingDetails",
+        "name": "General Electrical Repairs",
+        "description": "Panel replacements, outlet issues, surge protection, and circuit breaker repairs"
+      },
+      {
+        "@type": "OfferingDetails",
+        "name": "Power Backup Systems",
+        "description": "Generator installation and maintenance for whole-house backup power"
+      },
+      {
+        "@type": "OfferingDetails",
+        "name": "Security Systems",
+        "description": "Installation of cameras, alarms, motion detectors, and smart home integration"
+      }
+    ]
+  },
+
+  "notes": {
+    "homepage": "Deploy as LocalBusiness - include aggregateRating if GBP data available",
+    "services": "Deploy both Service schemas on respective pages",
+    "validation": "Use Google Rich Results Test (https://search.google.com/test/rich-results) after deployment",
+    "geoCoordinates": "41.8924034, -87.6219606 - Verified for 207 E Ohio St, Chicago, IL 60611",
+    "serviceArea": "20 km radius from primary office - Adjust if needed based on actual service area",
+    "hours": "Currently Mo-Fr 08:00-17:00. Update with complete schedule including 24/7 emergency if applicable",
+    "address": "Primary address used: 207 E Ohio St Ste 308, Chicago, IL 60611 - Confirm with owner"
+  }
+}

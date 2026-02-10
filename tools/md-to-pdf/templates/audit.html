@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{REPORT_TITLE}} — {{BUSINESS_NAME}}</title>
+  <style>{{CSS}}</style>
+</head>
+<body>
+
+  <!-- Cover Page -->
+  <div class="cover-page">
+    <div class="cover-inner">
+      <div class="cover-logo">
+        <img src="{{LOGO_URI}}" alt="LocalCatalyst.ai">
+      </div>
+      <div class="cover-report-type">{{REPORT_TYPE}}</div>
+      <div class="cover-title">{{BUSINESS_NAME}}</div>
+      <div class="cover-domain">{{DOMAIN}}</div>
+      <div class="cover-meta">
+        <div>
+          <div class="cover-meta-label">Audit Date</div>
+          <div class="cover-meta-value">{{AUDIT_DATE}}</div>
+        </div>
+        <div>
+          <div class="cover-meta-label">Prepared By</div>
+          <div class="cover-meta-value">{{PREPARED_BY}}</div>
+        </div>
+      </div>
+    </div>
+    <div class="cover-footer">CONFIDENTIAL &mdash; Prepared exclusively for {{BUSINESS_NAME}}</div>
+  </div>
+
+  <!-- Table of Contents -->
+  <div class="toc-page">
+    <h2>Table of Contents</h2>
+    <ul class="toc-list">
+      {{TOC}}
+    </ul>
+  </div>
+
+  <!-- Report Content -->
+  <div class="content">
+    {{CONTENT}}
+  </div>
+
+  <!-- Back Page -->
+  <div class="back-page">
+    <img src="{{LOGO_URI}}" alt="LocalCatalyst.ai">
+    <div class="back-company">{{COMPANY_NAME}}</div>
+    <div class="back-tagline">{{COMPANY_TAGLINE}}</div>
+    <div class="back-website">{{COMPANY_WEBSITE}}</div>
+    <div class="back-disclaimer">
+      This report was generated using the APEX SEO Methodology. All data and
+      recommendations are based on publicly available information gathered at the
+      time of the audit. Results may vary based on implementation and market conditions.
+    </div>
+  </div>
+
+</body>
+</html>

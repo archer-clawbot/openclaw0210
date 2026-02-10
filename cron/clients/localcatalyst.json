@@ -1,0 +1,9 @@
+{
+  "name": "LocalCatalyst",
+  "slug": "localcatalyst",
+  "domain": "darkgreen-moose-683278.hostingersite.com",
+  "tenantId": "localcatalyst",
+  "registeredAt": "2026-02-10T14:28:36.215Z",
+  "status": "active",
+  "maxConcurrent": 6
+}

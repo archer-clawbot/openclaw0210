@@ -1,0 +1,19 @@
+{
+  "id": "ollama-local",
+  "name": "Ollama (Local)",
+  "type": "openai-compatible",
+  "baseUrl": "http://localhost:11434/v1",
+  "apiKey": "not-needed",
+  "models": [
+    {
+      "id": "llama3.1:8b",
+      "name": "Llama 3.1 8B",
+      "contextWindow": 128000
+    },
+    {
+      "id": "deepseek-coder-v2:16b",
+      "name": "DeepSeek Coder 16B",
+      "contextWindow": 64000
+    }
+  ]
+}

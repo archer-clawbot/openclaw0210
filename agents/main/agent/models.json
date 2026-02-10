@@ -1,0 +1,64 @@
+{
+  "providers": {
+    "ollama": {
+      "baseUrl": "http://localhost:11434/v1",
+      "apiKey": "ollama",
+      "models": [
+        {
+          "id": "llama3.1:8b",
+          "name": "Llama 3.1 8B",
+          "reasoning": false,
+          "input": [
+            "text"
+          ],
+          "cost": {
+            "input": 0,
+            "output": 0,
+            "cacheRead": 0,
+            "cacheWrite": 0
+          },
+          "contextWindow": 200000,
+          "maxTokens": 8192
+        },
+        {
+          "id": "deepseek-coder-v2:16b",
+          "name": "DeepSeek Coder 16B",
+          "reasoning": false,
+          "input": [
+            "text"
+          ],
+          "cost": {
+            "input": 0,
+            "output": 0,
+            "cacheRead": 0,
+            "cacheWrite": 0
+          },
+          "contextWindow": 200000,
+          "maxTokens": 8192
+        }
+      ]
+    },
+    "openai": {
+      "baseUrl": "http://localhost:1234/v1",
+      "apiKey": "lm-studio",
+      "models": [
+        {
+          "id": "llama-3.1-tulu-3-70b",
+          "name": "Llama 3.1 Tulu 70B (Local LM Studio)",
+          "reasoning": false,
+          "input": [
+            "text"
+          ],
+          "cost": {
+            "input": 0,
+            "output": 0,
+            "cacheRead": 0,
+            "cacheWrite": 0
+          },
+          "contextWindow": 128000,
+          "maxTokens": 8192
+        }
+      ]
+    }
+  }
+}

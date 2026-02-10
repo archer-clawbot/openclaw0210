@@ -1,0 +1,164 @@
+{
+  "homepage_localbusiness": {
+    "@context": "https://schema.org",
+    "@type": ["LocalBusiness", "ElectricalContractor"],
+    "name": "MCC Electric",
+    "alternateName": "Chicago's Electrician",
+    "description": "Licensed electrical contractor providing 24/7 emergency electrical services for residential and commercial properties across Chicago and suburbs for over 25 years.",
+    "url": "https://www.chicagoselectrician.com",
+    "image": "https://www.chicagoselectrician.com/wp-content/uploads/2025/07/mcc-electric-logo.jpg",
+    "priceRange": "$$",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "376 Monaco Drive",
+      "addressLocality": "Roselle",
+      "addressRegion": "IL",
+      "postalCode": "60172",
+      "addressCountry": "US"
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "08:00",
+        "closes": "18:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Saturday"],
+        "opens": "09:00",
+        "closes": "17:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Sunday"],
+        "opens": "10:00",
+        "closes": "16:00"
+      }
+    ],
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 41.8071,
+      "longitude": -88.0357
+    },
+    "areaServed": [
+      {
+        "@type": "City",
+        "name": "Chicago, IL"
+      },
+      {
+        "@type": "City",
+        "name": "Roselle, IL"
+      },
+      {
+        "@type": "City",
+        "name": "Oak Park, IL"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Cook County, IL"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "DuPage County, IL"
+      }
+    ],
+    "foundingDate": "1999",
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "contactType": "Customer Service",
+      "availableLanguage": "en"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "ratingCount": "150",
+      "bestRating": "5",
+      "worstRating": "1"
+    }
+  },
+  "residential_service": {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Residential Electrical Services",
+    "description": "Professional residential electrical services including lighting installation, panel upgrades, rewiring, repairs, and emergency services for homes across Chicago.",
+    "serviceType": "Electrical Services",
+    "provider": {
+      "@type": "LocalBusiness",
+      "name": "MCC Electric",
+      "url": "https://www.chicagoselectrician.com"
+    },
+    "areaServed": {
+      "@type": "AdministrativeArea",
+      "name": "Chicago, IL and surrounding suburbs"
+    },
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "priceRange": "$$"
+    }
+  },
+  "emergency_service": {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Emergency Electrical Services",
+    "description": "24/7 emergency electrical services available anytime for urgent electrical issues in Chicago area homes and businesses.",
+    "serviceType": "Emergency Electrical Services",
+    "provider": {
+      "@type": "LocalBusiness",
+      "name": "MCC Electric",
+      "url": "https://www.chicagoselectrician.com"
+    },
+    "areaServed": {
+      "@type": "AdministrativeArea",
+      "name": "Chicago, IL and surrounding suburbs"
+    },
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "priceRange": "$$"
+    }
+  },
+  "commercial_service": {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Commercial Electrical Services",
+    "description": "Comprehensive commercial electrical services including tenant buildouts, new construction, rewiring, and code compliance for Chicago businesses.",
+    "serviceType": "Commercial Electrical Services",
+    "provider": {
+      "@type": "LocalBusiness",
+      "name": "MCC Electric",
+      "url": "https://www.chicagoselectrician.com"
+    },
+    "areaServed": {
+      "@type": "AdministrativeArea",
+      "name": "Chicago, IL and surrounding suburbs"
+    },
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "priceRange": "$$$"
+    }
+  },
+  "lighting_service": {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Lighting Installation Services",
+    "description": "Professional lighting installation including indoor lighting, outdoor lighting, LED upgrades, recessed lighting, and landscape lighting.",
+    "serviceType": "Lighting Installation",
+    "provider": {
+      "@type": "LocalBusiness",
+      "name": "MCC Electric",
+      "url": "https://www.chicagoselectrician.com"
+    },
+    "areaServed": {
+      "@type": "AdministrativeArea",
+      "name": "Chicago, IL and surrounding suburbs"
+    },
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "priceRange": "$$"
+    }
+  }
+}

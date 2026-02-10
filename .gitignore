@@ -1,0 +1,46 @@
+# Secrets & credentials
+.env
+.env.local
+credentials/
+agents/*/agent/auth-profiles.json
+devices/paired.json
+devices/pending.json
+
+# Browser user data (cookies, sessions, caches)
+browser/
+
+# Dependencies
+node_modules/
+
+# Build / generated
+dist/
+.venv/
+mission-control/convex/_generated/
+
+# Logs & state
+cron/dispatcher.log
+cron/state/
+agents/*/sessions/*.jsonl
+agents/*/sessions/*.jsonl.deleted.*
+agents/*/sessions/*.jsonl.lock
+
+# Backups & archives
+*.zip
+*.bak
+*.bak.*
+openclaw.json.backup
+openclaw-broken-backup.json
+openclaw-cleanup-instructions.md
+website-build-pipeline-extracted.txt
+
+# OS / editor
+nul
+Thumbs.db
+.DS_Store
+*.swp
+.claude/
+
+# Misc
+update-check.json
+workspace/licenses.json
+workspace/skills/trello/

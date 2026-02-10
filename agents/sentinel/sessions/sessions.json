@@ -1,0 +1,40 @@
+{
+  "agent:sentinel:cron:b8890acc-185c-4739-8248-988d0660ca46": {
+    "sessionId": "adc2c870-83c5-4a33-a76e-88ef621b3314",
+    "updatedAt": 1770661165437,
+    "systemSent": true,
+    "model": "claude-haiku-4-5",
+    "contextTokens": 200000,
+    "skillsSnapshot": {
+      "prompt": "",
+      "skills": [],
+      "resolvedSkills": [],
+      "version": 0
+    },
+    "modelProvider": "anthropic",
+    "inputTokens": 12,
+    "outputTokens": 113,
+    "totalTokens": 47983
+  },
+  "agent:sentinel:slack:channel:c0adup40414": {
+    "chatType": "channel",
+    "channel": "slack",
+    "groupId": "c0adup40414",
+    "displayName": "slack:g-c0adup40414",
+    "origin": {
+      "label": "slack:channel:C0ADUP40414",
+      "provider": "slack",
+      "surface": "slack",
+      "chatType": "channel",
+      "from": "slack:channel:C0ADUP40414",
+      "to": "channel:C0ADUP40414"
+    },
+    "sessionId": "fa338015-36ba-4dcc-8170-03a3d39e1977",
+    "updatedAt": 1770661312233,
+    "deliveryContext": {
+      "channel": "slack"
+    },
+    "lastChannel": "slack",
+    "sessionFile": "C:\\Users\\spart\\.openclaw\\agents\\sentinel\\sessions\\fa338015-36ba-4dcc-8170-03a3d39e1977.jsonl"
+  }
+}

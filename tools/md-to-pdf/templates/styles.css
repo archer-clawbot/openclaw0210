@@ -1,0 +1,451 @@
+/* ============================================================
+   LocalCatalyst.ai — PDF Report Styles
+   ============================================================ */
+
+/* --- Reset & Base --- */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html {
+  font-size: 10pt;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+body {
+  font-family: {{FONT_BODY}};
+  color: {{COLOR_TEXT}};
+  line-height: 1.55;
+  background: #fff;
+}
+
+/* --- Cover Page --- */
+.cover-page {
+  page-break-after: always;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 0;
+  position: relative;
+  background: linear-gradient(145deg, {{COLOR_PRIMARY}} 0%, #0f1b33 100%);
+  color: {{COLOR_WHITE}};
+}
+
+.cover-inner {
+  padding: 80px 60px 60px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.cover-logo {
+  margin-bottom: 48px;
+}
+
+.cover-logo img {
+  height: 48px;
+  width: auto;
+  filter: brightness(0) invert(1);
+}
+
+.cover-report-type {
+  font-size: 11pt;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  color: {{COLOR_SECONDARY}};
+  margin-bottom: 16px;
+}
+
+.cover-title {
+  font-size: 32pt;
+  font-weight: 800;
+  line-height: 1.15;
+  margin-bottom: 8px;
+  letter-spacing: -0.5px;
+}
+
+.cover-domain {
+  font-size: 14pt;
+  font-weight: 400;
+  color: {{COLOR_SECONDARY}};
+  margin-bottom: 48px;
+}
+
+.cover-meta {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px 40px;
+  font-size: 10pt;
+  border-top: 1px solid rgba(255,255,255,0.15);
+  padding-top: 24px;
+  max-width: 500px;
+}
+
+.cover-meta-label {
+  font-size: 8pt;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  color: rgba(255,255,255,0.5);
+  margin-bottom: 2px;
+}
+
+.cover-meta-value {
+  font-weight: 600;
+}
+
+.cover-footer {
+  padding: 20px 60px;
+  font-size: 8pt;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: rgba(255,255,255,0.35);
+  border-top: 1px solid rgba(255,255,255,0.08);
+}
+
+/* --- Table of Contents --- */
+.toc-page {
+  page-break-after: always;
+  padding: 60px;
+}
+
+.toc-page h2 {
+  font-size: 18pt;
+  font-weight: 700;
+  color: {{COLOR_PRIMARY}};
+  margin-bottom: 32px;
+  padding-bottom: 12px;
+  border-bottom: 3px solid {{COLOR_SECONDARY}};
+}
+
+.toc-list {
+  list-style: none;
+  counter-reset: none;
+}
+
+.toc-item {
+  display: flex;
+  align-items: baseline;
+  padding: 8px 0;
+  font-size: 11pt;
+  border-bottom: 1px dotted {{COLOR_BORDER}};
+}
+
+.toc-item:last-child {
+  border-bottom: none;
+}
+
+.toc-number {
+  font-weight: 700;
+  color: {{COLOR_SECONDARY}};
+  min-width: 32px;
+}
+
+.toc-label {
+  flex: 1;
+  font-weight: 500;
+}
+
+.toc-page-hint {
+  color: {{COLOR_TEXT_LIGHT}};
+  font-size: 9pt;
+  margin-left: 8px;
+}
+
+/* --- Content Area --- */
+.content {
+  padding: 0 60px 40px;
+}
+
+/* --- Headings --- */
+h1 {
+  font-size: 22pt;
+  font-weight: 800;
+  color: {{COLOR_PRIMARY}};
+  margin: 0 0 16px;
+  line-height: 1.2;
+}
+
+h2 {
+  font-size: 16pt;
+  font-weight: 700;
+  color: {{COLOR_PRIMARY}};
+  margin: 32px 0 12px;
+  padding-bottom: 6px;
+  border-bottom: 2px solid {{COLOR_SECONDARY}};
+  line-height: 1.3;
+}
+
+h3 {
+  font-size: 12pt;
+  font-weight: 700;
+  color: {{COLOR_PRIMARY}};
+  margin: 20px 0 8px;
+  line-height: 1.3;
+}
+
+h4 {
+  font-size: 10.5pt;
+  font-weight: 700;
+  color: {{COLOR_TEXT}};
+  margin: 16px 0 6px;
+}
+
+/* --- Section Wrappers --- */
+.report-section {
+  page-break-before: always;
+  padding-top: 10px;
+}
+
+.report-section:first-child {
+  page-break-before: avoid;
+}
+
+/* --- Paragraphs & Inline --- */
+p {
+  margin: 8px 0;
+  line-height: 1.6;
+}
+
+strong {
+  font-weight: 700;
+  color: {{COLOR_PRIMARY}};
+}
+
+em {
+  font-style: italic;
+}
+
+a {
+  color: {{COLOR_SECONDARY}};
+  text-decoration: none;
+}
+
+/* --- Lists --- */
+ul, ol {
+  margin: 8px 0 8px 24px;
+  line-height: 1.6;
+}
+
+li {
+  margin-bottom: 3px;
+}
+
+li > ul, li > ol {
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+
+/* --- Tables --- */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 12px 0 16px;
+  font-size: 9pt;
+  line-height: 1.4;
+  page-break-inside: auto;
+}
+
+thead {
+  display: table-header-group;
+}
+
+thead th {
+  background: {{COLOR_PRIMARY}};
+  color: {{COLOR_WHITE}};
+  font-weight: 600;
+  text-align: left;
+  padding: 8px 10px;
+  font-size: 8.5pt;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  border: 1px solid {{COLOR_PRIMARY}};
+  white-space: nowrap;
+}
+
+tbody tr {
+  page-break-inside: avoid;
+}
+
+tbody tr:nth-child(even) {
+  background: {{COLOR_LIGHT}};
+}
+
+tbody td {
+  padding: 6px 10px;
+  border: 1px solid {{COLOR_BORDER}};
+  vertical-align: top;
+}
+
+/* Bold cells in first column */
+tbody td:first-child {
+  font-weight: 600;
+  color: {{COLOR_PRIMARY}};
+}
+
+/* Priority score emphasis */
+tbody td strong {
+  color: {{COLOR_ACCENT}};
+  font-size: 10pt;
+}
+
+/* --- Scorecard (code blocks with tree characters) --- */
+.scorecard {
+  font-family: {{FONT_MONO}};
+  font-size: 9pt;
+  line-height: 1.7;
+  background: {{COLOR_LIGHT}};
+  border: 1px solid {{COLOR_BORDER}};
+  border-radius: 6px;
+  padding: 20px 24px;
+  margin: 12px 0 16px;
+  page-break-inside: avoid;
+  white-space: pre;
+  overflow-x: visible;
+}
+
+.scorecard .route-header {
+  font-weight: 700;
+  color: {{COLOR_PRIMARY}};
+  font-size: 10pt;
+}
+
+.scorecard .route-avg {
+  font-weight: 700;
+}
+
+.scorecard .overall-line {
+  font-weight: 800;
+  font-size: 11pt;
+  color: {{COLOR_PRIMARY}};
+}
+
+.scorecard .score-divider {
+  color: {{COLOR_BORDER}};
+}
+
+/* Score color classes */
+.score-critical { color: {{COLOR_DANGER}}; font-weight: 700; }   /* 0-2 */
+.score-low      { color: {{COLOR_WARNING}}; font-weight: 700; }  /* 3-4 */
+.score-mid      { color: {{COLOR_ACCENT}}; font-weight: 700; }   /* 5-6 */
+.score-good     { color: {{COLOR_SECONDARY}}; font-weight: 700; } /* 7-8 */
+.score-great    { color: {{COLOR_SUCCESS}}; font-weight: 700; }  /* 9-10 */
+
+/* --- Generic Code Blocks --- */
+pre {
+  font-family: {{FONT_MONO}};
+  font-size: 8.5pt;
+  line-height: 1.6;
+  background: {{COLOR_LIGHT}};
+  border: 1px solid {{COLOR_BORDER}};
+  border-radius: 4px;
+  padding: 16px 20px;
+  margin: 10px 0 14px;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  page-break-inside: avoid;
+}
+
+code {
+  font-family: {{FONT_MONO}};
+  font-size: 9pt;
+  background: {{COLOR_LIGHT}};
+  padding: 1px 4px;
+  border-radius: 3px;
+}
+
+pre code {
+  background: none;
+  padding: 0;
+}
+
+/* --- Status Indicators --- */
+.status-pass {
+  color: {{COLOR_SUCCESS}};
+  font-weight: 700;
+}
+
+.status-fail {
+  color: {{COLOR_DANGER}};
+  font-weight: 700;
+}
+
+.status-warn {
+  color: {{COLOR_WARNING}};
+  font-weight: 700;
+}
+
+/* --- Horizontal Rules --- */
+hr {
+  border: none;
+  border-top: 1px solid {{COLOR_BORDER}};
+  margin: 24px 0;
+}
+
+/* --- Blockquotes --- */
+blockquote {
+  border-left: 4px solid {{COLOR_SECONDARY}};
+  padding: 8px 16px;
+  margin: 12px 0;
+  background: {{COLOR_LIGHT}};
+  color: {{COLOR_TEXT_LIGHT}};
+  font-style: italic;
+}
+
+/* --- Back Page --- */
+.back-page {
+  page-break-before: always;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background: {{COLOR_LIGHT}};
+  padding: 60px;
+}
+
+.back-page img {
+  height: 40px;
+  margin-bottom: 24px;
+}
+
+.back-page .back-company {
+  font-size: 14pt;
+  font-weight: 700;
+  color: {{COLOR_PRIMARY}};
+  margin-bottom: 4px;
+}
+
+.back-page .back-tagline {
+  font-size: 10pt;
+  color: {{COLOR_TEXT_LIGHT}};
+  margin-bottom: 16px;
+}
+
+.back-page .back-website {
+  font-size: 10pt;
+  color: {{COLOR_SECONDARY}};
+  font-weight: 600;
+}
+
+.back-page .back-disclaimer {
+  margin-top: 32px;
+  font-size: 7.5pt;
+  color: {{COLOR_NEUTRAL}};
+  max-width: 400px;
+  line-height: 1.5;
+}
+
+/* --- Print Helpers --- */
+@media print {
+  body { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  .report-section { page-break-before: always; }
+  .report-section:first-child { page-break-before: avoid; }
+  table { page-break-inside: auto; }
+  thead { display: table-header-group; }
+  tr { page-break-inside: avoid; }
+  .scorecard { page-break-inside: avoid; }
+  .cover-page { page-break-after: always; }
+}

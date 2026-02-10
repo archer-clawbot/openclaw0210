@@ -1,0 +1,159 @@
+{
+  "agent:specs:dispatch:698a12c65282ddd477959b80": {
+    "sessionId": "9f94a499-a22b-4eb7-92d4-f31321c5774e",
+    "updatedAt": 1770678724078,
+    "skillsSnapshot": {
+      "prompt": "",
+      "skills": [],
+      "resolvedSkills": [],
+      "version": 0
+    },
+    "modelProvider": "anthropic",
+    "model": "claude-haiku-4-5",
+    "contextTokens": 200000,
+    "abortedLastRun": false,
+    "inputTokens": 8,
+    "outputTokens": 748,
+    "totalTokens": 98112
+  },
+  "agent:specs:slack:channel:specs": {
+    "chatType": "channel",
+    "channel": "slack",
+    "groupId": "specs",
+    "displayName": "slack:g-specs",
+    "origin": {
+      "label": "slack:channel:specs",
+      "provider": "slack",
+      "surface": "slack",
+      "chatType": "channel",
+      "from": "slack:channel:specs",
+      "to": "channel:specs"
+    },
+    "sessionId": "a0f4148e-3848-482f-973c-92ff967e3b2c",
+    "updatedAt": 1770738589223,
+    "deliveryContext": {
+      "channel": "slack"
+    },
+    "lastChannel": "slack",
+    "sessionFile": "C:\\Users\\spart\\.openclaw\\agents\\specs\\sessions\\a0f4148e-3848-482f-973c-92ff967e3b2c.jsonl"
+  },
+  "agent:specs:dispatch:698a12ca455fc2e055f36563": {
+    "sessionId": "39cda871-7336-4c61-9fab-2f365da6354a",
+    "updatedAt": 1770685113865,
+    "skillsSnapshot": {
+      "prompt": "",
+      "skills": [],
+      "resolvedSkills": [],
+      "version": 0
+    },
+    "modelProvider": "anthropic",
+    "model": "claude-haiku-4-5",
+    "contextTokens": 200000,
+    "abortedLastRun": false,
+    "inputTokens": 13,
+    "outputTokens": 977,
+    "totalTokens": 57947
+  },
+  "agent:specs:dispatch:698a12cbfb0df00f9f977165": {
+    "sessionId": "912facb0-c145-433f-b6d4-d92df625f05a",
+    "updatedAt": 1770685194642,
+    "skillsSnapshot": {
+      "prompt": "",
+      "skills": [],
+      "resolvedSkills": [],
+      "version": 0
+    },
+    "modelProvider": "anthropic",
+    "model": "claude-haiku-4-5",
+    "contextTokens": 200000,
+    "abortedLastRun": false,
+    "inputTokens": 11,
+    "outputTokens": 666,
+    "totalTokens": 67122
+  },
+  "agent:specs:dispatch:698a12ccdd68bb7cd1866459": {
+    "sessionId": "a981a67a-cb96-4d79-ac2f-63aec7c787a9",
+    "updatedAt": 1770685258487,
+    "skillsSnapshot": {
+      "prompt": "",
+      "skills": [],
+      "resolvedSkills": [],
+      "version": 0
+    },
+    "modelProvider": "anthropic",
+    "model": "claude-haiku-4-5",
+    "contextTokens": 200000,
+    "abortedLastRun": false,
+    "inputTokens": 13,
+    "outputTokens": 1343,
+    "totalTokens": 115355
+  },
+  "agent:specs:dispatch:698b4071c8e29f4d81b36d08": {
+    "sessionId": "fdc17cc1-55a4-4201-ba5b-3f356f449775",
+    "updatedAt": 1770738596278,
+    "skillsSnapshot": {
+      "prompt": "",
+      "skills": [],
+      "resolvedSkills": [],
+      "version": 0
+    },
+    "modelProvider": "anthropic",
+    "model": "claude-haiku-4-5",
+    "contextTokens": 200000,
+    "abortedLastRun": false,
+    "inputTokens": 10,
+    "outputTokens": 731,
+    "totalTokens": 51887
+  },
+  "agent:specs:dispatch:698b4073936ef15cb94e6d2c": {
+    "sessionId": "2c987bd5-e381-43af-933b-570577bd28e4",
+    "updatedAt": 1770738564145,
+    "skillsSnapshot": {
+      "prompt": "",
+      "skills": [],
+      "resolvedSkills": [],
+      "version": 0
+    },
+    "modelProvider": "anthropic",
+    "model": "claude-haiku-4-5",
+    "contextTokens": 200000,
+    "abortedLastRun": false,
+    "inputTokens": 1,
+    "outputTokens": 766,
+    "totalTokens": 48830
+  },
+  "agent:specs:dispatch:698b407633870e4b3d2b4e09": {
+    "sessionId": "6a0b1c58-63f4-4067-bd4d-7a17ccf8372d",
+    "updatedAt": 1770738531256,
+    "skillsSnapshot": {
+      "prompt": "",
+      "skills": [],
+      "resolvedSkills": [],
+      "version": 0
+    },
+    "modelProvider": "anthropic",
+    "model": "claude-haiku-4-5",
+    "contextTokens": 200000,
+    "abortedLastRun": false,
+    "inputTokens": 9,
+    "outputTokens": 435,
+    "totalTokens": 21035
+  },
+  "agent:specs:dispatch:698b40799eb2c65ecb45e5fb": {
+    "sessionId": "6692e6fe-8402-40f9-96a1-c39de7df4b3e",
+    "updatedAt": 1770738660223,
+    "skillsSnapshot": {
+      "prompt": "",
+      "skills": [],
+      "resolvedSkills": [],
+      "version": 0
+    },
+    "modelProvider": "anthropic",
+    "model": "claude-haiku-4-5",
+    "contextTokens": 200000,
+    "abortedLastRun": false,
+    "inputTokens": 7,
+    "outputTokens": 770,
+    "totalTokens": 25014
+  }
+}
