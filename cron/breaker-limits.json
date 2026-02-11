@@ -1,0 +1,17 @@
+{
+  "defaults": {
+    "hourly": 5,
+    "daily": 40
+  },
+  "fleet": {
+    "hourly": 30,
+    "daily": 200
+  },
+  "thresholds": {
+    "warning": 80,
+    "critical": 95,
+    "trip": 100
+  },
+  "cooldownMinutes": 15,
+  "agents": {}
+}

@@ -1,0 +1,19 @@
+{
+  "agent:forge:main": {
+    "sessionId": "7b773bf2-1db4-419f-9283-2db869ee499e",
+    "updatedAt": 1770775623085,
+    "skillsSnapshot": {
+      "prompt": "",
+      "skills": [],
+      "resolvedSkills": [],
+      "version": 0
+    },
+    "modelProvider": "anthropic",
+    "model": "claude-opus-4-5",
+    "contextTokens": 200000,
+    "abortedLastRun": false,
+    "inputTokens": 8,
+    "outputTokens": 2605,
+    "totalTokens": 68133
+  }
+}

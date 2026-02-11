@@ -86,7 +86,7 @@ const MissionQueue: React.FC<MissionQueueProps> = ({ selectedTaskId, onSelectTas
 	if (tasks === undefined || agents === undefined) {
 		return (
 			<main className="[grid-area:main] bg-secondary flex flex-col overflow-hidden animate-pulse">
-				<div className="h-[65px] bg-white border-b border-border" />
+				<div className="h-[65px] bg-card border-b border-border" />
 				<div className="flex-1 grid grid-cols-5 gap-px bg-border">
 					{[...Array(5)].map((_, i) => (
 						<div key={i} className="bg-secondary" />
@@ -224,7 +224,7 @@ const MissionQueue: React.FC<MissionQueueProps> = ({ selectedTaskId, onSelectTas
 
 		return (
 			<main className="[grid-area:main] bg-secondary flex min-h-0 flex-col overflow-hidden">
-				<div className="shrink-0 flex items-center justify-between px-6 py-5 bg-white border-b border-border">
+				<div className="shrink-0 flex items-center justify-between px-6 py-5 bg-card border-b border-border">
 				<div className="text-[11px] font-bold tracking-widest text-muted-foreground flex items-center gap-2">
 					<span className="w-1.5 h-1.5 bg-[var(--accent-orange)] rounded-full" />{" "}
 					MISSION QUEUE
@@ -234,7 +234,7 @@ const MissionQueue: React.FC<MissionQueueProps> = ({ selectedTaskId, onSelectTas
 						<span className="text-sm">📦</span>{" "}
 						{tasks.filter((t) => t.status === "inbox").length}
 					</div>
-					<div className="text-[11px] font-semibold px-3 py-1 rounded bg-[#f0f0f0] text-[#999]">
+					<div className="text-[11px] font-semibold px-3 py-1 rounded bg-muted text-muted-foreground">
 						{tasks.filter((t) => t.status !== "done" && t.status !== "archived").length} active
 					</div>
 					<button
@@ -242,13 +242,13 @@ const MissionQueue: React.FC<MissionQueueProps> = ({ selectedTaskId, onSelectTas
 						className={`text-[11px] font-semibold px-3 py-1 rounded flex items-center gap-1.5 transition-colors ${
 							showArchived
 								? "bg-[var(--accent-blue)] text-white"
-								: "bg-[#f0f0f0] text-[#999] hover:bg-[#e5e5e5]"
+								: "bg-muted text-muted-foreground hover:bg-accent"
 						}`}
 					>
 						<IconArchive size={14} />
 						{showArchived ? "Hide Archived" : "Show Archived"}
 						{archivedCount > 0 && (
-							<span className={`px-1.5 rounded-full text-[10px] ${showArchived ? "bg-white/20" : "bg-[#d0d0d0]"}`}>
+							<span className={`px-1.5 rounded-full text-[10px] ${showArchived ? "bg-white/20" : "bg-muted-foreground/30"}`}>
 								{archivedCount}
 							</span>
 						)}

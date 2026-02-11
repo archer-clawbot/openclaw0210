@@ -108,6 +108,28 @@ http.route({
 	}),
 });
 
+// Record token usage + cost for a completed task
+http.route({
+	path: "/dispatcher/tasks/usage",
+	method: "POST",
+	handler: httpAction(async (ctx, request) => {
+		const body = await request.json();
+		const result = await ctx.runMutation(api.dispatcher.recordUsage, {
+			taskId: body.taskId,
+			tenantId: body.tenantId,
+			inputTokens: body.inputTokens,
+			outputTokens: body.outputTokens,
+			cacheReadTokens: body.cacheReadTokens,
+			cacheWriteTokens: body.cacheWriteTokens,
+			totalCost: body.totalCost,
+		});
+		return new Response(JSON.stringify(result), {
+			status: 200,
+			headers: { "Content-Type": "application/json" },
+		});
+	}),
+});
+
 // Promote tasks from one status to another
 http.route({
 	path: "/dispatcher/tasks/promote",

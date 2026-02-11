@@ -11,6 +11,13 @@ const fs = require('fs');
 const convex = require('./lib/convex');
 const { GatewayClient } = require('./lib/gateway');
 const clients = require('./lib/clients');
+const observatory = require('./lib/observatory');
+const breakers = require('./lib/breakers');
+const sanitizer = require('./lib/sanitizer');
+const credentials = require('./lib/credentials');
+const awareness = require('./lib/awareness');
+const router = require('./lib/router');
+const compressor = require('./lib/compressor');
 
 // ── Constants ─────────────────────────────────────────────────────────
 
@@ -40,6 +47,7 @@ const AGENT_MODEL = {
   lookout:  'haiku',
   ledger:   'haiku',
   sentinel: 'haiku',
+  forge:    'opus',
 };
 
 const LOG_FILE = path.join(__dirname, 'dispatcher.log');
@@ -69,7 +77,8 @@ function log(msg) {
   fs.appendFileSync(LOG_FILE, line + '\n');
 }
 
-// Agents that receive WordPress credentials + execution instructions
+// Agents that receive WordPress credentials + execution instructions.
+// Now driven by credential manifests — agents with "wordpress" clientAccess.
 const EXECUTION_AGENTS = new Set(['wrench', 'builder']);
 
 // Chain map: when an analysis agent completes, auto-create a follow-up task for the execution agent.
@@ -79,6 +88,7 @@ const CHAIN_MAP = {
   scout: null,   // research only, no follow-up
   mozi:  null,   // strategy only, no follow-up
   scribe: { executionAgent: 'wrench', verb: 'Publish' },
+  forge:  null,   // overnight improvement, no follow-up
 };
 
 function buildTaskMessage(task, client, chainContext) {
@@ -96,8 +106,8 @@ function buildTaskMessage(task, client, chainContext) {
     '',
   ];
 
-  // Execution agents (wrench, builder) get WP credentials + strict execution rules
-  if (EXECUTION_AGENTS.has(agentId) && client.access?.wordpress) {
+  // Credential-gated: only agents with "wordpress" clientAccess get WP credentials
+  if (credentials.hasClientAccess(agentId, 'wordpress') && client.access?.wordpress) {
     const wp = client.access.wordpress;
     const auth = Buffer.from(`${wp.user}:${wp.appPassword}`).toString('base64');
 
@@ -150,6 +160,14 @@ function buildTaskMessage(task, client, chainContext) {
   }
 
   lines.push(`Save deliverables to: ${deliverables}\\`);
+
+  // Awareness injection — append relevant skill/training docs based on task content
+  const taskText = `${task.title} ${task.description || ''}`;
+  const injection = awareness.buildInjection(taskText, agentId);
+  if (injection.injectionBlock) {
+    lines.push('', injection.injectionBlock);
+  }
+
   return lines.join('\n');
 }
 
@@ -220,7 +238,7 @@ async function pollClient(gw, client, dryRun) {
     // Skip tasks without a runId (not yet dispatched to gateway)
     if (!task.openclawRunId) {
       // This task needs to be dispatched
-      if (!AGENT_MODEL[task.agentId]) {
+      if (!router.isKnownAgent(task.agentId)) {
         log(`  [${slug}] skipping (unknown agent "${task.agentId}"): ${task.title}`);
         continue;
       }
@@ -243,22 +261,41 @@ async function pollClient(gw, client, dryRun) {
         continue;
       }
 
+      // Circuit breaker — skip dispatch if agent or fleet is over cost limit
+      const breakerResult = breakers.check(task.agentId, log);
+      if (!breakerResult.allowed) {
+        log(`  [${slug}] breaker ${breakerResult.state} for ${task.agentId}: ${breakerResult.reason} — skipping "${task.title}"`);
+        continue;
+      }
+
       try {
+        // Sanitize task fields against prompt injection
+        const cleanTask = sanitizer.sanitizeTask(task);
+        if (cleanTask.title !== task.title || cleanTask.description !== task.description) {
+          log(`  [${slug}] sanitizer redacted injection attempt in "${task.title}"`);
+        }
+
         // Detect chained tasks
         let chainContext = null;
-        const srcMatch = (task.description || '').match(/Source deliverables:\s*(.+)/);
+        const srcMatch = (cleanTask.description || '').match(/Source deliverables:\s*(.+)/);
         if (srcMatch) {
           chainContext = { deliverablePath: srcMatch[1].trim() };
         }
-        const message = buildTaskMessage(task, client, chainContext);
+        const message = buildTaskMessage(cleanTask, client, chainContext);
+
+        // Model routing — select optimal model based on task content
+        const taskText = `${cleanTask.title} ${cleanTask.description || ''}`;
+        const routing = router.route(task.agentId, taskText);
+
         const result = await gw.dispatchAgent({
           agentId: task.agentId,
           message,
           taskId: task._id,
+          model: routing.model,
         });
 
         await convex.markDispatched(task._id, tenantId, result.runId);
-        log(`  [${slug}] dispatched: ${task.agentId} ← "${task.title}" (runId: ${result.runId})`);
+        log(`  [${slug}] dispatched: ${task.agentId} ← "${task.title}" [${routing.model}] (runId: ${result.runId})`);
         dispatched++;
       } catch (err) {
         log(`  [${slug}] dispatch error for ${task.title}: ${err.message}`);
@@ -281,6 +318,18 @@ async function pollClient(gw, client, dryRun) {
         const needsReview = !client.autoApprove;
         await convex.markCompleted(task._id, tenantId, needsReview);
         log(`  [${slug}] completed: ${task.title} → ${needsReview ? 'REVIEW' : 'DONE'}`);
+
+        // Record cost data from session JSONL
+        try {
+          const usage = observatory.getTaskCost(task.agentId, task.openclawRunId);
+          if (usage) {
+            await convex.recordUsage(task._id, tenantId, usage);
+            log(`  [${slug}] cost: $${usage.totalCost.toFixed(4)} (${usage.totalTokens} tokens)`);
+          }
+        } catch (err) {
+          log(`  [${slug}] cost tracking error: ${err.message}`);
+        }
+
         await maybeChainTask(client, task, dryRun);
         completed++;
       } else if (result.status === 'error') {
@@ -391,6 +440,85 @@ async function showStatus(filterSlug) {
 
 async function main() {
   const args = process.argv.slice(2);
+
+  // --memory
+  if (args.includes('--memory')) {
+    console.log(compressor.formatStatus());
+    return;
+  }
+
+  // --routing [text]
+  if (args.includes('--routing')) {
+    const idx = args.indexOf('--routing');
+    const testText = args[idx + 1] && !args[idx + 1].startsWith('--') ? args.slice(idx + 1).join(' ') : null;
+    if (testText) {
+      const agentIdx = args.indexOf('--agent');
+      const agentId = agentIdx !== -1 ? args[agentIdx + 1] : 'silas';
+      const result = router.route(agentId, testText);
+      console.log(`Agent: ${agentId}`);
+      console.log(`Model: ${result.model}`);
+      console.log(`Reason: ${result.reason}`);
+      if (result.rule) console.log(`Matched: "${result.rule}"`);
+    } else {
+      console.log(router.formatStatus());
+    }
+    return;
+  }
+
+  // --awareness [text]
+  if (args.includes('--awareness')) {
+    const idx = args.indexOf('--awareness');
+    const testText = args[idx + 1] && !args[idx + 1].startsWith('--') ? args.slice(idx + 1).join(' ') : null;
+    if (testText) {
+      const agentIdx = args.indexOf('--agent');
+      const agentId = agentIdx !== -1 ? args[agentIdx + 1] : 'silas';
+      const result = awareness.buildInjection(testText, agentId);
+      console.log(`Agent: ${agentId}`);
+      console.log(`Injected: ${result.injectedDocs.join(', ') || '(none)'}`);
+      console.log(`Tokens: ~${result.totalTokens}`);
+      if (result.injectionBlock) console.log('\n' + result.injectionBlock.slice(0, 500) + '...');
+    } else {
+      console.log(awareness.formatStatus());
+    }
+    return;
+  }
+
+  // --credentials
+  if (args.includes('--credentials')) {
+    console.log(credentials.formatManifestReport());
+    return;
+  }
+
+  // --breakers
+  if (args.includes('--breakers')) {
+    console.log(breakers.formatStatus());
+    return;
+  }
+
+  // --breaker-reset [agentId|all]
+  if (args.includes('--breaker-reset')) {
+    const idx = args.indexOf('--breaker-reset');
+    const target = args[idx + 1];
+    if (target === 'all') {
+      breakers.resetAll();
+      console.log('All breakers reset to CLOSED.');
+    } else if (target && !target.startsWith('--')) {
+      breakers.reset(target);
+      console.log(`Breaker for ${target} reset to CLOSED.`);
+    } else {
+      console.log('Usage: --breaker-reset <agentId|all>');
+    }
+    return;
+  }
+
+  // --costs [days]
+  if (args.includes('--costs')) {
+    const idx = args.indexOf('--costs');
+    const days = parseInt(args[idx + 1]) || 7;
+    const report = observatory.getAllAgentCosts(days);
+    console.log(observatory.formatCostReport(report, days));
+    return;
+  }
 
   // --status [slug]
   if (args.includes('--status')) {

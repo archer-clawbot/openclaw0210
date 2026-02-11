@@ -25,7 +25,11 @@ async function convexFetch(path, body) {
 
 /** Fetch tasks by tenant + status. Returns array of task objects. */
 async function queryTasks(tenantId, status) {
-  return convexFetch('/dispatcher/tasks/query', { tenantId, status });
+  const result = await convexFetch('/dispatcher/tasks/query', { tenantId, status });
+  if (!Array.isArray(result)) {
+    throw new Error(`queryTasks: expected array, got ${typeof result}: ${JSON.stringify(result).slice(0, 200)}`);
+  }
+  return result;
 }
 
 /** Mark a task as dispatched (in_progress) with an OpenClaw runId. */
@@ -48,6 +52,19 @@ async function createTask(opts) {
   return convexFetch('/dispatcher/tasks/create', opts);
 }
 
+/** Record token usage + cost for a completed task. */
+async function recordUsage(taskId, tenantId, usage) {
+  return convexFetch('/dispatcher/tasks/usage', {
+    taskId,
+    tenantId,
+    inputTokens: usage.inputTokens,
+    outputTokens: usage.outputTokens,
+    cacheReadTokens: usage.cacheReadTokens || 0,
+    cacheWriteTokens: usage.cacheWriteTokens || 0,
+    totalCost: usage.totalCost,
+  });
+}
+
 /** Promote tasks from one status to another (backfill). */
 async function promoteTasks(tenantId, fromStatus, toStatus, limit) {
   return convexFetch('/dispatcher/tasks/promote', { tenantId, fromStatus, toStatus, limit });
@@ -60,4 +77,5 @@ module.exports = {
   markFailed,
   createTask,
   promoteTasks,
+  recordUsage,
 };

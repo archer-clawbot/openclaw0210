@@ -1,0 +1,119 @@
+{
+  "_comment": "Awareness Engine document registry. Maps documents to trigger keywords for automatic context injection.",
+  "config": {
+    "maxActiveInjections": 3,
+    "maxInjectionTokens": 5000,
+    "keywordThreshold": 0.3,
+    "stalenessWindow": 5
+  },
+  "documents": [
+    {
+      "docId": "silas_scoring",
+      "filepath": "silas/skills/scoring-framework.md",
+      "triggers": ["scorecard", "master scorecard", "priority matrix", "scoring", "APEX score", "audit score", "priority stack"],
+      "priority": 8,
+      "description": "Silas scoring framework — Master Scorecard, Priority Matrix, APEX phasing",
+      "tokenEstimate": 1200,
+      "agents": ["silas"]
+    },
+    {
+      "docId": "silas_metrics",
+      "filepath": "silas/skills/metrics.md",
+      "triggers": ["SoLV", "WVS", "client health score", "share of local voice", "weighted visibility", "geo-grid", "rank tracking metrics"],
+      "priority": 7,
+      "description": "Silas metrics — SoLV, WVS, Client Health Score formulas",
+      "tokenEstimate": 800,
+      "agents": ["silas", "lookout"]
+    },
+    {
+      "docId": "silas_audit",
+      "filepath": "silas/skills/audit-protocol.md",
+      "triggers": ["audit", "APEX audit", "site audit", "GBP discovery", "crawl", "full audit", "onboarding audit"],
+      "priority": 9,
+      "description": "Silas audit protocol — GBP discovery, crawl dispatch, audit writing rules",
+      "tokenEstimate": 1500,
+      "agents": ["silas"]
+    },
+    {
+      "docId": "silas_delivery",
+      "filepath": "silas/skills/delivery-protocol.md",
+      "triggers": ["deliverable", "PDF", "report delivery", "deliverables path", "save deliverable"],
+      "priority": 6,
+      "description": "Silas delivery protocol — output format, PDF generation, Slack summary",
+      "tokenEstimate": 600,
+      "agents": ["silas"]
+    },
+    {
+      "docId": "silas_client_ops",
+      "filepath": "silas/skills/client-ops.md",
+      "triggers": ["client lifecycle", "multi-client", "portfolio", "cost management", "budget", "API spend", "batch operations"],
+      "priority": 7,
+      "description": "Silas client ops — lifecycle phases, multi-client batching, cost rules",
+      "tokenEstimate": 500,
+      "agents": ["silas", "ledger"]
+    },
+    {
+      "docId": "silas_route1_gbp",
+      "filepath": "silas/training/ROUTE-1-GBP.md",
+      "triggers": ["GBP", "Google Business Profile", "GBP optimization", "GBP description", "GBP posts", "GBP Q&A", "GBP products", "GBP services"],
+      "priority": 8,
+      "description": "Silas Route 1 — GBP optimization procedures",
+      "tokenEstimate": 2000,
+      "agents": ["silas", "herald"]
+    },
+    {
+      "docId": "silas_route2_website",
+      "filepath": "silas/training/ROUTE-2-WEBSITE.md",
+      "triggers": ["website optimization", "on-page", "title tags", "meta description", "content optimization", "semantic silo", "grounding box", "schema"],
+      "priority": 8,
+      "description": "Silas Route 2 — Website optimization procedures",
+      "tokenEstimate": 2000,
+      "agents": ["silas", "wrench", "specs"]
+    },
+    {
+      "docId": "silas_route4_offsite",
+      "filepath": "silas/training/ROUTE-4-OFFSITE.md",
+      "triggers": ["citations", "NAP", "NAP consistency", "BrightLocal", "citation building", "directory listings", "reviews", "PBN", "expired domains", "link building"],
+      "priority": 8,
+      "description": "Silas Route 4 — Off-site SEO (citations, reviews, links)",
+      "tokenEstimate": 2000,
+      "agents": ["silas", "citadel", "ghost"]
+    },
+    {
+      "docId": "silas_route5_tracking",
+      "filepath": "silas/training/ROUTE-5-TRACKING.md",
+      "triggers": ["rank tracking", "geo-grid", "SerpAPI", "reporting", "monthly report", "QBR", "client report", "rankings"],
+      "priority": 7,
+      "description": "Silas Route 5 — Tracking & reporting procedures",
+      "tokenEstimate": 1500,
+      "agents": ["silas", "lookout"]
+    },
+    {
+      "docId": "silas_route_ai",
+      "filepath": "silas/training/ROUTE-AI-CROSSPLATFORM.md",
+      "triggers": ["LLM visibility", "AI overview", "StealthRank", "cross-platform", "YouTube SEO", "parasite SEO"],
+      "priority": 6,
+      "description": "Silas AI & Cross-Platform — LLM visibility, multi-platform strategies",
+      "tokenEstimate": 1500,
+      "agents": ["silas", "scout"]
+    },
+    {
+      "docId": "archer_workflows",
+      "filepath": "workspace/skills/workflows.md",
+      "triggers": ["workflow", "W-001", "W-002", "W-003", "W-004", "W-005", "W-006", "W-007", "W-008", "onboarding workflow", "multi-agent workflow"],
+      "priority": 9,
+      "description": "Archer workflows — W-001 through W-008 multi-agent definitions",
+      "tokenEstimate": 800,
+      "agents": ["main"]
+    },
+    {
+      "docId": "archer_trello",
+      "filepath": "workspace/skills/trello-task-management.md",
+      "triggers": ["Trello", "board", "card", "task board", "dispatch", "dispatcher", "client setup", "90-day playbook"],
+      "priority": 8,
+      "description": "Archer Trello/Mission Control task management skill",
+      "tokenEstimate": 2000,
+      "agents": ["main"]
+    }
+  ]
+}

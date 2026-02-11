@@ -55,7 +55,7 @@
       "updatedAtMs": 1770663209458,
       "schedule": {
         "kind": "cron",
-        "expr": "0 8 * * 0",
+        "expr": "0 9 * * 0",
         "tz": "America/Chicago"
       },
       "sessionTarget": "isolated",
@@ -65,6 +65,29 @@
         "message": "Weekly rollup task. Compile a summary of ALL agent activity from the past 7 days and deliver it to #archer.\n\n**HOW TO COMPILE:**\n1. Use sessions_list to pull recent sessions across all agents\n2. Use sessions_history to review what each agent produced this week\n3. Check the deliverables folder at C:Usersspart.openclawdeliverables for saved outputs\n\n**REPORT FORMAT:**\n\nWEEKLY ROLLUP — {date range}\n\nFor each agent that had activity:\n- **Agent Name**: {1-2 sentence summary of what they did}\n  - Deliverables: {list any saved files or completed tasks}\n  - Clients touched: {which clients got work}\n\nThen a summary section:\n- Total agent sessions this week: {count}\n- Clients with active work: {list}\n- Pending/blocked items: {anything stuck}\n- Sentinel health trend: {any recurring issues from nightly reports}\n\n**DELIVERY:**\nPost the compiled rollup to #archer Slack channel. Keep it scannable — Cody reads this over Sunday morning coffee.",
         "deliver": true,
         "channel": "slack"
+      },
+      "state": {}
+    },
+    {
+      "id": "forge-nightly",
+      "agentId": "forge",
+      "name": "Night Forge — Overnight Improvement Cycle",
+      "enabled": true,
+      "createdAtMs": 1739232000000,
+      "updatedAtMs": 1739232000000,
+      "schedule": {
+        "kind": "cron",
+        "expr": "5 2 * * *",
+        "tz": "America/Chicago"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "next-heartbeat",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Begin your nightly improvement cycle. Current time is 2:05 AM CST. Hard stop at 5:30 AM. Follow your 5-phase protocol: Harvest → Diagnose → Prescribe → Apply → Report. Budget cap: $8. Deliver morning brief to Telegram when complete.",
+        "deliver": true,
+        "channel": "telegram",
+        "to": "7302669335"
       },
       "state": {}
     }

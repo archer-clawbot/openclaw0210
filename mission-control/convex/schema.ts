@@ -60,6 +60,12 @@ export default defineSchema({
 		dispatchedAt: v.optional(v.number()),
 		completedAt: v.optional(v.number()),
 		chainFrom: v.optional(v.id("tasks")),
+		// Cost observatory fields
+		inputTokens: v.optional(v.number()),
+		outputTokens: v.optional(v.number()),
+		cacheReadTokens: v.optional(v.number()),
+		cacheWriteTokens: v.optional(v.number()),
+		totalCost: v.optional(v.number()),
 	})
 		.index("by_tenant", ["tenantId"])
 		.index("by_tenant_status", ["tenantId", "status"])

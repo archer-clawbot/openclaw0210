@@ -1,0 +1,10 @@
+{
+  "budgetCap": 8,
+  "maxAutoChanges": 5,
+  "maxLinesPerFile": 200,
+  "backupRetentionDays": 14,
+  "model": "opus",
+  "startTime": "02:05",
+  "hardStop": "05:30",
+  "timezone": "America/Chicago"
+}

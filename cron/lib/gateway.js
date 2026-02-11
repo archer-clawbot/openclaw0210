@@ -110,21 +110,23 @@ class GatewayClient {
    * Returns { runId, status: "accepted", acceptedAt }.
    * Does NOT wait for completion — use waitForAgent() for that.
    */
-  async dispatchAgent({ agentId, message, taskId }) {
+  async dispatchAgent({ agentId, message, taskId, model }) {
     await this._ensureConnected();
     const id = uuid();
     const idem = uuid();
+    const params = {
+      message,
+      idempotencyKey: idem,
+      agentId,
+      sessionKey: `dispatch:${agentId}:mission:${taskId}`,
+      deliver: false,
+    };
+    if (model) params.model = model;
     return this._request(id, {
       type: 'req',
       id,
       method: 'agent',
-      params: {
-        message,
-        idempotencyKey: idem,
-        agentId,
-        sessionKey: `dispatch:${agentId}:mission:${taskId}`,
-        deliver: false,
-      },
+      params,
     }, { expectFinal: false });
   }
 

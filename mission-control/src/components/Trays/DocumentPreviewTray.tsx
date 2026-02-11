@@ -100,15 +100,15 @@ const DocumentPreviewTray: React.FC<DocumentPreviewTrayProps> = ({
   const getTypeColor = (type: string) => {
     switch (type) {
       case "markdown":
-        return "bg-blue-100 text-blue-700";
+        return "bg-[var(--accent-blue)]/15 text-[var(--accent-blue)]";
       case "code":
-        return "bg-green-100 text-green-700";
+        return "bg-[var(--accent-green)]/15 text-[var(--accent-green)]";
       case "image":
-        return "bg-purple-100 text-purple-700";
+        return "bg-[#ce93d8]/15 text-[#ce93d8]";
       case "note":
-        return "bg-yellow-100 text-yellow-700";
+        return "bg-[var(--accent-orange)]/15 text-[var(--accent-orange)]";
       default:
-        return "bg-gray-100 text-gray-700";
+        return "bg-muted text-muted-foreground";
     }
   };
 
@@ -150,7 +150,7 @@ const DocumentPreviewTray: React.FC<DocumentPreviewTrayProps> = ({
         </div>
 
         {/* Content */}
-        <div className="flex-1 overflow-y-auto bg-white">{renderContent()}</div>
+        <div className="flex-1 overflow-y-auto bg-card">{renderContent()}</div>
 
         {/* Footer with metadata */}
         <div className="px-4 py-2 border-t border-border bg-muted/30 text-[10px] text-muted-foreground flex items-center gap-4">

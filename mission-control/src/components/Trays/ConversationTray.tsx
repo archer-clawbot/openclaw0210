@@ -96,10 +96,10 @@ const ConversationTray: React.FC<ConversationTrayProps> = ({
                 <div className="text-[10px] font-bold tracking-widest text-muted-foreground mb-1">
                   PROMPT
                 </div>
-                <div className="p-3 bg-blue-50 border border-blue-200 rounded-lg mb-2">
+                <div className="p-3 bg-[var(--accent-blue)]/10 border border-[var(--accent-blue)]/30 rounded-lg mb-2">
                   <div className="flex items-center gap-2 mb-1.5">
                     <span className="text-lg">👤</span>
-                    <span className="text-xs font-semibold text-blue-700">
+                    <span className="text-xs font-semibold text-[var(--accent-blue)]">
                       User
                     </span>
                   </div>

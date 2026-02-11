@@ -126,6 +126,32 @@ export const createTask = mutation({
 	},
 });
 
+export const recordUsage = mutation({
+	args: {
+		taskId: v.id("tasks"),
+		tenantId: v.string(),
+		inputTokens: v.number(),
+		outputTokens: v.number(),
+		cacheReadTokens: v.optional(v.number()),
+		cacheWriteTokens: v.optional(v.number()),
+		totalCost: v.number(),
+	},
+	handler: async (ctx, args) => {
+		const task = await ctx.db.get(args.taskId);
+		if (!task || task.tenantId !== args.tenantId) {
+			throw new Error("Task not found");
+		}
+		await ctx.db.patch(args.taskId, {
+			inputTokens: args.inputTokens,
+			outputTokens: args.outputTokens,
+			cacheReadTokens: args.cacheReadTokens ?? 0,
+			cacheWriteTokens: args.cacheWriteTokens ?? 0,
+			totalCost: args.totalCost,
+		});
+		return { ok: true };
+	},
+});
+
 export const promote = mutation({
 	args: {
 		tenantId: v.string(),

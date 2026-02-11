@@ -1,0 +1,64 @@
+{
+  "_comment": "Per-skill model routing. Rules evaluated in order — first match wins. Model tiers: haiku (fast/cheap), sonnet (balanced), opus (premium).",
+  "version": "1.0",
+  "models": {
+    "haiku": { "tier": "fast", "inputPer1M": 0.80, "outputPer1M": 4.00 },
+    "sonnet": { "tier": "balanced", "inputPer1M": 3.00, "outputPer1M": 15.00 },
+    "opus": { "tier": "premium", "inputPer1M": 15.00, "outputPer1M": 75.00 }
+  },
+  "defaultModel": "sonnet",
+  "externalContentFloor": "sonnet",
+  "allowEscalation": true,
+
+  "rules": [
+    { "agent": "main", "keywords": ["status", "check", "list", "show"], "model": "haiku", "reason": "Simple status queries" },
+    { "agent": "main", "keywords": ["onboard", "workflow", "strategy", "plan"], "model": "sonnet", "reason": "Complex orchestration" },
+
+    { "agent": "silas", "keywords": ["audit", "strategy", "analysis", "optimize", "recommendations"], "model": "sonnet", "reason": "Deep SEO analysis" },
+    { "agent": "silas", "keywords": ["citation check", "NAP check", "format", "spreadsheet", "list"], "model": "haiku", "reason": "Routine data tasks" },
+    { "agent": "silas", "keywords": ["scorecard", "report", "monthly report", "QBR"], "model": "sonnet", "reason": "Report generation needs quality" },
+
+    { "agent": "scout", "keywords": ["monitor", "check", "upload", "new videos", "alert"], "model": "haiku", "reason": "Simple monitoring checks" },
+    { "agent": "scout", "keywords": ["analysis", "research", "competitor", "SERP", "strategy"], "model": "sonnet", "reason": "Research requires reasoning" },
+
+    { "agent": "scribe", "keywords": ["blog", "article", "page content", "service page", "long-form"], "model": "sonnet", "reason": "Quality content writing" },
+    { "agent": "scribe", "keywords": ["GBP post", "short post", "social post", "description"], "model": "haiku", "reason": "Short-form content" },
+
+    { "agent": "wrench", "keywords": ["update", "fix", "change", "edit", "deploy"], "model": "haiku", "reason": "Execution tasks are mechanical" },
+    { "agent": "builder", "keywords": ["build", "setup", "create", "install"], "model": "haiku", "reason": "Build tasks follow templates" },
+    { "agent": "specs", "keywords": ["schema", "RankMath", "GA4", "GSC", "Core Web Vitals"], "model": "haiku", "reason": "Technical implementation is procedural" },
+
+    { "agent": "herald", "keywords": ["publish", "post", "update hours", "respond"], "model": "haiku", "reason": "GBP operations are mechanical" },
+    { "agent": "citadel", "keywords": ["submit", "citation", "directory"], "model": "haiku", "reason": "Citation submission is procedural" },
+    { "agent": "ghost", "keywords": ["deploy", "PBN", "link"], "model": "haiku", "reason": "Link deployment follows templates" },
+
+    { "agent": "lookout", "keywords": ["track", "rank", "scan", "monitor", "alert"], "model": "haiku", "reason": "Monitoring is mechanical" },
+    { "agent": "lookout", "keywords": ["analyze", "diagnose", "investigate", "report"], "model": "sonnet", "reason": "Analysis needs reasoning" },
+
+    { "agent": "ledger", "keywords": ["cost", "spend", "budget", "profit"], "model": "haiku", "reason": "Data aggregation" },
+    { "agent": "razor", "keywords": ["CRO", "conversion", "A/B test", "landing page"], "model": "sonnet", "reason": "CRO analysis needs quality" },
+    { "agent": "blitz", "keywords": ["campaign", "ads", "Google Ads", "Meta Ads"], "model": "sonnet", "reason": "Ad management needs quality" },
+    { "agent": "sentinel", "keywords": ["health", "check", "monitor", "status"], "model": "haiku", "reason": "Health checks are simple" }
+  ],
+
+  "fallbacks": {
+    "main": "sonnet",
+    "silas": "sonnet",
+    "mozi": "sonnet",
+    "scribe": "sonnet",
+    "scout": "haiku",
+    "canvas": "haiku",
+    "builder": "haiku",
+    "wrench": "haiku",
+    "specs": "haiku",
+    "herald": "haiku",
+    "citadel": "haiku",
+    "ghost": "haiku",
+    "lookout": "haiku",
+    "ledger": "haiku",
+    "razor": "sonnet",
+    "blitz": "sonnet",
+    "sentinel": "haiku",
+    "forge": "opus"
+  }
+}
