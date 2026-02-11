@@ -265,7 +265,6 @@ async function pollClient(gw, client, dryRun) {
           agentId: task.agentId,
           message,
           taskId: task._id,
-          model: routing.model,
         });
 
         await convex.markDispatched(task._id, tenantId, result.runId);
