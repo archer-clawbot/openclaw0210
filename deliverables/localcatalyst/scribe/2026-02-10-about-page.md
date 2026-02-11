@@ -207,14 +207,14 @@ We believe local businesses are the backbone of communities. Helping you succeed
 Let's talk about your goals, your competition, and how we can help you win.
 
 **What You'll Get:**
-- Free SEO audit (on-page + GBP + technical)
+- Comprehensive SEO audit (on-page + GBP + technical)
 - Competitive analysis
 - Custom roadmap with timeline
 - ROI forecast
 
 **No pressure. No sales pitch. Just honest analysis and clear recommendations.**
 
-**[Schedule Your Free Strategy Call]**
+**[Browse Our Services](/services/)**
 
 ---
 

@@ -253,4 +253,4 @@ For local businesses, on-page SEO serves a dual purpose: it improves organic ran
 
 ---
 
-*Every page on your website is an opportunity. [Request a free SEO audit](/free-seo-audit/) and we will show you exactly which pages are underperforming and how to fix them.*
+*Every page on your website is an opportunity. [Order an SEO Audit](/services/seo-audit/) and we will show you exactly which pages are underperforming and how to fix them.*

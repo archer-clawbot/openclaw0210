@@ -161,4 +161,4 @@ Google requires that your listed address be a location where you conduct busines
 
 ## Get Your GBP Working Harder for Your HVAC Business
 
-Your Google Business Profile is often the first impression potential customers have of your company. If it is incomplete, outdated, or poorly optimized, you are losing calls to competitors who have invested in theirs. [Request a free SEO audit](/free-seo-audit/) and we will evaluate your GBP performance, identify gaps, and show you exactly where you stand against local competitors in the local pack.
+Your Google Business Profile is often the first impression potential customers have of your company. If it is incomplete, outdated, or poorly optimized, you are losing calls to competitors who have invested in theirs. [Order an SEO Audit](/services/seo-audit/) and we will evaluate your GBP performance, identify gaps, and show you exactly where you stand against local competitors in the local pack.

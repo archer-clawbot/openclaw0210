@@ -186,4 +186,4 @@ Yes. "Teeth whitening" and cosmetic terms spike before wedding season (March-Jun
 
 Guessing which keywords matter is expensive. Every month you spend optimizing for the wrong terms is a month your competitors are capturing the patients you should be serving.
 
-[Request your free SEO audit](/free-seo-audit/) and we'll deliver a complete dental keyword gap analysis for your market — including the exact terms your top competitors rank for that you don't.
+[Order Your SEO Audit](/services/seo-audit/) and we'll deliver a complete dental keyword gap analysis for your market — including the exact terms your top competitors rank for that you don't.

@@ -383,4 +383,4 @@ For basic implementations, many CMS platforms and plugins can generate schema ma
 
 Schema markup is a technical investment that pays dividends in visibility, click-through rates, and local search authority. If you want a complete structured data implementation tailored to your business type and competitive landscape, LocalCatalyst can build it as part of our CATALYST methodology.
 
-[Request your free SEO audit](/free-seo-audit/) to see how your current schema implementation compares to your top local competitors.
+[Order Your SEO Audit](/services/seo-audit/) to see how your current schema implementation compares to your top local competitors.

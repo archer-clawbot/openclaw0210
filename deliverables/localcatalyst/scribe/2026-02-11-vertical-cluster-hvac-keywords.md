@@ -191,4 +191,4 @@ Review your keyword performance quarterly using Search Console data. Conduct a f
 
 ## Start Ranking for the Keywords That Drive Revenue
 
-Keyword research is the foundation, but execution is what generates service calls. If you are ready to build a keyword strategy specific to your market, service area, and competitive landscape, [request a free SEO audit](/free-seo-audit/) and we will identify your highest-opportunity keywords along with a clear plan to capture them.
+Keyword research is the foundation, but execution is what generates service calls. If you are ready to build a keyword strategy specific to your market, service area, and competitive landscape, [Order an SEO Audit](/services/seo-audit/) and we will identify your highest-opportunity keywords along with a clear plan to capture them.

@@ -517,11 +517,11 @@ These aren't outliers. This is what happens when you combine expert local SEO st
 
 If you're ready to dominate your local market — whether you're a plumber in Chicago, a dentist in Dallas, or a restaurant in Miami — let's talk.
 
-**CTA Button Text:** Get Your Free Local SEO Audit  
+**CTA Button Text:** Order Your SEO Audit  
 **CTA Button Link:** /contact/
 
 **Secondary Text Below Button:**  
-Or schedule a free strategy call → [Schedule Call Link]
+Or browse our services → [Schedule Call Link]
 
 ---
 

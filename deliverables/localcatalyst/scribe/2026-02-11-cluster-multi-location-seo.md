@@ -231,4 +231,4 @@ Individual location results follow the same timelines as single-location SEO —
 
 ---
 
-**Managing multiple locations and struggling to keep local SEO consistent across all of them?** [Request your free SEO audit](/free-seo-audit/) and we will assess all your locations, identify the biggest per-location gaps, and recommend a scalable strategy.
+**Managing multiple locations and struggling to keep local SEO consistent across all of them?** [Order Your SEO Audit](/services/seo-audit/) and we will assess all your locations, identify the biggest per-location gaps, and recommend a scalable strategy.

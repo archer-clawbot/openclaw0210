@@ -202,4 +202,4 @@ No. Evaluate each competitor link opportunity individually. Some of their links 
 
 ## See How Your Link Profile Compares
 
-A competitor backlink analysis is most valuable when combined with a complete assessment of your own SEO performance. Request a [free SEO audit](/free-seo-audit/) and we will analyze your backlink profile against your top local competitors, identify the most impactful link gaps, and deliver a prioritized plan for closing them.
+A competitor backlink analysis is most valuable when combined with a complete assessment of your own SEO performance. Order an SEO audit(/services/seo-audit/) and we will analyze your backlink profile against your top local competitors, identify the most impactful link gaps, and deliver a prioritized plan for closing them.

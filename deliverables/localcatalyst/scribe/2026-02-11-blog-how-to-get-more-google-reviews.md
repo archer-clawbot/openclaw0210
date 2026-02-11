@@ -239,4 +239,4 @@ Respond professionally within 24 hours. Acknowledge their concern, apologize for
 
 ---
 
-**Ready to build a review generation system that works on autopilot?** Our team builds and manages review generation programs for local businesses across every industry. [Request a free SEO audit](/free-seo-audit/) to see where your review profile stands today, or [contact us directly](/contact/) to discuss your reputation management needs.
+**Ready to build a review generation system that works on autopilot?** Our team builds and manages review generation programs for local businesses across every industry. [Order an SEO Audit](/services/seo-audit/) to see where your review profile stands today, or [contact us directly](/contact/) to discuss your reputation management needs.

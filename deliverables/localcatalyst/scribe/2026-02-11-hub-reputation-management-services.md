@@ -17,7 +17,7 @@ Your online reputation is not a vanity metric. It is the single most influential
 
 At LocalCatalyst, our **reputation management services** go far beyond monitoring review sites and hoping for the best. We build systematic, repeatable processes that generate consistent positive reviews, manage negative feedback with speed and strategy, and transform your online reputation into a measurable ranking and revenue asset. This is integrated directly into our [CATALYST methodology](/local-seo-services/) — because reputation is not separate from SEO. It is SEO.
 
-If you don't know where your reputation stands right now — across Google, Yelp, Facebook, and the industry-specific platforms that matter for your business — [request a free SEO audit](/free-seo-audit/) and we'll include a complete reputation snapshot.
+If you don't know where your reputation stands right now — across Google, Yelp, Facebook, and the industry-specific platforms that matter for your business — [Order an SEO Audit](/services/seo-audit/) and we'll include a complete reputation snapshot.
 
 ## Why Your Online Reputation Is Your #1 Sales Asset
 

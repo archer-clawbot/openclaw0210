@@ -160,7 +160,7 @@ Yes. Each significant city in your service area should have a dedicated landing 
 
 Every day, homeowners and business managers in your service area encounter pest problems and turn to Google for help. They call the company that appears first with strong reviews and clear services. If that company is not yours, you are losing revenue to competitors — including national chains that provide inferior service. Pest control SEO is the most reliable, sustainable way to ensure your phone rings when it matters.
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** and discover exactly where your pest control company stands in local search, how you stack up against competitors, and what opportunities are ready to drive new calls and contracts.
+**[Order Your SEO Audit](/services/seo-audit/)** and discover exactly where your pest control company stands in local search, how you stack up against competitors, and what opportunities are ready to drive new calls and contracts.
 
 ---
 

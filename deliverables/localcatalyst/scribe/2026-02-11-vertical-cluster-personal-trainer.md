@@ -141,4 +141,4 @@ Both serve different purposes and the best strategy uses both. SEO captures acti
 
 ## Fill Your Training Schedule With Qualified Leads
 
-Stop relying solely on referrals and social media. Build a local SEO engine that consistently puts you in front of people searching for exactly what you offer. [Request a free SEO audit](/free-seo-audit/) to see where your personal training business stands in local search and what it will take to reach the top.
+Stop relying solely on referrals and social media. Build a local SEO engine that consistently puts you in front of people searching for exactly what you offer. [Order an SEO Audit](/services/seo-audit/) to see where your personal training business stands in local search and what it will take to reach the top.

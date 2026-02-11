@@ -175,4 +175,4 @@ At a minimum, update your website quarterly with new content (blog posts, cost g
 
 ## Build a Website That Works as Hard as Your Technicians
 
-Your website should generate leads around the clock, not just look good on a screen. [Request a free SEO audit](/free-seo-audit/) to get a detailed assessment of your current site's performance, speed, and conversion architecture, along with specific recommendations to turn it into a lead generation engine.
+Your website should generate leads around the clock, not just look good on a screen. [Order an SEO Audit](/services/seo-audit/) to get a detailed assessment of your current site's performance, speed, and conversion architecture, along with specific recommendations to turn it into a lead generation engine.

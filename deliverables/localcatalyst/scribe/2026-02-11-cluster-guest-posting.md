@@ -21,7 +21,7 @@ But legitimate guest posting — placing expert content on real publications wit
 
 At LocalCatalyst, our guest posting service operates within the ethical, white-hat framework that governs all of our [link building services](/link-building-services/). We place your expertise on publications that real people read, that Google trusts, and that send both authority and referral traffic back to your site. Every placement we secure would exist whether or not a backlink was involved — because the content itself provides value to the publication's audience.
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** — We'll evaluate your current backlink profile and identify the highest-value guest posting opportunities for your industry.
+**[Order Your SEO Audit](/services/seo-audit/)** — We'll evaluate your current backlink profile and identify the highest-value guest posting opportunities for your industry.
 
 ---
 
@@ -228,4 +228,4 @@ Absolutely. A well-placed guest post on a publication your customers read drives
 
 The best guest posting strategy is simple: put your genuine expertise in front of audiences who benefit from it, on publications that Google trusts. The links are a natural byproduct of the value you provide.
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** — We'll identify the highest-impact guest posting opportunities for your business and show you how earned placements will strengthen your authority and rankings.
+**[Order Your SEO Audit](/services/seo-audit/)** — We'll identify the highest-impact guest posting opportunities for your business and show you how earned placements will strengthen your authority and rankings.

@@ -131,4 +131,4 @@ Yes. Respond to every review, positive and negative, within 48 hours. Google has
 
 ## Start Building Your Review Engine
 
-Reviews compound over time. Every month you wait to implement a review generation system is a month of lost reviews that your competitors are collecting instead. [Contact us](/contact/) to learn how we build review generation systems for plumbing companies, or [request a free SEO audit](/free-seo-audit/) to see exactly where your review profile stands against local competitors.
+Reviews compound over time. Every month you wait to implement a review generation system is a month of lost reviews that your competitors are collecting instead. [See Our Services](/services/) to learn how we build review generation systems for plumbing companies, or [Order an SEO Audit](/services/seo-audit/) to see exactly where your review profile stands against local competitors.

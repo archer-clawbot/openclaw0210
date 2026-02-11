@@ -263,4 +263,4 @@ Yes. Many of the most effective local link building tactics require time rather 
 
 ## Start Building Your Local Link Profile
 
-Knowing which local backlink sources to pursue is half the challenge. Understanding where your current profile stands relative to competitors reveals the specific gaps to fill. Request a [free SEO audit](/free-seo-audit/) to get a detailed analysis of your local link profile and a prioritized list of the backlink opportunities most likely to move your rankings.
+Knowing which local backlink sources to pursue is half the challenge. Understanding where your current profile stands relative to competitors reveals the specific gaps to fill. Order an SEO audit(/services/seo-audit/) to get a detailed analysis of your local link profile and a prioritized list of the backlink opportunities most likely to move your rankings.

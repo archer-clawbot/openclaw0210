@@ -148,4 +148,4 @@ After 90 days, the transformation was comprehensive.
 
 ---
 
-*Want results like this for your medical practice? [Request your free SEO audit](/free-seo-audit/) and we will show you exactly where you stand, what is holding you back, and how we would build a strategy to fill your schedule with new patients.*
+*Want results like this for your medical practice? [Order Your SEO Audit](/services/seo-audit/) and we will show you exactly where you stand, what is holding you back, and how we would build a strategy to fill your schedule with new patients.*

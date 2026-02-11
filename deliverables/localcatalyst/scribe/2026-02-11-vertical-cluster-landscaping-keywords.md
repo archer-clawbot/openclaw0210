@@ -140,4 +140,4 @@ For a new or low-authority landscaping website, expect 3-6 months to see meaning
 
 Keyword research is the starting line, not the finish line. The landscaping companies that dominate local search are the ones that translate keyword data into optimized pages, quality content, and consistent local signals month after month.
 
-Ready to build a keyword strategy that actually drives landscaping leads? [Request a free SEO audit](/free-seo-audit/) and get a data-backed keyword gap analysis for your specific market.
+Ready to build a keyword strategy that actually drives landscaping leads? [Order an SEO Audit](/services/seo-audit/) and get a data-backed keyword gap analysis for your specific market.

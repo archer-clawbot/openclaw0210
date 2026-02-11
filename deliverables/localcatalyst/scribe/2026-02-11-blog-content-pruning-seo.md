@@ -176,4 +176,4 @@ Content pruning is not about having less content. It is about having the right c
 
 At LocalCatalyst.ai, content auditing and pruning are built into our [content strategy](/seo-content-strategy/) services. We identify what to keep, what to fix, and what to remove, so every page on your site contributes to your search visibility instead of undermining it.
 
-[Get your free SEO audit](/free-seo-audit/) to find out which pages on your site are helping your rankings and which ones are holding you back.
+[Order Your SEO Audit](/services/seo-audit/) to find out which pages on your site are helping your rankings and which ones are holding you back.

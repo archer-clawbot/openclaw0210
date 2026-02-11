@@ -154,4 +154,4 @@ The local 3-pack is personalized based on the searcher's exact location. Google 
 
 ---
 
-**Want to know where your business stands in the local 3-pack?** Our [free SEO audit](/free-seo-audit/) includes a geo-grid analysis showing your exact 3-pack positions across your service area, a competitive comparison with the businesses currently dominating the map, and a prioritized roadmap for earning your place in the top three. Request yours today.
+**Want to know where your business stands in the local 3-pack?** Our [free SEO audit](/services/seo-audit/) includes a geo-grid analysis showing your exact 3-pack positions across your service area, a competitive comparison with the businesses currently dominating the map, and a prioritized roadmap for earning your place in the top three. Request yours today.

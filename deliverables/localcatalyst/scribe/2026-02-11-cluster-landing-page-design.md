@@ -24,7 +24,7 @@ The distinction matters because different contexts demand different architecture
 
 But here is where most agencies get it wrong: they build landing pages that convert but cannot rank, or pages that rank but do not convert. At LocalCatalyst, we build **SEO-friendly landing pages** that do both — pages that earn organic rankings through quality content and topical relevance while maintaining the focused conversion architecture that turns visitors into leads.
 
-Not sure if your current landing pages are performing? **[Request a free SEO audit](/free-seo-audit/)** — we analyze both your organic and paid landing page performance.
+Not sure if your current landing pages are performing? **[Order an SEO Audit](/services/seo-audit/)** — we analyze both your organic and paid landing page performance.
 
 ## Types of Landing Pages for Local Businesses
 
@@ -191,4 +191,4 @@ Yes, and this is one of our specialties. SEO-friendly landing pages maintain eno
 
 ---
 
-**Your landing pages are where rankings become revenue.** Our CATALYST audit analyzes your existing landing pages for both SEO performance and conversion efficiency — or identifies the landing pages you should be building. [Get your free SEO audit](/free-seo-audit/) and start turning search visibility into booked appointments.
+**Your landing pages are where rankings become revenue.** Our CATALYST audit analyzes your existing landing pages for both SEO performance and conversion efficiency — or identifies the landing pages you should be building. [Order Your SEO Audit](/services/seo-audit/) and start turning search visibility into booked appointments.

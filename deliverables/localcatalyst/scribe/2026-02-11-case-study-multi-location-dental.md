@@ -152,4 +152,4 @@ By month 5, the compounding effect of six workstreams --- GBP optimization, cita
 
 **Is your multi-location practice struggling with local search visibility?**
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** | **[View More Case Studies](/case-studies/)**
+**[Order Your SEO Audit](/services/seo-audit/)** | **[View More Case Studies](/case-studies/)**

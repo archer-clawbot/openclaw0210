@@ -187,4 +187,4 @@ Temporarily, yes. Google may re-evaluate a page after a title change, causing sh
 
 ---
 
-**Ready to maximize every ranking factor on your site?** Our CATALYST audit identifies exactly which title tags are costing you clicks and rankings — and provides the optimized replacements. [Get your free SEO audit](/free-seo-audit/) and see the difference data-driven title tag optimization makes.
+**Ready to maximize every ranking factor on your site?** Our CATALYST audit identifies exactly which title tags are costing you clicks and rankings — and provides the optimized replacements. [Order Your SEO Audit](/services/seo-audit/) and see the difference data-driven title tag optimization makes.

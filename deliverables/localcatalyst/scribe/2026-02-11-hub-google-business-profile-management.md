@@ -251,4 +251,4 @@ GBP is one of the fastest-responding elements of local SEO. Initial optimization
 
 ---
 
-*Your Google Business Profile is either working for you or working against you. [Request a free SEO audit](/free-seo-audit/) to find out which — and see exactly how much visibility you are leaving on the table.*
+*Your Google Business Profile is either working for you or working against you. [Order an SEO Audit](/services/seo-audit/) to find out which — and see exactly how much visibility you are leaving on the table.*

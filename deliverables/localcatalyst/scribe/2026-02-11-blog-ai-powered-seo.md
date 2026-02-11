@@ -133,4 +133,4 @@ AI replaces the manual, repetitive tasks that consume most of a strategist's tim
 
 ---
 
-**Ready to see what AI-powered SEO looks like for your business?** [Request a free SEO audit](/free-seo-audit/) and we will show you exactly what our agents find — plus a prioritized action plan built by a human strategist who understands your market.
+**Ready to see what AI-powered SEO looks like for your business?** [Order an SEO Audit](/services/seo-audit/) and we will show you exactly what our agents find — plus a prioritized action plan built by a human strategist who understands your market.

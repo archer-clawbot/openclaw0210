@@ -140,4 +140,4 @@ Generally, no. Bidding on competitor brand names in paid search is common but ta
 
 ## Turn Keyword Research Into New Patient Appointments
 
-Data without execution is just trivia. The veterinary practices that grow through search are the ones that systematically translate keyword research into optimized pages, authoritative content, and consistent local signals. [Request a free SEO audit](/free-seo-audit/) and we will identify the highest-opportunity veterinary keywords in your specific market.
+Data without execution is just trivia. The veterinary practices that grow through search are the ones that systematically translate keyword research into optimized pages, authoritative content, and consistent local signals. [Order an SEO Audit](/services/seo-audit/) and we will identify the highest-opportunity veterinary keywords in your specific market.

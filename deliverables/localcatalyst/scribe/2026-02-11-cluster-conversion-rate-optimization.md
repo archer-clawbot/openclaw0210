@@ -24,7 +24,7 @@ This is the step most SEO agencies skip entirely. They report on rankings and tr
 
 **CRO completes the SEO cycle.** Rankings drive visibility. Visibility drives traffic. And CRO turns that traffic into the phone calls, form submissions, direction requests, and appointment bookings that actually pay your bills.
 
-If you suspect your website is leaking conversions, **[request a free SEO audit](/free-seo-audit/)** — we include a conversion pathway analysis that identifies exactly where visitors are dropping off.
+If you suspect your website is leaking conversions, **[Order an SEO Audit](/services/seo-audit/)** — we include a conversion pathway analysis that identifies exactly where visitors are dropping off.
 
 ## Why Local Business CRO Is Different From E-Commerce CRO
 
@@ -269,4 +269,4 @@ Google Analytics 4 for conversion tracking and attribution. Microsoft Clarity or
 
 ---
 
-**Your website traffic has untapped conversion potential.** Our CATALYST audit includes a complete conversion pathway analysis that identifies exactly where visitors are dropping off and what changes will have the biggest impact. [Get your free SEO audit](/free-seo-audit/) and start turning traffic into revenue.
+**Your website traffic has untapped conversion potential.** Our CATALYST audit includes a complete conversion pathway analysis that identifies exactly where visitors are dropping off and what changes will have the biggest impact. [Order Your SEO Audit](/services/seo-audit/) and start turning traffic into revenue.

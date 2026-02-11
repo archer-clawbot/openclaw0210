@@ -228,4 +228,4 @@ Use photos on both. Your website and GBP serve different functions. GBP photos a
 
 ---
 
-**Want to see how your visual content stacks up against competitors?** Our [free SEO audit](/free-seo-audit/) includes a GBP photo analysis comparing your photo count, quality, and coverage against the businesses dominating the Map Pack in your market. Find out exactly where the gaps are and how closing them can increase your calls and visits.
+**Want to see how your visual content stacks up against competitors?** Our [free SEO audit](/services/seo-audit/) includes a GBP photo analysis comparing your photo count, quality, and coverage against the businesses dominating the Map Pack in your market. Find out exactly where the gaps are and how closing them can increase your calls and visits.

@@ -201,4 +201,4 @@ Whether you handle SEO yourself or bring in professionals, the most important th
 
 If you want a professional evaluation of where your site stands before deciding, we offer a complimentary audit that identifies your highest-impact opportunities and gives you a clear picture of the work involved.
 
-**[Request your free SEO audit](/free-seo-audit/)** and get a clear-eyed assessment with no pressure and no obligation.
+**[Order Your SEO Audit](/services/seo-audit/)** and get a clear-eyed assessment with no pressure and no obligation.

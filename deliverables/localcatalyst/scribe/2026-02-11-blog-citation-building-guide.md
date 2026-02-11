@@ -174,4 +174,4 @@ Yes. Inaccurate or duplicate citations create conflicting signals that can suppr
 
 Citations are one of the highest-ROI activities in local SEO — low cost, compounding returns, and a clear competitive moat once established. But accuracy matters more than volume, and consistency matters more than speed.
 
-If you want a team to handle citation building, auditing, and ongoing management as part of a complete local search strategy, **[schedule a free strategy call](/contact/)** and we'll map out exactly where your citation footprint stands today.
+If you want a team to handle citation building, auditing, and ongoing management as part of a complete local search strategy, **[Browse Our Services](/services/)** and we'll map out exactly where your citation footprint stands today.

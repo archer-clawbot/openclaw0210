@@ -190,4 +190,4 @@ Most businesses start seeing measurable improvements within 3-6 months, with sig
 
 Understanding what local SEO is represents the first step toward dominating your local market. The next step is understanding exactly where you stand today. Our free SEO audit analyzes your current local search performance, identifies gaps in your strategy, and provides a prioritized action plan based on the factors that will have the greatest impact on your visibility.
 
-[Get your free local SEO audit](/free-seo-audit/) and discover exactly what is holding your business back in local search.
+[Order Your SEO Audit](/services/seo-audit/) and discover exactly what is holding your business back in local search.

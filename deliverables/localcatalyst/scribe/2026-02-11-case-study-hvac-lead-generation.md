@@ -153,4 +153,4 @@ The fourth month delivered the business outcomes that matter:
 
 **Ready to see similar results for your HVAC business?**
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** | **[View More Case Studies](/case-studies/)**
+**[Order Your SEO Audit](/services/seo-audit/)** | **[View More Case Studies](/case-studies/)**

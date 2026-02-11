@@ -182,4 +182,4 @@ Now that you know what to ask, the next step is understanding where your busines
 
 Our [local SEO services](/services/local-seo/) are built on the transparency and accountability standards described in this guide. We welcome every question on this list, and we answer them in our first conversation.
 
-**[Request your free SEO audit](/free-seo-audit/)** to get a clear-eyed assessment of your current position and a candid conversation about what growth looks like for your business.
+**[Order Your SEO Audit](/services/seo-audit/)** to get a clear-eyed assessment of your current position and a candid conversation about what growth looks like for your business.

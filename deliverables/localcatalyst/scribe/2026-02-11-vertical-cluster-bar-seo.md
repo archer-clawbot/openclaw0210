@@ -162,4 +162,4 @@ Create dedicated event pages or blog posts four to six weeks before major events
 
 Your best customers are searching for exactly what your bar offers. The question is whether they are finding you or your competition. A focused nightlife SEO strategy ensures your venue appears at the top of local results during the hours that drive your revenue.
 
-[Contact us](/contact/) to discuss how we can build your bar's search visibility, or [get your free SEO audit](/free-seo-audit/) to see where you stand today.
+[See Our Services](/services/) to discuss how we can build your bar's search visibility, or [get your free SEO audit](/services/seo-audit/) to see where you stand today.

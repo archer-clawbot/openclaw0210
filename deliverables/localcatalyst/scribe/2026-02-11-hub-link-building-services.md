@@ -24,7 +24,7 @@ Spam links from private blog networks. Paid placements on irrelevant sites. Link
 
 At LocalCatalyst, we don't build links. We earn them. Every backlink we acquire is relevant, authoritative, and editorially placed. We focus on the links that actually move the needle for local businesses — local media placements, community partnerships, industry publications, and resource citations that Google recognizes as genuine signals of authority.
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** — We'll analyze your current backlink profile and show you exactly where you stand against your competitors.
+**[Order Your SEO Audit](/services/seo-audit/)** — We'll analyze your current backlink profile and show you exactly where you stand against your competitors.
 
 ---
 
@@ -336,7 +336,7 @@ Our link building strategies are customized for each industry because the link o
 
 Every industry has unique link ecosystems. We know where to find them because we've built link profiles across all of them.
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** — See how your backlink profile compares to your top competitors.
+**[Order Your SEO Audit](/services/seo-audit/)** — See how your backlink profile compares to your top competitors.
 
 ---
 
@@ -344,7 +344,7 @@ Every industry has unique link ecosystems. We know where to find them because we
 
 ### How many backlinks do I need to rank?
 
-There's no magic number. It depends on your competitive landscape, the authority of your existing backlink profile, and the specific keywords you're targeting. What matters is the quality and relevance of the links, not the raw count. A local plumber competing in a mid-size market might need 20-30 quality referring domains to dominate. A personal injury lawyer in Chicago might need 100+. We'll analyze your specific situation during the [free SEO audit](/free-seo-audit/) and give you a realistic target.
+There's no magic number. It depends on your competitive landscape, the authority of your existing backlink profile, and the specific keywords you're targeting. What matters is the quality and relevance of the links, not the raw count. A local plumber competing in a mid-size market might need 20-30 quality referring domains to dominate. A personal injury lawyer in Chicago might need 100+. We'll analyze your specific situation during the [free SEO audit](/services/seo-audit/) and give you a realistic target.
 
 ### How long does link building take to impact rankings?
 

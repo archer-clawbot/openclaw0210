@@ -155,4 +155,4 @@ A few negative reviews will not damage your rankings if your overall profile is 
 
 ---
 
-**Want to understand exactly how your review profile impacts your local search rankings?** [Request a free SEO audit](/free-seo-audit/) and we will analyze your review signals alongside every other ranking factor in your market. Or [contact our team](/contact/) to discuss a reputation management strategy built for long-term SEO growth.
+**Want to understand exactly how your review profile impacts your local search rankings?** [Order an SEO Audit](/services/seo-audit/) and we will analyze your review signals alongside every other ranking factor in your market. Or [contact our team](/contact/) to discuss a reputation management strategy built for long-term SEO growth.

@@ -220,4 +220,4 @@ There is no confirmed ranking advantage to bolding or italicizing keywords. Use 
 
 Strategic keyword placement is just one component of comprehensive on-page optimization. If you want every page on your site optimized with precision, backed by geo-grid ranking data and CATALYST methodology, LocalCatalyst is ready to help.
 
-[Get your free SEO audit](/free-seo-audit/) to see exactly how your current keyword strategy measures up and where the biggest opportunities lie.
+[Order Your SEO Audit](/services/seo-audit/) to see exactly how your current keyword strategy measures up and where the biggest opportunities lie.

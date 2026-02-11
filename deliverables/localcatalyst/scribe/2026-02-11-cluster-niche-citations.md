@@ -21,7 +21,7 @@ When Google sees your dental practice listed on Healthgrades, Vitals, and ZocDoc
 
 At LocalCatalyst, niche citation building is a strategic phase within our [citation building services](/citation-building-services/). After we've completed [citation cleanup](/citation-building-services/citation-cleanup/) and established your foundation on core platforms, we build targeted niche citations that align your business with the directories Google associates most strongly with your industry. This approach is coordinated with your broader [local SEO strategy](/local-seo-services/) to ensure every citation reinforces your overall visibility.
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** — We'll identify the industry-specific directories where your competitors are listed and you aren't.
+**[Order Your SEO Audit](/services/seo-audit/)** — We'll identify the industry-specific directories where your competitors are listed and you aren't.
 
 ---
 
@@ -242,4 +242,4 @@ Yes. Many niche directories (Avvo, Healthgrades, AAHA) require license numbers, 
 
 General citations are the foundation. Niche citations are the competitive edge. When Google sees your business consistently represented across both general and industry-specific platforms, the trust signal compounds — and your rankings reflect it.
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** — We'll map the niche directory landscape for your industry and show you exactly where you're missing authoritative citations that your competitors already have.
+**[Order Your SEO Audit](/services/seo-audit/)** — We'll map the niche directory landscape for your industry and show you exactly where you're missing authoritative citations that your competitors already have.

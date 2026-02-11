@@ -27,7 +27,7 @@ Every SEO engagement we take on starts here, because we've learned that business
 
 **The audit stops the bleeding.** It replaces guesswork with a roadmap.
 
-**[Get your free SEO audit](/free-seo-audit/)** and see what a data-driven analysis reveals about your current visibility.
+**[Order Your SEO Audit](/services/seo-audit/)** and see what a data-driven analysis reveals about your current visibility.
 
 ---
 
@@ -264,7 +264,7 @@ We offer two levels of SEO analysis, and it's important to understand what each 
 
 ### Free SEO Audit (Visibility Scan)
 
-Our **[free SEO audit](/free-seo-audit/)** is a high-level visibility scan designed to show you where you stand and identify the most obvious issues. It includes:
+Our **[free SEO audit](/services/seo-audit/)** is a high-level visibility scan designed to show you where you stand and identify the most obvious issues. It includes:
 
 - Geo-grid ranking snapshot for your top 3 keywords
 - GBP completeness score
@@ -417,7 +417,7 @@ We also explain everything in plain language. If we tell you that your LCP is 4.
 
 **An audit from LocalCatalyst isn't a report. It's a strategy session backed by data.**
 
-If you're ready to see what's holding your rankings back, **[request your free SEO audit today](/free-seo-audit/)**. It takes 2 minutes to submit, and you'll have results within 3 business days.
+If you're ready to see what's holding your rankings back, **[order your SEO audit today](/services/seo-audit/)**. It takes 2 minutes to submit, and you'll have results within 3 business days.
 
 ---
 

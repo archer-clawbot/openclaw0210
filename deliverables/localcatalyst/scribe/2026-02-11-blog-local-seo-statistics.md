@@ -191,4 +191,4 @@ The underlying trends — mobile growth, review influence, local pack dominance 
 
 Statistics inform strategy, but execution produces results. If these numbers have convinced you that local search deserves your attention, the next step is understanding exactly where your business stands. Our free audit measures your performance against the benchmarks these statistics represent — GBP optimization, review profile, citation accuracy, technical health, and competitive positioning.
 
-[Get your free SEO audit](/free-seo-audit/) and see how your business measures up against the data.
+[Order Your SEO Audit](/services/seo-audit/) and see how your business measures up against the data.

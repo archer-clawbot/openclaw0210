@@ -21,7 +21,7 @@ Google's local search algorithm doesn't just evaluate authority — it evaluates
 
 At LocalCatalyst, local link building is a core pillar of our [link building services](/link-building-services/). We don't just earn backlinks — we earn backlinks from the sources that Google weighs most heavily for local rankings. This approach is integrated into our broader [local SEO methodology](/local-seo-services/) because local authority and local visibility are inseparable.
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** — We'll analyze your local backlink profile and show you exactly how it compares to the businesses ranking above you.
+**[Order Your SEO Audit](/services/seo-audit/)** — We'll analyze your local backlink profile and show you exactly how it compares to the businesses ranking above you.
 
 ---
 
@@ -270,4 +270,4 @@ You can, but it's time-intensive. Researching opportunities, conducting outreach
 
 Local links are the hardest type of authority to replicate. A competitor can buy content, run ads, and even acquire generic backlinks — but they can't buy their way into genuine community relationships, local media trust, and institutional endorsements. That's what makes local link building a durable competitive advantage.
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** — We'll map your local link landscape, identify every opportunity in your community, and show you exactly how local authority will move your rankings.
+**[Order Your SEO Audit](/services/seo-audit/)** — We'll map your local link landscape, identify every opportunity in your community, and show you exactly how local authority will move your rankings.

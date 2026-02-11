@@ -130,6 +130,6 @@ You can, but the content must reflect genuine local knowledge. Generic content m
 
 Content marketing is the long game in real estate SEO — but it is the game that produces compounding returns. Every neighborhood guide you publish, every market report you release, and every community spotlight you write builds the authority that makes your entire website rank better over time.
 
-[Request a Free SEO Audit](/free-seo-audit/) to see how your current content compares to the top-ranking agents in your market — and where the biggest content opportunities lie.
+[Order an SEO Audit](/services/seo-audit/) to see how your current content compares to the top-ranking agents in your market — and where the biggest content opportunities lie.
 
-[Contact us](/contact/) to build a content strategy designed for your real estate business.
+[See Our Services](/services/) to build a content strategy designed for your real estate business.

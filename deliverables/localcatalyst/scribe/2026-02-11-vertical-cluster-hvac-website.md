@@ -137,4 +137,4 @@ A competitive HVAC website typically needs 25-50 pages minimum: 8-12 service pag
 
 ## Build a Website That Earns Its Keep
 
-Your website should be your best-performing employee: always available, always on message, and consistently generating leads. If your current site is underperforming, [request a free SEO audit](/free-seo-audit/) and we will analyze your site structure, speed, and conversion path alongside your competitors to show you exactly where the opportunities are.
+Your website should be your best-performing employee: always available, always on message, and consistently generating leads. If your current site is underperforming, [Order an SEO Audit](/services/seo-audit/) and we will analyze your site structure, speed, and conversion path alongside your competitors to show you exactly where the opportunities are.

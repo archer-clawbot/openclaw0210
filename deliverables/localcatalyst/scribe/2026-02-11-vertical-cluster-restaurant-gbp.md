@@ -157,4 +157,4 @@ For some restaurants, particularly single-location casual dining and fast-casual
 
 Your restaurant's GBP listing is generating impressions every day. The question is whether those impressions are converting into diners walking through your door or scrolling past to a competitor. Our audit identifies exactly what your listing needs to capture more local search traffic and more covers.
 
-[Get your free SEO audit](/free-seo-audit/) and see how your restaurant's Google presence compares to the competition.
+[Order Your SEO Audit](/services/seo-audit/) and see how your restaurant's Google presence compares to the competition.

@@ -431,4 +431,4 @@ It depends on the nature of the fixes. Title tag optimization, meta description 
 
 ## Take the Next Step
 
-Completing a DIY audit gives you a solid understanding of where your site stands. When you are ready for deeper analysis, competitive benchmarking, and a professionally prioritized action plan, request a [free SEO audit](/free-seo-audit/) and our team will build on your findings with the strategic depth and tool access that transforms audit data into ranking improvements.
+Completing a DIY audit gives you a solid understanding of where your site stands. When you are ready for deeper analysis, competitive benchmarking, and a professionally prioritized action plan, order an SEO audit(/services/seo-audit/) and our team will build on your findings with the strategic depth and tool access that transforms audit data into ranking improvements.

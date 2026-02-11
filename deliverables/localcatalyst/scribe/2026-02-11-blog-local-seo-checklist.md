@@ -263,4 +263,4 @@ Citation consistency. Most businesses have inaccurate or outdated citations they
 
 This checklist tells you what to do. A local SEO audit tells you where you stand today. Before working through these items, get a clear picture of your current performance so you can prioritize the gaps with the greatest impact.
 
-[Request your free SEO audit](/free-seo-audit/) and we will map your current status against every item on this checklist.
+[Order Your SEO Audit](/services/seo-audit/) and we will map your current status against every item on this checklist.

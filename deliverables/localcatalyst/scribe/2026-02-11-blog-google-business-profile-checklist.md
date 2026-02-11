@@ -296,4 +296,4 @@ Most business owners can handle the basics (accurate information, photos, review
 
 ## Get a Professional GBP Audit
 
-This checklist gives you the framework, but every business has unique optimization opportunities. [Request a free SEO audit](/free-seo-audit/) from LocalCatalyst.ai and we will analyze your GBP listing against this checklist plus 50 additional ranking factors our CATALYST Methodology tracks.
+This checklist gives you the framework, but every business has unique optimization opportunities. [Order an SEO Audit](/services/seo-audit/) from LocalCatalyst.ai and we will analyze your GBP listing against this checklist plus 50 additional ranking factors our CATALYST Methodology tracks.

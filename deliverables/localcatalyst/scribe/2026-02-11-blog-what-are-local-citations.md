@@ -219,4 +219,4 @@ A citation is a mention of your business NAP information, with or without a link
 
 A strong citation profile is the foundation of local search visibility. Whether you are building citations from scratch or cleaning up years of inconsistent listings, LocalCatalyst can build and maintain a citation strategy tailored to your industry and market through our CATALYST methodology.
 
-[Get your free SEO audit](/free-seo-audit/) to see where your citation profile stands and what it will take to outpace your local competitors.
+[Order Your SEO Audit](/services/seo-audit/) to see where your citation profile stands and what it will take to outpace your local competitors.

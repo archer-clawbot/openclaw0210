@@ -192,4 +192,4 @@ Track: total review count (by platform), average rating (by platform), review ve
 
 ---
 
-**Ready to implement a professional review management system?** Our reputation management team builds, monitors, and optimizes review programs that generate consistent results. [Request a free SEO audit](/free-seo-audit/) to benchmark your current review profile, or [contact us](/contact/) to discuss a review management strategy tailored to your business.
+**Ready to implement a professional review management system?** Our reputation management team builds, monitors, and optimizes review programs that generate consistent results. [Order an SEO Audit](/services/seo-audit/) to benchmark your current review profile, or [See Our Services](/services/) to discuss a review management strategy tailored to your business.

@@ -145,4 +145,4 @@ The best HVAC content combines industry expertise with writing skill. If your te
 
 ## Build a Content Engine for Your HVAC Business
 
-A structured content strategy turns your website into a lead generation asset that works every day, not just when you are running ads. [Request a free SEO audit](/free-seo-audit/) and we will identify the content gaps in your current site, map out the highest-opportunity topics for your market, and show you how to build a content calendar that drives measurable results.
+A structured content strategy turns your website into a lead generation asset that works every day, not just when you are running ads. [Order an SEO Audit](/services/seo-audit/) and we will identify the content gaps in your current site, map out the highest-opportunity topics for your market, and show you how to build a content calendar that drives measurable results.

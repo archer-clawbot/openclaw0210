@@ -124,4 +124,4 @@ Remain calm and professional. Focus on resolving the client's actual concern. Of
 
 ## Make Your Reputation Your Best Marketing Channel
 
-Every review shapes a potential client's decision about where to book their next appointment. Stop leaving your reputation to chance and start building it strategically. [Request a free SEO audit](/free-seo-audit/) that includes a comprehensive review analysis with actionable steps to strengthen your salon's online reputation.
+Every review shapes a potential client's decision about where to book their next appointment. Stop leaving your reputation to chance and start building it strategically. [Order an SEO Audit](/services/seo-audit/) that includes a comprehensive review analysis with actionable steps to strengthen your salon's online reputation.

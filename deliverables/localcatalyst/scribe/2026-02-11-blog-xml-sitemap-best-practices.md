@@ -191,4 +191,4 @@ Your sitemap should update automatically whenever content is published, updated,
 
 ## Get Your Sitemap Working Harder
 
-A properly configured XML sitemap is a low-effort, high-impact technical SEO win. If you are unsure whether your sitemap is helping or hurting your crawl efficiency, [request a free SEO audit](/free-seo-audit/) and we will include a full sitemap analysis in our report.
+A properly configured XML sitemap is a low-effort, high-impact technical SEO win. If you are unsure whether your sitemap is helping or hurting your crawl efficiency, [Order an SEO Audit](/services/seo-audit/) and we will include a full sitemap analysis in our report.

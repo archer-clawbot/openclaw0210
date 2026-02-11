@@ -181,4 +181,4 @@ Timeline depends on the gap size. GBP optimizations and citation submissions can
 
 ---
 
-**Ready to discover exactly why your competitors outrank you — and how to change that?** [Request your free SEO audit](/free-seo-audit/) and receive a competitive gap analysis for your top three local competitors.
+**Ready to discover exactly why your competitors outrank you — and how to change that?** [Order Your SEO Audit](/services/seo-audit/) and receive a competitive gap analysis for your top three local competitors.

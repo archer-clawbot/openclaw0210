@@ -30,7 +30,7 @@
 Your Google Business Profile is the #1 factor in Map Pack rankings. We turn it into a conversion-optimized micro-website that outranks competitors and drives direction requests, calls, and customers.
 
 ### Hero CTA
-**[Get Your Free GBP Audit]**
+**[Order GBP Optimization](/services/gbp-optimization/)**
 
 ### Trust Signal
 Avg. 312% increase in Map Pack visibility | 95% clients rank in top 3 | 20+ businesses optimized
@@ -472,7 +472,7 @@ Our **LLM SEO methodology** ensures your GBP is citation-worthy for AI engines. 
 
 ---
 
-**[Get Your Free GBP Audit]**
+**[Order GBP Optimization](/services/gbp-optimization/)**
 
 ---
 
@@ -516,7 +516,7 @@ Get a free GBP audit and see exactly what's holding you back from #1 rankings.
 
 **No credit card required. Results in 48 hours.**
 
-**[Get Your Free GBP Audit]**
+**[Order GBP Optimization](/services/gbp-optimization/)**
 
 ---
 

@@ -188,4 +188,4 @@ New products and services can take 24-72 hours to appear. If they still do not s
 
 ## Optimize Every Element of Your GBP
 
-Products and services are one piece of a fully optimized profile. If you want a professional assessment of your entire GBP setup and a strategy to outperform local competitors, [request a free SEO audit](/free-seo-audit/) from LocalCatalyst.ai. Our CATALYST Methodology evaluates every element that drives local search performance.
+Products and services are one piece of a fully optimized profile. If you want a professional assessment of your entire GBP setup and a strategy to outperform local competitors, [Order an SEO Audit](/services/seo-audit/) from LocalCatalyst.ai. Our CATALYST Methodology evaluates every element that drives local search performance.

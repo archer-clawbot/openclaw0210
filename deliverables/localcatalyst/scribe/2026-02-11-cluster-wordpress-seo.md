@@ -24,7 +24,7 @@ But here is the critical distinction: WordPress is the best CMS for SEO only whe
 
 That is what our **WordPress SEO services** deliver. We take the most powerful CMS on the web and configure every layer — hosting, theme, plugins, settings, content structure — for maximum search performance. The result is a site that loads faster, indexes cleaner, and ranks higher than anything built on a proprietary platform.
 
-If your current WordPress site is underperforming, **[request a free SEO audit](/free-seo-audit/)** and we will diagnose exactly what is holding it back.
+If your current WordPress site is underperforming, **[Order an SEO Audit](/services/seo-audit/)** and we will diagnose exactly what is holding it back.
 
 ## Our WordPress SEO Stack
 
@@ -233,8 +233,8 @@ Security updates should be applied within 72 hours of release. Major version upd
 
 ### Can you optimize my existing WordPress site without a full rebuild?
 
-In many cases, yes. If your site runs on a lightweight theme (GeneratePress, Astra, Kadence) with a manageable plugin stack, we can optimize the existing installation — cleaning the database, configuring caching, implementing schema, fixing technical issues, and restructuring content. But if your site is built on a heavy page builder with 30+ plugins, a rebuild on our performance stack will be faster, cheaper, and produce better results than trying to optimize around architectural limitations. Our [free SEO audit](/free-seo-audit/) will tell you which approach makes sense for your situation.
+In many cases, yes. If your site runs on a lightweight theme (GeneratePress, Astra, Kadence) with a manageable plugin stack, we can optimize the existing installation — cleaning the database, configuring caching, implementing schema, fixing technical issues, and restructuring content. But if your site is built on a heavy page builder with 30+ plugins, a rebuild on our performance stack will be faster, cheaper, and produce better results than trying to optimize around architectural limitations. Our [free SEO audit](/services/seo-audit/) will tell you which approach makes sense for your situation.
 
 ---
 
-**WordPress is the most powerful SEO platform available — but only when every layer is engineered for performance.** Our CATALYST audit reveals exactly what your WordPress site needs to compete. [Get your free SEO audit](/free-seo-audit/) and see the difference between a WordPress site and a WordPress site built for search.
+**WordPress is the most powerful SEO platform available — but only when every layer is engineered for performance.** Our CATALYST audit reveals exactly what your WordPress site needs to compete. [Order Your SEO Audit](/services/seo-audit/) and see the difference between a WordPress site and a WordPress site built for search.

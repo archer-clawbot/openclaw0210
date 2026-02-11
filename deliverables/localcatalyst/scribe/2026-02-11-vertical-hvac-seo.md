@@ -22,7 +22,7 @@ But here is the problem most HVAC companies face: the phone rings off the hook f
 
 At LocalCatalyst, HVAC SEO is one of our deepest verticals. We understand the seasonal dynamics, the emergency-driven search patterns, the multi-city service area challenges, and the constant competitive pressure from lead aggregators like HomeAdvisor and Angi that want to sell you your own customers at a markup. Our [CATALYST methodology](/local-seo-services/) (Audit, Prioritize, Execute, Expand) is built to systematically build the kind of year-round local search dominance that smooths out the seasonal rollercoaster and generates consistent lead flow.
 
-Want to see where your HVAC business ranks across your service area — and where you are invisible? [Request a free SEO audit](/free-seo-audit/) and we will map your visibility on a geo-grid showing every gap and opportunity.
+Want to see where your HVAC business ranks across your service area — and where you are invisible? [Order an SEO Audit](/services/seo-audit/) and we will map your visibility on a geo-grid showing every gap and opportunity.
 
 ## Seasonal SEO Strategy for HVAC Companies
 
@@ -182,4 +182,4 @@ We track everything tied to lead generation: geo-grid rankings across your entir
 
 ---
 
-*Ready to generate HVAC leads year-round instead of riding the seasonal rollercoaster? [Request your free HVAC SEO audit](/free-seo-audit/) and see exactly where you rank across your service area, where you are invisible, and where the biggest opportunities lie.*
+*Ready to generate HVAC leads year-round instead of riding the seasonal rollercoaster? [Request your free HVAC SEO audit](/services/seo-audit/) and see exactly where you rank across your service area, where you are invisible, and where the biggest opportunities lie.*

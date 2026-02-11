@@ -19,7 +19,7 @@ Resource page link building is one of the most reliable, scalable, and white-hat
 
 Unlike tactics that ask for links without offering value, resource link building works because both sides benefit. The resource page owner gets a better list for their audience. You get an authoritative, contextually relevant backlink. Google rewards this because the link was placed for the reader's benefit, not manufactured for ranking manipulation.
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** — We will analyze your current backlink profile and identify the resource page opportunities that align with your business and content assets.
+**[Order Your SEO Audit](/services/seo-audit/)** — We will analyze your current backlink profile and identify the resource page opportunities that align with your business and content assets.
 
 ---
 
@@ -158,4 +158,4 @@ Beyond Google operators and competitor analysis, we use backlink databases to re
 
 Resource page link building is the closest thing to a "win-win" in SEO. You create genuinely useful content. Resource page owners link to it because it helps their audience. Google rewards the link because it represents a real editorial endorsement. Everyone benefits.
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** — We will evaluate your current content assets, identify the most promising resource page opportunities in your industry, and show you the path to earning high-authority backlinks at scale.
+**[Order Your SEO Audit](/services/seo-audit/)** — We will evaluate your current content assets, identify the most promising resource page opportunities in your industry, and show you the path to earning high-authority backlinks at scale.

@@ -24,7 +24,7 @@ Dental SEO is unlike most other local verticals because of the patient lifetime 
 
 At LocalCatalyst, dental SEO is one of our strongest verticals. We understand the specific competitive dynamics that dental practices face — competition from DSOs (Dental Service Organizations) with massive marketing budgets, aggregator platforms like Zocdoc and 1-800-DENTIST that insert themselves between you and your patients, and the challenge of differentiating a general practice in a market where there are three dentists on every block. Our [CATALYST methodology](/local-seo-services/) (Audit, Prioritize, Execute, Expand) gives dental practices a structured, data-driven path from invisibility to dominance in local search.
 
-Want to know exactly where your practice stands right now? [Request a free SEO audit](/free-seo-audit/) and we will map your visibility across a geo-grid of your service area — showing you where you rank, where you are invisible, and where the biggest patient acquisition opportunities are hiding.
+Want to know exactly where your practice stands right now? [Order an SEO Audit](/services/seo-audit/) and we will map your visibility across a geo-grid of your service area — showing you where you rank, where you are invisible, and where the biggest patient acquisition opportunities are hiding.
 
 ## The Dental Search Landscape
 
@@ -180,7 +180,7 @@ DSOs compete on brand recognition and marketing budget. Independent practices co
 
 ### How much does dental SEO cost?
 
-Pricing depends on your market's competitive intensity, the number of locations, the scope of services you want to promote, and the gap between your current visibility and your goals. We price to deliver clear ROI: if a new patient represents $2,000-5,000 in first-year revenue and $10,000-50,000 in lifetime value, generating even 10 additional patients per month from organic search delivers a substantial return. [Request a free audit](/free-seo-audit/) for a transparent proposal with projected outcomes.
+Pricing depends on your market's competitive intensity, the number of locations, the scope of services you want to promote, and the gap between your current visibility and your goals. We price to deliver clear ROI: if a new patient represents $2,000-5,000 in first-year revenue and $10,000-50,000 in lifetime value, generating even 10 additional patients per month from organic search delivers a substantial return. [Request a free audit](/services/seo-audit/) for a transparent proposal with projected outcomes.
 
 ### What metrics do you track for dental SEO?
 
@@ -188,4 +188,4 @@ We track everything that ties to patient acquisition: geo-grid rankings across y
 
 ---
 
-*Ready to fill every chair in your practice? [Request your free dental SEO audit](/free-seo-audit/) and see exactly where your practice ranks, where patients are finding your competitors instead, and where the biggest growth opportunities lie.*
+*Ready to fill every chair in your practice? [Request your free dental SEO audit](/services/seo-audit/) and see exactly where your practice ranks, where patients are finding your competitors instead, and where the biggest growth opportunities lie.*

@@ -417,8 +417,8 @@ The core concepts remain stable, but Google regularly introduces new features an
 
 Understanding SEO terminology is the first step. Turning that knowledge into a strategy that drives real business results is the next.
 
-If you want a clear assessment of where your website stands and what it would take to improve your local search visibility, request a [free SEO audit](/free-seo-audit/). We will evaluate your site's technical health, content quality, local presence, and competitive positioning — then give you a prioritized action plan.
+If you want a clear assessment of where your website stands and what it would take to improve your local search visibility, order an SEO audit(/services/seo-audit/). We will evaluate your site's technical health, content quality, local presence, and competitive positioning — then give you a prioritized action plan.
 
 No jargon without context. No recommendations without data.
 
-[Request Your Free SEO Audit](/free-seo-audit/)
+[Order Your SEO Audit](/services/seo-audit/)

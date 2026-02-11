@@ -201,4 +201,4 @@ Most businesses are leaving significant organic traffic on the table simply beca
 
 At LocalCatalyst.ai, our CATALYST Methodology includes competitive content gap analysis as a core component of every [content strategy](/seo-content-strategy/) engagement. We identify not just what you are missing, but exactly what to create, in what order, and how to structure it for maximum impact.
 
-[Request your free SEO audit](/free-seo-audit/) to see where your content gaps are costing you traffic and leads.
+[Order Your SEO Audit](/services/seo-audit/) to see where your content gaps are costing you traffic and leads.

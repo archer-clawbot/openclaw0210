@@ -229,4 +229,4 @@ E-E-A-T is not a checkbox exercise. It is a reflection of the genuine quality, e
 
 At LocalCatalyst.ai, our content strategy recommendations are built around E-E-A-T principles. We help local businesses demonstrate their genuine expertise and experience in ways that both Google and potential customers recognize and reward.
 
-[Contact us](/contact/) to discuss how we can help you build content that demonstrates the experience, expertise, authority, and trust your business has already earned.
+[See Our Services](/services/) to discuss how we can help you build content that demonstrates the experience, expertise, authority, and trust your business has already earned.

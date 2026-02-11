@@ -30,7 +30,7 @@
 We're an SEO agency that brings enterprise-level expertise to local businesses. No guesswork. No black boxes. Just data-driven optimization that makes you visible, credible, and profitable.
 
 ### Hero CTA
-**[Get Your Free SEO Audit]**
+**[Order Your SEO Audit](/services/seo-audit/)**
 
 ---
 
@@ -338,11 +338,11 @@ We offer flexible engagement models based on your needs and market competitivene
 #### Enterprise/Multi-Location — Custom Pricing
 **Best for:** Businesses with multiple locations or complex needs
 
-**Contact us for custom pricing and scope.**
+**See our [pricing page](/pricing/) for all options.**
 
 ---
 
-**[Get Your Free SEO Audit]**
+**[Order Your SEO Audit](/services/seo-audit/)**
 
 ---
 
@@ -375,7 +375,7 @@ A: It depends on your business and market. A local service business ranking #1 f
 
 ### H2: Ready to Work with an SEO Agency That Gets Results?
 
-Schedule a free strategy call and get:
+Browse our services and get:
 - ✅ Complete SEO audit (technical, on-page, GBP)
 - ✅ Competitive analysis
 - ✅ Custom roadmap with timeline
@@ -383,7 +383,7 @@ Schedule a free strategy call and get:
 
 **No pressure. No sales pitch. Just honest analysis and clear recommendations.**
 
-**[Schedule Your Free Strategy Call]**
+**[Browse Our Services](/services/)**
 
 ---
 
@@ -482,7 +482,7 @@ Home > SEO Agency
 
 ## CONVERSION OPTIMIZATION NOTES
 
-**Primary CTA:** Schedule free strategy call  
+**Primary CTA:** Browse services catalog  
 **Secondary CTA:** Get SEO audit  
 **Tertiary CTA:** View services
 

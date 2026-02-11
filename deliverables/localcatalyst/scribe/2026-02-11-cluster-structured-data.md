@@ -271,4 +271,4 @@ Errors prevent the affected schema type from generating rich results. Warnings i
 
 ---
 
-**Is your website missing the structured data that enables rich results?** [Request your free SEO audit](/free-seo-audit/) to get a complete schema markup analysis showing which types are implemented, which are missing, and what rich results you are leaving on the table.
+**Is your website missing the structured data that enables rich results?** [Order Your SEO Audit](/services/seo-audit/) to get a complete schema markup analysis showing which types are implemented, which are missing, and what rich results you are leaving on the table.

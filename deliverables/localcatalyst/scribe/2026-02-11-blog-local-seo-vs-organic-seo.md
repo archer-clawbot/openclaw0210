@@ -167,4 +167,4 @@ There is significant overlap, but yes — local SEO often requires specialized t
 
 The first step in any SEO strategy is understanding your current position — in both local and organic search. Our free audit evaluates your local pack visibility, organic rankings, technical health, and competitive landscape so you know exactly where to focus your efforts.
 
-[Get your free SEO audit](/free-seo-audit/) and see how your business performs across local and organic search.
+[Order Your SEO Audit](/services/seo-audit/) and see how your business performs across local and organic search.

@@ -21,7 +21,7 @@ Both types matter. They serve different functions in Google's local ranking algo
 
 At LocalCatalyst, our [citation building services](/citation-building-services/) encompass both structured and unstructured citations because a complete citation profile requires both. Understanding the distinction — and knowing how to build each type strategically — is what separates businesses that dominate local search from those that merely participate in it.
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** — We'll analyze your citation profile across both types and show you where the gaps are.
+**[Order Your SEO Audit](/services/seo-audit/)** — We'll analyze your citation profile across both types and show you where the gaps are.
 
 ---
 
@@ -211,4 +211,4 @@ Structured citation consistency is the more direct Map Pack ranking factor — G
 
 Structured citations are the foundation. Unstructured citations are the differentiator. Together, they build the complete trust profile that Google's local ranking algorithm rewards with visibility, rankings, and customers.
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** — We'll analyze both your structured and unstructured citation profiles and show you exactly where to invest for maximum ranking impact.
+**[Order Your SEO Audit](/services/seo-audit/)** — We'll analyze both your structured and unstructured citation profiles and show you exactly where to invest for maximum ranking impact.

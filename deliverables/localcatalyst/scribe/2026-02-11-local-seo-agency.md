@@ -382,7 +382,7 @@ A: We operate month-to-month (no long-term contracts). You can cancel anytime wi
 
 Let's talk about your market, your competitors, and how LocalCatalyst can get you ranking in the Map Pack.
 
-**CTA Button Text:** Schedule Your Free Strategy Call  
+**CTA Button Text:** Browse our services  
 **CTA Button Link:** /contact/
 
 **Secondary Text Below Button:**  

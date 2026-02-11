@@ -208,4 +208,4 @@ If your initial reinstatement attempt is denied or if your business relies heavi
 
 ## Get Expert Help With Your GBP
 
-Dealing with a suspension is stressful, but it is recoverable in most cases. If you want help diagnosing the issue, preparing your documentation, or building a prevention strategy, [request a free SEO audit](/free-seo-audit/) from LocalCatalyst.ai. We will assess your current GBP health, identify risk factors, and provide a clear action plan to protect your local search visibility.
+Dealing with a suspension is stressful, but it is recoverable in most cases. If you want help diagnosing the issue, preparing your documentation, or building a prevention strategy, [Order an SEO Audit](/services/seo-audit/) from LocalCatalyst.ai. We will assess your current GBP health, identify risk factors, and provide a clear action plan to protect your local search visibility.

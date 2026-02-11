@@ -148,4 +148,4 @@ When you work with LocalCatalyst, you're not getting a team that has to learn yo
 
 We offer a free, no-obligation SEO audit that shows you exactly where you stand in your local market --- what's working, what's broken, and what the biggest opportunities are. No sales pitch. Just data.
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** | **[Schedule a Strategy Call](/contact/)**
+**[Order Your SEO Audit](/services/seo-audit/)** | **[Browse Our Services](/services/)**

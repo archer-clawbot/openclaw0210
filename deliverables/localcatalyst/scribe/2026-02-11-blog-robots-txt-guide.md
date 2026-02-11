@@ -232,4 +232,4 @@ Google caches your `robots.txt` and refreshes it approximately once per day, tho
 
 ## Make Sure Your Robots.txt Is Working for You
 
-A misconfigured `robots.txt` file can silently undermine your entire SEO effort. If you are not confident in your current configuration, [request a free SEO audit](/free-seo-audit/) and we will review your robots.txt alongside your full technical SEO setup.
+A misconfigured `robots.txt` file can silently undermine your entire SEO effort. If you are not confident in your current configuration, [Order an SEO Audit](/services/seo-audit/) and we will review your robots.txt alongside your full technical SEO setup.

@@ -120,4 +120,4 @@ Google releases updates continuously, but confirmed named updates (core updates,
 
 ---
 
-**Wondering how the latest Google updates have affected your local rankings?** [Request a free SEO audit](/free-seo-audit/) for a complete analysis of your current position, including the impact of recent algorithm changes. Or [contact our team](/contact/) to discuss how to adapt your local SEO strategy to the latest search landscape.
+**Wondering how the latest Google updates have affected your local rankings?** [Order an SEO Audit](/services/seo-audit/) for a complete analysis of your current position, including the impact of recent algorithm changes. Or [contact our team](/contact/) to discuss how to adapt your local SEO strategy to the latest search landscape.

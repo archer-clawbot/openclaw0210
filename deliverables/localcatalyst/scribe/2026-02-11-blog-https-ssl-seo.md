@@ -182,4 +182,4 @@ Yes. Google applies the ranking signal regardless of whether your site collects 
 
 ## Secure Your Site and Your Rankings
 
-HTTPS migration is a one-time project with permanent benefits. If you are unsure about your current SSL configuration or worried about a migration going wrong, [request a free SEO audit](/free-seo-audit/) or [contact us](/contact/) for expert guidance through the process.
+HTTPS migration is a one-time project with permanent benefits. If you are unsure about your current SSL configuration or worried about a migration going wrong, [Order an SEO Audit](/services/seo-audit/) or [See Our Services](/services/) for expert guidance through the process.

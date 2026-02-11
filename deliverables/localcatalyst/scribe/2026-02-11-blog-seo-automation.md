@@ -146,4 +146,4 @@ In-house teams often benefit more from automation than agencies, because they ty
 
 ---
 
-**Want to see how automation and human strategy work together on a real campaign?** [Request a free SEO audit](/free-seo-audit/) and experience our CATALYST process firsthand — automated agents handle the comprehensive analysis, and a human strategist walks you through the findings and recommended priorities.
+**Want to see how automation and human strategy work together on a real campaign?** [Order an SEO Audit](/services/seo-audit/) and experience our CATALYST process firsthand — automated agents handle the comprehensive analysis, and a human strategist walks you through the findings and recommended priorities.

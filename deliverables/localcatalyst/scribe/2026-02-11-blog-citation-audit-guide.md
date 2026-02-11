@@ -217,4 +217,4 @@ Yes. Citation inconsistencies are one of the most common and most overlooked cau
 
 A thorough citation audit reveals the hidden inconsistencies that silently undermine your local rankings. If you want a professional audit with prioritized corrections and ongoing monitoring, LocalCatalyst can handle it through our CATALYST methodology, backed by precision geo-grid tracking that measures the real-world impact of every correction.
 
-[Get your free SEO audit](/free-seo-audit/) to start with a high-level view of your citation health and local search visibility.
+[Order Your SEO Audit](/services/seo-audit/) to start with a high-level view of your citation health and local search visibility.

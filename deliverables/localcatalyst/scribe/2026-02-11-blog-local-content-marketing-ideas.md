@@ -255,4 +255,4 @@ Your local expertise, community connections, and first-hand experience are conte
 
 At LocalCatalyst.ai, our CATALYST Methodology includes local content strategy that leverages your unique market position. We identify the content opportunities specific to your service area, industry, and competitive landscape, then build a plan that turns your local expertise into sustainable organic visibility.
 
-[Request your free SEO audit](/free-seo-audit/) to discover the local content opportunities your competitors are missing.
+[Order Your SEO Audit](/services/seo-audit/) to discover the local content opportunities your competitors are missing.

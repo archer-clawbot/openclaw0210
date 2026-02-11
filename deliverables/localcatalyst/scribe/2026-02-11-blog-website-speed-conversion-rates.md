@@ -179,4 +179,4 @@ Absolutely. Speed affects conversions independently of rankings. A site that ran
 
 ## Stop Losing Conversions to Slow Load Times
 
-If your website is not loading in under 3 seconds, you are leaving money on the table. [Request a free SEO audit](/free-seo-audit/) from LocalCatalyst.ai and we will assess your site's speed, Core Web Vitals, and conversion readiness as part of our comprehensive CATALYST Methodology analysis.
+If your website is not loading in under 3 seconds, you are leaving money on the table. [Order an SEO Audit](/services/seo-audit/) from LocalCatalyst.ai and we will assess your site's speed, Core Web Vitals, and conversion readiness as part of our comprehensive CATALYST Methodology analysis.

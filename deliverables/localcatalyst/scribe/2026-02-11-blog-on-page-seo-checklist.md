@@ -204,4 +204,4 @@ Track three key metrics: organic keyword rankings (especially geo-grid visibilit
 
 If working through this checklist feels overwhelming, or if you want expert implementation backed by data-driven methodology, LocalCatalyst can help. Our CATALYST framework systematically optimizes every on-page element across your entire site, tracked through precision geo-grid monitoring.
 
-[Request your free SEO audit](/free-seo-audit/) and let us show you exactly where your on-page optimization stands today and what it will take to reach page one.
+[Order Your SEO Audit](/services/seo-audit/) and let us show you exactly where your on-page optimization stands today and what it will take to reach page one.

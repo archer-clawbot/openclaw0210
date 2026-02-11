@@ -148,4 +148,4 @@ Active roofing websites should receive content updates at minimum monthly throug
 
 Your website should be your best salesperson: available 24/7, always on message, and consistently converting visitors into leads. If your current site is not generating the call volume and quote requests your market supports, the design is likely the bottleneck.
 
-[Get your free SEO audit](/free-seo-audit/) to see exactly where your roofing website underperforms and what improvements will have the biggest impact on lead generation.
+[Order Your SEO Audit](/services/seo-audit/) to see exactly where your roofing website underperforms and what improvements will have the biggest impact on lead generation.

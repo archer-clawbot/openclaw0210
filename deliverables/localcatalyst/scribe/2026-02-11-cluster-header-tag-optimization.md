@@ -193,4 +193,4 @@ Header tags carry more weight than body text as a relevance signal, but they wor
 
 ---
 
-**Are your header tags helping your rankings or hurting them?** [Request your free SEO audit](/free-seo-audit/) to receive a complete on-page analysis, including header hierarchy review across every page of your site.
+**Are your header tags helping your rankings or hurting them?** [Order Your SEO Audit](/services/seo-audit/) to receive a complete on-page analysis, including header hierarchy review across every page of your site.

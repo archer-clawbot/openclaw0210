@@ -21,7 +21,7 @@ It did not come back. Not after a month. Not after three months. The firm had to
 
 This story is not unusual. It is the norm. As part of our [SEO website design](/seo-website-design/) services, we have rebuilt or recovered dozens of websites where a redesign destroyed years of accumulated SEO equity. The tragedy is that every one of these losses was preventable with proper planning.
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** — If you are planning a redesign, start here. We will baseline your current rankings, traffic, and link equity so nothing gets lost in the transition.
+**[Order Your SEO Audit](/services/seo-audit/)** — If you are planning a redesign, start here. We will baseline your current rankings, traffic, and link equity so nothing gets lost in the transition.
 
 ---
 
@@ -207,4 +207,4 @@ The SEO oversight for a redesign typically runs 30-50% of the design build cost,
 
 A website redesign should be a step forward, not a reset to zero. Every ranking you have earned, every backlink pointing to your site, every page generating traffic — these are assets that must be preserved through the transition.
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** — Whether you are planning a redesign or recovering from one that went wrong, start with a complete picture of where your SEO stands today. We will show you exactly what needs to be protected — and exactly how we protect it.
+**[Order Your SEO Audit](/services/seo-audit/)** — Whether you are planning a redesign or recovering from one that went wrong, start with a complete picture of where your SEO stands today. We will show you exactly what needs to be protected — and exactly how we protect it.

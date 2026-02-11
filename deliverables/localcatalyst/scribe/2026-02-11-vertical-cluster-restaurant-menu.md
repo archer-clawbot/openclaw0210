@@ -136,4 +136,4 @@ For most restaurants, individual pages for every menu item is excessive and can 
 
 Your menu already contains the keywords diners are searching for. The question is whether search engines can find and understand that content. A properly optimized menu page turns every dish into a potential discovery path for new customers.
 
-[Get your free SEO audit](/free-seo-audit/) and we will assess your menu's current search visibility and identify the optimizations that will drive the most new diner discovery.
+[Order Your SEO Audit](/services/seo-audit/) and we will assess your menu's current search visibility and identify the optimizations that will drive the most new diner discovery.

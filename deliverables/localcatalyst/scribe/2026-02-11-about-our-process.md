@@ -59,7 +59,7 @@ We evaluate the quality, quantity, and relevance of your existing backlinks. We 
 
 At the end of Phase A, you receive a **comprehensive audit report** with every finding prioritized by impact. This isn't a 3-page summary — it's a detailed diagnostic that tells you exactly where you stand and exactly what needs to happen next.
 
-**[Get your free audit](/free-seo-audit/)** to see what Phase A reveals about your business.
+**[Order your SEO audit](/services/seo-audit/)** to see what Phase A reveals about your business.
 
 ---
 
@@ -155,4 +155,4 @@ Phase X begins. The foundation is solid, rankings are climbing, and we shift foc
 
 Every engagement begins with an audit. Ours is free, comprehensive, and delivered within 24 hours. No obligation. No sales pitch. Just the data you need to make an informed decision.
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** and see exactly where your business stands — and where we can take it.
+**[Order Your SEO Audit](/services/seo-audit/)** and see exactly where your business stands — and where we can take it.

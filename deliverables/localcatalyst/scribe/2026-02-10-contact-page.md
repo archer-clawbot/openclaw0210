@@ -27,7 +27,7 @@
 **Let's Talk About Your Goals**
 
 ### Subheadline
-Schedule a free strategy call and get an honest assessment of your SEO opportunities. No pressure, no sales pitch — just data-driven recommendations.
+Browse our services and get an honest assessment of your SEO opportunities. No pressure, no sales pitch — just data-driven recommendations.
 
 ---
 
@@ -140,7 +140,7 @@ After the call:
 
 ### H2: Frequently Asked Questions
 
-**Q: What if I'm not ready to hire an agency?**  
+**Q: What if I'm not ready for managed SEO?**  
 A: That's fine. We'll still give you the audit and recommendations. You can implement them yourself or come back when you're ready.
 
 **Q: Do you work with businesses outside the US?**  
@@ -201,7 +201,7 @@ Fill out the form below and we'll respond within 24 hours.
 
 ### H2: Ready to Take the First Step?
 
-**[Schedule Your Free Strategy Call]**
+**[Browse Our Services](/services/)**
 
 **Or call us directly: [(XXX) XXX-XXXX](tel:+1XXXXXXXXXX)**
 
@@ -275,7 +275,7 @@ Home > Contact
 ## TRUST SIGNALS TO INCLUDE
 
 - No credit card required for audit
-- Free consultation with no obligation
+- No-obligation product catalog — buy only what you need
 - Response time guarantee (24 hours for emails)
 - Client success metrics (average results)
 - Privacy statement (info never shared/sold)

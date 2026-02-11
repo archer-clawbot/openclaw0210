@@ -185,4 +185,4 @@ If you cannot correct a listing and it contains significantly wrong information 
 
 NAP inconsistencies are a solvable problem, but they require systematic effort and ongoing vigilance. If you want professional NAP cleanup backed by data-driven methodology and continuous monitoring, LocalCatalyst's CATALYST framework handles the entire process from audit through correction through verification, with precision geo-grid tracking to measure the ranking impact of every fix.
 
-[Request your free SEO audit](/free-seo-audit/) to get a clear picture of your current NAP consistency and a roadmap for correcting the issues that are holding back your local rankings.
+[Order Your SEO Audit](/services/seo-audit/) to get a clear picture of your current NAP consistency and a roadmap for correcting the issues that are holding back your local rankings.

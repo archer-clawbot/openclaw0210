@@ -118,4 +118,4 @@ Focus on areas where local companies have natural advantages: detailed service d
 
 ## Get Your Pest Control Company Into the Map Pack
 
-Every call that goes to a competitor's Map Pack listing is revenue you lost because your GBP was not optimized. [Contact us](/contact/) for a GBP audit that identifies exactly where your pest control listing is underperforming and provides a prioritized optimization plan to increase your Map Pack visibility and call volume.
+Every call that goes to a competitor's Map Pack listing is revenue you lost because your GBP was not optimized. [See Our Services](/services/) for a GBP audit that identifies exactly where your pest control listing is underperforming and provides a prioritized optimization plan to increase your Map Pack visibility and call volume.

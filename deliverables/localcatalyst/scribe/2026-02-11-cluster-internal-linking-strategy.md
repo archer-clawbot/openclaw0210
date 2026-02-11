@@ -240,4 +240,4 @@ Google has stated there's no penalty for having many internal links, but practic
 
 ---
 
-**Is your internal linking strategy working — or working against you?** Our CATALYST audit reveals orphan pages, broken links, and missed internal linking opportunities that are holding your rankings back. [Request your free SEO audit](/free-seo-audit/) and get an actionable internal linking roadmap.
+**Is your internal linking strategy working — or working against you?** Our CATALYST audit reveals orphan pages, broken links, and missed internal linking opportunities that are holding your rankings back. [Order Your SEO Audit](/services/seo-audit/) and get an actionable internal linking roadmap.

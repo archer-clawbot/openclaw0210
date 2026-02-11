@@ -240,6 +240,6 @@ Google makes thousands of small changes per year. Major confirmed core updates h
 
 The best defense against algorithm updates is a strategy built on what Google consistently rewards: quality content, technical excellence, genuine authority, and user-first design.
 
-If you are concerned about how recent algorithm changes may have affected your site, or if you want to ensure your SEO foundation is resilient against future updates, request a [free SEO audit](/free-seo-audit/). We will analyze your content quality, technical health, link profile, and local presence — and identify any vulnerabilities before the next update finds them.
+If you are concerned about how recent algorithm changes may have affected your site, or if you want to ensure your SEO foundation is resilient against future updates, order an SEO audit(/services/seo-audit/). We will analyze your content quality, technical health, link profile, and local presence — and identify any vulnerabilities before the next update finds them.
 
-[Request Your Free SEO Audit](/free-seo-audit/)
+[Order Your SEO Audit](/services/seo-audit/)

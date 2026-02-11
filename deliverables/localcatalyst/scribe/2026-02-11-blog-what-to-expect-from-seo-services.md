@@ -192,4 +192,4 @@ Understanding what to expect is the first step. The second is getting a clear pi
 
 Our [local SEO services](/services/local-seo/) are built on the transparency and communication standards outlined in this guide. Every engagement starts with a thorough audit and a documented strategy.
 
-**[Request your free SEO audit](/free-seo-audit/)** to see exactly where you stand and what realistic improvement looks like for your business.
+**[Order Your SEO Audit](/services/seo-audit/)** to see exactly where you stand and what realistic improvement looks like for your business.

@@ -141,6 +141,6 @@ Aim for 4.5 stars or above. A 4.7-4.8 is the sweet spot — high enough to inspi
 
 Every completed job is a potential five-star review. The difference between a home service company with 40 reviews and one with 400 is not the quality of work — it is the quality of the review generation system.
 
-[Request a Free SEO Audit](/free-seo-audit/) to see how your review profile compares to the top-ranking competitors in your market.
+[Order an SEO Audit](/services/seo-audit/) to see how your review profile compares to the top-ranking competitors in your market.
 
-[Contact us](/contact/) to build a review strategy for your home service business.
+[See Our Services](/services/) to build a review strategy for your home service business.

@@ -153,4 +153,4 @@ Yes. Google's current layout places ads above AI Overviews for most commercial q
 
 ---
 
-**Concerned about how AI Overviews are affecting your local search visibility?** [Request a free audit](/free-seo-audit/) and we will analyze your current positioning across all local search surfaces — including an assessment of your AI Overview readiness.
+**Concerned about how AI Overviews are affecting your local search visibility?** [Request a free audit](/services/seo-audit/) and we will analyze your current positioning across all local search surfaces — including an assessment of your AI Overview readiness.

@@ -132,6 +132,6 @@ Respond publicly with professionalism and take it offline: "We take this feedbac
 
 The difference between an auto shop with 50 reviews and one with 500 is not the quality of the work — it is the quality of the system. Every job you complete is a potential five-star review. Our CATALYST methodology builds a review generation and management system that turns satisfied customers into ranking signals and trust builders.
 
-[Request a Free SEO Audit](/free-seo-audit/) to see how your review profile compares to the top-ranking shops in your market.
+[Order an SEO Audit](/services/seo-audit/) to see how your review profile compares to the top-ranking shops in your market.
 
-[Contact us](/contact/) to build a review strategy for your auto repair shop.
+[See Our Services](/services/) to build a review strategy for your auto repair shop.

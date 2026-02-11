@@ -148,7 +148,7 @@ Plan your SEO content calendar around predictable demand cycles. Publish New Yea
 
 Every day, people in your community search for a gym, a trainer, a class, or a fitness solution. They choose from the results Google presents. If your facility is invisible — or buried beneath national chains — you lose members you should be serving. Gym SEO is the most reliable, sustainable way to keep new members walking through your door.
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** and see exactly where your gym stands in local search, how you compare to competitors, and what it will take to become the top fitness choice in your market.
+**[Order Your SEO Audit](/services/seo-audit/)** and see exactly where your gym stands in local search, how you compare to competitors, and what it will take to become the top fitness choice in your market.
 
 ---
 

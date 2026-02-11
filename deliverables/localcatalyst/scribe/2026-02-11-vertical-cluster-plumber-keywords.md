@@ -156,4 +156,4 @@ New pages targeting moderately competitive plumbing keywords typically take 3-6 
 
 ## Find the Keywords Your Competitors Are Missing
 
-Every plumbing market has keyword gaps: high-value terms that no local competitor is targeting well. [Request a free SEO audit](/free-seo-audit/) and we will analyze your market's keyword landscape, identify those gaps, and build a targeting strategy that puts your company in front of customers searching for exactly what you offer.
+Every plumbing market has keyword gaps: high-value terms that no local competitor is targeting well. [Order an SEO Audit](/services/seo-audit/) and we will analyze your market's keyword landscape, identify those gaps, and build a targeting strategy that puts your company in front of customers searching for exactly what you offer.

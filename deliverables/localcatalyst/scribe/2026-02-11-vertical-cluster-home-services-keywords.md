@@ -144,6 +144,6 @@ Each service page should target one primary keyword (e.g., "AC repair Austin") a
 
 The right keyword strategy turns your website into a lead generation machine that works 24/7. Our CATALYST methodology begins with comprehensive keyword research that maps the entire opportunity landscape for your trade and market.
 
-[Request a Free SEO Audit](/free-seo-audit/) to see which keywords you are ranking for, which you are missing, and where the biggest opportunities lie.
+[Order an SEO Audit](/services/seo-audit/) to see which keywords you are ranking for, which you are missing, and where the biggest opportunities lie.
 
-[Contact us](/contact/) to build a keyword strategy for your home service business.
+[See Our Services](/services/) to build a keyword strategy for your home service business.

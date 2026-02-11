@@ -290,4 +290,4 @@ Every business has a different competitive landscape, starting point, and growth
 
 Our [local SEO services](/services/local-seo/) are priced to deliver measurable ROI for local businesses, and every engagement starts with a transparent proposal that defines exactly what you will receive.
 
-**[Request your free SEO audit](/free-seo-audit/)** and we will provide a customized recommendation based on your market, competition, and business goals -- with clear pricing and no hidden costs.
+**[Order Your SEO Audit](/services/seo-audit/)** and we will provide a customized recommendation based on your market, competition, and business goals -- with clear pricing and no hidden costs.

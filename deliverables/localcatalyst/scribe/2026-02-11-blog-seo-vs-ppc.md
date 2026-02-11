@@ -220,8 +220,8 @@ Start with both. Use PPC to generate immediate leads and cash flow while investi
 
 The decision between SEO, PPC, or a combined approach starts with understanding your current organic position and the size of the opportunity in front of you.
 
-Request a [free SEO audit](/free-seo-audit/) and we will show you exactly where you stand in organic search, how your competitors are performing, and what it would take to reduce your dependence on paid traffic through sustainable organic growth.
+Order an SEO audit(/services/seo-audit/) and we will show you exactly where you stand in organic search, how your competitors are performing, and what it would take to reduce your dependence on paid traffic through sustainable organic growth.
 
 No hard sell. Just data and a clear plan.
 
-[Request Your Free SEO Audit](/free-seo-audit/)
+[Order Your SEO Audit](/services/seo-audit/)

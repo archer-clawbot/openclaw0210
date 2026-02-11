@@ -154,6 +154,6 @@ Report fake listings through Google's Business Redressal Complaint Form. Google 
 
 Your Google Business Profile should generate leads around the clock. Our CATALYST methodology includes a complete GBP audit, optimization, and ongoing management plan that maximizes your Map Pack visibility across your entire service territory.
 
-[Request a Free SEO Audit](/free-seo-audit/) to see how your GBP performs compared to the top-ranking contractors in your market.
+[Order an SEO Audit](/services/seo-audit/) to see how your GBP performs compared to the top-ranking contractors in your market.
 
-[Contact us](/contact/) to discuss GBP management for your home service business.
+[See Our Services](/services/) to discuss GBP management for your home service business.

@@ -108,4 +108,4 @@ At LocalCatalyst, David also leads the local visibility measurement practice, tr
 
 We bring this same depth of expertise to every client engagement --- whether you're a single-location service business or a multi-location brand. If you're ready to work with a team that treats local SEO as a craft rather than a checklist, we'd love to hear from you.
 
-**[Schedule a Free Strategy Call](/contact/)** | **[Get Your Free SEO Audit](/free-seo-audit/)**
+**[Browse Our Services](/services/)** | **[Order Your SEO Audit](/services/seo-audit/)**

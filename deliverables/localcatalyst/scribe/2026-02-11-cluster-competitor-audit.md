@@ -21,7 +21,7 @@ As a strategic component of our [SEO audit services](/seo-audit-services/), our 
 
 You cannot outrank what you do not understand. And most businesses are competing blind — investing in SEO tactics without knowing whether those tactics address the actual competitive gaps in their market.
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** — We include a competitive overview showing who your real SEO competitors are and where they have the biggest advantages over you.
+**[Order Your SEO Audit](/services/seo-audit/)** — We include a competitive overview showing who your real SEO competitors are and where they have the biggest advantages over you.
 
 ---
 
@@ -191,4 +191,4 @@ That is actually the most valuable time to conduct a competitor audit. When the 
 
 Your competitors have advantages you cannot see — until you look. A competitor audit strips away the guesswork and reveals exactly what separates the businesses that rank from the ones that do not.
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** — We will identify your true SEO competitors, benchmark your visibility against theirs, and show you the specific actions that will close the gap. The businesses ranking above you are not out of reach. They are just better measured.
+**[Order Your SEO Audit](/services/seo-audit/)** — We will identify your true SEO competitors, benchmark your visibility against theirs, and show you the specific actions that will close the gap. The businesses ranking above you are not out of reach. They are just better measured.

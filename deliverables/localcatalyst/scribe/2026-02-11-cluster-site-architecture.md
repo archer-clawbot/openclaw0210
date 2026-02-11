@@ -280,4 +280,4 @@ Breadcrumbs improve SEO through three mechanisms: they provide internal links th
 
 ---
 
-**Is your site architecture helping or hurting your rankings?** [Request your free SEO audit](/free-seo-audit/) to get a comprehensive site architecture analysis, including crawl depth mapping, orphan page detection, and internal linking recommendations.
+**Is your site architecture helping or hurting your rankings?** [Order Your SEO Audit](/services/seo-audit/) to get a comprehensive site architecture analysis, including crawl depth mapping, orphan page detection, and internal linking recommendations.

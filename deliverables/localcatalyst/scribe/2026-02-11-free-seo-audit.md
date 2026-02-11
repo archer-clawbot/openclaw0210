@@ -3,7 +3,7 @@
 **Deliverable:** Lead Magnet Landing Page
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /free-seo-audit/
+**URL:** /services/seo-audit/
 **Primary Keyword:** free SEO audit
 **Secondary Keywords:** free local SEO audit, free website audit, SEO visibility scan, local SEO analysis
 **Title Tag:** Free Local SEO Audit — See Where You Rank | LocalCatalyst.ai
@@ -107,7 +107,7 @@ That's entirely up to you. Some businesses take the audit and implement the reco
 
 ---
 
-## Get Your Free Audit Now
+## Order your SEO audit Now
 
 Six fields. Thirty seconds. A complete picture of your local search visibility — delivered within 24 hours.
 

@@ -199,7 +199,7 @@ Design itself is not a direct ranking factor, but the technical and user experie
 
 ### Should I redesign my website for SEO?
 
-If your current site has fundamental structural issues (poor navigation, slow load times, non-responsive design, JavaScript rendering dependencies), a redesign may be necessary. If the structure is sound but content and optimization are lacking, you may be able to improve SEO without a full redesign. Start with an [SEO audit](/free-seo-audit/) to identify whether the issues are structural or content-based.
+If your current site has fundamental structural issues (poor navigation, slow load times, non-responsive design, JavaScript rendering dependencies), a redesign may be necessary. If the structure is sound but content and optimization are lacking, you may be able to improve SEO without a full redesign. Start with an [SEO audit](/services/seo-audit/) to identify whether the issues are structural or content-based.
 
 ### What is more important: design aesthetics or SEO?
 

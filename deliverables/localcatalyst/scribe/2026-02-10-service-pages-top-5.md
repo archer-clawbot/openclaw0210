@@ -475,7 +475,7 @@ A: Yes. All content is written by our in-house content team (Scribe). You don't 
 
 Let's build a local SEO strategy that brings in customers from your city.
 
-**CTA Button Text:** Get Your Free Local SEO Audit  
+**CTA Button Text:** Order Your SEO Audit  
 **CTA Button Link:** /contact/
 
 ---
@@ -1298,7 +1298,7 @@ Let's keep your local search presence active, optimized, and growing every month
 **CTA Button Link:** /contact/
 
 **Secondary Text Below Button:**  
-Or schedule a free strategy call → [Schedule Call Link]
+Or browse our services → [Schedule Call Link]
 
 ---
 

@@ -21,7 +21,7 @@ Most local businesses get this wrong. Their service pages are 200-word descripti
 
 At LocalCatalyst, service page copywriting is a core component of our [SEO content strategy](/seo-content-strategy/). We write service pages that balance two demands: ranking authority that puts you at the top of Google and conversion copy that turns visitors into customers. These demands aren't in conflict — they're complementary when you know what you're doing.
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** — We'll evaluate your current service pages and show you exactly where they're losing rankings and conversions.
+**[Order Your SEO Audit](/services/seo-audit/)** — We'll evaluate your current service pages and show you exactly where they're losing rankings and conversions.
 
 ---
 
@@ -187,4 +187,4 @@ After publication, Google typically recrawls and reindexes updated pages within 
 
 Every other page on your site exists to support your service pages — blog content builds authority, [links build trust](/link-building-services/), technical optimization ensures crawlability, and your Google Business Profile drives map visibility. But the service pages are where revenue happens.
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** — We'll evaluate every service page on your site and show you exactly where you're leaving rankings and revenue on the table.
+**[Order Your SEO Audit](/services/seo-audit/)** — We'll evaluate every service page on your site and show you exactly where you're leaving rankings and revenue on the table.

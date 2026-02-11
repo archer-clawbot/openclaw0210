@@ -177,4 +177,4 @@ Track these metrics monthly: local pack rankings for target keywords (using geo-
 
 The most accurate way to predict your local SEO timeline is to understand your starting point. Our free audit analyzes your current local visibility, competitive landscape, technical health, and opportunity gaps — giving you a clear, data-backed picture of what it will take to reach your goals.
 
-[Request your free SEO audit](/free-seo-audit/) and get a realistic timeline customized to your market and starting position.
+[Order Your SEO Audit](/services/seo-audit/) and get a realistic timeline customized to your market and starting position.

@@ -24,7 +24,7 @@ The numbers make the case clearly. 89% of consumers read business responses to r
 
 Yet most local businesses either ignore reviews entirely or respond with generic copy-paste replies that waste the opportunity. "Thanks for your review!" repeated 40 times does nothing for your rankings, your brand, or the customer who took time to write about their experience.
 
-If you are not sure how your review response rate compares to competitors in your market, **[request a free SEO audit](/free-seo-audit/)** — we include a complete reputation analysis with response rate benchmarking.
+If you are not sure how your review response rate compares to competitors in your market, **[Order an SEO Audit](/services/seo-audit/)** — we include a complete reputation analysis with response rate benchmarking.
 
 ## Response Time Targets
 
@@ -171,4 +171,4 @@ Google indexes review responses and uses them as additional content signals for 
 
 ---
 
-**Your reviews tell your story — and your responses shape how that story is heard.** Our CATALYST audit evaluates your current review response strategy, identifies gaps, and provides a framework for turning every review into a brand asset. [Get your free SEO audit](/free-seo-audit/) to see how your response rate compares to the competition.
+**Your reviews tell your story — and your responses shape how that story is heard.** Our CATALYST audit evaluates your current review response strategy, identifies gaps, and provides a framework for turning every review into a brand asset. [Order Your SEO Audit](/services/seo-audit/) to see how your response rate compares to the competition.

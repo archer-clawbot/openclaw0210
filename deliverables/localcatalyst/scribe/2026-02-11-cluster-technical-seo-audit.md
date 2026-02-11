@@ -22,7 +22,7 @@ The most common misconception in SEO is that rankings are primarily about conten
 
 We have audited hundreds of local business websites, and the pattern is consistent: the average site has 87 technical issues, and business owners are aware of approximately zero of them. These are not obscure edge cases. They are crawl errors that prevent pages from being indexed. Speed problems that fail Core Web Vitals. Redirect chains that waste crawl budget. Schema errors that suppress rich results. Any one of these can be the reason your competitors outrank you despite having weaker content.
 
-**[Request your free SEO audit](/free-seo-audit/)** to see the top 10 technical issues on your site — and understand why fixing them may be the fastest path to ranking improvement.
+**[Order Your SEO Audit](/services/seo-audit/)** to see the top 10 technical issues on your site — and understand why fixing them may be the fastest path to ranking improvement.
 
 ## Crawlability Analysis: Can Google Find Your Pages?
 
@@ -247,4 +247,4 @@ Absolutely. We have documented cases where fixing a single technical issue — a
 
 ---
 
-**Technical issues are the silent killers of search visibility.** Our technical SEO audit reveals every barrier between your content and the rankings it deserves. [Get your free SEO audit](/free-seo-audit/) and discover what your site's infrastructure is costing you.
+**Technical issues are the silent killers of search visibility.** Our technical SEO audit reveals every barrier between your content and the rankings it deserves. [Order Your SEO Audit](/services/seo-audit/) and discover what your site's infrastructure is costing you.

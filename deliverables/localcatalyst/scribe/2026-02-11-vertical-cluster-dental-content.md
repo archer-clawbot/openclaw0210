@@ -150,4 +150,4 @@ Google does not penalize AI-generated content per se — they penalize low-quali
 
 Every piece of dental content you publish is a permanent asset that generates traffic and patient inquiries month after month. The practices that start building their content engine now will compound their advantage over competitors who wait.
 
-[Request your free SEO audit](/free-seo-audit/) to identify the content gaps in your dental website and get a prioritized content roadmap built around the topics with the highest patient acquisition potential.
+[Order Your SEO Audit](/services/seo-audit/) to identify the content gaps in your dental website and get a prioritized content roadmap built around the topics with the highest patient acquisition potential.

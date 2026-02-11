@@ -162,4 +162,4 @@ Inconsistent citations (different addresses, phone numbers, or business names ac
 
 Understanding the current role of citations is the first step. The second is knowing where your citation profile stands right now and whether it is helping or hurting your local visibility. LocalCatalyst's CATALYST methodology includes citation auditing, building, and monitoring, all measured through precision geo-grid tracking that shows exactly how your local rankings respond.
 
-[Get your free SEO audit](/free-seo-audit/) to see your citation health score and how it compares to the competitors in your local market.
+[Order Your SEO Audit](/services/seo-audit/) to see your citation health score and how it compares to the competitors in your local market.

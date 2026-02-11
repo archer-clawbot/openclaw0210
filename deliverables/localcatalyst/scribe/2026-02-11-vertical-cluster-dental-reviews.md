@@ -146,4 +146,4 @@ You can resolve the issue and then gently mention the option, but never pressure
 
 Your dental practice's Google review profile is either working for you or against you. There's no neutral position. The practices that systematically generate, manage, and leverage reviews dominate their local markets. The ones that leave reviews to chance get outranked by competitors who don't.
 
-[Contact us](/contact/) to learn how LocalCatalyst builds review generation systems that produce consistent, compliant results for dental practices.
+[See Our Services](/services/) to learn how LocalCatalyst builds review generation systems that produce consistent, compliant results for dental practices.

@@ -137,7 +137,7 @@ Each location needs its own Google Business Profile, its own set of landing page
 
 Every day, pet owners in your community search for a veterinarian. They choose from the results Google presents. If your practice is not visible — or if a corporate chain appears above you — you lose patients you should be treating. Veterinary SEO is the most reliable way to ensure the right pet owners find your practice at the moment they need you most.
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** and discover exactly where your practice stands in local search, how you compare to competitors, and what opportunities are waiting to be captured.
+**[Order Your SEO Audit](/services/seo-audit/)** and discover exactly where your practice stands in local search, how you compare to competitors, and what opportunities are waiting to be captured.
 
 ---
 

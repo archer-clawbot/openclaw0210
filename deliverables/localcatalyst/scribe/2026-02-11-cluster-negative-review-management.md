@@ -22,7 +22,7 @@ Let's start with the truth no one wants to hear: negative reviews are inevitable
 
 The businesses with the strongest reputations are not the ones with zero negative reviews. They are the ones that demonstrate professionalism, accountability, and genuine care in how they respond. A 4.7-star business with a handful of 1-star reviews that were all responded to thoughtfully and professionally is more trustworthy than a 5.0-star business with 12 reviews that looks suspiciously curated.
 
-If your negative reviews are dragging down your rating or scaring away potential customers, **[request a free SEO audit](/free-seo-audit/)** — we include a complete review profile analysis with sentiment breakdown and competitive benchmarking.
+If your negative reviews are dragging down your rating or scaring away potential customers, **[Order an SEO Audit](/services/seo-audit/)** — we include a complete review profile analysis with sentiment breakdown and competitive benchmarking.
 
 ## The Real Impact of Negative Reviews on Your Business
 
@@ -175,4 +175,4 @@ Yes. Google's local ranking algorithm considers average rating, review sentiment
 
 ---
 
-**Negative reviews are inevitable. Reputation damage is not.** Our CATALYST audit includes a complete review profile analysis showing your current rating trajectory, negative review patterns, and a custom recovery roadmap. [Get your free SEO audit](/free-seo-audit/) and take control of your reputation today.
+**Negative reviews are inevitable. Reputation damage is not.** Our CATALYST audit includes a complete review profile analysis showing your current rating trajectory, negative review patterns, and a custom recovery roadmap. [Order Your SEO Audit](/services/seo-audit/) and take control of your reputation today.

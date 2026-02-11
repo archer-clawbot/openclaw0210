@@ -159,4 +159,4 @@ A full redesign every 3-4 years is typical, but the more important question is w
 
 Your medical practice website should be your hardest-working employee — generating new patient inquiries around the clock. If your current site isn't doing that, the problem is almost certainly structural, not cosmetic.
 
-[Request your free SEO audit](/free-seo-audit/) to see how your website stacks up against competitors in your local market, and get a prioritized roadmap for the changes that will move the needle.
+[Order Your SEO Audit](/services/seo-audit/) to see how your website stacks up against competitors in your local market, and get a prioritized roadmap for the changes that will move the needle.

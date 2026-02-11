@@ -179,4 +179,4 @@ Absolutely. This is one of the highest-impact SEO decisions a pest control compa
 
 ## Capture Every Pest Control Search in Your Market
 
-The pest control companies that dominate local search are the ones that systematically target every relevant keyword with dedicated, optimized content. [Request a free SEO audit](/free-seo-audit/) and we will identify the highest-opportunity pest control keywords in your specific market with a clear roadmap to ranking for them.
+The pest control companies that dominate local search are the ones that systematically target every relevant keyword with dedicated, optimized content. [Order an SEO Audit](/services/seo-audit/) and we will identify the highest-opportunity pest control keywords in your specific market with a clear roadmap to ranking for them.

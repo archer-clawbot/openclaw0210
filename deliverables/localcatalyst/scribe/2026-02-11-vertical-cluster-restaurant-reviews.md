@@ -147,4 +147,4 @@ A sudden spike in negative reviews can indicate a legitimate service issue, a co
 
 Your reviews are shaping diners' decisions right now, whether you are actively managing them or not. A structured review management program generates more positive feedback, minimizes the impact of negative reviews, and improves your search visibility simultaneously.
 
-[Get your free SEO audit](/free-seo-audit/) to see how your restaurant's review profile compares to competitors and where the biggest opportunities for improvement exist.
+[Order Your SEO Audit](/services/seo-audit/) to see how your restaurant's review profile compares to competitors and where the biggest opportunities for improvement exist.

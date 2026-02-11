@@ -24,7 +24,7 @@ That is the fundamental case for roofing SEO. In an industry where paid advertis
 
 At LocalCatalyst, we build roofing SEO strategies designed for the unique dynamics of this industry — extreme seasonality, storm-driven demand spikes, long sales cycles for replacements, and the multi-city service areas that every roofing company must cover. Our [CATALYST methodology](/local-seo-services/) (Audit, Prioritize, Execute, Expand) gives roofing contractors a structured, data-driven path from PPC dependence to organic lead dominance.
 
-Want to see where your roofing company ranks across your service area? [Request a free SEO audit](/free-seo-audit/) and we will map your visibility on a geo-grid showing exactly where you are winning, where you are invisible, and where the biggest opportunities are.
+Want to see where your roofing company ranks across your service area? [Order an SEO Audit](/services/seo-audit/) and we will map your visibility on a geo-grid showing exactly where you are winning, where you are invisible, and where the biggest opportunities are.
 
 ## The Roofing SEO Landscape
 
@@ -189,4 +189,4 @@ We target the link sources most relevant and valuable for roofers: manufacturer 
 
 ---
 
-*Ready to stop paying per click and start building organic lead flow that compounds over time? [Request your free roofing SEO audit](/free-seo-audit/) and see exactly where you rank, where the gaps are, and where the biggest opportunities are waiting.*
+*Ready to stop paying per click and start building organic lead flow that compounds over time? [Request your free roofing SEO audit](/services/seo-audit/) and see exactly where you rank, where the gaps are, and where the biggest opportunities are waiting.*

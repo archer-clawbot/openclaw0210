@@ -229,4 +229,4 @@ Robots.txt blocks crawling but not indexation. If external links point to a page
 
 ---
 
-**Are indexation issues hiding your best pages from search results?** [Request your free SEO audit](/free-seo-audit/) to get a complete crawlability and indexation analysis, including orphan page detection and sitemap validation.
+**Are indexation issues hiding your best pages from search results?** [Order Your SEO Audit](/services/seo-audit/) to get a complete crawlability and indexation analysis, including orphan page detection and sitemap validation.

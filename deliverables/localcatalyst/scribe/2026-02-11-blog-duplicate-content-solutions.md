@@ -194,4 +194,4 @@ Yes. Google treats subdomains as separate entities in many contexts, so content 
 
 ## Clean Up Your Duplicate Content
 
-Duplicate content is a silent drain on your site's SEO potential. Every duplicate page that splits your link equity or confuses Google's canonical selection is an opportunity lost. [Request a free SEO audit](/free-seo-audit/) to find out exactly where duplication is affecting your rankings, and get a prioritized plan to fix it.
+Duplicate content is a silent drain on your site's SEO potential. Every duplicate page that splits your link equity or confuses Google's canonical selection is an opportunity lost. [Order an SEO Audit](/services/seo-audit/) to find out exactly where duplication is affecting your rankings, and get a prioritized plan to fix it.

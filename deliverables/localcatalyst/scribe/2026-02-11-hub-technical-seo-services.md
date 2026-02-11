@@ -265,7 +265,7 @@ Technical SEO is the optimization of your website's infrastructure — the syste
 
 ### How do I know if I have technical SEO problems?
 
-Common symptoms include: pages not appearing in search results despite having quality content, slow load times (over 3 seconds), mobile usability warnings in Search Console, declining organic traffic without obvious cause, and poor Core Web Vitals scores in PageSpeed Insights. However, many technical SEO problems are invisible to non-technical users. Our comprehensive technical audit identifies every issue, explains its impact, and prioritizes the fix. [Request a free SEO audit](/free-seo-audit/) to find out what technical barriers might be suppressing your rankings.
+Common symptoms include: pages not appearing in search results despite having quality content, slow load times (over 3 seconds), mobile usability warnings in Search Console, declining organic traffic without obvious cause, and poor Core Web Vitals scores in PageSpeed Insights. However, many technical SEO problems are invisible to non-technical users. Our comprehensive technical audit identifies every issue, explains its impact, and prioritizes the fix. [Order an SEO Audit](/services/seo-audit/) to find out what technical barriers might be suppressing your rankings.
 
 ### How long does technical SEO take to implement?
 
@@ -293,4 +293,4 @@ Technical SEO is not a one-time fix — new issues arise continuously as content
 
 ---
 
-*Technical problems you cannot see could be costing you rankings every day. [Request a free SEO audit](/free-seo-audit/) and get a comprehensive technical analysis that identifies every barrier between your site and the visibility it deserves.*
+*Technical problems you cannot see could be costing you rankings every day. [Order an SEO Audit](/services/seo-audit/) and get a comprehensive technical analysis that identifies every barrier between your site and the visibility it deserves.*

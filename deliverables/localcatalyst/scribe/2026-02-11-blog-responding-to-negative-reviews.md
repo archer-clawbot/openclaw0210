@@ -202,4 +202,4 @@ Yes. A profile with exclusively five-star reviews can appear inauthentic to cons
 
 ---
 
-**Need help managing your online review responses?** Our reputation management team monitors, responds to, and analyzes reviews across every platform that matters for your business. [Request a free SEO audit](/free-seo-audit/) to see how your review profile compares to your competitors, or [reach out to our team](/contact/) to discuss a tailored reputation management plan.
+**Need help managing your online review responses?** Our reputation management team monitors, responds to, and analyzes reviews across every platform that matters for your business. [Order an SEO Audit](/services/seo-audit/) to see how your review profile compares to your competitors, or [reach out to our team](/contact/) to discuss a tailored reputation management plan.

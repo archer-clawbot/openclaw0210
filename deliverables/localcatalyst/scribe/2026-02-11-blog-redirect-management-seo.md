@@ -187,4 +187,4 @@ Use redirects when you want users and bots to be sent to a different URL (the ol
 
 ## Get Your Redirects Right the First Time
 
-Whether you are planning a site migration or cleaning up years of accumulated redirect debt, the stakes are high. [Request a free SEO audit](/free-seo-audit/) to get a complete picture of your redirect health, or [contact our team](/contact/) for migration planning support.
+Whether you are planning a site migration or cleaning up years of accumulated redirect debt, the stakes are high. [Order an SEO Audit](/services/seo-audit/) to get a complete picture of your redirect health, or [contact our team](/contact/) for migration planning support.

@@ -195,4 +195,4 @@ Legitimate link building costs vary widely based on approach and market competit
 
 ## Protect Your Rankings with Smart Link Building
 
-Avoiding these mistakes is the first step toward a link building strategy that delivers lasting results. If you suspect your site has been affected by poor link building practices, a thorough evaluation can identify the damage and chart a recovery path. Request a [free SEO audit](/free-seo-audit/) to assess your backlink health and get a clear plan for moving forward.
+Avoiding these mistakes is the first step toward a link building strategy that delivers lasting results. If you suspect your site has been affected by poor link building practices, a thorough evaluation can identify the damage and chart a recovery path. Order an SEO audit(/services/seo-audit/) to assess your backlink health and get a clear plan for moving forward.

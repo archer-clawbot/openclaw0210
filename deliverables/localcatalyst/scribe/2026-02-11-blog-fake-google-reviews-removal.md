@@ -165,4 +165,4 @@ A single fake review has minimal ranking impact if your overall profile is stron
 
 ---
 
-**Dealing with fake reviews and need expert help?** Our reputation management team handles review monitoring, fake review reporting, and strategic response management for local businesses. [Request a free SEO audit](/free-seo-audit/) to get a full assessment of your review profile, or [contact us directly](/contact/) to discuss your reputation management needs.
+**Dealing with fake reviews and need expert help?** Our reputation management team handles review monitoring, fake review reporting, and strategic response management for local businesses. [Order an SEO Audit](/services/seo-audit/) to get a full assessment of your review profile, or [contact us directly](/contact/) to discuss your reputation management needs.

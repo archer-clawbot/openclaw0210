@@ -161,7 +161,7 @@ Fully optimize your Google Business Profile: complete every field, list every se
 
 Every day, potential clients in your area search for the exact services you offer. They choose from the results Google presents. If your salon or spa does not appear — or if it appears without compelling photos and reviews — you lose bookings to competitors who may not even be as talented. Salon SEO is the most reliable way to ensure the right clients find you, see your best work, and book an appointment.
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** and discover where your salon stands in local search, how you compare to nearby competitors, and what opportunities are waiting to fill your appointment book.
+**[Order Your SEO Audit](/services/seo-audit/)** and discover where your salon stands in local search, how you compare to nearby competitors, and what opportunities are waiting to fill your appointment book.
 
 ---
 

@@ -21,7 +21,7 @@ Most business owners have no idea which signals their backlink profile is sendin
 
 This is not a generic "backlink report" pulled from a single tool. It is a manual, link-by-link analysis conducted by strategists who understand how Google evaluates link quality in 2026 — after the March 2024 spam update fundamentally changed how the algorithm weighs backlinks.
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** — We include a high-level backlink profile summary showing your link count, quality distribution, and biggest vulnerabilities.
+**[Order Your SEO Audit](/services/seo-audit/)** — We include a high-level backlink profile summary showing your link count, quality distribution, and biggest vulnerabilities.
 
 ---
 
@@ -160,4 +160,4 @@ Yes. The competitor gap analysis and opportunity mapping that conclude the audit
 
 Every link pointing to your site is either helping or hurting. A backlink audit eliminates the guesswork, quantifies the risk, identifies the opportunities, and gives you a clear path to building the link profile your rankings require.
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** — We will pull your backlink profile, score your link quality distribution, and show you exactly where you stand against the competition. No guesswork. No assumptions. Just data.
+**[Order Your SEO Audit](/services/seo-audit/)** — We will pull your backlink profile, score your link quality distribution, and show you exactly where you stand against the competition. No guesswork. No assumptions. Just data.

@@ -298,4 +298,4 @@ Yes, and local link building is often more accessible on a small budget than nat
 
 ## Get Your Local Link Building Strategy Started
 
-Understanding where your backlink profile stands today is the first step toward building a strategy that drives real local rankings. Request a [free SEO audit](/free-seo-audit/) and we will analyze your current link profile, identify gaps compared to your local competitors, and outline the highest-impact link building opportunities for your specific market.
+Understanding where your backlink profile stands today is the first step toward building a strategy that drives real local rankings. Order an SEO audit(/services/seo-audit/) and we will analyze your current link profile, identify gaps compared to your local competitors, and outline the highest-impact link building opportunities for your specific market.

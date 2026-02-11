@@ -94,4 +94,4 @@ Tool proficiency is not about having access to software. It's about knowing whic
 
 Every certification, every training hour, and every tool mastery translates directly into better outcomes for our clients. When we audit your site, we're drawing on certified expertise. When we build your strategy, we're applying frameworks validated by the industry's leading platforms. When we measure results, we're using the same tools and methodologies trusted by the best practitioners in the world.
 
-**[See Our Results in Action: Case Studies](/case-studies/)** | **[Get Your Free SEO Audit](/free-seo-audit/)**
+**[See Our Results in Action: Case Studies](/case-studies/)** | **[Order Your SEO Audit](/services/seo-audit/)**

@@ -28,7 +28,7 @@
 Your business deserves to show up when locals search. We optimize your Google Business Profile, build local SEO that ranks, and turn searches into customers.
 
 ### Hero CTA (Primary Button)
-**Button Text:** Get Your Free Local SEO Audit  
+**Button Text:** Order Your SEO Audit  
 **Button Link:** /contact/ or lead form
 
 ### Hero CTA (Secondary Button)
@@ -198,7 +198,7 @@ A: Not necessarily. If you don't have one, we can build a simple local site. But
 A: GBP management (posts, photos, Q&A), review monitoring and responses, monthly reporting, and ongoing optimization.
 
 **Q4: How much does local SEO cost?**  
-A: Our plans start at $500/month depending on your market and service area. Contact us for a custom quote.
+A: Our plans start at $500/month depending on your market and service area. See our [pricing page](/pricing/) for current rates.
 
 **Q5: Do you work with businesses outside the USA?**  
 A: Currently, we focus on US-based businesses, but we're expanding. Reach out and we'll let you know if we can help.
@@ -219,7 +219,7 @@ A: No one can ethically guarantee rankings. But we can guarantee we'll optimize 
 ### Content
 Let's see where you're ranking now — and where you could be in 90 days.
 
-**CTA Button Text:** Get Your Free Local SEO Audit  
+**CTA Button Text:** Order Your SEO Audit  
 **CTA Button Link:** /contact/
 
 **Secondary Text Below Button:**  

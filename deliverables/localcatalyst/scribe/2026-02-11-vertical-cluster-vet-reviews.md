@@ -128,4 +128,4 @@ With extreme care and compassion. Acknowledge the loss, express genuine sympathy
 
 ## Take Control of Your Veterinary Reputation
 
-Your online reputation is your most valuable marketing asset. Every review shapes a pet owner's decision about whether to trust you with their animal. [Request a free SEO audit](/free-seo-audit/) that includes a comprehensive review analysis showing where your practice stands and what steps will generate the most impact.
+Your online reputation is your most valuable marketing asset. Every review shapes a pet owner's decision about whether to trust you with their animal. [Order an SEO Audit](/services/seo-audit/) that includes a comprehensive review analysis showing where your practice stands and what steps will generate the most impact.

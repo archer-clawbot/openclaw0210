@@ -141,4 +141,4 @@ The aggregate rating section should implement `AggregateRating` schema:
 
 Every testimonial above started with a single conversation. If you're ready to see what data-driven local SEO can do for your business, let's talk.
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** | **[Schedule a Strategy Call](/contact/)**
+**[Order Your SEO Audit](/services/seo-audit/)** | **[Browse Our Services](/services/)**

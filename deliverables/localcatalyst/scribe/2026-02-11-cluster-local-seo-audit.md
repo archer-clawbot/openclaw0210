@@ -24,7 +24,7 @@ Google uses a distinct set of ranking factors for local results: proximity, rele
 
 If you have been paying for "SEO services" that only analyze your website, you have been operating with an incomplete picture. The website is one piece. The local ecosystem is the whole puzzle.
 
-**[Request your free SEO audit](/free-seo-audit/)** and see the difference between a generic report and a local-specific analysis that actually shows you where your Map Pack visibility stands.
+**[Order Your SEO Audit](/services/seo-audit/)** and see the difference between a generic report and a local-specific analysis that actually shows you where your Map Pack visibility stands.
 
 ## Google Business Profile Audit: The 50-Point Checklist
 
@@ -263,4 +263,4 @@ Our free visibility scan is delivered within 2-3 business days. The comprehensiv
 
 ---
 
-**Stop guessing about your local visibility. Start measuring it.** Our local SEO audit gives you the complete picture — every GBP gap, every citation inconsistency, every geo-grid ranking opportunity. [Get your free SEO audit](/free-seo-audit/) and see exactly where you stand in your local market.
+**Stop guessing about your local visibility. Start measuring it.** Our local SEO audit gives you the complete picture — every GBP gap, every citation inconsistency, every geo-grid ranking opportunity. [Order Your SEO Audit](/services/seo-audit/) and see exactly where you stand in your local market.

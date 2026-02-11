@@ -165,4 +165,4 @@ Use Ahrefs, Semrush, or Moz to pull the organic keyword profile of competing pra
 
 The difference between a medical practice that grows through SEO and one that stagnates is almost always keyword strategy. Practices that target the right terms with the right pages on the right schedule compound their visibility month after month.
 
-[Request your free SEO audit](/free-seo-audit/) and we'll deliver a full keyword gap analysis showing exactly which patient searches your practice is missing — and how to capture them.
+[Order Your SEO Audit](/services/seo-audit/) and we'll deliver a full keyword gap analysis showing exactly which patient searches your practice is missing — and how to capture them.

@@ -142,4 +142,4 @@ Within days of the major aggregator corrections propagating, we observed the fir
 
 Our free SEO audit includes a citation health check that identifies every inconsistency across your online presence.
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** | **[View More Case Studies](/case-studies/)**
+**[Order Your SEO Audit](/services/seo-audit/)** | **[View More Case Studies](/case-studies/)**

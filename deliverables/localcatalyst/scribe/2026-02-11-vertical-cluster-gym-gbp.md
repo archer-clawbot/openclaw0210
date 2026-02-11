@@ -114,4 +114,4 @@ Only if the personal trainer operates as an independent business with a separate
 
 ## Make Your Gym the First Choice in Local Search
 
-Every potential member who searches "gym near me" in your area either finds your listing or finds your competitor's listing. [Contact us](/contact/) for a GBP audit that shows exactly how your gym's listing compares to local competitors and identifies the optimizations that will drive more trial visits and membership signups.
+Every potential member who searches "gym near me" in your area either finds your listing or finds your competitor's listing. [See Our Services](/services/) for a GBP audit that shows exactly how your gym's listing compares to local competitors and identifies the optimizations that will drive more trial visits and membership signups.

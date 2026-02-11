@@ -13,7 +13,7 @@
 
 **Title Tag:** LocalCatalyst | Local SEO Agency That Drives Results
 
-**Meta Description:** Award-winning local SEO agency specializing in Google Business Profile optimization, technical SEO, and Map Pack domination. Get your free audit today.
+**Meta Description:** Award-winning local SEO agency specializing in Google Business Profile optimization, technical SEO, and Map Pack domination. Order your SEO audit today.
 
 **H1:** The Local SEO Agency That Puts You on the Map
 
@@ -28,7 +28,7 @@ The Local SEO Agency That Puts You on the Map
 We help local businesses dominate Google Maps, rank #1 in local search, and turn searches into customers using our proven CATALYST methodology.
 
 ### Hero CTAs
-**[Primary Button]** Get Your Free SEO Audit  
+**[Primary Button]** Order Your SEO Audit  
 **[Secondary Button]** View Our Services
 
 ### Trust Badges
@@ -308,7 +308,7 @@ Geo-grid scans, rank tracking, traffic analysis, conversion reporting. Monthly s
 ## SECTION 7: FREE AUDIT CTA
 
 ### H2
-Get Your Free Local SEO Audit
+Order Your SEO Audit
 
 See exactly where you're losing customers to competitors — and how to fix it.
 
@@ -476,16 +476,16 @@ Join 20+ local businesses already ranking #1 in their markets.
 ## CONVERSION ELEMENTS
 
 ### Primary Conversion Goals
-1. Free SEO audit form submission
+1. SEO audit order submission
 2. Discovery call booking (calendar link)
 3. Service page visits (micro-conversion)
 
 ### CTA Hierarchy
-**Above Fold (Hero):** Get Your Free SEO Audit  
+**Above Fold (Hero):** Order Your SEO Audit  
 **After Problem Section:** View Our Services  
 **After CATALYST Section:** See How CATALYST Works  
 **After Case Studies:** View All Case Studies  
-**Dedicated Section:** Get Your Free Audit (with form)  
+**Dedicated Section:** Order your SEO audit (with form)  
 **Footer:** Schedule Strategy Call + Get Free Audit
 
 ### Trust Signals Throughout

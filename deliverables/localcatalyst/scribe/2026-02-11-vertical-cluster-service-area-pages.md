@@ -164,6 +164,6 @@ Focus on what is actually different: building stock age and type, specific subdi
 
 Your service territory is not limited to the city where your shop sits. Service area pages extend your digital footprint to match your actual coverage area, generating leads from every market you serve.
 
-[Request a Free SEO Audit](/free-seo-audit/) to see where you rank — and where you are invisible — across your full service territory.
+[Order an SEO Audit](/services/seo-audit/) to see where you rank — and where you are invisible — across your full service territory.
 
-[Contact us](/contact/) to discuss a service area page strategy built for your home service business.
+[See Our Services](/services/) to discuss a service area page strategy built for your home service business.

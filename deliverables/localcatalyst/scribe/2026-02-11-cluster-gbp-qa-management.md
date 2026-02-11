@@ -150,4 +150,4 @@ Not if the questions are genuine customer concerns written in natural language. 
 
 ---
 
-**Is your GBP Q&A section empty — or worse, filled with unanswered questions and inaccurate community answers?** [Request your free SEO audit](/free-seo-audit/) to see how your GBP compares to competitors across every feature, including Q&A.
+**Is your GBP Q&A section empty — or worse, filled with unanswered questions and inaccurate community answers?** [Order Your SEO Audit](/services/seo-audit/) to see how your GBP compares to competitors across every feature, including Q&A.

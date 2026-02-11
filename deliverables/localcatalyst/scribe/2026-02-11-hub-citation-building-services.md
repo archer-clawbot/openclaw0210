@@ -17,7 +17,7 @@ Every local business has a digital footprint scattered across dozens — sometim
 
 At LocalCatalyst, we treat **citation building services** as foundational infrastructure. Before we optimize your Google Business Profile, before we build links, before we write content — we make sure the internet agrees on who you are, where you are, and how to reach you. Because if it doesn't, Google doesn't trust you. And if Google doesn't trust you, you don't rank.
 
-We've audited thousands of local businesses through our [CATALYST methodology](/local-seo-services/), and citation inconsistencies remain one of the most common — and most fixable — ranking suppressors we find. If you haven't had a professional citation audit in the past 12 months, you almost certainly have problems you don't know about. [Request your free SEO audit](/free-seo-audit/) and we'll show you exactly where your citation profile stands.
+We've audited thousands of local businesses through our [CATALYST methodology](/local-seo-services/), and citation inconsistencies remain one of the most common — and most fixable — ranking suppressors we find. If you haven't had a professional citation audit in the past 12 months, you almost certainly have problems you don't know about. [Order Your SEO Audit](/services/seo-audit/) and we'll show you exactly where your citation profile stands.
 
 ## What Are Local Citations and Why Do They Matter?
 
@@ -78,7 +78,7 @@ Before we build anything, we need to understand what already exists. Our citatio
 - **Competitive benchmarking** — We analyze your top local competitors' citation profiles to identify quantity gaps and source gaps — directories where they're listed and you aren't.
 - **Authority scoring** — Not all directories carry equal weight. We assess each citation source by domain authority, relevance, and traffic to prioritize our efforts.
 
-This audit produces a clear, prioritized action plan. You'll know exactly how many citations you have, how many are inconsistent, and where the gaps are. [Start with a free audit](/free-seo-audit/) to get a snapshot of your citation health.
+This audit produces a clear, prioritized action plan. You'll know exactly how many citations you have, how many are inconsistent, and where the gaps are. [Start with a free audit](/services/seo-audit/) to get a snapshot of your citation health.
 
 ### Phase 2: Citation Cleanup (Prioritize)
 

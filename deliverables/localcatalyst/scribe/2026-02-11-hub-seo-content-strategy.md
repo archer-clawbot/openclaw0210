@@ -24,7 +24,7 @@ At LocalCatalyst, we build SEO content strategies that function as growth system
 
 This is the difference between a business that publishes content and a business that dominates its market through content.
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** — We'll show you exactly where your content gaps are and how to close them.
+**[Order Your SEO Audit](/services/seo-audit/)** — We'll show you exactly where your content gaps are and how to close them.
 
 ---
 
@@ -360,7 +360,7 @@ Our SEO content strategy services are built for local businesses that are seriou
 
 If you're spending money on ads but haven't invested in content that ranks organically, you're renting your traffic instead of owning it. We help you own it.
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** — See exactly where your content opportunities are.
+**[Order Your SEO Audit](/services/seo-audit/)** — See exactly where your content opportunities are.
 
 ---
 

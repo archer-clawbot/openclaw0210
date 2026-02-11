@@ -28,7 +28,7 @@ Local SEO Services That Dominate Google Maps
 Get found when customers search for businesses like yours. Our local SEO strategies put you in the Map Pack, increase direction requests, and turn local searches into paying customers.
 
 ### Hero CTA
-**[Primary Button]** Get Your Free Local SEO Audit
+**[Primary Button]** Order Your SEO Audit
 
 ### Trust Signal
 Avg. 312% increase in Map Pack visibility | 20+ active clients | 95% retention rate
@@ -553,7 +553,7 @@ Local SEO Pricing
 
 **For:** 4+ locations, franchises, or specialized needs
 
-Contact us for custom pricing and strategy.
+See our [pricing page](/pricing/) for all options.
 
 **[CTA Button]** Schedule a Strategy Call to Discuss Pricing
 
@@ -694,7 +694,7 @@ Get a free local SEO audit and see exactly where you're losing customers to comp
 ✅ **Map Pack competitive analysis** (who's ranking and why)  
 ✅ **90-day roadmap to ranking #1** (prioritized action plan)
 
-**[CTA Button]** Get Your Free Local SEO Audit
+**[CTA Button]** Order Your SEO Audit
 
 **Trust Signal:** No obligation. No sales pressure. Just actionable insights. Results delivered in 48 hours.
 
@@ -716,7 +716,7 @@ Get a free local SEO audit and see exactly where you're losing customers to comp
 - "GBP optimization" → GBP service page
 - "Technical SEO" → Technical SEO service page
 - "Read full case study" → Individual case studies
-- "Get your free audit" → Contact page with audit form
+- "Order your SEO audit" → Contact page with audit form
 - "Learn more about [topic]" → Relevant blog category
 
 ---

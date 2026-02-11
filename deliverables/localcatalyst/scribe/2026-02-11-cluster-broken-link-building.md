@@ -19,7 +19,7 @@ Every day, websites go offline. Businesses close. Pages get deleted. URLs change
 
 This is one of the most effective and ethical strategies within our [link building services](/link-building-services/) because it solves a real problem for the site owner. Nobody wants broken links on their website. They degrade user experience, waste crawl budget, and signal poor maintenance to search engines. When you offer a replacement that is better than what the original link pointed to, you are doing the site owner a favor — and earning a backlink in the process.
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** — We will audit your current backlink profile and identify broken link building opportunities in your industry and market.
+**[Order Your SEO Audit](/services/seo-audit/)** — We will audit your current backlink profile and identify broken link building opportunities in your industry and market.
 
 ---
 
@@ -126,4 +126,4 @@ Absolutely — and it should. Broken link building is most powerful as one compo
 
 Broken link building is elegantly simple: the web has a problem (millions of dead links), you have a solution (quality replacement content), and the byproduct of solving that problem is a high-authority backlink pointing to your site. No manipulation. No schemes. Just value exchange.
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** — We will identify the broken link opportunities in your industry, assess your current content assets, and build a campaign that turns the web's dead links into your competitive advantage.
+**[Order Your SEO Audit](/services/seo-audit/)** — We will identify the broken link opportunities in your industry, assess your current content assets, and build a campaign that turns the web's dead links into your competitive advantage.

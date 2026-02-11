@@ -148,4 +148,4 @@ Review descriptions quarterly for high-priority pages and annually for the full 
 
 ---
 
-**How many of your pages have optimized meta descriptions — and how many are blank, duplicated, or ignored?** [Request your free SEO audit](/free-seo-audit/) to get a complete on-page analysis including meta description coverage across your entire site.
+**How many of your pages have optimized meta descriptions — and how many are blank, duplicated, or ignored?** [Order Your SEO Audit](/services/seo-audit/) to get a complete on-page analysis including meta description coverage across your entire site.

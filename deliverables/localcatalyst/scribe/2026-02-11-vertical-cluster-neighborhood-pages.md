@@ -139,6 +139,6 @@ Yes, if you can demonstrate genuine relevance through content quality, reviews f
 
 Neighborhood pages are where local real estate agents win the SEO battle against national portals. Every neighborhood page you build is an asset that generates traffic and leads for years.
 
-[Request a Free SEO Audit](/free-seo-audit/) to see which neighborhoods in your market have the highest organic search potential — and where your competitors have left gaps you can fill.
+[Order an SEO Audit](/services/seo-audit/) to see which neighborhoods in your market have the highest organic search potential — and where your competitors have left gaps you can fill.
 
-[Contact us](/contact/) to build a neighborhood page strategy for your real estate business.
+[See Our Services](/services/) to build a neighborhood page strategy for your real estate business.

@@ -162,4 +162,4 @@ In markets like Phoenix, Houston, or Miami where cooling demand extends 8-10 mon
 
 ## Get Ahead of Next Season Today
 
-The HVAC companies that dominate their markets are the ones preparing for the next season while competitors are still reacting to the current one. [Request a free SEO audit](/free-seo-audit/) to see where you stand heading into the next peak period and get a seasonal marketing plan built around your specific market and competitive landscape.
+The HVAC companies that dominate their markets are the ones preparing for the next season while competitors are still reacting to the current one. [Order an SEO Audit](/services/seo-audit/) to see where you stand heading into the next peak period and get a seasonal marketing plan built around your specific market and competitive landscape.

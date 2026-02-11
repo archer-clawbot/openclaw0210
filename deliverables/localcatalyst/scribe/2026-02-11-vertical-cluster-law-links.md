@@ -135,4 +135,4 @@ The link building strategies outlined here are fully compatible with bar adverti
 
 Link building for law firms is a long-term investment in domain authority and competitive positioning. The firms that commit to ethical, quality-focused link acquisition today are the ones that dominate local search results tomorrow. LocalCatalyst's CATALYST methodology includes a link audit and authority-building roadmap designed specifically for legal industry dynamics.
 
-[Request a free SEO audit](/free-seo-audit/) to assess your firm's current backlink profile and identify the highest-impact link building opportunities, or [contact us](/contact/) to discuss a custom link building strategy for your practice.
+[Order an SEO Audit](/services/seo-audit/) to assess your firm's current backlink profile and identify the highest-impact link building opportunities, or [See Our Services](/services/) to discuss a custom link building strategy for your practice.

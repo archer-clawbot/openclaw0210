@@ -120,4 +120,4 @@ Most landscaping companies see measurable improvement in Map Pack visibility wit
 
 ## Get Your Landscaping GBP Working Harder
 
-Your Google Business Profile is either generating leads or losing them to competitors with better-optimized listings. There is no neutral state. [Contact us](/contact/) for a GBP audit that identifies exactly where your landscaping listing is underperforming and what to fix first.
+Your Google Business Profile is either generating leads or losing them to competitors with better-optimized listings. There is no neutral state. [See Our Services](/services/) for a GBP audit that identifies exactly where your landscaping listing is underperforming and what to fix first.

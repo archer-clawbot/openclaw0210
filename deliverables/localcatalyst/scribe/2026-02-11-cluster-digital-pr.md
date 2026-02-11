@@ -21,7 +21,7 @@ This distinction matters because the links produced by digital PR are among the 
 
 At LocalCatalyst, digital PR is a cornerstone of our [link building services](/link-building-services/). We create campaigns that generate media coverage, earn high-authority backlinks, build brand visibility, and drive referral traffic — all from sources that Google and your potential customers trust equally.
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** — We'll evaluate your current authority profile and identify the digital PR opportunities that will have the greatest impact on your rankings.
+**[Order Your SEO Audit](/services/seo-audit/)** — We'll evaluate your current authority profile and identify the digital PR opportunities that will have the greatest impact on your rankings.
 
 ---
 
@@ -230,4 +230,4 @@ Absolutely. Positive media coverage pushes down negative results in search, buil
 
 Digital PR transforms your knowledge, data, and community involvement into high-authority backlinks and brand visibility. It's the link building strategy that doesn't feel like link building — because it's genuine media coverage that happens to carry extraordinary SEO value.
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** — We'll assess your authority profile, identify your digital PR opportunities, and show you how media coverage will accelerate your rankings.
+**[Order Your SEO Audit](/services/seo-audit/)** — We'll assess your authority profile, identify your digital PR opportunities, and show you how media coverage will accelerate your rankings.

@@ -249,7 +249,7 @@ Pricing depends on market competitiveness, number of locations, and scope of wor
 
 Get a detailed local SEO audit with specific recommendations. Perfect if you want expert advice but plan to execute yourself.
 
-[Schedule a free strategy call to discuss pricing →](/contact/)
+[Browse our services to discuss pricing →](/contact/)
 
 ---
 
@@ -291,7 +291,7 @@ A: Absolutely. Our consultants collaborate with in-house teams all the time. We 
 
 Let's talk about your business, your market, and how a LocalCatalyst SEO consultant can get you ranking locally.
 
-**CTA Button Text:** Schedule Your Free Strategy Call  
+**CTA Button Text:** Browse our services  
 **CTA Button Link:** /contact/
 
 **Secondary Text Below Button:**  

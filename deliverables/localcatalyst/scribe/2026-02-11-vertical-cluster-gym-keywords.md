@@ -151,4 +151,4 @@ Selectively, yes. "Home workout" content can build brand awareness and email lis
 
 ## Attract the Right Members With Data-Driven Keyword Targeting
 
-The fitness businesses that grow through organic search are the ones that understand exactly what their ideal members are searching for and meet them with optimized, relevant content. [Request a free SEO audit](/free-seo-audit/) and we will map the keyword opportunities specific to your gym, your market, and your competitive landscape.
+The fitness businesses that grow through organic search are the ones that understand exactly what their ideal members are searching for and meet them with optimized, relevant content. [Order an SEO Audit](/services/seo-audit/) and we will map the keyword opportunities specific to your gym, your market, and your competitive landscape.

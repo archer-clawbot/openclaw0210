@@ -165,4 +165,4 @@ Local Services Ads (LSAs) and GBP optimization are separate strategies that comp
 
 ## See Where You Stand in the Local Pack
 
-Your Google Business Profile is the front door to your plumbing business for most local searchers. If it is not optimized, you are paying for invisibility. [Request a free SEO audit](/free-seo-audit/) and we will map your local pack visibility across your entire service area, compare your GBP against top competitors, and identify the specific actions that will move your rankings.
+Your Google Business Profile is the front door to your plumbing business for most local searchers. If it is not optimized, you are paying for invisibility. [Order an SEO Audit](/services/seo-audit/) and we will map your local pack visibility across your entire service area, compare your GBP against top competitors, and identify the specific actions that will move your rankings.

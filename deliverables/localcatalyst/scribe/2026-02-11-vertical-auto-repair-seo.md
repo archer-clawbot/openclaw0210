@@ -163,7 +163,7 @@ Reviews are one of the top three local ranking factors according to every major 
 
 Every day your shop is not visible in local search results, customers who need exactly what you offer are driving past your door and into a competitor's bay. Auto repair SEO is not a luxury — it is the most cost-effective way to keep your bays full, your phones ringing, and your revenue growing.
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** and discover exactly where your shop stands, what your competitors are doing, and what it will take to dominate auto repair search in your market.
+**[Order Your SEO Audit](/services/seo-audit/)** and discover exactly where your shop stands, what your competitors are doing, and what it will take to dominate auto repair search in your market.
 
 ---
 

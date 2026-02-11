@@ -287,4 +287,4 @@ No. CWV is a tiebreaker signal. If your content is thin and you have no backlink
 
 ---
 
-**Are your Core Web Vitals helping or hurting your rankings?** Our CATALYST audit measures all three metrics across every page of your site and provides a prioritized fix roadmap with expected impact. [Get your free SEO audit](/free-seo-audit/) and see exactly where your site stands.
+**Are your Core Web Vitals helping or hurting your rankings?** Our CATALYST audit measures all three metrics across every page of your site and provides a prioritized fix roadmap with expected impact. [Order Your SEO Audit](/services/seo-audit/) and see exactly where your site stands.

@@ -24,7 +24,7 @@ The data is consistent across every industry we serve. Without a proactive revie
 
 This creates a distorted picture that damages both your conversion rate and your [local SEO rankings](/local-seo-services/). Google uses review quantity, velocity, and average rating as ranking signals. Potential customers use them to decide whether to call you or the competitor listed below you. Every day without a review generation system is a day your competitors with one are pulling further ahead.
 
-**[Start with a free SEO audit](/free-seo-audit/)** and we will include a complete review profile analysis showing exactly where you stand against your local competition.
+**[Start with a free SEO audit](/services/seo-audit/)** and we will include a complete review profile analysis showing exactly where you stand against your local competition.
 
 ## Why Proactive Review Generation Is Not Optional
 
@@ -230,4 +230,4 @@ Yes, but the timeline depends on your starting point. If your current issues are
 
 ---
 
-**Your satisfied customers are your biggest untapped marketing asset.** Our CATALYST audit includes a complete review profile analysis and generation opportunity assessment. [Get your free SEO audit](/free-seo-audit/) and see exactly how many reviews your business should be generating every month.
+**Your satisfied customers are your biggest untapped marketing asset.** Our CATALYST audit includes a complete review profile analysis and generation opportunity assessment. [Order Your SEO Audit](/services/seo-audit/) and see exactly how many reviews your business should be generating every month.

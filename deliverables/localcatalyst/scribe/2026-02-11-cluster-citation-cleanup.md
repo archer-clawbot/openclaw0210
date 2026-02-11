@@ -21,7 +21,7 @@ At LocalCatalyst, citation cleanup is the first phase of every [citation buildin
 
 Our cleanup process is systematic, thorough, and measurable. We audit every citation we can find, prioritize corrections by impact, submit changes through proper channels, verify the corrections take effect, and monitor for regression. The result: a clean, consistent citation profile that Google can trust — the foundation that every other [local SEO effort](/local-seo-services/) depends on.
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** — We'll scan your citation profile and show you exactly how many inconsistencies are currently suppressing your rankings.
+**[Order Your SEO Audit](/services/seo-audit/)** — We'll scan your citation profile and show you exactly how many inconsistencies are currently suppressing your rankings.
 
 ---
 
@@ -199,7 +199,7 @@ Citation cleanup produces measurable ranking improvements because you're removin
 
 ### How do I know if I need citation cleanup?
 
-If you've been in business for more than 2 years, changed locations or phone numbers, or had a previous marketing agency manage your listings, you almost certainly need cleanup. The only way to know for sure is a citation audit. Our [free SEO audit](/free-seo-audit/) includes a citation health snapshot that reveals your current consistency score.
+If you've been in business for more than 2 years, changed locations or phone numbers, or had a previous marketing agency manage your listings, you almost certainly need cleanup. The only way to know for sure is a citation audit. Our [free SEO audit](/services/seo-audit/) includes a citation health snapshot that reveals your current consistency score.
 
 ### Can I do citation cleanup myself?
 
@@ -223,4 +223,4 @@ We recommend a comprehensive audit every 6 months, with monthly monitoring scans
 
 Citation cleanup isn't glamorous, but it's one of the highest-ROI activities in local SEO. You're removing active ranking suppressors — and the impact is often visible within weeks, not months.
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** — We'll scan your citation profile and show you exactly what needs to be fixed, how long it will take, and what ranking improvements you can expect.
+**[Order Your SEO Audit](/services/seo-audit/)** — We'll scan your citation profile and show you exactly what needs to be fixed, how long it will take, and what ranking improvements you can expect.

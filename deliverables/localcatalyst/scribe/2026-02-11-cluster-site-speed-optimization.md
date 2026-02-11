@@ -254,4 +254,4 @@ Yes — arguably more than for general SEO. Over 60% of local searches happen on
 
 ---
 
-**How fast is your site — really?** Our CATALYST audit provides a comprehensive speed analysis with prioritized fixes, projected improvement, and implementation guidance. [Request your free SEO audit](/free-seo-audit/) and find out exactly what's slowing you down.
+**How fast is your site — really?** Our CATALYST audit provides a comprehensive speed analysis with prioritized fixes, projected improvement, and implementation guidance. [Order Your SEO Audit](/services/seo-audit/) and find out exactly what's slowing you down.

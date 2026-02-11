@@ -216,4 +216,4 @@ Cornerstone content is not just about creating great individual pages. It is abo
 
 At LocalCatalyst.ai, our CATALYST Methodology includes cornerstone content identification and optimization as a core component. We help businesses identify their most valuable content opportunities, build comprehensive cornerstone pages, and create the internal linking architecture that maximizes their impact.
 
-[Get your free SEO audit](/free-seo-audit/) to identify the cornerstone content opportunities on your site and build a strategy around them.
+[Order Your SEO Audit](/services/seo-audit/) to identify the cornerstone content opportunities on your site and build a strategy around them.

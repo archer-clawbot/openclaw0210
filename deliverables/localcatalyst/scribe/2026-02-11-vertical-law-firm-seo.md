@@ -24,7 +24,7 @@ That is why law firm SEO is not optional. It is the most consequential marketing
 
 At LocalCatalyst, we build law firm SEO strategies that navigate the unique requirements of legal marketing — the highest CPC landscape in search, YMYL content standards that demand demonstrated expertise, bar advertising rules that constrain what you can say, and the competitive reality of fighting for visibility against firms spending six figures per month on digital marketing. Our [CATALYST methodology](/local-seo-services/) (Audit, Prioritize, Execute, Expand) gives law firms a structured, data-driven path to organic client acquisition that compounds over time.
 
-Want to know exactly where your firm stands in local search? [Request a free SEO audit](/free-seo-audit/) and we will map your visibility across every practice area search in your market — showing you where you rank, where you are invisible, and where signed clients are going to competitors.
+Want to know exactly where your firm stands in local search? [Order an SEO Audit](/services/seo-audit/) and we will map your visibility across every practice area search in your market — showing you where you rank, where you are invisible, and where signed clients are going to competitors.
 
 ## The Legal SEO Landscape
 
@@ -213,4 +213,4 @@ We track geo-grid rankings for all target practice area keywords, Map Pack visib
 
 ---
 
-*Ready to stop paying the highest CPCs in search and start building organic client acquisition? [Request your free law firm SEO audit](/free-seo-audit/) and see exactly where your firm ranks, where potential clients are finding competitors, and where the biggest opportunities are.*
+*Ready to stop paying the highest CPCs in search and start building organic client acquisition? [Request your free law firm SEO audit](/services/seo-audit/) and see exactly where your firm ranks, where potential clients are finding competitors, and where the biggest opportunities are.*

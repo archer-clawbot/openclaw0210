@@ -24,7 +24,7 @@ Plumbing searches are among the most valuable in all of local SEO. "Plumber near
 
 At LocalCatalyst, we build plumber SEO strategies designed for the urgency and competitiveness of this industry. Our [CATALYST methodology](/local-seo-services/) (Audit, Prioritize, Execute, Expand) addresses the specific challenges plumbing companies face — extreme emergency intent, multi-city service areas, competition from franchise operations and lead aggregators, and the need to be visible 24/7 across every city you serve.
 
-Want to see exactly where your plumbing company ranks — and where customers are finding your competitors instead? [Request a free SEO audit](/free-seo-audit/) and we will map your visibility across a geo-grid of your entire service area.
+Want to see exactly where your plumbing company ranks — and where customers are finding your competitors instead? [Order an SEO Audit](/services/seo-audit/) and we will map your visibility across a geo-grid of your entire service area.
 
 ## Emergency Service SEO: Being There When It Matters
 
@@ -177,4 +177,4 @@ Most plumbing companies see measurable improvements within 60-90 days. GBP optim
 
 ---
 
-*Ready to be the plumber homeowners call first? [Request your free plumbing SEO audit](/free-seo-audit/) and see exactly where you rank across your service area, where customers are finding your competitors, and where the biggest opportunities are waiting.*
+*Ready to be the plumber homeowners call first? [Request your free plumbing SEO audit](/services/seo-audit/) and see exactly where you rank across your service area, where customers are finding your competitors, and where the biggest opportunities are waiting.*

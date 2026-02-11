@@ -214,4 +214,4 @@ Local SEO ROI improves over time. The first 6 months have the lowest ROI because
 
 The numbers in this guide are frameworks, not guarantees. Your actual ROI depends on your specific market, competitive landscape, starting point, and customer economics. Our free audit provides a data-driven assessment of your local SEO opportunity — including estimated lead potential, competitive gap analysis, and a realistic projection of what a comprehensive local SEO investment could return for your business.
 
-[Get your free SEO audit](/free-seo-audit/) and see the revenue opportunity in your local market.
+[Order Your SEO Audit](/services/seo-audit/) and see the revenue opportunity in your local market.

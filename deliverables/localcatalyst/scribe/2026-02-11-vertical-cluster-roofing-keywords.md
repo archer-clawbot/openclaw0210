@@ -160,4 +160,4 @@ SEO keywords target organic rankings through on-page optimization, content creat
 
 Stop guessing which keywords matter and start building a research-backed strategy that drives measurable lead growth. Our team identifies the exact terms your ideal customers are searching, prioritizes them by revenue potential, and builds the implementation plan to capture them.
 
-[Get your free SEO audit](/free-seo-audit/) and discover which roofing keywords represent the biggest opportunity in your market.
+[Order Your SEO Audit](/services/seo-audit/) and discover which roofing keywords represent the biggest opportunity in your market.

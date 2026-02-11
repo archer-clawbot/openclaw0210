@@ -24,7 +24,7 @@ That compressed decision cycle means everything visible in those first 60 second
 
 At LocalCatalyst, we build restaurant SEO strategies that optimize every element of this discovery-to-visit journey. Our [CATALYST methodology](/local-seo-services/) (Audit, Prioritize, Execute, Expand) gives restaurants a structured path from invisible to indispensable in their local market — whether you are a neighborhood bistro, a multi-location fast casual chain, or a fine dining destination.
 
-Want to see where your restaurant shows up (and where it does not)? [Request a free SEO audit](/free-seo-audit/) and we will map your visibility across every relevant search in your area.
+Want to see where your restaurant shows up (and where it does not)? [Order an SEO Audit](/services/seo-audit/) and we will map your visibility across every relevant search in your area.
 
 ## The Restaurant Search Journey
 
@@ -202,4 +202,4 @@ Yes. Multi-location restaurant groups — whether identical concepts or distinct
 
 ---
 
-*Ready to fill more tables from local search? [Request your free restaurant SEO audit](/free-seo-audit/) and see exactly where your restaurant appears — and where it should.*
+*Ready to fill more tables from local search? [Request your free restaurant SEO audit](/services/seo-audit/) and see exactly where your restaurant appears — and where it should.*

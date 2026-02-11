@@ -134,4 +134,4 @@ The ideal approach is collaborative. Attorneys provide subject matter expertise,
 
 Law firm content marketing is not about publishing volume. It is about creating authoritative, accurate, and strategically targeted content that meets Google's elevated standards for legal information while converting searchers into clients. LocalCatalyst's CATALYST methodology identifies the content gaps costing your firm visibility and builds a roadmap to close them.
 
-[Request a free SEO audit](/free-seo-audit/) to see how your current content stacks up against competitors, or [contact us](/contact/) to develop a content strategy tailored to your practice areas and market.
+[Order an SEO Audit](/services/seo-audit/) to see how your current content stacks up against competitors, or [See Our Services](/services/) to develop a content strategy tailored to your practice areas and market.

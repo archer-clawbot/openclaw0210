@@ -172,4 +172,4 @@ In 60 days, Trattoria Vecchia went from invisible to dominant.
 
 ---
 
-*Want results like this for your restaurant? [Request your free SEO audit](/free-seo-audit/) and we will show you exactly where your restaurant stands in local search — and how we would put you on the map.*
+*Want results like this for your restaurant? [Order Your SEO Audit](/services/seo-audit/) and we will show you exactly where your restaurant stands in local search — and how we would put you on the map.*

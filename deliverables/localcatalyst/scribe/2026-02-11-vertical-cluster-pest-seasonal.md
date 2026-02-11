@@ -127,4 +127,4 @@ The slow season is the best time for foundational SEO work: technical audits, si
 
 ## Own Every Pest Season in Your Market
 
-Seasonal pest demand is predictable. Your marketing should be too. Stop scrambling when pest season arrives and start engineering your rankings months in advance. [Request a free SEO audit](/free-seo-audit/) and we will map your seasonal keyword opportunities against a 12-month pest control content and optimization calendar built for your specific region.
+Seasonal pest demand is predictable. Your marketing should be too. Stop scrambling when pest season arrives and start engineering your rankings months in advance. [Order an SEO Audit](/services/seo-audit/) and we will map your seasonal keyword opportunities against a 12-month pest control content and optimization calendar built for your specific region.

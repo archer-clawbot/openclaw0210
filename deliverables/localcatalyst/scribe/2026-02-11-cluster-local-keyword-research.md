@@ -199,4 +199,4 @@ AI tools can assist with brainstorming seed keywords, expanding keyword lists, a
 
 ---
 
-**Want to see the keyword opportunities in your market?** Our [free SEO audit](/free-seo-audit/) includes a competitive keyword analysis showing the highest-value local keywords in your industry, where you currently rank, and where the largest gaps exist relative to your top competitors. No guesswork — just data.
+**Want to see the keyword opportunities in your market?** Our [free SEO audit](/services/seo-audit/) includes a competitive keyword analysis showing the highest-value local keywords in your industry, where you currently rank, and where the largest gaps exist relative to your top competitors. No guesswork — just data.

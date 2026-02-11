@@ -141,6 +141,6 @@ Yes. The growing prevalence of electric and hybrid vehicles is creating new keyw
 
 Stop guessing at which searches matter and start targeting the keywords that put customers in your service bays. Our CATALYST methodology begins with comprehensive keyword research that identifies every valuable search opportunity in your market.
 
-[Request a Free SEO Audit](/free-seo-audit/) to see which auto repair keywords you are ranking for, where you are invisible, and where the biggest opportunities are.
+[Order an SEO Audit](/services/seo-audit/) to see which auto repair keywords you are ranking for, where you are invisible, and where the biggest opportunities are.
 
-[Contact us](/contact/) to build a keyword strategy for your auto repair shop.
+[See Our Services](/services/) to build a keyword strategy for your auto repair shop.

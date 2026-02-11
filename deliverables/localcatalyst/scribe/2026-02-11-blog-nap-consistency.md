@@ -187,4 +187,4 @@ NAP consistency primarily influences local pack rankings and Google Maps visibil
 
 NAP consistency is a foundational local SEO requirement, and it is one of the easiest things to get wrong and one of the highest-leverage things to get right. If you suspect your business information is scattered across the web in different formats, or if you have changed your business name, address, or phone number at any point, a professional NAP audit is the fastest path to fixing the problem.
 
-[Request your free SEO audit](/free-seo-audit/) to get a clear picture of your current NAP consistency and a prioritized plan to correct any inconsistencies.
+[Order Your SEO Audit](/services/seo-audit/) to get a clear picture of your current NAP consistency and a prioritized plan to correct any inconsistencies.

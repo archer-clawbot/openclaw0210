@@ -22,7 +22,7 @@ The stakes are high because the economics are compelling. A single "emergency pl
 
 At LocalCatalyst, home services SEO is one of our deepest areas of expertise. We understand the unique challenges that service area businesses face — hidden addresses, multi-city service areas, seasonal demand fluctuations, and the constant pressure from lead aggregators that want to insert themselves between you and your customers. Our [CATALYST methodology](/local-seo-services/) (Audit, Prioritize, Execute, Expand) is built to systematically dismantle these challenges and build the kind of local search dominance that generates leads every single day.
 
-Want to know how your home service business stacks up in local search? [Request a free SEO audit](/free-seo-audit/) and we will map your visibility across a geo-grid of your entire service area — showing you exactly where you rank, where you are invisible, and where the biggest opportunities lie.
+Want to know how your home service business stacks up in local search? [Order an SEO Audit](/services/seo-audit/) and we will map your visibility across a geo-grid of your entire service area — showing you exactly where you rank, where you are invisible, and where the biggest opportunities lie.
 
 ## Why Home Services SEO Is Uniquely Challenging
 
@@ -184,4 +184,4 @@ Yes. Multi-trade home service businesses require careful keyword mapping, conten
 
 ---
 
-*Ready to dominate local search across your entire service area? [Request your free home services SEO audit](/free-seo-audit/) and see exactly where you rank, where you are missing, and where the biggest lead generation opportunities lie.*
+*Ready to dominate local search across your entire service area? [Request your free home services SEO audit](/services/seo-audit/) and see exactly where you rank, where you are missing, and where the biggest lead generation opportunities lie.*

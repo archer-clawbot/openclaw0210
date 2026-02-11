@@ -29,7 +29,7 @@ At LocalCatalyst, we don't build websites and then optimize them. We engineer th
 
 If your current site isn't generating organic leads, it's not a marketing problem — it's a foundation problem. And no amount of SEO layered on top of a broken foundation will fix it.
 
-**[Start with a free SEO audit](/free-seo-audit/)** to see exactly what your current website is costing you in lost rankings and revenue.
+**[Start with a free SEO audit](/services/seo-audit/)** to see exactly what your current website is costing you in lost rankings and revenue.
 
 ---
 
@@ -298,7 +298,7 @@ A well-built website gives you a massive head start, but SEO is an ongoing proce
 
 ### What if I already have a WordPress site — can you optimize it?
 
-In many cases, yes. If your current site is on a lightweight theme with a clean codebase, we can optimize it without a full rebuild. But if it's running on a bloated page builder (Elementor, Divi, Avada) with 40+ plugins, a rebuild on our performance stack will be more cost-effective than trying to optimize around architectural limitations. We'll assess this during your [free SEO audit](/free-seo-audit/).
+In many cases, yes. If your current site is on a lightweight theme with a clean codebase, we can optimize it without a full rebuild. But if it's running on a bloated page builder (Elementor, Divi, Avada) with 40+ plugins, a rebuild on our performance stack will be more cost-effective than trying to optimize around architectural limitations. We'll assess this during your [free SEO audit](/services/seo-audit/).
 
 ### Do you write the website content too?
 

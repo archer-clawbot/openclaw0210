@@ -236,4 +236,4 @@ Yes. Google's AI Overviews for local queries pull data from GBP listings, includ
 
 ---
 
-**Not sure if your Google Business Profile is fully optimized?** Our [free SEO audit](/free-seo-audit/) includes a comprehensive GBP analysis using the 5-SPEC framework, identifying exactly which profile elements need attention and quantifying the ranking impact of each optimization opportunity. Get your audit today.
+**Not sure if your Google Business Profile is fully optimized?** Our [free SEO audit](/services/seo-audit/) includes a comprehensive GBP analysis using the 5-SPEC framework, identifying exactly which profile elements need attention and quantifying the ranking impact of each optimization opportunity. Get your audit today.

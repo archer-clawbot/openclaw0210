@@ -213,4 +213,4 @@ Choose a provider with specific local SEO expertise and a demonstrated understan
 
 Every effective local SEO strategy starts with understanding where you are today. What is your Google Business Profile score? How consistent are your citations? Where do you rank on the geo-grid compared to your competitors? Our free audit answers all of these questions and provides a prioritized action plan built for your specific market and budget.
 
-[Get your free SEO audit](/free-seo-audit/) and see exactly where your small business stands in local search.
+[Order Your SEO Audit](/services/seo-audit/) and see exactly where your small business stands in local search.

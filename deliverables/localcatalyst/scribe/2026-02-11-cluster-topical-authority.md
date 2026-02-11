@@ -21,7 +21,7 @@ This is topical authority: the degree to which your website is recognized as an 
 
 At LocalCatalyst, building topical authority is central to our [SEO content strategy](/seo-content-strategy/). It's how we take local businesses from invisible to dominant — not by chasing individual keywords, but by systematically establishing your site as the definitive resource for everything related to your services. When Google trusts that your site comprehensively covers a topic, every page on your site targeting related keywords benefits.
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** — We'll measure your current topical authority against your top competitors and show you exactly where the gaps are.
+**[Order Your SEO Audit](/services/seo-audit/)** — We'll measure your current topical authority against your top competitors and show you exactly where the gaps are.
 
 ---
 
@@ -263,4 +263,4 @@ Topical authority has inertia. Once established, it doesn't disappear overnight.
 
 Topical authority is the force multiplier behind every other SEO investment. Your [service pages](/seo-content-strategy/service-page-copywriting/) rank higher. Your [links](/link-building-services/) are more impactful. Your [technical SEO](/technical-seo/) work delivers greater returns. Everything compounds when Google trusts your site as an authority.
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** — We'll measure your topical authority against your competitors and map the exact content architecture you need to dominate your market.
+**[Order Your SEO Audit](/services/seo-audit/)** — We'll measure your topical authority against your competitors and map the exact content architecture you need to dominate your market.

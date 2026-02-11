@@ -213,4 +213,4 @@ Document the suspected fake reviews with screenshots and any evidence that the r
 
 ## Start Building Your Review Engine
 
-A strong review strategy compounds over time. Every review you generate today builds the foundation for your local search visibility tomorrow. If you want a professional assessment of your current review profile and a customized strategy for your business, [contact our team](/contact/) or [request a free SEO audit](/free-seo-audit/) to get started.
+A strong review strategy compounds over time. Every review you generate today builds the foundation for your local search visibility tomorrow. If you want a professional assessment of your current review profile and a customized strategy for your business, [contact our team](/contact/) or [Order an SEO Audit](/services/seo-audit/) to get started.

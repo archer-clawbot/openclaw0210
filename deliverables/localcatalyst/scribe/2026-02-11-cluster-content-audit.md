@@ -24,7 +24,7 @@ Most local businesses have never audited their content. They have been adding pa
 
 A dental practice we audited last year had 87 blog posts published over four years. Our content audit revealed that 12 of those posts drove 91% of all organic blog traffic. 40 posts had zero organic visits in the previous 12 months. 15 posts were cannibalizing each other for the same keywords. And 8 high-opportunity topics their competitors ranked for were not covered at all. That single audit restructured their entire [content strategy](/seo-content-strategy/) and resulted in a 140% increase in organic blog traffic within six months.
 
-**[Request your free SEO audit](/free-seo-audit/)** and we will include a high-level content performance snapshot showing your top-performing and worst-performing pages.
+**[Order Your SEO Audit](/services/seo-audit/)** and we will include a high-level content performance snapshot showing your top-performing and worst-performing pages.
 
 ## Our Content Audit Process
 
@@ -189,4 +189,4 @@ We recommend a comprehensive content audit annually, with quarterly performance 
 
 ---
 
-**Your content is either an asset or dead weight. The audit tells you which.** Our comprehensive content audit reveals every gap, every underperformer, and every opportunity hiding in your content library. [Get your free SEO audit](/free-seo-audit/) and start making every page on your site earn its place.
+**Your content is either an asset or dead weight. The audit tells you which.** Our comprehensive content audit reveals every gap, every underperformer, and every opportunity hiding in your content library. [Order Your SEO Audit](/services/seo-audit/) and start making every page on your site earn its place.

@@ -24,7 +24,7 @@ The challenge is that medical practice SEO is not like SEO for a plumber or a re
 
 At LocalCatalyst, we specialize in [local SEO](/local-seo-services/) strategies built specifically for medical practices — strategies that navigate YMYL requirements, respect HIPAA constraints, and compete effectively against both hospital systems and aggregator platforms. Our [CATALYST methodology](/local-seo-services/) (Audit, Prioritize, Execute, Expand) provides the structured, data-driven framework that healthcare marketing requires.
 
-If you want to know exactly where your practice stands in local search right now, [request a free SEO audit](/free-seo-audit/). We will map your visibility across a geo-grid of your service area and identify every opportunity you are currently missing.
+If you want to know exactly where your practice stands in local search right now, [Order an SEO Audit](/services/seo-audit/). We will map your visibility across a geo-grid of your service area and identify every opportunity you are currently missing.
 
 ## Why Medical Practices Need Specialized SEO
 
@@ -165,7 +165,7 @@ Rather than trying to outrank aggregators for broad terms like "doctors in [city
 
 ### How much does SEO for a medical practice cost?
 
-Pricing depends on the scope of work — the number of locations, specialties, competitive intensity of your market, and the gap between your current visibility and your goals. We price to deliver clear ROI: if a new patient is worth $2,000-5,000 in lifetime value and our work generates 20 additional patients per month, the investment pays for itself many times over. [Request a free audit](/free-seo-audit/) for a transparent proposal with projected outcomes.
+Pricing depends on the scope of work — the number of locations, specialties, competitive intensity of your market, and the gap between your current visibility and your goals. We price to deliver clear ROI: if a new patient is worth $2,000-5,000 in lifetime value and our work generates 20 additional patients per month, the investment pays for itself many times over. [Request a free audit](/services/seo-audit/) for a transparent proposal with projected outcomes.
 
 ### Do you write medical content, and is it reviewed by physicians?
 
@@ -177,4 +177,4 @@ We track everything that ties to patient acquisition: geo-grid rankings across y
 
 ---
 
-*Ready to fill your schedule with new patients from local search? [Request your free medical practice SEO audit](/free-seo-audit/) and see exactly where your practice stands against the competition.*
+*Ready to fill your schedule with new patients from local search? [Request your free medical practice SEO audit](/services/seo-audit/) and see exactly where your practice stands against the competition.*

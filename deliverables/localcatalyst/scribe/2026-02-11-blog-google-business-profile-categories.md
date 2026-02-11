@@ -176,4 +176,4 @@ When Google removes a category, it typically migrates affected listings to the c
 
 ## Take the Next Step
 
-Getting your categories right is foundational, but it is just one piece of a complete GBP optimization strategy. If you want an expert analysis of your current category configuration and overall local search presence, [request a free SEO audit](/free-seo-audit/) from LocalCatalyst.ai. Our CATALYST Methodology evaluates every element of your local visibility, including category optimization, so you know exactly where to focus for maximum impact.
+Getting your categories right is foundational, but it is just one piece of a complete GBP optimization strategy. If you want an expert analysis of your current category configuration and overall local search presence, [Order an SEO Audit](/services/seo-audit/) from LocalCatalyst.ai. Our CATALYST Methodology evaluates every element of your local visibility, including category optimization, so you know exactly where to focus for maximum impact.

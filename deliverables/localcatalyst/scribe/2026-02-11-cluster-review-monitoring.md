@@ -19,7 +19,7 @@ New reviews about your business are being posted right now — on Google, Yelp, 
 
 As a core service within our [reputation management services](/reputation-management-services/), review monitoring ensures that no review goes unseen, unanalyzed, or unresponded to — across every platform that matters for your business and your rankings. This is not a "set it and forget it" alert system. It is systematic, multi-platform surveillance of every signal that shapes your online reputation.
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** — We include a complete review profile snapshot across all platforms, showing exactly where your reputation stands today.
+**[Order Your SEO Audit](/services/seo-audit/)** — We include a complete review profile snapshot across all platforms, showing exactly where your reputation stands today.
 
 ---
 
@@ -152,4 +152,4 @@ It depends on your preference. Some businesses want us to handle all review resp
 
 Your online reputation is being shaped right now, on platforms you may not be watching. Every unmonitored review is a missed opportunity to protect your brand, respond to a customer, or catch a problem before it becomes a pattern.
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** — We will pull your complete review profile across every platform that matters for your business, benchmark it against your competitors, and show you exactly where your monitoring gaps are costing you.
+**[Order Your SEO Audit](/services/seo-audit/)** — We will pull your complete review profile across every platform that matters for your business, benchmark it against your competitors, and show you exactly where your monitoring gaps are costing you.

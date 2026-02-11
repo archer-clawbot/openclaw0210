@@ -211,4 +211,4 @@ Use Google Search Console for Core Web Vitals data and organic CTR. Use Google A
 
 ## Improve Your UX and Your Rankings
 
-User experience and search performance are two sides of the same coin. Every UX improvement you make benefits both your visitors and your rankings. If you want a comprehensive analysis of how your site's UX signals are affecting your search visibility, [request a free SEO audit](/free-seo-audit/) from LocalCatalyst.ai. Our CATALYST Methodology evaluates the full spectrum of technical, content, and user experience factors that determine where you rank.
+User experience and search performance are two sides of the same coin. Every UX improvement you make benefits both your visitors and your rankings. If you want a comprehensive analysis of how your site's UX signals are affecting your search visibility, [Order an SEO Audit](/services/seo-audit/) from LocalCatalyst.ai. Our CATALYST Methodology evaluates the full spectrum of technical, content, and user experience factors that determine where you rank.

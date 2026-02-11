@@ -65,7 +65,7 @@ We built the CATALYST methodology because local SEO requires structure, not gues
 
 Every campaign begins with a comprehensive local SEO audit. We analyze your current rankings across a geo-grid, evaluate your Google Business Profile health, audit your citation landscape, assess your backlink profile, benchmark your competitors, and identify every technical issue that could be suppressing your visibility.
 
-This is not a surface-level scan. Our audits produce 40+ page reports with prioritized action items, competitive intelligence, and baseline metrics we use to measure progress. [Request a free SEO audit](/free-seo-audit/) to see exactly where you stand.
+This is not a surface-level scan. Our audits produce 40+ page reports with prioritized action items, competitive intelligence, and baseline metrics we use to measure progress. [Order an SEO Audit](/services/seo-audit/) to see exactly where you stand.
 
 ### Prioritize
 
@@ -246,7 +246,7 @@ Most businesses see meaningful improvements within 60–90 days of beginning a c
 
 ### How much do local SEO services cost?
 
-Our local SEO engagements are priced based on the scope of work required — which depends on your market's competitiveness, the number of locations, and the gap between your current visibility and your goals. We do not offer one-size-fits-all packages because every local market is different. What we can tell you: we price our services to deliver clear ROI. If a single new customer is worth $500 to your business and our work generates 20 additional customers per month, the math speaks for itself. [Request a free audit](/free-seo-audit/) and we will provide a transparent proposal with projected outcomes.
+Our local SEO engagements are priced based on the scope of work required — which depends on your market's competitiveness, the number of locations, and the gap between your current visibility and your goals. We do not offer one-size-fits-all packages because every local market is different. What we can tell you: we price our services to deliver clear ROI. If a single new customer is worth $500 to your business and our work generates 20 additional customers per month, the math speaks for itself. [Request a free audit](/services/seo-audit/) and we will provide a transparent proposal with projected outcomes.
 
 ### Do I need local SEO if I already run Google Ads?
 
@@ -266,4 +266,4 @@ Three things. First, our CATALYST methodology provides a systematic, data-driven
 
 ---
 
-*Ready to see where your business stands in local search? [Request your free local SEO audit](/free-seo-audit/) and get a comprehensive analysis of your visibility, competition, and growth opportunities.*
+*Ready to see where your business stands in local search? [Request your free local SEO audit](/services/seo-audit/) and get a comprehensive analysis of your visibility, competition, and growth opportunities.*

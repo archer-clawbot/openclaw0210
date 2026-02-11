@@ -161,4 +161,4 @@ List every legitimate service your business offers. There is no penalty for a co
 
 ---
 
-**Not sure which attributes and services you are missing on your GBP?** [Request your free SEO audit](/free-seo-audit/) and we will compare your profile completeness against your top competitors — field by field.
+**Not sure which attributes and services you are missing on your GBP?** [Order Your SEO Audit](/services/seo-audit/) and we will compare your profile completeness against your top competitors — field by field.

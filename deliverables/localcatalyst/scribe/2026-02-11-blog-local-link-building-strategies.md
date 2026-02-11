@@ -167,4 +167,4 @@ The businesses that dominate local search in 2026 aren't just optimizing their G
 
 Local link building is slow, but it's permanent. Every link you earn today continues working for you next month, next year, and beyond.
 
-Ready to build a local backlink strategy tailored to your market? **[Schedule a free strategy call](/contact/)** and we'll analyze your current link profile, identify the highest-value opportunities in your area, and map out a plan to close the gap.
+Ready to build a local backlink strategy tailored to your market? **[Browse Our Services](/services/)** and we'll analyze your current link profile, identify the highest-value opportunities in your area, and map out a plan to close the gap.

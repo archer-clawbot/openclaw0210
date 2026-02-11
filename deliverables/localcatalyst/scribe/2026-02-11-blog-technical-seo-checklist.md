@@ -243,4 +243,4 @@ Technical SEO issues affect local rankings just as much as organic rankings. A s
 
 ## Ready to Audit Your Site?
 
-A checklist is only as good as the team executing it. If you want a professional technical SEO audit powered by AI and validated by experts, [request your free SEO audit](/free-seo-audit/) or [contact our team](/contact/) to discuss your project.
+A checklist is only as good as the team executing it. If you want a professional technical SEO audit powered by AI and validated by experts, [Order Your SEO Audit](/services/seo-audit/) or [contact our team](/contact/) to discuss your project.

@@ -151,4 +151,4 @@ Reviews are a significant local ranking factor. Both review quantity and average
 
 Your Google Business Profile is often the first impression potential clients have of your firm. A well-optimized profile with strong reviews, accurate categories, and regular engagement can mean the difference between appearing in the local 3-pack and being invisible in your own market.
 
-[Request a free SEO audit](/free-seo-audit/) to see how your Google Business Profile performance compares to competing firms in your area, or [contact LocalCatalyst](/contact/) to discuss a comprehensive local visibility strategy for your practice.
+[Order an SEO Audit](/services/seo-audit/) to see how your Google Business Profile performance compares to competing firms in your area, or [contact LocalCatalyst](/contact/) to discuss a comprehensive local visibility strategy for your practice.

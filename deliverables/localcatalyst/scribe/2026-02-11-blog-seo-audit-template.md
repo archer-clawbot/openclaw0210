@@ -268,4 +268,4 @@ Using this template for a self-audit provides valuable insights, especially for 
 
 ## Put This Template to Work
 
-A template provides structure. Expert analysis provides strategy. If you want a professional evaluation that goes beyond checklist completion to deliver prioritized, actionable recommendations tailored to your competitive landscape, request a [free SEO audit](/free-seo-audit/) and let our team apply this framework to your site with the depth and context that drives real ranking improvements.
+A template provides structure. Expert analysis provides strategy. If you want a professional evaluation that goes beyond checklist completion to deliver prioritized, actionable recommendations tailored to your competitive landscape, order an SEO audit(/services/seo-audit/) and let our team apply this framework to your site with the depth and context that drives real ranking improvements.

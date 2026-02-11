@@ -145,4 +145,4 @@ Paid search is a valuable complement to organic storm damage SEO, especially in 
 
 The roofing companies that capture the most storm damage business are the ones that prepared their digital presence before the weather turned. Do not wait for the next hail event or hurricane warning to start building your storm damage search visibility.
 
-[Request your free SEO audit](/free-seo-audit/) and we will assess your current storm damage search readiness and identify the content and optimization gaps that need to be addressed before the next severe weather event.
+[Order Your SEO Audit](/services/seo-audit/) and we will assess your current storm damage search readiness and identify the content and optimization gaps that need to be addressed before the next severe weather event.

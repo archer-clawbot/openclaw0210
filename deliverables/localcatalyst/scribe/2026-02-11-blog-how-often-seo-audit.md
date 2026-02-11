@@ -184,4 +184,4 @@ Google Search Console's index coverage report. This single data source reveals w
 
 ## Stay Ahead of Issues with Regular Audits
 
-Knowing when to audit is the first step. Getting a thorough, expert evaluation is the next. Request a [free SEO audit](/free-seo-audit/) to establish your current baseline and receive a recommended audit schedule tailored to your site's size, industry, and competitive environment.
+Knowing when to audit is the first step. Getting a thorough, expert evaluation is the next. Order an SEO audit(/services/seo-audit/) to establish your current baseline and receive a recommended audit schedule tailored to your site's size, industry, and competitive environment.

@@ -234,4 +234,4 @@ AI tools are excellent for research, identifying content gaps, and generating fi
 
 ---
 
-**Your content has more ranking potential than you realize.** Our CATALYST audit identifies exactly which pages are underperforming and provides a prioritized optimization roadmap with projected traffic impact. [Get your free SEO audit](/free-seo-audit/) and unlock the rankings your content deserves.
+**Your content has more ranking potential than you realize.** Our CATALYST audit identifies exactly which pages are underperforming and provides a prioritized optimization roadmap with projected traffic impact. [Order Your SEO Audit](/services/seo-audit/) and unlock the rankings your content deserves.

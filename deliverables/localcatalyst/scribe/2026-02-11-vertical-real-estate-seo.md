@@ -24,7 +24,7 @@ When a homebuyer searches "homes for sale in [neighborhood]" or "best neighborho
 
 At LocalCatalyst, we build real estate SEO strategies designed for the unique competitive dynamics of this industry — competing with Zillow, Redfin, and Realtor.com for search visibility, creating hyperlocal content at the neighborhood level, navigating the individual agent vs. brokerage SEO distinction, and building the kind of local market authority that generates inbound leads month after month. Our [CATALYST methodology](/local-seo-services/) (Audit, Prioritize, Execute, Expand) gives real estate professionals a structured path from lead-dependent to authority-driven client acquisition.
 
-Want to see where you stand in local search right now? [Request a free SEO audit](/free-seo-audit/) and we will map your visibility across every neighborhood and real estate search term in your market.
+Want to see where you stand in local search right now? [Order an SEO Audit](/services/seo-audit/) and we will map your visibility across every neighborhood and real estate search term in your market.
 
 ## The Real Estate SEO Challenge: Competing With Giants
 
@@ -191,4 +191,4 @@ Start with neighborhood pages for your top 5-10 target communities — the areas
 
 ---
 
-*Ready to stop renting leads and start building organic visibility that makes you the recognized expert in your market? [Request your free real estate SEO audit](/free-seo-audit/) and see exactly where you rank for every neighborhood and search term that matters.*
+*Ready to stop renting leads and start building organic visibility that makes you the recognized expert in your market? [Request your free real estate SEO audit](/services/seo-audit/) and see exactly where you rank for every neighborhood and search term that matters.*

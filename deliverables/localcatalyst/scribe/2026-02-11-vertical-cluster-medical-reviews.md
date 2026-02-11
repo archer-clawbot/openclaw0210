@@ -127,4 +127,4 @@ Yes. Responding to every review, including brief ones, signals to Google that yo
 
 Patient reviews don't manage themselves. Without a system, you're leaving your practice's reputation — and your local rankings — to chance. LocalCatalyst builds review generation and management systems that work within HIPAA constraints while steadily building the review signals Google needs to rank your practice.
 
-[Request your free SEO audit](/free-seo-audit/) and we'll include a complete review profile analysis showing how you compare to every competitor in your local market.
+[Order Your SEO Audit](/services/seo-audit/) and we'll include a complete review profile analysis showing how you compare to every competitor in your local market.

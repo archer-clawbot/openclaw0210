@@ -197,4 +197,4 @@ Yes. Service businesses experience seasonal demand patterns just as retailers do
 
 ---
 
-**Ready to build a seasonal SEO strategy that captures holiday demand?** [Request a free SEO audit](/free-seo-audit/) to evaluate your current local search foundation, or [contact our team](/contact/) to start planning your next holiday season strategy now -- before your competitors do.
+**Ready to build a seasonal SEO strategy that captures holiday demand?** [Order an SEO Audit](/services/seo-audit/) to evaluate your current local search foundation, or [contact our team](/contact/) to start planning your next holiday season strategy now -- before your competitors do.

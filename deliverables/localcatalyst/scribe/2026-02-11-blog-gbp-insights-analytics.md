@@ -200,4 +200,4 @@ Google regularly updates its local search algorithm, and these updates can cause
 
 ## Turn Data Into Results
 
-GBP analytics are only as valuable as the actions they inform. If you want expert analysis of your GBP performance data and a strategic plan tailored to your business, [request a free SEO audit](/free-seo-audit/) from LocalCatalyst.ai. We will translate your data into a prioritized action plan built on our CATALYST Methodology.
+GBP analytics are only as valuable as the actions they inform. If you want expert analysis of your GBP performance data and a strategic plan tailored to your business, [Order an SEO Audit](/services/seo-audit/) from LocalCatalyst.ai. We will translate your data into a prioritized action plan built on our CATALYST Methodology.

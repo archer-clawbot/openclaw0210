@@ -263,6 +263,6 @@ Industry specialization can be an advantage because the agency already understan
 
 Whether you are hiring your first SEO agency or considering a switch, the first step is understanding where you stand. A clear picture of your website's current performance gives you the baseline to evaluate any agency's promises against reality.
 
-Request a [free SEO audit](/free-seo-audit/) and we will give you an honest assessment of your technical health, content quality, local presence, and competitive positioning — no pitch, no pressure. Use it to hold any agency you hire accountable to measurable standards.
+Order an SEO audit(/services/seo-audit/) and we will give you an honest assessment of your technical health, content quality, local presence, and competitive positioning — no pitch, no pressure. Use it to hold any agency you hire accountable to measurable standards.
 
-[Get Your Free SEO Audit](/free-seo-audit/)
+[Order Your SEO Audit](/services/seo-audit/)

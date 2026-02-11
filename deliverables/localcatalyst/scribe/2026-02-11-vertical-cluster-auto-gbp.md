@@ -178,6 +178,6 @@ Report the listing through Google's Business Redressal Complaint Form. Keyword-s
 
 Your Google Business Profile should work as hard as your best service advisor — generating leads, building trust, and putting customers in your service bays. Our CATALYST methodology includes a complete GBP audit and optimization plan tailored to auto repair shops.
 
-[Request a Free SEO Audit](/free-seo-audit/) to see how your GBP stacks up against the top-ranking shops in your market.
+[Order an SEO Audit](/services/seo-audit/) to see how your GBP stacks up against the top-ranking shops in your market.
 
-[Contact us](/contact/) to discuss GBP management for your auto repair shop.
+[See Our Services](/services/) to discuss GBP management for your auto repair shop.

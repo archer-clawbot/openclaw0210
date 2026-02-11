@@ -224,4 +224,4 @@ You can repurpose themes and topics, but we recommend customizing content for ea
 
 ---
 
-**Need help building a consistent GBP posting strategy?** Our [free SEO audit](/free-seo-audit/) evaluates your current posting activity, compares it to your top local competitors, and recommends a posting cadence and content strategy tailored to your industry and market. Let us turn your GBP into an active marketing channel.
+**Need help building a consistent GBP posting strategy?** Our [free SEO audit](/services/seo-audit/) evaluates your current posting activity, compares it to your top local competitors, and recommends a posting cadence and content strategy tailored to your industry and market. Let us turn your GBP into an active marketing channel.

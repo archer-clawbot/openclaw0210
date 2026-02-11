@@ -188,4 +188,4 @@ Yes. Mobile "near me" searches use the device's GPS for highly precise location 
 
 "Near me" searches represent customers who are ready to act — right now, near you. Maximizing your visibility for these searches requires a coordinated approach across your GBP, reviews, citations, website, and mobile experience. Our free audit identifies exactly where your "near me" visibility is strong and where you are losing customers to competitors.
 
-[Request your free SEO audit](/free-seo-audit/) and see your "near me" ranking on a geo-grid map of your service area.
+[Order Your SEO Audit](/services/seo-audit/) and see your "near me" ranking on a geo-grid map of your service area.

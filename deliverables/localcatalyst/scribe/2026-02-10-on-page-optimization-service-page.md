@@ -30,7 +30,7 @@
 Great content doesn't rank by accident. Our on-page SEO services optimize every element — from title tags to internal linking — to make your content irresistible to both Google and customers.
 
 ### Hero CTA
-**[Get Your Free On-Page SEO Audit]**
+**[Order Your On-Page SEO Audit](/services/seo-audit/)**
 
 ### Trust Signal
 Avg. 178% organic traffic increase | 92% keyword ranking improvement | 100+ sites optimized
@@ -121,7 +121,7 @@ Title tags are the #1 on-page ranking factor and the first thing users see in se
 - Use benefit-focused language that speaks to user intent
 
 **Example:**  
-`Award-winning local SEO agency specializing in Google Business Profile optimization, technical SEO, and Map Pack domination. Get your free audit today.`
+`Award-winning local SEO agency specializing in Google Business Profile optimization, technical SEO, and Map Pack domination. Order your SEO audit today.`
 
 **Why It Matters:**  
 Meta descriptions don't directly affect rankings, but they dramatically affect CTR — which DOES affect rankings. A compelling meta description can be the difference between a click and a scroll-past.
@@ -442,7 +442,7 @@ Product pages not ranking despite good products and competitive pricing.
 
 **Custom Packages Available** for large sites (100+ pages) or enterprise needs.
 
-**[Get Your Free On-Page SEO Audit]**
+**[Order Your On-Page SEO Audit](/services/seo-audit/)**
 
 ---
 
@@ -478,7 +478,7 @@ Get a free on-page SEO audit and discover exactly what's holding your content ba
 - ✅ Title/meta tag review
 - ✅ Prioritized optimization roadmap
 
-**[Get Your Free On-Page SEO Audit]**
+**[Order Your On-Page SEO Audit](/services/seo-audit/)**
 
 ---
 

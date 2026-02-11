@@ -160,4 +160,4 @@ Google Guaranteed (through Local Services Ads) is a separate program from GBP bu
 
 Your GBP listing is generating impressions right now. The question is whether it is converting those impressions into calls and quote requests at the rate it should. Our audit identifies exactly where your roofing GBP underperforms and what to fix first.
 
-[Request your free SEO audit](/free-seo-audit/) and see how your roofing company's GBP stacks up against local competitors.
+[Order Your SEO Audit](/services/seo-audit/) and see how your roofing company's GBP stacks up against local competitors.

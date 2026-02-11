@@ -148,4 +148,4 @@ Avoiding bad SEO is as important as investing in good SEO. The damage from harmf
 
 If you are unsure about the quality of SEO work being done on your site, or you want to evaluate your current position before making a decision, start with a professional assessment.
 
-**[Request your free SEO audit](/free-seo-audit/)** for an honest evaluation of your site's health, current SEO standing, and the opportunities ahead. No pressure, no sales tactics -- just clear information to help you make the right decision.
+**[Order Your SEO Audit](/services/seo-audit/)** for an honest evaluation of your site's health, current SEO standing, and the opportunities ahead. No pressure, no sales tactics -- just clear information to help you make the right decision.

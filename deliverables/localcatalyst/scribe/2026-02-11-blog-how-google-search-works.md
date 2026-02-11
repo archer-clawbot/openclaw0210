@@ -206,6 +206,6 @@ Google makes thousands of changes to its algorithm each year, most of them minor
 
 Understanding how Google Search works gives you a strategic advantage. Every optimization decision — from how you structure your site to how you write your content to how you build links — should be informed by how Google discovers, processes, and ranks pages.
 
-If you want to know exactly how your website performs across all four stages of the Google search process, request a [free SEO audit](/free-seo-audit/). We will identify where your site is falling short in crawlability, indexing, content quality, and local visibility — and give you a clear plan to fix it.
+If you want to know exactly how your website performs across all four stages of the Google search process, order an SEO audit(/services/seo-audit/). We will identify where your site is falling short in crawlability, indexing, content quality, and local visibility — and give you a clear plan to fix it.
 
-[Get Your Free SEO Audit](/free-seo-audit/)
+[Order Your SEO Audit](/services/seo-audit/)

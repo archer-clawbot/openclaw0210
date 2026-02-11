@@ -182,7 +182,7 @@ Avoid these errors that can undermine your Maps visibility:
 
 ### How long does it take to rank on Google Maps?
 
-Timelines vary significantly based on your current position, competition level, and market size. Businesses with established profiles and some existing authority may see meaningful movement in 30-60 days. New profiles or businesses in highly competitive markets may take 3-6 months of consistent optimization. The key variable is how far behind your competitors you are across the five prominence signal categories. We set realistic timelines during our initial [free SEO audit](/free-seo-audit/) based on your specific competitive landscape.
+Timelines vary significantly based on your current position, competition level, and market size. Businesses with established profiles and some existing authority may see meaningful movement in 30-60 days. New profiles or businesses in highly competitive markets may take 3-6 months of consistent optimization. The key variable is how far behind your competitors you are across the five prominence signal categories. We set realistic timelines during our initial [free SEO audit](/services/seo-audit/) based on your specific competitive landscape.
 
 ### Can I rank on Google Maps without a physical location?
 
@@ -202,4 +202,4 @@ The [local 3-pack](/local-seo-services/local-3-pack-optimization/) is the three 
 
 ---
 
-**Ready to improve your Google Maps visibility?** Our [free SEO audit](/free-seo-audit/) includes a geo-grid analysis of your current Maps rankings, competitive benchmarking, and a prioritized action plan for improving your Map Pack positions. No contracts. No commitments. Just data-driven insight into where you stand and what it takes to rank.
+**Ready to improve your Google Maps visibility?** Our [free SEO audit](/services/seo-audit/) includes a geo-grid analysis of your current Maps rankings, competitive benchmarking, and a prioritized action plan for improving your Map Pack positions. No contracts. No commitments. Just data-driven insight into where you stand and what it takes to rank.

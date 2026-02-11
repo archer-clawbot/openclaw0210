@@ -21,7 +21,7 @@ Blogging works. Random blogging doesn't.
 
 At LocalCatalyst, our [SEO content strategy](/seo-content-strategy/) treats blog content as a strategic asset — not a checkbox. Every blog post we write serves a defined purpose within a larger content architecture designed to build [topical authority](/seo-content-strategy/topical-authority/), capture long-tail search traffic, strengthen internal linking, and move readers toward conversion.
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** — We'll identify your highest-value blog content opportunities and show you exactly where traffic is waiting.
+**[Order Your SEO Audit](/services/seo-audit/)** — We'll identify your highest-value blog content opportunities and show you exactly where traffic is waiting.
 
 ---
 
@@ -236,7 +236,7 @@ A freelance writer produces blog posts. We build blog content systems. The diffe
 
 ### What if blogging hasn't worked for us before?
 
-It almost certainly wasn't the blogging that failed — it was the strategy (or lack thereof). We've audited hundreds of local business blogs, and the pattern is almost always the same: random topics, no keyword targeting, no internal linking, no SEO optimization, and no measurement. When you engineer blog content strategically, it works for every industry. Our [free SEO audit](/free-seo-audit/) includes a content gap analysis that shows exactly where your blog opportunities are.
+It almost certainly wasn't the blogging that failed — it was the strategy (or lack thereof). We've audited hundreds of local business blogs, and the pattern is almost always the same: random topics, no keyword targeting, no internal linking, no SEO optimization, and no measurement. When you engineer blog content strategically, it works for every industry. Our [free SEO audit](/services/seo-audit/) includes a content gap analysis that shows exactly where your blog opportunities are.
 
 ---
 
@@ -244,4 +244,4 @@ It almost certainly wasn't the blogging that failed — it was the strategy (or 
 
 Your competitors are publishing strategic content. The businesses ranking above you in Google have a content system, not just a blog. We build that system.
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** — We'll analyze your content landscape, identify your highest-value blog opportunities, and show you exactly how strategic content will drive rankings and revenue for your business.
+**[Order Your SEO Audit](/services/seo-audit/)** — We'll analyze your content landscape, identify your highest-value blog opportunities, and show you exactly how strategic content will drive rankings and revenue for your business.

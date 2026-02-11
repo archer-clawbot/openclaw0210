@@ -168,4 +168,4 @@ Absolutely. General health information — "We treat Type 2 diabetes," "Learn ab
 
 HIPAA compliance and SEO performance aren't competing priorities — they're parallel tracks that work together when your systems are set up correctly. LocalCatalyst specializes in local SEO for medical practices, and every strategy we implement operates within HIPAA boundaries by design.
 
-[Request your free SEO audit](/free-seo-audit/) to identify both ranking opportunities and compliance gaps in your current digital presence.
+[Order Your SEO Audit](/services/seo-audit/) to identify both ranking opportunities and compliance gaps in your current digital presence.

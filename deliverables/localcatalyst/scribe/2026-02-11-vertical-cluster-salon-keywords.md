@@ -151,4 +151,4 @@ Start with free tools: Google Search Console (to see what queries already find y
 
 ## Start Ranking for the Keywords Your Ideal Clients Are Searching
 
-Every day, potential clients in your area are searching for the exact services you offer. The only question is whether they find your salon or a competitor's. [Request a free SEO audit](/free-seo-audit/) to uncover the highest-opportunity keywords in your market and build a strategy that fills your appointment book.
+Every day, potential clients in your area are searching for the exact services you offer. The only question is whether they find your salon or a competitor's. [Order an SEO Audit](/services/seo-audit/) to uncover the highest-opportunity keywords in your market and build a strategy that fills your appointment book.

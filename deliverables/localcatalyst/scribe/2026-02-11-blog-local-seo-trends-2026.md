@@ -196,4 +196,4 @@ Yes, but worry is the wrong framing. LLM-powered discovery is a new visibility c
 
 ---
 
-**Want to make sure your local SEO strategy is aligned with 2026 realities?** [Request a free SEO audit](/free-seo-audit/) and we will evaluate your business across every trend discussed in this article. Or [contact our team](/contact/) to build a local SEO program that adapts as search continues to evolve.
+**Want to make sure your local SEO strategy is aligned with 2026 realities?** [Order an SEO Audit](/services/seo-audit/) and we will evaluate your business across every trend discussed in this article. Or [contact our team](/contact/) to build a local SEO program that adapts as search continues to evolve.

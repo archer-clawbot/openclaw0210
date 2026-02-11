@@ -123,4 +123,4 @@ Each location needs its own GBP listing with a unique address, phone number, and
 
 ## Turn Google Searches Into Booked Appointments
 
-Your salon's Google Business Profile is either your best salesperson or your biggest missed opportunity. [Contact us](/contact/) for a GBP audit that reveals exactly how your salon listing compares to local competitors and identifies the changes that will drive the most appointment bookings.
+Your salon's Google Business Profile is either your best salesperson or your biggest missed opportunity. [See Our Services](/services/) for a GBP audit that reveals exactly how your salon listing compares to local competitors and identifies the changes that will drive the most appointment bookings.

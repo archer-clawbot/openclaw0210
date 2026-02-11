@@ -19,7 +19,7 @@ If you serve multiple cities or neighborhoods, you need location pages. Not door
 
 The mistake we see most often: a business creates 30 city pages with identical content, changes "Phoenix" to "Scottsdale" to "Mesa" to "Chandler," and wonders why Google ignores all of them. That is not a location page strategy. That is a thin content factory that actively damages your rankings.
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** — We will analyze your current location pages (or lack thereof) and show you exactly what it takes to rank in every city you serve.
+**[Order Your SEO Audit](/services/seo-audit/)** — We will analyze your current location pages (or lack thereof) and show you exactly what it takes to rank in every city you serve.
 
 ---
 
@@ -192,4 +192,4 @@ Location pages and your GBP listing work together. For your primary business loc
 
 Every city you serve without a dedicated, locally relevant page is a city where you are invisible in search. Your competitors who have invested in location page content are capturing the traffic, the leads, and the revenue that should be yours.
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** — We will map your service area against your current geographic content coverage and show you exactly where the gaps are costing you business.
+**[Order Your SEO Audit](/services/seo-audit/)** — We will map your service area against your current geographic content coverage and show you exactly where the gaps are costing you business.

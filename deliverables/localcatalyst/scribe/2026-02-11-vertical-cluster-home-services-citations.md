@@ -152,6 +152,6 @@ The citation value comes from the free listing — your NAP data appearing on th
 
 Inconsistent or incomplete citations are silently suppressing your local rankings. Our citation building process identifies every gap, corrects every inconsistency, and places your business on every directory that matters for your trade and market.
 
-[Request a Free SEO Audit](/free-seo-audit/) to see the current state of your citation profile and where the gaps are.
+[Order an SEO Audit](/services/seo-audit/) to see the current state of your citation profile and where the gaps are.
 
-[Contact us](/contact/) to discuss citation building for your home service business.
+[See Our Services](/services/) to discuss citation building for your home service business.

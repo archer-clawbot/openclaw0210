@@ -132,4 +132,4 @@ No credit card required. No obligation. Just a clear-eyed assessment of where yo
 
 Templates get you started. Strategy gets you results. If you're ready to stop guessing and start ranking, our team applies the full CATALYST Methodology — audit, plan, execute, and expand — to build local search dominance that compounds over time.
 
-**[Schedule a Strategy Call](/contact/)** and let's talk about what's holding your business back in local search.
+**[Browse Our Services](/services/)** and let's talk about what's holding your business back in local search.

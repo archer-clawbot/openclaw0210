@@ -251,4 +251,4 @@ Many managed WordPress hosts (Kinsta, WP Engine, Flywheel) include server-level 
 
 ## Get Your WordPress Site Performing
 
-The right plugin stack is foundational, but plugins alone do not create a high-performing website. Strategy, content, technical optimization, and ongoing management determine whether your WordPress site competes or coasts. [Request a free SEO audit](/free-seo-audit/) from LocalCatalyst.ai to find out where your site stands and what it will take to reach the next level.
+The right plugin stack is foundational, but plugins alone do not create a high-performing website. Strategy, content, technical optimization, and ongoing management determine whether your WordPress site competes or coasts. [Order an SEO Audit](/services/seo-audit/) from LocalCatalyst.ai to find out where your site stands and what it will take to reach the next level.

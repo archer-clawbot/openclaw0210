@@ -138,7 +138,7 @@ Start with high-intent, service-specific keywords combined with your primary cit
 
 Every spring, homeowners in your service area search for a landscaping company. The question is whether they find you or your competitor. Landscaping SEO is the most reliable, sustainable way to ensure your company appears where it matters, when it matters — season after season.
 
-**[Get Your Free SEO Audit](/free-seo-audit/)** and see exactly where your landscaping company stands in local search, what your competitors are doing right, and what opportunities are waiting for you.
+**[Order Your SEO Audit](/services/seo-audit/)** and see exactly where your landscaping company stands in local search, what your competitors are doing right, and what opportunities are waiting for you.
 
 ---
 

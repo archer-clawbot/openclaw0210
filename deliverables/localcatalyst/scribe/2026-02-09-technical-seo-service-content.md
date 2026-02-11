@@ -28,7 +28,7 @@ Technical SEO Services That Fix What's Holding You Back
 Your website could be perfect for customers — but if Google can't crawl it, index it, or understand it, you're invisible. Our technical SEO services eliminate the barriers holding your site back from ranking.
 
 ### Hero CTA
-**[Primary Button]** Get Your Free Technical SEO Audit
+**[Primary Button]** Order Your Technical SEO Audit
 
 ### Trust Signal
 Avg. 247% organic traffic increase | 98% Core Web Vitals pass rate | 100+ sites optimized
@@ -820,11 +820,11 @@ Technical SEO Pricing
 - Enterprise e-commerce (100K+ products)
 - Custom technical solutions
 
-**[Contact us](/contact/)** for custom pricing and strategy.
+**[See Our Services](/services/)** for custom pricing and strategy.
 
 ---
 
-**[CTA Button]** Get Your Free Technical SEO Audit
+**[CTA Button]** Order Your Technical SEO Audit
 
 ---
 
@@ -953,7 +953,7 @@ Get a free technical SEO audit and discover exactly what's preventing your site 
 ✅ **Schema audit** (existing + missing opportunities)  
 ✅ **Prioritized fix roadmap** with Impact × Effort scoring
 
-**[CTA Button]** Get Your Free Technical SEO Audit
+**[CTA Button]** Order Your Technical SEO Audit
 
 **Trust Signal:** No developer required. We explain everything in plain English. Results delivered in 7 days.
 

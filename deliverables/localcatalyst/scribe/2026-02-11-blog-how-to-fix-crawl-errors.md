@@ -178,4 +178,4 @@ A 404 means "not found" -- the server does not know whether the absence is tempo
 
 ## Stop Losing Traffic to Broken Pages
 
-Crawl errors are fixable, and every one you resolve is a small win for your site's health and visibility. If you want expert help identifying and resolving the crawl issues holding your site back, [request a free SEO audit](/free-seo-audit/) or [get in touch with our team](/contact/).
+Crawl errors are fixable, and every one you resolve is a small win for your site's health and visibility. If you want expert help identifying and resolving the crawl issues holding your site back, [Order an SEO Audit](/services/seo-audit/) or [get in touch with our team](/contact/).

@@ -300,4 +300,4 @@ Manual citation building is effective but extremely time-consuming, especially f
 
 A strong citation profile built on the right sources is one of the most reliable investments in local SEO. If you want a complete, professionally managed citation strategy built on the sources that matter most for your industry and market, LocalCatalyst's CATALYST methodology includes comprehensive citation building and monitoring.
 
-[Request your free SEO audit](/free-seo-audit/) to see how your current citation profile compares to your top local competitors and where the biggest opportunities lie.
+[Order Your SEO Audit](/services/seo-audit/) to see how your current citation profile compares to your top local competitors and where the biggest opportunities lie.

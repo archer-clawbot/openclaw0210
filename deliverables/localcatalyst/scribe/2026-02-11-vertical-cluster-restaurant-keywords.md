@@ -154,4 +154,4 @@ Targeting searches for competitor restaurant names (e.g., "restaurants like [Com
 
 Every empty seat represents a diner who searched for a restaurant like yours but found a competitor instead. Keyword research identifies exactly where those missed connections are happening and how to capture them.
 
-[Get your free SEO audit](/free-seo-audit/) and see which restaurant keywords represent the biggest untapped opportunity in your market.
+[Order Your SEO Audit](/services/seo-audit/) and see which restaurant keywords represent the biggest untapped opportunity in your market.

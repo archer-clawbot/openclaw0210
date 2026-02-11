@@ -220,4 +220,4 @@ Yes, and they should be when your content strategy evolves. Reorganizing silos i
 
 Content silo architecture is one of the most powerful structural advantages you can give your website. It transforms scattered pages into an organized, authoritative resource that search engines trust and users navigate with ease. LocalCatalyst's CATALYST methodology includes comprehensive site architecture planning, silo implementation, and ongoing optimization tracked through geo-grid ranking data.
 
-[Get your free SEO audit](/free-seo-audit/) to see how your current site architecture compares to an optimized silo structure and where the biggest opportunities lie.
+[Order Your SEO Audit](/services/seo-audit/) to see how your current site architecture compares to an optimized silo structure and where the biggest opportunities lie.

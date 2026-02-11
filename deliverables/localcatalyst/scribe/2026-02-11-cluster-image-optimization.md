@@ -202,4 +202,4 @@ AI-generated images are acceptable for illustrative and decorative purposes but 
 
 ---
 
-**Are unoptimized images slowing down your site and costing you rankings?** [Request your free SEO audit](/free-seo-audit/) to get a complete performance analysis including image optimization recommendations for every page.
+**Are unoptimized images slowing down your site and costing you rankings?** [Order Your SEO Audit](/services/seo-audit/) to get a complete performance analysis including image optimization recommendations for every page.

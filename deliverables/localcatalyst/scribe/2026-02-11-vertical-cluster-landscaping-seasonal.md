@@ -129,4 +129,4 @@ Continue publishing content, earning reviews, and maintaining your GBP through t
 
 ## Build a Year-Round Landscaping SEO Engine
 
-Seasonal demand is predictable. Your SEO strategy should be too. Stop reacting to search volume spikes and start engineering them. [Request a free SEO audit](/free-seo-audit/) and we will map your seasonal keyword opportunities against a 12-month content and optimization calendar.
+Seasonal demand is predictable. Your SEO strategy should be too. Stop reacting to search volume spikes and start engineering them. [Order an SEO Audit](/services/seo-audit/) and we will map your seasonal keyword opportunities against a 12-month content and optimization calendar.

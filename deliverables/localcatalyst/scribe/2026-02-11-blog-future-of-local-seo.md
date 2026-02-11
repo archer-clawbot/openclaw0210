@@ -128,4 +128,4 @@ Quarterly strategic reviews are a reasonable minimum. The local search landscape
 
 ---
 
-**Want to know where your business stands in the shifting local search landscape?** [Get a free SEO audit](/free-seo-audit/) that includes geo-grid ranking analysis, entity profile evaluation, and a prioritized roadmap built for where local SEO is heading — not where it has been.
+**Want to know where your business stands in the shifting local search landscape?** [Get a free SEO audit](/services/seo-audit/) that includes geo-grid ranking analysis, entity profile evaluation, and a prioritized roadmap built for where local SEO is heading — not where it has been.

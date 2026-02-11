@@ -187,4 +187,4 @@ WordPress powers the majority of top-ranking dental websites because it offers f
 
 If your dental website isn't generating a consistent flow of new patient inquiries, the issue is almost certainly in its structure, speed, or content depth — not its visual design. LocalCatalyst builds and optimizes dental websites using the CATALYST Methodology, starting with a comprehensive audit that identifies exactly what's holding your site back.
 
-[Request your free SEO audit](/free-seo-audit/) and get a prioritized roadmap for turning your website into a patient acquisition engine.
+[Order Your SEO Audit](/services/seo-audit/) and get a prioritized roadmap for turning your website into a patient acquisition engine.
