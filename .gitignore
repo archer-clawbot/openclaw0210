@@ -53,3 +53,4 @@ forge/pending-approvals.json
 update-check.json
 workspace/licenses.json
 workspace/skills/trello/
+workspace/skills/local-places/.env
