@@ -42,6 +42,13 @@ Thumbs.db
 *.swp
 .claude/
 
+# Runtime data (modules 3-10)
+cron/data/
+cron/breaker-state.json
+forge/backups/
+forge/FORGE-LOG.md
+forge/pending-approvals.json
+
 # Misc
 update-check.json
 workspace/licenses.json

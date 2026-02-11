@@ -27,28 +27,6 @@ const POLL_MAX_INTERVAL = 120_000;
 const WAIT_TIMEOUT = 3_000;
 const CLIENT_PAUSE = 50; // ms between client polls (rate limit)
 
-// Used as agent whitelist (line ~200 guards against unknown agentIds).
-// Models here match openclaw.json runtime assignments.
-const AGENT_MODEL = {
-  main:     'sonnet',
-  silas:    'sonnet',
-  mozi:     'sonnet',
-  scribe:   'sonnet',
-  razor:    'sonnet',
-  blitz:    'sonnet',
-  scout:    'haiku',
-  canvas:   'haiku',
-  builder:  'haiku',
-  wrench:   'haiku',
-  specs:    'haiku',
-  herald:   'haiku',
-  citadel:  'haiku',
-  ghost:    'haiku',
-  lookout:  'haiku',
-  ledger:   'haiku',
-  sentinel: 'haiku',
-  forge:    'opus',
-};
 
 const LOG_FILE = path.join(__dirname, 'dispatcher.log');
 const LOG_MAX_BYTES = 1_048_576; // 1 MB
@@ -76,10 +54,6 @@ function log(msg) {
   console.log(line);
   fs.appendFileSync(LOG_FILE, line + '\n');
 }
-
-// Agents that receive WordPress credentials + execution instructions.
-// Now driven by credential manifests — agents with "wordpress" clientAccess.
-const EXECUTION_AGENTS = new Set(['wrench', 'builder']);
 
 // Chain map: when an analysis agent completes, auto-create a follow-up task for the execution agent.
 const CHAIN_MAP = {

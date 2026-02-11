@@ -72,7 +72,7 @@
       "id": "forge-nightly",
       "agentId": "forge",
       "name": "Night Forge — Overnight Improvement Cycle",
-      "enabled": true,
+      "enabled": false,
       "createdAtMs": 1739232000000,
       "updatedAtMs": 1739232000000,
       "schedule": {

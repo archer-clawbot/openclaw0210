@@ -132,7 +132,7 @@ function cleanMarkdown(md) {
   s = s.replace(/<script[^>]*>[\s\S]*?<\/script>/gi, '');
   s = s.replace(/<style[^>]*>[\s\S]*?<\/style>/gi, '');
   // Remove image alt-text injection (keep image reference but strip alt)
-  s = s.replace(/!\[([^\]]{100,})\]\([^)]+\)/g, '![image]($2)');
+  s = s.replace(/!\[([^\]]{100,})\]\(([^)]+)\)/g, '![image]($2)');
   // Remove link title injection
   s = s.replace(/(\[[^\]]*\]\([^)]*)\s+"[^"]{50,}"(\))/g, '$1$2');
   return s;
