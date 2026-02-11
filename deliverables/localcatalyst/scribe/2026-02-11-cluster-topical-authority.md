@@ -86,7 +86,7 @@ The internal linking between pillar and cluster pages is what makes the architec
 - Every cluster page links back to the pillar page (passing authority upward)
 - The pillar page links to every cluster page (distributing authority and guiding users)
 - Related cluster pages link to each other (reinforcing topical connections)
-- [Blog posts](/seo-content-strategy/blog-writing-services/) link to relevant cluster and pillar pages (further building authority)
+- [Blog posts](/services/content-pages/) link to relevant cluster and pillar pages (further building authority)
 
 This structure tells Google: "This site doesn't just have a page about drain cleaning — it has an entire knowledge base about drain cleaning." That's topical authority.
 

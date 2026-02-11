@@ -30,7 +30,7 @@ No setup fees. No contracts. No monthly minimums. Buy one product or buy them al
 | [Content Pages](/services/content-pages/) | $97/page (1-9) / $79/page (10-24) / $69/page (25+) | 2-4 hours/page | Optimized content with headers, meta tags, internal links, FAQ, schema-ready structure. MD + HTML + TXT. |
 | [Schema Markup](/services/schema-markup/) | $197 (generation) / $397 (generation + WP deployment) | 6-12 hours | LocalBusiness, Service, FAQ, BreadcrumbList, Review schema in JSON-LD. Validated and tested. |
 | [GBP Optimization](/services/gbp-optimization/) | $297 (optimization) / $497 (optimization + 30 days of posts) | 24-48 hours | Optimized description, categories, services, Q&As, posting calendar, completeness score. |
-| Citation Building | $197+ | 5-7 days | NAP submissions to 40+ directories, citation cleanup, consistency audit. |
+| [Citation Building](/services/citation-building/) | $197 (25 dirs) / $347 (50 dirs) / $597 (100 dirs + niche) | 5-7 days | NAP submissions, citation cleanup, consistency audit. |
 | Monthly Content | $297+/mo | Ongoing | Recurring blog posts, service pages, or location pages on a set schedule. |
 | Full Website Build | $999+ | 5-10 days | SEO-optimized WordPress site with architecture, core pages, schema, and speed optimization. |
 
@@ -67,6 +67,7 @@ Everything a local business needs to compete in search.
 ### The Agency Toolkit -- Custom
 **Bulk pricing for agencies and freelancers**
 Order deliverables for your clients at volume rates. White-label ready. Contact us for agency pricing on 5+ concurrent projects.
+<!-- TODO: Build dedicated landing page at /agency/ or /white-label/ for agency partnerships -->
 
 ---
 
@@ -102,7 +103,7 @@ Some businesses want a partner, not a product catalog. Our managed SEO service w
 
 We don't publish managed pricing on the website because every engagement is scoped differently. But we'll give you a straight answer on the first call.
 
-[Schedule Your Free Strategy Call](/contact/?type=managed)
+[Schedule Your Free Strategy Call](/managed/)
 
 ---
 
@@ -155,4 +156,4 @@ Pick a product and go. No sales call required for a la carte orders.
 | Speak Google's language | [Schema Markup](/services/schema-markup/) | $197+ |
 | Own the map pack | [GBP Optimization](/services/gbp-optimization/) | $297+ |
 
-[Browse All Services](/services/) | [Schedule a Strategy Call](/contact/)
+[Browse All Services](/services/) | [Schedule a Strategy Call](/managed/)

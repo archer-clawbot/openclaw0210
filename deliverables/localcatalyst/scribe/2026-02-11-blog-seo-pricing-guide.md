@@ -3,8 +3,8 @@
 **Deliverable:** Resource blog post
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/seo-pricing-guide/
-**Parent Hub:** /blog/
+**URL:** /learn/seo-pricing-guide/
+**Parent Hub:** /learn/
 **Primary Keyword:** how much does SEO cost
 **Secondary Keywords:** SEO pricing, SEO cost per month, SEO agency pricing, local SEO pricing, SEO retainer cost, affordable SEO services
 **Title Tag:** How Much Does SEO Cost? 2026 Pricing Guide
@@ -61,6 +61,33 @@ Agencies and consultants use several pricing structures. Each has advantages and
 - One-time fixes often need sustained follow-up
 - Results from a single project fade without maintenance
 
+### À La Carte / Per-Deliverable Pricing
+
+**How it works:** You pay a fixed price per deliverable with no retainer and no ongoing commitment. You order what you need — an audit, a batch of content pages, a topical map — and receive the finished product in hours or days.
+
+**Typical range:**
+- Topical maps: $300 - $1,700
+- SEO audits: $300 - $7,500
+- Content pages: $50 - $500/page
+- Schema markup: $100 - $5,000 (often bundled into larger packages)
+- GBP optimization: $300 - $600
+
+**Best for:** Businesses that know what they need and want to start without a long-term commitment. Also ideal for agencies and freelancers who need specific deliverables produced at scale without hiring more staff.
+
+**Advantages:**
+- Predictable cost per item — no scope creep
+- No contract or minimum commitment
+- Start small and scale as needed
+- Full ownership of all deliverables
+- Fast turnaround (hours to days, not weeks)
+
+**Drawbacks:**
+- Does not include ongoing strategic planning or optimization
+- You manage the implementation and sequencing yourself
+- Best results still require a strategic approach to ordering (starting with an audit or topical map, then building from there)
+
+This model is relatively new in SEO because it requires automation to make the economics work. Agencies that rely on human labor cannot profitably deliver a topical map for $397 — but AI-powered systems can.
+
 ### Hourly Consulting
 
 **How it works:** You pay an hourly rate for the consultant's time. Engagements may include strategy sessions, training, audits, or advisory work.
@@ -110,6 +137,23 @@ The following table reflects current market rates for legitimate, professional S
 | Multi-location business (2-10 locations) | $2,000 - $5,000 | Multi-location SEO: per-location optimization, location pages, scaled citation management, content strategy, competitive link building, bi-weekly reporting |
 | Regional/growing business | $3,000 - $7,500 | Aggressive growth: extensive content production, PR-driven link building, technical SEO maintenance, conversion optimization, weekly reporting |
 | Enterprise/national | $7,500 - $25,000+ | Full-service SEO: dedicated team, enterprise technical SEO, large-scale content programs, digital PR, custom reporting dashboards |
+
+## Per-Deliverable Market Rates
+
+For businesses considering à la carte SEO purchases, here are the current market rates for individual deliverables:
+
+| Deliverable | Market Range | What Affects Price |
+|---|---|---|
+| Topical Map | $300 - $1,700 | Scope (number of clusters), keyword research depth, competitive analysis inclusion |
+| SEO Audit | $300 - $7,500 | Depth of analysis, number of pages audited, competitor comparison, deliverable format |
+| Content Pages | $50 - $500/page | Word count, research requirements, subject matter expertise, optimization depth |
+| Schema Markup | $100 - $5,000 | Number of schema types, number of pages, implementation vs. generation only |
+| GBP Optimization | $300 - $600 | One-time vs. ongoing, number of locations, post creation inclusion |
+| Citation Building | $1 - $10/citation | Directory quality, manual vs. automated submission, cleanup included |
+
+Premium providers (established SEO consultants and boutique agencies) sit at the top of these ranges. AI-powered services and newer providers sit at the lower end. The quality gap between the two has narrowed significantly as AI tools have matured — the main remaining difference is whether the deliverable includes human strategic review.
+
+---
 
 ## What Drives Price Differences
 
@@ -288,6 +332,6 @@ Most marketing consultants recommend allocating 7-10% of gross revenue to overal
 
 Every business has a different competitive landscape, starting point, and growth objective. A generic price chart only tells part of the story.
 
-Our [local SEO services](/services/local-seo/) are priced to deliver measurable ROI for local businesses, and every engagement starts with a transparent proposal that defines exactly what you will receive.
+Our [SEO services](/services/) are priced to deliver measurable ROI for local businesses, with transparent per-deliverable pricing and no retainers required.
 
-**[Order Your SEO Audit](/services/seo-audit/)** and we will provide a customized recommendation based on your market, competition, and business goals -- with clear pricing and no hidden costs.
+**[Order Your SEO Audit](/services/seo-audit/)** to get a customized recommendation based on your market, competition, and business goals. Or **[view our full pricing](/pricing/)** to see exactly what each deliverable costs.

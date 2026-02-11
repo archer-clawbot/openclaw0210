@@ -4,10 +4,10 @@
 **Date:** 2026-02-11
 **Agent:** Scribe
 **URL:** /
-**Primary Keyword:** AI SEO deliverables
-**Secondary Keywords:** local SEO services, SEO on demand, AI-powered SEO, SEO deliverables platform, order SEO services
-**Title Tag:** AI-Powered SEO Deliverables On Demand | LocalCatalyst.ai
-**Meta Description:** Order SEO audits, content pages, topical maps, schema markup, and GBP optimization — delivered by AI in hours, not weeks. Starting at $197.
+**Primary Keyword:** AI SEO services
+**Secondary Keywords:** on-demand SEO, automated SEO services, AI-powered SEO, SEO deliverables platform, order SEO services
+**Title Tag:** AI-Powered SEO Services On Demand | LocalCatalyst.ai
+**Meta Description:** On-demand AI SEO services: audits, content pages, topical maps, schema markup, and GBP optimization — delivered in hours, not weeks. Starting at $197.
 **H1:** SEO Deliverables. On Demand. Powered by AI.
 **Word Count Target:** 1,500-2,000
 
@@ -22,6 +22,8 @@ You know what your business needs. Maybe it's a full site audit. Maybe it's 30 p
 You don't need a 12-month agency contract for that. You need the deliverable.
 
 [Browse Services](/services/) | [Start with a Topical Map](/services/topical-map/)
+
+**20+ Active Clients | 500+ Pages Delivered | 4-6 Hour Average Turnaround**
 
 ---
 
@@ -60,7 +62,10 @@ Structured data that tells Google exactly what your business does. LocalBusiness
 ### [GBP Optimization](/services/gbp-optimization/) -- $297+
 A complete Google Business Profile overhaul. Optimized description, categories, services, Q&As, and a 30-day posting calendar. Delivered in 24-48 hours.
 
-### Monthly Content -- $297+/mo
+### [Citation Building](/services/citation-building/) -- $197+
+Accurate NAP submissions across 25-100 directories, citation cleanup, and consistency auditing. Packages from $197 (25 directories) to $597 (100+ directories with niche sites).
+
+### [Monthly Content](/services/monthly-content/) -- $297+/mo
 Consistent publishing that builds topical authority month over month. Blog posts, service pages, and location pages on a schedule that compounds.
 
 [View All Services and Pricing](/services/)
@@ -76,7 +81,7 @@ Browse our product catalog and pick exactly what you need. No bundles you don't 
 Tell us your domain, target keywords, business info, and any specific requirements. Takes about 5 minutes.
 
 ### 3. Download Your Deliverables
-Our AI system gets to work immediately. Most deliverables are ready in hours, not days or weeks. You'll get a notification when your files are ready to download -- PDF, CSV, HTML, or markdown, depending on the product.
+Our AI system gets to work immediately. Most deliverables are ready in hours. You'll get a notification when your files are ready to download.
 
 That's it. No onboarding calls. No strategy sessions. No waiting around.
 
@@ -86,18 +91,7 @@ That's it. No onboarding calls. No strategy sessions. No waiting around.
 
 LocalCatalyst isn't a chatbot writing your content. It's a purpose-built system of 18 specialized AI agents, each trained on a different aspect of local SEO.
 
-One agent handles technical crawls. Another analyzes competitor positioning. Another generates topical maps. Another writes content. Another builds schema markup. They work in sequence using the CATALYST methodology:
-
-- **C**rawl and collect data
-- **A**udit what you find
-- **T**arget the highest-impact opportunities
-- **A**rchitect a content plan
-- **L**aunch optimized pages
-- **Y**ield measurable results
-- **S**cale what works
-- **T**rack everything
-
-This is the same system we use to manage SEO for 20+ active clients. The difference: now you can access it directly, on your terms, at a fraction of the cost.
+One agent handles technical crawls. Another analyzes competitor positioning. Another generates topical maps. Another writes content. Another builds schema markup. They work in parallel using the CATALYST methodology — the same system we use to manage SEO for 20+ active clients. Now available to you directly, on your terms, at a fraction of the cost.
 
 [Learn more about the CATALYST system](/platform/)
 
@@ -105,11 +99,11 @@ This is the same system we use to manage SEO for 20+ active clients. The differe
 
 ## Results From Real Businesses
 
-**Dental practice in Austin, TX:** Went from page 3 to the local 3-pack for "dentist near me" in 11 weeks. Started with an audit, ordered a topical map, then built 22 content pages.
+**Dental practice:** Went from page 3 to the local 3-pack for "dentist near me" in 11 weeks. Started with an audit, ordered a topical map, then built 22 content pages.
 
-**HVAC company in Phoenix, AZ:** Increased organic leads by 340% in 6 months. Used the full stack: audit, topical map, 35 content pages, schema markup, and GBP optimization.
+**HVAC company:** Increased organic leads by 340% in 6 months. Used the full stack: audit, topical map, 35 content pages, schema markup, and GBP optimization.
 
-**Personal injury law firm in Atlanta, GA:** Captured 14 new "near me" keywords in the map pack within 90 days of GBP optimization and 15 new service area pages.
+**Personal injury law firm:** Captured 14 new "near me" keywords in the map pack within 90 days of GBP optimization and 15 new service area pages.
 
 These aren't outliers. They're the expected outcome when you build the right pages, with the right structure, targeting the right keywords.
 
@@ -124,13 +118,13 @@ Local SEO is local SEO, but every industry has specific nuances. Our AI agents a
 - [Plumbing services](/industries/plumbing/)
 - [Roofing contractors](/industries/roofing/)
 - [Medical practices](/industries/medical/)
-- [Law firms](/industries/law/)
+- [Law firms](/industries/law-firm/)
 - [Restaurants and bars](/industries/restaurant/)
 - [Veterinary clinics](/industries/veterinary/)
-- [Salons and spas](/industries/salon/)
+- [Salons and spas](/industries/salon-spa/)
 - [Pest control](/industries/pest-control/)
 - [Landscaping](/industries/landscaping/)
-- [Gyms and fitness](/industries/gym/)
+- [Gyms and fitness](/industries/fitness-gym/)
 
 Don't see your industry? The system works for any local business. These verticals just get extra training data baked in.
 
