@@ -222,6 +222,6 @@ AI can accelerate content production, but topical authority fundamentally requir
 
 ## Build Your Topical Authority with Expert Support
 
-Building topical authority is a long-term investment, and doing it right requires strategic planning, consistent execution, and ongoing measurement. At LocalCatalyst.ai, our APEX Methodology includes comprehensive content strategy built around topical authority principles, ensuring every piece of content you publish reinforces your position as the go-to resource in your market.
+Building topical authority is a long-term investment, and doing it right requires strategic planning, consistent execution, and ongoing measurement. At LocalCatalyst.ai, our CATALYST Methodology includes comprehensive content strategy built around topical authority principles, ensuring every piece of content you publish reinforces your position as the go-to resource in your market.
 
 Ready to see where your content authority stands today? [Request a free SEO audit](/free-seo-audit/) and we will map your current topical coverage, identify gaps, and outline a clear path to authority in your niche.

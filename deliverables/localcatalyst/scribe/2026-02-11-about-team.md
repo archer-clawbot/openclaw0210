@@ -17,14 +17,14 @@ Every member of our team specializes in local SEO. We don't dabble in national c
 ## Cody Hinton — Founder & CEO
 
 **Title:** Founder & Chief Executive Officer
-**Credentials:** Google Partner, APEX Methodology Architect
+**Credentials:** Google Partner, CATALYST Methodology Architect
 **Specialties:** Local SEO strategy, business growth consulting, competitive market analysis
 
 ![Photo: Cody Hinton, Founder & CEO](/images/team/cody-hinton.jpg)
 
 Cody founded LocalCatalyst after spending a decade in digital marketing watching local businesses get shortchanged by agencies that treated them as afterthoughts. He saw enterprise-level SEO strategies that delivered massive ROI for national brands --- and realized that with the right systems, those same strategies could be adapted for local businesses at a fraction of the cost.
 
-That realization became the APEX Methodology: a structured, repeatable framework that brings audit-driven, data-backed SEO to businesses competing in local markets. Cody oversees company strategy, client success, and the continued development of LocalCatalyst's proprietary AI-powered workflows.
+That realization became the CATALYST Methodology: a structured, repeatable framework that brings audit-driven, data-backed SEO to businesses competing in local markets. Cody oversees company strategy, client success, and the continued development of LocalCatalyst's proprietary AI-powered workflows.
 
 Before founding LocalCatalyst, Cody helped scale a regional marketing agency from 12 to 85 clients, with a focus on service-area businesses and multi-location brands. He has spoken at local marketing conferences across the Southwest and contributes regularly to industry publications on the intersection of AI and local search.
 
@@ -36,11 +36,11 @@ Before founding LocalCatalyst, Cody helped scale a regional marketing agency fro
 
 **Title:** Director of SEO Strategy
 **Credentials:** Google Analytics Certified, Google Ads Certified, SEMrush SEO Certified
-**Specialties:** APEX methodology development, local keyword research, competitive analysis, campaign architecture
+**Specialties:** CATALYST methodology development, local keyword research, competitive analysis, campaign architecture
 
 ![Photo: Sarah Chen, Director of SEO Strategy](/images/team/sarah-chen.jpg)
 
-Sarah brings over eight years of dedicated local SEO experience to LocalCatalyst, where she leads the development and refinement of our APEX methodology. Before joining the team, she spent five years at a top-20 digital agency managing local search campaigns for multi-location brands across healthcare, home services, and professional services.
+Sarah brings over eight years of dedicated local SEO experience to LocalCatalyst, where she leads the development and refinement of our CATALYST methodology. Before joining the team, she spent five years at a top-20 digital agency managing local search campaigns for multi-location brands across healthcare, home services, and professional services.
 
 At LocalCatalyst, Sarah designs the strategic roadmap for every client engagement. She translates audit findings into prioritized action plans, sets benchmarks using geo-grid rankings and Share of Local Voice (SoLV) metrics, and ensures every campaign is built on data rather than assumptions. Her work on competitive displacement modeling has become a core differentiator in how LocalCatalyst approaches saturated local markets.
 

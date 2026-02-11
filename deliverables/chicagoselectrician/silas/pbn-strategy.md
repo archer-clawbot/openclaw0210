@@ -550,5 +550,5 @@ The staged deployment prioritizes homepage and core service pages in Months 1-2,
 
 **Document Version:** 1.0  
 **Last Updated:** February 9, 2026  
-**Prepared by:** Silas | APEX SEO Strategy Agent  
+**Prepared by:** Silas | CATALYST SEO Strategy Agent  
 **For Questions or Adjustments:** Contact operator via Archer

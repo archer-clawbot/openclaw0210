@@ -22,7 +22,7 @@ Meanwhile, there is a lead source that is free, exclusive, and positions you as 
 
 When a homebuyer searches "homes for sale in [neighborhood]" or "best neighborhoods in [city] for families" or a seller searches "home values in [neighborhood]" or "how to sell my house in [city]," the agent whose content answers that search earns something no paid lead source can provide — the perception of local authority. The buyer reading your neighborhood guide thinks of you as the expert in that area. The seller reading your market analysis sees you as the agent who knows the numbers. By the time they reach out, you are not competing with four other agents for their attention. You are their first choice.
 
-At LocalCatalyst, we build real estate SEO strategies designed for the unique competitive dynamics of this industry — competing with Zillow, Redfin, and Realtor.com for search visibility, creating hyperlocal content at the neighborhood level, navigating the individual agent vs. brokerage SEO distinction, and building the kind of local market authority that generates inbound leads month after month. Our [APEX methodology](/local-seo-services/) (Audit, Prioritize, Execute, Expand) gives real estate professionals a structured path from lead-dependent to authority-driven client acquisition.
+At LocalCatalyst, we build real estate SEO strategies designed for the unique competitive dynamics of this industry — competing with Zillow, Redfin, and Realtor.com for search visibility, creating hyperlocal content at the neighborhood level, navigating the individual agent vs. brokerage SEO distinction, and building the kind of local market authority that generates inbound leads month after month. Our [CATALYST methodology](/local-seo-services/) (Audit, Prioritize, Execute, Expand) gives real estate professionals a structured path from lead-dependent to authority-driven client acquisition.
 
 Want to see where you stand in local search right now? [Request a free SEO audit](/free-seo-audit/) and we will map your visibility across every neighborhood and real estate search term in your market.
 
@@ -133,7 +133,7 @@ The ultimate goal of real estate SEO is not just rankings — it is positioning.
 
 ## Results You Can Expect
 
-Real estate professionals who implement a comprehensive SEO strategy through our APEX methodology typically see:
+Real estate professionals who implement a comprehensive SEO strategy through our CATALYST methodology typically see:
 
 - **Neighborhood page rankings for 15-30 community-specific keywords** within 120 days
 - **Organic lead volume increase of 60-100%** within 6 months as neighborhood and market content gains authority

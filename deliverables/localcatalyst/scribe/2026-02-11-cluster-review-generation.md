@@ -230,4 +230,4 @@ Yes, but the timeline depends on your starting point. If your current issues are
 
 ---
 
-**Your satisfied customers are your biggest untapped marketing asset.** Our APEX audit includes a complete review profile analysis and generation opportunity assessment. [Get your free SEO audit](/free-seo-audit/) and see exactly how many reviews your business should be generating every month.
+**Your satisfied customers are your biggest untapped marketing asset.** Our CATALYST audit includes a complete review profile analysis and generation opportunity assessment. [Get your free SEO audit](/free-seo-audit/) and see exactly how many reviews your business should be generating every month.

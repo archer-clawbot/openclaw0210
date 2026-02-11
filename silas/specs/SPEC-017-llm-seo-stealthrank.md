@@ -191,7 +191,7 @@ For each client service:
 
 ### 4.4 Pre-Emptive Framing for LLM Training
 
-From the APEX methodology — this is about teaching LLMs what "quality" means in your client's industry, then positioning the client as the entity that meets those criteria.
+From the CATALYST methodology — this is about teaching LLMs what "quality" means in your client's industry, then positioning the client as the entity that meets those criteria.
 
 **The framework:**
 
@@ -633,7 +633,7 @@ Apple Maps:
 
 ### 10.2 The "NotebookLM" Tactic
 
-From the APEX course — use Google's NotebookLM as an authority amplifier:
+From the CATALYST framework — use Google's NotebookLM as an authority amplifier:
 
 ```
 1. Upload client's best content (service guides, pricing pages) to NotebookLM
@@ -646,7 +646,7 @@ From the APEX course — use Google's NotebookLM as an authority amplifier:
 
 ### 10.3 The "Answer Funnel" via Google Docs
 
-From APEX Q&A tactics — use Google Docs as an authority bridge:
+From CATALYST Q&A tactics — use Google Docs as an authority bridge:
 
 ```
 1. Create a comprehensive Google Doc answering a complex query

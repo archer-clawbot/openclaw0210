@@ -603,7 +603,7 @@ Instead of "Tier 1, Tier 2, Tier 3," we use outcome-focused names:
 ### The Problem
 Cold traffic won't buy a $2,497/mo service immediately. We need a bridge.
 
-### The Solution: The APEX Audit
+### The Solution: The CATALYST Audit
 **"The 10-Point Local SEO Audit: Find Out Why You're Not #1 (And How to Fix It)"**
 
 **What It Is:**
@@ -1450,7 +1450,7 @@ Cody
 ### Week 2 (Feb 17-23)
 **Priority: Launch Lead Magnet**
 
-1. **Scout + Silas** → Automate APEX Audit (as much as possible)
+1. **Scout + Silas** → Automate CATALYST Audit (as much as possible)
 2. **Scribe** → Write audit landing page copy
 3. **Scribe** → Write email sequence (6 emails)
 4. **Forge** → Build audit landing page

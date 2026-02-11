@@ -20,7 +20,7 @@ Home services is one of the most competitive verticals in local SEO. Every plumb
 
 The stakes are high because the economics are compelling. A single "emergency plumber near me" click can generate a $500-2,000 service call. An "AC replacement [city]" lead can be worth $8,000-15,000. When you multiply that by hundreds of searches per month across a service area that might cover 15-30 cities and neighborhoods, the revenue gap between the business ranking #1 and the business ranking #10 is often six figures annually.
 
-At LocalCatalyst, home services SEO is one of our deepest areas of expertise. We understand the unique challenges that service area businesses face — hidden addresses, multi-city service areas, seasonal demand fluctuations, and the constant pressure from lead aggregators that want to insert themselves between you and your customers. Our [APEX methodology](/local-seo-services/) (Audit, Prioritize, Execute, Expand) is built to systematically dismantle these challenges and build the kind of local search dominance that generates leads every single day.
+At LocalCatalyst, home services SEO is one of our deepest areas of expertise. We understand the unique challenges that service area businesses face — hidden addresses, multi-city service areas, seasonal demand fluctuations, and the constant pressure from lead aggregators that want to insert themselves between you and your customers. Our [CATALYST methodology](/local-seo-services/) (Audit, Prioritize, Execute, Expand) is built to systematically dismantle these challenges and build the kind of local search dominance that generates leads every single day.
 
 Want to know how your home service business stacks up in local search? [Request a free SEO audit](/free-seo-audit/) and we will map your visibility across a geo-grid of your entire service area — showing you exactly where you rank, where you are invisible, and where the biggest opportunities lie.
 
@@ -119,7 +119,7 @@ Ranking for emergency queries requires:
 
 ## Results You Can Expect
 
-Home service businesses that implement a comprehensive local SEO strategy through our APEX methodology typically see:
+Home service businesses that implement a comprehensive local SEO strategy through our CATALYST methodology typically see:
 
 - **40-80% increase in qualified leads** within the first 90 days
 - **Map Pack visibility across 60-80% of their service area** within 120 days (up from typical starting points of 10-20%)

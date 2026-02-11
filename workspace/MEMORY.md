@@ -8,7 +8,7 @@
 - **Status:** SEO optimization completed Feb 2026
 - **Pending:** Geo-grid rank tracking (paused for budget), video training extraction
 
-### Apex SEO Training
+### Catalyst SEO Training
 - 25 screen recordings in Google Drive with SEO strategies
 - Goal: Extract actionable tactics from videos
 - Blocked on transcription approach (large files)

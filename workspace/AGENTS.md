@@ -93,7 +93,7 @@ Example — routing an audit to Silas:
 ```
 sessions_spawn:
   agentId: "silas"
-  task: "Run a full APEX audit on humbleparkinglotstriping.com. Client: Humble Parking Lot Striping. Priority: high. Deliver the complete audit using your APEX template."
+  task: "Run a full CATALYST audit on humbleparkinglotstriping.com. Client: Humble Parking Lot Striping. Priority: high. Deliver the complete audit using your CATALYST template."
   label: "silas"
 ```
 

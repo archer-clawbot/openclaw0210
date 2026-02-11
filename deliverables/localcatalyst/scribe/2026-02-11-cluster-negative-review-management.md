@@ -175,4 +175,4 @@ Yes. Google's local ranking algorithm considers average rating, review sentiment
 
 ---
 
-**Negative reviews are inevitable. Reputation damage is not.** Our APEX audit includes a complete review profile analysis showing your current rating trajectory, negative review patterns, and a custom recovery roadmap. [Get your free SEO audit](/free-seo-audit/) and take control of your reputation today.
+**Negative reviews are inevitable. Reputation damage is not.** Our CATALYST audit includes a complete review profile analysis showing your current rating trajectory, negative review patterns, and a custom recovery roadmap. [Get your free SEO audit](/free-seo-audit/) and take control of your reputation today.

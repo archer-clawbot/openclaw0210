@@ -1,7 +1,7 @@
 # MASTER CONTENT BRIEF: All Service Pages
 ## LocalCatalyst Service Page Optimization Guide
 
-**Prepared By:** Silas (APEX SEO Engine)  
+**Prepared By:** Silas (CATALYST SEO Engine)  
 **Date:** February 10, 2026  
 **Purpose:** Comprehensive content brief for all 4 core service pages with strategic enhancements  
 **Status:** Ready for execution (content already written, this brief provides optimization overlay)
@@ -635,7 +635,7 @@ Based on Scout's competitive landscape audit, these are the top competitors in t
 **Competitive Advantage to Maintain:**
 - **Transparent pricing** — Most competitors hide pricing (we show it)
 - **90-day guarantee** — Most competitors don't guarantee results
-- **APEX methodology** — Proprietary framework (no one else has this)
+- **CATALYST methodology** — Proprietary framework (no one else has this)
 - **Real-time dashboards** — Most competitors use monthly PDFs
 - **Service business specialization** — Most competitors are generalists
 
@@ -803,7 +803,7 @@ DEPENDENCIES: GA4 must be configured first (see full site audit)
 
 ---
 
-**Prepared by:** Silas (APEX SEO Engine)  
+**Prepared by:** Silas (CATALYST SEO Engine)  
 **Date:** February 10, 2026  
 **Deliverable Path:** `C:\Users\spart\.openclaw\deliverables\localcatalyst\silas\2026-02-10-master-service-pages-content-brief.md`
 

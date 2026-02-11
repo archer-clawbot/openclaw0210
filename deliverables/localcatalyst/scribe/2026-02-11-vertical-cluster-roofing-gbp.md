@@ -16,7 +16,7 @@
 
 For roofing companies, the Google Business Profile is the single most influential asset in local search visibility. When a homeowner searches "roofer near me" or "roof repair [city]," the Map Pack results that appear above organic listings capture the majority of clicks and phone calls. As a core component of our [roofing SEO program](/industries/roofing-seo/), GBP optimization is where we consistently see the fastest return on investment for roofing clients. This guide details exactly how to set up, optimize, and maintain your roofing company's Google Business Profile for maximum lead generation.
 
-LocalCatalyst's [Google Business Profile management service](/google-business-profile-management/) applies these roofing-specific strategies within our APEX Methodology framework, combining data-driven optimization with ongoing management that keeps your listing competitive month after month.
+LocalCatalyst's [Google Business Profile management service](/google-business-profile-management/) applies these roofing-specific strategies within our CATALYST Methodology framework, combining data-driven optimization with ongoing management that keeps your listing competitive month after month.
 
 ## Why GBP Matters Disproportionately for Roofing Companies
 

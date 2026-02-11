@@ -17,7 +17,7 @@ Every local business has a digital footprint scattered across dozens — sometim
 
 At LocalCatalyst, we treat **citation building services** as foundational infrastructure. Before we optimize your Google Business Profile, before we build links, before we write content — we make sure the internet agrees on who you are, where you are, and how to reach you. Because if it doesn't, Google doesn't trust you. And if Google doesn't trust you, you don't rank.
 
-We've audited thousands of local businesses through our [APEX methodology](/local-seo-services/), and citation inconsistencies remain one of the most common — and most fixable — ranking suppressors we find. If you haven't had a professional citation audit in the past 12 months, you almost certainly have problems you don't know about. [Request your free SEO audit](/free-seo-audit/) and we'll show you exactly where your citation profile stands.
+We've audited thousands of local businesses through our [CATALYST methodology](/local-seo-services/), and citation inconsistencies remain one of the most common — and most fixable — ranking suppressors we find. If you haven't had a professional citation audit in the past 12 months, you almost certainly have problems you don't know about. [Request your free SEO audit](/free-seo-audit/) and we'll show you exactly where your citation profile stands.
 
 ## What Are Local Citations and Why Do They Matter?
 
@@ -66,7 +66,7 @@ For a dental practice we audited last quarter, we found the business listed unde
 
 ## Our Citation Building Process
 
-We follow a systematic four-phase approach that aligns with the APEX methodology we use across all [local SEO services](/local-seo-services/).
+We follow a systematic four-phase approach that aligns with the CATALYST methodology we use across all [local SEO services](/local-seo-services/).
 
 ### Phase 1: Citation Audit (Audit)
 

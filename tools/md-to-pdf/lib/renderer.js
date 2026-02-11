@@ -51,7 +51,7 @@ function assembleHTML(template, css, parsed) {
     '{{AUDIT_DATE}}':       meta.auditDate || new Date().toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }),
     '{{PREPARED_BY}}':      meta.preparedBy || brand.company.name,
     '{{AUDIT_TYPE}}':       meta.auditType || 'SEO Audit',
-    '{{AUDITOR}}':          meta.auditor || 'APEX Engine',
+    '{{AUDITOR}}':          meta.auditor || 'CATALYST Engine',
     '{{TOC}}':              toc,
     '{{CONTENT}}':          content,
     '{{COMPANY_NAME}}':     brand.company.name,

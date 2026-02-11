@@ -191,4 +191,4 @@ Yes, and this is one of our specialties. SEO-friendly landing pages maintain eno
 
 ---
 
-**Your landing pages are where rankings become revenue.** Our APEX audit analyzes your existing landing pages for both SEO performance and conversion efficiency — or identifies the landing pages you should be building. [Get your free SEO audit](/free-seo-audit/) and start turning search visibility into booked appointments.
+**Your landing pages are where rankings become revenue.** Our CATALYST audit analyzes your existing landing pages for both SEO performance and conversion efficiency — or identifies the landing pages you should be building. [Get your free SEO audit](/free-seo-audit/) and start turning search visibility into booked appointments.

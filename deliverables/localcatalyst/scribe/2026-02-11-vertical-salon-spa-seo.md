@@ -16,7 +16,7 @@ A woman scrolls through Instagram, sees a stunning balayage transformation, and 
 
 The U.S. beauty and personal care services industry generates more than $65 billion annually across hundreds of thousands of salons, barbershops, spas, and med spas. The industry is intensely local and deeply personal — clients choose their stylist or esthetician based on trust, talent, and proximity. But before trust and talent can work in your favor, a potential client must find you. In a world where 97 percent of consumers search online for local businesses, salon SEO is not optional. It is the foundation of a full appointment book.
 
-This guide breaks down exactly how salon and spa SEO works, which strategies drive the highest return, and how LocalCatalyst's APEX Methodology helps beauty businesses keep every chair occupied and every treatment room booked.
+This guide breaks down exactly how salon and spa SEO works, which strategies drive the highest return, and how LocalCatalyst's CATALYST Methodology helps beauty businesses keep every chair occupied and every treatment room booked.
 
 ## How Salon and Spa Clients Search
 

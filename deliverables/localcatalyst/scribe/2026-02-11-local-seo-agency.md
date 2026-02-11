@@ -49,9 +49,9 @@ We don't do e-commerce SEO. We don't do enterprise consulting. We don't optimize
 
 When you work with us, you're not working with a generalist who dabbles in local SEO. You're working with specialists who live and breathe Google Business Profiles, Map Pack rankings, and local search algorithms.
 
-**2. We Have a Proven Methodology (The APEX Framework)**
+**2. We Have a Proven Methodology (The CATALYST Framework)**
 
-LocalCatalyst operates on the **APEX Local SEO Framework**, a proprietary system we've refined over hundreds of client campaigns:
+LocalCatalyst operates on the **CATALYST Local SEO Framework**, a proprietary system we've refined over hundreds of client campaigns:
 
 - **A — Audit:** Deep-dive analysis of your current local presence, GBP, citations, and competitive landscape
 - **P — Position:** Strategic positioning of your business in Google's local ecosystem (categories, service areas, NAP consistency)
@@ -359,7 +359,7 @@ A: No one can ethically guarantee rankings. But we can guarantee we'll optimize 
 A: Not necessarily. If you have a website, we optimize what you have. If you don't, we can build a simple local site as part of the service.
 
 **Q6: How do you differ from other local SEO agencies?**  
-A: We specialize exclusively in local SEO (not generic SEO). We have a proven methodology (APEX framework), we actively manage your GBP (not set-it-and-forget-it), and we integrate technical SEO into every campaign.
+A: We specialize exclusively in local SEO (not generic SEO). We have a proven methodology (CATALYST framework), we actively manage your GBP (not set-it-and-forget-it), and we integrate technical SEO into every campaign.
 
 **Q7: What if I'm in a very competitive market (like lawyers in LA)?**  
 A: Competitive markets take longer and require more aggressive strategies (more content, more citations, more reviews). We're upfront about timelines and pricing for competitive markets.
@@ -426,8 +426,8 @@ Or get a free local SEO audit first → [Free Audit Link]
 1. **Hero Image:** Local business owner celebrating #1 Map Pack ranking on laptop (1920x1080)
    - Alt text: `Local business owner celebrating top Google Maps ranking after hiring LocalCatalyst`
 
-2. **Methodology Diagram:** APEX framework visual (Audit → Position → Engage → Expand)
-   - Alt text: `LocalCatalyst APEX local SEO framework diagram showing four phases`
+2. **Methodology Diagram:** CATALYST framework visual (Audit → Position → Engage → Expand)
+   - Alt text: `LocalCatalyst CATALYST local SEO framework diagram showing four phases`
 
 3. **Case Study Results:** Before/after Map Pack ranking comparison
    - Alt text: `Before and after Google Map Pack rankings showing improvement from position 8 to position 1`

@@ -264,7 +264,7 @@ Mobile:
    
 6. Our Approach (2 columns, alternating)
    - Section 1: Left image, right text
-     * Headline: "The APEX Framework"
+     * Headline: "The CATALYST Framework"
      * Description: "Our proprietary 5-step methodology..."
      * List: Analyze, Plan, Execute, Xtract (data), Expand
    
@@ -503,7 +503,7 @@ Mobile:
    - Each: Icon/image + name + year
 
 7. Why Choose LocalCatalyst (4 columns)
-   - "Proprietary APEX Framework"
+   - "Proprietary CATALYST Framework"
    - "Data-Driven Methodology"
    - "Transparent Reporting"
    - "Dedicated Account Manager"

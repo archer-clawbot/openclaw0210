@@ -22,7 +22,7 @@ We let our clients' words speak for themselves.
 
 **Rating:** 5.0/5
 **--- Kevin Morales, Owner**
-*Apex Comfort HVAC | Fort Worth, TX*
+*Catalyst Comfort HVAC | Fort Worth, TX*
 
 ---
 

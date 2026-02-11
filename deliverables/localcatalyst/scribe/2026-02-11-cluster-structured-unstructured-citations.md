@@ -166,7 +166,7 @@ Unstructured citation building requires different strategies because you're infl
 - Your competitors have strong profiles in both categories
 - You're pursuing an aggressive growth timeline
 
-For most of our clients, we start with structured citation cleanup and building (months 1-3), then layer in unstructured citation strategies (months 3+) as the foundation stabilizes. This phased approach is built into our [APEX methodology](/local-seo-services/).
+For most of our clients, we start with structured citation cleanup and building (months 1-3), then layer in unstructured citation strategies (months 3+) as the foundation stabilizes. This phased approach is built into our [CATALYST methodology](/local-seo-services/).
 
 ---
 

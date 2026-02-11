@@ -49,11 +49,11 @@ We built LocalCatalyst to deliver enterprise-level SEO to local businesses who n
 
 ---
 
-### H2: Our Methodology: The APEX Framework
+### H2: Our Methodology: The CATALYST Framework
 
-We don't guess. We don't rely on outdated tactics. We use our proprietary **APEX methodology** — a systematic, data-driven framework for local SEO domination.
+We don't guess. We don't rely on outdated tactics. We use our proprietary **CATALYST methodology** — a systematic, data-driven framework for local SEO domination.
 
-#### The APEX Framework Components:
+#### The CATALYST Framework Components:
 
 **A — Audit & Analysis**
 - Comprehensive technical SEO audit
@@ -269,7 +269,7 @@ Home > About
 ## ALT TEXT FOR IMAGES
 
 1. "LocalCatalyst team collaborating on local SEO strategy for client"
-2. "APEX methodology framework diagram showing audit, prioritize, execute, expand phases"
+2. "CATALYST methodology framework diagram showing audit, prioritize, execute, expand phases"
 3. "Geo-grid ranking heat map showing Map Pack visibility across service area"
 4. "Client testimonial graphic with 5-star rating and success metrics"
 5. "LocalCatalyst office with SEO tools and analytics dashboards"

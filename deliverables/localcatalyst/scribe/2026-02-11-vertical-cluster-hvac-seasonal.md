@@ -142,7 +142,7 @@ HVAC marketing performance must be evaluated seasonally, not on a flat month-ove
 - **Lead volume by season vs. prior year:** Are you converting a higher percentage of seasonal traffic?
 - **Content publication timeline:** Did you hit your 60-90 day advance publishing targets?
 
-Our APEX methodology tracks these patterns using WVS (Website Visibility Score) and SoLV (Share of Local Visibility), both of which account for seasonal fluctuations to give you an accurate picture of growth trajectory rather than misleading snapshot comparisons.
+Our CATALYST methodology tracks these patterns using WVS (Website Visibility Score) and SoLV (Share of Local Visibility), both of which account for seasonal fluctuations to give you an accurate picture of growth trajectory rather than misleading snapshot comparisons.
 
 ## Frequently Asked Questions
 

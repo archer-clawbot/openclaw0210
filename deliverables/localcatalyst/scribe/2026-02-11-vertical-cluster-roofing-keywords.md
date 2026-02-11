@@ -16,7 +16,7 @@
 
 Every roofing company competing for local search visibility needs a disciplined keyword strategy. As part of our comprehensive [roofing SEO program](/industries/roofing-seo/), keyword research is the foundation that determines whether your digital marketing investment generates qualified leads or wasted impressions. Without the right keywords informing your content, your Google Business Profile, and your paid campaigns, you are essentially bidding blind in one of the most competitive local service industries online.
 
-At LocalCatalyst, our [local keyword research service](/local-seo-services/local-keyword-research/) uses a data-driven approach built on the APEX Methodology to identify exactly which roofing search terms matter in your specific market. This page breaks down the keyword categories, selection criteria, and implementation tactics that separate roofing companies ranking on page one from those buried on page three.
+At LocalCatalyst, our [local keyword research service](/local-seo-services/local-keyword-research/) uses a data-driven approach built on the CATALYST Methodology to identify exactly which roofing search terms matter in your specific market. This page breaks down the keyword categories, selection criteria, and implementation tactics that separate roofing companies ranking on page one from those buried on page three.
 
 ## Why Keyword Research Matters More for Roofers Than Most Industries
 
@@ -90,7 +90,7 @@ If your company serves both residential and commercial clients, a separate keywo
 
 ## How to Prioritize Roofing Keywords
 
-Not every keyword deserves equal investment. Our APEX prioritization framework evaluates roofing keywords across four dimensions:
+Not every keyword deserves equal investment. Our CATALYST prioritization framework evaluates roofing keywords across four dimensions:
 
 **Search Volume:** How many people search this term monthly in your target geography? Tools provide national estimates, but local volume is what matters. We use geo-filtered data to ensure accuracy.
 

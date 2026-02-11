@@ -25,7 +25,7 @@
 The Local SEO Agency That Puts You on the Map
 
 ### Subheadline
-We help local businesses dominate Google Maps, rank #1 in local search, and turn searches into customers using our proven APEX methodology.
+We help local businesses dominate Google Maps, rank #1 in local search, and turn searches into customers using our proven CATALYST methodology.
 
 ### Hero CTAs
 **[Primary Button]** Get Your Free SEO Audit  
@@ -68,14 +68,14 @@ That's not local SEO. That's checking boxes.
 
 ---
 
-## SECTION 2: THE SOLUTION — APEX METHODOLOGY
+## SECTION 2: THE SOLUTION — CATALYST METHODOLOGY
 
 ### H2
-The APEX Methodology: How We Dominate Local Search
+The CATALYST Methodology: How We Dominate Local Search
 
 We don't guess. We don't chase trends. We execute a proven framework that's delivered results for 20+ local businesses across competitive markets.
 
-**APEX is our proprietary 4-phase methodology:**
+**CATALYST is our proprietary 4-phase methodology:**
 
 ### 1. Audit
 Complete analysis of your current position:
@@ -115,7 +115,7 @@ Future-proofing your rankings:
 
 **Deliverable:** Monthly reporting with SoLV (Share of Local Voice) and geo-grid heat maps
 
-**[CTA Button]** See How APEX Works for Your Business
+**[CTA Button]** See How CATALYST Works for Your Business
 
 ---
 
@@ -184,7 +184,7 @@ Real Results for Real Businesses
 #### Case Study: HVAC Company, Chicago
 **Challenge:** Not ranking in Map Pack for any primary keywords despite 10 years in business.
 
-**Solution:** APEX GBP optimization + location silos + review generation campaign
+**Solution:** CATALYST GBP optimization + location silos + review generation campaign
 
 **Results:**
 - **#1 Map Pack ranking** for 14/18 primary keywords in 8 weeks
@@ -385,7 +385,7 @@ Join 20+ local businesses already ranking #1 in their markets.
 - "Local SEO services" → `/services/local-seo/`
 - "Technical SEO" → `/services/technical-seo/`
 - "GBP optimization" → `/services/google-business-profile-optimization/`
-- "See how APEX works" → `/about/` or methodology page
+- "See how CATALYST works" → `/about/` or methodology page
 - "View case studies" → `/case-studies/`
 - "Read more about [topic]" → relevant blog posts
 
@@ -454,14 +454,14 @@ Join 20+ local businesses already ranking #1 in their markets.
 ## IMAGE REQUIREMENTS
 
 1. **Hero Image:** Map Pack rankings visualization (before/after) or geo-grid heat map showing market coverage
-2. **APEX Methodology Diagram:** 4-phase circular diagram (Audit → Prioritize → Execute → X-Factor)
+2. **CATALYST Methodology Diagram:** 4-phase circular diagram (Audit → Prioritize → Execute → X-Factor)
 3. **Service Icons:** 4 unique icons for each service (map pin, code brackets, content document, GBP badge)
 4. **Case Study Images:** Client logos or anonymized before/after rankings screenshots
 5. **Trust Badge Graphics:** Client retention badge, Map Pack increase stat, active clients count
 
 ### Alt Text Examples
 - "Map Pack before and after showing business ranking improvement from position 8 to position 1"
-- "APEX methodology four phase framework diagram for local SEO"
+- "CATALYST methodology four phase framework diagram for local SEO"
 - "Local SEO service icon with map pin and targeting symbol"
 - "Geo-grid heat map showing 312 percent increase in Map Pack visibility"
 
@@ -483,7 +483,7 @@ Join 20+ local businesses already ranking #1 in their markets.
 ### CTA Hierarchy
 **Above Fold (Hero):** Get Your Free SEO Audit  
 **After Problem Section:** View Our Services  
-**After APEX Section:** See How APEX Works  
+**After CATALYST Section:** See How CATALYST Works  
 **After Case Studies:** View All Case Studies  
 **Dedicated Section:** Get Your Free Audit (with form)  
 **Footer:** Schedule Strategy Call + Get Free Audit

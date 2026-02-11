@@ -57,9 +57,9 @@ Google's AI Overviews now appear for a significant percentage of local searches.
 
 Beyond Google, consumers increasingly use ChatGPT, Perplexity, and other AI tools to research local services. These models pull from web content, reviews, and structured data to formulate recommendations. Businesses with strong E-E-A-T signals, comprehensive content, and consistent data across the web are more likely to be cited in LLM responses. We optimize for this emerging discovery channel as part of every local SEO campaign.
 
-## Our Local SEO Methodology: APEX
+## Our Local SEO Methodology: CATALYST
 
-We built the APEX methodology because local SEO requires structure, not guesswork. Every client engagement follows four phases:
+We built the CATALYST methodology because local SEO requires structure, not guesswork. Every client engagement follows four phases:
 
 ### Audit
 
@@ -179,7 +179,7 @@ These timelines assume a business without active penalties or severe technical i
 
 Every local SEO engagement includes:
 
-- **Comprehensive APEX audit** with competitive benchmarks and prioritized action plan
+- **Comprehensive CATALYST audit** with competitive benchmarks and prioritized action plan
 - **Google Business Profile management** — full optimization, posting, photo uploads, Q&A management
 - **Geo-grid rank tracking** across your service area with weekly reporting
 - **Citation building and cleanup** across 50+ directories and data aggregators
@@ -262,7 +262,7 @@ We track and report on metrics that directly tie to business outcomes: geo-grid 
 
 ### What makes LocalCatalyst different from other local SEO companies?
 
-Three things. First, our APEX methodology provides a systematic, data-driven framework rather than ad hoc tactics — every action is prioritized by expected impact. Second, we execute everything in-house — no outsourced link building, no automated citation blasts, no templated content. Third, we measure what matters. Our geo-grid tracking, SoLV scores, and WVS metrics give you granular visibility into performance that most agencies cannot provide. We also operate on month-to-month agreements because we believe results should earn your continued business, not a contract.
+Three things. First, our CATALYST methodology provides a systematic, data-driven framework rather than ad hoc tactics — every action is prioritized by expected impact. Second, we execute everything in-house — no outsourced link building, no automated citation blasts, no templated content. Third, we measure what matters. Our geo-grid tracking, SoLV scores, and WVS metrics give you granular visibility into performance that most agencies cannot provide. We also operate on month-to-month agreements because we believe results should earn your continued business, not a contract.
 
 ---
 

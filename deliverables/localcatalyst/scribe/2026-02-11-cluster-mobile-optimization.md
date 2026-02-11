@@ -255,4 +255,4 @@ Test on real devices monthly. Check Search Console's Mobile Usability report wee
 
 ---
 
-**Is your mobile experience converting or losing local customers?** Over 76% of local searches happen on mobile — and our APEX audit analyzes every aspect of your mobile performance, from speed to usability to conversion paths. [Get your free SEO audit](/free-seo-audit/) and discover exactly how your mobile experience measures up.
+**Is your mobile experience converting or losing local customers?** Over 76% of local searches happen on mobile — and our CATALYST audit analyzes every aspect of your mobile performance, from speed to usability to conversion paths. [Get your free SEO audit](/free-seo-audit/) and discover exactly how your mobile experience measures up.

@@ -181,7 +181,7 @@ Schema helps Google understand your business, services, and location. Properly i
 
 **Content:**
 
-We use the **APEX methodology** — a proven 4-phase framework designed for maximum impact with minimum wasted effort.
+We use the **CATALYST methodology** — a proven 4-phase framework designed for maximum impact with minimum wasted effort.
 
 #### Phase 1: Audit (Week 1)
 - Complete GBP audit (scoring across SPEC-001 to SPEC-005)
@@ -332,7 +332,7 @@ Multi-location firm with inconsistent branding and zero geo-grid visibility outs
 **Best for:** Single-location businesses, limited service area (1 city)
 
 **Includes:**
-- GBP optimization (full APEX audit + ongoing management)
+- GBP optimization (full CATALYST audit + ongoing management)
 - 30 citations
 - Review generation system
 - Monthly geo-grid scan (3×3 grid)
@@ -576,7 +576,7 @@ Free Local SEO Audit with:
 ## VISUAL ASSET REQUIREMENTS
 
 1. Hero: Map Pack before/after or geo-grid heat map
-2. Process diagram: APEX methodology visual
+2. Process diagram: CATALYST methodology visual
 3. Service icons: 7 unique icons for each deliverable
 4. Case study screenshots: Map Pack rankings, SoLV charts
 5. Pricing table: Clean, scannable 3-column layout

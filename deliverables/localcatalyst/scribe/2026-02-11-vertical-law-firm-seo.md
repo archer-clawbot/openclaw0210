@@ -22,7 +22,7 @@ Now consider the alternative. The law firm ranking #1 organically for "personal 
 
 That is why law firm SEO is not optional. It is the most consequential marketing decision your firm will make.
 
-At LocalCatalyst, we build law firm SEO strategies that navigate the unique requirements of legal marketing — the highest CPC landscape in search, YMYL content standards that demand demonstrated expertise, bar advertising rules that constrain what you can say, and the competitive reality of fighting for visibility against firms spending six figures per month on digital marketing. Our [APEX methodology](/local-seo-services/) (Audit, Prioritize, Execute, Expand) gives law firms a structured, data-driven path to organic client acquisition that compounds over time.
+At LocalCatalyst, we build law firm SEO strategies that navigate the unique requirements of legal marketing — the highest CPC landscape in search, YMYL content standards that demand demonstrated expertise, bar advertising rules that constrain what you can say, and the competitive reality of fighting for visibility against firms spending six figures per month on digital marketing. Our [CATALYST methodology](/local-seo-services/) (Audit, Prioritize, Execute, Expand) gives law firms a structured, data-driven path to organic client acquisition that compounds over time.
 
 Want to know exactly where your firm stands in local search? [Request a free SEO audit](/free-seo-audit/) and we will map your visibility across every practice area search in your market — showing you where you rank, where you are invisible, and where signed clients are going to competitors.
 
@@ -150,7 +150,7 @@ Legal marketing is regulated. Every state bar has rules governing attorney adver
 
 ## Results You Can Expect
 
-Law firms that implement a comprehensive SEO strategy through our APEX methodology typically see:
+Law firms that implement a comprehensive SEO strategy through our CATALYST methodology typically see:
 
 - **30-50% increase in qualified client inquiries** within the first 90 days
 - **Map Pack visibility for 15-25 practice area keywords** within 120 days

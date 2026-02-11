@@ -130,7 +130,7 @@ C:\Users\spart\.openclaw\deliverables\{client-slug}\{agent}\{YYYY-MM-DD}-{descri
 - **client-slug**: lowercase, hyphenated client name (e.g., `chicagos-electrician`, `spectators-bar-grill`)
 - **agent**: your agent ID
 - **date**: today's date in `YYYY-MM-DD` format
-- **description**: brief slug describing the deliverable (e.g., `apex-audit`, `title-tag-optimization`, `gbp-posts-batch`)
+- **description**: brief slug describing the deliverable (e.g., `catalyst-audit`, `title-tag-optimization`, `gbp-posts-batch`)
 - For non-client work (system reports, cost analysis, etc.), use `_system` as the client slug
 - Create subdirectories as needed — they may not exist yet
 

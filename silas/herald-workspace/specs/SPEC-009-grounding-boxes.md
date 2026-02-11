@@ -596,7 +596,7 @@ Before deploying any grounding box, Silas runs this validation:
 
 ## 12. RISK NOTES
 
-**Cloaking Risk:** Hiding content from users while showing it to crawlers technically qualifies as cloaking under Google's webmaster guidelines. The APEX course acknowledges this and positions it as acceptable risk because the hidden content matches the visible page content (it's a condensed version, not deceptive). Silas should flag this risk to the operator during deployment and note that the grounding box content must never contradict or misrepresent what's on the visible page.
+**Cloaking Risk:** Hiding content from users while showing it to crawlers technically qualifies as cloaking under Google's webmaster guidelines. The CATALYST framework acknowledges this and positions it as acceptable risk because the hidden content matches the visible page content (it's a condensed version, not deceptive). Silas should flag this risk to the operator during deployment and note that the grounding box content must never contradict or misrepresent what's on the visible page.
 
 **Content Drift:** If the client updates their pricing or services on the visible page but doesn't update the grounding box, the AI may cite outdated information. Silas should include grounding box content verification in the recurring optimization cycle (SPEC-005 or equivalent ongoing maintenance spec).
 

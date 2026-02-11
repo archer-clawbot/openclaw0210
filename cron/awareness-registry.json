@@ -10,9 +10,9 @@
     {
       "docId": "silas_scoring",
       "filepath": "silas/skills/scoring-framework.md",
-      "triggers": ["scorecard", "master scorecard", "priority matrix", "scoring", "APEX score", "audit score", "priority stack"],
+      "triggers": ["scorecard", "master scorecard", "priority matrix", "scoring", "CATALYST score", "audit score", "priority stack"],
       "priority": 8,
-      "description": "Silas scoring framework — Master Scorecard, Priority Matrix, APEX phasing",
+      "description": "Silas scoring framework — Master Scorecard, Priority Matrix, CATALYST phasing",
       "tokenEstimate": 1200,
       "agents": ["silas"]
     },
@@ -28,7 +28,7 @@
     {
       "docId": "silas_audit",
       "filepath": "silas/skills/audit-protocol.md",
-      "triggers": ["audit", "APEX audit", "site audit", "GBP discovery", "crawl", "full audit", "onboarding audit"],
+      "triggers": ["audit", "CATALYST audit", "site audit", "GBP discovery", "crawl", "full audit", "onboarding audit"],
       "priority": 9,
       "description": "Silas audit protocol — GBP discovery, crawl dispatch, audit writing rules",
       "tokenEstimate": 1500,

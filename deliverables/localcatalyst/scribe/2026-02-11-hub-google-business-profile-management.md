@@ -147,7 +147,7 @@ Your Google Business Profile does not operate in isolation. The signals it gener
 - **[On-page SEO](/on-page-seo-services/)** ensures your website content aligns with GBP categories and services, reinforcing relevance signals
 - **[Local SEO](/local-seo-services/)** coordinates all of these efforts into a unified strategy where each element amplifies the others
 
-This integration is a core principle of our APEX methodology. During the Audit phase, we assess GBP health alongside citations, backlinks, on-page optimization, and technical infrastructure. During Prioritize, we sequence GBP optimizations based on their expected impact relative to other available improvements. During Execute, GBP management happens in coordination with — not in isolation from — every other campaign component.
+This integration is a core principle of our CATALYST methodology. During the Audit phase, we assess GBP health alongside citations, backlinks, on-page optimization, and technical infrastructure. During Prioritize, we sequence GBP optimizations based on their expected impact relative to other available improvements. During Execute, GBP management happens in coordination with — not in isolation from — every other campaign component.
 
 ## Results You Can Expect
 

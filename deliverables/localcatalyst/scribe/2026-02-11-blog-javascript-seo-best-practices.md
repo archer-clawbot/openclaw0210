@@ -119,4 +119,4 @@ Always include [structured data](/blog/schema-markup-guide/) in the server-rende
 
 JavaScript SEO is not about choosing between great user experiences and search visibility — it is about implementing the right rendering strategy so you get both. SSR, proper lazy loading, accessible structured data, and regular testing with Google's tools ensure that every page on your site is crawlable, renderable, and indexable.
 
-If you suspect JavaScript rendering issues are hurting your organic visibility, or if you are planning a site migration to a JavaScript framework, [contact LocalCatalyst](/contact/) for a comprehensive technical SEO audit. We use our APEX Methodology to identify rendering gaps, quantify the indexing impact, and implement fixes that restore your full organic footprint.
+If you suspect JavaScript rendering issues are hurting your organic visibility, or if you are planning a site migration to a JavaScript framework, [contact LocalCatalyst](/contact/) for a comprehensive technical SEO audit. We use our CATALYST Methodology to identify rendering gaps, quantify the indexing impact, and implement fixes that restore your full organic footprint.

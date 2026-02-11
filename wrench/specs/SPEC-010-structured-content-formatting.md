@@ -29,7 +29,7 @@ Silas needs to understand which SERP features exist and what content format trig
 | **Knowledge Panel Enhancement** | Schema markup + consistent entity signals | N/A (schema-driven, see SPEC-003) | P1 |
 | **Passage Indexing** | Self-contained content blocks with clear heading boundaries | 100–300 words per passage | P1 |
 | **Image Pack** | `<img>` with descriptive `alt`, inside relevant content section | Alt text < 125 chars | P2 |
-| **Video Carousel** | Embedded YouTube with structured description (see APEX YouTube module) | N/A | P2 |
+| **Video Carousel** | Embedded YouTube with structured description (see CATALYST YouTube module) | N/A | P2 |
 | **Local Pack Justification** | Service description matching query → justification snippet | 15–30 words shown | P0 |
 
 ### 2.2 Feature Priority by Page Type
@@ -546,7 +546,7 @@ This ensures every section of the page has extraction-ready structured content, 
 
 ### 7.1 The "Implicit Schema Mimicry" Pattern
 
-From the APEX course: structure visible content to mirror Schema.org property names so the AI parser can extract structured data even without JSON-LD.
+From the CATALYST framework: structure visible content to mirror Schema.org property names so the AI parser can extract structured data even without JSON-LD.
 
 **How it works:** Name content sections and table headers using terms that match schema properties. The AI parser recognizes the pattern and treats the content as quasi-structured data.
 
@@ -610,7 +610,7 @@ Every named entity in this paragraph is a co-citation signal that strengthens th
 
 ### 7.4 The "Comparative Displacement" Pattern
 
-From the APEX LLM SEO module: structure content so that when an AI compares the client against competitors, the client's description scores higher on authority, specificity, and technical credibility.
+From the CATALYST LLM SEO module: structure content so that when an AI compares the client against competitors, the client's description scores higher on authority, specificity, and technical credibility.
 
 **Before (generic):**
 ```

@@ -118,7 +118,7 @@ Duplicate listings confuse both Google and consumers. Most platforms allow you t
 
 Maintain a spreadsheet tracking every citation source, login credentials, current NAP data, and last-verified date. Schedule quarterly audits to catch drift before it impacts rankings.
 
-This audit process is a core component of our [Local SEO service](/services/local-seo/) and the first phase of our APEX Methodology for every new client engagement.
+This audit process is a core component of our [Local SEO service](/services/local-seo/) and the first phase of our CATALYST Methodology for every new client engagement.
 
 ---
 
@@ -138,7 +138,7 @@ The right tool depends on your scale. A single-location business can manage cita
 
 ## Building a Citation Strategy That Compounds
 
-Citation building isn't a one-time project. It's an ongoing discipline that compounds over time. Here's the framework we use for clients inside the APEX Methodology:
+Citation building isn't a one-time project. It's an ongoing discipline that compounds over time. Here's the framework we use for clients inside the CATALYST Methodology:
 
 1. **Audit existing citations** (Week 1-2)
 2. **Fix inconsistencies and suppress duplicates** (Week 2-4)

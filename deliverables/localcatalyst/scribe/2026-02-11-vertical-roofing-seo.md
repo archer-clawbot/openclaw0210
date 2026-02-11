@@ -22,7 +22,7 @@ Meanwhile, the roofing company ranking #1 organically for those same searches pa
 
 That is the fundamental case for roofing SEO. In an industry where paid advertising costs are among the highest in local search, organic visibility is not just a marketing channel — it is a competitive moat. The roofing companies that invest in SEO today are the ones that will dominate their markets for years, because organic rankings compound over time while PPC costs only increase.
 
-At LocalCatalyst, we build roofing SEO strategies designed for the unique dynamics of this industry — extreme seasonality, storm-driven demand spikes, long sales cycles for replacements, and the multi-city service areas that every roofing company must cover. Our [APEX methodology](/local-seo-services/) (Audit, Prioritize, Execute, Expand) gives roofing contractors a structured, data-driven path from PPC dependence to organic lead dominance.
+At LocalCatalyst, we build roofing SEO strategies designed for the unique dynamics of this industry — extreme seasonality, storm-driven demand spikes, long sales cycles for replacements, and the multi-city service areas that every roofing company must cover. Our [CATALYST methodology](/local-seo-services/) (Audit, Prioritize, Execute, Expand) gives roofing contractors a structured, data-driven path from PPC dependence to organic lead dominance.
 
 Want to see where your roofing company ranks across your service area? [Request a free SEO audit](/free-seo-audit/) and we will map your visibility on a geo-grid showing exactly where you are winning, where you are invisible, and where the biggest opportunities are.
 
@@ -131,7 +131,7 @@ Roofing is one of the most visual trades in home services, and before-and-after 
 
 ## Results You Can Expect
 
-Roofing companies that implement a comprehensive local SEO strategy through our APEX methodology typically see:
+Roofing companies that implement a comprehensive local SEO strategy through our CATALYST methodology typically see:
 
 - **40-70% increase in organic leads** within the first 90 days
 - **Map Pack visibility across 60-80% of their service area** within 120 days

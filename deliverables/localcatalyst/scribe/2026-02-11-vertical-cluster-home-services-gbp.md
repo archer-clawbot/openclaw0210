@@ -152,7 +152,7 @@ Report fake listings through Google's Business Redressal Complaint Form. Google 
 
 ## Get Your GBP Working as Hard as Your Technicians
 
-Your Google Business Profile should generate leads around the clock. Our APEX methodology includes a complete GBP audit, optimization, and ongoing management plan that maximizes your Map Pack visibility across your entire service territory.
+Your Google Business Profile should generate leads around the clock. Our CATALYST methodology includes a complete GBP audit, optimization, and ongoing management plan that maximizes your Map Pack visibility across your entire service territory.
 
 [Request a Free SEO Audit](/free-seo-audit/) to see how your GBP performs compared to the top-ranking contractors in your market.
 

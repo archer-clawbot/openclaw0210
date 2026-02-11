@@ -86,7 +86,7 @@ Within 6 months, their organic traffic increased 340%. Within 9 months, they ran
 
 ## LocalCatalyst's Content Framework
 
-Our content strategy process is built into our [APEX Methodology](/local-seo-services/) — the same framework we use across all our services. Here's how it works for content:
+Our content strategy process is built into our [CATALYST Methodology](/local-seo-services/) — the same framework we use across all our services. Here's how it works for content:
 
 ### 1. Audit: Content Gap Analysis and Competitive Intelligence
 

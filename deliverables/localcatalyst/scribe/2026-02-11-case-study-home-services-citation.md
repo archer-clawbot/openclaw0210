@@ -29,7 +29,7 @@ The question that brought him to us was simple and frustrated: "What am I missin
 
 ## The Audit: Finding the Hidden Problem
 
-Our APEX audit covered every dimension of Rocha Electric's local search presence --- technical SEO, on-page content, GBP optimization, backlink profile, review signals, and citation health.
+Our CATALYST audit covered every dimension of Rocha Electric's local search presence --- technical SEO, on-page content, GBP optimization, backlink profile, review signals, and citation health.
 
 The technical audit came back clean. The site was fast (1.8s LCP), properly structured, and mobile-optimized. On-page content was decent --- not exceptional, but not the bottleneck. GBP was well-maintained. Reviews were strong. Backlink profile was modest but not worse than competitors ranking above him.
 

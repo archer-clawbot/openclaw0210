@@ -70,7 +70,7 @@ Successfully completed all 5 required pages for the LocalCatalyst agency website
 
 **Key Sections:**
 - Company story (why LocalCatalyst exists)
-- APEX methodology framework (Audit, Prioritize, Execute, Expand)
+- CATALYST methodology framework (Audit, Prioritize, Execute, Expand)
 - 4 differentiation points (technical + local expertise, real visibility tracking, 2026 optimization, transparency)
 - 4 core services overview with links
 - Client industries served
@@ -113,7 +113,7 @@ Successfully completed all 5 required pages for the LocalCatalyst agency website
 - 4 core services with results summaries
 - 4 differentiation points (technical + local, real visibility tracking, 2026 optimization, transparency)
 - 5 industries served (home services, medical/dental, legal, hospitality, professional)
-- APEX framework process breakdown
+- CATALYST framework process breakdown
 - 4-tier pricing structure
 - 6-question FAQ
 - Schema markup recommendations

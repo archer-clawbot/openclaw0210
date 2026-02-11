@@ -20,7 +20,7 @@ The HVAC industry runs on urgency and seasons. When a furnace dies in January or
 
 But here is the problem most HVAC companies face: the phone rings off the hook for three months during peak season, then goes quiet. Summer is chaos. Winter is chaos. Spring and fall feel like the business is dying. This feast-or-famine cycle is not a demand problem — it is a visibility problem. Homeowners search for HVAC services year-round. Maintenance, efficiency upgrades, indoor air quality, duct cleaning, smart thermostat installation — these searches happen in every season. The companies that capture them are the ones that stay booked twelve months a year.
 
-At LocalCatalyst, HVAC SEO is one of our deepest verticals. We understand the seasonal dynamics, the emergency-driven search patterns, the multi-city service area challenges, and the constant competitive pressure from lead aggregators like HomeAdvisor and Angi that want to sell you your own customers at a markup. Our [APEX methodology](/local-seo-services/) (Audit, Prioritize, Execute, Expand) is built to systematically build the kind of year-round local search dominance that smooths out the seasonal rollercoaster and generates consistent lead flow.
+At LocalCatalyst, HVAC SEO is one of our deepest verticals. We understand the seasonal dynamics, the emergency-driven search patterns, the multi-city service area challenges, and the constant competitive pressure from lead aggregators like HomeAdvisor and Angi that want to sell you your own customers at a markup. Our [CATALYST methodology](/local-seo-services/) (Audit, Prioritize, Execute, Expand) is built to systematically build the kind of year-round local search dominance that smooths out the seasonal rollercoaster and generates consistent lead flow.
 
 Want to see where your HVAC business ranks across your service area — and where you are invisible? [Request a free SEO audit](/free-seo-audit/) and we will map your visibility on a geo-grid showing every gap and opportunity.
 
@@ -118,7 +118,7 @@ Our clients typically reduce aggregator spending by 50-70% within 12 months as o
 
 ## Results You Can Expect
 
-HVAC companies that implement a comprehensive local SEO strategy through our APEX methodology typically see:
+HVAC companies that implement a comprehensive local SEO strategy through our CATALYST methodology typically see:
 
 - **50-80% increase in qualified leads** within the first 90 days
 - **Map Pack visibility across 60-80% of their service area** within 120 days

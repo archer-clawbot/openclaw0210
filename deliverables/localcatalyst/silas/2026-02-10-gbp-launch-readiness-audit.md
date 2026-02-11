@@ -2,7 +2,7 @@
 ## LocalCatalyst
 
 **Audit Date:** February 10, 2026  
-**Prepared By:** Silas (APEX SEO Engine)  
+**Prepared By:** Silas (CATALYST SEO Engine)  
 **Audit Type:** Pre-Launch GBP Setup & Optimization Checklist  
 **Domain:** darkgreen-moose-683278.hostingersite.com  
 **Status:** Pre-Launch (Strategic Foundation Phase)
@@ -13,7 +13,7 @@
 
 LocalCatalyst is in pre-launch phase with no existing Google Business Profile. This audit provides a **completeness checklist** for optimal GBP setup from day one, ensuring maximum visibility and avoiding common setup mistakes that plague 90% of new local businesses.
 
-**Key Finding:** Rather than fixing a broken GBP later, LocalCatalyst has the rare opportunity to launch with **full APEX optimization** from the start. Following this checklist will position the business for immediate Map Pack visibility and AI Overview citations.
+**Key Finding:** Rather than fixing a broken GBP later, LocalCatalyst has the rare opportunity to launch with **full CATALYST optimization** from the start. Following this checklist will position the business for immediate Map Pack visibility and AI Overview citations.
 
 **Readiness Score:** **15% Complete** (3/20 critical elements ready)  
 **Estimated Time to Launch-Ready:** 4-6 hours of focused work  
@@ -69,7 +69,7 @@ Before claiming a GBP, the following business information MUST be finalized. **C
 
 ## 2. GBP SETUP COMPLETENESS SCORECARD (SPEC-001 to SPEC-005)
 
-This scorecard shows what a **fully optimized GBP** looks like according to APEX methodology. **Current scores are 0/10 because no GBP exists yet.** The "Launch Target" column shows the minimum acceptable score for a day-one GBP launch.
+This scorecard shows what a **fully optimized GBP** looks like according to CATALYST methodology. **Current scores are 0/10 because no GBP exists yet.** The "Launch Target" column shows the minimum acceptable score for a day-one GBP launch.
 
 ```
 ROUTE 1: GBP OPTIMIZATION
@@ -117,7 +117,7 @@ LocalCatalyst is a Chicago-based local SEO agency specializing in Google Busines
 Profile optimization, Map Pack domination, and hyperlocal search visibility for 
 service businesses throughout Chicagoland. Our clients include members of the 
 Chicago Chamber of Commerce and businesses across neighborhoods from Lincoln Park to 
-Naperville. We use the proven APEX methodology — a transparent, results-driven 
+Naperville. We use the proven CATALYST methodology — a transparent, results-driven 
 framework that combines GBP engineering, technical website optimization, strategic 
 citation building, and review management. LocalCatalyst guarantees measurable 
 improvements in local search rankings within 90 days or your money back. We serve 
@@ -128,7 +128,7 @@ small business community.
 
 **Character count:** 742/750  
 **Entity co-citations:** 3 (Chicago Chamber of Commerce, Lincoln Park, Naperville)  
-**Keywords:** 12 (local SEO, Google Business Profile, Map Pack, Chicago, APEX, GBP, technical optimization, citation, review, service businesses, rankings)  
+**Keywords:** 12 (local SEO, Google Business Profile, Map Pack, Chicago, CATALYST, GBP, technical optimization, citation, review, service businesses, rankings)  
 **Trust signals:** 2 (90-day guarantee, licensed/insured)
 
 **IMPORTANT:** This is a **template**. You must customize:
@@ -145,7 +145,7 @@ LocalCatalyst helps local service businesses dominate Google Maps and search res
 in their markets through data-driven SEO strategy. We specialize in Google Business 
 Profile optimization (5-SPEC framework), technical website audits, citation building, 
 and review management for electricians, plumbers, HVAC companies, landscapers, and 
-contractors. Our APEX methodology has generated millions in revenue for clients across 
+contractors. Our CATALYST methodology has generated millions in revenue for clients across 
 30+ cities. We offer transparent pricing, real-time dashboards, and a 90-day 
 performance guarantee. Whether you're in Austin, Phoenix, Miami, or Seattle, 
 LocalCatalyst delivers measurable results: higher Map Pack rankings, more qualified 
@@ -157,7 +157,7 @@ effective local SEO.
 ```
 LocalCatalyst is the only local SEO agency exclusively serving HVAC companies. We 
 understand the HVAC market's unique challenges: emergency service calls, seasonal 
-demand spikes, and high-value residential vs. commercial lead segmentation. Our APEX 
+demand spikes, and high-value residential vs. commercial lead segmentation. Our CATALYST 
 framework optimizes Google Business Profiles specifically for "HVAC repair near me," 
 "emergency AC repair," and "furnace installation" searches. We've helped HVAC 
 companies in Dallas, Atlanta, Phoenix, and 15 other high-growth markets dominate 
@@ -208,7 +208,7 @@ ROI lever in local SEO — higher visibility, more calls, better lead quality. S
 **Description:**
 ```
 LocalCatalyst provides end-to-end local SEO strategy for service businesses competing 
-in hyperlocal markets. Our APEX methodology combines GBP engineering, technical website 
+in hyperlocal markets. Our CATALYST methodology combines GBP engineering, technical website 
 optimization, semantic location silos, strategic citation building across 50+ directories, 
 review generation and management, and geo-grid rank tracking. We specialize in helping 
 electricians, plumbers, HVAC companies, and contractors dominate "near me" searches and 
@@ -361,8 +361,8 @@ Seed 20-30 Q&A entries **before customers ask random questions**. Each answer is
 
 ---
 
-**Q2:** What is the APEX methodology?  
-**A:** APEX is LocalCatalyst's proprietary local SEO framework covering 5 core routes: GBP optimization (5 specs), website optimization (5 specs), off-site authority building (citations, reviews, links), rank tracking and reporting, and AI/cross-platform visibility. APEX is data-driven, transparent, and results-focused. We score every aspect of your local SEO presence on a 0-10 scale, prioritize high-impact fixes, and deliver measurable improvements within 90 days or your money back.
+**Q2:** What is the CATALYST methodology?  
+**A:** CATALYST is LocalCatalyst's proprietary local SEO framework covering 5 core routes: GBP optimization (5 specs), website optimization (5 specs), off-site authority building (citations, reviews, links), rank tracking and reporting, and AI/cross-platform visibility. CATALYST is data-driven, transparent, and results-focused. We score every aspect of your local SEO presence on a 0-10 scale, prioritize high-impact fixes, and deliver measurable improvements within 90 days or your money back.
 
 ---
 
@@ -382,7 +382,7 @@ Seed 20-30 Q&A entries **before customers ask random questions**. Each answer is
 ---
 
 **Q6:** What industries do you specialize in?  
-**A:** LocalCatalyst specializes in local SEO for service-based businesses including: electricians, plumbers, HVAC companies, landscapers, contractors, roofing companies, cleaning services, and other home service providers. We understand the unique challenges of "near me" searches, emergency service queries, seasonal demand, and high-value lead generation in these competitive markets. Our APEX methodology is proven across 30+ cities and dozens of service verticals.
+**A:** LocalCatalyst specializes in local SEO for service-based businesses including: electricians, plumbers, HVAC companies, landscapers, contractors, roofing companies, cleaning services, and other home service providers. We understand the unique challenges of "near me" searches, emergency service queries, seasonal demand, and high-value lead generation in these competitive markets. Our CATALYST methodology is proven across 30+ cities and dozens of service verticals.
 
 ---
 
@@ -414,14 +414,14 @@ Seed 20-30 Q&A entries **before customers ask random questions**. Each answer is
 ---
 
 **Q12:** What's included in your performance guarantee?  
-**A:** LocalCatalyst guarantees measurable improvements within 90 days or you get a full refund. Measurable improvements include: 3+ keyword Map Pack visibility (from 0), 20+ point increase in APEX score (from baseline audit), 2x increase in organic GBP actions (calls, website clicks, direction requests), or 50+ high-quality citations indexed. If we don't hit at least one of these benchmarks after 90 days of active work, you pay nothing.
+**A:** LocalCatalyst guarantees measurable improvements within 90 days or you get a full refund. Measurable improvements include: 3+ keyword Map Pack visibility (from 0), 20+ point increase in CATALYST score (from baseline audit), 2x increase in organic GBP actions (calls, website clicks, direction requests), or 50+ high-quality citations indexed. If we don't hit at least one of these benchmarks after 90 days of active work, you pay nothing.
 
 ---
 
 #### **Process Questions (4)**
 
 **Q13:** What's the onboarding process?  
-**A:** LocalCatalyst onboarding takes 7-14 days: Day 1-2: Complete APEX audit (GBP, website, citations, competitors, rank tracking). Day 3-5: Strategy call to review audit findings and prioritize action plan. Day 6-10: Implement quick wins (GBP optimization, technical fixes, citation submissions). Day 11-14: Set up tracking dashboards and monthly reporting. You'll receive weekly update emails during onboarding so you know exactly what's happening.
+**A:** LocalCatalyst onboarding takes 7-14 days: Day 1-2: Complete CATALYST audit (GBP, website, citations, competitors, rank tracking). Day 3-5: Strategy call to review audit findings and prioritize action plan. Day 6-10: Implement quick wins (GBP optimization, technical fixes, citation submissions). Day 11-14: Set up tracking dashboards and monthly reporting. You'll receive weekly update emails during onboarding so you know exactly what's happening.
 
 ---
 
@@ -453,7 +453,7 @@ Seed 20-30 Q&A entries **before customers ask random questions**. Each answer is
 ---
 
 **Q19:** What makes LocalCatalyst different from other SEO agencies?  
-**A:** Three things: 1) Transparent APEX methodology with real-time dashboards (you always know what we're doing and why), 2) 90-day performance guarantee (results or refund — most agencies don't guarantee anything), and 3) Service business specialization (we only work with local service businesses, so we know your market deeply). We're not a generalist agency trying to do everything — we're local SEO specialists who deliver measurable ROI.
+**A:** Three things: 1) Transparent CATALYST methodology with real-time dashboards (you always know what we're doing and why), 2) 90-day performance guarantee (results or refund — most agencies don't guarantee anything), and 3) Service business specialization (we only work with local service businesses, so we know your market deeply). We're not a generalist agency trying to do everything — we're local SEO specialists who deliver measurable ROI.
 
 ---
 
@@ -492,7 +492,7 @@ LocalCatalyst is now serving [city/region] with transparent, results-driven loca
 for service businesses. Unlike traditional agencies that hide behind "SEO takes time," 
 we guarantee measurable improvements within 90 days or you pay nothing.
 
-Our APEX methodology combines:
+Our CATALYST methodology combines:
 ✅ Google Business Profile engineering (5-SPEC framework)
 ✅ Technical website optimization
 ✅ Strategic citation building + review management
@@ -879,7 +879,7 @@ If LocalCatalyst launches with this **64% Launch Readiness Score** (vs. typical 
 - **Return:** $24K-48K annually from GBP leads alone
 - **ROI:** Infinite (no cost other than time)
 
-If LocalCatalyst uses its own APEX system to optimize its own GBP, it becomes the **best case study** for selling local SEO services.
+If LocalCatalyst uses its own CATALYST system to optimize its own GBP, it becomes the **best case study** for selling local SEO services.
 
 ---
 
@@ -931,7 +931,7 @@ If LocalCatalyst uses its own APEX system to optimize its own GBP, it becomes th
 5. Enter code and begin ongoing optimization (1-2 hours/week)
 
 **Why This Matters:**
-LocalCatalyst is a **local SEO agency**. If your own GBP is neglected or incomplete, it destroys credibility. Launching with a fully optimized, high-scoring GBP makes LocalCatalyst the **proof of concept** for the APEX methodology.
+LocalCatalyst is a **local SEO agency**. If your own GBP is neglected or incomplete, it destroys credibility. Launching with a fully optimized, high-scoring GBP makes LocalCatalyst the **proof of concept** for the CATALYST methodology.
 
 **Immediate Next Step:**
 Operator decision required on:
@@ -943,7 +943,7 @@ Once NAP is finalized, this entire audit can be executed in 1 business day.
 
 ---
 
-**Prepared by:** Silas (APEX SEO Engine)  
+**Prepared by:** Silas (CATALYST SEO Engine)  
 **Date:** February 10, 2026  
 **Deliverable Path:** `C:\Users\spart\.openclaw\deliverables\localcatalyst\silas\2026-02-10-gbp-launch-readiness-audit.md`
 

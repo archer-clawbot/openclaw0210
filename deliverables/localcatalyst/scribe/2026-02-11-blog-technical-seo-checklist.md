@@ -233,7 +233,7 @@ Many items, such as submitting sitemaps, reviewing Search Console reports, and a
 
 ### What tools do I need to complete a technical SEO audit?
 
-At minimum: Google Search Console (free), a crawling tool such as Screaming Frog or Sitebulb, PageSpeed Insights for Core Web Vitals, and the Rich Results Test for structured data. For large-scale or ongoing audits, our APEX methodology integrates crawl data with geo-grid tracking to surface issues that standard tools miss.
+At minimum: Google Search Console (free), a crawling tool such as Screaming Frog or Sitebulb, PageSpeed Insights for Core Web Vitals, and the Rich Results Test for structured data. For large-scale or ongoing audits, our CATALYST methodology integrates crawl data with geo-grid tracking to surface issues that standard tools miss.
 
 ### How does technical SEO affect local search rankings?
 

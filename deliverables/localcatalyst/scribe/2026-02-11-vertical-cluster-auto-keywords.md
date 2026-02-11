@@ -139,7 +139,7 @@ Yes. The growing prevalence of electric and hybrid vehicles is creating new keyw
 
 ## Map the Keywords That Drive Your Market
 
-Stop guessing at which searches matter and start targeting the keywords that put customers in your service bays. Our APEX methodology begins with comprehensive keyword research that identifies every valuable search opportunity in your market.
+Stop guessing at which searches matter and start targeting the keywords that put customers in your service bays. Our CATALYST methodology begins with comprehensive keyword research that identifies every valuable search opportunity in your market.
 
 [Request a Free SEO Audit](/free-seo-audit/) to see which auto repair keywords you are ranking for, where you are invisible, and where the biggest opportunities are.
 

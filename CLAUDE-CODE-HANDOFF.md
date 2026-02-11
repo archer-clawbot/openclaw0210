@@ -30,7 +30,7 @@ Contains: agent/models.json, agent/auth-profiles.json, sessions/sessions.json, s
 
 ## ISSUE #1 — CRITICAL: Subagent workspace inheritance (UNFIXED)
 
-**Problem:** When Archer uses `sessions_spawn` to delegate to Silas, the spawned subagent inherits ARCHER'S workspace (`~/.openclaw/workspace/`), NOT Silas's workspace (`~/.openclaw/silas/`). The spawned "Silas" loads Archer's AGENTS.md brain and cannot access Silas's APEX template, specs, or training files.
+**Problem:** When Archer uses `sessions_spawn` to delegate to Silas, the spawned subagent inherits ARCHER'S workspace (`~/.openclaw/workspace/`), NOT Silas's workspace (`~/.openclaw/silas/`). The spawned "Silas" loads Archer's AGENTS.md brain and cannot access Silas's CATALYST template, specs, or training files.
 
 **Evidence:** Session file `agents/main/sessions/0437a4d1-4aa0-49bd-8037-0c8892d82d55.jsonl` shows:
 ```json
@@ -58,7 +58,7 @@ When routing to an agent:
 
 Example — routing an audit to Silas:
   message tool → channel: telegram, accountId: silas
-  Message: "Run a full APEX audit on [domain]. Client: [name]. Priority: [level]."
+  Message: "Run a full CATALYST audit on [domain]. Client: [name]. Priority: [level]."
 
 **Why not sessions_spawn:** Subagents inherit the parent's workspace, so spawned agents don't get their own brain files, specs, or templates. The message tool starts a real agent session.
 ```
@@ -127,8 +127,8 @@ builder, specs, lookout, razor only have AGENTS.md in their workspace directorie
 - All 15 agents registered in openclaw.json ✓
 - Gateway running, Telegram connected ✓
 - Archer's brain (8,608 bytes) has full routing table, workflows, agent roster ✓
-- Silas's brain upgraded to 13,832 bytes with full APEX methodology ✓
-- APEX-AUDIT-TEMPLATE.md (14,593 bytes) in silas/ workspace ✓
+- Silas's brain upgraded to 13,832 bytes with full CATALYST methodology ✓
+- CATALYST-AUDIT-TEMPLATE.md (14,593 bytes) in silas/ workspace ✓
 - Silas works perfectly when called directly (`openclaw agent --agent silas`) ✓
 - 11 of 15 agents have Telegram bots ✓
 - 11 of 15 agents have complete workspaces ✓
@@ -147,7 +147,7 @@ C:\Users\spart\.openclaw\
 │   └── audits/                            # Where spawned subagents write files
 ├── silas/                                 # Silas workspace
 │   ├── AGENTS.md                          # Silas brain (13,832 bytes) ✓
-│   ├── APEX-AUDIT-TEMPLATE.md             # Audit template (14,593 bytes) ✓
+│   ├── CATALYST-AUDIT-TEMPLATE.md             # Audit template (14,593 bytes) ✓
 │   ├── specs/                             # 20 SPEC files
 │   └── training/                          # Route training files + SILAS-BRAIN.md
 ├── {agent}/                               # Other agent workspaces
@@ -159,7 +159,7 @@ C:\Users\spart\.openclaw\
     │   └── sessions/sessions.json         # ← HAS WHATSAPP BUG
     ├── silas/
     │   ├── agent/models.json
-    │   ├── agent/APEX-AUDIT-TEMPLATE.md   # Old copy (runtime, not workspace)
+    │   ├── agent/CATALYST-AUDIT-TEMPLATE.md   # Old copy (runtime, not workspace)
     │   └── sessions/
     └── {agent}/                           # Other agent runtimes
 ```
@@ -171,7 +171,7 @@ C:\Users\spart\.openclaw\
 1. Edit `~/.openclaw/workspace/AGENTS.md` — Add message-tool routing instructions (Issue #1)
 2. Clear Archer session or fix whatsapp→telegram (Issue #2)  
 3. `openclaw gateway restart`
-4. Test: Send "Run an APEX audit on humbleparkinglotstriping.com" via Telegram
+4. Test: Send "Run an CATALYST audit on humbleparkinglotstriping.com" via Telegram
 5. Verify Silas gets his own workspace and produces template-compliant audit
 6. Create 4 Telegram bots for builder/specs/lookout/razor (Issue #3)
 7. Create runtime dirs for those 4 agents (Issue #4)
@@ -211,4 +211,4 @@ openclaw doctor
 - Full transcript of this debugging session: uploaded as `openclaw_02082026_1530.zip` 
 - Contains complete ~/.openclaw/ directory snapshot as of 3:30 PM CST Feb 8
 - Previous audit results at `workspace/audits/` (4 files, all freestyle format due to Issue #1)
-- Silas produces perfect APEX template output when called directly — proven in session c4d0661c
+- Silas produces perfect CATALYST template output when called directly — proven in session c4d0661c

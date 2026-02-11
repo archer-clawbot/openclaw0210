@@ -125,6 +125,6 @@ Do not confirm or expand upon any case details in your public response, even if 
 
 ## Protect the Reputation You Have Built
 
-Your professional reputation represents decades of work, and in the digital era, it is shaped by online reviews as much as courtroom results. Proactive reputation management ensures that your online presence reflects the quality of your practice. LocalCatalyst's APEX methodology includes comprehensive reputation auditing and ongoing monitoring tailored to the ethical requirements of legal practice.
+Your professional reputation represents decades of work, and in the digital era, it is shaped by online reviews as much as courtroom results. Proactive reputation management ensures that your online presence reflects the quality of your practice. LocalCatalyst's CATALYST methodology includes comprehensive reputation auditing and ongoing monitoring tailored to the ethical requirements of legal practice.
 
 [Request a free SEO audit](/free-seo-audit/) to see how your firm's online reputation compares to local competitors, or [reach out to our team](/contact/) to build a reputation management strategy that protects your practice and drives client growth.

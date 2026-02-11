@@ -21,7 +21,7 @@ They don't know because nobody ever showed them. Nobody ran a proper audit.
 
 **An SEO audit is not a sales pitch dressed up as a report.** It's a systematic, data-driven analysis of every factor that influences your search visibility. It tells you exactly where you stand, exactly what's broken, and exactly what to fix — in priority order.
 
-At LocalCatalyst, the audit is the foundation of everything we do. It's the "A" in our APEX methodology (Audit, Prioritize, Execute, Expand). We don't guess. We don't assume. We measure, diagnose, and prescribe — like a doctor running labs before writing a treatment plan.
+At LocalCatalyst, the audit is the foundation of everything we do. It's the "A" in our CATALYST methodology (Audit, Prioritize, Execute, Expand). We don't guess. We don't assume. We measure, diagnose, and prescribe — like a doctor running labs before writing a treatment plan.
 
 Every SEO engagement we take on starts here, because we've learned that businesses waste thousands of dollars acting on assumptions instead of data. A dental practice spending $2,000/month on content creation when their site has 147 crawl errors. A law firm buying backlinks when their on-page targeting is competing with itself across 12 cannibalized pages. An HVAC company optimizing for keywords with zero local search volume while ignoring terms their competitors are ranking for.
 
@@ -297,9 +297,9 @@ The free audit answers the question: *"How visible am I?"* The comprehensive aud
 
 ---
 
-## How Audit Findings Become Your APEX Roadmap
+## How Audit Findings Become Your CATALYST Roadmap
 
-A stack of findings without a plan is just information. We turn audit data into a prioritized action plan — the "P" in our APEX methodology.
+A stack of findings without a plan is just information. We turn audit data into a prioritized action plan — the "P" in our CATALYST methodology.
 
 Every finding is scored on two axes:
 

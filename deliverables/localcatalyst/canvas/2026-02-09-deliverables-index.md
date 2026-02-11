@@ -100,7 +100,7 @@ This is a complete design system and wireframe specification for the LocalCataly
 - Hero section with headline, subheadline, dual CTAs
 - Trust badges (4-pack metrics)
 - Services overview (4-card grid)
-- APEX Framework explanation (3 alternating 2-column sections)
+- CATALYST Framework explanation (3 alternating 2-column sections)
 - Case studies section (3-card featured)
 - Testimonials carousel
 - ROI calculator (optional)

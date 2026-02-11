@@ -141,7 +141,7 @@ Google provides basic insights directly in your Business Profile dashboard, but 
 
 **Photo views vs. competitors:** GBP shows you how your photo views compare to similar businesses. If you are below the median, upload more photos.
 
-For deeper analysis, geo-grid tracking tools show your exact ranking position across a grid of points covering your service area. This reveals which neighborhoods you dominate and where you are invisible, letting you target your optimization efforts strategically. Our APEX methodology uses SoLV (Share of Local Visibility) scores derived from geo-grid tracking to measure real local pack performance beyond simple rank checks.
+For deeper analysis, geo-grid tracking tools show your exact ranking position across a grid of points covering your service area. This reveals which neighborhoods you dominate and where you are invisible, letting you target your optimization efforts strategically. Our CATALYST methodology uses SoLV (Share of Local Visibility) scores derived from geo-grid tracking to measure real local pack performance beyond simple rank checks.
 
 ## Frequently Asked Questions
 

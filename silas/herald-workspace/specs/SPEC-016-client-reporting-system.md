@@ -440,7 +440,7 @@ ONGOING:
 - Maximum 3 priorities (focus, not overwhelm)
 - Each priority must be tied to a data point from the current report
 - "Expected impact" must reference a measurable metric
-- Priorities should follow the APEX implementation phasing from the knowledge base
+- Priorities should follow the CATALYST implementation phasing from the knowledge base
 - Never repeat the same priority two months in a row unless explicitly justified
 
 ---

@@ -171,4 +171,4 @@ Google indexes review responses and uses them as additional content signals for 
 
 ---
 
-**Your reviews tell your story — and your responses shape how that story is heard.** Our APEX audit evaluates your current review response strategy, identifies gaps, and provides a framework for turning every review into a brand asset. [Get your free SEO audit](/free-seo-audit/) to see how your response rate compares to the competition.
+**Your reviews tell your story — and your responses shape how that story is heard.** Our CATALYST audit evaluates your current review response strategy, identifies gaps, and provides a framework for turning every review into a brand asset. [Get your free SEO audit](/free-seo-audit/) to see how your response rate compares to the competition.

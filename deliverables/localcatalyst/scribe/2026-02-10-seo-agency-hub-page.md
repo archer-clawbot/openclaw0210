@@ -235,9 +235,9 @@ Accountants, insurance agents, financial advisors, real estate agents, consultan
 
 ---
 
-### H2: Our Process: The APEX Framework
+### H2: Our Process: The CATALYST Framework
 
-We don't improvise. We don't use cookie-cutter templates. Every client gets a custom strategy based on our proven **APEX framework**:
+We don't improvise. We don't use cookie-cutter templates. Every client gets a custom strategy based on our proven **CATALYST framework**:
 
 #### A — Audit & Analysis
 
@@ -325,7 +325,7 @@ We offer flexible engagement models based on your needs and market competitivene
 **Best for:** Businesses wanting continuous optimization and market domination
 
 **Includes:**
-- All APEX framework phases
+- All CATALYST framework phases
 - Monthly optimization work
 - Weekly progress updates
 - Monthly performance reporting
@@ -474,7 +474,7 @@ Home > SEO Agency
 
 1. "LocalCatalyst SEO agency team analyzing client rankings and performance data"
 2. "Geo-grid heat map showing Map Pack rankings across service area"
-3. "APEX framework methodology diagram for SEO strategy"
+3. "CATALYST framework methodology diagram for SEO strategy"
 4. "Before and after ranking comparison showing SEO results"
 5. "SEO agency client success metrics dashboard"
 

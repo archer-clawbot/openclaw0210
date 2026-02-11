@@ -22,7 +22,7 @@ If your plumbing company is not the one they find, you did not lose a $150 servi
 
 Plumbing searches are among the most valuable in all of local SEO. "Plumber near me" alone generates millions of monthly searches in the United States, and the intent behind virtually every plumbing search is immediate and transactional. Nobody is casually browsing plumbers for fun. They have a problem, and they need it fixed now.
 
-At LocalCatalyst, we build plumber SEO strategies designed for the urgency and competitiveness of this industry. Our [APEX methodology](/local-seo-services/) (Audit, Prioritize, Execute, Expand) addresses the specific challenges plumbing companies face — extreme emergency intent, multi-city service areas, competition from franchise operations and lead aggregators, and the need to be visible 24/7 across every city you serve.
+At LocalCatalyst, we build plumber SEO strategies designed for the urgency and competitiveness of this industry. Our [CATALYST methodology](/local-seo-services/) (Audit, Prioritize, Execute, Expand) addresses the specific challenges plumbing companies face — extreme emergency intent, multi-city service areas, competition from franchise operations and lead aggregators, and the need to be visible 24/7 across every city you serve.
 
 Want to see exactly where your plumbing company ranks — and where customers are finding your competitors instead? [Request a free SEO audit](/free-seo-audit/) and we will map your visibility across a geo-grid of your entire service area.
 
@@ -122,7 +122,7 @@ This approach generates 15-25+ reviews per month for active plumbing companies, 
 
 ## Results You Can Expect
 
-Plumbing companies that implement a comprehensive local SEO strategy through our APEX methodology typically see:
+Plumbing companies that implement a comprehensive local SEO strategy through our CATALYST methodology typically see:
 
 - **50-80% increase in qualified calls** within the first 90 days
 - **Map Pack visibility across 60-80% of their service area** within 120 days
@@ -157,7 +157,7 @@ Plumbing SEO is defined by emergency intent — a higher percentage of plumbing 
 
 ### How do I rank for "plumber near me" in my city?
 
-Ranking for "plumber near me" requires a combination of GBP optimization (correct categories, complete services, accurate hours, strong reviews), website authority (backlinks from relevant sources), on-page signals (optimized service and location pages), and citation consistency (accurate NAP data across directories). Proximity to the searcher is also a factor, which is why service area page strategy matters for covering your full territory. We address all of these factors systematically through our APEX methodology.
+Ranking for "plumber near me" requires a combination of GBP optimization (correct categories, complete services, accurate hours, strong reviews), website authority (backlinks from relevant sources), on-page signals (optimized service and location pages), and citation consistency (accurate NAP data across directories). Proximity to the searcher is also a factor, which is why service area page strategy matters for covering your full territory. We address all of these factors systematically through our CATALYST methodology.
 
 ### Can I rank in cities where I do not have a physical location?
 

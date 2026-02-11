@@ -211,7 +211,7 @@ For clients on our ongoing [content strategy](/seo-content-strategy/) engagement
 - Content performance data can be pulled and analyzed automatically
 - [Internal linking](/on-page-seo-services/) can be audited and updated across large content libraries efficiently
 
-The REST API transforms WordPress from a content management system into a content platform — one that integrates with the automation and intelligence capabilities that power our APEX methodology.
+The REST API transforms WordPress from a content management system into a content platform — one that integrates with the automation and intelligence capabilities that power our CATALYST methodology.
 
 ## Frequently Asked Questions
 
@@ -237,4 +237,4 @@ In many cases, yes. If your site runs on a lightweight theme (GeneratePress, Ast
 
 ---
 
-**WordPress is the most powerful SEO platform available — but only when every layer is engineered for performance.** Our APEX audit reveals exactly what your WordPress site needs to compete. [Get your free SEO audit](/free-seo-audit/) and see the difference between a WordPress site and a WordPress site built for search.
+**WordPress is the most powerful SEO platform available — but only when every layer is engineered for performance.** Our CATALYST audit reveals exactly what your WordPress site needs to compete. [Get your free SEO audit](/free-seo-audit/) and see the difference between a WordPress site and a WordPress site built for search.

@@ -69,7 +69,7 @@ Effort:
   5 = 20+ hours, multi-week initiative
 ```
 
-### Default Priority Stack (APEX Phasing)
+### Default Priority Stack (CATALYST Phasing)
 
 **Tier 1 — Quick Wins (Week 1-2):** GBP description, services, Q&A, products, schema deployment, critical technical fixes, review response activation
 

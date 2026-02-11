@@ -11,7 +11,7 @@
 
 ## Free SEO Resources to Dominate Local Search
 
-Running a local business means wearing a dozen hats — and SEO shouldn't require a degree to get right. We built these resources from the same frameworks our team uses inside the [APEX Methodology](/services/local-seo/) to help businesses rank higher in local search, attract more qualified leads, and convert searchers into customers.
+Running a local business means wearing a dozen hats — and SEO shouldn't require a degree to get right. We built these resources from the same frameworks our team uses inside the [CATALYST Methodology](/services/local-seo/) to help businesses rank higher in local search, attract more qualified leads, and convert searchers into customers.
 
 Every template, checklist, and tool below is free. Download what you need, implement at your own pace, and reach out when you're ready for a partner to handle the heavy lifting.
 
@@ -130,6 +130,6 @@ No credit card required. No obligation. Just a clear-eyed assessment of where yo
 
 ## Need More Than Templates?
 
-Templates get you started. Strategy gets you results. If you're ready to stop guessing and start ranking, our team applies the full APEX Methodology — audit, plan, execute, and expand — to build local search dominance that compounds over time.
+Templates get you started. Strategy gets you results. If you're ready to stop guessing and start ranking, our team applies the full CATALYST Methodology — audit, plan, execute, and expand — to build local search dominance that compounds over time.
 
 **[Schedule a Strategy Call](/contact/)** and let's talk about what's holding your business back in local search.

@@ -8,7 +8,7 @@
 
 This specification defines Silas's methodology for building cross-platform content ecosystems that amplify a client's authority across every platform that AI systems crawl, index, and trust. While SPEC-017 focuses on direct LLM optimization, this spec addresses the upstream problem: creating the multi-platform content and presence that makes a business the "consensus answer" across the entire information ecosystem.
 
-From the APEX methodology: "You're not just creating content; you're building a verifiable knowledge asset that exists across the entire information ecosystem that AI systems crawl and trust."
+From the CATALYST methodology: "You're not just creating content; you're building a verifiable knowledge asset that exists across the entire information ecosystem that AI systems crawl and trust."
 
 **Core principle:** "AI systems validate by consensus. The business that appears consistently across the most trusted platforms wins."
 
@@ -260,7 +260,7 @@ For each client service page:
 
 ### 5.1 Google Docs as Authority Bridges
 
-From the APEX "Answer Funnel" tactic:
+From the CATALYST "Answer Funnel" tactic:
 
 ```
 Use case: Complex questions that can't be fully answered in GBP Q&A

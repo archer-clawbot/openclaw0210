@@ -160,6 +160,6 @@ No. Targeting keywords for practice areas a firm does not handle wastes resource
 
 ## Start With the Keywords That Move the Needle
 
-Attorney keyword research is the foundation of every successful law firm SEO campaign. Without it, you are building content and optimizing pages based on assumptions rather than data. LocalCatalyst's APEX methodology begins with a thorough keyword audit that identifies your highest-value opportunities and maps them to a content strategy designed for measurable client acquisition.
+Attorney keyword research is the foundation of every successful law firm SEO campaign. Without it, you are building content and optimizing pages based on assumptions rather than data. LocalCatalyst's CATALYST methodology begins with a thorough keyword audit that identifies your highest-value opportunities and maps them to a content strategy designed for measurable client acquisition.
 
 [Request a free SEO audit](/free-seo-audit/) to see exactly which attorney keywords represent the greatest ROI opportunity for your firm, or [contact our team](/contact/) to discuss a custom keyword strategy for your practice areas and market.

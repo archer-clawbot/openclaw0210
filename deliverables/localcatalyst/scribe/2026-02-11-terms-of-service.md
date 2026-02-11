@@ -204,7 +204,7 @@ All content, materials, and deliverables created by LocalCatalyst for your campa
 
 ### LocalCatalyst Intellectual Property
 
-LocalCatalyst retains ownership of all proprietary methodologies, frameworks, tools, templates, and software (including but not limited to the APEX Framework, SoLV tracking, and internal reporting systems). These are licensed to you for use during your engagement but remain our intellectual property.
+LocalCatalyst retains ownership of all proprietary methodologies, frameworks, tools, templates, and software (including but not limited to the CATALYST Framework, SoLV tracking, and internal reporting systems). These are licensed to you for use during your engagement but remain our intellectual property.
 
 ### Client-Provided Materials
 

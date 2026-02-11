@@ -22,7 +22,7 @@ The question is whether they find you or the practice down the street.
 
 Dental SEO is unlike most other local verticals because of the patient lifetime value at stake. A single new patient is not a one-time transaction — it is two cleanings per year, periodic X-rays, the occasional filling, and potentially $5,000-30,000 in cosmetic or restorative work over their lifetime. Multiply that by a family of four, and a single "dentist near me" search can represent $50,000-100,000 in lifetime revenue. When the math is that compelling, the gap between appearing in the Map Pack and being invisible on page two is not just a marketing problem — it is a business-defining one.
 
-At LocalCatalyst, dental SEO is one of our strongest verticals. We understand the specific competitive dynamics that dental practices face — competition from DSOs (Dental Service Organizations) with massive marketing budgets, aggregator platforms like Zocdoc and 1-800-DENTIST that insert themselves between you and your patients, and the challenge of differentiating a general practice in a market where there are three dentists on every block. Our [APEX methodology](/local-seo-services/) (Audit, Prioritize, Execute, Expand) gives dental practices a structured, data-driven path from invisibility to dominance in local search.
+At LocalCatalyst, dental SEO is one of our strongest verticals. We understand the specific competitive dynamics that dental practices face — competition from DSOs (Dental Service Organizations) with massive marketing budgets, aggregator platforms like Zocdoc and 1-800-DENTIST that insert themselves between you and your patients, and the challenge of differentiating a general practice in a market where there are three dentists on every block. Our [CATALYST methodology](/local-seo-services/) (Audit, Prioritize, Execute, Expand) gives dental practices a structured, data-driven path from invisibility to dominance in local search.
 
 Want to know exactly where your practice stands right now? [Request a free SEO audit](/free-seo-audit/) and we will map your visibility across a geo-grid of your service area — showing you where you rank, where you are invisible, and where the biggest patient acquisition opportunities are hiding.
 
@@ -125,7 +125,7 @@ But you can win on the signals they cannot replicate: genuine local reviews from
 
 ## Results You Can Expect
 
-Dental practices that implement a comprehensive local SEO strategy through our APEX methodology typically see:
+Dental practices that implement a comprehensive local SEO strategy through our CATALYST methodology typically see:
 
 - **40-60% increase in new patient calls** within the first 90 days
 - **Map Pack visibility for 20-30 procedure and location keywords** within 120 days

@@ -38,7 +38,7 @@ If Scout's crawl is incomplete or fails on certain pages, mark those specific it
 
 ## Steps 1-7: Write the Audit
 
-1. **Read the template first:** Load `APEX-AUDIT-TEMPLATE.md` from your workspace directory using the `read` tool before writing any audit content.
+1. **Read the template first:** Load `CATALYST-AUDIT-TEMPLATE.md` from your workspace directory using the `read` tool before writing any audit content.
 2. **Follow every section.** The template has 13 numbered sections. All 13 are required. If you cannot obtain data for a section, mark it "DATA UNAVAILABLE — requires [tool/access]" rather than omitting it.
 3. **Use the Master Scorecard format** (load `skills/scoring-framework.md`) with 0-10 scoring per SPEC item, route averages, and the weighted overall formula: Route 1 (25%) + Route 2 (30%) + Route 4 (25%) + Route 5 (10%) + AI/XP (10%).
 4. **Every score needs a 1-sentence justification.** No naked numbers.
@@ -46,4 +46,4 @@ If Scout's crawl is incomplete or fails on certain pages, mark those specific it
 6. **End with the Agent Dispatch Queue** using the standardized handoff format for Archer.
 7. **Never freestyle the format.** The template exists so every audit is consistent, comparable, and client-ready.
 
-If the template file is not found in your workspace, alert the operator that `APEX-AUDIT-TEMPLATE.md` is missing and needs to be restored before you can produce a compliant audit.
+If the template file is not found in your workspace, alert the operator that `CATALYST-AUDIT-TEMPLATE.md` is missing and needs to be restored before you can produce a compliant audit.

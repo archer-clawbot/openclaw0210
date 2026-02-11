@@ -1,11 +1,11 @@
-# APEX SEO Audit Report
+# CATALYST SEO Audit Report
 ## LocalCatalyst
 ### darkgreen-moose-683278.hostingersite.com
 
 **Audit Date:** February 10, 2026  
-**Prepared By:** LocalCatalyst.ai (Silas - APEX Engine)  
+**Prepared By:** LocalCatalyst.ai (Silas - CATALYST Engine)  
 **Audit Type:** Pre-Launch Foundation Audit  
-**Auditor:** Silas (APEX SEO Engine)
+**Auditor:** Silas (CATALYST SEO Engine)
 
 ---
 
@@ -15,7 +15,7 @@ LocalCatalyst is a local SEO agency in pre-launch foundation phase. The website 
 
 **Critical Finding:** The site has a **blocking technical issue** (robots.txt disallows Googlebot) that prevents any indexing. Even after content deployment, the site will remain invisible to Google until this is fixed.
 
-**Opportunity:** LocalCatalyst has the rare advantage of launching with full APEX optimization from day one rather than retrofitting a broken site. All content, schema, and technical configurations are documented and ready for immediate implementation.
+**Opportunity:** LocalCatalyst has the rare advantage of launching with full CATALYST optimization from day one rather than retrofitting a broken site. All content, schema, and technical configurations are documented and ready for immediate implementation.
 
 ---
 
@@ -26,7 +26,7 @@ LocalCatalyst is a local SEO agency in pre-launch foundation phase. The website 
 - 3-4: Minimal setup, major gaps
 - 5-6: Partial implementation, clear opportunities
 - 7-8: Good, fine-tuning needed
-- 9-10: Fully optimized per APEX spec standards
+- 9-10: Fully optimized per CATALYST spec standards
 
 ```
 ROUTE 1: GBP OPTIMIZATION
@@ -62,7 +62,7 @@ AI/CROSS-PLATFORM
 └── AI Average:                 0.0/10
 
 ════════════════════════════════════
-OVERALL APEX SCORE:              0.1/10
+OVERALL CATALYST SCORE:              0.1/10
 ════════════════════════════════════
 ```
 
@@ -160,7 +160,7 @@ Not applicable (no GBP exists).
 - Hostinger infrastructure appears responsive
 - No obvious performance bottlenecks detected
 
-| Metric | Value | APEX Target | Status |
+| Metric | Value | CATALYST Target | Status |
 |--------|-------|-------------|--------|
 | Page Load Time | ~1200ms | < 2000ms | ✅ Pass (baseline) |
 | TTFB | Not measured | < 200ms | Unknown |
@@ -297,7 +297,7 @@ From Specs Title Tag Audit and Scribe Homepage Content:
 | Element | Prepared Content | Length | Assessment |
 |---------|-----------------|--------|------------|
 | Title | "LocalCatalyst \| Data-Driven Local SEO That Guarantees Results" | 63 chars | ✅ Optimized — keyword-rich, CTA, within limit |
-| Meta Description | "LocalCatalyst delivers transparent local SEO for service businesses. 90-day performance guarantee, real-time dashboards, proven APEX methodology. Get your free audit today." | 175 chars | ✅ Optimized — compelling CTA, benefit-focused (slightly long, can trim to 160) |
+| Meta Description | "LocalCatalyst delivers transparent local SEO for service businesses. 90-day performance guarantee, real-time dashboards, proven CATALYST methodology. Get your free audit today." | 175 chars | ✅ Optimized — compelling CTA, benefit-focused (slightly long, can trim to 160) |
 | H1 | "The Anti-Agency: Local SEO That Actually Works" | 47 chars | ✅ Strong — differentiating, benefit-focused |
 | OG Tags | Spec ready | N/A | ✅ Template prepared in technical audit |
 | Twitter Cards | Spec ready | N/A | ✅ Template prepared in technical audit |
@@ -513,7 +513,7 @@ From Specs Title Tag Audit and Scribe Homepage Content:
 **LocalCatalyst's Differentiation:**
 - ✅ 90-day performance guarantee (rare in industry)
 - ✅ Transparent pricing (most competitors hide pricing)
-- ✅ APEX methodology (proprietary framework)
+- ✅ CATALYST methodology (proprietary framework)
 - ✅ Real-time dashboards (most agencies use monthly PDFs)
 - ✅ Service business specialization (narrow niche focus)
 
@@ -576,7 +576,7 @@ From Specs Title Tag Audit and Scribe Homepage Content:
 - [ ] **Day 5:** Configure conversion tracking (form submissions, phone clicks) (Wrench)
 - [ ] **Day 5:** Set up baseline rank tracking (15-20 keywords) (Lookout)
 
-**Expected Outcome:** Site is live, indexable, tracking configured. APEX score: 0.1 → 3.5/10.
+**Expected Outcome:** Site is live, indexable, tracking configured. CATALYST score: 0.1 → 3.5/10.
 
 ---
 
@@ -593,7 +593,7 @@ From Specs Title Tag Audit and Scribe Homepage Content:
   - "Local SEO Ranking Factors: Complete Guide"
   - "Technical SEO Checklist for Local Businesses"
 
-**Expected Outcome:** Visual identity complete, internal linking structured, LinkedIn presence launched. APEX score: 3.5 → 4.5/10.
+**Expected Outcome:** Visual identity complete, internal linking structured, LinkedIn presence launched. CATALYST score: 3.5 → 4.5/10.
 
 ---
 
@@ -601,13 +601,13 @@ From Specs Title Tag Audit and Scribe Homepage Content:
 - [ ] Publish 3 blog posts (Wrench)
 - [ ] Add FAQ schema to blog posts (Wrench)
 - [ ] Create YouTube channel (Herald)
-- [ ] Record + publish first YouTube video: "LocalCatalyst APEX Methodology Explained" (Scribe + Herald)
+- [ ] Record + publish first YouTube video: "LocalCatalyst CATALYST Methodology Explained" (Scribe + Herald)
 - [ ] Create Twitter/X account (Herald)
 - [ ] Start daily SEO tips on Twitter (Herald — 1 tweet/day)
 - [ ] Write + publish Medium article syndication (Scribe)
 - [ ] Outreach to 10 marketing blogs for guest posting (Scribe)
 
-**Expected Outcome:** Content volume expanding, multi-platform presence established. APEX score: 4.5 → 5.5/10.
+**Expected Outcome:** Content volume expanding, multi-platform presence established. CATALYST score: 4.5 → 5.5/10.
 
 ---
 
@@ -621,7 +621,7 @@ From Specs Title Tag Audit and Scribe Homepage Content:
 - [ ] Medium: 2 long-form articles (Scribe)
 - [ ] Finalize NAP + claim GBP (if physical location established) (Operator decision → Herald)
 
-**Expected Outcome:** Authority signals growing, first backlinks acquired. APEX score: 5.5 → 6.5/10.
+**Expected Outcome:** Authority signals growing, first backlinks acquired. CATALYST score: 5.5 → 6.5/10.
 
 ---
 
@@ -635,7 +635,7 @@ From Specs Title Tag Audit and Scribe Homepage Content:
 - [ ] Guest posts: publish on 3-5 external sites (Scribe)
 - [ ] Review generation system: automate review requests for new clients (Herald)
 
-**Expected Outcome:** Conversion optimization, content machine running, backlink profile growing. APEX score: 6.5 → 7.5/10.
+**Expected Outcome:** Conversion optimization, content machine running, backlink profile growing. CATALYST score: 6.5 → 7.5/10.
 
 ---
 
@@ -846,7 +846,7 @@ EXPECTED TIME: 8-12 hours (initial buildout)
 - **Route 4 (Off-Site):** 0 → 4/10 (50 citations, 10 backlinks, 5 reviews)
 - **Route 5 (Tracking):** 0 → 7/10 (full analytics stack, monthly reports)
 - **AI/XP:** 0 → 3/10 (LinkedIn + YouTube active, first LLM citations)
-- **Overall APEX Score:** 0.1 → 6.5/10
+- **Overall CATALYST Score:** 0.1 → 6.5/10
 
 ### ROI Projection:
 - **Investment (90 days):** ~$0 (DIY) or $5K-8K (if outsourcing execution)
@@ -857,11 +857,11 @@ EXPECTED TIME: 8-12 hours (initial buildout)
   - 2-4 new clients from organic search
   - $6K-12K monthly revenue attributable to SEO
 
-**LocalCatalyst's Advantage:** By documenting and executing its own APEX methodology, the agency becomes the ultimate case study for its own services.
+**LocalCatalyst's Advantage:** By documenting and executing its own CATALYST methodology, the agency becomes the ultimate case study for its own services.
 
 ---
 
-**Prepared by:** Silas (APEX SEO Engine)  
+**Prepared by:** Silas (CATALYST SEO Engine)  
 **Date:** February 10, 2026  
 **Deliverable Path:** `C:\Users\spart\.openclaw\deliverables\localcatalyst\silas\2026-02-10-full-site-seo-audit.md`
 

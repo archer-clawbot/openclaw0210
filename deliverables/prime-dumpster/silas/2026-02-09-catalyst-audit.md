@@ -1,11 +1,11 @@
-# APEX SEO Audit Report
+# CATALYST SEO Audit Report
 ## Prime Dumpster
 ### primedumpster.com
 
 **Audit Date:** February 9, 2026  
 **Prepared By:** LocalCatalyst.ai  
 **Audit Type:** New Client Intake  
-**Auditor:** Silas (APEX Engine)
+**Auditor:** Silas (CATALYST Engine)
 
 ---
 
@@ -22,7 +22,7 @@ Prime Dumpster is a national waste management and site services provider offerin
 - 3-4: Minimal setup, major gaps  
 - 5-6: Partial implementation, clear opportunities
 - 7-8: Good, fine-tuning needed
-- 9-10: Fully optimized per APEX spec standards
+- 9-10: Fully optimized per CATALYST spec standards
 
 ```
 ROUTE 1: GBP OPTIMIZATION
@@ -58,7 +58,7 @@ AI/CROSS-PLATFORM
 └── AI Average:                 1.5/10
 
 ════════════════════════════════════
-OVERALL APEX SCORE:              2.0/10
+OVERALL CATALYST SCORE:              2.0/10
 ════════════════════════════════════
 ```
 
@@ -148,7 +148,7 @@ OVERALL APEX SCORE:              2.0/10
 
 ### 5.1 Performance
 
-| Metric | Value | APEX Target | Status |
+| Metric | Value | CATALYST Target | Status |
 |--------|-------|-------------|--------|
 | Page Load Time | ~2.5s (estimated from Cloudflare/caching) | < 2000ms | MARGINAL |
 | TTFB | Unknown (needs GTmetrix/PageSpeed test) | < 200ms | UNTESTED |
@@ -464,9 +464,9 @@ DISPATCH QUEUE — Prime Dumpster — February 9, 2026
 
 | Service Tier | Monthly Cost | Duration | Scope |
 |--------------|-------------|----------|-------|
-| APEX Phase 1 (Emergency + Foundation) | $2,500-$3,500 | Months 1-2 | Reputation repair, schema deployment, GBP optimization, NAP cleanup, 50 citations, geo-grid tracking setup |
-| APEX Phase 2 (Architecture + Authority) | $3,500-$5,000 | Months 3-6 | Location silo buildout, grounding boxes, review generation system, LLM targeting, link acquisition |
-| APEX Maintenance | $1,500-$2,000 | Ongoing | Weekly GBP posts, monthly reports, review monitoring, quarterly LLM tests, citation monitoring |
+| CATALYST Phase 1 (Emergency + Foundation) | $2,500-$3,500 | Months 1-2 | Reputation repair, schema deployment, GBP optimization, NAP cleanup, 50 citations, geo-grid tracking setup |
+| CATALYST Phase 2 (Architecture + Authority) | $3,500-$5,000 | Months 3-6 | Location silo buildout, grounding boxes, review generation system, LLM targeting, link acquisition |
+| CATALYST Maintenance | $1,500-$2,000 | Ongoing | Weekly GBP posts, monthly reports, review monitoring, quarterly LLM tests, citation monitoring |
 
 **Projected ROI:**
 
@@ -524,12 +524,12 @@ Based on industry benchmarks for dumpster rental businesses:
 - Competitors will continue to dominate Map Pack, capture 80%+ of local search intent
 - NAP inconsistency will confuse Google and users, diluting any future SEO efforts
 
-**What Happens If They Execute the APEX Plan:**
+**What Happens If They Execute the CATALYST Plan:**
 - Month 3: 4.0+ Google rating, Map Pack appearances for 5-10 keywords, 50+ organic leads/month
 - Month 6: 4.2+ Google rating, Map Pack rank #1-3 for 10+ keywords, 80+ organic leads/month, 2x revenue from SEO
 - Month 12: 4.5+ Google rating, dominant Map Pack presence, 150+ organic leads/month, 4x revenue from SEO, reduced PPC dependency
 
 ---
 
-*Prepared using the APEX SEO Methodology by LocalCatalyst.ai*  
+*Prepared using the CATALYST SEO Methodology by LocalCatalyst.ai*  
 **Next Step:** Operator review + business model clarification call → Approve Phase 1 budget → Deploy Review Response + Schema + GBP optimization (Week 1 kickoff)

@@ -90,7 +90,7 @@ Here is something most businesses do not realize: your map pack ranking is not a
 
 Geo-grid tracking (also called local rank tracking or grid-based rank tracking) solves this by measuring your map pack position from dozens or hundreds of geographic points across your service area. The result is a heatmap that shows exactly where you are visible and where you are not.
 
-At LocalCatalyst, we use geo-grid tracking as a core part of our APEX Methodology. It reveals competitive gaps that single-point rank tracking misses entirely and allows us to build hyper-targeted strategies for expanding your map pack footprint outward from your business location.
+At LocalCatalyst, we use geo-grid tracking as a core part of our CATALYST Methodology. It reveals competitive gaps that single-point rank tracking misses entirely and allows us to build hyper-targeted strategies for expanding your map pack footprint outward from your business location.
 
 ## Local Pack vs. Organic: Why You Need Both
 
@@ -123,4 +123,4 @@ Treating the GBP as a set-it-and-forget-it listing. The businesses that dominate
 
 The map pack is where local customers find local businesses. If you are not visible in those three positions for your highest-value keywords, your competitors are capturing that demand.
 
-LocalCatalyst's APEX Methodology combines GBP optimization, citation management, review strategy, and geo-grid tracking into a unified system that expands your map pack visibility methodically. [Schedule a free map pack audit](/contact/) and see exactly where you rank — and where you are missing — across your entire service area.
+LocalCatalyst's CATALYST Methodology combines GBP optimization, citation management, review strategy, and geo-grid tracking into a unified system that expands your map pack visibility methodically. [Schedule a free map pack audit](/contact/) and see exactly where you rank — and where you are missing — across your entire service area.

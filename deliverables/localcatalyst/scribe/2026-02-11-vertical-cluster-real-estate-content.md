@@ -112,7 +112,7 @@ Real estate content marketing should be measured by outcomes, not vanity metrics
 - **Time on page and engagement** — do readers consume the full piece, or do they bounce immediately?
 - **Backlinks earned** — high-quality neighborhood guides and market reports naturally attract links from local media, relocation sites, and community organizations
 
-Our APEX methodology includes a measurement framework built around SoLV (Share of Local Voice) and WVS (Weighted Visibility Score) metrics that track your content's performance relative to competitors across every keyword and neighborhood in your market.
+Our CATALYST methodology includes a measurement framework built around SoLV (Share of Local Voice) and WVS (Weighted Visibility Score) metrics that track your content's performance relative to competitors across every keyword and neighborhood in your market.
 
 ## Frequently Asked Questions
 

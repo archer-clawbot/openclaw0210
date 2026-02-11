@@ -79,9 +79,9 @@ Over 60% of local searches happen on mobile devices. Google uses mobile-first in
 
 We don't start with a theme and customize it. We start with your business goals, your keyword landscape, and your competitive environment — then we engineer a website around them.
 
-### The APEX Methodology Applied to Web Design
+### The CATALYST Methodology Applied to Web Design
 
-Our [APEX framework](/seo-audit-services/) (Audit, Prioritize, Execute, Expand) drives every engagement, including website builds:
+Our [CATALYST framework](/seo-audit-services/) (Audit, Prioritize, Execute, Expand) drives every engagement, including website builds:
 
 1. **Audit:** We analyze your current site's technical health, your competitors' site architectures, and your keyword opportunity landscape
 2. **Prioritize:** We map your highest-value service keywords to a site architecture that maximizes topical authority

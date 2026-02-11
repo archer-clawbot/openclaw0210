@@ -1,14 +1,14 @@
-# LocalCatalyst — Our Process: The APEX Methodology
+# LocalCatalyst — Our Process: The CATALYST Methodology
 **Client:** LocalCatalyst
 **Deliverable:** Conversion/Supporting Page
 **Date:** 2026-02-11
 **Agent:** Scribe
 **URL:** /about/our-process/
 **Primary Keyword:** SEO process
-**Secondary Keywords:** APEX methodology, local SEO methodology, SEO strategy process, local SEO framework
-**Title Tag:** Our Process: The APEX Methodology | LocalCatalyst.ai
-**Meta Description:** See exactly how we take local businesses from invisible to dominant. Our APEX methodology — Audit, Prioritize, Execute, Expand — is the system behind every ranking we earn.
-**H1:** Our Process: The APEX Methodology
+**Secondary Keywords:** CATALYST methodology, local SEO methodology, SEO strategy process, local SEO framework
+**Title Tag:** Our Process: The CATALYST Methodology | LocalCatalyst.ai
+**Meta Description:** See exactly how we take local businesses from invisible to dominant. Our CATALYST methodology — Audit, Prioritize, Execute, Expand — is the system behind every ranking we earn.
+**H1:** Our Process: The CATALYST Methodology
 **Word Count Target:** 1,500
 
 ---
@@ -19,11 +19,11 @@ Most SEO agencies wing it. They run a few tools, make some changes, send a month
 
 We've seen what that looks like from the client's side. Businesses that have been paying $1,500/month for a year and can't tell you what was done last Tuesday. Agencies that "optimize" a Google Business Profile once and call it managed. Reports full of vanity metrics that mean nothing to a business owner trying to fill their schedule.
 
-**We built the APEX methodology because local SEO is too important to improvise.**
+**We built the CATALYST methodology because local SEO is too important to improvise.**
 
-APEX stands for **Audit, Prioritize, Execute, Expand**. It's a four-phase framework that turns local SEO from a vague monthly expense into a measurable, accountable system with clear milestones, defined deliverables, and transparent reporting at every stage.
+CATALYST stands for **Audit, Prioritize, Execute, Expand**. It's a four-phase framework that turns local SEO from a vague monthly expense into a measurable, accountable system with clear milestones, defined deliverables, and transparent reporting at every stage.
 
-Every LocalCatalyst engagement follows this exact process. Whether you're a single-location dentist or a multi-location HVAC company, APEX is how we take you from wherever you are to wherever you need to be.
+Every LocalCatalyst engagement follows this exact process. Whether you're a single-location dentist or a multi-location HVAC company, CATALYST is how we take you from wherever you are to wherever you need to be.
 
 ---
 

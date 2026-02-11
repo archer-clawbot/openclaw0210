@@ -265,11 +265,11 @@ Edit the imported homepage using Elementor:
   - CTA: "Learn More"
 - Card styling: White background, 1px border, rounded corners, hover lift effect
 
-**Section 6: APEX Framework (2-Column Alternating)**
-- Section 6A: "The APEX Framework"
+**Section 6: CATALYST Framework (2-Column Alternating)**
+- Section 6A: "The CATALYST Framework"
   - Left: Image (500x400px)
   - Right: Text
-  - Headline: "The APEX Framework"
+  - Headline: "The CATALYST Framework"
   - Paragraph: "Our proprietary 5-step methodology..."
   - List with icons:
     - Analyze
@@ -535,7 +535,7 @@ Each service page should follow this structure:
 - Each: Icon/image + name + year
 
 **Section 6: Why Choose Us (4-Column Grid)**
-- Card 1: "Proprietary APEX Framework" (icon + description)
+- Card 1: "Proprietary CATALYST Framework" (icon + description)
 - Card 2: "Data-Driven Methodology" (icon + description)
 - Card 3: "Transparent Reporting" (icon + description)
 - Card 4: "Dedicated Account Manager" (icon + description)
@@ -1055,7 +1055,7 @@ Create in Fluent Forms:
 **Homepage:**
 - Hero image: 1200x600px (illustration of search results/map)
 - Service card icons: 48x48px (SVG preferred, or PNG)
-- APEX Framework section images: 500x400px each
+- CATALYST Framework section images: 500x400px each
 - Testimonial avatars: 80x80px each
 - Case study featured images: 500x300px each
 

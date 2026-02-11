@@ -43,7 +43,7 @@ The Local SEO Agency That Puts You on the Map
 **H1:** The Local SEO Agency That Puts You on the Map
 
 **Subheadline:**  
-We help local businesses dominate Google Maps, rank #1 in local search, and turn searches into customers using our proven APEX methodology.
+We help local businesses dominate Google Maps, rank #1 in local search, and turn searches into customers using our proven CATALYST methodology.
 
 **Hero CTA:**  
 [Primary Button] Get Your Free SEO Audit  
@@ -77,8 +77,8 @@ We help local businesses dominate Google Maps, rank #1 in local search, and turn
 
 ---
 
-### Section 2: The Solution (APEX Methodology)
-**H2:** The APEX Methodology: How We Dominate Local Search
+### Section 2: The Solution (CATALYST Methodology)
+**H2:** The CATALYST Methodology: How We Dominate Local Search
 
 **Content:**  
 Introduce the proprietary framework (builds authority and differentiates):
@@ -90,7 +90,7 @@ Introduce the proprietary framework (builds authority and differentiates):
 
 **Visual:** Circular diagram or 4-quadrant visual showing the methodology
 
-**CTA:** "See How APEX Works" → links to /seo-agency/ or methodology page
+**CTA:** "See How CATALYST Works" → links to /seo-agency/ or methodology page
 
 ---
 
@@ -134,7 +134,7 @@ Featured case study cards (3 max):
 
 **Case Study 1: [Industry] Client**
 - **Challenge:** Not ranking in Map Pack
-- **Solution:** APEX GBP optimization + location silos
+- **Solution:** CATALYST GBP optimization + location silos
 - **Results:** #1 Map Pack for 14/18 primary keywords in 8 weeks
 - [Read Full Case Study →]
 
@@ -378,7 +378,7 @@ Timeline or step-by-step visual:
 ## VISUAL ASSET REQUIREMENTS
 
 1. **Hero Image/Video:** Dashboard or Map Pack rankings visualization
-2. **APEX Methodology Diagram:** Custom illustration of 4-phase process
+2. **CATALYST Methodology Diagram:** Custom illustration of 4-phase process
 3. **Service Icons:** 4 unique icons for each service
 4. **Case Study Images:** Client logos or before/after screenshots (with permission)
 5. **Team Photo:** For trust building (optional, if not using headshots on About page)

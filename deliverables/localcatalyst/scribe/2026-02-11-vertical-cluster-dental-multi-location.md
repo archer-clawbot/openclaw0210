@@ -181,6 +181,6 @@ Yes, if the locations serve different geographic areas and the search has clear 
 
 ## Scale Your Dental Group's Visibility
 
-Multi-location dental SEO is a systems problem, not a content problem. The practices that scale successfully build repeatable processes for location launches, review generation, citation management, and performance tracking. LocalCatalyst's APEX Methodology is built for exactly this — systematic, location-level optimization that scales without losing quality.
+Multi-location dental SEO is a systems problem, not a content problem. The practices that scale successfully build repeatable processes for location launches, review generation, citation management, and performance tracking. LocalCatalyst's CATALYST Methodology is built for exactly this — systematic, location-level optimization that scales without losing quality.
 
 [Request your free SEO audit](/free-seo-audit/) and we'll analyze the local visibility of every one of your locations, showing you exactly where each office stands and what it needs to compete.

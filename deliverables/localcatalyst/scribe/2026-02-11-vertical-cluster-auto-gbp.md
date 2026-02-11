@@ -176,7 +176,7 @@ Report the listing through Google's Business Redressal Complaint Form. Keyword-s
 
 ## Turn Your GBP Into Your Best Salesperson
 
-Your Google Business Profile should work as hard as your best service advisor — generating leads, building trust, and putting customers in your service bays. Our APEX methodology includes a complete GBP audit and optimization plan tailored to auto repair shops.
+Your Google Business Profile should work as hard as your best service advisor — generating leads, building trust, and putting customers in your service bays. Our CATALYST methodology includes a complete GBP audit and optimization plan tailored to auto repair shops.
 
 [Request a Free SEO Audit](/free-seo-audit/) to see how your GBP stacks up against the top-ranking shops in your market.
 

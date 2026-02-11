@@ -117,7 +117,7 @@ Track each neighborhood page individually to understand which communities genera
 - **Lead attribution** — which neighborhood pages generate form submissions, phone calls, or email inquiries?
 - **Comparative performance** — geo-grid tracking using tools like Local Falcon to visualize your Map Pack visibility at the neighborhood level
 
-Our APEX methodology includes geo-grid tracking that maps your visibility across every neighborhood in your market, showing exactly where you dominate, where you are competitive, and where you need to build.
+Our CATALYST methodology includes geo-grid tracking that maps your visibility across every neighborhood in your market, showing exactly where you dominate, where you are competitive, and where you need to build.
 
 ## Frequently Asked Questions
 

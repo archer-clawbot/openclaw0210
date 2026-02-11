@@ -142,7 +142,7 @@ Each service page should target one primary keyword (e.g., "AC repair Austin") a
 
 ## Find the Keywords That Fill Your Schedule
 
-The right keyword strategy turns your website into a lead generation machine that works 24/7. Our APEX methodology begins with comprehensive keyword research that maps the entire opportunity landscape for your trade and market.
+The right keyword strategy turns your website into a lead generation machine that works 24/7. Our CATALYST methodology begins with comprehensive keyword research that maps the entire opportunity landscape for your trade and market.
 
 [Request a Free SEO Audit](/free-seo-audit/) to see which keywords you are ranking for, which you are missing, and where the biggest opportunities lie.
 

@@ -147,7 +147,7 @@ Yes. Even a brief "Thank you for the rating! We appreciate your trust." signals 
 
 ## Get Your Realtor GBP Performing at Its Full Potential
 
-Most real estate agents are leaving Map Pack visibility on the table by neglecting their Google Business Profile. Our APEX methodology includes a complete GBP audit that identifies every missed optimization opportunity and builds a management plan that keeps your profile active, visible, and generating leads.
+Most real estate agents are leaving Map Pack visibility on the table by neglecting their Google Business Profile. Our CATALYST methodology includes a complete GBP audit that identifies every missed optimization opportunity and builds a management plan that keeps your profile active, visible, and generating leads.
 
 [Request a Free SEO Audit](/free-seo-audit/) to see how your GBP stacks up against the top-ranking agents in your market.
 

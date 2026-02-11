@@ -426,7 +426,7 @@ Position 6-10: Mid-authority sites with guides
 
 **Content Requirements:**
 - 1,500-2,000 words
-- Methodology section (APEX framework)
+- Methodology section (CATALYST framework)
 - Before/after case study
 - FAQ section (target "people also ask" questions)
 - Call-to-action
@@ -503,7 +503,7 @@ Position 6-10: Mid-authority sites with guides
 
 | Post Title | Target Keyword | Purpose |
 |-----------|----------------|---------|
-| How We Rank Clients #1 Locally: The APEX Framework | local seo methodology | Thought leadership |
+| How We Rank Clients #1 Locally: The CATALYST Framework | local seo methodology | Thought leadership |
 | Why Technical SEO + Local SEO Together (not separate) | technical seo + local | Positioning |
 | Competitor Analysis: [Top 3 Local SEO Agencies] | competitive research | Authority building |
 | GBP Algorithm Changes 2026 | gbp updates | Trend monitoring |
@@ -605,7 +605,7 @@ Content Metrics:
 To compete with established players, LocalCatalyst should:
 
 1. **Content Depth:** Aim for 2,000-2,500 word service pages (vs. competitors' 800-1,200)
-2. **Methodology Transparency:** Publish the APEX framework in detailed how-to format
+2. **Methodology Transparency:** Publish the CATALYST framework in detailed how-to format
 3. **Technical Authority:** Combine local SEO with technical SEO expertise (unique angle)
 4. **Long-Form Guides:** Create 3,000-5,000 word comprehensive guides on each service
 5. **Video Content:** Competitors lack strong video strategy → opportunity

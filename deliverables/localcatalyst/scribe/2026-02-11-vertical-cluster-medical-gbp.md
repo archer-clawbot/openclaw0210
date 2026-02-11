@@ -147,6 +147,6 @@ Use your primary office phone number as the primary number on your GBP. If you n
 
 ## Get Your Practice Into the Local Pack
 
-If your medical practice isn't showing up in Google's local 3-pack for your core specialties and service areas, you're losing patients to competitors who've optimized their profiles. LocalCatalyst's APEX Methodology starts with a comprehensive audit of your current GBP performance, competitive landscape, and local visibility gaps.
+If your medical practice isn't showing up in Google's local 3-pack for your core specialties and service areas, you're losing patients to competitors who've optimized their profiles. LocalCatalyst's CATALYST Methodology starts with a comprehensive audit of your current GBP performance, competitive landscape, and local visibility gaps.
 
 [Request your free SEO audit](/free-seo-audit/) and we'll show you exactly where your practice stands — and what it takes to get into the top 3.

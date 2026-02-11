@@ -300,7 +300,7 @@ OVERALL READINESS SCORE:            [ /10]
 - 3: Basic description, no entity co-citations
 - 5: Keyword-optimized but missing authority signals
 - 7: Entity co-citations + credentials + geo-modifiers
-- 10: Full "Local Hub Gambit" implementation with all APEX elements
+- 10: Full "Local Hub Gambit" implementation with all CATALYST elements
 
 **SPEC-008 (Schema) scoring:**
 - 0: No schema markup
@@ -348,7 +348,7 @@ Priority = Impact × (6 - Effort)
 
 ### 6.2 Standard Priority Stack
 
-Based on the APEX 5-phase implementation order, here's the default priority stack:
+Based on the CATALYST 5-phase implementation order, here's the default priority stack:
 
 ```
 PRIORITY TIER 1 — "Quick Wins" (Week 1-2)
@@ -744,7 +744,7 @@ Layer 1: Identity and behavior rules
   - Communication style with operator
   - Escalation rules
 
-Layer 2: APEX playbook (condensed)
+Layer 2: CATALYST playbook (condensed)
   - Priority stack defaults
   - Scoring rubrics
   - Phase sequence

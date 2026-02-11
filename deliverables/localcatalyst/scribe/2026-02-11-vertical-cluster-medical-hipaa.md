@@ -138,7 +138,7 @@ The core of local SEO — the activities that most directly impact your local pa
 
 These activities use only business-level information. They don't touch patient data, don't require access to your EHR, and don't involve any individually identifiable health information. This is where the bulk of your SEO investment should focus, and it's entirely risk-free from a HIPAA perspective.
 
-LocalCatalyst's APEX Methodology operates entirely within these compliant boundaries. Our geo-grid tracking, Share of Local Voice analysis, and Weighted Visibility Score metrics use only publicly available search data — never patient information.
+LocalCatalyst's CATALYST Methodology operates entirely within these compliant boundaries. Our geo-grid tracking, Share of Local Voice analysis, and Weighted Visibility Score metrics use only publicly available search data — never patient information.
 
 ## Building a HIPAA-SEO Compliance Checklist
 

@@ -49,7 +49,7 @@ The practice was losing new patients every day — not to better doctors, but to
 
 ## The Strategy
 
-We deployed our APEX methodology across a focused 90-day sprint, sequencing every action by expected impact.
+We deployed our CATALYST methodology across a focused 90-day sprint, sequencing every action by expected impact.
 
 ### Month 1: Audit and Foundation (Weeks 1-4)
 

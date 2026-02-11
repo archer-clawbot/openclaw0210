@@ -22,7 +22,7 @@ If your medical practice is not visible in those results — in the Map Pack, in
 
 The challenge is that medical practice SEO is not like SEO for a plumber or a restaurant. Healthcare content falls under Google's YMYL (Your Money or Your Life) classification, which means it faces the highest scrutiny for accuracy, authority, and trustworthiness. HIPAA compliance adds constraints that most SEO agencies do not understand. And the competitive landscape includes not just other private practices, but hospital systems with massive domain authority and aggregator platforms like Zocdoc, Healthgrades, and WebMD that dominate search results for medical queries.
 
-At LocalCatalyst, we specialize in [local SEO](/local-seo-services/) strategies built specifically for medical practices — strategies that navigate YMYL requirements, respect HIPAA constraints, and compete effectively against both hospital systems and aggregator platforms. Our [APEX methodology](/local-seo-services/) (Audit, Prioritize, Execute, Expand) provides the structured, data-driven framework that healthcare marketing requires.
+At LocalCatalyst, we specialize in [local SEO](/local-seo-services/) strategies built specifically for medical practices — strategies that navigate YMYL requirements, respect HIPAA constraints, and compete effectively against both hospital systems and aggregator platforms. Our [CATALYST methodology](/local-seo-services/) (Audit, Prioritize, Execute, Expand) provides the structured, data-driven framework that healthcare marketing requires.
 
 If you want to know exactly where your practice stands in local search right now, [request a free SEO audit](/free-seo-audit/). We will map your visibility across a geo-grid of your service area and identify every opportunity you are currently missing.
 
@@ -114,7 +114,7 @@ A medical practice website must do more than look professional — it must meet 
 
 ## Results You Can Expect
 
-We do not make promises without data to back them. Medical practices that implement a comprehensive local SEO strategy through our APEX methodology typically see:
+We do not make promises without data to back them. Medical practices that implement a comprehensive local SEO strategy through our CATALYST methodology typically see:
 
 - **30-50% increase in new patient calls** within the first 90 days
 - **Map Pack visibility for 15-25 high-intent keywords** within 120 days

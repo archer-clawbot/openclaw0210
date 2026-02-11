@@ -99,7 +99,7 @@ This finds domains that ALREADY link to businesses in the client's vertical and 
 4. Check domain availability
 ```
 
-**Method 6 — Phone Number Reverse Prospecting (APEX Method):**
+**Method 6 — Phone Number Reverse Prospecting (CATALYST Method):**
 This is the highest-value prospecting technique. Most SEOs miss it entirely.
 ```
 1. Find an expired domain with a local business history
@@ -188,7 +188,7 @@ SAFETY METRICS:
 □ Anchor Text Profile:            (Pass/Fail)
   - Natural anchor distribution = Pass | Spammy exact-match anchors = Fail
 
-ENTITY GHOST METRICS (APEX — highest-value signal):
+ENTITY GHOST METRICS (CATALYST — highest-value signal):
 □ Citation Trail:                  (Score: 0-15)
   - Search "domain.com" in quotes
   - Do results appear on Yelp, MapQuest, YellowPages, Manta?
@@ -222,7 +222,7 @@ RECOMMENDATION:
 Beyond the scorecard, Silas reviews the actual backlink profile:
 
 ```
-STEP 1: THE "LOCAL LINK" AUDIT (APEX — Most critical step)
+STEP 1: THE "LOCAL LINK" AUDIT (CATALYST — Most critical step)
 Open the domain's backlink profile in Ahrefs/SEMrush.
 Search WITHIN the backlinks for the target city name (e.g., "Fort Lauderdale").
 
@@ -350,7 +350,7 @@ Map the redirect to the most relevant page on the client's site:
 - A page that doesn't match the expired domain's topical context
 - Multiple pages (you can only 301 to one destination per domain, unless you do page-level mapping)
 
-### 6.4 CID Entity Merge Redirect (APEX Technique)
+### 6.4 CID Entity Merge Redirect (CATALYST Technique)
 
 If the expired domain scored high on Entity Ghost metrics (§4.1) — meaning it had an active or permanently closed GBP listing — you can redirect it to the client's Google Maps CID link. This tells Google that the old entity at the expired domain's location has "moved" to the client's location.
 

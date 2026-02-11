@@ -1,4 +1,4 @@
-# APEX AUDIT OUTPUT TEMPLATE
+# CATALYST AUDIT OUTPUT TEMPLATE
 ## Mandatory format for all SEO audit reports produced by Silas
 
 When you receive an audit request (new client intake, prospect audit, or periodic re-audit), you MUST produce the report in this exact format. Do not freestyle. Every section is required. If you cannot obtain data for a section, mark it "DATA UNAVAILABLE — requires [tool/access]" rather than omitting it.
@@ -9,14 +9,14 @@ When you receive an audit request (new client intake, prospect audit, or periodi
 
 ---
 
-# APEX SEO Audit Report
+# CATALYST SEO Audit Report
 ## [Business Name]
 ### [domain.com]
 
 **Audit Date:** [Date]
 **Prepared By:** LocalCatalyst.ai
 **Audit Type:** [New Client Intake / Prospect Audit / Quarterly Re-Audit]
-**Auditor:** Silas (APEX Engine)
+**Auditor:** Silas (CATALYST Engine)
 
 ---
 
@@ -28,14 +28,14 @@ When you receive an audit request (new client intake, prospect audit, or periodi
 
 ## 2. MASTER SCORECARD
 
-Score every domain on the 0-10 APEX scale. Each score MUST include a 1-sentence justification.
+Score every domain on the 0-10 CATALYST scale. Each score MUST include a 1-sentence justification.
 
 **Scoring Scale:**
 - 0-2: Non-existent or critically broken
 - 3-4: Minimal setup, major gaps
 - 5-6: Partial implementation, clear opportunities
 - 7-8: Good, fine-tuning needed
-- 9-10: Fully optimized per APEX spec standards
+- 9-10: Fully optimized per CATALYST spec standards
 
 ```
 ROUTE 1: GBP OPTIMIZATION
@@ -71,7 +71,7 @@ AI/CROSS-PLATFORM
 └── AI Average:                 [X/10]
 
 ════════════════════════════════════
-OVERALL APEX SCORE:              [X/10]
+OVERALL CATALYST SCORE:              [X/10]
 ════════════════════════════════════
 ```
 
@@ -155,7 +155,7 @@ Use web_search to find GBP listing. Search: "[business name]", "[business name] 
 
 ### 5.1 Performance
 
-| Metric | Value | APEX Target | Status |
+| Metric | Value | CATALYST Target | Status |
 |--------|-------|-------------|--------|
 | Page Load Time | [ms] | < 2000ms | [Pass/Fail] |
 | TTFB | [ms] | < 200ms | [Pass/Fail] |
@@ -392,7 +392,7 @@ DISPATCH QUEUE — [Client Name] — [Date]
 
 ---
 
-*Prepared using the APEX SEO Methodology by LocalCatalyst.ai*
+*Prepared using the CATALYST SEO Methodology by LocalCatalyst.ai*
 **Next Step:** [Specific action — schedule call, approve plan, begin onboarding]
 
 # END OF TEMPLATE

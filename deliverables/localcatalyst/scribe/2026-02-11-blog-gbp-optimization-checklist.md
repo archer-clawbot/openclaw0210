@@ -151,4 +151,4 @@ Initial improvements in profile views and customer actions typically appear with
 
 A fully optimized Google Business Profile is not a one-time project. It is an ongoing competitive advantage that requires weekly attention. The businesses that dominate the local pack are the ones that treat their GBP as a living marketing channel — consistently posting, responding, uploading, and refining.
 
-Download this checklist, assign ownership, and work through it systematically. If you want expert guidance or a full GBP audit using our APEX Methodology with geo-grid tracking, [contact LocalCatalyst](/contact/) to schedule a consultation. We will show you exactly where your profile stands against local competitors and build a plan to close every gap.
+Download this checklist, assign ownership, and work through it systematically. If you want expert guidance or a full GBP audit using our CATALYST Methodology with geo-grid tracking, [contact LocalCatalyst](/contact/) to schedule a consultation. We will show you exactly where your profile stands against local competitors and build a plan to close every gap.

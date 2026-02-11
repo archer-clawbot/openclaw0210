@@ -22,7 +22,7 @@ Restaurant SEO is different from virtually every other local SEO vertical becaus
 
 That compressed decision cycle means everything visible in those first 60 seconds must be perfect: your Map Pack position, your star rating, your photo quality, your menu accessibility, and your review volume. There is no second chance to make an impression.
 
-At LocalCatalyst, we build restaurant SEO strategies that optimize every element of this discovery-to-visit journey. Our [APEX methodology](/local-seo-services/) (Audit, Prioritize, Execute, Expand) gives restaurants a structured path from invisible to indispensable in their local market — whether you are a neighborhood bistro, a multi-location fast casual chain, or a fine dining destination.
+At LocalCatalyst, we build restaurant SEO strategies that optimize every element of this discovery-to-visit journey. Our [CATALYST methodology](/local-seo-services/) (Audit, Prioritize, Execute, Expand) gives restaurants a structured path from invisible to indispensable in their local market — whether you are a neighborhood bistro, a multi-location fast casual chain, or a fine dining destination.
 
 Want to see where your restaurant shows up (and where it does not)? [Request a free SEO audit](/free-seo-audit/) and we will map your visibility across every relevant search in your area.
 
@@ -136,7 +136,7 @@ Happy hour pages, cocktail menu content, event listings for live music or trivia
 
 ## Results You Can Expect
 
-Restaurants that implement a comprehensive local SEO strategy through our APEX methodology typically see:
+Restaurants that implement a comprehensive local SEO strategy through our CATALYST methodology typically see:
 
 - **Map Pack position for primary cuisine and neighborhood terms** within 60 days
 - **200-400% increase in GBP views** within 90 days

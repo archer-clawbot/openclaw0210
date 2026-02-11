@@ -16,7 +16,7 @@ A dog limps after a bad landing at the park. A cat stops eating for two days. A 
 
 The U.S. veterinary services industry exceeds $70 billion in annual revenue, with more than 32,000 veterinary practices serving a pet-owning population that continues to grow. Americans now spend more on their pets than ever before, and the majority of pet owners consider their animals family members. That emotional connection drives search behavior that is uniquely advantageous for well-optimized veterinary practices.
 
-This guide explains how veterinary SEO works, which strategies produce the strongest results for animal hospitals and clinics, and how LocalCatalyst's APEX Methodology helps practices fill every appointment slot.
+This guide explains how veterinary SEO works, which strategies produce the strongest results for animal hospitals and clinics, and how LocalCatalyst's CATALYST Methodology helps practices fill every appointment slot.
 
 ## How Pet Owners Search for a Veterinarian
 

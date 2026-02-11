@@ -5,9 +5,9 @@ const MarkdownIt = require('markdown-it');
 // ---------- Metadata extraction ----------
 
 /**
- * Extract structured metadata from the APEX audit header.
+ * Extract structured metadata from the CATALYST audit header.
  * Looks for the standard pattern:
- *   # APEX SEO Audit Report
+ *   # CATALYST SEO Audit Report
  *   ## Business Name
  *   ### domain.com
  *   **Audit Date:** ...

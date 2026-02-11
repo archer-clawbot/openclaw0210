@@ -214,7 +214,7 @@ A link from Page A to Page B is good. Links between A and B (with relevant conte
 
 Internal linking amplifies every other on-page optimization you perform. Well-optimized [title tags](/on-page-seo-services/title-tag-optimization/) attract clicks, but internal links ensure that traffic flows deeper into your site. Strong [technical SEO foundations](/technical-seo-services/) ensure crawlers can follow your internal links efficiently, and [site speed optimization](/technical-seo-services/site-speed-optimization/) guarantees users actually stay long enough to follow them.
 
-At LocalCatalyst, our APEX methodology treats internal linking as architectural infrastructure — not an afterthought. We map, plan, and monitor internal link structures as part of every campaign.
+At LocalCatalyst, our CATALYST methodology treats internal linking as architectural infrastructure — not an afterthought. We map, plan, and monitor internal link structures as part of every campaign.
 
 ## Frequently Asked Questions
 
@@ -240,4 +240,4 @@ Google has stated there's no penalty for having many internal links, but practic
 
 ---
 
-**Is your internal linking strategy working — or working against you?** Our APEX audit reveals orphan pages, broken links, and missed internal linking opportunities that are holding your rankings back. [Request your free SEO audit](/free-seo-audit/) and get an actionable internal linking roadmap.
+**Is your internal linking strategy working — or working against you?** Our CATALYST audit reveals orphan pages, broken links, and missed internal linking opportunities that are holding your rankings back. [Request your free SEO audit](/free-seo-audit/) and get an actionable internal linking roadmap.

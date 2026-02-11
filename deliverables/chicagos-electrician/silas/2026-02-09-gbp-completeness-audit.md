@@ -1,11 +1,11 @@
-# APEX SEO Audit Report
+# CATALYST SEO Audit Report
 ## MCC Electric (dba Chicago's Electrician)
 ### chicagoselectrician.com
 
 **Audit Date:** February 9, 2026
 **Prepared By:** LocalCatalyst.ai
 **Audit Type:** New Client Intake | GBP Completeness Audit
-**Auditor:** Silas (APEX Engine)
+**Auditor:** Silas (CATALYST Engine)
 
 ---
 
@@ -24,7 +24,7 @@ MCC Electric is a family-owned electrical contractor serving the Chicagoland are
 - 3-4: Minimal setup, major gaps
 - 5-6: Partial implementation, clear opportunities
 - 7-8: Good, fine-tuning needed
-- 9-10: Fully optimized per APEX spec standards
+- 9-10: Fully optimized per CATALYST spec standards
 
 ```
 ROUTE 1: GBP OPTIMIZATION
@@ -60,7 +60,7 @@ AI/CROSS-PLATFORM
 └── AI Average:                 1.5/10
 
 ════════════════════════════════════
-OVERALL APEX SCORE:              2.4/10
+OVERALL CATALYST SCORE:              2.4/10
 ════════════════════════════════════
 ```
 
@@ -150,7 +150,7 @@ OVERALL APEX SCORE:              2.4/10
 | Services | **0 / Not visible** | No custom service entries; missing keyword micro-landing pages |
 | Description | **MISSING** | No 750-char description; zero entity co-citations, LSI keywords, or Local Hub Gambit |
 
-**Assessment:** GBP content is **barren**. The profile functions as a digital business card only—no content marketing, no keyword optimization, no justification snippet targeting. This is a **0/10 GBP by APEX standards**.
+**Assessment:** GBP content is **barren**. The profile functions as a digital business card only—no content marketing, no keyword optimization, no justification snippet targeting. This is a **0/10 GBP by CATALYST standards**.
 
 ### 4.3 Reviews
 
@@ -185,7 +185,7 @@ OVERALL APEX SCORE:              2.4/10
 
 ### 5.1 Performance
 
-| Metric | Value | APEX Target | Status |
+| Metric | Value | CATALYST Target | Status |
 |--------|-------|-------------|--------|
 | Page Load Time | Unknown | < 2000ms | **UNKNOWN — requires PageSpeed Insights scan** |
 | TTFB | Unknown | < 200ms | **UNKNOWN** |
@@ -582,7 +582,7 @@ TIER 3 — PENDING OPERATOR APPROVAL / CLIENT ACCESS NEEDED
 
 ## 12. INVESTMENT & ROI PROJECTION
 
-**Service Tier:** APEX Active Optimization (Month 1-3)
+**Service Tier:** CATALYST Active Optimization (Month 1-3)
 
 | Service Component | Estimated Hours | Notes |
 |------------------|----------------|-------|
@@ -623,6 +623,6 @@ MCC Electric has a **solid reputation foundation** (4.9 stars, 73 reviews, owner
 
 ---
 
-*Prepared using the APEX SEO Methodology by LocalCatalyst.ai*
+*Prepared using the CATALYST SEO Methodology by LocalCatalyst.ai*
 
 **Next Step:** Route to Archer for agent dispatch → Herald for GBP execution + Wrench for schema fix + Citadel for citation cleanup

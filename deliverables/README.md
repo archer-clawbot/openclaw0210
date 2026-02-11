@@ -18,7 +18,7 @@ deliverables/
 deliverables/
   chicagos-electrician/
     silas/
-      2026-02-09-apex-audit.md
+      2026-02-09-catalyst-audit.md
       2026-02-15-quarterly-content-audit.md
     specs/
       2026-02-08-title-tag-optimization.md

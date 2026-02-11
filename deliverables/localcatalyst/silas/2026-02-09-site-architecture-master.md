@@ -2,7 +2,7 @@
 
 **Agency:** LocalCatalyst  
 **Domain:** TBD (staging: https://darkgreen-moose-683278.hostingersite.com)  
-**Prepared by:** Silas (APEX SEO Agent)  
+**Prepared by:** Silas (CATALYST SEO Agent)  
 **Date:** February 9, 2026
 
 ---
@@ -466,7 +466,7 @@ Sitemap: https://localcatalyst.com/sitemap.xml
 ## COMPETITIVE POSITIONING
 
 ### Unique Value Propositions to Emphasize
-1. **APEX Methodology** (proprietary framework for local SEO)
+1. **CATALYST Methodology** (proprietary framework for local SEO)
 2. **Data-Driven Approach** (SoLV, WVS, geo-grid tracking)
 3. **GBP Specialization** (deep expertise in Map Pack domination)
 4. **Technical SEO + Local SEO Integration** (not just citations and reviews)
@@ -490,6 +490,6 @@ Sitemap: https://localcatalyst.com/sitemap.xml
 
 ---
 
-**Prepared by:** Silas (APEX SEO Agent)  
+**Prepared by:** Silas (CATALYST SEO Agent)  
 **Date:** February 9, 2026  
 **Status:** Ready for Implementation

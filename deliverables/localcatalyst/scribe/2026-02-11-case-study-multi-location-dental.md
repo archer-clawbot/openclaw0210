@@ -31,7 +31,7 @@ When they contacted LocalCatalyst, the situation was concerning:
 
 ## The Strategy
 
-Multi-location local SEO requires a fundamentally different approach than single-location optimization. Each location must establish its own distinct local identity in Google's eyes while maintaining brand cohesion across the group. Our APEX methodology was applied to all four locations simultaneously, with location-specific customizations at every stage.
+Multi-location local SEO requires a fundamentally different approach than single-location optimization. Each location must establish its own distinct local identity in Google's eyes while maintaining brand cohesion across the group. Our CATALYST methodology was applied to all four locations simultaneously, with location-specific customizations at every stage.
 
 ### Months 1-2: Foundation Building
 

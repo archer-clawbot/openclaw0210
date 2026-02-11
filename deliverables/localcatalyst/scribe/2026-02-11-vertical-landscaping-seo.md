@@ -14,7 +14,7 @@
 
 A homeowner stands in their backyard, staring at a patchy lawn, an overgrown hedge line, and a patio that has seen better days. They pull out their phone and search "landscaping companies near me." Within seconds, Google surfaces three businesses in the Map Pack. The homeowner taps the one with the most reviews, scrolls through photos of lush gardens and elegant hardscapes, and calls to schedule an estimate. If your landscaping company was not one of those three results, you just lost a project worth $3,000 to $50,000.
 
-Landscaping is a $130 billion industry in the United States, encompassing everything from weekly lawn maintenance to six-figure outdoor living transformations. The industry is fragmented — dominated by local operators competing for visibility in their service areas. That fragmentation is both the challenge and the opportunity. With a disciplined landscaping SEO strategy built on LocalCatalyst's APEX Methodology, your company can capture the searches that matter most, in every season, across every service you offer.
+Landscaping is a $130 billion industry in the United States, encompassing everything from weekly lawn maintenance to six-figure outdoor living transformations. The industry is fragmented — dominated by local operators competing for visibility in their service areas. That fragmentation is both the challenge and the opportunity. With a disciplined landscaping SEO strategy built on LocalCatalyst's CATALYST Methodology, your company can capture the searches that matter most, in every season, across every service you offer.
 
 ## The Unique SEO Challenges Facing Landscaping Companies
 

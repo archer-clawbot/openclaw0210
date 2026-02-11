@@ -77,18 +77,18 @@ We never ask you to trust a black box. Everything we do is visible, explainable,
 
 ---
 
-## The APEX Methodology
+## The CATALYST Methodology
 
 Most local SEO agencies operate on instinct. They do a little keyword research, optimize your GBP, write some blog posts, and hope for the best. When something works, they don't always know why. When something doesn't, they don't have a framework to diagnose the problem.
 
-LocalCatalyst's APEX Methodology is an engineered, repeatable process that eliminates guesswork:
+LocalCatalyst's CATALYST Methodology is an engineered, repeatable process that eliminates guesswork:
 
 1. **Audit:** Comprehensive technical, content, competitive, and local visibility audit. We identify every factor that's helping or hurting your rankings, scored and prioritized by impact.
 2. **Prioritize:** Not all fixes are equal. We build a prioritized roadmap based on effort-to-impact ratio, focusing first on the changes that will move the needle fastest.
 3. **Execute:** Systematic implementation with documented deliverables, clear timelines, and weekly progress tracking. No vague promises --- specific actions with measurable outcomes.
 4. **Expand:** Once foundational wins are secured, we expand into new keywords, new service areas, new content opportunities, and competitive displacement strategies that compound your growth over time.
 
-APEX isn't a marketing term. It's the operational framework that guides every decision we make on every client campaign.
+CATALYST isn't a marketing term. It's the operational framework that guides every decision we make on every client campaign.
 
 ---
 

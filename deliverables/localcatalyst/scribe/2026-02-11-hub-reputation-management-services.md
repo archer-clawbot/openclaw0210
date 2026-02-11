@@ -15,7 +15,7 @@
 
 Your online reputation is not a vanity metric. It is the single most influential factor in whether a potential customer chooses your business or your competitor's. It directly impacts your local search rankings. It shapes how AI systems describe your business in AI Overviews and LLM-generated responses. And in 2026, when consumers have more options and less patience than ever, it is the foundation on which every other marketing investment either compounds or collapses.
 
-At LocalCatalyst, our **reputation management services** go far beyond monitoring review sites and hoping for the best. We build systematic, repeatable processes that generate consistent positive reviews, manage negative feedback with speed and strategy, and transform your online reputation into a measurable ranking and revenue asset. This is integrated directly into our [APEX methodology](/local-seo-services/) — because reputation is not separate from SEO. It is SEO.
+At LocalCatalyst, our **reputation management services** go far beyond monitoring review sites and hoping for the best. We build systematic, repeatable processes that generate consistent positive reviews, manage negative feedback with speed and strategy, and transform your online reputation into a measurable ranking and revenue asset. This is integrated directly into our [CATALYST methodology](/local-seo-services/) — because reputation is not separate from SEO. It is SEO.
 
 If you don't know where your reputation stands right now — across Google, Yelp, Facebook, and the industry-specific platforms that matter for your business — [request a free SEO audit](/free-seo-audit/) and we'll include a complete reputation snapshot.
 
@@ -41,7 +41,7 @@ This is the core of what we do. We turn the silent majority of your happy custom
 
 ## Our Review Management Approach
 
-We structure reputation management in four interconnected phases, aligned with the APEX methodology we use across all [local SEO services](/local-seo-services/).
+We structure reputation management in four interconnected phases, aligned with the CATALYST methodology we use across all [local SEO services](/local-seo-services/).
 
 ### Phase 1: Review Generation (Execute)
 
@@ -249,7 +249,7 @@ This pillar page is supported by the following cluster content and blog posts:
 - [How to Remove Fake Google Reviews](/blog/fake-google-reviews-removal/) — Step-by-step process for identifying and reporting policy-violating reviews
 
 ### Related Hub Pages
-- [Local SEO Services](/local-seo-services/) — Our comprehensive local SEO methodology and APEX framework
+- [Local SEO Services](/local-seo-services/) — Our comprehensive local SEO methodology and CATALYST framework
 - [Google Business Profile Management](/google-business-profile-management/) — GBP optimization that amplifies review signals
 - [Citation Building Services](/citation-building-services/) — NAP consistency and directory management that reinforces reputation authority
 - [SEO Content Strategy](/seo-content-strategy/) — Content creation that supports brand reputation and suppresses negative content

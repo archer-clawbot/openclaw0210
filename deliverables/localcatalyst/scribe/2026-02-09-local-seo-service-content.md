@@ -244,7 +244,7 @@ Properly implemented schema increases chances of rich results (star ratings, bus
 ### H2
 How Our Local SEO Process Works
 
-We use the **APEX methodology** — a proven 4-phase framework designed for maximum impact with minimum wasted effort.
+We use the **CATALYST methodology** — a proven 4-phase framework designed for maximum impact with minimum wasted effort.
 
 ---
 
@@ -502,7 +502,7 @@ Local SEO Pricing
 **Best for:** Single-location businesses, limited service area (1 city)
 
 **Includes:**
-- GBP optimization (full APEX audit + ongoing management)
+- GBP optimization (full CATALYST audit + ongoing management)
 - 30 citations
 - Review generation system setup
 - Monthly geo-grid scan (3×3 grid)
@@ -871,14 +871,14 @@ Get a free local SEO audit and see exactly where you're losing customers to comp
 2. **GBP Section:** Annotated GBP profile showing optimization areas
 3. **Geo-Grid Example:** Heat map showing market coverage
 4. **SoLV Dashboard:** Example Share of Local Voice report
-5. **Process Diagram:** APEX methodology 4-phase visual
+5. **Process Diagram:** CATALYST methodology 4-phase visual
 6. **Case Study Graphics:** Before/after ranking charts for each case study
 
 ### Alt Text Examples:
 - "Google Map Pack before and after local SEO optimization showing improvement from position 15 to position 1"
 - "Geo-grid heat map showing 41 percent market Share of Local Voice coverage"
 - "Google Business Profile optimization showing custom service entries and Q&A section"
-- "Local SEO APEX methodology diagram showing four phases: audit, prioritize, execute, x-factor"
+- "Local SEO CATALYST methodology diagram showing four phases: audit, prioritize, execute, x-factor"
 
 ---
 

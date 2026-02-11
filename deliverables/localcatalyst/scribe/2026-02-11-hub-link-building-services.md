@@ -194,9 +194,9 @@ We build link profiles that get stronger over time, not ones that become liabili
 
 ---
 
-## Our Link Building Process Within the APEX Framework
+## Our Link Building Process Within the CATALYST Framework
 
-Link building isn't isolated — it's integrated into our [APEX Methodology](/local-seo-services/) alongside [content strategy](/seo-content-strategy/), [on-page optimization](/on-page-seo/), and [technical SEO](/seo-audit/).
+Link building isn't isolated — it's integrated into our [CATALYST Methodology](/local-seo-services/) alongside [content strategy](/seo-content-strategy/), [on-page optimization](/on-page-seo/), and [technical SEO](/seo-audit/).
 
 ### Audit Phase
 

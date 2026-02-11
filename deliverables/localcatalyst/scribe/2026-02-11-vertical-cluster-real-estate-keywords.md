@@ -159,7 +159,7 @@ Each page should have one primary keyword and 3-5 secondary keywords that are se
 
 ## Ready to Build a Keyword Strategy That Generates Real Estate Leads?
 
-Stop guessing at keywords and competing with Zillow for terms you cannot win. Our APEX methodology identifies the exact keywords in your market where you can rank, generate leads, and build lasting authority.
+Stop guessing at keywords and competing with Zillow for terms you cannot win. Our CATALYST methodology identifies the exact keywords in your market where you can rank, generate leads, and build lasting authority.
 
 [Request a Free SEO Audit](/free-seo-audit/) to see which real estate keywords represent the biggest opportunities in your market — and which ones your competitors are already capturing.
 

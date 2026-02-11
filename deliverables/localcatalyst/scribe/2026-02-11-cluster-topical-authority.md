@@ -95,7 +95,7 @@ This structure tells Google: "This site doesn't just have a page about drain cle
 
 ## How We Build Topical Authority for Local Businesses
 
-Our process for building topical authority follows the APEX methodology we apply across all [local SEO services](/local-seo-services/):
+Our process for building topical authority follows the CATALYST methodology we apply across all [local SEO services](/local-seo-services/):
 
 ### Step 1: Topic Universe Mapping
 

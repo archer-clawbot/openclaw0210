@@ -14,7 +14,7 @@
 
 When a check engine light flares on a dark highway or brakes start grinding on the morning commute, the first thing most drivers do is reach for their phone. They type "auto repair near me" or "brake shop open now" and choose from the top results Google serves. If your shop does not appear in those results, that customer rolls into someone else's service bay. Auto repair SEO is how you make sure that does not happen.
 
-The automotive repair industry generates more than $130 billion annually in the United States, spread across roughly 280,000 independent shops and dealership service departments. Competition is intense, and digital visibility has replaced the Yellow Pages as the primary way drivers find a mechanic. This guide explains exactly how local SEO works for auto repair shops, which strategies produce the fastest return, and how LocalCatalyst's APEX Methodology helps shops fill every lift, every day.
+The automotive repair industry generates more than $130 billion annually in the United States, spread across roughly 280,000 independent shops and dealership service departments. Competition is intense, and digital visibility has replaced the Yellow Pages as the primary way drivers find a mechanic. This guide explains exactly how local SEO works for auto repair shops, which strategies produce the fastest return, and how LocalCatalyst's CATALYST Methodology helps shops fill every lift, every day.
 
 ## How Auto Repair Customers Search
 

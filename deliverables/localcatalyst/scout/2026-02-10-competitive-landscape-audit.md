@@ -818,13 +818,13 @@ Rankings.io **doesn't compete for general "local seo services"** keywords. They 
 
 **LocalCatalyst Opportunity:**
 - **"The transparent local SEO agency"**
-- Show methodology on every page (APEX framework)
+- Show methodology on every page (CATALYST framework)
 - Publish case studies with methodology breakdown
 - Create educational content explaining local SEO mechanics
 - Build trust through transparency (vs. "black box" competitor claims)
 
 **Required Content:**
-- Blog: "Our APEX Methodology Explained" (series, one per service)
+- Blog: "Our CATALYST Methodology Explained" (series, one per service)
 - Case study: "[Client] +200% leads: Here's how we did it"
 - FAQ: "How we approach [service]"
 - Methodology guide: "The LocalCatalyst Local SEO Process"

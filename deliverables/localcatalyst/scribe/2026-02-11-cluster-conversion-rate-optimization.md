@@ -269,4 +269,4 @@ Google Analytics 4 for conversion tracking and attribution. Microsoft Clarity or
 
 ---
 
-**Your website traffic has untapped conversion potential.** Our APEX audit includes a complete conversion pathway analysis that identifies exactly where visitors are dropping off and what changes will have the biggest impact. [Get your free SEO audit](/free-seo-audit/) and start turning traffic into revenue.
+**Your website traffic has untapped conversion potential.** Our CATALYST audit includes a complete conversion pathway analysis that identifies exactly where visitors are dropping off and what changes will have the biggest impact. [Get your free SEO audit](/free-seo-audit/) and start turning traffic into revenue.

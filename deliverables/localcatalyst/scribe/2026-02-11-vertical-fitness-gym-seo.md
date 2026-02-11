@@ -14,7 +14,7 @@
 
 Every January, millions of Americans type "gym near me" into Google. They are ready to commit to a healthier life. They scroll through the Map Pack, glance at ratings, skim photos of equipment and facilities, and choose a gym that looks right. By February, the surge fades — but for gyms that rank at the top of local search year-round, new membership inquiries never stop. Gym SEO is how you stay visible for every fitness-motivated search, in every season, for every type of exerciser in your community.
 
-The U.S. fitness industry generates more than $35 billion in annual revenue across approximately 40,000 health clubs, gyms, studios, and training facilities. Competition is fierce — from global franchise brands with massive marketing budgets to boutique studios with passionate niche followings. In this environment, local search visibility is the most cost-effective and sustainable way to drive new memberships. This guide explains how gym and fitness SEO works, which strategies produce the strongest results, and how LocalCatalyst's APEX Methodology helps fitness businesses fill their membership rosters.
+The U.S. fitness industry generates more than $35 billion in annual revenue across approximately 40,000 health clubs, gyms, studios, and training facilities. Competition is fierce — from global franchise brands with massive marketing budgets to boutique studios with passionate niche followings. In this environment, local search visibility is the most cost-effective and sustainable way to drive new memberships. This guide explains how gym and fitness SEO works, which strategies produce the strongest results, and how LocalCatalyst's CATALYST Methodology helps fitness businesses fill their membership rosters.
 
 ## How Fitness Consumers Search
 

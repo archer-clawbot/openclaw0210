@@ -1,11 +1,11 @@
-# APEX SEO Audit Report
+# CATALYST SEO Audit Report
 ## Prime Dumpster
 ### primedumpster.com
 
 **Audit Date:** February 10, 2026
 **Prepared By:** LocalCatalyst.ai
 **Audit Type:** Prospect Audit / New Client Intake
-**Auditor:** Silas (APEX Engine)
+**Auditor:** Silas (CATALYST Engine)
 
 ---
 
@@ -22,7 +22,7 @@ Prime Dumpster is a nationwide waste management and portable sanitation provider
 - 3-4: Minimal setup, major gaps
 - 5-6: Partial implementation, clear opportunities
 - 7-8: Good, fine-tuning needed
-- 9-10: Fully optimized per APEX spec standards
+- 9-10: Fully optimized per CATALYST spec standards
 
 ```
 ROUTE 1: GBP OPTIMIZATION
@@ -58,7 +58,7 @@ AI/CROSS-PLATFORM
 └── AI Average:                 2.0/10
 
 ════════════════════════════════════
-OVERALL APEX SCORE:              2.8/10
+OVERALL CATALYST SCORE:              2.8/10
 ════════════════════════════════════
 ```
 
@@ -157,7 +157,7 @@ OVERALL APEX SCORE:              2.8/10
 
 ### 5.1 Performance
 
-| Metric | Value | APEX Target | Status |
+| Metric | Value | CATALYST Target | Status |
 |--------|-------|-------------|--------|
 | Page Load Time | 2183ms | < 2000ms | **FAIL** (marginal) |
 | TTFB | **1651ms** | < 200ms | **CRITICAL FAIL** |
@@ -217,7 +217,7 @@ OVERALL APEX SCORE:              2.8/10
 | Homepage | 1 | ~500 | 139 | Good link structure; clean design; CTA-focused |
 | Service Pages | 6-8 (main) | ~500-800 | Medium | Template-driven; lacks depth |
 | City/Location Pages | 1,000+ | ~400 | Low | **MASSIVE geo-page network** across 50 states |
-| POI/Landmark Pages | 0 | N/A | N/A | **Missing — major APEX opportunity** |
+| POI/Landmark Pages | 0 | N/A | N/A | **Missing — major CATALYST opportunity** |
 | Blog Posts | 50+ | ~600 | Low | Recent posts (Feb 2026); moderate frequency |
 | Total Indexed | **1,000+** (estimated from sitemap) | | | Huge page count but thin content risk |
 
@@ -582,5 +582,5 @@ Prime Dumpster has built impressive operational infrastructure—government cert
 
 ---
 
-*Prepared using the APEX SEO Methodology by LocalCatalyst.ai*
+*Prepared using the CATALYST SEO Methodology by LocalCatalyst.ai*
 **Next Step:** Schedule onboarding call to standardize NAP, claim GBP, and initiate Tier 1 emergency fixes. Contact Archer to approve dispatch queue and begin execution.

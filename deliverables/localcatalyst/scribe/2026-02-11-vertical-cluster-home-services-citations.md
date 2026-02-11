@@ -130,7 +130,7 @@ Citation health should be measured by three metrics:
 2. **Coverage** — are you listed on all relevant directories for your industry and market?
 3. **Consistency score** — how consistent is your data across all citations?
 
-Our APEX audit includes a complete citation analysis that identifies gaps, inconsistencies, and opportunities across your entire citation profile.
+Our CATALYST audit includes a complete citation analysis that identifies gaps, inconsistencies, and opportunities across your entire citation profile.
 
 ## Frequently Asked Questions
 

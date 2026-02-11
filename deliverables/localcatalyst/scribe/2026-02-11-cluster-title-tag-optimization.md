@@ -161,7 +161,7 @@ If Google consistently rewrites a title, it is a signal that your original title
 
 Title tags don't exist in isolation. They work in concert with your [internal linking strategy](/on-page-seo-services/internal-linking-strategy/) and overall [technical SEO foundation](/technical-seo-services/) to build topical authority. A well-optimized title tag on a page with poor internal linking or slow load times will underperform its potential.
 
-At LocalCatalyst, our APEX methodology ensures every on-page element — title tags included — is optimized as part of a coordinated system, not a checklist of isolated fixes.
+At LocalCatalyst, our CATALYST methodology ensures every on-page element — title tags included — is optimized as part of a coordinated system, not a checklist of isolated fixes.
 
 ## Frequently Asked Questions
 
@@ -187,4 +187,4 @@ Temporarily, yes. Google may re-evaluate a page after a title change, causing sh
 
 ---
 
-**Ready to maximize every ranking factor on your site?** Our APEX audit identifies exactly which title tags are costing you clicks and rankings — and provides the optimized replacements. [Get your free SEO audit](/free-seo-audit/) and see the difference data-driven title tag optimization makes.
+**Ready to maximize every ranking factor on your site?** Our CATALYST audit identifies exactly which title tags are costing you clicks and rankings — and provides the optimized replacements. [Get your free SEO audit](/free-seo-audit/) and see the difference data-driven title tag optimization makes.
