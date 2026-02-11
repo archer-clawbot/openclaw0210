@@ -92,13 +92,13 @@ No subscription. No recurring charge. The map is yours.
 
 ### How We Compare
 
-Most content strategy and topical mapping services charge $600-$1,700 and take 1-3 weeks to deliver. We deliver the same depth of analysis in a fraction of the time because our AI agents run the research, clustering, and mapping in parallel rather than sequentially.
+Premium topical mapping services charge $597-$1,700 and take 1-2 weeks to deliver. Traditional agencies bundle it into retainers starting at $1,500/month and take even longer. We deliver the same depth of analysis in hours because our AI agents run the research, clustering, and mapping in parallel rather than sequentially.
 
-| | LocalCatalyst | Typical Agency | Typical Freelancer |
+| | LocalCatalyst | Premium SEO Services | Traditional Agency |
 |---|---|---|---|
-| **Price** | $397 | $800-1,700 | $600-1,200 |
-| **Turnaround** | 4-6 hours | 2-3 weeks | 1-2 weeks |
-| **Keyword data** | Included | Included | Sometimes extra |
+| **Price** | $397 | $597-1,700 | $1,500-3,000+ (bundled in retainer) |
+| **Turnaround** | 4-6 hours | 1-2 weeks | 3-4 weeks |
+| **Keyword data** | Included | Included | Included |
 | **Internal linking map** | Included | Sometimes | Rarely |
 | **Priority order** | Included | Rarely | Rarely |
 

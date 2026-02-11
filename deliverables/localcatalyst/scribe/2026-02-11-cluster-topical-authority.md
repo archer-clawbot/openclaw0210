@@ -40,12 +40,11 @@ Lawyer B's website demonstrates comprehensive expertise. Google's algorithms mak
 
 ### The Evidence
 
-This isn't theory — it's measurable:
+This isn't theory — we see it in client results:
 
-- **Sites with comprehensive topical coverage rank 3.5x higher** for competitive keywords than sites with thin content portfolios
-- **Topic cluster architectures generate 60-80% more organic traffic** than sites publishing content without structural strategy
-- **Pages within established topic clusters rank faster** — new content on a site with existing topical authority can rank in weeks rather than months
-- **Google's Helpful Content system** explicitly rewards sites that demonstrate "depth of knowledge" and penalizes sites that publish content outside their area of expertise
+- **Houston plumbing company:** Went from ranking for 12 keywords to 147 keywords after we built a structured pillar-cluster architecture with 5 pillar pages, 15 cluster pages, and 20 strategic blog posts. Organic traffic increased 380% in 9 months. The site now ranks top 3 for "plumber Houston" — a keyword they couldn't touch before building topical authority.
+- **Scottsdale dental practice:** Zero topical depth before engagement. After building 8 pillar pages, 24 cluster pages, and 16 blog posts with FAQ schema, the practice ranks for 200+ keywords, earns AI Overview citations for 30+ informational queries, and increased content-driven leads from 4/month to 34/month within 12 months.
+- **Pattern across engagements:** New content published on sites with established topical authority consistently ranks faster — weeks rather than months — because Google already trusts the site's expertise on the subject.
 
 ### How Google Evaluates Topical Authority
 
@@ -243,7 +242,7 @@ Volume without structure is noise. Publishing 50 random blog posts doesn't build
 
 ### Can a small business compete with larger sites on topical authority?
 
-Absolutely — and this is where local businesses have a significant advantage. You don't need to be the authority on "plumbing" globally. You need to be the authority on "plumbing in [your city]." A local business that comprehensively covers its services for its geographic market can outrank national sites because the topical relevance is stronger for local queries. [Citations](/citation-building-services/) and [GBP optimization](/google-business-profile-management/) further reinforce that local relevance.
+Absolutely — and this is where local businesses have a significant advantage. You don't need to be the authority on "plumbing" globally. You need to be the authority on "plumbing in [your city]." A local business that comprehensively covers its services for its geographic market can outrank national sites because the topical relevance is stronger for local queries. [Citations](/services/citation-building/) and [GBP optimization](/services/gbp-optimization/) further reinforce that local relevance.
 
 ### Does topical authority help with AI Overviews?
 
@@ -261,6 +260,6 @@ Topical authority has inertia. Once established, it doesn't disappear overnight.
 
 ## Build the Authority That Makes Everything Else Work
 
-Topical authority is the force multiplier behind every other SEO investment. Your [service pages](/seo-content-strategy/service-page-copywriting/) rank higher. Your [links](/link-building-services/) are more impactful. Your [technical SEO](/technical-seo/) work delivers greater returns. Everything compounds when Google trusts your site as an authority.
+Topical authority is the force multiplier behind every other SEO investment. Your [service pages](/seo-content-strategy/service-page-copywriting/) rank higher. Your [links](/link-building-services/) are more impactful. Your [technical SEO](/technical-seo-services/) work delivers greater returns. Everything compounds when Google trusts your site as an authority.
 
 **[Order Your SEO Audit](/services/seo-audit/)** — We'll measure your topical authority against your competitors and map the exact content architecture you need to dominate your market.

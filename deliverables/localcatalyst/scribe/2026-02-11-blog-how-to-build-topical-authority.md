@@ -3,8 +3,8 @@
 **Deliverable:** Blog post (Hub 5 educational content)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/how-to-build-topical-authority/
-**Parent Hub:** /seo-content-strategy/
+**URL:** /learn/how-to-build-topical-authority/
+**Parent Hub:** /learn/seo-content-strategy/
 **Primary Keyword:** how to build topical authority
 **Secondary Keywords:** topical authority SEO, hub and spoke content model, content depth vs breadth, internal linking for authority, topical relevance
 **Title Tag:** How to Build Topical Authority for SEO | LocalCatalyst.ai
@@ -14,7 +14,7 @@
 
 ---
 
-If your website publishes content on a dozen unrelated topics, Google has no reason to consider you an authority on any of them. Topical authority is the foundational principle behind every successful [SEO content strategy](/seo-content-strategy/) in 2026, and understanding how to build it systematically is what separates sites that dominate search results from those buried on page five.
+If your website publishes content on a dozen unrelated topics, Google has no reason to consider you an authority on any of them. Topical authority is the foundational principle behind every successful [SEO content strategy](/learn/seo-content-strategy/) in 2026, and understanding how to build it systematically is what separates sites that dominate search results from those buried on page five.
 
 This guide breaks down exactly what topical authority is, how Google evaluates it, and the specific steps you can take to establish your site as the definitive resource in your niche.
 
@@ -22,7 +22,7 @@ This guide breaks down exactly what topical authority is, how Google evaluates i
 
 Topical authority is the degree to which a website is recognized, by both search engines and users, as a credible, comprehensive source of information on a specific subject area. It is not a single metric you can look up in a tool. It is an emergent property of how thoroughly, accurately, and consistently your site covers a given topic.
 
-When Google's algorithms assess topical authority, they are essentially asking: "Does this website demonstrate deep, reliable knowledge about this subject?" A site that publishes one article about local SEO is not topically authoritative in local SEO. A site that publishes fifty well-structured, interlinked articles covering every facet of local SEO, from [Google Business Profile optimization](/google-business-profile-optimization/) to citation management to geo-grid tracking, has a strong claim to topical authority.
+When Google's algorithms assess topical authority, they are essentially asking: "Does this website demonstrate deep, reliable knowledge about this subject?" A site that publishes one article about local SEO is not topically authoritative in local SEO. A site that publishes fifty well-structured, interlinked articles covering every facet of local SEO, from [Google Business Profile optimization](/services/gbp-optimization/) to citation management to geo-grid tracking, has a strong claim to topical authority.
 
 ### Why Topical Authority Matters More Than Ever
 
@@ -57,7 +57,7 @@ If users consistently find what they are looking for on your site when searching
 
 ### 5. E-E-A-T Signals
 
-Experience, Expertise, Authoritativeness, and Trustworthiness ([E-E-A-T](/blog/eeat-content-guidelines/)) are evaluated at the content, author, and site level. Topical authority is closely intertwined with the "Authoritativeness" component of E-E-A-T.
+Experience, Expertise, Authoritativeness, and Trustworthiness ([E-E-A-T](/learn/eeat-content-guidelines/)) are evaluated at the content, author, and site level. Topical authority is closely intertwined with the "Authoritativeness" component of E-E-A-T.
 
 ## The Hub-and-Spoke Content Model
 
@@ -65,7 +65,7 @@ The most effective framework for building topical authority is the hub-and-spoke
 
 ### How It Works
 
-- **Hub page (pillar):** A comprehensive, long-form page that covers a broad topic at a high level. This is your [cornerstone content](/blog/cornerstone-content-strategy/). It links out to every spoke.
+- **Hub page (pillar):** A comprehensive, long-form page that covers a broad topic at a high level. This is your [cornerstone content](/learn/cornerstone-content-strategy/). It links out to every spoke.
 - **Spoke pages (clusters):** Focused, detailed articles that cover specific subtopics within the hub's domain. Each spoke links back to the hub and, where relevant, to other spokes.
 
 ### Example Structure
@@ -98,7 +98,7 @@ One of the most common mistakes in building topical authority is going too broad
 The recommended approach is:
 
 1. **Choose your primary topic cluster.** This should align with your core business offering and the queries your target audience is searching for.
-2. **Map every subtopic.** Use keyword research, competitor analysis, and [content gap analysis](/blog/content-gap-analysis/) to identify every question, concept, and angle within that topic.
+2. **Map every subtopic.** Use keyword research, competitor analysis, and [content gap analysis](/learn/content-gap-analysis/) to identify every question, concept, and angle within that topic.
 3. **Create deep content for each subtopic.** Each spoke article should be the best available resource on its specific subtopic. Not the longest, but the most thorough, accurate, and useful.
 4. **Only expand to a new topic cluster after the first is comprehensive.** Once your first hub-and-spoke is complete and performing, begin building the next one.
 
@@ -114,7 +114,7 @@ Internal linking is the structural backbone of topical authority. Without it, ev
 
 ### Best Practices for Authority-Building Internal Links
 
-**Use descriptive anchor text.** Instead of "click here" or "learn more," use anchor text that describes the destination page's content. "Our guide to [local content marketing ideas](/blog/local-content-marketing-ideas/)" tells both users and Google what to expect.
+**Use descriptive anchor text.** Instead of "click here" or "learn more," use anchor text that describes the destination page's content. "Our guide to [local content marketing ideas](/learn/local-content-marketing-ideas/)" tells both users and Google what to expect.
 
 **Link contextually.** Internal links should appear naturally within the flow of content, not in a list of "related posts" at the bottom of the page. Contextual links carry more weight because they signal genuine topical relevance.
 
@@ -198,7 +198,7 @@ Track your KPIs. Update content that becomes outdated. Identify new subtopics as
 
 **Ignoring content freshness.** Outdated content actively harms topical authority. Search engines check freshness signals, and users lose trust when they encounter stale information.
 
-**Neglecting [content pruning](/blog/content-pruning-seo/).** Low-performing, outdated, or redundant content can drag down your overall topical authority. Regularly audit and prune your content library.
+**Neglecting [content pruning](/learn/content-pruning-seo/).** Low-performing, outdated, or redundant content can drag down your overall topical authority. Regularly audit and prune your content library.
 
 **Treating content as a one-time effort.** Topical authority requires sustained investment. A burst of content followed by months of silence sends the wrong signal to both users and search engines.
 
@@ -218,7 +218,7 @@ Backlinks remain an important signal, but their role has shifted. A few high-qua
 
 ### Should I use AI to create content for topical authority?
 
-AI can accelerate content production, but topical authority fundamentally requires genuine expertise and unique insights. Google's Helpful Content System specifically evaluates whether content demonstrates first-hand experience and adds value beyond what already exists. AI-assisted content that is reviewed, enhanced, and validated by subject matter experts can work. Fully automated AI content that merely repackages existing information will not build lasting topical authority. For a deeper look at this question, see our guide on [AI content and SEO](/blog/ai-content-seo/).
+What builds topical authority is the methodology behind the content, not the generation method. Content built on thorough keyword research, competitive analysis, topical mapping, and strategic internal linking builds authority because it comprehensively covers what users and search engines need. Content published randomly without an underlying strategy does not build authority, regardless of who or what writes it. The difference is whether the content is grounded in real search data, competitive gaps, and a deliberate architecture — or whether it is just words on a page. For a deeper look at this question, see our guide on [AI content and SEO](/learn/ai-content-seo/).
 
 ## Build Your Topical Authority with Expert Support
 
