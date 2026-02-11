@@ -16,11 +16,28 @@ async function convexFetch(path, body) {
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify(body),
   });
+  
+  // Get response text first for better error diagnostics
+  const text = await res.text();
+  
   if (!res.ok) {
-    const text = await res.text().catch(() => '');
     throw new Error(`Convex POST ${path} → ${res.status}: ${text}`);
   }
-  return res.json();
+  
+  // Parse JSON and detect Convex error responses
+  let result;
+  try {
+    result = JSON.parse(text);
+  } catch (parseErr) {
+    throw new Error(`Convex POST ${path} → invalid JSON: ${text.slice(0, 200)}`);
+  }
+  
+  // Convex sometimes returns {error: ...} with 200 status
+  if (result && typeof result === 'object' && result.error) {
+    throw new Error(`Convex POST ${path} → backend error: ${result.error}`);
+  }
+  
+  return result;
 }
 
 /** Fetch tasks by tenant + status. Returns array of task objects. */

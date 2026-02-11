@@ -1,64 +1,31 @@
-# LocalCatalyst Technical SEO Audit Report
-**Client:** LocalCatalyst  
+# LocalCatalyst Technical SEO Audit
 **Domain:** darkgreen-moose-683278.hostingersite.com  
 **Audit Date:** February 10, 2026  
-**Auditor:** Specs (Technical SEO Agent)  
-**Status:** New Site - Onboarding Phase
+**Agent:** Specs  
+**Status:** Foundation Phase - Initial Audit  
 
 ---
 
 ## Executive Summary
 
-This is a **brand new WordPress installation** in early-stage setup with significant technical SEO issues that must be addressed before public launch. The site currently contains minimal content (1 blog post) and has critical blockers preventing proper indexation and user experience.
+This is a fresh WordPress installation (Twenty Twenty-Five theme) with **critical blocking issues** that prevent search engine indexing. The site contains minimal content (one default post) and lacks essential technical SEO infrastructure.
 
-### Critical Issues (Fix Immediately)
-- ⛔ **Googlebot is blocked in robots.txt** — prevents indexing
-- ⛔ **All navigation links broken** — point to "#" instead of actual pages
-- ⛔ **No schema markup present** — zero SEO signals
-- ⛔ **Missing essential meta tags** — no page descriptions, no viewport optimization hints
-
-### Major Issues (High Priority)
-- ⚠️ Core Web Vitals data unavailable (insufficient traffic history)
-- ⚠️ Site structure incomplete (navigation not implemented)
-- ⚠️ No GA4 or GSC setup detected
-- ⚠️ Minimal unique content
-
-### Green Lights ✅
-- ✅ HTTPS enforced (no mixed content)
-- ✅ Sitemap.xml exists and is valid
-- ✅ Returns correct HTTP status codes (200)
-- ✅ Mobile-responsive theme (Twenty Twenty-Five)
-- ✅ No apparent redirect chains
+**Severity Breakdown:**
+- 🔴 **CRITICAL** (blocks indexing): 1 issue
+- 🟠 **HIGH** (severely impacts SEO): 5 issues  
+- 🟡 **MEDIUM** (impacts rankings): 8 issues
+- 🔵 **LOW** (best practices): 6 issues
 
 ---
 
-## 1. SECURITY & HTTPS AUDIT
+## 1. CRITICAL ISSUES — MUST FIX IMMEDIATELY
 
-### Findings
-| Check | Status | Details |
-|-------|--------|---------|
-| HTTPS Enforced | ✅ PASS | All pages serve over HTTPS |
-| Mixed Content | ✅ PASS | No HTTP resources detected |
-| Security Headers | ⚠️ VERIFY | Standard Hostinger defaults in place |
+### 1.1 robots.txt Blocks Googlebot
+**Status:** 🔴 CRITICAL  
+**Impact:** Complete indexing blockage  
+**Location:** `/robots.txt`
 
-### HTTP Status Codes
-```
-Homepage (/)                  → 200 OK
-Blog Post (/hello-world/)     → 200 OK
-Robots.txt                    → 200 OK
-Sitemap.xml                   → 200 OK (redirects to wp-sitemap.xml)
-wp-json/                      → 200 OK (REST API enabled)
-```
-
-### Recommendations
-- ✅ No immediate action required for HTTPS
-- Monitor security headers via Google Search Console
-
----
-
-## 2. ROBOTS.TXT & INDEXATION AUDIT
-
-### Current robots.txt Content
+**Current Configuration:**
 ```
 User-agent: Googlebot
 Disallow: /
@@ -67,726 +34,461 @@ User-agent: *
 Allow: /
 ```
 
-### Critical Issue ⛔
-**Googlebot is being blocked from crawling the site.** This is preventing indexation by Google.
+**Issue:** Google's crawler (Googlebot) is explicitly disallowed from crawling the entire domain, while other user agents are allowed. This creates a critical paradox that prevents Google from indexing any content.
 
-### Before/After Recommendation
-
-**BEFORE (Current - BLOCKING GOOGLEBOT):**
+**Recommended Fix:**
 ```
-User-agent: Googlebot
-Disallow: /
-
-User-agent: *
-Allow: /
-```
-
-**AFTER (Correct - ALLOW ALL CRAWLERS):**
-```
-# Allow all search engines
 User-agent: *
 Allow: /
 
-# Disallow admin areas and private content
+# Disallow access to WordPress admin and sensitive areas
 Disallow: /wp-admin/
 Disallow: /wp-login.php
 Disallow: /wp-includes/
-Disallow: /wp-content/plugins/
-Disallow: /?p=*&preview=true
+Disallow: /*?s=
+Disallow: /*?p=*&cpage
+Disallow: /feed/
+Disallow: /trackback/
+Disallow: /xmlrpc.php
 
-# Sitemap
+# Allow sitemap
 Sitemap: https://darkgreen-moose-683278.hostingersite.com/sitemap.xml
 ```
 
-### Impact
-- **Severity:** CRITICAL
-- **Impact:** Zero pages will be indexed by Google until fixed
-- **SEO Risk:** Site will not appear in search results
+**Action:** Replace `/robots.txt` entirely with the configuration above.
 
 ---
 
-## 3. SITEMAP AUDIT
+## 2. HIGH-SEVERITY ISSUES
 
-### Sitemap Status ✅
-| Metric | Status | Value |
-|--------|--------|-------|
-| Sitemap Accessible | ✅ | Yes (https://darkgreen-moose-683278.hostingersite.com/wp-sitemap.xml) |
-| Valid XML | ✅ | Yes |
-| Structure | ✅ | Proper sitemap index with child maps |
-| Last Modified Headers | ✅ | Present (2026-02-09T17:25:35) |
+### 2.1 Missing Meta Titles & Descriptions
+**Status:** 🟠 HIGH  
+**Impact:** Poor CTR in search results, missed opportunity for keyword targeting  
+**Pages Affected:** Homepage, /hello-world/, and all future pages
 
-### Current Sitemap Contents
-```
-Posts Sitemap:
-  - https://darkgreen-moose-683278.hostingersite.com/hello-world/
-  
-Pages Sitemap:
-  - https://darkgreen-moose-683278.hostingersite.com/
+**Current State:**
+- Homepage title: "darkgreen-moose-683278.hostingersite.com" (domain name only, not descriptive)
+- No meta descriptions found
+- Page titles not optimized
 
-Other Maps:
-  - Categories sitemap
-  - Authors sitemap
-```
+**Recommended Changes:**
 
-### Observations
-- Only 1 published post currently in sitemap
-- Homepage included correctly
-- Taxonomy pages (categories, authors) included
+**Homepage (`/`):**
+- **Current Title:** `darkgreen-moose-683278.hostingersite.com`
+- **Recommended Title:** `[Business Name] - [Primary Service/Value Prop]` (50-60 characters)
+- **Current Description:** None
+- **Recommended Description:** `Discover [key offering]. [CTA]. ✓ [Key benefit]` (150-160 characters)
 
-### Recommendation
-Once robots.txt is fixed and GSC is configured:
-1. Submit sitemap to Google Search Console
-2. Monitor crawl stats monthly
-3. Ensure priority/change frequency tags are set appropriately
+**"Hello World" Post (`/hello-world/`):**
+- **Current Title:** `Hello world! – darkgreen-moose-683278.hostingersite.com`
+- **Action:** Delete this default post (not needed for live site). If keeping for testing, optimize to: `[Topic] - [Value] | [Site Name]`
+- **Add Meta Description:** Compelling 150-160 character summary
+
+**Action:** Update WordPress Settings → General → Site Title/Tagline, then configure RankMath to auto-generate titles/meta based on templates.
 
 ---
 
-## 4. SCHEMA MARKUP AUDIT
+### 2.2 No Schema Markup
+**Status:** 🟠 HIGH  
+**Impact:** Missing rich snippets, lower CTR, missed rich search features  
 
-### Current Status: ❌ NO SCHEMA DETECTED
+**Current State:** Zero schema markup detected
 
-The site lacks all schema.org markup. This is a significant SEO deficiency.
+**Required Schema by Page Type:**
 
-### Required Schema by Page Type
+| Page | Schema Type | Priority |
+|------|-------------|----------|
+| Homepage | Organization, LocalBusiness, WebSite, SearchAction | CRITICAL |
+| All Pages | BreadcrumbList | HIGH |
+| Posts | Article, FAQPage (if applicable) | HIGH |
+| Contact Page | LocalBusiness, ContactPoint | HIGH |
 
-| Page Type | Current | Required Schema | Severity |
-|-----------|---------|-----------------|----------|
-| Homepage | ❌ None | Organization, WebSite, SearchAction | 🔴 Critical |
-| Blog Post | ❌ None | Article, BreadcrumbList | 🔴 Critical |
-| Contact Page | ❌ None | Organization, ContactPoint | 🟠 High |
-| Team/About | ❌ None | Organization, Person | 🟠 High |
+**Recommended Implementation:**
+Install **RankMath Pro** and configure:
+1. Organization schema (general site info)
+2. LocalBusiness schema (if applicable)
+3. Auto-generate BreadcrumbList schema
+4. Article schema for posts
 
-### Specific Recommendations
-
-**Homepage Schema (to add):**
+Example Organization schema:
 ```json
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "[Business Name - TBD]",
+  "name": "[Site Name]",
   "url": "https://darkgreen-moose-683278.hostingersite.com",
-  "logo": "https://darkgreen-moose-683278.hostingersite.com/[logo-path].png",
-  "description": "[Business description - TBD]"
+  "logo": "https://darkgreen-moose-683278.hostingersite.com/logo.png",
+  "sameAs": [
+    "https://facebook.com/[page]",
+    "https://twitter.com/[account]"
+  ]
 }
 ```
 
-**Blog Post Schema (to add to /hello-world/):**
-```json
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Hello world!",
-  "description": "Welcome to WordPress. This is your first post.",
-  "author": {
-    "@type": "Person",
-    "name": "cody@spartandigital.co"
-  },
-  "datePublished": "2026-02-09",
-  "image": "[Featured image URL if available]"
-}
-```
-
-**Website Search Action:**
-```json
-{
-  "@context": "https://schema.org",
-  "@type": "WebSite",
-  "url": "https://darkgreen-moose-683278.hostingersite.com",
-  "potentialAction": {
-    "@type": "SearchAction",
-    "target": {
-      "@type": "EntryPoint",
-      "urlTemplate": "https://darkgreen-moose-683278.hostingersite.com/?s={search_term_string}"
-    },
-    "query-input": "required name=search_term_string"
-  }
-}
-```
-
-### Validation Steps
-1. Use Google Rich Results Test: https://search.google.com/test/rich-results
-2. Validate each schema addition
-3. Check for warnings (not just errors)
-4. Ensure NAP (Name, Address, Phone) data consistency across all schema
-
-### Impact if Not Fixed
-- ❌ No rich snippets in search results
-- ❌ No knowledge panel eligibility
-- ❌ Loss of CTR improvement opportunities (typically 20-30% boost with proper schema)
+**Action:** Install RankMath Pro, enable schema module, configure global and page-level schema.
 
 ---
 
-## 5. MOBILE RESPONSIVENESS AUDIT
+### 2.3 No Open Graph / Social Meta Tags
+**Status:** 🟠 HIGH  
+**Impact:** Poor social sharing appearance, reduced social engagement  
 
-### Theme: Twenty Twenty-Five (WordPress Default)
+**Current State:** No OG tags, no Twitter Card tags
 
-**Status:** ✅ RESPONSIVE
+**Recommended Additions:**
 
-The theme is built with mobile-first responsive design principles.
-
-### Viewport Meta Tag Status
+Homepage example:
 ```html
-<!-- Expected: -->
-<meta name="viewport" content="width=device-width, initial-scale=1" />
+<!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="[Site Title]">
+<meta property="og:description" content="[Meta Description]">
+<meta property="og:image" content="https://darkgreen-moose-683278.hostingersite.com/og-image.jpg">
+<meta property="og:url" content="https://darkgreen-moose-683278.hostingersite.com">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="[Site Title]">
+<meta name="twitter:description" content="[Meta Description]">
+<meta name="twitter:image" content="https://darkgreen-moose-683278.hostingersite.com/og-image.jpg">
 ```
 
-### Recommendations
-1. Test on actual devices (iPhone, Android) before launch
-2. Verify touch targets are ≥48px × 48px
-3. Check form inputs are not obscured on mobile
-4. Run Google Mobile-Friendly Test: https://search.google.com/test/mobile-friendly
+**Action:** Configure RankMath to auto-generate OG/Twitter Card tags for all pages.
 
 ---
 
-## 6. CORE WEB VITALS ASSESSMENT
+### 2.4 No Google Analytics 4 Setup
+**Status:** 🟠 HIGH  
+**Impact:** No conversion tracking, no visitor data, no SEO performance insights  
 
-### Current Status: ⚠️ DATA UNAVAILABLE
+**Current State:** No GA4 property found
 
-The site is too new to have field data in Google's Core Web Vitals (CrUX) dataset. These metrics require 28+ days of real user data.
+**Recommended Actions:**
+1. Create GA4 property in Google Analytics
+2. Add data stream for web
+3. Install via **Google Site Kit** plugin (easiest method)
+4. Configure conversion events:
+   - Page views (auto)
+   - Scroll depth
+   - Time on page
+   - Contact form submissions
+   - Link clicks
+5. Link to Google Search Console
+6. Enable enhanced ecommerce (if applicable)
 
-### Metrics to Track
-| Metric | Target | Current Data |
-|--------|--------|--------------|
-| LCP (Largest Contentful Paint) | < 2.5s | ⏳ Awaiting field data |
-| CLS (Cumulative Layout Shift) | < 0.1 | ⏳ Awaiting field data |
-| INP (Interaction to Next Paint) | < 200ms | ⏳ Awaiting field data |
-
-### Lab Testing (Synthetic)
-Once the site is further along, run synthetic tests using:
-- **Google PageSpeed Insights:** https://pagespeed.web.dev
-- **Lighthouse:** Built into Chrome DevTools
-- **WebPageTest:** https://www.webpagetest.org
-
-### Common Performance Issues to Monitor
-1. **Image Optimization**
-   - Use WebP format for modern browsers
-   - Implement lazy loading (`loading="lazy"`)
-   - Set explicit width/height to prevent layout shift
-   
-2. **Font Loading**
-   - Use `font-display: swap` to prevent FOIT
-   - Preload critical fonts: `<link rel="preload" as="font">`
-   
-3. **JavaScript**
-   - Defer non-critical scripts: `defer` or `async`
-   - Code-split large bundles
-   
-4. **Server Response Time**
-   - Hostinger typically delivers TTFB < 200ms
-   - Monitor in GSC Core Web Vitals report
-
-### Action Items
-1. Install Hostinger Cache (already likely enabled)
-2. Enable Image Optimization (RankMath or Hostinger)
-3. Set up monitoring in Google Search Console
-4. Plan performance audit at 30-day mark
+**Action:** Install Google Site Kit, connect GA4 property, verify tag firing.
 
 ---
 
-## 7. NAVIGATION & SITE STRUCTURE AUDIT
+### 2.5 No Google Search Console Verification
+**Status:** 🟠 HIGH  
+**Impact:** No indexing control, no search performance data, no ability to submit URLs  
 
-### Critical Issue: Broken Navigation Links ⛔
+**Current State:** Not verified
 
-**All footer navigation links point to "#" instead of actual URLs.**
+**Recommended Actions:**
+1. Go to Google Search Console (search.google.com/search-console)
+2. Add property: `https://darkgreen-moose-683278.hostingersite.com`
+3. Verify via DNS record (preferred for hostingersite.com)
+   - Copy verification record
+   - Add to domain's DNS settings in Hostinger
+   - Verify in GSC
+4. Submit XML sitemap
+5. Request indexing for priority pages
+6. Link to GA4 property
 
-### Current Navigation Structure (From Footer)
-```
-Blog                → href="#"     ❌ BROKEN
-About              → href="#"     ❌ BROKEN
-FAQs               → href="#"     ❌ BROKEN
-Authors            → href="#"     ❌ BROKEN
-Events             → href="#"     ❌ BROKEN
-Shop               → href="#"     ❌ BROKEN
-Patterns           → href="#"     ❌ BROKEN
-Themes             → href="#"     ❌ BROKEN
-```
-
-### Before/After URLs (Example)
-
-| Link | Current | Correct URL | Page Type |
-|------|---------|-------------|-----------|
-| Blog | # | /blog/ or / | Archive |
-| About | # | /about/ | Static Page |
-| FAQs | # | /faqs/ | Static Page |
-| Contact | (missing) | /contact/ | Static Page |
-
-### Recommendations
-1. Create actual pages/archives for each navigation item
-2. Update menu items with correct URLs (not "#")
-3. Implement proper breadcrumb navigation
-4. Consider using RankMath's breadcrumb feature for schema + UX
-
-### Site Architecture To-Do
-```
-/               → Homepage (Blog archive currently)
-/about/         → About page (create)
-/contact/       → Contact page (create)
-/blog/          → Blog archive (create or set homepage to posts page)
-/category/      → Category archives (auto-generated by WordPress)
-/tag/           → Tag archives (auto-generated by WordPress)
-/author/        → Author archives (auto-generated by WordPress)
-```
+**Action:** Complete GSC verification, submit sitemap.
 
 ---
 
-## 8. META TAGS & ON-PAGE SEO AUDIT
+## 3. MEDIUM-SEVERITY ISSUES
 
-### Current Meta Tag Status
+### 3.1 XML Sitemap Exists But Not Optimized
+**Status:** 🟡 MEDIUM  
+**Impact:** Acceptable but can be improved  
 
-#### Homepage
-| Tag | Status | Current Value | Recommendation |
-|-----|--------|---------------|-----------------|
-| `<title>` | ⚠️ Weak | "darkgreen-moose-683278.hostingersite.com" | Customize with brand + keyword |
-| `<meta description>` | ❌ Missing | None | Add 150-160 character description |
-| `<meta viewport>` | ✅ | Present | Correct |
-| `<meta charset>` | ✅ | UTF-8 | Correct |
-| `<canonical>` | ⚠️ Check | Unknown | Verify no www vs. non-www issues |
-| `<og:*>` tags | ❌ Missing | None | Add for social sharing |
+**Current State:**
+- ✅ Sitemap exists: `/sitemap.xml` → redirects to `/wp-sitemap.xml`
+- ✅ WordPress auto-generates sitemap
+- ❌ May not include all custom post types
+- ❌ Not submitted to GSC yet
 
-#### Blog Post (/hello-world/)
-| Tag | Status | Current Value | Recommendation |
-|-----|--------|---------------|-----------------|
-| `<title>` | ⚠️ Weak | "Hello world! – darkgreen-moose-683278.hostingersite.com" | Optimize for 50-60 chars |
-| `<meta description>` | ❌ Missing | None | Add excerpt: "Welcome to WordPress..." |
-| Author metadata | ⚠️ Check | cody@spartandigital.co | Add Person schema |
-| Article publish date | ✅ | Feb 9, 2026 | Ensure in schema |
+**Recommended Actions:**
+1. Verify sitemap includes all post types needed:
+   - Posts
+   - Pages
+   - Custom post types (if any)
+2. Exclude unnecessary pages from sitemap:
+   - Author archive pages (`/author/*`)
+   - Attachment pages
+   - Draft/private posts
+3. Submit sitemap URL to Google Search Console
 
-### Specific Changes Required
+**Action:** After GSC setup, submit `/sitemap.xml`. Configure RankMath to optimize which post types are included.
 
-**1. Homepage Title Tag**
-- **Before:** `<title>darkgreen-moose-683278.hostingersite.com</title>`
-- **After:** `<title>[Business Name] | [Tagline] - LocalCatalyst Partner</title>`
-- **Character Count:** Keep 50-60 characters
+---
 
-**2. Homepage Meta Description**
-- **Add:** `<meta name="description" content="[150-160 char description of business, services, or value prop]">`
-- **Example:** `<meta name="description" content="Welcome to [Business Name]. We provide expert services in [industry]. Established 2026. Contact us today.">`
+### 3.2 Missing Canonical Tags
+**Status:** 🟡 MEDIUM  
+**Impact:** Risk of duplicate content issues, especially with URL variations  
 
-**3. Blog Post Meta Description**
-- **Add to /hello-world/:** Extract first 155 characters of post content as meta description
+**Current State:** Not verified in page source (likely not present)
 
-**4. Add Open Graph Tags (Homepage)**
+**Recommended Configuration:**
+WordPress should auto-add canonical tags. Verify with RankMath:
 ```html
-<meta property="og:title" content="[Business Name]" />
-<meta property="og:description" content="[Meta description]" />
-<meta property="og:image" content="[Logo or featured image URL]" />
-<meta property="og:url" content="https://darkgreen-moose-683278.hostingersite.com" />
-<meta property="og:type" content="website" />
+<link rel="canonical" href="https://darkgreen-moose-683278.hostingersite.com/page-name/">
 ```
 
-**5. Add Twitter Card Tags**
-```html
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="[Business Name]" />
-<meta name="twitter:description" content="[Meta description]" />
-<meta name="twitter:image" content="[Image URL]" />
-```
+**Action:** Install RankMath, enable canonical tag auto-generation.
 
 ---
 
-## 9. CRAWL ERRORS & BROKEN LINKS AUDIT
+### 3.3 No Favicon/Branding Assets
+**Status:** 🟡 MEDIUM  
+**Impact:** Minor - doesn't block SEO but affects brand presentation  
 
-### Crawl Status Summary
-```
-Total URLs Crawled:      3 (homepage, post, sitemap index)
-Status 200 (OK):         3 ✅
-Status 301/302:          0 ✅
-Status 404 (Not Found):  0 ✅
-Status 5xx (Server):     0 ✅
-Redirect Chains:         0 ✅
-```
+**Current State:** No favicon detected
 
-### External Links Checked
-| Link | Target | Status | Notes |
-|------|--------|--------|-------|
-| WordPress.org | https://wordpress.org | ✅ | Accessible |
-| Gravatar | https://gravatar.com | ✅ | Accessible |
+**Recommended Actions:**
+1. Create/design favicon (32x32 px minimum)
+2. Add to site:
+   - `wp-content/uploads/favicon.ico`
+   - Configure in WordPress → Settings → Site Icon
+3. Verify in `<head>`:
+   ```html
+   <link rel="icon" href="https://darkgreen-moose-683278.hostingersite.com/wp-content/uploads/favicon.ico">
+   ```
 
-### Broken Links Found
-**Navigation footer links (all point to #):**
-- Blog, About, FAQs, Authors, Events, Shop, Patterns, Themes
-
-### Recommendations
-1. Once pages are created, verify all internal links resolve to 200 status
-2. Implement 404 monitoring in RankMath
-3. Set up crawl monitoring in Google Search Console
-4. Use Screaming Frog (quarterly) to verify site structure
+**Action:** Upload favicon and configure in WordPress.
 
 ---
 
-## 10. CANONICALIZATION & DUPLICATE CONTENT AUDIT
+### 3.4 WordPress REST API Fully Exposed
+**Status:** 🟡 MEDIUM  
+**Impact:** Potential security/scraping risk, not necessarily SEO issue  
 
-### Current Canonical Status ⚠️ NEEDS VERIFICATION
+**Current State:** `/wp-json/wp/v2` fully accessible, lists all endpoints
 
-**Expected canonical tags:**
-- Homepage should have: `<link rel="canonical" href="https://darkgreen-moose-683278.hostingersite.com/" />`
-- Blog post should have: `<link rel="canonical" href="https://darkgreen-moose-683278.hostingersite.com/hello-world/" />`
+**Recommendation:**
+This is optional but can be restricted if concerns:
+- If keeping: Monitor for unauthorized access
+- If restricting: Use plugin like "Disable REST API" but ensure RankMath/other tools don't need it
 
-### Potential Issues to Monitor
-1. **www vs. non-www variants:**
-   - Currently: https://darkgreen-moose-683278.hostingersite.com/
-   - Potential duplicate: https://www.darkgreen-moose-683278.hostingersite.com/
-   - **Action:** Verify 301 redirect to preferred version in Hostinger settings
-
-2. **Trailing slash consistency:**
-   - All pages appear to use trailing slash format
-   - **Action:** Ensure consistent across all URLs
-
-3. **HTTP vs. HTTPS:**
-   - HTTP should 301 to HTTPS
-   - **Verification:** Test http://darkgreen-moose-683278.hostingersite.com (check redirect)
-
-### WordPress Permalink Settings
-- **Verify:** Admin → Settings → Permalinks
-- **Current:** Likely set to default postname structure
-- **Ensure:** Trailing slashes are consistent with canonical tags
+**Action:** Not urgent but recommend security review. For now, allow REST API (needed by many WordPress tools).
 
 ---
 
-## 11. WORDPRESS-SPECIFIC AUDIT
+### 3.5 Missing Robots Meta Tags on Key Pages
+**Status:** 🟡 MEDIUM  
+**Impact:** Future-proofing for noindex pages (author, category archives, etc.)
 
-### WordPress Version & Plugins
-```
-Theme: Twenty Twenty-Five (Built-in)
-Plugins Detected (via REST API):
-  - Hostinger Easy Onboarding
-  - Hostinger Amplitude (Analytics)
-  - Hostinger Reach (Email/CRM)
-  - Hostinger Tools
-  - Hostinger AI Assistant
-  - LiteSpeed Cache (Performance)
-  - wp-abilities (Custom framework)
-```
+**Current State:** No robots meta tags detected
 
-### SEO Plugins
-| Plugin | Status | Recommendation |
-|--------|--------|-----------------|
-| RankMath | ❌ Not installed | INSTALL IMMEDIATELY |
-| Yoast SEO | ❌ Not installed | Install RankMath instead (preferred) |
-| Jetpack | ❌ Not installed | Not needed if using RankMath |
+**Recommended Configuration** (via RankMath):
+- Homepage: index, follow
+- Posts: index, follow
+- Pages: index, follow
+- Author archives: **noindex, follow** (prevent author archive spam)
+- Category archives: index, follow (if using categories)
+- Search results: **noindex, follow**
 
-### REST API Status
-- **Status:** ✅ Enabled
-- **Security Note:** Ensure admin routes are not publicly accessible
-- **Recommendation:** OK for v2 public routes; monitor in GSC
+**Action:** Configure RankMath robots meta settings.
 
 ---
 
-## 12. INDEXATION & GOOGLE SEARCH CONSOLE SETUP
+### 3.6 Heading Structure Not Optimized
+**Status:** 🟡 MEDIUM  
+**Impact:** Missed keyword optimization opportunity  
 
-### Current Status: ⚠️ NOT CONFIGURED
+**Current State:**
+- Homepage: H1 = "Blog" (generic)
+- Post page: H1 = "Hello world!" (default post title)
+- Multiple H2s present, structure looks logically sound
 
-### Pre-Launch GSC Setup Checklist
-- [ ] Verify domain ownership (DNS or HTML tag method)
-- [ ] Submit sitemap
-- [ ] Monitor crawl statistics
-- [ ] Check coverage reports (should show all pages)
-- [ ] Link GSC to Google Analytics 4
+**Recommended Changes:**
 
-### Expected GSC Configuration
-```
-Domain: darkgreen-moose-683278.hostingersite.com
-Sitemap URL: https://darkgreen-moose-683278.hostingersite.com/sitemap.xml
-Preferred Domain: Verify non-www version
-Mobile-Friendly: Should pass (theme-dependent)
-Coverage: Monitor for errors/warnings
-```
+**Homepage (not yet live, set when building):**
+- H1: Include primary keyword: `[Service/Product] - [Location/Niche]`
+- Keep H2s for sections
 
-### Launch Readiness
-**Current Status:** ❌ NOT READY FOR GSC SUBMISSION
+**Posts:**
+- H1: Auto-set to post title (WordPress default) ✅
+- H2s: Major sections with keyword relevance
+- H3s: Subsections
 
-**Prerequisites before submitting to GSC:**
-1. ✅ Fix robots.txt (CRITICAL)
-2. ✅ Create all planned pages (About, Contact, etc.)
-3. ✅ Add schema markup (Organization, Article, etc.)
-4. ✅ Customize meta titles/descriptions
-5. ✅ Install and configure RankMath
-6. ✅ Fix navigation links
-7. ✅ Add meaningful content (current post is placeholder)
+**Action:** Configure RankMath title/heading templates.
 
 ---
 
-## 13. SECURITY & PRIVACY AUDIT
+### 3.7 No Permalink Structure Optimization
+**Status:** 🟡 MEDIUM  
+**Impact:** URLs are less keyword-rich, harder to crawl
 
-### HTTPS Enforcement ✅
+**Current State:** Likely using default WordPress permalink structure
+
+**Recommended Configuration:**
+Go to **Settings → Permalinks** → Select **"Post name"**:
 ```
-https://darkgreen-moose-683278.hostingersite.com → 200 OK
-http://darkgreen-moose-683278.hostingersite.com → Should 301 redirect
+https://darkgreen-moose-683278.hostingersite.com/sample-post/
 ```
 
-### Content Security Policy (CSP) ⚠️
-- **Status:** Hostinger likely provides default CSP
-- **Action:** Verify in browser DevTools → Network → Response Headers
+Do NOT use:
+- `/index.php?p=123` (default, bad for SEO)
+- `/2026/02/sample-post/` (date-heavy, less useful)
 
-### Privacy & Compliance
-- [ ] Privacy Policy page needed
-- [ ] Terms of Service page needed
-- [ ] GDPR cookie notice (if EU traffic expected)
-- [ ] Contact form + email handling documented
-
-### Recommendations
-1. Create /privacy-policy/ page
-2. Create /terms-of-service/ page
-3. Add cookie consent banner if using analytics
-4. Document email handling for contact forms
+**Action:** Change to "Post name" structure in WordPress → Settings → Permalinks.
 
 ---
 
-## PRIORITY REMEDIATION ROADMAP
+### 3.8 No Internal Linking Strategy
+**Status:** 🟡 MEDIUM  
+**Impact:** Poor site architecture, missed keyword targeting  
 
-### 🔴 Phase 1: Critical (Fix Before Launch)
-**Timeline: Immediate (0-3 days)**
+**Current State:** Site too new to evaluate; only hello-world post exists
 
-1. **Fix robots.txt** — Remove Googlebot block
-   - File: `/robots.txt`
-   - Change: Remove `User-agent: Googlebot` block
-   - Validation: Fetch URL in GSC robots.txt tester
-   - Estimated time: 15 minutes
+**Recommendation for Future:**
+When building content:
+- Create pillar/topic cluster structure
+- Link related posts to each other
+- Create internal links from homepage to key pages
+- Use descriptive anchor text (not "click here")
+- Limit internal links per page (2-5 contextual links)
 
-2. **Install RankMath Pro**
-   - Plugin: Rank Math SEO
-   - Setup: Run onboarding wizard
-   - Estimated time: 30 minutes
-
-3. **Add Schema Markup**
-   - Organization schema (homepage)
-   - Article schema (blog posts)
-   - WebSite schema with SearchAction
-   - Use RankMath's schema builder
-   - Estimated time: 1-2 hours
-
-4. **Fix Navigation Links**
-   - Replace all "#" links with actual URLs
-   - Create missing pages (About, Contact, etc.)
-   - Update menu items in WordPress
-   - Estimated time: 2-3 hours
-
-### 🟠 Phase 2: High Priority (First Week)
-**Timeline: Days 3-7**
-
-1. **Customize Meta Tags**
-   - Homepage title & description
-   - Blog post descriptions
-   - Add OG tags
-   - Estimated time: 1 hour
-
-2. **Set Up Google Search Console**
-   - Verify ownership
-   - Submit sitemap
-   - Submit homepage for crawl
-   - Estimated time: 30 minutes
-
-3. **Set Up Google Analytics 4**
-   - Create GA4 property
-   - Link to GSC
-   - Configure conversion events
-   - Estimated time: 1 hour
-
-4. **Create Essential Pages**
-   - Contact page (with form + schema)
-   - Privacy Policy
-   - Terms of Service
-   - About page
-   - Estimated time: 4-6 hours
-
-### 🟡 Phase 3: Medium Priority (First Month)
-**Timeline: Days 7-30**
-
-1. **Performance Optimization**
-   - Run PageSpeed Insights test
-   - Optimize images (WebP)
-   - Review Core Web Vitals
-   - Estimated time: 2-3 hours
-
-2. **Advanced RankMath Configuration**
-   - Setup 404 monitor
-   - Enable breadcrumb schema
-   - Configure local SEO (if applicable)
-   - Estimated time: 1 hour
-
-3. **Content Development**
-   - Add 5-10 quality blog posts
-   - Expand service pages
-   - Add team/author bios
-   - Estimated time: 20-40 hours
-
-4. **Monitoring Setup**
-   - Weekly GSC check
-   - Monthly crawl audit
-   - Quarterly performance review
-   - Estimated time: Ongoing
+**Action:** Document internal linking strategy before adding more content.
 
 ---
 
-## TECHNICAL SPECIFICATIONS FOR IMPLEMENTATION
+## 4. LOW-PRIORITY ISSUES (Best Practices)
 
-### robots.txt Implementation
-**Location:** `https://darkgreen-moose-683278.hostingersite.com/robots.txt`
+### 4.1 No "Skip to Content" Optimization
+**Status:** 🔵 LOW  
+**Current:** Link present but not styled as required  
+**Recommendation:** Ensure skip link is keyboard-accessible (for a11y/UX)
 
-**To Update:**
-1. Login to WordPress Admin
-2. Navigate: Admin → Tools → RankMath → Site Settings → General Settings (or use file manager)
-3. Edit robots.txt to match specification in Section 2
-4. Save and verify with "Fetch as Google" in GSC
+### 4.2 Author Pages Not Optimized
+**Status:** 🔵 LOW  
+**Current:** Author archive exists but not optimized  
+**Recommendation:** Noindex author archives if not needed
 
-### Schema Markup Implementation
-**Method 1: RankMath (Recommended)**
-1. Post/Page Editor → RankMath → Schema tab
-2. Select schema type (Article, Organization, etc.)
-3. Fill in required fields
-4. Publish
+### 4.3 Comments Enabled by Default
+**Status:** 🔵 LOW  
+**Current:** Comments enabled on posts  
+**Recommendation:** Keep for engagement, but configure RankMath to exclude comment-spam links from SEO
 
-**Method 2: Manual (Code)**
-Add `<script type="application/ld+json">` tags in WordPress header using:
-- Theme → Template → header.php, OR
-- Code Snippets plugin
+### 4.4 Image Alt Text (Future)
+**Status:** 🔵 LOW  
+**Current:** No images yet on site  
+**Recommendation:** When adding images, always include descriptive alt text
 
-### Canonical Tag Verification
-**WordPress Default:** Automatically generated by WordPress
-**Verify in:**
-- WordPress Settings → Permalink structure
-- Ensure it's set to "Post name" (standard)
-- Check page source includes `<link rel="canonical">`
+### 4.5 Mobile Responsiveness Check
+**Status:** 🔵 LOW  
+**Current:** Theme is responsive (Twenty Twenty-Five supports mobile)  
+**Recommendation:** Test with Google's Mobile-Friendly Test once content is added
 
----
-
-## SUCCESS METRICS & MONITORING
-
-### 30-Day Targets
-| Metric | Current | Target | Measurement |
-|--------|---------|--------|-------------|
-| Google Indexed Pages | 0 | 3+ | GSC Coverage |
-| Schema Valid Items | 0 | 100% | Rich Results Test |
-| Core Web Vitals Data | Unavailable | Available | CrUX Dashboard |
-| Crawl Errors in GSC | Unknown | 0 | GSC Errors |
-| Mobile Friendly | ✅ Assumed | ✅ Verified | Mobile-Friendly Test |
-
-### 90-Day Targets
-| Metric | Target | Measurement |
-|--------|--------|-------------|
-| Pages Indexed | 10+ | GSC Coverage |
-| Organic Sessions | 10-20 | GA4 |
-| Average CTR | 2-4% | GSC Performance |
-| Average Position | 15-25 | GSC Performance |
-| Schema Rich Snippets | 50%+ of results | SERP observation |
-
-### Ongoing Monitoring (Monthly)
-1. **Google Search Console**
-   - Crawl stats
-   - Coverage changes
-   - Core Web Vitals
-   - Mobile usability
-
-2. **Google Analytics**
-   - Organic traffic
-   - Bounce rate
-   - Conversion rates
-   - User behavior
-
-3. **Ranking Monitoring**
-   - Target keywords
-   - SERP features
-   - Competitor tracking
+### 4.6 CSS/JavaScript Optimization
+**Status:** 🔵 LOW  
+**Current:** Theme loads default assets  
+**Recommendation:** Minify CSS/JS, defer non-critical scripts (for Core Web Vitals)
 
 ---
 
-## COMPLIANCE & BEST PRACTICES
+## 5. TECHNICAL CHECKLIST — BEFORE LAUNCH
 
-### Technical SEO Best Practices Applied
-- ✅ HTTPS enforcement
-- ✅ Mobile-responsive design
-- ✅ XML sitemap
-- ❌ Schema markup (needs implementation)
-- ❌ Meta tags optimization (needs implementation)
-- ❌ Core Web Vitals monitoring (setup required)
-
-### Google Search Central Alignment
-- Follows: https://developers.google.com/search/docs
-- Uses: Recommended SEO checklist
-- Targets: Core Web Vitals thresholds
-- Implements: Structured data guidelines
-
-### WordPress Security Standards
-- ✅ Latest theme (Twenty Twenty-Five)
-- ✅ HTTPS enabled
-- ⚠️ Plugins need updating (use RankMath for SEO)
-- ⚠️ Hostinger plugins monitored
+- [ ] **CRITICAL:** Fix robots.txt (allow Googlebot, disallow admin)
+- [ ] **HIGH:** Delete default "Hello World" post OR optimize it
+- [ ] **HIGH:** Set homepage title & meta description
+- [ ] **HIGH:** Install RankMath Pro & enable schema module
+- [ ] **HIGH:** Set up Google Analytics 4 via Site Kit
+- [ ] **HIGH:** Verify site in Google Search Console
+- [ ] **HIGH:** Submit sitemap to GSC
+- [ ] **MEDIUM:** Configure permalink structure (Post name)
+- [ ] **MEDIUM:** Set up Open Graph tags (RankMath)
+- [ ] **MEDIUM:** Add favicon
+- [ ] **MEDIUM:** Review and optimize heading structure
+- [ ] **LOW:** Test mobile-friendliness
+- [ ] **LOW:** Run PageSpeed Insights check
+- [ ] **LOW:** Verify no 404 errors in GSC
+- [ ] **LOW:** Disable/noindex author archives if not needed
 
 ---
 
-## DELIVERABLES & NEXT STEPS
+## 6. IMPLEMENTATION PRIORITY
 
-### Execution Handoff
-This audit report provides **detailed, actionable recommendations** for implementation. The following agent/team will execute:
+### Phase 1 (Before Any Content Goes Live) — Week 1
+1. Fix robots.txt
+2. Delete "Hello World" post
+3. Set homepage title/description
+4. Install RankMath Pro
+5. Install Google Site Kit → connect GA4
+6. Verify GSC + submit sitemap
+7. Change permalink structure
 
-**Phase 1 (Critical):** Builder/Wrench
-- Fix robots.txt
-- Install RankMath
-- Add schema markup
-- Fix navigation
+### Phase 2 (Content Preparation) — Week 2
+1. Configure RankMath schema (Organization, LocalBusiness)
+2. Configure RankMath title/meta templates
+3. Set up OG/Twitter Card tags
+4. Plan content structure & internal linking strategy
+5. Create favicon
 
-**Phase 2 (High Priority):** Content team + Builder
-- Create pages
-- Customize meta tags
-- Set up GSC & GA4
-
-**Phase 3 (Medium Priority):** Ongoing SEO management
-- Content creation
-- Performance monitoring
-- Ranking tracking
-
-### Files to Reference
-- **RankMath Documentation:** https://rankmath.com/kb/
-- **Google Search Central:** https://developers.google.com/search
-- **Schema.org Reference:** https://schema.org
-
-### Audit Sign-Off
-✅ **Status:** Complete  
-✅ **Recommendations:** Specific and actionable  
-✅ **Timeline:** Realistic and phased  
-✅ **Ready for Implementation:** Yes
+### Phase 3 (Content Creation) — Ongoing
+1. Write optimized content (90+ RankMath score)
+2. Add proper schema to each page type
+3. Internal link strategically
+4. Monitor GSC for crawl errors
+5. Track Core Web Vitals in GA4
 
 ---
 
-## APPENDIX: TECHNICAL REFERENCE
+## 7. RECOMMENDED PLUGINS
 
-### Domain Information
-```
-Domain: darkgreen-moose-683278.hostingersite.com
-Registrar: Hostinger
-Host: Hostinger (LiteSpeed + LiteSpeed Cache)
-CMS: WordPress 6.x
-Theme: Twenty Twenty-Five
-PHP Version: 8.0+ (typical Hostinger)
-```
+### Essential
+- **RankMath Pro** (schema, titles, sitemap optimization, redirects)
+- **Google Site Kit** (GA4 + GSC integration)
 
-### API/Integration Points
-```
-WordPress REST API: https://darkgreen-moose-683278.hostingersite.com/wp-json/
-Namespace: /wp/v2/
-Additional APIs: Hostinger custom (easy-onboarding, reach, etc.)
-```
+### Optional but Useful
+- **Yoast SEO** (if preferred over RankMath)
+- **Redirection** (manage 301 redirects)
+- **All in One SEO** (alternative to RankMath/Yoast)
 
-### Crawlable URLs
-```
-https://darkgreen-moose-683278.hostingersite.com/
-https://darkgreen-moose-683278.hostingersite.com/hello-world/
-https://darkgreen-moose-683278.hostingersite.com/sitemap.xml
-https://darkgreen-moose-683278.hostingersite.com/robots.txt
-https://darkgreen-moose-683278.hostingersite.com/wp-json/
-```
-
-### Tools for Verification (Post-Implementation)
-1. **Google Rich Results Test:** https://search.google.com/test/rich-results
-2. **Google Mobile-Friendly Test:** https://search.google.com/test/mobile-friendly
-3. **Google PageSpeed Insights:** https://pagespeed.web.dev
-4. **GSC Robots.txt Tester:** In Google Search Console
-5. **Screaming Frog SEO Spider:** For quarterly crawls
-6. **JSON-LD Validator:** https://validator.schema.org/
+### Security
+- **Wordfence** (malware scanner, firewall)
+- **iThemes Security** (hardening)
 
 ---
 
-**Report Completed:** February 10, 2026  
-**Next Review:** After Phase 1 remediation (3-5 days)  
-**Audit Confidence:** High (comprehensive analysis of live site)
+## 8. PERFORMANCE BASELINE (Initial Check)
 
+**Core Web Vitals Check Needed:**  
+Once homepage is optimized, run through:
+- Google PageSpeed Insights: https://pagespeed.web.dev
+- Google Mobile-Friendly Test: https://search.google.com/test/mobile-friendly
+
+Current status: Not tested yet (site has minimal assets)
+
+---
+
+## 9. NEXT STEPS
+
+This audit should be handed to **an execution agent** who will:
+
+1. **Fix robots.txt** — immediate
+2. **Set up GSC & GA4** — immediate
+3. **Install RankMath Pro** — Phase 1
+4. **Optimize homepage & default content** — Phase 1
+5. **Configure schema globally** — Phase 2
+
+Once complete, **this audit should be marked "RESOLVED"** and work should move to content creation & ongoing monitoring (Lookout's responsibility).
+
+---
+
+## AUDIT SIGN-OFF
+
+**Auditor:** Specs  
+**Date:** February 10, 2026  
+**Next Review Date:** After Phase 1 (Week 2)  
+**Status:** ⏳ Awaiting Execution
+
+---
+
+*Report saved to: C:\Users\spart\.openclaw\deliverables\localcatalyst\specs\2026-02-10-technical-seo-audit.md*
