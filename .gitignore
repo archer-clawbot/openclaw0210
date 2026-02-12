@@ -5,6 +5,7 @@ openclaw.json
 openclaw.json.bak.*
 credentials/
 agents/*/agent/auth-profiles.json
+agents/agent/auth-profiles.json
 devices/paired.json
 devices/pending.json
 

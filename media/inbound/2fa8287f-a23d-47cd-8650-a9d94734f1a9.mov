@@ -1,0 +1,673 @@
+New free anti-gravity AI video agent is
+
+
+insane. You're wasting hours writing
+
+
+code line by line. You're stuck in
+
+
+endless debug loops. Your AI tools just
+
+
+suggest code while you do all the work.
+
+
+There's a better way and it literally
+
+
+records videos of itself testing your
+
+
+apps. Hey everyone, it's Amelia and I
+
+
+need to talk about something that
+
+
+dropped in November 2025 that's
+
+
+completely changing how I build
+
+
+software. Google just released
+
+
+anti-gravity. Most AI tools give you
+
+
+code suggestions in a sidebar.
+
+
+Anti-gravity actually controls your
+
+
+browser, tests your app, records videos
+
+
+of what it did, and gives you the
+
+
+finished walkthrough so you can verify
+
+
+everything works without lifting a
+
+
+finger. I'm going to show you exactly
+
+
+how this works, what makes it different,
+
+
+and why developers are calling this a
+
+
+gamecher.
+
+
+Stick around because the browser
+
+
+recording feature alone is worth your
+
+
+time.
+
+
+What actually is anti-gravity?
+
+
+Anti-gravity launched on November 18th,
+
+
+2025 alongside Google's Gemini 3 model.
+
+
+It's an agent first IDE built by Google
+
+
+DeepMind. Now, when I say IDE, I mean
+
+
+integrated development environment.
+
+
+Think of it like your coding workspace,
+
+
+but this isn't your typical code editor.
+
+
+It's built as a fork of VS Code. So, if
+
+
+you've used VS Code, the interface feels
+
+
+familiar, but under the hood, it's
+
+
+completely different. Here's what makes
+
+
+it special. Traditional AI coding tools
+
+
+assist you. Anti-gravity agents work for
+
+
+you. The agents can plan your project,
+
+
+write the code across multiple files,
+
+
+run terminal commands, launch your app,
+
+
+open a browser, test the features, and
+
+
+record everything they did. You describe
+
+
+what you want built. The agent breaks it
+
+
+down into tasks, creates an
+
+
+implementation plan, then executes
+
+
+everything while you watch or work on
+
+
+something else. And here's the best part
+
+
+right now. It's completely free during
+
+
+the public preview. Free access to
+
+
+Gemini 3 Pro, free browser automation,
+
+
+free video recordings, no credit card
+
+
+needed. Google is giving developers
+
+
+generous rate limits to test this out.
+
+
+Now, I'll talk about what this means for
+
+
+your workflow in a minute, but first let
+
+
+me break down the architecture because
+
+
+understanding how this works will help
+
+
+you use it better. The three surface
+
+
+system anti-gravity works through three
+
+
+main surfaces. The agent manager, the
+
+
+editor, and the browser. The agent
+
+
+manager is mission control. This is
+
+
+where you orchestrate your AI agents.
+
+
+You can have multiple agents working on
+
+
+different projects simultaneously.
+
+
+One agent building your front end,
+
+
+another handling backend logic, a third
+
+
+one writing documentation,
+
+
+all running in parallel. But here's
+
+
+where it gets interesting. The browser.
+
+
+Anti-gravity comes with a Chrome
+
+
+extension that lets agents control the
+
+
+browser. Launch local host, click
+
+
+buttons, fill forms, capture
+
+
+screenshots, record everything. When I
+
+
+first started using tools like this, I
+
+
+was overwhelmed. That's when I found
+
+
+this community called AI Profit
+
+
+Boardroom. With over 2,000 members, all
+
+
+focused on learning AI together and
+
+
+sharing what actually works. It taught
+
+
+me which workflows save time versus
+
+
+which ones wasted. The community shares
+
+
+real use cases and practical
+
+
+implementations.
+
+
+If you're serious about using AI to
+
+
+improve your work and skills, check it
+
+
+out. Link in description. how the agent
+
+
+actually works. Let me walk you through
+
+
+a real workflow so you can see this in
+
+
+action. Say you want to build a water
+
+
+tracker app. Simple Flutter app that
+
+
+helps users track their daily water
+
+
+intake. You open anti-gravity, start a
+
+
+new workspace, type your request, build
+
+
+a water tracker app in Flutter with
+
+
+progress visualization and hydration
+
+
+reminders. The agent immediately
+
+
+generates a task list. Create Flutter
+
+
+project structure. Design UI components.
+
+
+Implement progress tracking logic. Add
+
+
+notification system. Test on emulator.
+
+
+You review the task list. Looks good.
+
+
+Approve it. Next comes the
+
+
+implementation plan. You can comment.
+
+
+Change the blue theme to orange. Add a
+
+
+settings toggle. The agent updates the
+
+
+plan. Then execution starts. The agent
+
+
+opens your terminal. Runs Flutter create
+
+
+for the project. Installs dependencies.
+
+
+creates the main file, builds out the UI
+
+
+components, implements the progress
+
+
+tracking logic, all while showing you
+
+
+exactly what it's doing in real time.
+
+
+After coding, it launches the app in the
+
+
+emulator. Chrome opens with a blue agent
+
+
+control border. You see a red dot on
+
+
+screen. That's the agent's cursor. The
+
+
+agent tests your app, adds water intake,
+
+
+checks the progress bar, triggers
+
+
+notifications. Everything's being
+
+
+recorded. When testing finishes, the
+
+
+agent generates a walkthrough artifact
+
+
+with the full video recording,
+
+
+screenshots, and a summary of what it
+
+
+verified. You watch the video. Orange
+
+
+theme applied. Notifications work.
+
+
+Progress visualization is smooth. If
+
+
+something looks off, you comment
+
+
+directly. Fix the notification timing.
+
+
+The agent updates the code. No context
+
+
+switching. No manual testing. The proof
+
+
+is right there. What models power? This
+
+
+anti-gravity is powered primarily by
+
+
+Google's Gemini 3 family. Gemini 3 Pro
+
+
+for complex reasoning and coding. Gemini
+
+
+3 Flash for faster iterations. Gemini 3
+
+
+Deep Think for advanced problem solving.
+
+
+For image generation, it integrates Nano
+
+
+Banana, which is Gemini 2.5 image. If
+
+
+you need logos or graphics in your app,
+
+
+the agent can generate those, too.
+
+
+Everything works together seamlessly.
+
+
+Working with anti-gravity teaches you
+
+
+new skills beyond just coding. You learn
+
+
+to think architecturally.
+
+
+Instead of writing every line yourself,
+
+
+you're designing systems, describing
+
+
+outcomes, orchestrating agents. You get
+
+
+better at prompt engineering. How you
+
+
+describe your requirements directly
+
+
+impacts the quality of what the agent
+
+
+builds. Clear, specific prompts yield
+
+
+better results. You develop async
+
+
+collaboration skills. providing feedback
+
+
+on artifacts, commenting on
+
+
+implementation plans, guiding the agent
+
+
+without micromanaging. You improve your
+
+
+testing mindset. Watching browser
+
+
+recordings makes you think about edge
+
+
+cases, user flows, what actually needs
+
+
+validation and you gain efficiency.
+
+
+Projects that used to take days now take
+
+
+hours or less. This isn't about
+
+
+replacing your skills. It's about
+
+
+amplifying them. If you're looking to
+
+
+dive deeper into AI tools and actually
+
+
+implement them in your work, I recommend
+
+
+AI Profit Boardroom. Over 2,000 people
+
+
+learning how to use AI effectively.
+
+
+Everyone shares real experiences.
+
+
+What's working? What's not? Which tools
+
+
+are worth your time? Which ones to skip?
+
+
+No hype. Just solid information and
+
+
+practical guidance from people doing the
+
+
+work. It's helped me stay on top of
+
+
+updates and figure out how to actually
+
+
+apply them. Link in description if you
+
+
+want to check it out. If you want the
+
+
+full process, SOPs and 100 plus AI use
+
+
+cases like this one. Join the AI success
+
+
+labs in the comments and description.
+
+
+You'll get all the video notes from
+
+
+there, plus access to our community of
+
+
+46,000 members who are crushing it with
+
+
+AI.
+
+
+What this means for development
+
+
+anti-gravity represents a shift in how
+
+
+we build software from typing code to
+
+
+describing outcomes from manual testing
+
+
+to autonomous verification. The video
+
+
+recording feature changes everything.
+
+
+Onboard team members by showing them
+
+
+walkthrough recordings. Document bugs
+
+
+with recorded reproductions. Send
+
+
+clients walkthrough artifacts instead of
+
+
+scheduling demo calls. The applications
+
+
+extend beyond solo development. Teams
+
+
+can run multiple agents on different
+
+
+features. Parallel workflows. Everyone
+
+
+working faster.
+
+
+Final thoughts. Anti-gravity is free
+
+
+right now during preview. Full access to
+
+
+Gemini 3 Pro. Browser automation, video
+
+
+walkthroughs, multiple AI models, no
+
+
+cost. Is it perfect? No. It's a preview.
+
+
+There are bugs, rate limits, learning
+
+
+curves. But is it powerful? Absolutely.
+
+
+If you build web apps, if you prototype
+
+
+frequently, if you want to move faster,
+
+
+anti-gravity is worth your time.
+
+
+Download it. Build something small.
+
+
+Watch the agent work. See the
+
+
+recordings. The future of development is
+
+
+about orchestrating intelligent agents
+
+
+who can plan, build, test, and verify
+
+
+while you focus on creative decisions
+
+
+and strategy. Anti-gravity brings that
+
+
+future to your desktop for free right
+
+
+now. Go try it. build something
+
+
+and let me know what you create. Thanks
+
+
+for watching.

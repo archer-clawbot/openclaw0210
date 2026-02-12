@@ -1,0 +1,12181 @@
+Google just dropped anti-gravity and
+
+
+it's insane. This thing builds entire
+
+
+apps while you watch. No coding needed.
+
+
+Just tell it what you want and AI agents
+
+
+do everything. I'm talking landing
+
+
+pages, automation tools, full websites
+
+
+in minutes. This is the future and I'm
+
+
+showing you everything. And listen, what
+
+
+I'm about to show you is probably the
+
+
+most powerful AI tool that's come out
+
+
+this year. And most people have no idea
+
+
+it exists yet, which means you're early.
+
+
+Really early. And that matters because
+
+
+the people who learn this first are
+
+
+going to have a massive advantage over
+
+
+everyone else. Google just released
+
+
+something called anti-gravity. And it's
+
+
+not like chat GPT. It's not like Claude.
+
+
+It's not even like the other AI coding
+
+
+tools you've heard of. This is
+
+
+completely different. This is Google's
+
+
+secret weapon powered by their Gemini 3
+
+
+models. And it doesn't just write code.
+
+
+It builds entire projects autonomously.
+
+
+like having a full development team
+
+
+working for you around the clock. Except
+
+
+it's AI agents and they don't sleep.
+
+
+They don't take breaks. They just build.
+
+
+I'm talking full websites, landing pages
+
+
+that actually convert automation systems
+
+
+that save you hours every single day.
+
+
+Custom apps, tools, dashboards,
+
+
+everything. And here's what makes this
+
+
+absolutely insane. You don't need to
+
+
+know how to code. Not even a little bit.
+
+
+You just tell it what you want. in plain
+
+
+English like you're talking to a person
+
+
+and it builds the entire thing right in
+
+
+front of you with screenshots proving it
+
+
+works with tests to make sure nothing
+
+
+breaks with documentation explaining
+
+
+everything is like magic except it's
+
+
+real and it's available right now here's
+
+
+why you need to watch this entire course
+
+
+because I'm not just going to show you
+
+
+the basics I'm going to show you
+
+
+everything the stuff nobody else is
+
+
+talking about yet how to set it up
+
+
+properly so it actually works how how to
+
+
+use the different modes how to make the
+
+
+agents work together how to build
+
+
+complex projects step by step how to
+
+
+troubleshoot when things go wrong, how
+
+
+to optimize for speed, how to use the
+
+
+advanced features that multiply your
+
+
+results, and most importantly, I'm going
+
+
+to build real projects with you live on
+
+
+screen so you can see exactly how this
+
+
+works in the real world. By the end of
+
+
+this course, you're going to be able to
+
+
+build things you never thought possible
+
+
+without hiring anyone, without learning
+
+
+to code, without spending months trying
+
+
+to figure it out. You're going to have a
+
+
+superpower. And in a world where AI is
+
+
+moving this fast, that superpower is
+
+
+going to separate you from everyone else
+
+
+who's still doing things the old way,
+
+
+the slow way, the expensive way. Let's
+
+
+go. Hey, if we haven't met already, I'm
+
+
+the digital avatar of Julian Goldie, CEO
+
+
+of SEO agency Goldie Agency. Whilst he's
+
+
+helping clients get more leads and
+
+
+customers, I'm here to help you get the
+
+
+latest AI updates. Julian Goldie reads
+
+
+every comment, so make sure you comment
+
+
+below. So today, I'm going to show you
+
+
+how to vibe code with anti-gravity. So
+
+
+this is a free tool from Google that
+
+
+allows you to code with for example
+
+
+Claude or Gemini or all your other tools
+
+
+to build apps, tools, games, websites,
+
+
+pretty much anything that you can think
+
+
+of. You can build anti-gravity. And so
+
+
+what you can do is inside anti-gravity,
+
+
+you can code out different things you
+
+
+want to. So for example, this was
+
+
+actually a quiz. And then you can get
+
+
+the AI agent to test and code with you.
+
+
+And you know, this is changing how
+
+
+people build tools, websites,
+
+
+dashboards, and automations. And here's
+
+
+the crazy part. You don't need to know
+
+
+how to code. You don't need to hire
+
+
+developers. You don't need to spend
+
+
+months learning technical stuff. You
+
+
+just tell it what you want it plain
+
+
+English. Then multiple AI agents work
+
+
+together to build this stuff out for
+
+
+you. So, one agent will write the code.
+
+
+Another agent test it. Another agent
+
+
+fixes bugs. And even take screenshots
+
+
+and videos to show you what they did.
+
+
+So, today I'm going to show you exactly
+
+
+how it works. We're going to test it
+
+
+live right here. We're going to build
+
+
+some tools together you can actually use
+
+
+inside your business. Things like lead
+
+
+trackers, content, dashboards, client
+
+
+portals, all built with AI. and I'm
+
+
+going give you the exact prompts that we
+
+
+use, plus a 30-day plan to go from zero
+
+
+to building your own business source,
+
+
+even if you've never written a single
+
+
+line of code in your life. This is brand
+
+
+new. We're testing it live. See what it
+
+
+can do. Let's get straight into it. If
+
+
+you haven't used it before, this is how
+
+
+it works. If we say, for example, okay,
+
+
+test this out, and this is the quiz that
+
+
+we actually built out previously. We're
+
+
+actually going to get the AI agent to
+
+
+now test out this quiz live. And it will
+
+
+just click buttons and work on testing
+
+
+out this tool that it built in the
+
+
+background. Right? So you can see it's
+
+
+just launching, running the terminal
+
+
+commands, hosting this locally, etc. And
+
+
+then locating this, right? And now it's
+
+
+launched the AI browser and it's going
+
+
+to navigate to the project that it's
+
+
+built offline. So this is the tool
+
+
+that's built. This is a quiz and it's
+
+
+actually going to use that quiz and
+
+
+start using it directly here. Again, I'm
+
+
+not touching this. I'm not messing
+
+
+around with this. It's just going off
+
+
+and doing everything. All right. So if
+
+
+we hit confirm, so it's actually going
+
+
+to start analyzing the page, start
+
+
+videoing the screen, and then using this
+
+
+to test it out. All right. So today,
+
+
+what I'm going to show you is the Goldie
+
+
+Gravity Launch Framework. And this is my
+
+
+favorite and personal framework for
+
+
+building business automation tools with
+
+
+AI agents. Here's why it works. Most
+
+
+people think building apps takes months.
+
+
+They think you need developers. They
+
+
+think you need to understand
+
+
+programming. None of that is true
+
+
+anymore, right? With Google Anraity, you
+
+
+become architect, right? So you tell AI
+
+
+agents what to build. They do the heavy
+
+
+lifting and you just guide them and
+
+
+approve their work. And this framework
+
+
+has five phases. So liftoff. So days 1 7
+
+
+you're going to get the tools set up and
+
+
+learn the basics. Days 8 to 14 this is a
+
+
+30-day plan you're going to learn how to
+
+
+build first your simple tools right
+
+
+phase three days 15 to 21 you create
+
+
+more complex business tools. Phase 4
+
+
+days 22 to 28 you test and refine and
+
+
+then phase five is like scaling right so
+
+
+days 29 to 30 you want to deploy and use
+
+
+this inside your actual business. All
+
+
+right so example let me show you how
+
+
+this works. These are some real tools I
+
+
+actually want for my own business. For
+
+
+example, for the AR profit boardroom, I
+
+
+want like a member progress dashboard,
+
+
+right? A tool that shows new members
+
+
+what to do first. It tracks their
+
+
+progress through the community, shows
+
+
+leaderboards and achievements. All
+
+
+right. So, what I can do is I can go
+
+
+into Antiggravity. We can open up a new
+
+
+window which will open up a new project.
+
+
+We'll click on open folder. We'll type
+
+
+in member dashboard. We're going to
+
+
+close this other one over here. And then
+
+
+we're going to go back to antigravity.
+
+
+Open up that folder for the dashboard as
+
+
+you can see. And what you can see here
+
+
+inside anti-gravity is you have over
+
+
+here your project files. Over here you
+
+
+have the actual code and then over here
+
+
+you have the chat. Right? And this is
+
+
+really where you're going to interact
+
+
+with stuff inside the chat. You can
+
+
+switch between planning and fast mode.
+
+
+I'm going to go with fast mode and then
+
+
+we're going to type this in. Right now
+
+
+you want to give it a bit of context
+
+
+about you, your business, etc. So I'm
+
+
+going to say okay create a dashboard for
+
+
+this but do it for the AI profit
+
+
+boardroom community. Right? And then
+
+
+what we can actually do is go to the AI
+
+
+profit boardroom grab some information
+
+
+about it etc. Right? So we can take this
+
+
+information like so. Plug that into
+
+
+anti-gravity. Here's some info about it,
+
+
+right? And it can be messy inside the
+
+
+prompt. It doesn't really matter. And
+
+
+then what we're going to do is say,
+
+
+okay, build this. Then we're going to
+
+
+hit enter. And what this will do is
+
+
+start figuring out, okay, what are the
+
+
+dashboard elements? How do we integrate
+
+
+the gamification of it? How do we begin
+
+
+the project setup? Right? And it's going
+
+
+to run some terminal commands. But if
+
+
+you've got your settings enabled so that
+
+
+it runs terminal commands for you
+
+
+without you approving them, you're going
+
+
+to save a lot of time. So you can see
+
+
+here inside the settings of the agent we
+
+
+have for example like terminal command
+
+
+auto we have allow terminal commands etc
+
+
+right and that just saves a lot of time
+
+
+and then you know that will just
+
+
+automate a lot of the prompting that
+
+
+sort of thing if you're not sure about
+
+
+this stuff you don't have to allow it
+
+
+it's just this saves me time and that's
+
+
+what I'm going to allow and the same for
+
+
+the browser agent as well we've got a
+
+
+bunch of approved websites we've got the
+
+
+settings for it over here and then we're
+
+
+just going to X off that and you can see
+
+
+that's now beginning to build this out
+
+
+right so it's actually created did
+
+
+images with Nana Banana Pro and then
+
+
+it's going to build out the HTML for our
+
+
+project so that we can test it out. By
+
+
+the way, source sporters, you're asking
+
+
+about like how to start your social
+
+
+media from scratch, right? So, what I'd
+
+
+recommend is if you go to the AI prof
+
+
+here and then you go to the YouTube AI
+
+
+road map, it will show you how to build
+
+
+a YouTube channel from scratch based on
+
+
+what's worked for me, right? Also, if
+
+
+you want to learn how to, for example,
+
+
+automate your X account from scratch,
+
+
+you can get that inside this section.
+
+
+And the same for like shorts and all our
+
+
+other social media channels. We show you
+
+
+exactly how to automate all of that
+
+
+stuff using the board teachings in the
+
+
+classroom inside there. So that's the
+
+
+best place to learn that stuff. So we
+
+
+can see that's now beginning to build
+
+
+out the dashboard here. And now we've
+
+
+got a dashboard as we requested. Right
+
+
+now this is going to test out first
+
+
+check it's okay etc. But you can see how
+
+
+easy that was to build. Right. And we've
+
+
+generated the dashboard here. We can
+
+
+actually stop this. So we can stop the
+
+
+agent, force it to close, etc. And then
+
+
+we can switch between the pages and that
+
+
+sort of thing. All right. So let's close
+
+
+that now. Have a look through. Yeah. All
+
+
+right. So, it's built out the dashboard.
+
+
+Like, so that's how you can build out a
+
+
+really quick dashboard. Again, some of
+
+
+those pages didn't work. So, you just
+
+
+want to make sure you continue to code
+
+
+out or the AI agent will test it and
+
+
+continue to code out. But that's
+
+
+basically how it works, right? You could
+
+
+also, for example, create a live caller.
+
+
+All right. So, we could take that. We
+
+
+can go to anti-gravity and we can say,
+
+
+okay, delete everything, but now create
+
+
+a live calluler for the AR profit order.
+
+
+All right. We'll stop the agent over
+
+
+here and we just tell it to start again
+
+
+and build this cool schedule for her.
+
+
+Right now, I wouldn't recommend starting
+
+
+again, but it's just because I'm showing
+
+
+this live for you and I want to
+
+
+demonstrate like how easy it is to vibe
+
+
+code stuff out. Right. You can also, for
+
+
+example, take screenshots and then
+
+
+upload them inside the chat here. So, if
+
+
+you click on plus, you can add images,
+
+
+you can do mentions, you can actually
+
+
+mention workflows as well, which is
+
+
+pretty cool. So, if you go to workflows
+
+
+here, you can set up workflows. And then
+
+
+you can see it's now beginning to code
+
+
+out the new version of the tool that we
+
+
+were building out. So, I've actually got
+
+
+a 30-day Goldie gravity launcher plan,
+
+
+right? And this shows you exactly what
+
+
+to do each day, every day as a tool to
+
+
+use in a prompt to try, right? So, for
+
+
+example, like in the liftoff phase, days
+
+
+one to seven, the setup and the basics.
+
+
+I've broken down exactly what to do
+
+
+every single day if you really want to
+
+
+master anti-gravity. This is inside the
+
+
+AI success lab, and it's completely
+
+
+free, but you can get like a 30-day plan
+
+
+on exactly how to implement this stuff
+
+
+for you. So, it will show you how to,
+
+
+for example, like test out Gemini Pro
+
+
+and by the way, this is the newly coded
+
+
+live calluler. So this is the AI agent
+
+
+testing it out now and you can see that
+
+
+it's clicking through the pages seeing
+
+
+what to do etc. It's actually built in
+
+
+some ways that we could sync Google and
+
+
+everything else and you can sync it to
+
+
+your calendar now and then it also has a
+
+
+link to the Zoom room. Now that calendar
+
+
+itself looks really nice right like the
+
+
+design itself looks super nice. It's
+
+
+built into the actual dashboard we
+
+
+created before and you can see it's now
+
+
+beginning to schedule in the tools and
+
+
+everything else right if you ever want
+
+
+to take over the AI you can. But you can
+
+
+see here for example it's got these are
+
+
+the upcoming calls this week right and
+
+
+then it's got the sync options plus we
+
+
+can download the calendar and we've just
+
+
+live coded a calendar app in the space
+
+
+of 2 minutes whilst I've been talking to
+
+
+you right and you can also for example
+
+
+enable email reminders or browser
+
+
+notifications etc inside this it's got a
+
+
+live soon section which looks super nice
+
+
+and the whole looks great right and that
+
+
+was coded out using Google Gemini flash
+
+
+now you can switch between these so you
+
+
+could use for example like quartic 4.5
+
+
+opus you could use Gemini three three
+
+
+pro low and high. But actually to be
+
+
+honest, like Gemini Flash is great
+
+
+because it's fast. It doesn't seem to
+
+
+hit the limit so much and it's super
+
+
+quick to use and build out. But you can
+
+
+see how powerful this is. You can vibe
+
+
+code almost anything that you can think
+
+
+of and the only limitation is really
+
+
+your creativity or figuring out like the
+
+
+best business cases to use it. So this
+
+
+is the 30-day plan. What I've actually
+
+
+done as well is inside the notes from
+
+
+today, I've added 100 different prompts
+
+
+for solarreneurs. So these are like
+
+
+prompts you can copy and paste directly
+
+
+into tactic gravity and they customize
+
+
+your business. So you can see all these
+
+
+lead generation tools that you could
+
+
+build, client management tools, etc.
+
+
+Content management tools, you got
+
+
+productivity tools, right? All this
+
+
+cooler stuff, right? So for example,
+
+
+here we can say, okay, build a to-do
+
+
+list app with add complete and delete
+
+
+functions, sort by priority. Right? So
+
+
+we could go back to anti-gravity. Now we
+
+
+can open up a new window means a new
+
+
+folder and a new project. And we'll type
+
+
+in to-do list tab. Right? We'll hit
+
+
+open. So we're going to X off the old
+
+
+project. We're going to go into the new
+
+
+project. We can actually switch into
+
+
+planning first, which will create better
+
+
+outputs, right? So, if you use a
+
+
+planning function instead, you will get
+
+
+better outputs. It's going to start
+
+
+planning the to-do list for the to-do
+
+
+list app, which we'll come back to in a
+
+
+second. But, yeah, it's pretty amazing
+
+
+what you can do here. Now, what I want
+
+
+to show you is I want to share some
+
+
+truths that might surprise you. So, some
+
+
+people say that building apps takes
+
+
+months of coding. The right belief
+
+
+instead is that AI agents build apps in
+
+
+minutes, right? So, for example, Thomas
+
+
+Edison, he tried over a thousand times
+
+
+to make the light bulb work. in each try
+
+
+took weeks or months of careful work.
+
+
+Today we flip a switch and we have a
+
+
+light instantly. And the same shift is
+
+
+happening with building tools, right?
+
+
+What used to take a team of developers
+
+
+months now takes one person with the
+
+
+right prompts minutes. And Edison didn't
+
+
+give up because the technology kept
+
+
+improving. You shouldn't give up on
+
+
+building tools because the technology
+
+
+has finally arrived. Google Anti-gravity
+
+
+is basically the light switch moment for
+
+
+app building. Some people say I'm not
+
+
+technical enough. This is the to-do list
+
+
+app, by the way, that's just opened in
+
+
+the background. Right? You just need to
+
+
+describe what you want. So for example,
+
+
+like Richard Branson, he always
+
+
+struggled with reading and writing his
+
+
+whole life, but he built hundreds of
+
+
+companies. And he didn't do it by being
+
+
+the smartest person in the room. He did
+
+
+it by describing his vision clearly to
+
+
+others who could execute. Google gravity
+
+
+works the same way. So you don't need to
+
+
+understand code. You need to describe
+
+
+what you want clearly. The AI agents are
+
+
+your technical team. Your job is to be
+
+
+the visionary. For example, Branson
+
+
+would love this technology, right? He's
+
+
+a visionary. Other people will say AI
+
+
+tools are just hype. The right belief
+
+
+here is that a fundamental shift in how
+
+
+things are getting built has changed
+
+
+with anti-gravity. If you look at Walt
+
+
+Disney for example, he was told no by
+
+
+everyone. And they all said his dream of
+
+
+a theme park was a fantasy. It would
+
+
+never work. But Disney saw something
+
+
+they couldn't see. He saw a future where
+
+
+families would pay to experience magic.
+
+
+And AI tools today face similar doubt.
+
+
+Some people say it's just autocomplete.
+
+
+Some people say it can't do real work
+
+
+and some people say it will never
+
+
+replace developers. But the people using
+
+
+these tools right now, they're building
+
+
+businesses faster than before. They're
+
+
+creating tools that competitors can't
+
+
+even imagine. And Disney didn't let
+
+
+doubt stop him. So don't let doubt stop
+
+
+you from exploring what's possible. So
+
+
+if we go back to the tool now, we've got
+
+
+the to-do list. So let's test this out.
+
+
+Okay. So we're going to say check out
+
+
+anti-gravity. As a to-do list, we'll
+
+
+select high priority and low. Hit add
+
+
+task. Boom. Does it work? Yes. Does it
+
+
+look nice? Yes. Did it work first time
+
+
+around? Yes. Did we code it for free
+
+
+with anti-gravity? Yes, my friends. All
+
+
+right, and we've done the same with all
+
+
+of these tools and apps that we built
+
+
+today. All right, so you can create
+
+
+amazing stuff with this. You can create
+
+
+magic with this if you know what you're
+
+
+doing. So, thanks so much for watching.
+
+
+If you want to get all the video notes
+
+
+from today, that is exactly how to vibe
+
+
+code with anti-gravity. You can
+
+
+basically vibe code anything you want.
+
+
+And inside the AI success lab, which
+
+
+comes with a community of 40,000
+
+
+members, it's completely free. You can
+
+
+post in the community. You can connect
+
+
+with 40,000 people inside the classroom
+
+
+here, you will get access to all this
+
+
+cool stuff. And if you go inside the
+
+
+December section here, you can see all
+
+
+the notes from today with the prompts,
+
+
+the tools, the tips, the framework.
+
+
+Right? So, this is the Goldie Gravity
+
+
+launch framework. You've got, for
+
+
+example, the build ideas that we
+
+
+actually built. You've got all the
+
+
+prompts from today as well. And you have
+
+
+the 30-day road map plus all the beliefs
+
+
+that we've talked about as well, right?
+
+
+So, it's basically a full guide, a full
+
+
+very in-depth guide on exactly how to
+
+
+use anti-gravity. It talks about the
+
+
+wrong beliefs, the right beliefs, and
+
+
+how to overcome them, right? To get
+
+
+results with this stuff. Now, if you're
+
+
+wondering, okay, do people actually get
+
+
+results? that people actually build
+
+
+stuff with this. You can actually check
+
+
+out the air profit boardroom and we have
+
+
+over 108 pages of fromos inside the air
+
+
+profit boardroom. All right, so for
+
+
+example, Elsa, she said, "Wow, this
+
+
+community is next level." Right? Mike
+
+
+said, "Julian, your content is amazing."
+
+
+Right? Eric said, "Programmed a
+
+
+WordPress plugin with Manis." Steven
+
+
+said he'd never heard of NM before and
+
+
+now we built something that actually
+
+
+saved him 10% of his time. Right? It's
+
+
+freed up 10% of his time using the
+
+
+automations from the AirPod. Andrew got
+
+
+his first win by creating his first AI
+
+
+avatar video. You've got Omelle said
+
+
+like how good the week one lesson is for
+
+
+AI agents and there's so many people
+
+
+getting results with this stuff. Darren
+
+
+as well, he said, "Wow, that's so
+
+
+exciting." It's a credit for you to all
+
+
+your wonderful training support. It's a
+
+
+credit to this community who share.
+
+
+Congratulations. And so we got 108 pages
+
+
+of stuff like this, all these different
+
+
+testimonials. As you can see, it's
+
+
+pretty much an endless scroll at this
+
+
+point. I don't think I've even had the
+
+
+chance to read them all. But the main
+
+
+thing to note here is if you want to
+
+
+join a community of winners, if you want
+
+
+to see what people are building with
+
+
+this stuff, if you want to connect with
+
+
+some of the best AI automators in the
+
+
+world, join the AI profit board because
+
+
+inside the community you get the
+
+
+accountability group, you can post, you
+
+
+can ask questions, you can share your
+
+
+wins, you can share your goals, you can
+
+
+read the value post, you can get the
+
+
+weekly updates, right? And also inside
+
+
+the classroom here, you get all of my
+
+
+best trainings on AI automation. So, for
+
+
+example, we show you how to get results
+
+
+with AI and go from beginner to expert
+
+
+in just 6 weeks, right? and we show you
+
+
+how to build your first air agent in
+
+
+under five minutes. On top of that, we
+
+
+show you our playbook, right? And this
+
+
+is our playbook for automating Twitter
+
+
+newsletters, shorts, AI avatar videos,
+
+
+screen shares, automating videos with
+
+
+AI, etc. Right? We have training on, for
+
+
+example, lead generation, social media,
+
+
+NA10 templates, agency courses. We've
+
+
+got stuff on how to get clients, AI
+
+
+automation, YouTube, etc. All this cool
+
+
+stuff. And then also if you need help in
+
+
+real time, you want to jump on a call
+
+
+with someone, you can actually jump on
+
+
+four weekly coaching calls as you can
+
+
+see right here. So you can jump on these
+
+
+coaching calls, get help, support
+
+
+whenever you need it and get your
+
+
+questions answered in real time. And if
+
+
+you can't make the coaching calls, no
+
+
+problem at all. You can watch them back
+
+
+inside the call recording section here.
+
+
+So amazing community. Feel free to check
+
+
+that out. That is at the AI profit board
+
+
+link in the description or you can go to
+
+
+a profitboarding.com. Google just
+
+
+dropped something wild. It's called
+
+
+anti-gravity. And when you combine it
+
+
+with clawed code is like having an
+
+
+entire dev team working for you. I'm
+
+
+talking planning, coding, testing, all
+
+
+done by AI agents while you watch. This
+
+
+is the craziest AI coding combo I've
+
+
+seen. And I'm about to show you exactly
+
+
+how it works. Let's dive in. All right,
+
+
+so here's what's happening right now in
+
+
+the AI coding world. Google just
+
+
+launched something called Anti-Gravity
+
+
+on November 18th, 2025. It's not just
+
+
+another code editor. is a full AI agent
+
+
+IDE that uses their new Gemini 3 Pro
+
+
+model to actually plan, execute, and
+
+
+validate code for you. Think of it like
+
+
+this. Instead of you writing every line
+
+
+of code, you have AI agents that work
+
+
+semi-autonomously across your entire
+
+
+project. They can access your editor,
+
+
+your terminal, even an integrated
+
+
+browser. And here's where it gets
+
+
+insane. When you combine anti-gravity
+
+
+with Claude Code, which runs on
+
+
+Anthropics Claude Opus 4.5, you get the
+
+
+best of both worlds. Gemini handles the
+
+
+planning and orchestration. Claude
+
+
+handles the actual code execution and
+
+
+generation. It's like having a project
+
+
+manager and a senior developer working
+
+
+together except they're both AI.
+
+
+Anti-gravity is Google's new agent first
+
+
+IDE. Instead of just giving code
+
+
+suggestions, it runs autonomous agents
+
+
+that complete entire tasks. These agents
+
+
+create task lists, take screenshots, and
+
+
+work while you do other things. It
+
+
+supports Windows, Mac OS, and Linux.
+
+
+Claude Code is Anthropic's coding
+
+
+environment you access through your
+
+
+terminal. It generates code, debugs
+
+
+problems, and creates entire project
+
+
+structures. The latest version runs on
+
+
+Claude Opus 4.5, and it's incredibly
+
+
+good at coding tasks. Why combine them?
+
+
+Because each one covers the other's
+
+
+weaknesses. Anti-gravity is amazing at
+
+
+planning and coordinating. Clawed Code
+
+
+is better at actually writing complex
+
+
+code with fewer bugs. The hybrid
+
+
+workflow use Gemini for planning, Claude
+
+
+Code for execution, anti-gravity for
+
+
+testing. Let me show you what this looks
+
+
+like in practice. Let's say I want to
+
+
+build a new landing page for the AI
+
+
+profit boardroom. I want it to convert
+
+
+visitors, show the amazing value of AI
+
+
+automation, and explain all the benefits
+
+
+of our community to get more customers,
+
+
+leads, and traffic. Here's how I'd use
+
+
+this combo. First, I open anti-gravity
+
+
+and give it the highle task. I tell it,
+
+
+create a landing page for AI profit
+
+
+boardroom that focuses on conversion,
+
+
+highlights community benefits, and uses
+
+
+modern design principles. Anti-gravity's
+
+
+Gemini agent breaks this down into a
+
+
+task list. It says create file
+
+
+structure, design hero section, build
+
+
+features list, add testimonial section,
+
+
+create CTA buttons, set up responsive
+
+
+styling, test on multiple devices.
+
+
+That's the planning phase done in
+
+
+seconds. Now, here's where it gets
+
+
+interesting, right? For each of those
+
+
+tasks, I can choose which tool executes
+
+
+it. For the file structure and basic
+
+
+setup, I use clawed code. I open my
+
+
+terminal, run clawed code, and paste the
+
+
+requirements. It creates all the HTML,
+
+
+CSS, and JavaScript files. I need clean
+
+
+structure, proper naming conventions,
+
+
+everything organized. This happens in
+
+
+about 30 seconds. Then I switch back to
+
+
+anti-gravity for the visual design work.
+
+
+I tell its agent to design the hero
+
+
+section with specific elements. Headline
+
+
+about AI automation, sub headline about
+
+
+the community, background gradient, CTA
+
+
+button. The agent uses Gemini to
+
+
+generate the design, creates a preview,
+
+
+and even takes a screenshot so I can see
+
+
+it without switching windows. If I don't
+
+
+like something, I tell it to adjust. The
+
+
+agent iterates until it's right. For the
+
+
+features section, I go back to clawed
+
+
+code because I want custom JavaScript
+
+
+interactions. I describe what I want. A
+
+
+features grid that animates on scroll,
+
+
+highlights different benefits, and links
+
+
+to specific resources. Claude code
+
+
+writes the entire thing, including the
+
+
+animation logic and responsive
+
+
+breakpoints. It even adds comments
+
+
+explaining what each part does. Back to
+
+
+anti-gravity for testing its browser
+
+
+agent, loads the page, tests it on
+
+
+different screen sizes, checks that all
+
+
+links work, and validates the HTML. It
+
+
+creates a report showing what works and
+
+
+what needs fixing. I can see screenshots
+
+
+of every test. This is where
+
+
+anti-gravity really shines because it
+
+
+automates all the tedious testing work.
+
+
+Now, let me tell you the benefits people
+
+
+are seeing. First, you extend your usage
+
+
+limits by switching between tools
+
+
+strategically. You get more done before
+
+
+hitting walls. Second, reliability goes
+
+
+up. Clawed code produces fewer bugs and
+
+
+cleaner code. Third, it feels like
+
+
+having a whole dev team. One tool plans,
+
+
+one codes, one tests. Token limits are
+
+
+another thing. Both tools use tokens for
+
+
+their AI models. Complex projects burn
+
+
+through tokens fast. You need to be
+
+
+strategic about what you ask each tool
+
+
+to do. Don't ask for explanations you
+
+
+don't need. Don't regenerate code that
+
+
+already works. Be efficient with your
+
+
+prompts. Model inconsistency happens
+
+
+sometimes. Gemini might suggest one
+
+
+approach and Claude might implement it
+
+
+differently. Usually, this isn't a
+
+
+problem, but occasionally you get
+
+
+friction. The way to handle this is to
+
+
+be very specific in your prompts. Tell
+
+
+Clar code exactly what anti-gravity
+
+
+planned. Don't leave room for
+
+
+interpretation. Here's what I recommend
+
+
+for your workflow. Use anti-gravity for
+
+
+planning and project management. Let it
+
+
+break down your tasks. Create timelines.
+
+
+Organize your work. Use clawed code for
+
+
+actual code generation, especially
+
+
+complex logic or algorithms. Use
+
+
+anti-gravity's agents for testing,
+
+
+validation, and documentation. This
+
+
+division of labor maximizes what each
+
+
+tool is good at. You can also integrate
+
+
+other tools into this workflow. There
+
+
+are MCP servers that add extra
+
+
+capabilities. For example, test sprite
+
+
+MCP helps with automated testing.
+
+
+Sonotype MCP helps with dependency
+
+
+security. You plug these into
+
+
+anti-gravity and suddenly your AI dev
+
+
+stack has even more power. Now, is this
+
+
+the future of coding? I think it's a big
+
+
+step in that direction. We're moving
+
+
+from AI that suggests code to AI that
+
+
+actually builds complete features. The
+
+
+role of the developer is shifting.
+
+
+You're becoming more of a director and
+
+
+less of a typist. You define what you
+
+
+want. You orchestrate the tools. You
+
+
+validate the output. The AI does the
+
+
+implementation work. This matters
+
+
+because it changes what's possible.
+
+
+Projects that used to take weeks can now
+
+
+take days. Features that used to require
+
+
+a whole team can be built by one person
+
+
+with the right AI tools. The barrier to
+
+
+building software is dropping fast.
+
+
+Here's what you should do next. If
+
+
+you're a developer, try this combo. Set
+
+
+up anti-gravity. Get access to clawed
+
+
+code and build something real. Don't
+
+
+just test it with toy projects. Build an
+
+
+actual tool or feature you need. That's
+
+
+when you'll see the real power. Pay
+
+
+attention to which tool you use for what
+
+
+tasks. Develop your own workflow
+
+
+patterns. Share what you learned with
+
+
+the community because this is all so new
+
+
+that best practices are still emerging.
+
+
+If you're not a developer, but you run a
+
+
+business, understand that this
+
+
+technology is going to change how fast
+
+
+and cheap it is to build software. Your
+
+
+competitors might already be using tools
+
+
+like this to ship features faster. You
+
+
+need to either adopt these tools or hire
+
+
+people who know how to use them. And
+
+
+here's something cool. You don't need to
+
+
+be an expert coder to use this
+
+
+effectively. If you understand what you
+
+
+want to build and can describe it
+
+
+clearly, these AI tools can handle a lot
+
+
+of the technical complexity that making
+
+
+software development more accessible.
+
+
+Before we wrap up, I want to mention two
+
+
+things that can help you even more with
+
+
+AI automation. First, if you want to
+
+
+learn how to save time and automate your
+
+
+business with AI tools like anti-gravity
+
+
+and clawed code, check out the AI profit
+
+
+boardroom. We dive deep into practical
+
+
+AI automation that actually works for
+
+
+real businesses. You'll see exactly how
+
+
+to implement these tools to get more
+
+
+customers, leads, and traffic. And if
+
+
+you want the full process, SLPs, and
+
+
+over a 100 AI use cases like this one,
+
+
+join the AI Success Lab. It's our free
+
+
+AI community. Links are in the comments
+
+
+and description. You'll get all the
+
+
+video notes from there, plus access to
+
+
+our community of 40,000 members who are
+
+
+crushing it with AI. Real people, real
+
+
+results, real help. Today, I'm going to
+
+
+be running through exactly how to use
+
+
+Google Antigravity. If you've never used
+
+
+anti-gravity, basically it's a free way
+
+
+to code with Google and you can also get
+
+
+access to Claude as well. And it's
+
+
+completely free. You can code locally
+
+
+with this. You can build some amazing
+
+
+stuff with this. And you can download it
+
+
+at anti-gravity.goole.
+
+
+Once you're in, you're going to be able
+
+
+to build stuff like this as you can see.
+
+
+And I'll show you, for example, how to
+
+
+use this to build apps, tools, websites,
+
+
+landing pages, almost anything that you
+
+
+want and how to master it. It's very
+
+
+easy because literally you just type in
+
+
+same simple English exactly what you
+
+
+want and you can get started straight
+
+
+away. And today, what you're going to
+
+
+learn is how to set up anti-gravity from
+
+
+scratch, how to build your first app
+
+
+with one sentence, how to use
+
+
+screenshots to make changes, how to
+
+
+watch your app get built in real time,
+
+
+the exact settings you need to switch
+
+
+on. And yes, this is free right now cuz
+
+
+it's in public preview. All right, so
+
+
+we're going to test out today. We're
+
+
+going to use the anti-gravity
+
+
+acceleration system. And this is my
+
+
+simple framework for turning Google
+
+
+Antigravity into a customer getting
+
+
+machine for your business, right? And
+
+
+most people would download this tool and
+
+
+make a calculator, an app, or a to-do
+
+
+list. And that's fun, but it's not going
+
+
+to help you so much, right? with lead
+
+
+generation, that sort of thing. If
+
+
+instead you could build like a lead
+
+
+capture landing page for your website or
+
+
+a quiz that qualifies potential
+
+
+customers or a tool that shows off your
+
+
+expertise or a dashboard that makes you
+
+
+look professional, that's what separates
+
+
+those who tinker with those who build
+
+
+real businesses. All right, so let me
+
+
+talk you through exactly how we're going
+
+
+to use this. Right, first thing you want
+
+
+to do is just download this from
+
+
+anti-gravity. All the links and notes
+
+
+from today are inside the AI success lab
+
+
+link in the comments description.
+
+
+Completely free community as you can see
+
+
+right here with 40,700 members. And if
+
+
+you go inside the classroom here, you go
+
+
+to December 2025. And then from here,
+
+
+you can see that we've got all the video
+
+
+notes from today. And we're going to
+
+
+work through this 30-day anti-gravity
+
+
+mastery plan, as you can see. And we'll
+
+
+just run through exactly how to use it.
+
+
+So, first thing you're going to do is
+
+
+download the version. Open up like you
+
+
+can see I've done over here and we're
+
+
+going to get straight into this. So,
+
+
+understand the two views here, right?
+
+
+So, you got two views. So, you got over
+
+
+here you got the builder and you can
+
+
+switch between planning and fast mode.
+
+
+So you can choose your AI agents and
+
+
+then over here you can choose the actual
+
+
+API that you're using to build and code
+
+
+with. Right? Now sometimes if you're
+
+
+using the free version you're going to
+
+
+hit limits. So how do you overcome
+
+
+those? You can switch between different
+
+
+APIs. So if you hit the limits on one
+
+
+you switch to the next. If you want to
+
+
+plan out your project before you build
+
+
+it you select planning. If you want to
+
+
+build out the project and actually code
+
+
+you have to select fast over here and
+
+
+then you just type in what you want in
+
+
+this section. Now on the left hand side
+
+
+you will see the project files as you
+
+
+can see. And that's basically how it
+
+
+works. All right. So what we're going to
+
+
+do over here is we are going to just
+
+
+start with something simple. So we're
+
+
+going to say okay create a simple
+
+
+landing page with headline three
+
+
+benefits the email signup form. Right?
+
+
+So copy this and all the instructions
+
+
+are inside this section. So this is for
+
+
+building your first real project. Now
+
+
+first thing you want to do is load up a
+
+
+new folder. Okay? So open up the folder
+
+
+as you can see and you just want to load
+
+
+up a new folder. Right? The reason for
+
+
+that is cuz you're starting a new
+
+
+project from scratch like you can see.
+
+
+Now, what we're going to do is we're
+
+
+going to type in create a simple landing
+
+
+page with a headline three benefits
+
+
+email signup form. This is going to be a
+
+
+really simple fast project. As you can
+
+
+see, we're going to select Gemini Flash.
+
+
+This will help you code out your first
+
+
+landing page with anti-gravity if you're
+
+
+just learning how to use this. By the
+
+
+way, I can see some people in the chat
+
+
+are asking for the link to the air
+
+
+profit boarding. If you just type in air
+
+
+profit boarding on chat GPT or Google or
+
+
+you go to the air profitboarding.com,
+
+
+you can get the link for it there. If
+
+
+you watch it on YouTube, you can
+
+
+actually get access. I saw someone else
+
+
+as well is asking how to watch this
+
+
+back. So if you want to watch back the
+
+
+full live stream, you can get it inside
+
+
+the live section of my YouTube channel.
+
+
+So you can see live stream right there.
+
+
+And then someone else was asking like
+
+
+how to build for example uh personal
+
+
+tutor and I'll come on to that in a
+
+
+minute. Right. So what you can see here
+
+
+is that the AI is now open up the
+
+
+landing page. I'm not touching this AI
+
+
+agent, right? And it's beginning to
+
+
+check out the landing page, the optin
+
+
+form, etc. Now this is very basic. The
+
+
+design and everything else super basic,
+
+
+but that's the whole point, right? We're
+
+
+just trying to create something really
+
+
+simple and easy to use. So if we go back
+
+
+here, you can see it's now checking out,
+
+
+testing out, etc. Right? And I'm going
+
+
+to stop it there, right? Just to show
+
+
+you how easy and simple that is. Now,
+
+
+let's say, for example, you wanted to
+
+
+create a personal tutor. Maybe you
+
+
+wanted to create a personal tutor for
+
+
+something like learning, I don't know,
+
+
+learning Thai, right? What we can do
+
+
+here is we can open up a new folder. All
+
+
+right. So, we'll open up a folder here
+
+
+and say personal tutor for Spanish,
+
+
+right? We'll open that up as you can
+
+
+see. And then from here we can say,
+
+
+okay, build a personal tutor tool for
+
+
+learning Spanish, right? I'll go with
+
+
+Spanish cuz it's probably easier for the
+
+
+AI to teach Spanish to the type, right?
+
+
+And basically what it's going to do is
+
+
+start building out this app. As you can
+
+
+see, now again, if you were trying to
+
+
+spend a bit more time and care over
+
+
+this, then you would use the planning
+
+
+mode first inside the drop down. But I
+
+
+just want to go straight into fast so
+
+
+we're not messing around here and we're
+
+
+getting straight into it and you're
+
+
+getting as much value as possible. Some
+
+
+people are asking like, is this better
+
+
+than other tools? Anti-gravity is really
+
+
+good because you can code locally, come
+
+
+back to the project, and it's free,
+
+
+right? And it's also good for building
+
+
+out bigger projects. So, for example, if
+
+
+you're using AI Studio, you can build
+
+
+out like one landing page, one mini app,
+
+
+etc. But if you want to build out
+
+
+something bigger than that, you can
+
+
+build out bigger projects cuz you got
+
+
+the files on the left hand side and
+
+
+these are saved locally. I would say
+
+
+that this is better for building out
+
+
+bigger projects. But if you want to
+
+
+create something fast and small, then
+
+
+you can use something like AI Studio.
+
+
+So, it depends really how big the
+
+
+project is. So, this is beginning to
+
+
+build out. As you can see, it's t the
+
+
+CSS, the HTML, etc. It's going to test
+
+
+out in a second. Whilst we're waiting
+
+
+for that to load, let's come back to
+
+
+this. Right. So, inside here as well,
+
+
+what you can actually do is you can
+
+
+change some of the settings inside
+
+
+anti-gravity as well. So, if you go to
+
+
+antigravity here, we go to antigravity
+
+
+settings. This is the app that we built,
+
+
+by the way, the Spanish app. But if we
+
+
+go back to the settings inside
+
+
+antigravity, you can see here we can
+
+
+decide whether we want to review stuff,
+
+
+where we want it in secure mode, whether
+
+
+we want to auto command, etc. This will
+
+
+if you auto command basically it will
+
+
+never ask for confirmation before it
+
+
+starts testing stuff out. So it depends.
+
+
+And then also you got options for auto
+
+
+continue and auto fix stuff. Right? So
+
+
+if you flick those on it's just going to
+
+
+automate a lot more of the process. You
+
+
+can also enable web tools or disable
+
+
+them depending on whether you want the
+
+
+AI to be able to access the web. And
+
+
+that's basically how it goes. And the
+
+
+same for the browser, right? So for
+
+
+example, you can check out the browser.
+
+
+It can test stuff out in the browser.
+
+
+And then it's got a bunch of whitelisted
+
+
+pages right there as well. So let's X
+
+
+off that. And we've got the tool being
+
+
+tested out over here. So it says, "Ola,
+
+
+I am Carlos, your Spanish teacher. How
+
+
+can I help you learn today?" And then
+
+
+the AI is typing in Ola and it's testing
+
+
+this out, right? And then you can see at
+
+
+the top here, it's beginning. I don't
+
+
+think this will be fully built out, but
+
+
+you've got different options at the top.
+
+
+For example, the dashboard, you got the
+
+
+lessons, you got the stuff to practice,
+
+
+and then the tutor as well. And you can
+
+
+see how the AI has actually responded to
+
+
+us, right? So we put in Ola. It said,
+
+
+"Hola, so how are you today? A bit of
+
+
+Spanish that you learned today. At least
+
+
+you learned something." The AI is
+
+
+talking with the other AI, the personal
+
+
+tutor, to learn Spanish, right? Some
+
+
+people ask, does this access local
+
+
+files? Yes. So, this is all local stuff.
+
+
+So, we actually right click this, for
+
+
+example, click on reveal and finder. You
+
+
+can see that we've got all of these
+
+
+files stored locally, and you can store
+
+
+and open folders locally inside this IDE
+
+
+to edit things. All right, so this is
+
+
+working nicely. I say, can you teach me
+
+
+Spanish? Can you say that in a full
+
+
+sentence? Blah blah blah. We got the
+
+
+practice section here. So, these are
+
+
+like flashcards with audio, right?
+
+
+Obviously, ola means hello. And we flip
+
+
+it over. It's pretty nice. Like this. It
+
+
+looks better than other learning apps.
+
+
+I'm not going to mention which ones, but
+
+
+it looks better than some of the ones.
+
+
+Gracia, thank you. How are you? All
+
+
+right. Like all the bill, please. Okay.
+
+
+And then, mana, which is tomorrow. All
+
+
+right. Flip over tomorrow. Boom. I'm too
+
+
+good at Spanish. Too good, mate. Too
+
+
+good. It's too easy. Once you know
+
+
+Italian, you can speak Spanish pretty
+
+
+fast, especially when it's as simple as
+
+
+that. Then we got the classroom here for
+
+
+tutoring people. We also have the
+
+
+dashboard here, right? And this is all
+
+
+personalized to me, right? It's not
+
+
+personalized to other people. was
+
+
+personalized to me cuz these are the
+
+
+words I've learned and everything else,
+
+
+right? And so obviously this is not 100%
+
+
+ready to go. You want to test it. You
+
+
+want to try it out. You want to make
+
+
+sure it actually works. But have we
+
+
+created a bigger like a five-page
+
+
+website with flashcards, mini apps, a
+
+
+tutor that speaks to us, etc.
+
+
+Absolutely. Pretty amazing, right? And
+
+
+so you can just keep tweaking that. It's
+
+
+not going to be 100% ready to go, but it
+
+
+is going to be pretty good. All right,
+
+
+let's keep going through. Now once
+
+
+you've done that, what you can actually
+
+
+do is look at your app in the browser
+
+
+preview and the AI agent will take
+
+
+screenshots of it and test it out for
+
+
+you. So the anti-gravity browser control
+
+
+actually previews and tests it out. My
+
+
+app as you saw before we deployed it,
+
+
+right? So if there are any errors as the
+
+
+AI agent is testing, it will actually
+
+
+auto those before we find the problems
+
+
+which saves a lot of time. And you can
+
+
+see here the anti-gravity browser
+
+
+control says the agent can click,
+
+
+scroll, type and navigate web pages
+
+
+automatically. Whilst working, it
+
+
+displays an overlay showing it progress
+
+
+in price, controls to stop if you need
+
+
+to intervene, right? And then it's given
+
+
+us a bunch of use cases, iterating on
+
+
+website designs, quality assurance
+
+
+testing, monitoring dashboards,
+
+
+automating routine tasks, right? Which
+
+
+is great cuz now you don't have to mess
+
+
+around with like terminal commands or
+
+
+anything like that. Now, what I'd
+
+
+recommend from here, we've already built
+
+
+a simple landing page, but now we can
+
+
+build something much better, right? So,
+
+
+we could actually say, okay, and these
+
+
+are examples from the AI success lab.
+
+
+So, all the notes are here. You say,
+
+
+"Okay, build a landing page from SEO
+
+
+agency. Include a headline about getting
+
+
+more traffic from Google. Three bullet
+
+
+points about benefits, testimonial
+
+
+section, and an email signup form just
+
+
+to test it out, right? We're not
+
+
+actually going to launch this, but we
+
+
+can test it out." And so here, I'm just
+
+
+going to open up a new folder again,
+
+
+test site. Let's open this up. All
+
+
+right? And you can see here now we've
+
+
+just got the blank files, right? And
+
+
+what we're going to do is type in this
+
+
+prompt as we mentioned before. And
+
+
+again, that's just going to start
+
+
+building it out for us, right? So it's
+
+
+really beginning to build this stuff out
+
+
+for us step by step. Someone asked is
+
+
+new folder new project. So it's the same
+
+
+project but what I've done is actually
+
+
+just open a folder and replace the old
+
+
+files. Right? If you wanted a new
+
+
+project with a new folder, you would go
+
+
+to new window here and then you can
+
+
+create a new project. Right? So if you
+
+
+open up a folder, this is going to
+
+
+replace whatever's inside your existing
+
+
+window. Everything that you code though
+
+
+will be stored locally inside the folder
+
+
+that you were previously editing. So now
+
+
+it's beginning to code that out. As you
+
+
+can see, it's pretty fast. It's actually
+
+
+amazing how fast it is. And we've got
+
+
+the page like so with all the
+
+
+information on it and it's beginning to
+
+
+coder, right? And so it's got those
+
+
+testimonials. A bit more complex than
+
+
+what we built before. I still prefer the
+
+
+personal tutor. And now you can see the
+
+
+agent needs the input. So if we click on
+
+
+return to agent, we can go back to
+
+
+anti-gravity. And you see here it's like
+
+
+asking us to confirm something before we
+
+
+test it out. All right. So if we click
+
+
+on confirm, it's going to take some
+
+
+screenshots of the page, right? To fix
+
+
+or identify or correct any visual
+
+
+issues. And there you go. All right.
+
+
+Now, we're going to stop that agent, but
+
+
+that's basically a simple example. And
+
+
+then you can just keep making it better,
+
+
+keep improving it. You might say, for
+
+
+example, add more spacing, make the
+
+
+headline bigger, add a subtle gradient,
+
+
+make the buttons more clickable, etc.
+
+
+And this back and forth is how you
+
+
+really define your design. And then from
+
+
+there, just build a quiz interface, for
+
+
+example. And this is something else we
+
+
+could do. So for example, we say create
+
+
+a five question quiz that helps business
+
+
+owners find out if they need help with
+
+
+marketing. Each question should have
+
+
+four multiple choice answers. At the
+
+
+end, show a results page based on the
+
+
+score. Make it look clean and
+
+
+professional. So we'll go back to
+
+
+anti-gravity. You know the drill. Now,
+
+
+open up a new folder. Type in the quiz,
+
+
+open up, and you can see we've built out
+
+
+so many different projects, but we've
+
+
+not hit a limit on the tokens, right?
+
+
+How amazing is that? And we're using one
+
+
+of the best technologies in the world
+
+
+for coding this out, which is Google
+
+
+Flash. One of the best tools that I've
+
+
+ever used when it comes to AI. It comes
+
+
+up with some pop-ups at the bottom, and
+
+
+you just click okay or don't show again,
+
+
+etc. And it will just start rerunning
+
+
+this now. And so, we've got a full
+
+
+30-day plan on all this stuff you can
+
+
+build out. You can have like multiple
+
+
+agents running. You can use the browser
+
+
+recording, etc. But you've basically
+
+
+seen how to build out three different
+
+
+projects using this, right? So, quizzes,
+
+
+websites, landing pages, personal
+
+
+cheaters, whatever you want, whatever
+
+
+websites you can build. You can do this
+
+
+with anti-gravity. And this stuff looks
+
+
+really cool. Check this out. This basic
+
+
+landing page we built. This is the full
+
+
+tutor that we built as well. So, you can
+
+
+see for the SEO agency. Now, if you go
+
+
+back here, it's still editing and coding
+
+
+out the next project. But before we come
+
+
+on to that, let me talk about what
+
+
+you've done. So once you've got through
+
+
+that 30-day plan that I've given you in
+
+
+30 days, you just went from like zero to
+
+
+building out our apps with anti-gravity.
+
+
+And I would just say with your progress
+
+
+just say okay based on what I've built
+
+
+so far, what should I learn next to take
+
+
+my skills further? Now I actually give
+
+
+you a bunch of ideas and I would
+
+
+recommend posting your progress inside
+
+
+the AR profit boarding just so that you
+
+
+can share your wins and grow with the
+
+
+community because when you share stuff
+
+
+and you hold yourself accountable like
+
+
+our daily accountability group inside
+
+
+the air profit boarding, you're going to
+
+
+learn faster. You're going to get better
+
+
+results. You're going to hold yourself
+
+
+accountable and you're going to really
+
+
+just enjoy the process as well. All
+
+
+right. Now, some people going to say I'm
+
+
+not technical enough for doing this and
+
+
+the right belief. Oh, we've got the quiz
+
+
+here. So, I'll come on to that in a
+
+
+second. I'm glad it's done that. So,
+
+
+also what I like about this is like when
+
+
+I'm just letting it run in the
+
+
+background, it will actually open up the
+
+
+tab and test it when it's ready to go.
+
+
+Right. So, you can see here it's
+
+
+selecting the quiz. Again, I'm not
+
+
+clicking anything or anything like that.
+
+
+It's just messing around with the quiz,
+
+
+giving us some ideas, testing it out,
+
+
+and then it will actually, and you see
+
+
+here, all right, we're just going to
+
+
+click confirm on that. And then it's
+
+
+going to test it out, right? So, it's
+
+
+just testing out all the questions,
+
+
+making sure the quiz works, and then it
+
+
+will come on to this in a minute, right?
+
+
+And so, it's built out this quiz as
+
+
+well. And again, like the clean, it
+
+
+looks nice, but if there are any bugs,
+
+
+it's going to find them and it's going
+
+
+to fix them if they're super obvious.
+
+
+So, now it's reopened the quiz and if
+
+
+the agent's using it cuz you can see
+
+
+like the blue background. I'm actually
+
+
+going to stop the agent for now cuz I
+
+
+just want to explain some stuff to you.
+
+
+You see that was very quick to build
+
+
+out, right? So, the wrong belief is I'm
+
+
+not technical enough for this. The right
+
+
+belief is you just need to describe what
+
+
+you want, right? So, let me tell you
+
+
+about the fisherman and the smart net.
+
+
+There was a fisherman who caught fish
+
+
+the old way for 20 years. One day,
+
+
+someone showed him a net that could find
+
+
+fish on its own. I don't understand how
+
+
+it works. He said, "You don't need to."
+
+
+They replied, "You just tell it where
+
+
+you want fish, right?" And he tried it.
+
+
+First day he caught more than a whole
+
+
+week of the old way, right? He never
+
+
+learned how the networks. He just
+
+
+learned how to use it. And Google
+
+
+anti-gravity is that net. You don't need
+
+
+to understand code. You just need to
+
+
+know what you want. Also, some people
+
+
+are going to say these free tools, they
+
+
+never actually work. But the thing is,
+
+
+Google actually built this with the most
+
+
+advanced AI ever. Google built this, the
+
+
+same Google that runs YouTube, Gmail,
+
+
+and the biggest search engine in the
+
+
+world. This uses Gemini 3, the most
+
+
+advanced AI. And yes, it's free during
+
+
+the preview. Is it perfect? No. Still
+
+
+buggy places, but it works well enough
+
+
+to build real apps, and it's only going
+
+
+to get better. All right. Other people
+
+
+will say, I've tried coding before and
+
+
+failed, right? And I would say the right
+
+
+belief is you failed at the old way of
+
+
+coding. You didn't fail at coding. No
+
+
+one failed at coding. You failed at the
+
+
+old way of coding. the way where you
+
+
+have to memorize syntax where one
+
+
+missing comma broke everything where you
+
+
+spent hours hunting for bugs. That's not
+
+
+what this is. This is typing make this
+
+
+look better and what should happen. This
+
+
+is dragging a screenshot and saying fix
+
+
+this. You've probably had conversations
+
+
+with chat GBT before. Did that feel like
+
+
+coding? No. Neither does this. You also
+
+
+might say, I need to be a developer to
+
+
+use this stuff. And that's wrong. You
+
+
+just need to describe what you want.
+
+
+Here's a quick test. Can you describe
+
+
+what you want? If you can say, I want a
+
+
+page where people enter their email and
+
+
+get a free guide. If you can say that
+
+
+sentence, you can use this tool. That's
+
+
+the only skill required. Being able to
+
+
+describe what you want and the AI
+
+
+handles everything else, right? Other
+
+
+people say, "This is probably just
+
+
+hype." But we've tested it live right
+
+
+now. We've built tools. We built landing
+
+
+pages. We built forms. We built personal
+
+
+tutors. We built quizzes. We've tested
+
+
+it live right now. You've watched me use
+
+
+it in real time. And if it didn't work,
+
+
+you'd see it today. If it didn't work,
+
+
+you'd know. But there were no editing or
+
+
+fancy cuts in this, no pre-recorded
+
+
+stuff in this. It was just raw live
+
+
+testing, wasn't it? Other people would
+
+
+say, "My business is different. this
+
+
+won't work for me. Every business needs
+
+
+the same core tools, right? So, every
+
+
+business really needs a way to capture
+
+
+leads, a way to show what you do, a way
+
+
+to look professional, a way to answer
+
+
+common questions. And every business,
+
+
+every niche, every industry needs that,
+
+
+right? So, whether you sell consulting
+
+
+or products or services, you need these
+
+
+things and this tool can build all of
+
+
+them. Other people will say, well, it's
+
+
+too buggy to use right now. And I would
+
+
+say the bugs are part of learning early,
+
+
+right? Yes, it's a bit buggy. The
+
+
+browser recording feature doesn't always
+
+
+work perfectly. Sometimes generations
+
+
+take a while. Sometimes you need to try
+
+
+a prompt a few times. But here's the
+
+
+thing. Every early version of every
+
+
+great tool was buggy. The people who
+
+
+waited for perfect got left behind.
+
+
+Don't get left behind. Some people say I
+
+
+should wait until it's more stable. And
+
+
+I think the best time to learn is when
+
+
+it's new. Here's something interesting
+
+
+about early adopters, right? They don't
+
+
+for perfect. So by the time the stable
+
+
+version comes out, early adopters have
+
+
+already built their systems. They
+
+
+already know the shortcuts. They already
+
+
+have results. And the waiting crowd
+
+
+starts from zero. The early are already
+
+
+at the finish line, right? So let's
+
+
+answer some of these questions inside
+
+
+the Q&A. All right. Let's see what we
+
+
+got here. Is that a onepage website or
+
+
+three-page website? Is it not an app?
+
+
+Because I heard you can't SEO an app.
+
+
+Yeah. So, it was just a four page
+
+
+website, right, with the dashboard, the
+
+
+flashcards, the quizzes, and everything
+
+
+else. Can it use MCP or does it need
+
+
+MCP? I think you can use MCP, but I've
+
+
+never tested out. I'm sure you could get
+
+
+that to work. Do you need the Gemini Pro
+
+
+plan for using anti-gravity? No, you
+
+
+don't. You can use it for free. Today,
+
+
+it's so easy to code, right? And then
+
+
+Gemini, I promised it was me that failed
+
+
+due to coding, which I really respect
+
+
+that attitude, right? It's like I always
+
+
+blame myself as well. If something
+
+
+doesn't work, it's not the tools fault.
+
+
+It's my fault for not being good enough,
+
+
+right? And if I just get better, then
+
+
+I'll be better at using these tools and
+
+
+I'll get better results. So, I really
+
+
+respect that, Mark. Shout out to you for
+
+
+really taking accountability there. All
+
+
+right, so thanks for watching. If you
+
+
+want to get all the videos from today,
+
+
+it's inside the AI success lab. Link in
+
+
+the comments description. This connects
+
+
+you with 40,700 members. As you can see,
+
+
+inside the community, we have all these
+
+
+awesome trainings, lots of people
+
+
+introduce themselves, very active
+
+
+community. You get access to the video
+
+
+notes inside the December 2025 section.
+
+
+So, just go down here and you can scroll
+
+
+down and then get access to all this
+
+
+stuff. If you want to connect with me
+
+
+personally, you can join the AI profit
+
+
+boardroom. Inside there, you can DM me
+
+
+personally. You can connect with 1,900
+
+
+AI builders. You can post inside the
+
+
+community, share your wins, and get
+
+
+feedback inside here because what's
+
+
+great about this is you can share your
+
+
+wins. You can ask questions if you ever
+
+
+get stuck. You can get all this stuff
+
+
+right here. All right. Mark says, "If it
+
+
+fails, we learn to repair more
+
+
+effectively." That's it. If it fails, I
+
+
+get better at fixing stuff, right? Let's
+
+
+focus on solutions, not problems. And
+
+
+that's I think that's the best mindset
+
+
+you can have when building with AI
+
+
+automation. You can see here like loads
+
+
+of people posting stuff. And then also
+
+
+inside the classroom, we have four
+
+
+coaching calls per week. These are live
+
+
+coaching calls you can jump on. We
+
+
+actually have a coaching call later
+
+
+today if you want to jump on it. And
+
+
+then inside the classroom here as well,
+
+
+you get access to the six week AI
+
+
+automation master class that shows you
+
+
+how to go from like complete beginner to
+
+
+really mastering AI and really learning
+
+
+this stuff. Also, you'll get access to
+
+
+the playbook with all of my best
+
+
+automations from like how to automate
+
+
+your emails, Twitter, newsletter shorts,
+
+
+AI avatar videos. You probably see a lot
+
+
+of my AI avatar videos popping up on
+
+
+whatever social media channel you watch
+
+
+me on. And then also, you'll get access
+
+
+to the latest SAP updates from each
+
+
+month. You'll get access to lead
+
+
+generation and social media automations,
+
+
+plug-andplay, the NA10 templates and
+
+
+workflows, my agency course, Q&A call
+
+
+recordings you can watch back from the
+
+
+coaching course, the AICO automation
+
+
+section, and also the YouTube AI 6E road
+
+
+map. So, everything that you need to
+
+
+really win with AI is inside the AR
+
+
+profit boardroom. It's got an amazing I
+
+
+think what really makes it just being
+
+
+part of something with such great
+
+
+people, right? Like the characters and
+
+
+the personalities and the people that
+
+
+I've connected with inside the air
+
+
+profit boardroom are just absolutely
+
+
+amazing. Yeah, absolutely loving it.
+
+
+Casra, I was waiting for the coaching
+
+
+call with Santa yesterday. Hopefully
+
+
+Santa showed up, mate. I saw that you
+
+
+got a banana for Christmas. That's
+
+
+really Craig Campbell to get you one of
+
+
+those rap bananas. Good for you, mate.
+
+
+And Mark says he might have been busy.
+
+
+We're about to test something that just
+
+
+dropped from Google. It's called
+
+
+anti-gravity. And here's why you need to
+
+
+pay attention. So, this is a free tool
+
+
+that builds real apps, real tools, real
+
+
+systems just by typing what you want in
+
+
+plain English. No code, no developers,
+
+
+no tech skills needed. And I'm going to
+
+
+test this live with you today. We're
+
+
+going to see exactly how it works. Does
+
+
+it actually deliver? Can someone with
+
+
+zero coding knowledge really build
+
+
+business tools in minutes? And here's
+
+
+what we're going to do together. All
+
+
+right, all of this using just words, no
+
+
+code. And if this works the way Google
+
+
+says it does, this changes everything
+
+
+for entrepreneurs who want to automate
+
+
+their business before they needed to
+
+
+hire developers first. So, let's test
+
+
+exactly how to use it. You can download
+
+
+it for free right here. And then once
+
+
+you've done that, you're going to see
+
+
+something that looks like this. Right?
+
+
+So, this is anti-gravity as you can see.
+
+
+And from here, we can start building
+
+
+with this. All right, if you've never
+
+
+used this before, basically you've got
+
+
+your files on the left hand side and
+
+
+then over on the right hand side, you
+
+
+can chat with the AI, right? I'm going
+
+
+to be using Gemini Flash because that's
+
+
+the fastest one. We can switch between
+
+
+planning or fast, but I'm just going to
+
+
+go straight with fast cuz I'm coding
+
+
+with you in real time. And then from
+
+
+here, we can start building this out.
+
+
+Now, if you never used this before, let
+
+
+me show you some examples of what you
+
+
+can actually build with this, right? So
+
+
+if we take this prompt and all these are
+
+
+inside AI success lab link in the
+
+
+comments description if you want to get
+
+
+the video notes from today we say build
+
+
+an invoice generator with PDF export
+
+
+right simple as that very simple command
+
+
+but basically we can build a custom app
+
+
+a mini app using this process so now you
+
+
+see it's beginning to code out and it's
+
+
+pretty simple and easy to use this all
+
+
+right so it's running the terminal
+
+
+command and again this is free this is
+
+
+hosting locally that's one of the other
+
+
+big benefits here is you're coding
+
+
+locally so number one you can store
+
+
+files and you can build bigger projects
+
+
+offline using this and number two you
+
+
+can use it for free. And number three,
+
+
+it's more private than creating that
+
+
+content online because you're hosting it
+
+
+locally. The only thing you got to
+
+
+remember is that you're using Google's
+
+
+APIs, which means that's still on
+
+
+someone else's server, right? It's not
+
+
+on yours. You're not using O Lama or
+
+
+something like that locally to build
+
+
+this. So, now it's beginning to code
+
+
+this out. As you can see, creating the
+
+
+directory structure, and we can come
+
+
+back to that in a minute. We can
+
+
+actually code out in multiple windows
+
+
+here. We can use this for free up to
+
+
+certain limits. And you can see here
+
+
+that I can actually build a project
+
+
+without hitting the limits. as you can
+
+
+see inside the chat here. So, it's
+
+
+beginning to code this out. It's
+
+
+creating the JSON here. And I don't
+
+
+code. I don't understand code. I can't
+
+
+use HTML. But I can quickly build out
+
+
+the tools I want just by typing in
+
+
+exactly what I want. As you can see
+
+
+here, so all we said was build an
+
+
+invoice generator with PDF system. All
+
+
+right. So, it's beginning to code that
+
+
+out. Now, let me talk to you about why
+
+
+this matters. All right. So, you know,
+
+
+the old way of building business tools
+
+
+is that you would have an idea for a
+
+
+tool that would save you time. You
+
+
+search for existing apps and nothing
+
+
+fits perfectly. You try to learn coding
+
+
+but pretty much give up after a week.
+
+
+You hire a developer and wait weeks for
+
+
+delivery. The tool doesn't work how you
+
+
+imagined. You go back and forth with a
+
+
+revision. You end up doing everything
+
+
+manually anyway and you feel a bit stuck
+
+
+and frustrated. That was the old way.
+
+
+Now the new way if you're building with
+
+
+anti-gravity is like you have an idea
+
+
+for a tool. You describe it in plain
+
+
+English. Anti-gravity builds it whilst
+
+
+you watch. You test it immediately. You
+
+
+tweak it by just saying what you want to
+
+
+change. You have a working tool in
+
+
+minutes. You move on to the next thing
+
+
+and you feel like you have superpowers.
+
+
+Right? That's exactly how this works
+
+
+step by step. And so, as you can see
+
+
+here, it's beginning to build this bad
+
+
+boy out. And we're just going to wait
+
+
+for the coding to finish. It should only
+
+
+take a few minutes. It seems to be
+
+
+working already. So, you see here, it's
+
+
+actually hosted on a local network URL.
+
+
+And let's see if we can pull this up.
+
+
+Yeah. So, this is opening up the Agent
+
+
+browser, but I can actually preview it
+
+
+on the local host here. All right. So,
+
+
+that's a URL to see it. And then you can
+
+
+see we've got a working tool. Boom. We
+
+
+can actually see the AI testing the tool
+
+
+in real time and moving around. I'm not
+
+
+touching this. I'm touching anything on
+
+
+the screen. The AI is actually looking
+
+
+at the screen, typing in on the left
+
+
+hand side, beginning to click buttons on
+
+
+my screen, and then creating this tool
+
+
+and testing out so that it can improve
+
+
+the tool without me even looking at it.
+
+
+The cool thing about this is it can
+
+
+basically prototype a tool, selfiterate,
+
+
+self-improve, and then once it's finally
+
+
+ready, it will give me the details to
+
+
+check out. But in the meantime, it's
+
+
+just going to check out if it actually
+
+
+works or not. And you can see it's
+
+
+adding values on the left hand side, and
+
+
+then it's actually building this out on
+
+
+the right hand side, and the numbers are
+
+
+updating in real time. And then it's got
+
+
+the download PDF feature over here.
+
+
+Really cool. It's taking screenshots.
+
+
+Testing the style. We can actually
+
+
+change the from and the to information.
+
+
+This is finished now. And you can see
+
+
+that's finished on the preview with the
+
+
+agent because it doesn't have the blue
+
+
+lines around the edges anymore. If we go
+
+
+back to anti-gravity now, we can see
+
+
+that that's been tested and it's working
+
+
+perfectly. Beautiful. And then if you
+
+
+want to host this online, you just take
+
+
+the project files, which you can see
+
+
+here. So you can go to reveal and finder
+
+
+and grab the folder documents, right?
+
+
+Like that. And then you can host that on
+
+
+Netlify and basically use that as a tool
+
+
+that's hosting online and running
+
+
+online, right? Pretty amazing. The only
+
+
+thing that I would say that's a problem
+
+
+with this and I could easily just change
+
+
+this is that when we download the
+
+
+document, the PDF, it downloads the
+
+
+document but it doesn't save it as a
+
+
+PDF, right? So that's just something to
+
+
+be aware of. But everything else is
+
+
+working perfectly and it's pretty
+
+
+amazing what you can do with this. Now
+
+
+I'm going to show you some more examples
+
+
+in a minute. Some people want to say, "I
+
+
+need to know how to code to build
+
+
+tools." And the old story was like,
+
+
+"Building apps required programming
+
+
+skills, years of learning, computer
+
+
+science degrees, technical knowledge
+
+
+that takes forever to get." Here's the
+
+
+truth. You already know how to describe
+
+
+what you want. That's all you need. Now,
+
+
+think about it this way. When you order
+
+
+food at a restaurant, do you need to
+
+
+know how to cook? No. You describe what
+
+
+you want. The kitchen makes it.
+
+
+Anti-gravity is a kitchen. You are the
+
+
+customer. You don't need to know how the
+
+
+code works. You just need to know what
+
+
+you want it to do. And the new belief is
+
+
+if you can describe a tool in plain
+
+
+English, you can build it. Easy as that.
+
+
+So just pick one simple tool you wish
+
+
+existed for your business. Write down
+
+
+what it would do in three sentences.
+
+
+Boom. That's your first build. All
+
+
+right. Let's try something else out now.
+
+
+So we're going to say, okay, build out a
+
+
+Pomodoro timer with a task list. Right?
+
+
+So we're going to take this prompt over
+
+
+here. Again, notes inside the AI success
+
+
+lab if you want to test this stuff out
+
+
+and learn from it. And then we're going
+
+
+to click on that and use this to build
+
+
+out a new tool. Right? We can build in
+
+
+the same project if we want to. It's not
+
+
+a big deal. Obviously, it's going to
+
+
+overwrite the old files, but I'm not
+
+
+planning to use the old files anyway.
+
+
+And then we're going to build this out
+
+
+as you can see. All right, so that's
+
+
+beginning to to create this document,
+
+
+analyze it, and start generating the
+
+
+outputs. Now, in the meantime, let's run
+
+
+through some more limiting beliefs that
+
+
+people struggle with. So, some people
+
+
+say building custom tools takes weeks or
+
+
+months. And the old story was custom
+
+
+software is a huge project, right?
+
+
+Planning, development, testing,
+
+
+revisions, it takes forever and can get
+
+
+expensive. Here's the truth. I've built
+
+
+working tools in less time than it takes
+
+
+to make a coffee as you've seen today.
+
+
+And the reason building used to take so
+
+
+long wasn't because the work itself was
+
+
+hard. It was because humans had to
+
+
+translate your ideas into code line by
+
+
+line. Now AI does the translation
+
+
+instantly. The new belief that you
+
+
+should have is what used to take weeks
+
+
+now takes minutes. Speed is no longer
+
+
+the bottleneck. And your next step is
+
+
+really just time yourself. Describe a
+
+
+tool and see how fast it appears cuz you
+
+
+will be shocked. And you can see that's
+
+
+beginning to generate. Now we've got the
+
+
+output over here. You can see with the
+
+
+blue line around the edges, this is
+
+
+beginning to test the tool. It's a nice
+
+
+little Pomodoro task, right? So, we're
+
+
+going to plug in the task. The AI agent
+
+
+is going to plug in the task for me
+
+
+whilst I talk to you. And then it should
+
+
+start the timer in a second as well.
+
+
+Right. So, it's plugged in the task,
+
+
+which is finished report. We'll return
+
+
+to the agent. And now it started the
+
+
+timer, right? So, the output worked
+
+
+perfectly first time around. The UI is
+
+
+nice and clean. We can actually switch
+
+
+between like short break, whatever, blah
+
+
+blah blah. And then we can accept all
+
+
+the changes. Right? I'm going to confirm
+
+
+that. And then I'm going to stop the
+
+
+agent. And you can see how we can just
+
+
+test this directly here, right? We can
+
+
+actually run, we can grab the URL over
+
+
+here as well. We can go back to our main
+
+
+window and start testing this out as you
+
+
+can see. So it works perfectly. We can
+
+
+refresh it. We've got tasks that we can
+
+
+type in. So for example, let's put live
+
+
+stream here. And that's a task. And that
+
+
+works beautifully, right? And we've now
+
+
+built a custommade Pomodoro timer that
+
+
+works perfectly first time round for
+
+
+free locally whilst I've been talking to
+
+
+you and just jamming on the stuff that
+
+
+you can do with this. Right? So it's
+
+
+amazing what you can build with this.
+
+
+And it really isn't technical. Some
+
+
+people say free tools can't be that
+
+
+good. And the old story was like good
+
+
+things are expensive and if it's free,
+
+
+there must be a catch. It probably
+
+
+doesn't work well, for example. But as
+
+
+you've seen today, it does work well.
+
+
+And here's the truth. Google gives away
+
+
+powerful door tools because they want
+
+
+you in their ecosystem. Email is free.
+
+
+Google Docs is free. Google search is
+
+
+free. And these are like the best tools
+
+
+in the world. Antiggravity follows the
+
+
+same pattern. Google isn't being
+
+
+generous. They're being strategic. They
+
+
+want you building with their AI. That
+
+
+benefits them. It also benefits you a
+
+
+lot. The best AI tools are often free
+
+
+because big companies want you using
+
+
+them. So, stop paying for expensive
+
+
+subscriptions before you test free
+
+
+alternatives. That's the next step. You
+
+
+might be surprised what's already
+
+
+available. Feel free to ask any
+
+
+questions as we go along, by the way.
+
+
+But you can see how powerful this is.
+
+
+So, let's talk about the antique growth
+
+
+action framework. 30 days to building
+
+
+your business tool stack. Week one is
+
+
+the foundation. Day one to two, I just
+
+
+focus with your first build. To start
+
+
+simple, you can build a Pomodoro timer
+
+
+with task tracking like I've done today.
+
+
+This just teaches you the basics.
+
+
+Describe what you want, testing results,
+
+
+making tweaks, and you'll have a working
+
+
+productivity tool and you'll understand
+
+
+how anti-gravity you think. You get two
+
+
+birds in one stone. Day three to four,
+
+
+your second build, right? Build a daily
+
+
+time blocking planner. So now you're
+
+
+getting comfortable. You know how to
+
+
+describe things. You're seeing patterns
+
+
+and what works. And then day to five to
+
+
+seven, build your first business tool.
+
+
+This could be something that you
+
+
+actually need for your business. It
+
+
+could be an invoice generator. It might
+
+
+be a client intake form. It might be a
+
+
+content calendar. Just pick something
+
+
+that you do manually and automate it,
+
+
+right? And then once you build something
+
+
+with this, post it inside the AR profit
+
+
+border inside the win section and just
+
+
+share what you're building with us,
+
+
+right? I really want to see what people
+
+
+are building, how we're learning. You
+
+
+can see all the cool stuff inside the
+
+
+profit boarding community and what
+
+
+people are building. It's amazing. So,
+
+
+for example, like Robert Lawrence, he
+
+
+said the automation light went off in my
+
+
+head. I joined this group and he
+
+
+realized like, oh, I can automate my
+
+
+entire content creation workflow, right?
+
+
+And he said he's a full-time truck
+
+
+driver, doesn't have much time, but he's
+
+
+learned to automate one workflow that
+
+
+will help working whilst he's creating
+
+
+everything else. So, it can just save so
+
+
+much time when you figure out, okay,
+
+
+here's what I need to do next. Let's try
+
+
+something else now. So, I'm going to
+
+
+take this one, as you can see, and we're
+
+
+going to create a time tracking planner.
+
+
+We'll plug that in to anti-gravity and
+
+
+start building this tool as well. So,
+
+
+that's beginning to build out. Whilst
+
+
+we're waiting for that, let's talk
+
+
+through some tools that you could build.
+
+
+You could build the prompt library
+
+
+manager. So, this could be a place to
+
+
+save, organize, and find all your best
+
+
+prompts. the invoice generator as I've
+
+
+shown you today. The content repurposing
+
+
+machine, so you could turn one piece
+
+
+into your blog post, a Twitter thread,
+
+
+copy each version, and that would save a
+
+
+lot of time, right? You could easily
+
+
+build that with anti-gravity. The daily
+
+
+time blocking planner, so you can plan
+
+
+your day visually, drag to create time
+
+
+blocks, which we're actually building
+
+
+right now with anti-gravity, as you can
+
+
+see. And then we've also got the offer
+
+
+builder as well, right? And so there's
+
+
+so much stuff you can build with this.
+
+
+And if you want to see what's possible
+
+
+inside the AR profit bon members are
+
+
+getting results like this, right? So if
+
+
+pull this up, this is 106 pages of happy
+
+
+clients from the AI profit boardroom. So
+
+
+for example here, Andrew said that he
+
+
+built his first AI avatar and created a
+
+
+video. They'll go live on LinkedIn on
+
+
+Tuesday, right? Pretty amazing. You can
+
+
+see the time blocker is now being tested
+
+
+by the actually just opened that up and
+
+
+just started testing it. As you can see,
+
+
+we've got the blue background around the
+
+
+sides. It's taking screenshots, testing
+
+
+things out, and it's beginning to block
+
+
+things out for like deep work, gym,
+
+
+lunch, color coding it, and just
+
+
+planning out the day. Pretty amazing. So
+
+
+you can see the AI agent is really just
+
+
+testing this actually works before it
+
+
+goes ahead and builds anything. Let's
+
+
+open up another random page here. See
+
+
+what we got. So Eric coded his first iOS
+
+
+app with AI and he said I've got to give
+
+
+a huge shout out to Julian for the AR
+
+
+profit boardroom. The community there
+
+
+has helped me so much along the way.
+
+
+Right. Let's see what else we got here.
+
+
+So Marcus says here's why I'm impressed
+
+
+with a profit boardroom. Julian is
+
+
+actually present responding to questions
+
+
+showing up etc. Just going to X off
+
+
+that. But you see now we've got the
+
+
+planner here. I'm just going to stop
+
+
+this agent cuz it's getting a bit out of
+
+
+control. But you can see how to use
+
+
+anti-gravity, all the tools that we
+
+
+built today. So, for example, the
+
+
+invoice generator, the Pomodoro timer,
+
+
+and the time block pro, right? Which
+
+
+actually works kind of like a calendar
+
+
+app. So, it is amazing what you can do
+
+
+with this stuff, how powerful it is, how
+
+
+easy it is to build with this and how it
+
+
+works. All right, your homework. I would
+
+
+pick one tool that would help your
+
+
+business the most. Describe what you
+
+
+want it to do in three simple sentences.
+
+
+Build it using anti-gravity. Post your
+
+
+results inside their profit and yeah,
+
+
+that's basically how you can get it.
+
+
+Well, if you join the air profit
+
+
+boardroom today, you're also going
+
+
+access to the classroom with all of
+
+
+these different trainings. As you can
+
+
+see, you'll get access to the community
+
+
+where you can post in here and get help
+
+
+and support and advice and meet local
+
+
+people and share friends and everything
+
+
+else. And then also inside the calendar,
+
+
+you have coaching calls where you can
+
+
+jump on the coaching calls live with a
+
+
+PhD trained professor on Jeff and then
+
+
+ask any questions you want and get help
+
+
+and support in real time on those live
+
+
+coaching calls. Okay, so you do that
+
+
+inside the AI profit boardroom. And then
+
+
+also if you sign up today, you also get
+
+
+access to our school training, the AI
+
+
+avatar clone system where you can clone
+
+
+yourself and create AI video content
+
+
+like me. You'll learn how to automate
+
+
+your Twitter so you can reach more
+
+
+customers like I do and generate more
+
+
+leads. You'll get the Empire Focus
+
+
+manual, which is my personal system for
+
+
+staying insanely productive and avoiding
+
+
+overwhelm. You also get access to the
+
+
+free SEO boardroom and also the digital
+
+
+nomad blueprint as well. Right? And you
+
+
+get all of this inside the apuffer
+
+
+boardroom when you join today. So link
+
+
+in the comments in description for that.
+
+
+You can also DM me inside there and get
+
+
+help and support. It's the only place I
+
+
+personally connect with people and you
+
+
+get that directly inside the link in the
+
+
+comments description. Google dropped a
+
+
+free AI tool that codes for you and
+
+
+changes how SEO works forever. This
+
+
+thing writes code automatically using AI
+
+
+agents that think and plan like humans.
+
+
+It's built on Gemini 3, Google's newest
+
+
+AI brain that powers their search
+
+
+results right now. and it could
+
+
+completely change how you rank content
+
+
+and build your business online. I'm
+
+
+about to show you exactly what this
+
+
+means for your SEO strategy. All right,
+
+
+let's talk about what Google
+
+
+Anti-gravity actually is. This is not
+
+
+another code helper that finishes your
+
+
+sentences. This is a full IDE, which
+
+
+means a coding environment that runs AI
+
+
+agents for you. These agents plan tasks,
+
+
+write code, test it, and verify it works
+
+
+all by themselves without you
+
+
+babysitting every step. is powered by
+
+
+Gemini 3 Pro, which is Google's most
+
+
+advanced AI model right now. The same
+
+
+model running AI mode in Google search.
+
+
+The same one in the Gemini app. The same
+
+
+technology behind how Google is ranking
+
+
+and displaying content today. Here's
+
+
+what makes this different from every
+
+
+other coding tool you've tried.
+
+
+Traditional idees give you autocomplete.
+
+
+You type a few letters and it suggests
+
+
+the rest. Anti-gravity gives you agents.
+
+
+You tell it what you want to build and
+
+
+it figures out how to do it. It opens
+
+
+files, runs terminal commands, checks
+
+
+the browser, and fixes its own mistakes.
+
+
+It's like having a developer working
+
+
+inside your computer. And it's free
+
+
+right now. Windows, Mac, Linux, any
+
+
+major programming language, Python,
+
+
+JavaScript, TypeScript, Java, C++, Rust.
+
+
+Now, here's where this gets interesting
+
+
+for co. Gemini 3 is not just powering
+
+
+anti-gravity. It's powering Google
+
+
+search right now. The new AI mode in
+
+
+search, the Gemini app, every API and
+
+
+developer tool Google makes. This is the
+
+
+brain behind how Google is understanding
+
+
+and ranking content in 2025. So if you
+
+
+want to understand where SEO is going,
+
+
+you need to understand how this AI
+
+
+thinks. Google just made Gemini 3 flash
+
+
+the default model everywhere is faster
+
+
+and cheaper than the old version. More
+
+
+capable too. And it's rolling out across
+
+
+search APIs, Google AI Studio, Vertex
+
+
+AI, and anti-gravity. This is the new
+
+
+standard for how Google processes
+
+
+information, which means it's the new
+
+
+standard for how your content needs to
+
+
+be structured. Traditional SEO is dying
+
+
+fast. Keyword stuffing is dead. Backlink
+
+
+farms are dead. Writing for algorithms
+
+
+is dead because Google is not using
+
+
+simple algorithms anymore. They're using
+
+
+AI that reads content like a human. It
+
+
+understands context. It checks
+
+
+authority. It scans for structure. It
+
+
+decides if your content is worth citing
+
+
+or not. This is called generative engine
+
+
+optimization, geo, not SEO, because
+
+
+Google is not just ranking pages
+
+
+anymore. It's generating answers. And if
+
+
+your content is not built for AI to scan
+
+
+understanded site, you're invisible. You
+
+
+could have perfect keywords and a
+
+
+million back links and still get zero
+
+
+traffic because the AI doesn't trust
+
+
+you. Here's what AI search actually
+
+
+looks for. High authority content,
+
+
+structured data, semantic alignment,
+
+
+third party citations, scannable
+
+
+formatting, justified claims. If your
+
+
+page looks like a wall of text with no
+
+
+sources and no structure, AI skips it.
+
+
+If your page has schema markup, clear
+
+
+headings, cited sources, and logical
+
+
+flow, AI uses it. One more thing, if
+
+
+you're creating all this content with
+
+
+anti-gravity, but nobody is finding it
+
+
+online, you've got a traffic problem.
+
+
+That's where SEO comes in. If you want
+
+
+more leads, more traffic, and more
+
+
+sales, my team can help you rank higher
+
+
+on Google. Check the link in the
+
+
+comments and description to order AI SEO
+
+
+online and let us handle your back links
+
+
+while you focus on growing your
+
+
+business. Let me show you how this works
+
+
+in practice. Let's say you're building
+
+
+content for AI profit boardroom. That's
+
+
+a community teaching AI automation for
+
+
+businesses. Old SEO would say write an
+
+
+article about AI automation tools and
+
+
+stuff it with keywords. New SEO says
+
+
+build a resource that AI can scan and
+
+
+site. That means structured data telling
+
+
+Google what your page is about. That
+
+
+means clear sections with headings. That
+
+
+means linking to authority sources. That
+
+
+means formatting that AI can pass in
+
+
+milliseconds. Let's talk about practical
+
+
+ways you can use anti-gravity. Right
+
+
+now, first, you can autogenerate landing
+
+
+pages. Imagine you need a new landing
+
+
+page for AI profit boardroom. You tell
+
+
+anti-gravity to design a landing page
+
+
+that converts, shows the value of AI
+
+
+automation, and explains the benefits of
+
+
+the community. It writes the HTML, CSS,
+
+
+and JavaScript. It tests the layout in a
+
+
+browser. It fixes responsive design
+
+
+issues. It creates a working page in
+
+
+minutes instead of hours. Second, you
+
+
+can generate SEO optimized content
+
+
+drafts. Tell anti-gravity to write an
+
+
+article about AI automation for small
+
+
+businesses. It researches the topic
+
+
+using Gemini 3. It structures the
+
+
+content with proper headings. It
+
+
+includes schema markup. It formats
+
+
+everything for AI readability. You get a
+
+
+first draft that's already built for
+
+
+generative search. And you can build
+
+
+agentpowered workflows. Let's say you
+
+
+want to automate outreach for AI profit
+
+
+boardroom. You tell anti-gravity to
+
+
+build a system that finds potential
+
+
+members, personalizes messages, and
+
+
+tracks responses. The agent writes the
+
+
+code, tests it, and hands you a working
+
+
+automation. You didn't write a single
+
+
+line of code yourself. This is the power
+
+
+of agent first development. You're not
+
+
+coding anymore. You're directing. You
+
+
+tell the AI what you want, and it
+
+
+figures out how to build it. That's why
+
+
+Google is betting big on this. Because
+
+
+if AI can code, design, test, and deploy
+
+
+software by itself, everyone becomes a
+
+
+builder. You don't need to know Python
+
+
+or JavaScript. You just need to know
+
+
+what you want to create. Now, let's talk
+
+
+about installing this thing. You go to
+
+
+the Google Developers site and download
+
+
+Anti-Gravity for your operating system,
+
+
+Windows, Mac, or Linux. The file is
+
+
+about 500 megabytes. You install it like
+
+
+any other app. When you open it, you log
+
+
+in with your Google account that
+
+
+connects you to Gemini 3 Pro. Then, you
+
+
+create a new project and start giving
+
+
+the agent instructions. The interface
+
+
+looks like a normal code editor. You've
+
+
+got files on the left, code in the
+
+
+middle, terminal at the bottom, but
+
+
+there's also an agent panel where you
+
+
+chat with the AI. You type what you want
+
+
+to build. The agent asks clarifying
+
+
+questions. Then it starts working. You
+
+
+watch it open files, write code, run
+
+
+tests, and check results. It creates
+
+
+artifacts, which are verifiable outputs
+
+
+of what it did. You can review
+
+
+everything and approve or modify it.
+
+
+Here's a real example. Let's say you
+
+
+want to build a lead magnet page for AI
+
+
+profit boardroom. You tell anti-gravity
+
+
+to create a page that collects emails in
+
+
+exchange for a free AI automation guide.
+
+
+You describe the design, the copy style,
+
+
+and the functionality you want. The
+
+
+agent builds the HTML structure, writes
+
+
+the CSS for styling, adds JavaScript for
+
+
+form validation, and creates a backend
+
+
+script to save emails. It tests
+
+
+everything in a browser window. It shows
+
+
+you the working page. You make tweaks by
+
+
+chatting with the agent. It updates the
+
+
+code in real time. In 20 minutes, you
+
+
+have a fully functional lead magnet page
+
+
+ready to deploy. Compare that to
+
+
+traditional development. You'd write
+
+
+HTML for structure, then CSS for design,
+
+
+then JavaScript for interactivity, then
+
+
+backend code for data handling, then
+
+
+test everything manually, then debug
+
+
+issues, then test again. That's hours or
+
+
+days of work. Anti-gravity does it in
+
+
+minutes because the agent handles all
+
+
+the steps. This is why Gemini 3 and
+
+
+anti-gravity matter for your business.
+
+
+You can build faster, test faster,
+
+
+launch faster. And because Gemini 3
+
+
+powers Google search, the content and
+
+
+tools you build are already aligned with
+
+
+how Google ranks and displays
+
+
+information. You're not guessing what
+
+
+works for AI search. You're using the
+
+
+same AI that runs Google search. This is
+
+
+the new game, generative engine
+
+
+optimization. Your content needs to be
+
+
+good enough that an AI model feels
+
+
+confident citing it as a source. That's
+
+
+a higher bar than traditional SEO, but
+
+
+it's also more rewarding because when AI
+
+
+trusts you, you get featured in AI
+
+
+generated answers. You get visibility in
+
+
+AI mode search results. You get traffic
+
+
+from people who never even click through
+
+
+to traditional links. And here's the
+
+
+thing, most businesses are not ready for
+
+
+this. They're still doing old school
+
+
+SEO. They're still chasing keywords and
+
+
+back links without understanding how AI
+
+
+processes content. Which means there's a
+
+
+massive opportunity right now for anyone
+
+
+who adapts fast. If you start building
+
+
+content for AI search today, you're
+
+
+ahead of 95% of your competition. So,
+
+
+here's what you need to do. Download
+
+
+anti-gravity and start experimenting.
+
+
+Build tools and pages that serve your
+
+
+audience. Structure your content for AI
+
+
+readability. Add schema markup to
+
+
+everything. Get cited by authority
+
+
+sources. Focus on depth and context
+
+
+instead of keywords. And most
+
+
+importantly, understand that Google's AI
+
+
+is not just ranking content. It's
+
+
+deciding what's worth showing at all.
+
+
+And one more thing, if you're creating
+
+
+all this content with anti-gravity, but
+
+
+nobody is finding it online, you've got
+
+
+a traffic problem. That's where SEO
+
+
+comes in. If you want more leads, more
+
+
+traffic, and more sales, my team can
+
+
+help you rank higher on Google. Check
+
+
+the link in the comments and description
+
+
+to order AI SEO online and let us handle
+
+
+your back links while you focus on
+
+
+growing your business. Google
+
+
+Anti-gravity Gemini 3.0 plus free opus
+
+
+4.5 is insane. Today, I'm going to show
+
+
+you how Google Gemini 3.0 Zero just
+
+
+changed the game with their new
+
+
+anti-gravity feature and Claude Opus 4.5
+
+
+is now completely free. These are the
+
+
+two most powerful AI tools right now and
+
+
+they just got massive upgrades. By the
+
+
+end of this video, you'll know exactly
+
+
+what these tools can do and how to use
+
+
+them. Google just dropped Gemini 3.0.
+
+
+This is their newest AI model and it's
+
+
+got something they're calling
+
+
+anti-gravity. Now, before you think this
+
+
+is about physics or floating objects,
+
+
+let me tell you what it actually does.
+
+
+It's a complete overhaul of how Gemini
+
+
+processes and generates images. The
+
+
+speed is insane. The quality is better,
+
+
+and it can handle way more complex
+
+
+prompts than before. I'm talking about
+
+
+prompts that are 500 words long,
+
+
+detailed descriptions, multiple objects,
+
+
+specific lighting, exact colors. Before,
+
+
+if you gave Gemini a super long prompt,
+
+
+it would get confused. It would miss
+
+
+details. It would forget parts of what
+
+
+you asked for. Now, with Gemini 3.0, you
+
+
+can throw everything at it, and it
+
+
+handles it perfectly. Here's what
+
+
+changed under the hood. Google rebuilt
+
+
+the entire image processing system. They
+
+
+call it anti-gravity because it lifts
+
+
+the weight off the model. Think about it
+
+
+like this. Old Gemini was carrying a
+
+
+backpack full of rocks while trying to
+
+
+create images. New Gemini dropped the
+
+
+backpack. It's faster. It's cleaner. It
+
+
+processes your requests without slowing
+
+
+down. The quality jump is massive, too.
+
+
+Images look more realistic. Colors are
+
+
+more accurate. Lighting is better.
+
+
+Shadows make sense. Before you'd get
+
+
+weird artifacts in your images, random
+
+
+blobs, distorted faces, hands with six
+
+
+fingers. Gemini 3.0 fixed most of that,
+
+
+not all of it. The speed improvement is
+
+
+wild. Old Gemini took about 30 seconds
+
+
+to generate an image, sometimes longer
+
+
+if your prompt was complex. Gemini 3.0
+
+
+does it in under 10 seconds. That's
+
+
+three times faster. Uh, you can iterate
+
+
+way quicker now. Try one idea, don't
+
+
+like it, try another. You're not sitting
+
+
+around waiting anymore. Now, if you want
+
+
+to dive even deeper into AI automation,
+
+
+I've got something special for you. I
+
+
+run a community called the AI Profit
+
+
+Boardroom. The best place to scale your
+
+
+business, get more customers, and save
+
+
+hundreds with AI automation. Learn how
+
+
+to save time and automate your business
+
+
+with AI tools. The link is in the
+
+
+comments and description. It's at
+
+
+school.com/iiprofitlab.
+
+
+Now, let's talk about Claude Opus 4.5.
+
+
+This just went free, completely free. No
+
+
+catch. Anthropic decided to make their
+
+
+most powerful model available to
+
+
+everyone. This is huge. Opus 4.5 is
+
+
+their smartest model. Better than
+
+
+Sonnet, better than Haiku, and now you
+
+
+don't have to pay for it. What can Opus
+
+
+4.5 do? Everything. Writing, coding,
+
+
+analysis, problem solving. It's got a
+
+
+massive context window. That means it
+
+
+can remember way more information in a
+
+
+conversation. You can feed it entire
+
+
+documents, whole code bases, long
+
+
+research papers, and it keeps track of
+
+
+everything. The writing quality on Opus
+
+
+4.5 is insane. It doesn't sound like AI
+
+
+anymore. It sounds human, natural,
+
+
+conversational. You can ask it to write
+
+
+in any style, formal, casual, technical,
+
+
+creative, and it nails it every time.
+
+
+Before, you'd read AI writing and think,
+
+
+"Yeah, that's obviously AI." With Opus
+
+
+4.5, people can't tell the difference.
+
+
+Coding got a massive upgrade, too. Opus
+
+
+4.5 can write entire applications, not
+
+
+just snippets, full programs. It
+
+
+understands complex logic. It can debug
+
+
+your code. It can explain what's wrong
+
+
+and fix it. I've seen people build
+
+
+entire web apps with just OPUS 4.5. No
+
+
+other tools needed. Here's the thing
+
+
+that makes OPUS 4.5 different from other
+
+
+AI models. It actually thinks through
+
+
+problems. Most AI just spits out answers
+
+
+fast. Opus 4.5 takes its time. It breaks
+
+
+down the problem. It considers different
+
+
+approaches. It gives you the best
+
+
+solution, not just the first solution.
+
+
+The analysis capabilities are next
+
+
+level. You can feed it data,
+
+
+spreadsheets, reports, research papers,
+
+
+and it finds patterns you'd miss. It
+
+
+connects dots. It gives you insights
+
+
+that would take hours to figure out
+
+
+manually. I'm talking about deep
+
+
+analysis here, not surface level stuff.
+
+
+Now, let me tell you why having both of
+
+
+these tools is powerful. Gemini 3.0 is
+
+
+your image powerhouse. Opus 4.5 is your
+
+
+text and logic powerhouse. together they
+
+
+cover everything. Need to create visual
+
+
+content? Use Gemini. Need to write
+
+
+something complex or solve a problem?
+
+
+Use Opus. Need both? Use both. Here's a
+
+
+real world example. Say you're creating
+
+
+content for a website. You need images.
+
+
+You need text. You need everything to
+
+
+match. Before you'd use one AI for
+
+
+images, another for text. They wouldn't
+
+
+match. The style would be off. The tone
+
+
+would be different. Now, you can use
+
+
+Gemini 3.0 for all your images. Same
+
+
+style, same quality. Then use Opus 4.5
+
+
+for all your text. Everything flows
+
+
+together. The fact that Opus 4.5 is free
+
+
+changes everything. Before you had to
+
+
+pay monthly, now anyone can use it.
+
+
+Students, creators, small teams,
+
+
+everyone gets access to the best AI
+
+
+writing and coding tool available.
+
+
+That's massive. Let me talk about the
+
+
+technical side for a second. Gemini 3.0
+
+
+runs on Google's TPUv5 chips. These are
+
+
+customuilt for AI workloads, way faster
+
+
+than regular GPUs. That's part of why
+
+
+the speed improved so much. Google
+
+
+optimized everything from the ground up.
+
+
+Opus 4.5 uses a different architecture.
+
+
+Anthropic built it to be safer and more
+
+
+aligned. That means it's less likely to
+
+
+make things up. It's more accurate. It
+
+
+follows instructions better. And it
+
+
+refuses fewer requests because it
+
+
+actually understands context better.
+
+
+Both tools have been trained on massive
+
+
+data sets. We're talking about trillions
+
+
+of parameters. Gemini 3.0 was trained on
+
+
+images, text, video, and audio. It's
+
+
+truly multimodal. Opus 4.5 focuses on
+
+
+text and code, but goes way deeper.
+
+
+Quality over quantity. Here's what you
+
+
+need to know about using Gemini 3.0
+
+
+effectively. Be specific with your
+
+
+prompts. The more detail you give, the
+
+
+better the better your output will be.
+
+
+Use the anti-gravity feature to your
+
+
+advantage. This means you can ask for
+
+
+complex scenes, multiple objects,
+
+
+different angles, specific perspectives.
+
+
+Don't hold back. Push the limits. See
+
+
+what it can do. For Opus 4.5, structure
+
+
+matters. When you ask it to do something
+
+
+complex, break it down. Give it steps.
+
+
+Say, first analyze this, then do that,
+
+
+then conclude with this. It follows
+
+
+instructions perfectly. When you're
+
+
+clear, use the long context window.
+
+
+Don't try to cram everything into short
+
+
+prompts. Give it all the information it
+
+
+needs. Background, context, examples.
+
+
+The more you feed it, the better it
+
+
+performs. Let's talk about what makes
+
+
+these updates different from previous
+
+
+releases. Most AI updates are
+
+
+incremental, slightly better, slightly
+
+
+faster. These updates are
+
+
+transformational. Gemini 3.0 isn't just
+
+
+a bit better than Gemini 2.0. It's a
+
+
+completely different beast. The
+
+
+anti-gravity system is a fundamental
+
+
+redesign. Same with Opus 4.5 going free.
+
+
+This isn't just a price change. It's a
+
+
+strategic move that opens up the most
+
+
+powerful AI model to millions of people
+
+
+who couldn't afford it before. That's
+
+
+going to accelerate AI adoption like
+
+
+crazy. The competition between AI
+
+
+companies is heating up. Google wants to
+
+
+dominate image generation. Anthropic
+
+
+wants to be the go-to for writing and
+
+
+coding. Open AI is somewhere in the
+
+
+middle trying to do everything. The this
+
+
+competition is good for us. It means
+
+
+faster updates, better features, lower
+
+
+prices. Here's something most people
+
+
+don't realize. These AI models get
+
+
+better every single day. They don't just
+
+
+update once every few months. The
+
+
+training continues. The fine-tuning
+
+
+continues every time you use them.
+
+
+You're using a slightly better version
+
+
+than yesterday. That's wild. Gemini 3.0
+
+
+learns from every image it generates. If
+
+
+something doesn't look right, the
+
+
+feedback goes back into the system. Next
+
+
+time it creates something similar, it's
+
+
+better. This continuous improvement is
+
+
+built into the core system. Opus 4.5
+
+
+does the same thing with text and code.
+
+
+Every conversation makes it smarter.
+
+
+Every correction teaches it something
+
+
+new. This isn't static technology. It's
+
+
+living technology that evolves. Let me
+
+
+address something important. Some people
+
+
+worry about AI replacing jobs. That's
+
+
+not what's happening here. These tools
+
+
+amplify what you can do. They don't
+
+
+replace you. Think about it. Before
+
+
+calculators, people did math by hand.
+
+
+Calculators didn't replace
+
+
+mathematicians. They made math faster
+
+
+and more accessible. Same thing here.
+
+
+Gemini 3.0 doesn't replace designers. It
+
+
+lets designers work faster and try more
+
+
+ideas. Opus 4.5 doesn't replace writers.
+
+
+It lets writers focus on the creative
+
+
+parts while handling the repetitive
+
+
+stuff. The people who win with AI are
+
+
+the ones who learn how to use it
+
+
+effectively. That's why understanding
+
+
+these tools matters, not just knowing
+
+
+they exist. Actually knowing how to use
+
+
+them. Now, if you want to dive even
+
+
+deeper into AI automation, I've got
+
+
+something special for you. I run a
+
+
+community called the AI Profit
+
+
+Boardroom. The best place to scale your
+
+
+business, get more customers, and save
+
+
+hundreds with AI automation. Learn how
+
+
+to save time and automate your business.
+
+
+The link is in the comments and
+
+
+description. It's at
+
+
+school.com/iprofitlab.
+
+
+And if you want the full process, SOPs
+
+
+and 100 plusa I use cases like this one.
+
+
+Join the AI success lab. Links in the
+
+
+comments and description. Google just
+
+
+launched something wild. It's called
+
+
+anti-gravity and it came out on November
+
+
+18th, 2025. This is not just another
+
+
+coding tool. Most AI coding tools give
+
+
+you suggestions. They help you write
+
+
+code faster. But anti-gravity, it
+
+
+actually builds entire apps for you.
+
+
+full apps with testing, with browser
+
+
+automation, with everything. And I'm
+
+
+going to show you exactly how to use it.
+
+
+So, what is anti-gravity? It's an AI
+
+
+powered IDE built on top of a Visual
+
+
+Studio Code. If you've used VS Code
+
+
+before, this will feel familiar, but
+
+
+Google added AI agents. And these agents
+
+
+don't just help you, they actually do
+
+
+the work for you. You tell the AI what
+
+
+you want, like build me a stock tracking
+
+
+app. And then the AI goes away and
+
+
+builds it. It writes the code. It opens
+
+
+the browser. It tests everything. It
+
+
+takes screenshots. It debugs issues. You
+
+
+just watch it work. When you first open
+
+
+anti-gravity, you see something that
+
+
+looks like VS Code. But here's the
+
+
+secret. You're not going to use that
+
+
+screen much. Instead, click on the agent
+
+
+manager. This is where the magic
+
+
+happens. The agent manager is like a
+
+
+control center. You can see all your AI
+
+
+agents working. You can manage multiple
+
+
+projects at once. It's like being a
+
+
+manager of a whole team. But the team is
+
+
+AI. The agent manager has three main
+
+
+parts. First, workspaces. This is where
+
+
+your main projects live. Second,
+
+
+playgrounds. This is where you test
+
+
+ideas quickly. Third, the inbox. This is
+
+
+where your AI agents message you when
+
+
+they're done or need approval. Let me
+
+
+walk you through building something. Say
+
+
+you want to build a stock tracking app.
+
+
+You open a workspace, create a new
+
+
+folder, an AI agent appears. Now, here's
+
+
+a pro tip. Give it good instructions. Be
+
+
+specific. Tell it what text stack to
+
+
+use. Tell it what features you want. And
+
+
+here's the key. Give it visual
+
+
+inspiration. Gemini 3 powers
+
+
+anti-gravity and it's amazing at
+
+
+building user interfaces, but only if
+
+
+you show it what you want. Here's what
+
+
+you do. Go to a tool called VZero.
+
+
+Describe the UI you want. Vzero builds
+
+
+it in seconds. Take a screenshot, paste
+
+
+it into anti-gravity, tell it to use
+
+
+that as inspiration. This makes a huge
+
+
+difference. And before I go further, if
+
+
+you want to learn how to use AI tools
+
+
+like anti-gravity to automate your
+
+
+business and save hours every single
+
+
+day, check out AI Profit Boardroom. We
+
+
+dive deep into AI automation. We show
+
+
+you exactly how to use tools like this
+
+
+to build apps, automate tasks, and get
+
+
+more done. No fluff, just real
+
+
+strategies. Link in the description. So,
+
+
+you give the agent your instructions.
+
+
+You attach your screenshot, hit send,
+
+
+the agent starts working, and as it
+
+
+works, it creates artifacts. What are
+
+
+artifacts? When they're documents,
+
+
+plans, screenshots, code files.
+
+
+Everything the agent does gets saved.
+
+
+You can open the implementation plan.
+
+
+While the agent is working, you can read
+
+
+what it's planning to do. You can review
+
+
+everything step by step. Here's another
+
+
+cool feature. The agent tests your app
+
+
+as it builds it. It opens a browser. It
+
+
+clicks buttons. It enters text. It takes
+
+
+screenshots all automatically. Because
+
+
+Google makes Chrome, they integrated it
+
+
+perfectly. The AI has full control over
+
+
+the browser. Now, here's a pro tip
+
+
+nobody talks about. As the AI is testing
+
+
+your app, you can leave annotations. You
+
+
+see a screenshot, you notice something
+
+
+you want to change, you can highlight
+
+
+part of the screenshot, leave a comment,
+
+
+like add a crypto section here. The AI
+
+
+will see that comment and start working
+
+
+on it. You're giving feedback in real
+
+
+time. But here's where anti-gravity gets
+
+
+really interesting. You can spin up more
+
+
+agents. Click the plus button in agent
+
+
+manager. Create a second agent. Tell it
+
+
+to add portfolio tracking. Now you have
+
+
+two agents working at the same time.
+
+
+They work in parallel. They don't
+
+
+interfere with each other. You can
+
+
+create different types of agents, not
+
+
+just coding agents. Create a product
+
+
+manager agent. Tell it to look at your
+
+
+app and create a road map. Create a
+
+
+marketing agent. Tell it to write blog
+
+
+posts and tweets. You can have a whole
+
+
+team of AI agents, each one doing
+
+
+different work. You're just managing
+
+
+them. And those playgrounds,
+
+
+say you're working on your main app, but
+
+
+suddenly you have an idea for something
+
+
+completely different, maybe a game. You
+
+
+don't want to mess up your main
+
+
+workspace. Go to the playground, create
+
+
+a new experiment, tell the AI to build
+
+
+it. If you like it, move it to a
+
+
+workspace. If you don't, delete it. Now,
+
+
+let's talk about the inbox. As you have
+
+
+multiple agents working, they all
+
+
+communicate through the inbox. Agent
+
+
+one, finish the portfolio feature
+
+
+message. Agent two, finish the marketing
+
+
+content message. Everything shows up in
+
+
+one place. You can review each thing.
+
+
+You can approve or reject. You can give
+
+
+more instructions. Here's the mindset
+
+
+shift you need. With normal coding,
+
+
+you're the builder. You write every
+
+
+line. But with anti-gravity, you're the
+
+
+manager. You tell your team what to
+
+
+build. They go build it. They come back
+
+
+with questions. You give approval. This
+
+
+is huge. You're not bottlenecked by how
+
+
+fast you can type code. You're only
+
+
+limited by how many agents you can
+
+
+manage. Now, I want to be real with you.
+
+
+Anti-gravity is not perfect. It's still
+
+
+in public preview. There are bugs. There
+
+
+are issues. Sometimes the AI doesn't
+
+
+follow instructions perfectly. Gemini 3
+
+
+has some rough edges compared to Claude,
+
+
+but Google is working on it. Here's
+
+
+something important. Anti-gravity agents
+
+
+have a lot of power. They can edit code.
+
+
+They can run terminal commands. They can
+
+
+control your browser. This creates
+
+
+security risks. Some researchers found
+
+
+vulnerabilities right after launch.
+
+
+There was even a case where someone used
+
+
+turbo mode and the agent accidentally
+
+
+deleted their entire hard drive. No
+
+
+warning, just deleted everything. So,
+
+
+here's my advice. Always back up your
+
+
+work. Don't use anti-gravity for
+
+
+critical production projects yet. Treat
+
+
+it like an experimental sandbox, but for
+
+
+side projects, for prototypes, for
+
+
+learning, anti-gravity is amazing. You
+
+
+can build apps so fast. Just be smart
+
+
+about it. Use planning mode instead of
+
+
+fast mode for complex tasks. Review the
+
+
+artifacts. Don't blindly trust
+
+
+everything. Check the code. Be the
+
+
+manager. Stay in control. Here are the
+
+
+key practices. Always back up your work.
+
+
+Use planning mode for anything complex.
+
+
+Give the AI visual inspiration. Read the
+
+
+artifacts as the AI works. Use
+
+
+annotations on screenshots. Start
+
+
+simple. Build a small app first. Get
+
+
+comfortable with the workflow, then
+
+
+tackle bigger projects. You can build
+
+
+web apps, stock trackers, toou apps,
+
+
+portfolio sites, games, admin
+
+
+dashboards, pretty much anything. You
+
+
+can use it to prototype ideas fast. You
+
+
+can use it to learn coding by watching
+
+
+how the AI builds things. And the text
+
+
+stack is flexible. Anti-gravity supports
+
+
+Nex.js, JS, React, Vue, plain HTML and
+
+
+CSS, Python, JavaScript, TypeScript, and
+
+
+more. If you want to master AI
+
+
+automation and learn how to use
+
+
+cuttingedge tools like anti-gravity to
+
+
+transform how you work, join AI Profit
+
+
+Boardroom. We're constantly testing new
+
+
+tools, finding what works, and teaching
+
+
+you exactly how to implement them. This
+
+
+is where you learn to stay ahead. Link
+
+
+in the description. Here's what makes
+
+
+this different from every other AI tool
+
+
+out there. Most tools are stuck in chat
+
+
+mode. You ask a question, it gives an
+
+
+answer. You ask another question, it
+
+
+gives another answer. It's slow. It's
+
+
+tedious. But anti-gravity breaks that
+
+
+model completely. Your agents work
+
+
+independently. They make decisions. They
+
+
+test things. They fix bugs. They don't
+
+
+wait for you to hold their hand. This is
+
+
+the first time we've seen truly
+
+
+autonomous AI coding, and it changes
+
+
+everything. Here's what you need to do
+
+
+right now. Go download anti-gravity.
+
+
+It's free. Google is giving tons of free
+
+
+credits. Install it. Open the agent
+
+
+manager. Create a workspace. Build
+
+
+something simple, a to-do app, a
+
+
+calculator, anything. Then start
+
+
+experimenting with multiple agents.
+
+
+Create a playground. Try different
+
+
+ideas. Get comfortable with the
+
+
+workflow. The key things to remember,
+
+
+use visual inspiration for better UIs.
+
+
+Use planning mode for complex tasks.
+
+
+Annotate screenshots to give better
+
+
+feedback. Spin up multiple agents for
+
+
+different tasks. Use playgrounds for
+
+
+quick experiments. Check your inbox
+
+
+regularly. Back up your work. And shift
+
+
+your mindset from builder to manager.
+
+
+Today we're talking about anti-gravity.
+
+
+This is Google's brand new AI
+
+
+development platform, and it's wild.
+
+
+This thing can build full apps from
+
+
+scratch. It can fix bugs automatically.
+
+
+It can even create pull requests for
+
+
+you. But before you go crazy with it, I
+
+
+need to show you something important
+
+
+because there it's been some scary
+
+
+incidents already. I'll get to that in a
+
+
+minute. But first, let me show you what
+
+
+this thing can actually do. Anti-gravity
+
+
+is basically an AI agent that lives
+
+
+inside your development environment.
+
+
+It's not just a code helper. It's a full
+
+
+autonomous agent. It can plan tasks,
+
+
+execute them, and verify everything
+
+
+worked. And it does all of this across
+
+
+your editor, your terminal, and your
+
+
+browser. The platform is powered by
+
+
+Gemini 3. That's Google's latest AI
+
+
+model, and it's specifically built for
+
+
+agentic work. The AI can break down big
+
+
+tasks into smaller steps, execute each
+
+
+step, check if it worked, and move to
+
+
+the next one, all without you doing
+
+
+anything. Here's what makes anti-gravity
+
+
+different. Most AI tools just suggest
+
+
+code. You still have to copy it, paste
+
+
+it, run it yourself. Anti-gravity does
+
+
+all of that automatically. It edits your
+
+
+files directly. It runs terminal
+
+
+commands. It can even open your browser
+
+
+and test your app. Now, I know what
+
+
+you're thinking. That sounds powerful,
+
+
+but also kind of scary. And you're
+
+
+right. Let me tell you about what
+
+
+happened recently. There was an incident
+
+
+where a developer used anti-gravity's
+
+
+turbo mode. The AI agent started running
+
+
+commands and it accidentally deleted a
+
+
+bunch of important files. just gone
+
+
+because the agent had full access to the
+
+
+terminal. Security researchers have been
+
+
+warning about this. They found that
+
+
+these agents can be tricked with prompt
+
+
+injection. Basically, bad actors could
+
+
+hide malicious instructions in files.
+
+
+And when the AI reads those files, it
+
+
+executes those instructions. That could
+
+
+mean stealing your API keys, deleting
+
+
+your database, or exposing sensitive
+
+
+data. So, here's the deal. Anti-gravity
+
+
+is incredibly powerful, but you need to
+
+
+use it safely. I'm going to show you
+
+
+exactly how to do that. Let's start with
+
+
+the coolest demo. Building a complete
+
+
+app from nothing. I'm going to ask
+
+
+Anti-gravity to create a to-do app with
+
+
+React Express SQLite tests, a Docker
+
+
+file, and a CI pipeline. Here's the
+
+
+exact prompt. Create a todo app using
+
+
+React Plus Express plus SQLite. Add
+
+
+tests docker file and create a GitHub
+
+
+actions pipeline. Watch what happens.
+
+
+The agent creates a plan. It breaks down
+
+
+the task into steps. Then it starts
+
+
+executing. You can see it creating files
+
+
+in real time. app.jsx for React,
+
+
+server.js for Express, database, schema,
+
+
+test files, everything. Now it moves to
+
+
+the terminal. It installs dependencies,
+
+
+runs the tests, the test pass, then it
+
+
+builds the Docker container and starts
+
+
+the app locally. I can open my browser,
+
+
+and there it is, a fully working to-do
+
+
+app. I can add tasks, check them off,
+
+
+delete them, everything works. And I
+
+
+didn't write a single line of code. That
+
+
+took maybe 3 minutes to build something
+
+
+that would normally take hours. But
+
+
+here's what I want you to notice. Before
+
+
+the agent ran any terminal commands, it
+
+
+showed me what it was about to do. I
+
+
+could approve or reject each action.
+
+
+That's important. Julian Goldie reads
+
+
+every comment. So, make sure you comment
+
+
+below and let me know what kind of app
+
+
+you'd build with this. Here's another
+
+
+workflow that's super useful. Let's say
+
+
+you have a project with failing tests.
+
+
+You know something's broken, but you
+
+
+don't know what. With anti-gravity, you
+
+
+can just ask it to fix the problem.
+
+
+Here's my prompt. Investigate failing
+
+
+unit tests. Reproduce locally. propose
+
+
+and apply a fix, add a regression test,
+
+
+and create a PR. The agent looks at the
+
+
+test output, sees which tests are
+
+
+failing, then it examines the code to
+
+
+find the root cause. The agent writes a
+
+
+fix, updates the code, runs the tests
+
+
+again, and now they all pass. But it
+
+
+doesn't stop there. It also writes a new
+
+
+test to make sure this bug doesn't
+
+
+happen again. Then it creates a pull
+
+
+request with a detailed commit message
+
+
+explaining what was wrong and how it was
+
+
+fixed. This is huge for developers
+
+
+because bug fixing takes up so much
+
+
+time. And this agent can do it
+
+
+automatically. Before I show you the
+
+
+third demo, let me tell you about
+
+
+something really cool. If you want to
+
+
+learn how to actually use AI tools like
+
+
+anti-gravity to save time and automate
+
+
+your business, you need to check out AI
+
+
+Profit Boardroom. This is where we show
+
+
+you the exact AI tools and workflows
+
+
+that can transform how you work. Whether
+
+
+you're building apps, creating content,
+
+
+or running a business, AI can handle the
+
+
+boring stuff so you can focus on what
+
+
+matters. Click the link in the
+
+
+description to learn more. This third
+
+
+workflow is where safety really matters.
+
+
+Let's say you need to refactor some code
+
+
+and run a security scan. Here's my
+
+
+prompt. Refactor function Y to improve
+
+
+performance and run a secret scan. Do
+
+
+not change production configs or push
+
+
+secrets. Notice how I specifically told
+
+
+it not to touch production configs.
+
+
+That's important. You need to give the
+
+
+agent clear boundaries. The agent starts
+
+
+the refactor, cleans up the code, then
+
+
+it runs the security scan. The scan
+
+
+finds a potential issue. There's an API
+
+
+key hard-coded in a config file. The
+
+
+agent flags this. It shows me a warning
+
+
+and it asks if I want to proceed. I can
+
+
+reject this action or I can tell it to
+
+
+remove the API key and use environment
+
+
+variables instead. This is the evidence
+
+
+trailing action. Every step the agent
+
+
+takes is logged. So, you can review what
+
+
+happened and make sure nothing dangerous
+
+
+was executed. Okay, let's talk about how
+
+
+to use this safely because like I said,
+
+
+there have been incidents. Here are the
+
+
+rules. Rule number one, always run
+
+
+agents in a sandbox or a dedicated
+
+
+virtual machine. Never run them on
+
+
+production servers. Rule number two,
+
+
+disable automatic destructive commands.
+
+
+No automatic RM RF, no global pseudo
+
+
+access. Rule number three, require
+
+
+manual approval for any terminal
+
+
+commands that could be dangerous. Rule
+
+
+number four, always review the evidence
+
+
+logs before you accept any changes. Read
+
+
+through what the agent did. Rule number
+
+
+five, use dummy credentials for testing.
+
+
+Don't give the agent access to real API
+
+
+keys or production databases. And rule
+
+
+number six, avoid using turbo mode on
+
+
+anything important. Turbo mode lets the
+
+
+agent run faster by skipping approval
+
+
+steps, but that's exactly how things go
+
+
+wrong. These rules might seem like
+
+
+overkill, but trust me, they're not.
+
+
+Security researchers have found real
+
+
+vulnerabilities, prompt injection
+
+
+attacks, file exfiltration risks,
+
+
+destructive command execution. The good
+
+
+news is that Google is aware of these
+
+
+issues and they're working on better
+
+
+safeguards. But until those are in
+
+
+place, you need to protect yourself.
+
+
+Here's why anti-gravity is such a big
+
+
+deal. With tools like this, anyone can
+
+
+build software. You just need to know
+
+
+what you want to build. The AI handles
+
+
+the technical details. That means more
+
+
+people can turn their ideas into real
+
+
+products. Small businesses can build
+
+
+custom tools without hiring expensive
+
+
+developers. Entrepreneurs can test ideas
+
+
+faster. But this technology is brand
+
+
+new. is still in public preview. There
+
+
+will be bugs, there will be mistakes,
+
+
+and yes, there will be security issues.
+
+
+That's why you need to learn how to use
+
+
+it safely. Now, if you want to stay
+
+
+ahead of AI tools like this, you need to
+
+
+join AI Profit Boardroom. We break down
+
+
+every new AI tool, show you how to use
+
+
+them, and teach you how to automate your
+
+
+business safely. Click the link in the
+
+
+description to learn more. All right,
+
+
+that's anti-gravity, Google's new AI
+
+
+agent platform. It can build full apps,
+
+
+fix bugs automatically, and handle
+
+
+complex development workflows. Let me
+
+
+walk you through how this actually
+
+
+works. Let's say you want to build an
+
+
+app. You tell the anti-gravity agent to
+
+
+initialize Firebase in your project. The
+
+
+agent then generates an implementation
+
+
+plan. If it needs more info from you, it
+
+
+asks questions. When it's done, it shows
+
+
+you a step-by-step walkthrough of what
+
+
+it did. The whole process is automated,
+
+
+but you're still in control. Now, here's
+
+
+a real example. Someone used
+
+
+anti-gravity to build a racing game.
+
+
+They asked for email and password
+
+
+signin. They asked for a cloud fire
+
+
+store leaderboard and anti-gravity using
+
+
+Firebase MCP tools did everything
+
+
+automatically. It fetched the API keys.
+
+
+It added authentication. It set up the
+
+
+fire store logic. It wrote the game
+
+
+code. Then it just worked. No debugging,
+
+
+no fixing errors. It just worked. Think
+
+
+about what this means. You're not
+
+
+writing Firebase initialization code
+
+
+anymore. You're not hunting for API keys
+
+
+in the console. You're not setting up,
+
+
+you know, authentication flows manually.
+
+
+You're not writing database rules. The
+
+
+the AI agent does all of this and it
+
+
+does it right the first time. The
+
+
+deployment part is even crazier. Once
+
+
+your app is built, the agent already
+
+
+knows how to deploy. It uses Firebase
+
+
+hosting. It checks all the steps using
+
+
+MCP. Then it runs Firebase deploy only
+
+
+hosting fully automated. You ask it to
+
+
+deploy and it deploys. And the MCP
+
+
+server also supports app hosting for
+
+
+Nex.js and Angular apps. And this is
+
+
+where things get interesting because
+
+
+Firebase MCP works with Gemini agents
+
+
+too. So you're not just limited to
+
+
+anti-gravity. You can use these same
+
+
+tools in other environments. The
+
+
+protocol is open, which means more AI
+
+
+tools will start using it. And when they
+
+
+do, app development becomes even easier.
+
+
+Now, if you're watching this and
+
+
+thinking, "Holy crap, I need to learn
+
+
+how to build apps with AI tools like
+
+
+anti-gravity and Firebase MCP," then you
+
+
+need to join my AI profit boardroom.
+
+
+This is where I teach you how to use AI
+
+
+agents and automation tools to build
+
+
+real products. You'll learn how to scale
+
+
+your business with the exact same AI
+
+
+development tools I'm showing you today.
+
+
+You'll get access to workflows that show
+
+
+you how to automate app development, how
+
+
+to use MCP servers, how to build with AI
+
+
+agents like the ones in anti-gravity.
+
+
+Plus, you'll save hundreds of hours
+
+
+because you'll learn which AI tools
+
+
+actually work. So, back at it, the speed
+
+
+of development with this setup is
+
+
+insane. Apps that used to take weeks now
+
+
+take hours. Apps that used to take days
+
+
+now take minutes. And the quality
+
+
+doesn't drop because the AI is following
+
+
+best practices. It's using the right
+
+
+Firebase features. is setting up proper
+
+
+security. It's not cutting corners. And
+
+
+here's something most people miss. When
+
+
+you use Firebase MCP with anti-gravity,
+
+
+you're also learning because the agent
+
+
+explains what it's doing. It shows you
+
+
+the code it writes. It walks you through
+
+
+the Firebase setup. So, even if you're
+
+
+not a Firebase expert now, you will be
+
+
+after using this. You'll understand how
+
+
+everything connects. You'll understand
+
+
+why certain patterns work. You'll level
+
+
+up your skills while the AI does the
+
+
+work. The deployment process is
+
+
+seamless, too. Once your app is ready,
+
+
+anti-gravity can push it live. It
+
+
+handles the hosting configuration. It
+
+
+sets up the domain. It manages the build
+
+
+process. You go from idea to live app
+
+
+without switching tools. Everything
+
+
+happens in one place. And if something
+
+
+needs to change, the agent can update
+
+
+and redeploy just as easily. Here's what
+
+
+you should do next. If you're building
+
+
+apps, try anti-gravity. Add the Firebase
+
+
+MCP server. Build something small first.
+
+
+See how it works. See what the agent can
+
+
+do and scale up. Build something bigger.
+
+
+Push the limits. because this technology
+
+
+is new and the people who learn it now
+
+
+will have a huge advantage. Now, let me
+
+
+tell you what Google has been working on
+
+
+behind the scenes. They've been making
+
+
+sure that the Firebase MCP server works
+
+
+really well with not only the Gemini
+
+
+CLI, but all the places where you might
+
+
+want to use an MCP server. And the
+
+
+biggest one is anti-gravity IDE,
+
+
+Google's newest release. So, they built
+
+
+this integration from the ground up to
+
+
+be seamless. and it shows. Here's
+
+
+exactly how you add Firebase MCP to
+
+
+anti-gravity. You open anti-gravity. You
+
+
+go to the drop-own menu in the agent
+
+
+window. You select MCP servers. Then you
+
+
+choose Firebase from the list of
+
+
+available MCP servers. This opens a
+
+
+description of the MCP server. And you
+
+
+just click install. That's it. The
+
+
+Firebase MCP server is now added to
+
+
+anti-gravity. And now the real magic
+
+
+starts. So the first thing you want to
+
+
+do is link your current app to Firebase.
+
+
+You tell the agent to initialize
+
+
+Firebase in your current project. The
+
+
+agent then develops an implementation
+
+
+plan. It uses the MCP server to link
+
+
+Firebase to your project. If the agent
+
+
+needs more information to complete a
+
+
+task, it pauses and asks for your input.
+
+
+You answer, it continues. Once the task
+
+
+is complete, anti-gravity provides a
+
+
+walkthrough of the steps it took to link
+
+
+Firebase to your app. So, you're not
+
+
+just getting results, you're learning
+
+
+the process. Now, here's where it gets
+
+
+fun. You can ask anti-gravity to
+
+
+actually build your app. Using
+
+
+anti-gravity, you can specify a series
+
+
+of steps that you want the agent to take
+
+
+in building your app. Someone prompted
+
+
+it to build a racing game. They wanted
+
+
+sign in using email and password login
+
+
+from Firebase. They wanted Cloud Fire
+
+
+Store for a leaderboard and anti-gravity
+
+
+using its suite of MCP tools from the
+
+
+Firebase MCP server fetch the API keys
+
+
+for the web app automatically. No need
+
+
+to visit the Firebase console. It
+
+
+implemented both features without issue.
+
+
+Then they tested the game and it worked
+
+
+exactly as expected first try. But it
+
+
+doesn't stop at building. You can deploy
+
+
+the app with Firebase hosting too. The
+
+
+anti-gravity agent already has access to
+
+
+Firebase hosting via the Firebase MCP
+
+
+server. The agent can consult with the
+
+
+Firebase MCP server to verify the steps
+
+
+to deploy to Firebase hosting. The agent
+
+
+makes a deployment plan. This includes
+
+
+compiling the code, then running the
+
+
+Firebase deploy only hosting command to
+
+
+get the app onto Firebase hosting. You
+
+
+don't need to run any commands yourself.
+
+
+You just ask the agent to deploy for
+
+
+you. Once this is done, you can share
+
+
+the game you built with your friends or
+
+
+your customers or whoever you want. And
+
+
+the Firebase MCP server also supports
+
+
+app hosting which is optimized for
+
+
+server rendered Nex.js and Angular web
+
+
+apps. So if you're building more complex
+
+
+applications, you're covered there, too.
+
+
+So here's my final thought. Anti-gravity
+
+
+plus Firebase MCP isn't just an IDE
+
+
+update. It's the future of app
+
+
+development. AI agents with full
+
+
+control. I have full automation. your
+
+
+ideas turned into fully built apps. And
+
+
+we're seeing this happen right now. Not
+
+
+in five years, not in 10 years, right
+
+
+now. 2025 is going to be wild. This is
+
+
+how you accelerate your app development
+
+
+with anti-gravity, with the Firebase,
+
+
+MCP server, and with AI agents that
+
+
+actually work. Now, if you're watching
+
+
+this and thinking, "Holy crap, I need to
+
+
+learn how to build apps with AI tools
+
+
+like anti-gravity and Firebase MCP,"
+
+
+then you need to join my AI profit
+
+
+boardroom. This is where I teach you how
+
+
+to use AI agents and automation tools to
+
+
+build real products. You'll learn how to
+
+
+scale your business with the exact same
+
+
+AI development tools I'm showing you
+
+
+today. You'll get access to workflows
+
+
+that show you how to automate app
+
+
+development, how to use MCP servers, how
+
+
+to build with AI agents like the ones in
+
+
+anti-gravity, plus you'll save hundreds
+
+
+of hours because you'll learn which AI
+
+
+tools. So, what I'm going to try now,
+
+
+I'm going to take
+
+
+my landing page here for my backlink
+
+
+portal. Take that, screenshot it.
+
+
+We're going to open up a new project
+
+
+inside
+
+
+the ID. So, if we go to
+
+
+new window and we'll close this old one.
+
+
+Let's close that. There we go. Open up a
+
+
+new folder. We'll call this new folder
+
+
+website Black Friday. SEO website Black
+
+
+Friday. Open up. Then I'm going to say
+
+
+right past. So we've got the screenshot
+
+
+here and we're going to say okay create
+
+
+better more
+
+
+modern version of this page this landing
+
+
+page/epage website. Then I'm going to
+
+
+say direct all the traffic to my SEO
+
+
+checkout page. That's your services URL
+
+
+equals that. We should be good to go on
+
+
+that. All right. And we'll see what we
+
+
+can build out here. I want to switch
+
+
+back. Hit the limit on. All right. Let's
+
+
+switch back to Claude Sonic. You can
+
+
+actually check which ones you've hit the
+
+
+limit on. So you can see here, for
+
+
+example, Gemini High, uh, not available
+
+
+until 9:34 a.m., right? Which is 4 hours
+
+
+away for me. I'm an early riser. I'm
+
+
+doing this live stream super early. And
+
+
+then we've got another one, Gemini 3
+
+
+Pro, that's not available until 9:34
+
+
+a.m. So, it's loading it right here. But
+
+
+yeah, you can use these for like website
+
+
+redesign, apps, SAS tools, etc. Just
+
+
+give it whatever idea you want. Now, I
+
+
+mean, some people are going to say,
+
+
+right, I'm not smart enough to use AI
+
+
+tools, but you know, anti-gravity
+
+
+understands
+
+
+whatever you want without having to to
+
+
+really be very clear about what you
+
+
+want, right? Like, if you have an idea,
+
+
+you're good to go. Yeah. So, you can you
+
+
+can just basically give this what you
+
+
+want. Another one is some people say
+
+
+like anti-gravity is a little bit
+
+
+overwhelming, but you can literally just
+
+
+type in one sentence into anti-gravity
+
+
+and it'll it'll basically give you
+
+
+exactly what you want as you've seen
+
+
+today. Some people say I'm scared of
+
+
+like breaking something, but
+
+
+anti-gravity actually keeps your history
+
+
+of what you've created. So, you can like
+
+
+just go back and undo what you've done
+
+
+previously. Some people say it looks too
+
+
+advanced. But even though this tool can
+
+
+be advanced, you can use it in a really
+
+
+simple way, too. And also, this works
+
+
+with like any normal file. So you don't
+
+
+need to be a code or anything like that.
+
+
+Um yeah, and the other cool thing is
+
+
+it's hosted locally as well. So, you
+
+
+know, you can come back to it when you
+
+
+want. You've got privacy and that sort
+
+
+of thing. Now, I want to show you this
+
+
+30-day plan as well, right? So, I would,
+
+
+you know, I would test out for like 1 to
+
+
+3 days. Just give it some small tasks.
+
+
+Then day four to 7, sort of help, you
+
+
+know, let it help you fix things. Ask it
+
+
+why it made certain changes. Uh start
+
+
+looking at the explanations. And then
+
+
+you know day 8 to 14 you can start
+
+
+building out a real project. Let it
+
+
+organize all the messy side of things
+
+
+and ask it to explain the whole system
+
+
+to you too. Then you can build new
+
+
+features. Maybe day 15 to 20 you build
+
+
+one new feature or one new feature a
+
+
+day. And you can also then start using
+
+
+like the browser, the terminal, the
+
+
+editor. And yeah, you know, you can
+
+
+learn this stuff in like 30 days. Pretty
+
+
+simple and easy. So let's see what we
+
+
+got back here. Anti-gravity is still
+
+
+coding out there. I think it's a little
+
+
+bit slow with claw 4.5 to be funny to be
+
+
+honest, especially when you're starting
+
+
+that new project from from scratch. We
+
+
+got Igore. Hello Igore. Good to see you.
+
+
+And if we go back to anti-gravity now,
+
+
+it's beginning to create the
+
+
+foundations. So, we're pasting in that
+
+
+screenshot, giving it ideas of what we
+
+
+want. But again, like if it's a brand
+
+
+new project from scratch, it may take a
+
+
+little while, right, to to really start
+
+
+coming back in. And then you can open up
+
+
+previous projects here as well. So, if
+
+
+you right click the icon,
+
+
+you've got your window that's actually
+
+
+open with your project and then you can
+
+
+open up these test projects here. So, I
+
+
+could open up my website or the Black
+
+
+Friday website, the test project as a
+
+
+folder inside the IDE, too.
+
+
+And again, you can switch between
+
+
+planning and fast. So, now it's
+
+
+beginning to code that out. It's giving
+
+
+us all the code inside the index html.
+
+
+That's just creating the foundation.
+
+
+Obviously, it needs to create the CSS
+
+
+and everything else. I can accept the
+
+
+changes there and then it will keep
+
+
+going. Someone's asking like does it
+
+
+have usage limits? So yeah, like you
+
+
+have limits on each of the APIs you use.
+
+
+Now these are free APIs you're using.
+
+
+But you can see that we I can't use
+
+
+Gemini 3.0 for like 3 hours now or 5
+
+
+hours. So these two I can't use for a
+
+
+while. So it's actually 4 hours I can't
+
+
+use it for because it's not It tells you
+
+
+when it's available, right? So it says
+
+
+you've reached a quot limit for Gemini 3
+
+
+Pro low. You can resume using this model
+
+
+at 9:34 a.m. which is not great. That is
+
+
+not great. So, I'm kind of locked out
+
+
+from improving it with Gemini 3 for 4
+
+
+hours. And then Claude Sonnet and Claude
+
+
+4.5 Sonet Thinking and GT OSS I can
+
+
+still use in the meantime. But the
+
+
+problem is they're not as good at
+
+
+coding, right? So, that's one of the
+
+
+biggest issues you're going to find.
+
+
+People says, "Oh, no, I used to follow
+
+
+you on YouTube, but I started seeing AI
+
+
+avatar videos and then I stopped
+
+
+watching, but like let's see it again."
+
+
+Well, it's good to have you back. Thanks
+
+
+for watching again. like you can just
+
+
+watch the live streams if you want and
+
+
+then you skip all the AI avatar stuff.
+
+
+Does it have a minimum model which you
+
+
+can use when all your limits are full?
+
+
+Yeah. So it' be GPTO OSS that you would
+
+
+use for that, right? So for the minimum
+
+
+model you use GPTO OSS. So I mean the
+
+
+thing is right now you know probably
+
+
+from everything that you've seen right
+
+
+now like you're probably spending about
+
+
+40 hours a week uh doing tasks that AI
+
+
+could handle in minutes. So from what I
+
+
+see inside the comments and everything
+
+
+else today like a lot of people are
+
+
+struggling with AI. Um, if you need help
+
+
+with this, like check out the AI profit
+
+
+boarding. All right, so for example,
+
+
+we've got inside the AI profit boarding,
+
+
+we have the we have the AI automation
+
+
+blueprint and basically this shows you
+
+
+how to build AI systems that run on
+
+
+autopilot so you can stop wasting time
+
+
+on repetitive tasks. So for example, if
+
+
+we go inside the AI profit volume here,
+
+
+you can see automations for content
+
+
+creation, lead generation, shorts, etc.
+
+
+AI avatar videos. These are all sorts of
+
+
+things that are included inside the
+
+
+community. Um, we also have the advanced
+
+
+Facebook ads growth training. So, this
+
+
+is my complete playbook for building
+
+
+engaged audiences and active communities
+
+
+on Facebook. On top of that, you get the
+
+
+school community building training. So,
+
+
+yeah, if you actually type in school
+
+
+here, you get tons of training on how
+
+
+I've built communities with school if
+
+
+you want to learn this stuff yourself as
+
+
+you can see. And then I'll basically
+
+
+show you how I built and scaled multiple
+
+
+thriving communities on school. So, like
+
+
+the setup, the structure, the
+
+
+engagement, tactics, and everything
+
+
+else. On top of that, you're going to
+
+
+get the 100 M AI content machine. So,
+
+
+this is where you can take one single
+
+
+idea and turn it into over a 100 pieces
+
+
+of content across every single platform.
+
+
+So, you've probably seen me on X, maybe
+
+
+you've seen me on Instagram, maybe on
+
+
+Facebook ads, maybe on LinkedIn, on
+
+
+YouTube, on multiple different channels
+
+
+on YouTube, etc. Basically, this machine
+
+
+here shows you exactly how to do it. Um,
+
+
+and how to save over 20 hours per week
+
+
+doing this, right? And then you also get
+
+
+the high ticket service delivery
+
+
+formula. So this is the process I've
+
+
+used to scale AI automation services to
+
+
+clients. You get all my frameworks,
+
+
+delivery systems, communication
+
+
+templates, etc. inside the air profit
+
+
+boardroom. You also get the AI avatar
+
+
+content system. So you're going to learn
+
+
+how to build AI avatars to create
+
+
+content for you that sound like you and
+
+
+post for you. So for example, if you
+
+
+have a look at my YouTube channel, these
+
+
+videos are all like AI avatar videos
+
+
+that get thousands of views. They reach
+
+
+millions of people and um and we've
+
+
+automated we've got a great system for
+
+
+automating this stuff, right? What else
+
+
+we got here? So you also get the school
+
+
+empire system. So this shows you how I
+
+
+built school communities with AI, all
+
+
+the funnels I build, etc. The Twitter
+
+
+growth system as well. So if you've seen
+
+
+me on Twitter, for example, you've
+
+
+probably seen my AI content. We reach
+
+
+again millions of people per month on X
+
+
+and uh we're constantly publishing
+
+
+content which is automated with AI. You
+
+
+get all those systems inside the profit
+
+
+port 2. And then also you get the AI
+
+
+workflow vault. So you get access to
+
+
+over 1,000 pre-built NA10 automations.
+
+
+You get daily Q&A with me. So you can
+
+
+ask me anything about AI automation or
+
+
+building your business. And you know if
+
+
+it's something complicated I actually
+
+
+create a video and help you with the
+
+
+answer. Top of that you get unlimited
+
+
+tech support. So you get unlimited tech
+
+
+support where you can get help with any
+
+
+issues inside the A prof. You can just
+
+
+create a thread get fast answers etc. So
+
+
+if you have a look here for example
+
+
+people are posting um and asking for
+
+
+help and stuff like that. For example
+
+
+like Steve he actually set up a new
+
+
+YouTube channel with AI and reached over
+
+
+200,000 people which is pretty crazy.
+
+
+You see all these different posts that
+
+
+people are creating
+
+
+and sharing and then they get help and
+
+
+support from our community. All right.
+
+
+You also get week uh weekly coaching
+
+
+calls. So you get weekly coaching calls
+
+
+where you can show up, ask questions,
+
+
+get feedback and watch me work through
+
+
+problems in real time along with my
+
+
+team. We'll help you during those live
+
+
+calls. We have a bunch of giveaways and
+
+
+that's everything you get, right? So,
+
+
+you get the AI automation blueprint, the
+
+
+Facebook growth training, the school
+
+
+community system, the 100M content
+
+
+machine, the service delivery formula,
+
+
+the AI avatar system, the school empire
+
+
+training, the Twitter growth system,
+
+
+over 1,000 pre-built workflows, daily
+
+
+Q&A with me, unlimited tech support, and
+
+
+five live coaching course a week, plus
+
+
+monthly giveaways, and um if you sign up
+
+
+now on their Black Friday deal, which is
+
+
+only available for a few more hours,
+
+
+then you will save 35% forever, right?
+
+
+So you sign up to that price now and
+
+
+then you lock in your 35% discount
+
+
+forever by signing up here. You just
+
+
+sign up to the aircraft boardroom link
+
+
+in the comments in description to get
+
+
+that. So it's an absolute steal right
+
+
+now. What we got here? Yeah, let's keep
+
+
+going through now. So if we go back to
+
+
+anti-gravity here,
+
+
+we've plugged in the details of our
+
+
+landing page that we want to create.
+
+
+Then we said create better, more modern
+
+
+version of the landing page. Blah blah
+
+
+blah direct all the traffic here. This
+
+
+is the URL. And uh if we click on view,
+
+
+we can see the landing page and we can
+
+
+see the AI scrolling through it. Right
+
+
+now that landing page looks so much
+
+
+nicer than the original. If you want to
+
+
+actually open it up, you can open it up
+
+
+inside the Aentic browser which you can
+
+
+see. All right. So this is the example
+
+
+page. If we scroll up, it's got the it's
+
+
+it's got the details here. So it looks
+
+
+super nice. It gives us a code to use.
+
+
+If we click on this link, it should take
+
+
+us to the checkout page. By the way,
+
+
+this is a real deal, right? So, if you
+
+
+actually want help with AICO, feel free
+
+
+to order online. Link in the comments
+
+
+description. But yeah, we you can order
+
+
+online. We've got a huge Black Friday
+
+
+deal right now for 30% off. So, if you
+
+
+type in Black Friday on the checkout
+
+
+page, you will save 30% when you order
+
+
+here. And then you can use uh select
+
+
+whichever package you want. So, you can
+
+
+select like backlinks here. So, you can
+
+
+say, "Right, okay, I want five or seven
+
+
+backlinks for my website." Apply the
+
+
+code and then boom, you can get access.
+
+
+This is way way cheaper than uh our
+
+
+normal agency service as well cuz you
+
+
+order in online. And then you can also
+
+
+select multiple packages. So you could
+
+
+go with the SEO starter package, the SEO
+
+
+power pack or the premium pack as well.
+
+
+And then you just fill in your details
+
+
+here and you can pay online. So if we
+
+
+have a look at this page, this looks a
+
+
+lot nicer than the original. So if we go
+
+
+back to let me show you what the
+
+
+original look like. So if we open up
+
+
+this is the original page with the
+
+
+YouTube video, the headline, etc. It
+
+
+looks okay, but it's a little bit messy
+
+
+when it comes to the design and
+
+
+everything else, right? Whereas, if we
+
+
+have a look at the new design, this is
+
+
+the new version. It looks a lot nicer,
+
+
+right? Everything's aligned, it's all
+
+
+cleaned up, it's all tidy, etc. Yeah,
+
+
+it's looking really good that. And then
+
+
+you can actually insert a demo video
+
+
+here. It just looks a lot cleaner,
+
+
+right? And I think that demonstrates a
+
+
+lot more trust. It's taken exactly the
+
+
+same copy, but it's just redesigned it
+
+
+with our brand colors. It's even, for
+
+
+example, it's even included like some of
+
+
+the benefits that I didn't mention
+
+
+previously. Got the limited time offer,
+
+
+testimonials, and then the CTAs. I would
+
+
+say that's a much nicer design page,
+
+
+especially this section right here. It
+
+
+looks super nice. Let's try and preview
+
+
+it on mobile if we can. Can we preview
+
+
+on mobile? We can change the device
+
+
+here. Yeah, there we go. So, this is the
+
+
+version on mobile here. And then we can
+
+
+scroll down. It's It's not looking as
+
+
+good on on mobile to be honest with you,
+
+
+but we've redesigned the whole page
+
+
+there. So, it's pretty simple and easy
+
+
+to do this. Sper says that's a pretty
+
+
+well done site from one single prompt.
+
+
+Yeah, I agree with you there. I think
+
+
+that looks pretty nice. So, yeah, you
+
+
+can build websites pretty quickly. I
+
+
+mean, like building websites used to be
+
+
+a nightmare, whereas uh now you can
+
+
+easily just create them in one single
+
+
+prompt like I've shown you today and uh
+
+
+you type in simple words, whatever you
+
+
+want, and it just fix things. I used to
+
+
+spend like hours fixing this sort of
+
+
+stuff, and you know, you get buses that
+
+
+break, layouts look weird, code that
+
+
+makes no sense, etc. But with
+
+
+anti-gravity, that saves a lot of time.
+
+
+It's way faster. And again, like some
+
+
+people say, "I'm not good at coding, but
+
+
+Antiggravity basically writes a code for
+
+
+you." Some people say websites look too
+
+
+complex, but anti-gravity basically
+
+
+explains it to you like a teacher if you
+
+
+ask it. And yeah, it's it's super fast
+
+
+and easy to do. Now, I think you could
+
+
+really use this for SEO as well to
+
+
+create like micro sites. So, you can
+
+
+see, for example, this is a website
+
+
+where we're publishing content
+
+
+consistently. We have multiple different
+
+
+websites we're doing this on like airoft
+
+
+boarding this world. You can see some
+
+
+examples of of the traffic we get to
+
+
+this website. So within the last um 3
+
+
+months you can see we get thousands of
+
+
+clicks here. But basically
+
+
+we could use this and and then create
+
+
+content across multiple different
+
+
+platforms. I want to find another
+
+
+example here. Yeah. So this is another
+
+
+website as well. But I think you could
+
+
+really leverage anti-gravity to create
+
+
+micro sites for you. So what you can
+
+
+actually do if you wanted to use Google
+
+
+anti-gravity for SEO is you could go to
+
+
+press find some keywords where you can
+
+
+build little micro sites around. So for
+
+
+example, let's say I don't know SEO
+
+
+training or something like that, right?
+
+
+And you can create a little micro site
+
+
+based on like some low competition
+
+
+keywords. So if we have a look here,
+
+
+we're going to type in like KD10 LS.
+
+
+See what we got. Maybe KD 20s. Let's
+
+
+have a look here. See what we can create
+
+
+content. All right. Select enterprise
+
+
+SEO ROI calculator and that's actually
+
+
+that's a website that I own and vibe
+
+
+coded with AI, right? So if we click on
+
+
+book a free strategy session, it funnels
+
+
+traffic to our book a call page, right?
+
+
+And it's ranking number one for that
+
+
+keyword. So if we go on to Google here,
+
+
+you can see us ranking number one even
+
+
+after we coded it like about a year ago.
+
+
+Let's open this up in a new incognito
+
+
+just to make sure. Yes, you can see us
+
+
+ranking number one for that keyword,
+
+
+right? And the way that we did this and
+
+
+vibe coded out, so we actually used bold
+
+
+previously, but basically what you want
+
+
+to do is just find low competition
+
+
+keywords, right? So ideally like keyword
+
+
+difficulty 10 or less. You can find a
+
+
+bunch of micro site ideas here. So for
+
+
+example, like SEO, like calculator,
+
+
+whatever your niche is, just type in
+
+
+your niche and then calculator. So I
+
+
+have an SEO agency, so that's why I'm
+
+
+doing SEO. And then from here, we can
+
+
+pick out different keywords we want to
+
+
+rank for. So for example, SEO cost
+
+
+calculator tool. Right now, what we can
+
+
+do is we can go back over to
+
+
+anti-gravity. We can start up a new
+
+
+project. So, I'm going to click on new
+
+
+window here. We'll close the old one.
+
+
+So, I'm going to X off the old one here.
+
+
+Click on open folder. New folder. Type
+
+
+in the keyword of the micro site. I'm
+
+
+going to create SEO cost calculator
+
+
+tool. Hit open. Then from here, what we
+
+
+can do is we can say okay, create a
+
+
+beautiful landing page website
+
+
+modern etc. optimized for the keyword
+
+
+uh keywords, right? And then we're going
+
+
+to say funnel traffic to
+
+
+my SEO agency booker call page here,
+
+
+right? And then right out of the landing
+
+
+page, copy
+
+
+selling SEO services
+
+
+as gold agency
+
+
+and following traffic to book a call.
+
+
+That's right. And then what you can
+
+
+actually do is put in your brand colors
+
+
+as well. So I'm going to just write that
+
+
+there. There's our brand colors. So put
+
+
+brand colors here. We go. Hit enter. And
+
+
+then we can just vibe code out a landing
+
+
+page or micro site pretty quickly. V
+
+
+code that out, host it on net file
+
+
+wherever you want. Code it out locally
+
+
+and then start ranking on on Google.
+
+
+Pretty simple and easy. So if if you're
+
+
+wondering, okay, like can you find easy
+
+
+keywords to rank for using this?
+
+
+Absolutely. I've shown you even in the
+
+
+SEO industry which is a pretty difficult
+
+
+niche to rank in. You can see how easy
+
+
+it was for me to find low competition
+
+
+keywords so we can create a rank. Can we
+
+
+actually rank on Google for those target
+
+
+keywords? Absolutely. So this is a page
+
+
+that we created a year ago. It's a
+
+
+calculator ranking for that keyword. It
+
+
+funnels traffic to my funnels here. And
+
+
+uh it's really easy to build out these
+
+
+SEO sites using anti-gravity. It's even
+
+
+outranking for example HFS or even my
+
+
+main website. So it's outranking
+
+
+Julianolder.com. is outranking HRES,
+
+
+which is a super powerful website. And
+
+
+uh we've done it using this process
+
+
+here, right? Pretty simple and easy. And
+
+
+it gets like 4,000 impressions. Doesn't
+
+
+get a lot of clicks, but you can see how
+
+
+it works. And then if you want to
+
+
+actually code this out, you can use
+
+
+anti-gravity. How would you do it? You
+
+
+use a prompt like this. If you want to
+
+
+get that prompt, I'll put it inside the
+
+
+AR profit boardroom. So, let me go
+
+
+inside here. Example prompt for
+
+
+websites. Let me There we go. Hit save.
+
+
+Boom. So, if we go back to anti-gravity,
+
+
+that's coding out here. And now it's
+
+
+just working on building that out step
+
+
+by step. Might take a few minutes as
+
+
+we've seen today, but it's it's pretty
+
+
+easy. You could also use Bolt, you could
+
+
+use Love Wall, etc. I'm just going to
+
+
+close this one down. There we go. We're
+
+
+using Claude Sonic again cuz those
+
+
+limits have been hit on Gemini 3. So, we
+
+
+can't use Gemini 3 Pro for like 4 hours.
+
+
+So, just be aware that you can hit
+
+
+limits pretty quickly. And actually, if
+
+
+I was doing this all over again, I'd
+
+
+probably start with planning mode. So
+
+
+switch to planning mode inside
+
+
+anti-gravity first and then you can use
+
+
+fast mode later for anti-gravity. And
+
+
+then sporter says low competition
+
+
+keywords. You would only pick one per
+
+
+micro site. Absolutely. Right. So if you
+
+
+go back now for example like here right
+
+
+here you would just pick one of these
+
+
+keywords. So you're not going to try and
+
+
+rank for SEO ROI calculator and
+
+
+enterprise SER calculator. You would
+
+
+only pick one right and inside the URL
+
+
+you want it to be exact match. So for
+
+
+example, if we're targeting this keyword
+
+
+enterprise SEO calculator, then inside
+
+
+the domain, we're going to put that
+
+
+domain.com,
+
+
+right? So that we can start ranking for
+
+
+it. And then you just want to make sure
+
+
+as well you can monetize this. So for
+
+
+example, if I have an SEO agency, I'm
+
+
+going to rank for SEO keywords. Uh
+
+
+because typically people are searching
+
+
+for SEO problems on Google need help
+
+
+with SEO. So, it's now building this out
+
+
+and uh we should get that back in a
+
+
+second. It's creating the index html
+
+
+here. So, you can preview the code on
+
+
+this side and you can see the files on
+
+
+the left hand side. I also like the fact
+
+
+that it's just so clean and easy to use
+
+
+this stuff
+
+
+which is pretty nice. And then you can
+
+
+also reveal in Finder, right? So if you
+
+
+want to find this inside your your
+
+
+finder and um and just see the actual
+
+
+file itself, you just go to review and
+
+
+finder. You can also copy the relative
+
+
+path. You can reopen the editor as well.
+
+
+Yeah, that's basically how it works. And
+
+
+then it's coding out
+
+
+right as you can see here. So I think
+
+
+what it will do next is code there CSS.
+
+
+We'll see how that goes.
+
+
+And then the other thing you want to do
+
+
+here as well is like with this website
+
+
+we have a look at this site that's
+
+
+ranking number one for this keyword
+
+
+right we want to put the URL into hrefs
+
+
+and um you can see that we've built 33
+
+
+back links to this page right so you can
+
+
+see the organic traffic for this page
+
+
+here organic traffic has grown as we
+
+
+build more backlinks to it right how do
+
+
+we build back links to it we just build
+
+
+back links from there there's actually a
+
+
+few like automated websites here so I'm
+
+
+just going to go with one link per
+
+
+domain do follow show results there we
+
+
+go right so what we do is we find
+
+
+relevant pieces of content and we link
+
+
+that to the website. Right? So from here
+
+
+to here. And if you're wondering, okay,
+
+
+what a backlinks, what do they look
+
+
+like, etc. So you can see that's an
+
+
+example of a backlink, it's just a
+
+
+clickable text from one website to
+
+
+another. We've built it from our site
+
+
+that powers up our site. Pretty simple
+
+
+and easy. And the more backlinks you
+
+
+have from relevant authority sources. So
+
+
+this is a website about SEO. We've built
+
+
+links to this page about SEO, the the
+
+
+more power that website has. So for
+
+
+example, from Julian.com, from
+
+
+Julian.co.uk, DK with link directly to
+
+
+this ROI calculator page, right? Pretty
+
+
+simple. That's the way that I like to
+
+
+look at SEO as well. It's just like, you
+
+
+know, make it as simple as possible. So,
+
+
+I'm going to say, okay, is this still
+
+
+coding out? It seems to have got stuck.
+
+
+I'm going to say preview this now. See
+
+
+if we can preview it out. What else we
+
+
+got here? All right. So, basically, this
+
+
+has got to create the CSS first. So, if
+
+
+we go back
+
+
+to anti-gravity here, it's still got to
+
+
+create the CSS. And again, the quality
+
+
+of the CSS, the quality of the website
+
+
+itself will depend on the API you use.
+
+
+So, Claude 4.5 Sonic, I would expect the
+
+
+API to be pretty nice for coding, but GP
+
+
+OSS, I think you're not going to get the
+
+
+best results from that to be honest. You
+
+
+can also see there's an update available
+
+
+for this. So, if you restart to update,
+
+
+you can get that access right there. But
+
+
+yeah, that's basically how it works,
+
+
+right? I'm not going to wait forever for
+
+
+that to code, but you can see how easy
+
+
+this is to do. And then from here, if
+
+
+you wanted to host this stuff, what
+
+
+you're going to do is just open up the
+
+
+folder you want to host it on. So, for
+
+
+example, like Julian Cordi website, as
+
+
+you can see, right? This is a page with
+
+
+VIP coded out little micro site again.
+
+
+And you would just go over to Netlify
+
+
+login. I might have to log in with
+
+
+GitHub to be honest. There we go. And
+
+
+then we've just I've just got a
+
+
+verification code in the background.
+
+
+And then once you're logged in to
+
+
+Netlefi, you can just upload your
+
+
+project files. Right? So for example,
+
+
+Julian Golden Automation. This is a
+
+
+website we uploaded earlier. You can see
+
+
+the page right here. And the way this
+
+
+works is you would just go to
+
+
+projects, add new project, import an
+
+
+existing project, try netifi drop, and
+
+
+then grab the folder from locally that
+
+
+anti-gravity is coded out, right? And so
+
+
+for example, like this,
+
+
+we've got the folder right here. And you
+
+
+just grab that folder and plug it into
+
+
+Netlifi, right? So you just grab that
+
+
+folder and then you can drop it in
+
+
+like that. Yeah. And that's going to
+
+
+upload your SEO calculator, whatever you
+
+
+created, and then deploy it online,
+
+
+right? Pretty simple and easy. So that's
+
+
+how it works, peeps. That's how you can
+
+
+use uh Netify. MD says, "If you want,
+
+
+you can reach millions of people your
+
+
+videos through YouTube. Why don't you do
+
+
+it?" I already do. So maybe you probably
+
+
+haven't seen my analytics obviously, but
+
+
+like if you check out my analytics, you
+
+
+can see just in the last year, we
+
+
+reached 25 million people
+
+
+through YouTube. So we reach a lot of
+
+
+people on YouTube. We reach millions of
+
+
+people. All right, so that's basically
+
+
+how you can use this stuff. Um, if you
+
+
+want to get help with SEO,
+
+
+check out the Black Friday deal that we
+
+
+have. So right now we have this Black
+
+
+Friday deal on. You can save 30% if you
+
+
+order SEO online. So you just click on
+
+
+this link link in the comments
+
+
+description to the backlink portal.
+
+
+Click on the link. You can order online
+
+
+here. If you prefer a call first, you
+
+
+can book in a call first here and then
+
+
+you can select whichever package you
+
+
+want. So for example, here you can
+
+
+select how many backlinks you want. So
+
+
+let's say for example, you want six back
+
+
+links, DR30, and then just put in the
+
+
+coupon code. So for example, Black
+
+
+Friday here. Hit apply and you'll save
+
+
+30%. Or you can choose like the SEO
+
+
+starter package or whatever you want,
+
+
+right? And then you just check out
+
+
+below. So that is a Black Friday deal.
+
+
+was only available until Black Friday,
+
+
+of course, and uh it's pretty simple and
+
+
+easy to order online. But yeah, the main
+
+
+thing I would say here is like, you
+
+
+know, a lot of people watching this,
+
+
+they've probably got a website, but
+
+
+they're not getting traffic, right? And
+
+
+so, if you're if you're if you've got a
+
+
+website and you know, you're being
+
+
+outranked by your competitors who are
+
+
+sitting at the top of Google getting all
+
+
+the clicks, all the attention, etc., all
+
+
+the new customers, and you're wondering,
+
+
+okay, what do they know that you don't?
+
+
+Well, that basically ends today, right?
+
+
+because I'm showing you the SEO
+
+
+frameworks that are going to help you
+
+
+rank. And if you order here, you can get
+
+
+the SEO frameworks that that work for
+
+
+me. And I've already shown you multiple
+
+
+websites that are getting traffic and
+
+
+and getting and ranking on Google. So,
+
+
+if you order online, you're going to get
+
+
+all of these different packages. You can
+
+
+just order them right here. Um, you can
+
+
+save 30% off. Select whichever package
+
+
+works for you, as you can see, and then
+
+
+use the coupon code Black Friday to save
+
+
+30% off. Inside there, you're going to
+
+
+get a dedicated client portal so you can
+
+
+track everything in real time, watch
+
+
+your rankings climb, monitor your
+
+
+content calendar, review your back
+
+
+links, check your reports, etc. You just
+
+
+get complete transparency into
+
+
+everything that we do for you. You also
+
+
+get a personal account manager, so you
+
+
+know you're not alone in this. You get a
+
+
+dedicated point of contact, who knows
+
+
+your business, answers your questions,
+
+
+keeps your campaign on track, and you
+
+
+can jump on calls with them, too. Also,
+
+
+if you order online, the good thing
+
+
+about ordering online is like normally
+
+
+it's $500 setup fee to go for
+
+
+competitive research, keyword research,
+
+
+content planning, link outreach, etc.
+
+
+But if you order online using the Black
+
+
+Friday sale, then you skip the setup
+
+
+fees. And the way that we figure out all
+
+
+of this is usually we reverse engineer
+
+
+your competitors, right? So, we're going
+
+
+to look at what are your competitors
+
+
+doing, how can we learn from that, and
+
+
+then how can we implement it for your
+
+
+business as well. So you can order
+
+
+online uh link in the comments
+
+
+description and you know you basically
+
+
+have a choice right now. So you can keep
+
+
+doing what you're doing, keep publishing
+
+
+content that nobody sees, keep watching
+
+
+you competitors dominate Google wh
+
+
+you're stuck on page three, keep wasting
+
+
+time and energy on SEO that doesn't
+
+
+work. Or you can let us build a proven
+
+
+AO system for you, right? You can get
+
+
+rankings that bring you traffic, get a
+
+
+dedicated team managing everything for
+
+
+you. And the Black Friday 30% off
+
+
+discount ends November 23rd at midnight.
+
+
+So, if you order now, you'll save the
+
+
+$500 setup fee. And if you want more
+
+
+traffic, more visibility, more customers
+
+
+finding you on Google, this is the
+
+
+moment that you can start implementing.
+
+
+All right, so let's see what else we've
+
+
+got on the comments here. Any tips on
+
+
+how to keep your computer performance
+
+
+working whilst you run all your AI
+
+
+software. Yeah, just keep it minimal.
+
+
+Close as much as you can. I'm using a
+
+
+MacBook M4 that seems to work pretty
+
+
+well with the MacBook Pro, but yeah, I
+
+
+just I would close multiple windows.
+
+
+Just keep it all minimal. I'm actually
+
+
+going to close Google Anti-gravity now.
+
+
+And yeah, I I would just avoid like
+
+
+using too much. And then also if you're
+
+
+really struggling with coding locally,
+
+
+then just switch to coding online
+
+
+instead to use a cloud. So for example,
+
+
+Bolt, Loveable, these tools work online
+
+
+and they don't require any sort of
+
+
+firepower from you and your laptop.
+
+
+Majority of business owners and people
+
+
+at large have no idea how easy this is
+
+
+and how good this technology is right
+
+
+now. Yeah, that's why we created the
+
+
+profit boarding because a lot of people
+
+
+want to use AI. They want to learn it,
+
+
+but they have no idea where to start.
+
+
+they feel intimidated by the power of
+
+
+it, right? And so that's why we broke
+
+
+everything down into simple systems that
+
+
+work for me. So I test everything and
+
+
+then I release the systems online so
+
+
+people can just steal the process from
+
+
+me. And yeah, that's basically it. So
+
+
+thanks very much everyone for watching.
+
+
+Appreciate as always. Like I said, check
+
+
+out the SEO Black Friday deal. And then
+
+
+we have a deal for AI profit boardroom
+
+
+as well. So you can save 35% off
+
+
+forever. You get uh weekly coaching
+
+
+calls. You can jump on this course live,
+
+
+ask help, ask for advice, etc. Yeah, all
+
+
+of my best playbooks for AI and all the
+
+
+best systems that we have and just an
+
+
+awesome community of 1,700 members where
+
+
+you can ask help, get advice, ask
+
+
+questions, and I answer this stuff
+
+
+personally for you as well. So, feel
+
+
+free to get that link in the comments in
+
+
+description. What else we got here? Mulo
+
+
+says, "Do you think Grock 4.1 will prove
+
+
+superior to Gemini 3 over the long run?"
+
+
+I actually don't. I tested out Grock
+
+
+4.1. I just thought this is one of the
+
+
+worst things ever used. Like, it was
+
+
+just it was so bad. It was so bad. I
+
+
+think Gemini wins by a long way and and
+
+
+Gemini is just superior to everything
+
+
+right now. Same with Nano Banana. Nano
+
+
+Banana is superior. Beer 3 is superior.
+
+
+Like Google just created the best
+
+
+technologies in the world for all this
+
+
+stuff. Okay, so Google just released
+
+
+something called anti-gravity IDE. They
+
+
+just launched the public preview on
+
+
+November 18th, 2025. And developers are
+
+
+losing their minds over this. Here's why
+
+
+this matters. Every other AI coding tool
+
+
+you've used, they help you write code.
+
+
+They suggest things. But anti-gravity,
+
+
+it actually does the work for you. Like
+
+
+actually does it from start to finish.
+
+
+So anti-gravity is what Google calls an
+
+
+agent first IDA. That means AI agents
+
+
+are not just helpers. They're the main
+
+
+thing. These agents are powered by
+
+
+Gemini 3 Pro. That's Google's latest and
+
+
+most powerful AI model. But here's
+
+
+what's really cool. You're not locked
+
+
+into just Google's model. Anti-gravity
+
+
+also supports Claude Sonnet 4.5 from
+
+
+Anthropic and GPOSS,
+
+
+which is an open-source model. Now,
+
+
+there are two main parts to
+
+
+anti-gravity. The editor view and the
+
+
+manager view. The editor view looks like
+
+
+VS Code. You've got your code editor,
+
+
+aside panel. Natural language tasks.
+
+
+Pretty normal so far. But the manager
+
+
+view, this is mission control for your
+
+
+AI agents. You can spawn multiple
+
+
+agents, watch them work, see what each
+
+
+one is doing all at the same time. It's
+
+
+like having a whole team of developers
+
+
+working for you. Okay, so what can these
+
+
+agents actually do? This is the part
+
+
+that blew my mind. These agents have
+
+
+access to three things. The code editor,
+
+
+the terminal, and a web browser. So,
+
+
+imagine this. You tell an agent to build
+
+
+a login form. The agent writes the code,
+
+
+opens the terminal, runs the dev server,
+
+
+opens a browser, actually clicks through
+
+
+your login form, takes screenshots, and
+
+
+verifies everything works all by itself.
+
+
+And it doesn't just do one thing at a
+
+
+time. You can have multiple agents
+
+
+running in parallel. One agent building
+
+
+the UI, another agent writing tests,
+
+
+another agent fixing bugs, all working
+
+
+together like a real development team.
+
+
+Now, you might be thinking, okay, this
+
+
+sounds cool, but how do I know what the
+
+
+AI is actually doing? This is where
+
+
+artifacts come in. Every time an agent
+
+
+does something, it creates artifacts,
+
+
+task lists, implementation plans,
+
+
+screenshots, browser recordings,
+
+
+everything is documented. So, you can
+
+
+see exactly what the agent planned,
+
+
+exactly what it built. Nothing is
+
+
+hidden. And here's the best part. You
+
+
+can leave comments on these artifacts
+
+
+just like Google Docs. So if the agent's
+
+
+plan looks wrong, you can comment on it
+
+
+and the agent will adjust. You're
+
+
+collaborating with the agent. But wait,
+
+
+it gets even better. These agents have
+
+
+memory. They remember past tasks. They
+
+
+remember code snippets you've used
+
+
+before. They remember your feedback and
+
+
+they get better over time. So if you ask
+
+
+an agent to do something similar to what
+
+
+you did last week, it already knows your
+
+
+style. It just does it better and
+
+
+faster. Real quick before we keep going,
+
+
+if you want to scale your business and
+
+
+get more customers, you need to check
+
+
+out my AI profit boardroom. This is the
+
+
+best place to learn how to use AI
+
+
+strategies and connect with a community
+
+
+of people doing the exact same thing.
+
+
+The link is in the description. Okay,
+
+
+back to anti-gravity. So, how do you
+
+
+actually use this thing? First, you
+
+
+download anti-gravity. It works on
+
+
+Windows, Mac, and Linux. You need at
+
+
+least 8 gigs of RAM, but 16 is better.
+
+
+Then, you start a new agent. You give it
+
+
+a task. in plain English, something like
+
+
+build me a simple to-do app. The agent
+
+
+breaks it down into steps, writes the
+
+
+code, opens the terminal, launches a dev
+
+
+server, opens a browser, tests
+
+
+everything, takes screenshots, and gives
+
+
+you a full report. You can watch all of
+
+
+this happen in real time. Or you can go
+
+
+do something else and check back later.
+
+
+You can even spawn multiple agents for
+
+
+bigger projects. One agent does
+
+
+research, another writes code, another
+
+
+handles testing. It's like being a CEO
+
+
+of a dev team, except all your
+
+
+developers are AI agents. So, how does
+
+
+this compare to other AI coding tools
+
+
+like Cursor? Here's the thing. Cursor is
+
+
+great for code completion. It helps you
+
+
+write faster, but it doesn't have this
+
+
+multi- aent mission control thing. With
+
+
+anti-gravity, the agents actually do the
+
+
+work. They don't just suggest, they
+
+
+execute, they plan, they verify, they
+
+
+work in parallel. That's a huge
+
+
+difference. Now, don't get me wrong,
+
+
+anti-gravity isn't perfect. It's still
+
+
+in public preview. There are bugs. Some
+
+
+people report crashes. There are rate
+
+
+limits. And you really need to use git
+
+
+because if something goes wrong, you
+
+
+might lose your work. Some Mac users are
+
+
+having login issues and some people hit
+
+
+the rate limits pretty fast, especially
+
+
+on big projects. Google says the limits
+
+
+refresh every 5 hours. But if you're
+
+
+doing heavy work, you might run into
+
+
+them. But here's the thing. This is
+
+
+brand new. It just launched. These
+
+
+issues will get fixed. And even with
+
+
+these bugs, the potential here is
+
+
+massive. Let me tell you why this is
+
+
+such a big deal. We're moving from AI
+
+
+that helps developers to AI that is
+
+
+developers. Right now, if you want to
+
+
+build something, you write the code.
+
+
+Artificial intelligence helps you go
+
+
+faster, but you're still doing the work.
+
+
+With anti-gravity, you're managing
+
+
+agents. You're coordinating work. You're
+
+
+reviewing results, but the agents are
+
+
+doing the actual building. And the
+
+
+browser integration is huge. These
+
+
+agents can actually see your app. They
+
+
+can click buttons. They can fill out
+
+
+forms. They can take screenshots and
+
+
+verify things work. That's not something
+
+
+most AI tools can do. Plus, the artifact
+
+
+system means you're not flying blind.
+
+
+You see everything. You understand
+
+
+what's happening. And the multi- aent
+
+
+setup means you can tackle way bigger
+
+
+projects. So, where is this going? I
+
+
+think we're going to see more models
+
+
+added, more integrations, better memory
+
+
+systems, more powerful automation. And
+
+
+here's what I think is really going to
+
+
+happen. The role of a developer is going
+
+
+to change. Instead of writing every line
+
+
+of code, you're going to be managing AI
+
+
+agents, reviewing their work, setting
+
+
+direction. the boring, repetitive stuff.
+
+
+The agents handle that. This frees you
+
+
+up to focus on the creative parts, the
+
+
+architecture, the big decisions, the
+
+
+user experience, and honestly, that's
+
+
+way more fun. Anyway, now I want to be
+
+
+real with you for a second. Version
+
+
+control is not optional anymore. You
+
+
+need to use Git. You need backups
+
+
+because if an agent messes something up,
+
+
+you want to be able to roll back second.
+
+
+You still need to understand code. You
+
+
+can't just blindly trust what the agents
+
+
+do. You need to review. You need to
+
+
+verify. The agents are tools. They're
+
+
+not magic. Third, this is a public
+
+
+preview. That means it's not finished.
+
+
+There will be bugs. Don't use this for
+
+
+missionritical production stuff yet. But
+
+
+even with all that, this is still
+
+
+incredible and it's only going to get
+
+
+better from here. Look, the bottom line
+
+
+is this. Anti-gravity IDE is a big deal.
+
+
+It's not perfect. It's not finished. But
+
+
+it's showing us where we're going. And
+
+
+where we're going is a world where AI
+
+
+agents do the heavy lifting and
+
+
+developers focus on the important stuff.
+
+
+Is it going to replace developers? No.
+
+
+But it's going to change what being a
+
+
+developer means. Because the future
+
+
+isn't about writing more code, it's
+
+
+about building better things faster. So,
+
+
+should you try anti-gravity? If you're
+
+
+curious about AI and coding, absolutely
+
+
+download it, play with it, see what it
+
+
+can do. Just remember to use version
+
+
+control, and don't trust it blindly. And
+
+
+look, this is just the beginning. Google
+
+
+is going to keep improving this. Other
+
+
+companies are going to build competing
+
+
+tools. This whole space is exploding
+
+
+right now, and I'm going to keep
+
+
+covering it. Right? Before you go, I
+
+
+want to tell you about something. If you
+
+
+want to learn how to use a II tools like
+
+
+this with Julian Goldie inside, you'll
+
+
+get 50 plus free AI tools and 200 plus
+
+
+chat GPT SEO prompts. You'll learn how
+
+
+to use AI agents. You'll get 1,000 plus
+
+
+free workflows. You'll get 200 plus chat
+
+
+GPT prompts. You'll also get access to a
+
+
+free AI community, a free AI course and
+
+
+proven AI case studies. The link is in
+
+
+the description. Go check it out. And
+
+
+seriously, drop a comment below. Tell me
+
+
+what you think about anti-gravity. Would
+
+
+you use it? What would you build with
+
+
+it? Julian reads every single comment,
+
+
+so let us know. All right, that's it for
+
+
+today.

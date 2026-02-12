@@ -1,0 +1,748 @@
+Today I'm going to show you how to use
+
+
+Notebook LM to rank number one on
+
+
+Google. This thing just got a massive
+
+
+upgrade. It's now 10 times smarter. It
+
+
+can do your research in seconds and it
+
+
+can write content that actually ranks.
+
+
+And I'm going to walk you through the
+
+
+exact workflow I use step by step. No
+
+
+fluff. Let's go. Hey, if we haven't met
+
+
+already, I'm the digital avatar of
+
+
+Julian Goldie, CEO of SEO agency Goldie
+
+
+Agency. Whilst he's helping clients get
+
+
+more leads and customers, I'm here to
+
+
+help you get the latest AI updates.
+
+
+Julian Goldie reads every comment, so
+
+
+make sure you comment below. Right, let
+
+
+me tell you what just happened. Google
+
+
+dropped Gemini 3 into Notebook LM, and
+
+
+this changes everything for SEO. Before
+
+
+this update, Notebook LM was good for
+
+
+taking notes. Now, it thinks, it
+
+
+reasons, it analyzes, it builds full
+
+
+research reports, it creates content
+
+
+ready to publish. This is not just a
+
+
+note-taking app anymore. This is an SEO
+
+
+machine. Here's what's new. First,
+
+
+Gemini 3 integration. This means
+
+
+Notebook LM now has better reasoning. It
+
+
+understands context. It generates
+
+
+smarter outputs for a co. This means you
+
+
+can create content that actually matches
+
+
+what people are searching for. No more
+
+
+guessing. No more copying and pasting
+
+
+between 10 different tools. You upload
+
+
+your sources and Notebook LM does the
+
+
+thinking for you. Second, deep research
+
+
+mode. This is crazy. You can upload
+
+
+hundreds of documents or URLs. Notebook
+
+
+LM reads all of them. Then it extracts
+
+
+the main ideas. It builds tables. It
+
+
+creates comparisons. It gives you SEO
+
+
+ready briefs all automatically. Think
+
+
+about this for a second. You want to
+
+
+rank for a keyword in the AI automation
+
+
+space. You grab the top 20 pages that
+
+
+already rank. You upload them to
+
+
+Notebook LM and it tells you exactly
+
+
+what topics they cover, what keywords
+
+
+they use, and what gaps you can fill.
+
+
+That's the power here. Third, better
+
+
+custom chats and goals. The chat window
+
+
+is bigger now. You can set specific
+
+
+goals. You can tell it to act like an
+
+
+SEO strategist. You can say create a
+
+
+content plan for the AI profit boardroom
+
+
+and it does it. The prompts work better.
+
+
+You don't need to keep tweaking them.
+
+
+You tell it what you want once and it
+
+
+delivers. Fourth, export and workflow
+
+
+features. This is where it gets
+
+
+practical. Notebook LM can now export
+
+
+directly to Google Sheets and Docs. It
+
+
+can build data tables from your
+
+
+research. It can create slide decks. It
+
+
+can make infographics. This means you go
+
+
+from research to final deliverable
+
+
+without switching tools. You save hours.
+
+
+And by the way, I'll show you exactly
+
+
+how to do this in a minute. And one more
+
+
+thing, if you're creating all this
+
+
+content with Notebook LM, but nobody is
+
+
+finding it online, you've got a traffic
+
+
+problem. That's where SEO comes in. If
+
+
+you want more leads, more traffic, and
+
+
+more sales, my team can help you rank
+
+
+higher on Google. Check the link in the
+
+
+comments and description to order AI SEO
+
+
+online and let us handle your back links
+
+
+while you focus on growing your
+
+
+business. All right, now let me show you
+
+
+the workflow. This is what I use. This
+
+
+is what works. There are four prompts.
+
+
+Each one builds on the last one. By the
+
+
+end, you have content ready to publish.
+
+
+I'm going to use the AI profit boardroom
+
+
+as the example here, but you can swap in
+
+
+your own business and your own keywords.
+
+
+The workflow stays the same. Let me walk
+
+
+you through each prompt. Pay attention
+
+
+because these are the exact prompts
+
+
+you'll use. Prompt one, research the
+
+
+keyword how to use AI automation to grow
+
+
+online communities. Gather top 20
+
+
+ranking pages and build a ranked table
+
+
+of common topics, primary and secondary
+
+
+keywords, search intent classification,
+
+
+and gaps we can exploit. Provide a
+
+
+source link summary. You use this first.
+
+
+This builds your foundation. You need to
+
+
+know what's already ranking before you
+
+
+create anything. Notebook LM reads all
+
+
+those pages. It pulls out the patterns.
+
+
+It shows you what works. It shows you
+
+
+what's missing. This is your road map.
+
+
+The key here is you're not just getting
+
+
+a list of keywords. You're getting an
+
+
+analysis of what's working in your
+
+
+space. For the AI profit boardroom, this
+
+
+keyword targets people who want to grow
+
+
+communities using AI. That's exactly who
+
+
+we want to reach. This prompt helps you
+
+
+understand the landscape. It helps you
+
+
+see where the opportunities are, and it
+
+
+does it faster than any manual research
+
+
+process. You're gathering intelligence
+
+
+before you create anything. You're
+
+
+seeing what your competitors are doing
+
+
+and you're finding the gaps they're not
+
+
+filling. Prompt two, create an SEO
+
+
+optimized content outline for a blog
+
+
+post about using AI automation to grow
+
+
+online communities specifically for the
+
+
+AI profit boardroom audience. Include
+
+
+target keywords, headings, suggested
+
+
+word count, metatitle and description,
+
+
+FAQ ideas, and internal link targets.
+
+
+This turns your research into a
+
+
+blueprint. You now have your structure.
+
+
+You have your headings. You have your
+
+
+keywords. You have your FAQ section.
+
+
+Everything's mapped out. You're not
+
+
+staring at a blank page anymore. You
+
+
+have a plan. This is where you go from
+
+
+data to strategy. The outline gives you
+
+
+direction. It tells you what sections to
+
+
+write. It tells you how long each
+
+
+section should be. It gives you the meta
+
+
+tags you need for Google. For the AI
+
+
+profit boardroom, this means structuring
+
+
+content that speaks directly to business
+
+
+owners who want to use AI to automate
+
+
+and grow their communities. You're
+
+
+building with purpose. Every piece has a
+
+
+reason to exist, and you're doing it
+
+
+based on what already ranks, not what
+
+
+you think might work. The outline
+
+
+becomes your guide for everything that
+
+
+comes next. Prompt three, write the
+
+
+first, 1200 words of a blog post based
+
+
+on the outline. Focus on how AI
+
+
+automation helps grow online communities
+
+
+like the AI profit boardroom. Keep SEO
+
+
+best practices in mind. Add natural
+
+
+keyword placement and include internal
+
+
+and external links. Use a friendly and
+
+
+practical tone for entrepreneurs who
+
+
+want to scale their communities with AI.
+
+
+This generates your main content draft.
+
+
+It writes in the tone you want. It
+
+
+includes keywords naturally. It adds
+
+
+links where they make sense. You're not
+
+
+starting from scratch. You're editing
+
+
+something that's already mostly done.
+
+
+The beauty of this prompt is
+
+
+specificity. You're telling it exactly
+
+
+who you're writing for. You're telling
+
+
+it what tone to use. You're telling it
+
+
+to follow SEO best practices. For the AI
+
+
+profit boardroom, we want a tone that's
+
+
+friendly but practical. We're talking to
+
+
+entrepreneurs. We're talking to people
+
+
+who want real solutions. The more
+
+
+specific you are, the better the output.
+
+
+And because you already fed it the
+
+
+research and the outline, the content
+
+
+stays on track. Prompt four, review the
+
+
+draft blog post about AI automation for
+
+
+growing online communities. Improve SEO
+
+
+quality, including readability, keyword
+
+
+density, and topic coverage. Produce and
+
+
+SEO checklist, meta tags and structured
+
+
+data suggestions. Also, generate a brief
+
+
+analytics plan to track performance
+
+
+after publishing. This is your final
+
+
+step. This takes your draft and makes it
+
+
+publish ready. It checks your keyword
+
+
+usage. It improves how easy it is to
+
+
+read. It gives you the technical SEO
+
+
+elements you need. It even helps you
+
+
+plan how to measure success after you
+
+
+publish. This prompt is about
+
+
+refinement. You're taking something good
+
+
+and making it great. You're catching
+
+
+things you might have missed. You're
+
+
+making sure your content meets all the
+
+
+requirements Google looks for and you're
+
+
+setting yourself up to track what
+
+
+happens next for content about the AI
+
+
+profit boardroom. This means making sure
+
+
+you're not overusing keywords, making
+
+
+sure your paragraphs are easy to read,
+
+
+making sure you have all your meta
+
+
+descriptions and title tags ready. It's
+
+
+the final quality check before anything
+
+
+goes live. This is where you turn a
+
+
+draft into a finished piece that's ready
+
+
+to perform. So now you have a complete
+
+
+workflow. You have the research phase
+
+
+with prompt one. You have the planning
+
+
+phase with prompt two. You have the
+
+
+creation phase with prompt three. And
+
+
+you have the polish phase with prompt
+
+
+four. Each prompt builds on the one
+
+
+before it. Each prompt moves you closer
+
+
+to publish ready content. And you're
+
+
+doing all of this in one tool. No
+
+
+jumping around, no switching context,
+
+
+just a straight line from idea to
+
+
+finished piece. Try this workflow. Use
+
+
+these prompts and let me know how it
+
+
+goes. Drop a comment below with your
+
+
+experience. And one more thing, if
+
+
+you're creating all this content with
+
+
+Notebook LM, but nobody is finding it
+
+
+online, you've got a traffic problem.
+
+
+That's where SEO comes in. If you want
+
+
+more leads, more traffic, and more
+
+
+sales, my team can help you rank higher
+
+
+on Google. Check the link in the
+
+
+comments and description to order AICO
+
+
+online and let us handle your back links
+
+
+while you focus on growing your
+
+
+business. And if you want to rank number
+
+
+one and get more customers, join the SEO
+
+
+elite circle. That's where we actually
+
+
+teach you how this works. No theory, no
+
+
+recycle tips, just the exact AI SEO
+
+
+systems we're using right now. We break
+
+
+everything down step by step with real
+
+
+workflows, weekly live support, and
+
+
+clear actions you can follow without
+
+
+guessing. If you're serious about
+
+
+scaling with SEO and AI, this is where
+
+
+you start. Hit the link in the
+
+
+description and join the SEO Elite
+
+
+Circle today. All right, that's it for
+
+
+today. And if you found this helpful,
+
+
+hit that like and subscribe button for
+
+
+more AI and SEO updates. I'll see you in
+
+
+the next

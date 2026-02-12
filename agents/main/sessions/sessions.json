@@ -1825,7 +1825,7 @@
       "threadId": "1770909892.902629"
     },
     "sessionId": "39b4c15d-1e82-494d-9f7f-9d0d321513a1",
-    "updatedAt": 1770912503350,
+    "updatedAt": 1770915186814,
     "deliveryContext": {
       "channel": "slack",
       "to": "channel:C0AE9NH0Q7K",
@@ -1860,16 +1860,16 @@
     },
     "authProfileOverride": "anthropic:anthropic",
     "authProfileOverrideSource": "auto",
-    "authProfileOverrideCompactionCount": 0,
+    "authProfileOverrideCompactionCount": 2,
     "inputTokens": 13,
-    "outputTokens": 714,
-    "totalTokens": 110682,
+    "outputTokens": 740,
+    "totalTokens": 64390,
     "modelProvider": "anthropic",
     "model": "claude-sonnet-4-5",
     "contextTokens": 1000000,
     "systemPromptReport": {
       "source": "run",
-      "generatedAt": 1770912358744,
+      "generatedAt": 1770914962523,
       "sessionId": "39b4c15d-1e82-494d-9f7f-9d0d321513a1",
       "sessionKey": "agent:main:slack:channel:c0ae9nh0q7k:thread:1770909892.902629",
       "provider": "anthropic",
@@ -2104,6 +2104,7 @@
           }
         ]
       }
-    }
+    },
+    "compactionCount": 2
   }
 }

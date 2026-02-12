@@ -1,0 +1,4159 @@
+Today I'm going to show you how to do AI
+
+
+SEO in 2026.
+
+
+This is based on what's working for me.
+
+
+So I'm just going to share the tactics
+
+
+that's working for me right now. You can
+
+
+see, for example, this website is at
+
+
+like zero or three clicks a day. And
+
+
+it's gone all the way up to 176 clicks
+
+
+per day. And this is free traffic from
+
+
+Google, let alone all the other traffic
+
+
+that it gets from other AI search
+
+
+engines by ranking. This is for Julian
+
+
+Goldie.com, which is my agency's
+
+
+website. And so what we're going to kick
+
+
+it off with is this AI agent called um
+
+
+GLM 4.7. And GLM 4.7 basically is like a
+
+
+Chinese AI agent. You can use it for
+
+
+free. And that's one of the benefits for
+
+
+this because you can use it for actually
+
+
+creating the content, but you can also
+
+
+generate different tools that will help
+
+
+you rank your content and also automate
+
+
+SEO itself. So we're going to get
+
+
+straight into this. I'm going to show
+
+
+you some of my best techniques for using
+
+
+this. Um, and if you've never used GLM
+
+
+4.7 or if you need a full guide or
+
+
+anything like that, actually going to
+
+
+walk you through some of the video notes
+
+
+we have today. So, what we actually have
+
+
+is a bunch of resources. This is inside
+
+
+the AI success lab which comes with all
+
+
+my best trainings, a community of 42,00
+
+
+uh 42,400 people. Uh, we also have for
+
+
+example a complete masterass on how to
+
+
+do AI SEO and one of the modules that
+
+
+we're covering today is GLM 4.7. So, you
+
+
+know, in the next few minutes, you're
+
+
+going to learn how to set up GLM 4.7,
+
+
+even if you don't speak Chinese. It is a
+
+
+Chinese AI, but it's all in English,
+
+
+don't worry. The exact oneclick
+
+
+automation that creates SEO content, how
+
+
+to connect this to your existing
+
+
+workflows, why this free tool is
+
+
+outperforming many paid alternatives in
+
+
+the 30-day plan to get this running
+
+
+inside your business. All right, so the
+
+
+concept here is like what most people
+
+
+get wrong about AICO is that they think
+
+
+more tools equals better results. And
+
+
+it's wrong. It's like going to the gym
+
+
+and using every single machine for 2
+
+
+minutes each. That would get you
+
+
+nowhere. So instead, you need one
+
+
+powerful workflow that does the heavy
+
+
+lifting. And GLM 4.7 is one of the best
+
+
+ways to do it. All right. So what I've
+
+
+actually done, for example, and this is
+
+
+something I can use for creating content
+
+
+is I can use a prom like this. And we
+
+
+can copy and paste this one. Here we go.
+
+
+And I've actually used it over here. So
+
+
+all you do is you plug in your keyword
+
+
+like you can see. You say you are my SEO
+
+
+content assistant. you know, create a
+
+
+compelling headline, 1,500word blog
+
+
+post, include five subheadings, add a
+
+
+metad description, blah blah blah, and
+
+
+here's my keyword, right? And what it
+
+
+actually do is generate this AI SEO
+
+
+article, as you can see. And it's pretty
+
+
+simple to do. So, here's headline,
+
+
+here's a meta description, um, here's
+
+
+information. Some of it you're going to
+
+
+cut off obviously like that, right? Um,
+
+
+but basically, that's basically how it
+
+
+works. And it's quite simple and easy to
+
+
+generate that content. It is simple um
+
+
+to do and you know literally it's just a
+
+
+one-click sort of automation. Um I would
+
+
+always recommend editing the content
+
+
+before you publish it of course. But if
+
+
+you want tips on that inside the AI
+
+
+success lab we actually have the
+
+
+Goldilock zone framework which is a
+
+
+step-by-step checklist for really just
+
+
+quality controlling your content before
+
+
+you publish it. Always do that folks.
+
+
+All right. So next thing we're going to
+
+
+test out is creating a lead magnet,
+
+
+right? Um, and you know, we we'll run
+
+
+through some of the best prompts to use
+
+
+this stuff today. So,
+
+
+for example, what we can actually do is
+
+
+we can go into um GLM 4.7. Um, we can
+
+
+plug in this prompt, right? So, I run a
+
+
+business in and then you just insert
+
+
+your niche. So, I run a business in the
+
+
+SEO industry, right? Give me 20 longtail
+
+
+keyword ideas that beginners would
+
+
+search for. focus on questions and how
+
+
+to phrases format as a simple list,
+
+
+right? And basically what this will do
+
+
+is automatically generate all the
+
+
+keyword research for you. And if you
+
+
+look at the blogs from this particular
+
+
+website that we're using as a case
+
+
+study, as you can see, basically the the
+
+
+way that we're doing this for Julian.com
+
+
+is if you have a look at the blog here,
+
+
+we we're using the same sort of
+
+
+frameworks, right? So for example, here
+
+
+we're just targeting low competition
+
+
+keywords. Um, we actually embed the
+
+
+original video. Then we insert links to
+
+
+our funnels throughout the page to
+
+
+generate more traffic and direct it.
+
+
+Bear in mind, like there's already
+
+
+pop-ups on this website and there's a
+
+
+big button that says free SEO strategy
+
+
+session. So, you know, it's quite quite
+
+
+often we don't even need to put the
+
+
+links throughout. Um, and there's a lead
+
+
+magnet at the top, but that's basically
+
+
+how we do this. All right. And then if
+
+
+we go back inside GLM 4.7, you can see
+
+
+that we have a bunch of longtail
+
+
+keywords, right? So, how to do keyword
+
+
+research for free. Well, you could do it
+
+
+with GLM 4.7, right? Um, and these are
+
+
+all potential keywords and articles that
+
+
+we could write in our niche. Now, you
+
+
+could go deeper than that, but that's
+
+
+basically how easy it is. And if you
+
+
+have questions as we go along, like feel
+
+
+free to ask, but um, yeah, that's that's
+
+
+another automation. So, just to recap,
+
+
+we've done the content for the blog
+
+
+post, and we've actually automated
+
+
+finding keywords as well. Let's keep
+
+
+going through this. So, you know,
+
+
+another thing that we could actually
+
+
+start doing, let's have a look through
+
+
+some of these prompts. This is a 30-day
+
+
+plan that tells you what to implement
+
+
+day by day if you want to steal this
+
+
+stuff from me. Um, but for example, we
+
+
+could actually
+
+
+take our content, right?
+
+
+New chat here, and we could say, okay,
+
+
+review this content and optimize it for
+
+
+SEO. You paste in your content from the
+
+
+blog. So, let's say, for example, we'll
+
+
+take the content from this page.
+
+
+Copy that. Paste it in. Ask it to check
+
+
+for like keyword density, readability,
+
+
+missing sub headlines, opportunities to
+
+
+add relevant keywords naturally, metad
+
+
+description improvement, and semantic
+
+
+SEO as well, right? Related keywords.
+
+
+So, we're going to hit enter like so.
+
+
+And that will actually review our
+
+
+content for us. So, that's another way
+
+
+to really attack your SEO strategy. And,
+
+
+you know, bear in mind like GLM 4.7 is
+
+
+free, right? So, you can use it for
+
+
+free. Um, you can basically create
+
+
+content, do keyword research, you can
+
+
+analyze your existing content to improve
+
+
+it and use all these different ways to
+
+
+generate better opportunities for SEO,
+
+
+right? You can see here it's actually
+
+
+doing a final polish and it's a thinking
+
+
+model as well when it's doing this. Now,
+
+
+one of the other opportunities whilst
+
+
+it's doing that in the background, um,
+
+
+actually it's finished it now, so we can
+
+
+refer it. You can see here it's actually
+
+
+analyzed like here's the keyword
+
+
+density, the readability, the structure,
+
+
+semantic SEO, etc. and it's actually
+
+
+rewritten the article
+
+
+with better semantics, better
+
+
+optimization across the page. Um, I
+
+
+would actually say the formatting looks
+
+
+a lot nicer as well and actually the
+
+
+content itself seems a lot nicer. So
+
+
+that's one way to do it as well. And
+
+
+then
+
+
+you can also, for example, use this for
+
+
+internal links, FAQ, schema, etc.
+
+
+Now,
+
+
+the old way, if we have a look at this,
+
+
+right? Um the old way was like manually
+
+
+researching keywords for two hours,
+
+
+manually writing content, manually
+
+
+optimizing everything, you know,
+
+
+manually creating variations and
+
+
+building the system or or buying
+
+
+expensive subscriptions and hiring
+
+
+writers in e constant management and
+
+
+then hoping the content actually works,
+
+
+right? That's the old way of doing SEO.
+
+
+It was quite a time consuming. If you
+
+
+use something like GLM 4.7 to help you,
+
+
+then you know GLM 4.7 is going to
+
+
+research the keywords for you, write the
+
+
+content, AI optimize it automatically,
+
+
+create variations on demand if you need
+
+
+to. So, you know, for example, when
+
+
+we're posting to my website, we actually
+
+
+create another variation, and then we'll
+
+
+post that on Reddit as well, right? And
+
+
+this subreddit also gets a lot of views.
+
+
+Actually gets more views than my actual
+
+
+website, right? So, for example, if we
+
+
+check out this Reddit here, get like 70
+
+
+70,000 views per month using this SEO
+
+
+content and the optimized content,
+
+
+right? Um, so when we're doing this,
+
+
+like we can actually repurpose the
+
+
+content across multiple platforms. And
+
+
+then, for example, if you're getting
+
+
+70,000 views per month on Reddit and
+
+
+then, you know, 200 clicks a day on your
+
+
+website or whatever, well, then this
+
+
+adds up, right? And it generates a lot
+
+
+of traffic to the funnels you actually
+
+
+want to drive traffic to. And so, you
+
+
+can automate a big part of the process.
+
+
+And it's it's really really simple and
+
+
+easy to do. All right. Um
+
+
+now some people say like free AI tools
+
+
+can't compete with paid ones, but I
+
+
+would say you know the new empowering
+
+
+belief here is like free tools and now
+
+
+outperforming paid alternatives on
+
+
+benchmarks. And this actually shocked
+
+
+me. All right. So like I literally track
+
+
+every minute of my day, right? day day
+
+
+task what it's related to how many
+
+
+minutes I'm obsessed with efficiency
+
+
+right um when you actually see GLM 4.7's
+
+
+benchmark scores it actually beats for
+
+
+example chat GPT on coding tasks and
+
+
+when I've tested it out myself you know
+
+
+here's what I found for SEO content for
+
+
+automations for basic coding this just
+
+
+this works just as well as chat GPT
+
+
+that's like finding the best Muay Thai
+
+
+gym in Bangkok is free right you'd be
+
+
+crazy not to train there um the other
+
+
+thing as well some people say well AI
+
+
+will make my content sound robotic, but
+
+
+AI sounds robotic when you give it
+
+
+robotic prompts, right? This is like
+
+
+blaming the steak for tasting bad when
+
+
+you cooked it wrong. Um, you know, and I
+
+
+love steak. It's my favorite food. So,
+
+
+the problem isn't the AI, the problem is
+
+
+the instructions. When I write prompts,
+
+
+I include the tone, examples of content,
+
+
+the reading level, the specific
+
+
+audience, and you know, garbage in,
+
+
+garbage out. So, great prompts equals
+
+
+great content out. So, that's basically
+
+
+how you can use GLM 4.7. The other
+
+
+thing, the final thing that you could do
+
+
+is like you could actually create an SEO
+
+
+dashboard whether that's for you or for
+
+
+your agency. So if we have a look at
+
+
+this prompt for example, you can create
+
+
+these nice little um dashboards kind of
+
+
+like a SAS a mini SAS tool here that
+
+
+stores your data and then you can
+
+
+actually share and export that with
+
+
+people whether that's in your team or
+
+
+your clients if you're running an agency
+
+
+or you know just for yourself as well.
+
+
+Um there's some other cool stuff as well
+
+
+like you can build a task list manager
+
+
+to-do list app sort of builder and then
+
+
+you can add tasks and track them. So for
+
+
+example, let's say you needed to
+
+
+optimize the keywords and then add
+
+
+content etc. Well you could do that with
+
+
+GLM 4.7 quite simply. So thanks so much
+
+
+for watching. If you haven't already
+
+
+feel free to book in a free SEO strategy
+
+
+session link in the comments
+
+
+description. This will show you how we
+
+
+take websites from zero to 145,000
+
+
+business month. Um, you can book your
+
+
+free SEO strategy session. You get a
+
+
+free SEO domination plan. Discover the
+
+
+sequence link building. We'll answer any
+
+
+questions that you want on the call. If
+
+
+you just want to order SEO directly, you
+
+
+can actually go on to our backlink
+
+
+portal link in the comments in
+
+
+description and you can actually order
+
+
+SEO online. So, if you want to order SEO
+
+
+online, we have a bunch of guarantees to
+
+
+help you here. Um, and we actually have
+
+
+a flash sale that's still on right now.
+
+
+And you can just pick which package you
+
+
+want and then check out and order. And
+
+
+it's as simple as that, to be honest
+
+
+with you.
+
+
+Today, what I'm going to show you is how
+
+
+to create SEO optimized content that
+
+
+actually ranks using Claude. And Claude
+
+
+is one of the most powerful and sentient
+
+
+ways to write content in 2026. And
+
+
+they're actually for example really
+
+
+making it easy to create content that
+
+
+actually ranks. All right. So you know I
+
+
+really call Claude the depth engine
+
+
+because you know chat GPT is like really
+
+
+good for quick tasks. Gemini is great
+
+
+for research etc. But Claude Claude goes
+
+
+deep. It understands context like no
+
+
+other AI. It remembers what you told it
+
+
+50 messages ago. It creates content
+
+
+actually sounds human. And that's why I
+
+
+built this workflow around it. Okay. So
+
+
+you can see here for example this
+
+
+website it went from like what two
+
+
+clicks a day all the way up to 176
+
+
+clicks a day and the trajectory of that
+
+
+website is really nice as you can see.
+
+
+So the way that we're doing this is
+
+
+basically we use this prompt to generate
+
+
+content. So you can see over here if we
+
+
+take this SEO optimize prompt as you can
+
+
+see this is actually from the AI profit
+
+
+boardroom community that I run and if we
+
+
+plug in our keyword so for example let's
+
+
+say our keyword is like SEO training
+
+
+Japan and we've got some context about
+
+
+who we are what we do etc where we want
+
+
+to funnel traffic to we've got the links
+
+
+right there and then we can click enter
+
+
+like so and that will actually create an
+
+
+SEO optimized article that's much more
+
+
+likely to rank okay Domell here. Ready
+
+
+to learn, my man. Thank you very much
+
+
+for joining, Don. Appreciate you. Um,
+
+
+we're going to keep generating this. So,
+
+
+you can see how it's beginning to create
+
+
+the content. Now, one of the best things
+
+
+about Claude, I mean, if we have a look
+
+
+at that website that's ranking really
+
+
+well right now, just to analyze, you
+
+
+know, reverse engineer what's actually
+
+
+working. If we go to the blog here, you
+
+
+can see some examples of the content
+
+
+we've created, right? So, basically, if
+
+
+we're targeting like the keyword rank
+
+
+with notebook or notebook SEO, etc.,
+
+
+What we're going to do is put that
+
+
+inside the title. And then we have the
+
+
+introduction, a video that basically
+
+
+talks about the same topic and is
+
+
+semantically related. We have links to
+
+
+our funnels to funnel traffic to it. And
+
+
+then we have a breakdown throughout the
+
+
+page of exactly what we're covering,
+
+
+including some FAQs at the end. Right?
+
+
+And so you'll see that Claude is
+
+
+beginning to create this inside
+
+
+artifacts and it will generate the
+
+
+content. Now,
+
+
+we just consistently publish content
+
+
+around low competition keywords
+
+
+throughout the page and uh and just, you
+
+
+know, typically we'll take all of our
+
+
+videos and then turn them into into
+
+
+video transcripts, right? So, for
+
+
+example, if I type in like, I don't
+
+
+know, notebook SEO onto Google. What
+
+
+you're going to see here is that my
+
+
+website ranks, but also a lot of my
+
+
+videos rank as well. So you can see here
+
+
+1, two, three, four different videos
+
+
+ranking on the first page of Google for
+
+
+that particular keyword. Another video
+
+
+right there. And then [laughter]
+
+
+we've got another article right there
+
+
+that's ranking for this keyword. Right?
+
+
+And and a bunch of shorts which is
+
+
+pretty crazy as well. Right? So
+
+
+basically what I'm showing you here is
+
+
+like you can dominate the first page of
+
+
+Google pretty quickly and easily for
+
+
+that particular keyword just using these
+
+
+methods. Now one thing I haven't
+
+
+actually checked for this particular
+
+
+keyword is whether we are ranking inside
+
+
+perplexity and other AI search engines.
+
+
+So let's type in how to do notebook LM
+
+
+SEO. Now obviously people aren't going
+
+
+to be typing in that sort of keyword
+
+
+directly but they will be typing around
+
+
+stuff like that and and AI search
+
+
+particularly it goes so deep that it
+
+
+will find many different um angles to
+
+
+show you in your content. Right? So if
+
+
+we have a look at this particular
+
+
+keyword what you can see is it's
+
+
+reviewed the sources. Right? And if we
+
+
+have a look at this one, where's that
+
+
+source it from? So that is a article
+
+
+from LinkedIn. We've got an article from
+
+
+my website julian goldie.co.uk. Inside
+
+
+there, what else have we got? We have a
+
+
+YouTube video of mine in the top 10. So
+
+
+that's one of my videos. And then also,
+
+
+let's have a look here. Oh, we also have
+
+
+a Reddit article ranking inside um
+
+
+inside Claude as well, right? Inside
+
+
+Plexi, sorry. So you can see how you're
+
+
+ranking and we are ranking multiple
+
+
+times for this keyword. We actually show
+
+
+up number one right there for this
+
+
+particular keyword. And with a
+
+
+combination of YouTube videos plus
+
+
+taking that YouTube content, those
+
+
+transcripts and then plugging them into
+
+
+a tool like Claude, it's quite easy to
+
+
+rank inside these AI search engines. I
+
+
+think everyone's worried that SEO
+
+
+doesn't work anymore or it's harder to
+
+
+get traffic from Google. I think
+
+
+honestly like if you have the right
+
+
+strategies, you can rank more times
+
+
+inside the top 10 rankings. I mean, look
+
+
+at us ranking right here. We got one,
+
+
+two,
+
+
+three, four,
+
+
+four different Let's have a look at this
+
+
+one as well. Yeah, we got four different
+
+
+um four different articles or pieces of
+
+
+content ranking in the top 10 for that
+
+
+particular keyword. And then if you have
+
+
+a look at Google itself, we're ranking
+
+
+one, two, three, four, five,
+
+
+let's have a look, six times on the
+
+
+first page of Google. plus our shorts.
+
+
+So 10 times on the first page of Google
+
+
+there. So we got four shorts ranking um
+
+
+on Google for that keyword, right? And
+
+
+so like it's just it it's almost getting
+
+
+easier to do SEO if you know the right
+
+
+strategies. And that's what I'm showing
+
+
+you today, right? And so most people use
+
+
+Claude like a fancy search engine. Ask a
+
+
+question, get an answer, move on. But
+
+
+that's like buying a Ferrari and only
+
+
+driving it to the grocery store. You
+
+
+know, you're missing 90% of its power.
+
+
+So the real magic happens when you give
+
+
+Claude context about your business.
+
+
+Train it on your voice and style and use
+
+
+it as a thinking part but not just as a
+
+
+tool. Right? So what we got here? So for
+
+
+example, Don says, "I'm getting it. How
+
+
+will this method work with barber shops
+
+
+and hair salons?" Absolutely. We
+
+
+actually have a lot of clients who um
+
+
+are local businesses and some of them
+
+
+are hair salons and that sort of thing.
+
+
+So I want to show you some examples of
+
+
+how you can do this using your business,
+
+
+right? Right? And if you have the name
+
+
+of your business as well, I can even do
+
+
+it for you and create an article for you
+
+
+right now just to show you an example.
+
+
+Um, but in the meantime, I'll just show
+
+
+you some examples of how you can do the
+
+
+keyword research. Miguel says, "Can you
+
+
+help me?" Absolutely. Feel free to post
+
+
+any questions. Always happy to help. And
+
+
+then Don, if you want to post, you know,
+
+
+what your website is as well, I can
+
+
+actually work on creating some content
+
+
+for you and showing you the process. In
+
+
+the meantime, I'll just go off and do
+
+
+some random keyword research for a
+
+
+barber. Anyway, right. So if we say for
+
+
+example barber
+
+
+um New York right something like that
+
+
+right relatively medium keyword to rank
+
+
+for so there is some competition for
+
+
+that keyword what I would typically do
+
+
+is just go for keywords that are low
+
+
+competition like you can see here so for
+
+
+example like KD10 and below is is
+
+
+perfect right so if we have a look at
+
+
+the keywords down here for example what
+
+
+we got we got best barber New York
+
+
+that's a pretty easy keyword to rank for
+
+
+I mean very easy high traffic potential.
+
+
+Boom. We could go for that, right? So,
+
+
+how are we going to do that? Well, what
+
+
+we would do here is we're going to start
+
+
+a new chat and then we're going to take
+
+
+that particular prompt that we took
+
+
+earlier. We're going to go over to
+
+
+Claude here and we're going to plug in
+
+
+the keywords. So, for example, if we
+
+
+found an easy keyword like best barber
+
+
+New York, we're going to plug that into
+
+
+the keyword section and then we can
+
+
+start creating the content. Now, of
+
+
+course, what you also want to do is just
+
+
+change this so that you have your actual
+
+
+website and everything else ready to go
+
+
+inside here, right? So, what you would
+
+
+do, for example, I'm I'm going to open
+
+
+up a new tab and we'll create a sample
+
+
+like this, but for a barberh shop. So,
+
+
+I'm going to type this in. I'm going to
+
+
+say rewrite this as dummy text for a
+
+
+barbershop in New York. easy make it all
+
+
+up plus customize to a barberhop
+
+
+website instead, right? Um, and
+
+
+basically what I can do is just get some
+
+
+dummy source context. I can plug into
+
+
+the prompt and show you the outputs in a
+
+
+second. So, we'll wait for that to load
+
+
+and um, you can see here, for example,
+
+
+okay, Marcus Williams, he owns Blade and
+
+
+Fade Barershop in Brooklyn, blah blah
+
+
+blah. Here's the pages he wants to
+
+
+direct traffic to. Right? So, what we
+
+
+can do is take that source context like
+
+
+you can see. We can plug it into this
+
+
+source context section like so. So,
+
+
+we're going to say create an SEO
+
+
+optimized article for this keyword
+
+
+equals this. Is the source context about
+
+
+me? Blah blah blah. And then we'll hit
+
+
+enter, right? And so, we've found the
+
+
+keyword research that is critical. You
+
+
+really want to find easy keywords you
+
+
+can go after. Um, and the easier they
+
+
+are, the easier it's going to be to
+
+
+rank. So, you know, if you can find
+
+
+those KD zeros or those KD5s, etc. on
+
+
+Adris, you're already winning. That's
+
+
+actually the first thing we do for
+
+
+clients as soon as they sign up to our
+
+
+service is like we make sure they they
+
+
+get some easy keywords to rank for. And
+
+
+now you can see we're beginning to
+
+
+create the content. Um, and it's going
+
+
+to start creating the content as you can
+
+
+see. So, we'll wait for that to load.
+
+
+But you can see how that's just going
+
+
+off, creating the content, building it
+
+
+out. Now, if you actually want to have a
+
+
+look at how we've written this, we said
+
+
+like making sure it's easy to read,
+
+
+conversational, UK grammar, FAQs,
+
+
+headers, etc. Probably would change that
+
+
+to US grammar. Honestly, first person is
+
+
+pretty good and then we've done the
+
+
+rest, right? And now you can begin to
+
+
+see that it's actually working. It's
+
+
+actually creating content. So that's
+
+
+basically how the whole process works.
+
+
+Now we'll come out to the finalized
+
+
+output in the end. But that's
+
+
+essentially how you can do this. And so
+
+
+what you can also do is you can create a
+
+
+clawed project and then that's pre-tored
+
+
+with your writing instructions. So for
+
+
+example, if you go to the project
+
+
+section here, we've actually got like a
+
+
+project for writing tweets, a project
+
+
+for writing live stream notes, right? We
+
+
+also got an offer builder. So this helps
+
+
+me generate new offers for the AR profit
+
+
+board, my SEO services also, you know,
+
+
+have all these different ones. Now, the
+
+
+main point here is like you can easily
+
+
+create a new project, plug in the prompt
+
+
+that we were talking about earlier and
+
+
+then it can create content in your style
+
+
+that actually ranks every time and you
+
+
+just plug in the content, right?
+
+
+[snorts] Um, and bear in mind like your
+
+
+content is not going to rank every time.
+
+
+Just to be clear here, it's like, you
+
+
+know, the more content you create, the
+
+
+more opportunities you have to rank. So,
+
+
+for us, like we'll create content every
+
+
+single day. We know some of it's going
+
+
+to rank. We know some of it's not going
+
+
+to rank. We know some of it's going to
+
+
+rank in six months, maybe 12 months. And
+
+
+that's okay, right? We're playing the
+
+
+long game. We want to rank for decades,
+
+
+not for weeks or days. And and that's
+
+
+essentially how we're doing this for
+
+
+this website, right? And bear in mind,
+
+
+like before we started doing this, you
+
+
+know, we were getting like three clicks
+
+
+a day. Now we're getting 176 clicks a
+
+
+day. And that's growing, right? 176 um
+
+
+times 30, that is 5,280 traffic per
+
+
+month for free. If we times that by 12,
+
+
+well that's 63,000 people that find our
+
+
+website every year for free directly
+
+
+from Google, let alone all the AI search
+
+
+and everything else and all the other
+
+
+content that we publish as well across
+
+
+multiple platforms like for example
+
+
+Reddit. So very powerful strategy and
+
+
+Claude helps you automate pretty much
+
+
+all of that. And so thanks so much for
+
+
+watching. What I've actually done is I
+
+
+have plugged in the strategy that we've
+
+
+talked about today. Um, I've actually
+
+
+created the depth SEO blueprint inside
+
+
+the free video notes, some example
+
+
+prompts you can use. I've given you a
+
+
+30-day plan as well. If we have a look
+
+
+at Claude here, um, it's generated the
+
+
+article for the barber shop now. So, if
+
+
+we have a look at this, let's see what
+
+
+we got.
+
+
+There we go. So, we've got the article.
+
+
+As you can see, we can actually save
+
+
+that to drive if you want into Google
+
+
+Drive. And you can see the content is
+
+
+good to go, right? And that's targeting
+
+
+the keyword um you know new New York
+
+
+barber shop right best barber New York
+
+
+that's the one right and then you can
+
+
+see it's optimizing it in the title the
+
+
+first line etc and um yeah that's how we
+
+
+generate the content itself now if you
+
+
+go back to this as well some people
+
+
+going to say well AI content doesn't
+
+
+rank on Google the new empowering belief
+
+
+is like AI assisted content ranks right
+
+
+pure AI garbage of course it doesn't
+
+
+rank right there's a big difference here
+
+
+like if you say hey chat GBT, write me a
+
+
+blog post about dog training. Um, that
+
+
+that's a there's a huge difference
+
+
+between that and saying, "Hey, use
+
+
+include with brand context, your
+
+
+expertise, your examples, and your
+
+
+editing." Well, Google's much more
+
+
+likely to rank that, right? It doesn't
+
+
+penalize AI content. They just penalize
+
+
+bad content. And bad content is generic,
+
+
+unhelpful, thin, and copied from
+
+
+everywhere else. Good content is
+
+
+specific to your audience, genuinely
+
+
+helpful, comprehensive, and has unique
+
+
+perspective. and Claude helps you create
+
+
+content faster. That's it. Good content
+
+
+faster. All right. Um, other people say,
+
+
+well, I need to write everything myself
+
+
+to maintain quality. I would say the new
+
+
+empowering belief really is like the
+
+
+best content is AIdrifted and human
+
+
+refined, right? So, for example, like
+
+
+Muhammad Ali didn't become the greatest
+
+
+by training alone. He had trainers,
+
+
+coaches, spiring partners, and they
+
+
+helped him become better than he could
+
+
+have done alone. And Claude is your
+
+
+content training partner. It drafts, you
+
+
+refine, it suggests, you decide, it does
+
+
+heavy lifting. you add the expertise and
+
+
+the result is you get better content in
+
+
+less time and that's not cheating that's
+
+
+just smart training right so feel free
+
+
+to get the video notes from today inside
+
+
+the AI success lab also got a 30-day
+
+
+plan on exactly how to set this up and
+
+
+what also included here is um all the
+
+
+notes from today and all the prompts and
+
+
+that's inside the AI success lab which
+
+
+comes with a community of 42,400 members
+
+
+and if you go inside the classroom here
+
+
+you can get everything from today
+
+
+inside this section.
+
+
+Today I'm going to show you how to make
+
+
+money with AI SEO. This is basically,
+
+
+you know, one of the ways and one of the
+
+
+strategies that we're using to grow the
+
+
+AI profit boardroom right now. And you
+
+
+can see, for example, our results so far
+
+
+here. Um, and basically the way that
+
+
+we're doing this is we are creating
+
+
+content like you can see here that
+
+
+funnels traffic to our pages that
+
+
+convert traffic. Now, we have two
+
+
+different options and I'm going to guide
+
+
+you through both. And essentially what
+
+
+you're going to learn today is the
+
+
+customer magnet frameworks, how to
+
+
+create content that attracts buyers, not
+
+
+just browsers, the three types of SEO
+
+
+content that actually convert, how to
+
+
+automate the entire system with free AI
+
+
+tools, and the 30-day plan to set this
+
+
+up inside your business for SEO. All
+
+
+right, so the way that we're going to
+
+
+get started with this is with the
+
+
+customer magnet framework. So let me
+
+
+show you exactly how this works. Right.
+
+
+So
+
+
+what this helps you do is pull customers
+
+
+towards you instead of you chasing them.
+
+
+Here's the big idea. Right? So the core
+
+
+concept here is the three types of SEO
+
+
+content. There's traffic content that
+
+
+gets eyeballs. There's trust content
+
+
+that builds authority. And there's
+
+
+transaction content that creates brows
+
+
+browsers into buyers, right? And most
+
+
+people only create option one, which is
+
+
+traffic content. They get traffic, but
+
+
+they don't get any customers. And the
+
+
+customer magnet framework balances all
+
+
+three. So let me show you exactly how
+
+
+this works, right? So for example here
+
+
+we can go into something like claude and
+
+
+we can plug in a prompt like this right
+
+
+so we could say okay create a comparison
+
+
+article like a profit boarding versus
+
+
+learning alone right here's the target
+
+
+audience the structure with the hook
+
+
+what most people try the community blah
+
+
+blah blah right make it genuinely
+
+
+helpful not salesy and a reader should
+
+
+feel informed not sold to right I use
+
+
+claude because it's by far the most
+
+
+sentient when it comes to creating
+
+
+content the most humanized etc and so
+
+
+now it's going to begin to create that
+
+
+content. Now, this is basically
+
+
+transaction content, right? It captures
+
+
+people who are ready to take action.
+
+
+Then you can also use prompts like this
+
+
+for generating trust content. And if you
+
+
+want to build, for example, traffic
+
+
+content, then you can create like
+
+
+listicles or or general topics, right?
+
+
+And so
+
+
+what
+
+
+we're going to show you today is
+
+
+basically
+
+
+how we create content that ranks like
+
+
+this. So, for example, if you look at
+
+
+this particular page, how I rank faster
+
+
+with notebook, right? Um, and you can
+
+
+see that we've written the content here.
+
+
+What we actually do is we embed a video
+
+
+inside the article that people are quite
+
+
+likely to read. And if they read it,
+
+
+they're going to be funneled into a page
+
+
+to
+
+
+to our um money pages, right? So, for
+
+
+example, here, if we check out my blog,
+
+
+let me show you an example. We've got a
+
+
+page like this one, right? And we have a
+
+
+lead magnet right at the top when people
+
+
+land on the page. Then we have the
+
+
+tutorial that convinces them. Well,
+
+
+number one, it gives them value, creates
+
+
+goodwill, and then it convinces them,
+
+
+hey, you should check out our free
+
+
+community or our paid community, etc.
+
+
+Right? It actually funnels traffic from
+
+
+there to our page, right? So, for
+
+
+example, if you look here, it's
+
+
+funneling traffic from this link to our
+
+
+community, right? And so
+
+
+basically what we're doing through out
+
+
+the page is really attracting people
+
+
+from Google and then sending them and
+
+
+driving them over to our funnels that
+
+
+will convert that traffic. Um most
+
+
+people get it wrong because you know
+
+
+they create content that actually tracks
+
+
+traffic but they don't know how to
+
+
+convert it. And I would say there's two
+
+
+ways that we actually do this. So the
+
+
+first way is that when we rank this
+
+
+content on Google they'll actually click
+
+
+through to our free community. Right? So
+
+
+if you have a look through this page
+
+
+like this page for example you can see
+
+
+here that we actually generate traffic
+
+
+to the free AI success lab and they can
+
+
+join this community they sign up they
+
+
+become a lead etc right and it drives
+
+
+traffic and then they get nurtured into
+
+
+becoming a client later the other option
+
+
+that we have is that we actually send
+
+
+them directly to the AI profit boardroom
+
+
+which is our community and that's like
+
+
+kind of um a direct conversion play and
+
+
+honestly like the conversion rates are
+
+
+not that high for if you do this. But
+
+
+the thing is like if you can get a lot
+
+
+of traffic at scale then the the
+
+
+potential the upside is is way way
+
+
+higher. Right? So that's basically what
+
+
+we're doing here. Now if we have a look
+
+
+we've got the article being generated
+
+
+here from claude from before. It does
+
+
+take a bit of a long time especially if
+
+
+you're generating it in a doc like this.
+
+
+But the cool thing here is you can open
+
+
+it in Google Drive and then you can
+
+
+share with your team etc. or you can
+
+
+save it etc. Right. Um you see how it's
+
+
+written the content to basically
+
+
+convert. you know, it's got some nice
+
+
+tables in there, nice bullet points,
+
+
+nice FAQs, and then it actually directs
+
+
+people to get the AR profit boarding.
+
+
+And so essentially, that's what we're
+
+
+doing over and over again. Like every
+
+
+single day, we'll publish content to our
+
+
+website. Some of it ranks, some of it
+
+
+doesn't. So what, right? Like the main
+
+
+point here is like we get traffic over
+
+
+time, and we keep building on it and
+
+
+compounding on it. And that's the goal
+
+
+here is really to just generate more
+
+
+traffic to the website, generate more
+
+
+traffic to our funnels. Now, you might
+
+
+be saying, why would we direct people to
+
+
+our free funnel, right? Why would we get
+
+
+people to click from our content to our
+
+
+free funnel? The reason for that is
+
+
+because it actually nurtures people into
+
+
+becoming a client eventually, right? We
+
+
+give so much value inside this community
+
+
+and people are inside there every single
+
+
+day getting value that builds enough
+
+
+trust and enough goodwill that
+
+
+eventually they'll buy. And you know,
+
+
+bear in mind once someone joins, they'll
+
+
+probably get some emails. They'll get
+
+
+the post inside the community. They'll
+
+
+watch the content that also funnels them
+
+
+into upgrading. And then also um we just
+
+
+have a bunch of strategies like this to
+
+
+generate um leads, right? And so that's
+
+
+essentially how it works.
+
+
+So thanks very much for watching. If you
+
+
+want to get all the video notes from
+
+
+today, you can get that inside the AI
+
+
+success lab link in the comments
+
+
+description. And if you go to the AI SEO
+
+
+section here, you'll find all the notes,
+
+
+all the video resources, and the
+
+
+framework for doing this stuff. On top
+
+
+of that, you'll get the live builds that
+
+
+I've talked about today, as you can see.
+
+
+And you know, some people are going to
+
+
+say, well, isn't SEO just about getting
+
+
+traffic? And I would say the empowering
+
+
+belief, the new one that you should
+
+
+really focus on is like the right SEO
+
+
+strategy gets customers, not just
+
+
+visitors, right? So, you know, here's a
+
+
+story that changed my thinking. Like I
+
+
+used to celebrate every traffic spike
+
+
+like oo we hit 10,000 visitors per
+
+
+month. Um but my business wasn't growing
+
+
+because those visitors weren't buyers,
+
+
+right? And so they were reading like
+
+
+what is SEO content which is interesting
+
+
+but they weren't ready to take action.
+
+
+And when I shifted to the customer
+
+
+magnet content method, traffic actually
+
+
+dropped but leads went up because I was
+
+
+attracting the right people. So you know
+
+
+just really think about it because
+
+
+traffic is a vanity metric and customers
+
+
+are the real score, right? That's what
+
+
+you want to focus on. Some people say,
+
+
+"Well, I need to rank for high volume
+
+
+keywords." The new empowering belief
+
+
+really is like low volume buyer keywords
+
+
+beat high volume browser keywords,
+
+
+right? And Alexi talks a lot about this.
+
+
+Like, would you rather have 10,000
+
+
+people who kind of sort of might be
+
+
+interested or 100 people um who are
+
+
+ready to buy? I know which one I'd
+
+
+choose, right? In SEO terms, what is
+
+
+email marketing might have like 50,000
+
+
+searches per month, but it's got very
+
+
+low buyer intent. So, don't worry about
+
+
+the volume, right? Whereas, for example,
+
+
+if you look at best email marketing tool
+
+
+for coaches, well, that might have 500
+
+
+searches per month, but actually it's
+
+
+way higher buyer intent. So, which one
+
+
+would you rather rank for? Well, the
+
+
+smarter option is the second option,
+
+
+right? Um, of people say, well, content
+
+
+takes too long to convert. The the new
+
+
+empowering belief for this really is
+
+
+like the right content converts
+
+
+immediately, right? Like I'll track
+
+
+every minute of my day. Day task, what
+
+
+it's related to, how many minutes. And
+
+
+here's what I discovered. Like
+
+
+transaction, content, comparisons,
+
+
+reviews, best x content converts in
+
+
+days, not months. Because you're
+
+
+capturing people at the moment of
+
+
+decision. They've already done their
+
+
+research. They're looking for
+
+
+confirmation. Your content gives them
+
+
+that confirmation and they convert
+
+
+faster, right? That's what it's all
+
+
+about. So, if you want to get all the
+
+
+video notes from today, feel free to get
+
+
+that link in the comments description.
+
+
+Also comes with a 30-day implementation
+
+
+plan. So, for example, Don, I know that
+
+
+you said you'll be working on this all
+
+
+day, which is pretty cool. So, if you
+
+
+want to get a 30-day customer magnet
+
+
+plan for doing SEO, we actually got a
+
+
+30-day implementation road map with
+
+
+prompts, daily actions, um, and you can
+
+
+just follow this step by step and start
+
+
+working on getting results, right? And
+
+
+that's basically how it goes. So,
+
+
+thanks very much for watching. Um, check
+
+
+out the AI success lab. link in the
+
+
+comments description comes with all the
+
+
+tutorials for doing this stuff, an
+
+
+amazing community and everything else.
+
+
+If you haven't already, feel free to
+
+
+book in a free SEO strategy session.
+
+
+Link in the comments description if
+
+
+you're interested in becoming a client
+
+
+for SEO agency. And on that call, we'll
+
+
+basically guide you through a framework,
+
+
+give you a SEO domination plan, and then
+
+
+if you're ready to become a client, you
+
+
+know, feel free to sign up. On top of
+
+
+that, if you just want to get started
+
+
+and you want to get someone else to do
+
+
+SEO for you, feel free to check out our
+
+
+backlink portal. And basically on this
+
+
+portal, you can order SEO online and
+
+
+then we'll just go off and do it for
+
+
+you. And that way you don't need to wait
+
+
+for a call. You know, you don't mess
+
+
+around with speaking to someone. You
+
+
+just order online, use the coupon code,
+
+
+and you're good to go. All right. So,
+
+
+feel free to get that link in the
+
+
+comments and the description.
+
+
+Ah, thank you so much for reposting the
+
+
+stream. Appreciate you, man. Thank you.
+
+
+Today, I'm going to show you how to do
+
+
+parasite AI SEO on Reddit. This is one
+
+
+of the strategies we use. You can see,
+
+
+for example, our subreddit here actually
+
+
+gets 70,000 views per month by creating
+
+
+content. This is not like spammy
+
+
+content. It's actually like content
+
+
+people enjoy reading. You see here, for
+
+
+example, people commenting on it. We
+
+
+publish a lot of content. We got 3,800
+
+
+members. We only started this a few
+
+
+months ago, this subreddit. I actually
+
+
+thought it was too late and wouldn't
+
+
+work and then it began to take off and
+
+
+now we basically just publish our videos
+
+
+like you can see inside the channel
+
+
+here. And we also publish a lot of um
+
+
+articles as well. So, I'm going to show
+
+
+you how the process works and what we do
+
+
+and and how to do it step by step and
+
+
+how to replicate this yourself in case
+
+
+you're interested in getting traffic.
+
+
+And the great thing about Reddit is it
+
+
+is free to use, right? I mean, you don't
+
+
+have to pay to use Reddit. Anyone can
+
+
+post on there. Anyone can start up the
+
+
+subreddit. And what I've actually done
+
+
+is for the um resources for this live
+
+
+stream, I've actually created a list of
+
+
+stuff that you can use to help you to
+
+
+generate this. And the main thing to
+
+
+note here is like Reddit SEO is really
+
+
+powerful because you know Google made a
+
+
+deal with Reddit, right? Um, and now
+
+
+Reddit can rank really quickly on page
+
+
+one of Google and also AI search engines
+
+
+within like 24 hours. Like not weeks,
+
+
+not months, but hours. Um, and I'll show
+
+
+you an example, right? So, for example,
+
+
+if we go over to perplexity here, as you
+
+
+can see, and we'll just put something
+
+
+like no book AI LM SEO, right? Something
+
+
+like that, right? Um what you can see is
+
+
+it will actually source
+
+
+um different sources around the web and
+
+
+it will pull in for example like
+
+
+LinkedIn or for example YouTube and that
+
+
+sort of thing right um and basically
+
+
+what you can do is you can actually rank
+
+
+this content not just inside
+
+
+Reddit as you can see but also inside uh
+
+
+AI search engines so people searching
+
+
+via right so if you have a look at for
+
+
+example this keyword you can see that my
+
+
+Reddit article
+
+
+from the subreddit is actually ranking
+
+
+inside perplexi directly and it's got
+
+
+links to all my funnels right at the top
+
+
+to convert that traffic right um and you
+
+
+can see another example here so this is
+
+
+the traffic for this website we're using
+
+
+the same technique but on the website
+
+
+and it works so even if you don't want
+
+
+to do it directly on Reddit no problem
+
+
+you can actually do it on a website like
+
+
+you can see here um and the other thing
+
+
+you want to see here is like we're
+
+
+actually embedding a YouTube video at
+
+
+the top so we don't just rank directly
+
+
+inside Google we don't just rank inside
+
+
+perlexi and AI search engines But we
+
+
+also rank directly on YouTube as well.
+
+
+And so like, you know, you're 5xing your
+
+
+traffic at this point. And you see it's
+
+
+neatly formatted. The content reads
+
+
+really nicely. Um, this article itself
+
+
+actually got 2,500 views directly on the
+
+
+platform as you can see right there. So
+
+
+if we zoom in on that, there we go. All
+
+
+right. And then if we go on see more
+
+
+insights as well, you can see how it's
+
+
+performing. So 2,500 views, um, a decent
+
+
+amount of those from like the United
+
+
+States, bunch of up votes, etc. Six
+
+
+shares, six people shared this content
+
+
+and it's pretty simple and easy. You can
+
+
+actually see where it shared as well,
+
+
+which is interesting, too. So, I
+
+
+actually never look at those analytics,
+
+
+but I should pay more attention. The
+
+
+other cool thing here as well is like we
+
+
+created that three months ago, but it's
+
+
+still ranking inside Perplexity, right?
+
+
+So that's the great thing about this is
+
+
+when you're doing this like you're
+
+
+creating content now but it ranks this
+
+
+week inside Reddit. It could rank in
+
+
+three months time inside AI search
+
+
+engines and it's reach just expands. You
+
+
+never get less views on a piece of
+
+
+content of course, right? It only
+
+
+increases. And so you're creating these
+
+
+assets that can generate more traffic,
+
+
+more leads, more sales um over the long
+
+
+term. So that's basically how it works.
+
+
+And so let me break down exactly how it
+
+
+goes. So you know we've published over
+
+
+300 posts. We get like thousands and
+
+
+thousands of visitors and we use AI free
+
+
+tools and you can automate this. And the
+
+
+great thing about this is like you don't
+
+
+need to be technical. You don't need a
+
+
+website. You don't need any visitors.
+
+
+And Google is literally just giving
+
+
+Reddit post page one rankings right now.
+
+
+It's it's absolutely insane. In fact,
+
+
+Reddit threads appear in 82% of Google
+
+
+searches on page one. I think most
+
+
+people don't realize that, but just read
+
+
+that again. Reddit threads appear in 82%
+
+
+of Google searches on page one. That is
+
+
+insane and most people have no idea this
+
+
+is happening. So let me show you the
+
+
+system of how this works. All right. And
+
+
+this is called the Goldie Reddit
+
+
+parasite engine. This is my personal
+
+
+framework for turning Reddit into a 3D
+
+
+lead generation machine. It's the Reddit
+
+
+parasite engine. Um the difference
+
+
+between Reddit um and why you should do
+
+
+it now is like Google signed a deal with
+
+
+Reddit. Actually Chat GPT as well have
+
+
+leveraged this too. And so Google gets
+
+
+access to Reddit's content to train its
+
+
+AI models. So, Reddit gets boosted in
+
+
+the search results and the result is
+
+
+like Reddit actually saw a 27% increase
+
+
+in ranking keywords. They added 110
+
+
+million new keywords to their arsenal
+
+
+and Reddit has a domain rating domain
+
+
+authority of 91. Right? That's higher
+
+
+than Fortune 500 websites. Right? So,
+
+
+when you post on Reddit, you're
+
+
+borrowing their authority. Your post can
+
+
+rank faster than a brand new website
+
+
+ever could. I've tested myself and I've
+
+
+shown you the proof already that this
+
+
+works. Right? So, that's basically how
+
+
+it goes. I've given you a bunch of
+
+
+prompts here. for example. But what you
+
+
+can actually do is you could use claw to
+
+
+actually generate names for your
+
+
+subreddit. But the bet the first place
+
+
+to start is to really go to subreddits
+
+
+and create a new subreddit like you can
+
+
+see here. Right? So for example, we
+
+
+created the AI SEO insider and that is a
+
+
+subreddit where we post all of our
+
+
+content. Right? Now from there you want
+
+
+to pick a niche specific name. So for
+
+
+example, we've used AI SEO insider. If
+
+
+you're in the e-commerce niche, you
+
+
+might use e-commerce growth hacks. If
+
+
+you were in the local business niche,
+
+
+you might use like local business AI,
+
+
+right? And you can actually use this
+
+
+prompt on Claude to come up with a bunch
+
+
+of names. From there, you want to start
+
+
+using the content engine. Now, you can
+
+
+use something like Claude. I would
+
+
+actually recommend Claude for creating
+
+
+content. And all you would do, right, is
+
+
+you would plug in like a social media
+
+
+post or video transcript, etc. into
+
+
+Claude, as you can see, and you just
+
+
+paste the content in right there. So, as
+
+
+an example of that, if I go over to
+
+
+YouTube here, right? And if I open this
+
+
+up, this YouTube video, and then we'll
+
+
+pull in the transcript from the page.
+
+
+All right. And then we'll take that. We
+
+
+go back to Reddit, paste in the content,
+
+
+and we'll see see pasted content
+
+
+attached. Right. We've taken the YouTube
+
+
+transcript. And now what we're actually
+
+
+going to do is get this to turn it into
+
+
+content for our subreddit. You would
+
+
+actually customize your subreddit right
+
+
+here. But you can see how you can easily
+
+
+generate using that video transcript an
+
+
+article based on that content, right?
+
+
+And because we're using our own content
+
+
+to generate the article where it
+
+
+actually uses that first person
+
+
+perspective, right? Because it's all
+
+
+trained on our case study data and
+
+
+everything else. And there you can see
+
+
+the article right there, right? Um, and
+
+
+that's basically how it works. That's
+
+
+what we do. We rinse and repeat it.
+
+
+Sometimes we just post YouTube videos.
+
+
+Sometimes we post the full articles,
+
+
+etc. Um but it it is responsible for
+
+
+generating a large amount of traffic. We
+
+
+actually measured how many clicks we get
+
+
+from Reddit as well and it is a decent
+
+
+percentage as well. Um and the other
+
+
+cool thing is is like it actually
+
+
+compounds over time, right? So if you
+
+
+actually look at our traffic month on
+
+
+month, you know, January, um we didn't
+
+
+get anything. That's when we started.
+
+
+February we barely got anything. You
+
+
+know, it's a slow burner, right? It took
+
+
+a long time to start getting traction,
+
+
+but it compounds over time. And now you
+
+
+can see we're up to the point where
+
+
+we're just getting like 70,000 views per
+
+
+month on this platform. Um, and it works
+
+
+really well. We're about over a quarter
+
+
+million views this year. Uh, 3,800
+
+
+members, etc. All right. So, if we have
+
+
+a look at the past 30 days, 70,000 views
+
+
+on that content, which is insane, right?
+
+
+That is insane considering this is free.
+
+
+And so, with a combination of your
+
+
+website, you know, Reddit, you can use
+
+
+LinkedIn, etc. It's quite easy to start
+
+
+generating a lot of content and then
+
+
+also ranking it. And as long as you
+
+
+quality control it before you publish
+
+
+it, you're good to go. Right? So, if you
+
+
+want all the video notes from today, you
+
+
+can get that, including some example
+
+
+prompts and everything else. I've
+
+
+actually given you a 30-day plan to
+
+
+really um follow this step by step. The
+
+
+main thing to note here is like you're
+
+
+not spamming, you're not creating spammy
+
+
+content. You're creating quality
+
+
+content, checking it before you publish
+
+
+it. And then you can publish this and
+
+
+rank it across your own subreddit and
+
+
+then generate an asset that actually,
+
+
+you know, pulls in visitors, pulls in
+
+
+leads, pulls in new members, etc. Right?
+
+
+and also giving you some um ideas of
+
+
+like builds you could actually build you
+
+
+know for example like you could actually
+
+
+get uh Claude to create like a visual
+
+
+dashboard of everything that you're
+
+
+doing today along with a clawed Reddit
+
+
+response bot right so for example you
+
+
+could actually create something that
+
+
+monitors your subreddit or you could
+
+
+just paste in the responses on the
+
+
+subreddit and get it to automatically
+
+
+answer community questions and that sort
+
+
+of thing. All right. So,
+
+
+the old way of getting traffic was like
+
+
+you would build a website from scratch,
+
+
+wait 12 months for Google to trust you,
+
+
+write like a 100 blog posts manually,
+
+
+build backlinks one by one, compete
+
+
+against massive sites, pay for ads to
+
+
+get any attention, hire writers or spend
+
+
+hours creating content and then hope you
+
+
+know Google doesn't penalize you. That
+
+
+was the old way of getting traffic,
+
+
+right? The new way with this Reddit
+
+
+method is like you can create a
+
+
+subreddit in 60 seconds. You borrow
+
+
+Reddit's authority, which is insanely
+
+
+high. You let Claude write all your
+
+
+content. You automate the posting with
+
+
+free tools. You rank within hours, not
+
+
+months. Zero ad spend required. No
+
+
+technical skills needed. And Google was
+
+
+literally pushing Reddit content to page
+
+
+one. I mean, 82% of all searches have a
+
+
+Reddit thread on the first page, right?
+
+
+And so, this isn't about working harder,
+
+
+it's about working smarter and just
+
+
+using tools that exist right now that
+
+
+most people don't know about. I think
+
+
+that's a game in 2026. And the winners
+
+
+will use AI and the losers will do
+
+
+everything manually. So the question is
+
+
+which one are you? Right? Um now let me
+
+
+break some limiting beliefs that might
+
+
+be holding you back because I know what
+
+
+you're thinking. You're probably
+
+
+thinking I need to get a good writer to
+
+
+create content. I mean here's the thing,
+
+
+right? So if you look at for example
+
+
+like Richard Branson, he's dyslexic. He
+
+
+can't write, right? Um but he's built a
+
+
+billion dollar empire, right? And how
+
+
+has he done that? Well, he surrounds
+
+
+himself with people and tools that do
+
+
+what he can't. And Claude actually
+
+
+writes better than most humans. It
+
+
+writes in your voice. It writes on any
+
+
+topic. It never gets writer's block. You
+
+
+don't need to be a good writer
+
+
+essentially, right? You just need to be
+
+
+a good editor. Read what Claude creates.
+
+
+Fix what needs fixing. Publish it. Boom.
+
+
+You're done. And so the new empowering
+
+
+belief with SEO is really I'm the
+
+
+creative director and AI is my writing
+
+
+team. Other people say, "Well, SEO takes
+
+
+too long. I don't have the patience for
+
+
+it." And I get it. You know, traditional
+
+
+SEO might take six to 12 months and
+
+
+that's brutal. But Reddit parasite SEO
+
+
+is pretty different, right? So I've
+
+
+ranked keywords in 24 hours, not 24
+
+
+months, 24 hours, right? And why is
+
+
+that? It's because you're borrowing
+
+
+Reddit's authority. Google already
+
+
+trusts Reddit. So when you post there,
+
+
+Google trusts you instantly. And this is
+
+
+the shortcut. This is a hack. This is
+
+
+what everyone's been waiting for. So the
+
+
+new empowering belief really is like I
+
+
+can rank fast by borrowing authority
+
+
+from platforms Google already trusts.
+
+
+Um, and finally, like people say, well,
+
+
+Reddit is for nerds, you know, Reddit is
+
+
+is for memes, etc. it won't work for my
+
+
+business. Well, Reddit actually has over
+
+
+108 million daily active users, right?
+
+
+Two billion monthly visits. There's a
+
+
+subreddit for literally everything,
+
+
+right? Real estate, B2B software,
+
+
+fitness coaching, digital marketing,
+
+
+whatever you do, right? Your customers
+
+
+are probably on Reddit right now asking
+
+
+questions, looking for help, and
+
+
+searching for solutions. So, you just
+
+
+need to be there when they do. And bear
+
+
+in mind, you don't just get the traffic
+
+
+from Google and AI search engines. We
+
+
+also get the traffic directly from
+
+
+Reddit's platform, which is very
+
+
+powerful, too. And so, you know, the new
+
+
+empowering belief really is like my
+
+
+ideal customers are already on Reddit. I
+
+
+just need to show up and help them.
+
+
+Okay, so that's basically how it works.
+
+
+I've given you the 30-day plan, all the
+
+
+prompts, case studies showing and
+
+
+proving that it works. And um you can
+
+
+see all the strategies we've talked
+
+
+about today. Edge says, "Happy New Year,
+
+
+brother. Thanks for the videos. Happy to
+
+
+help. Great to see you and happy new
+
+
+year." And essentially, that's how we
+
+
+get so much uh views, you know, in just
+
+
+30 days using Reddit AI SEO. It's very
+
+
+powerful. Most people are not leveraging
+
+
+it properly. We're creating really good
+
+
+content. I mean like you know I I myself
+
+
+and my team spend a lot of time creating
+
+
+this content. But with AI we can really
+
+
+scale it and we can really get good
+
+
+results of it and that's what we're
+
+
+working towards. So thanks so much for
+
+
+watching. If you want to get all the
+
+
+video notes from today, the prompts, the
+
+
+resources, the links, the 30-day plan,
+
+
+etc. It's all inside the AI success lab.
+
+
+So feel free to get that as a community
+
+
+with 42,000 42,400
+
+
+members. As you can see, it's completely
+
+
+free. You can see it's quite an active
+
+
+community as well. And then also inside
+
+
+the classroom here, if you go to the AI
+
+
+SEO section, as you can see, then you
+
+
+can check out the full guide from today,
+
+
+plus all of our best SEO trainings on
+
+
+how to get results with SEO. So, if
+
+
+you're struggling with it, feel free to
+
+
+get that. That's completely free. If you
+
+
+want to get a free SEO strategy session,
+
+
+link in the comments description. This
+
+
+will show you, you know, how we take
+
+
+websites from like zero to 145,000
+
+
+visitors per month. And also it gives
+
+
+you a free link building acceleration
+
+
+session with a SEO domination plan.
+
+
+You'll discover the secrets SEO link
+
+
+building and we'll answer any questions
+
+
+you have on the call. And then finally,
+
+
+if you just want to order SEO directly
+
+
+online, you know, you don't want to mess
+
+
+around with a consultation call etc. and
+
+
+you want to become a client of ours, you
+
+
+can actually order SEO online using the
+
+
+backlink portal link in the comments in
+
+
+the description. And basically between
+
+
+these options, you can just order online
+
+
+and and get the package you want. And
+
+
+you also skip skip the setup fees
+
+
+because you can just order online and
+
+
+you don't have to jump on the call. So
+
+
+it makes it easier for everyone. So feel
+
+
+free to get that link in the comments
+
+
+description. I appreciate you watching
+
+
+and I'll see you on the next one.
+
+
+Cheers. Bye-bye.
