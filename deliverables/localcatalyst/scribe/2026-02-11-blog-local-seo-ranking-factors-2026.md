@@ -4,7 +4,7 @@
 **Date:** 2026-02-11  
 **Agent:** Scribe  
 **Category:** Local SEO  
-**URL:** /blog/local-seo-ranking-factors-2026/
+**URL:** /learn/local-seo-ranking-factors-2026/
 
 ---
 
@@ -85,7 +85,7 @@ Your Google Business Profile is the single most important local SEO asset you ha
 - Seed your Q&A with common questions
 - Respond to customer questions within 24 hours
 
-[Read our complete GBP optimization guide →](/blog/how-to-optimize-google-business-profile/)
+[Read our complete GBP optimization guide →](/learn/how-to-optimize-google-business-profile/)
 
 ---
 
@@ -129,7 +129,7 @@ Reviews are a top-3 ranking factor for the Map Pack. More reviews = higher ranki
 - Ask at the right time (immediately after great service)
 - Respond to all reviews
 
-[Read our complete review generation guide →](/blog/google-reviews-generation-strategy/)
+[Read our complete review generation guide →](/learn/google-reviews-generation-strategy/)
 
 ---
 
@@ -168,7 +168,7 @@ Your business name, address, and phone number (NAP) must be consistent across ev
 - Yellow Pages
 - Industry-specific directories (Angi for home services, Healthgrades for medical, Avvo for legal)
 
-[Read our citation building guide →](/blog/citation-building-guide/)
+[Read our citation building guide →](/learn/citation-building-guide/)
 
 ---
 
@@ -211,7 +211,7 @@ Your website is still a major ranking factor for local search. Google looks at y
 - Implement LocalBusiness, Service, and FAQ schema
 - Helps Google understand your business type, services, and location
 
-[Read our title tag optimization guide →](/blog/title-tag-optimization/)
+[Read our title tag optimization guide →](/learn/title-tag-optimization/)
 
 ---
 
@@ -246,7 +246,7 @@ Backlinks are less important for local SEO than for national SEO, but they still
 - Guest post on local websites
 - Partner with complementary local businesses
 
-[Read our local link building guide →](/blog/local-link-building-strategies/)
+[Read our local link building guide →](/learn/local-link-building-strategies/)
 
 ---
 
@@ -307,7 +307,7 @@ Technical SEO affects your website's crawlability, speed, and mobile optimizatio
 **Structured Data (Schema Markup) (Medium Impact)**
 - LocalBusiness, Service, FAQPage, Review schema
 
-[Read our Core Web Vitals guide →](/blog/core-web-vitals-optimization/)
+[Read our Core Web Vitals guide →](/learn/core-web-vitals-optimization/)
 
 ---
 
@@ -388,21 +388,21 @@ If you're starting from scratch, prioritize these factors (in order):
 
 Local SEO has a lot of moving parts. If you'd rather have experts handle it, LocalCatalyst specializes in local SEO for small businesses.
 
-[Get a free local SEO audit →](/contact/)
+[Order your SEO Audit →](/services/seo-audit/)
 
 ---
 
 ## Internal Linking Strategy
 
 **Link to from Local SEO Ranking Factors post:**
-- /services/local-seo/ (anchor: "local SEO services")
-- /blog/how-to-optimize-google-business-profile/ (anchor: "GBP optimization guide")
-- /blog/google-reviews-generation-strategy/ (anchor: "review generation")
-- /blog/citation-building-guide/ (anchor: "citation building")
-- /blog/local-link-building-strategies/ (anchor: "local link building")
-- /blog/core-web-vitals-optimization/ (anchor: "Core Web Vitals")
-- /blog/title-tag-optimization/ (anchor: "title tag optimization")
-- /contact/ (CTA)
+- /services/ (anchor: "local SEO services")
+- /learn/how-to-optimize-google-business-profile/ (anchor: "GBP optimization guide")
+- /learn/google-reviews-generation-strategy/ (anchor: "review generation")
+- /learn/citation-building-guide/ (anchor: "citation building")
+- /learn/local-link-building-strategies/ (anchor: "local link building")
+- /learn/core-web-vitals-optimization/ (anchor: "Core Web Vitals")
+- /learn/title-tag-optimization/ (anchor: "title tag optimization")
+- /services/seo-audit/ (CTA)
 
 ---
 

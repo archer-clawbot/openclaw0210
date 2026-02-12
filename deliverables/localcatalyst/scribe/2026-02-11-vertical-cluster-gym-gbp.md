@@ -14,7 +14,7 @@
 
 ---
 
-When someone searches "gym near me," the Map Pack determines which three fitness businesses get the click and which dozens of others get ignored. Your Google Business Profile is the gateway to that visibility. This guide, part of our [fitness and gym SEO](/industries/fitness-gym-seo/) hub, covers every GBP optimization that fitness businesses need to dominate local map results. For professional GBP management, explore our [Google Business Profile management](/google-business-profile-management/) services.
+When someone searches "gym near me," the Map Pack determines which three fitness businesses get the click and which dozens of others get ignored. Your Google Business Profile is the gateway to that visibility. This guide, part of our [fitness and gym SEO](/industries/fitness-gym-seo/) hub, covers every GBP optimization that fitness businesses need to dominate local map results. For professional GBP management, explore our [Google Business Profile management](/services/gbp-optimization/) services.
 
 ## The Map Pack Advantage for Fitness Businesses
 

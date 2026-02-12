@@ -14,13 +14,13 @@
 
 ---
 
-*Breadcrumbs: [Home](/) > [Industries](/industries/) > [Auto Repair SEO](/industries/auto-repair-seo/) > Auto Repair Google Business Profile*
+*Breadcrumbs: [Home](/) > [Industries](/services/) > [Auto Repair SEO](/industries/auto-repair-seo/) > Auto Repair Google Business Profile*
 
 ## Google Business Profile for Auto Shops: Your Map Pack Playbook
 
 When a driver searches "mechanic near me" or "auto repair [city]," the first thing they see is the Map Pack — three businesses displayed with ratings, hours, and a map pin. That is where the decision happens. A driver with a check engine light or grinding brakes is not scrolling to page two of Google. They are choosing from the three businesses the Map Pack puts in front of them. Your Google Business Profile determines whether your shop is one of those three — or invisible to customers who need exactly what you offer. As our [auto repair SEO guide](/industries/auto-repair-seo/) details, GBP optimization is the single highest-impact activity for auto shops looking to generate more leads from local search.
 
-Most auto repair shops treat their GBP as a set-it-and-forget-it listing. They filled it out when they opened, maybe uploaded a photo of their storefront, and have not touched it since. Meanwhile, the shop down the street that actively manages their profile — updating services, posting weekly, responding to every review, and uploading project photos — is capturing the Map Pack positions and the customers that come with them. Our [Google Business Profile management](/google-business-profile-management/) services turn your GBP from a passive listing into an active lead generation tool.
+Most auto repair shops treat their GBP as a set-it-and-forget-it listing. They filled it out when they opened, maybe uploaded a photo of their storefront, and have not touched it since. Meanwhile, the shop down the street that actively manages their profile — updating services, posting weekly, responding to every review, and uploading project photos — is capturing the Map Pack positions and the customers that come with them. Our [Google Business Profile management](/services/gbp-optimization/) services turn your GBP from a passive listing into an active lead generation tool.
 
 ## GBP Setup Essentials for Auto Shops
 

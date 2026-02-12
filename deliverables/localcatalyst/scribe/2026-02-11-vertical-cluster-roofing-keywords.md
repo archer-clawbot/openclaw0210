@@ -16,7 +16,7 @@
 
 Every roofing company competing for local search visibility needs a disciplined keyword strategy. As part of our comprehensive [roofing SEO program](/industries/roofing-seo/), keyword research is the foundation that determines whether your digital marketing investment generates qualified leads or wasted impressions. Without the right keywords informing your content, your Google Business Profile, and your paid campaigns, you are essentially bidding blind in one of the most competitive local service industries online.
 
-At LocalCatalyst, our [local keyword research service](/local-seo-services/local-keyword-research/) uses a data-driven approach built on the CATALYST Methodology to identify exactly which roofing search terms matter in your specific market. This page breaks down the keyword categories, selection criteria, and implementation tactics that separate roofing companies ranking on page one from those buried on page three.
+At LocalCatalyst, our [local keyword research service](/services/local-keyword-research/) uses a data-driven approach built on the CATALYST Methodology to identify exactly which roofing search terms matter in your specific market. This page breaks down the keyword categories, selection criteria, and implementation tactics that separate roofing companies ranking on page one from those buried on page three.
 
 ## Why Keyword Research Matters More for Roofers Than Most Industries
 
@@ -76,7 +76,7 @@ This category is critical for roofers operating in storm-prone regions. Related 
 - "Wind damage roofing"
 - "Roofing company that works with insurance"
 
-These keywords connect to our dedicated guide on [storm damage SEO for roofers](/industries/roofing-seo/storm-damage-seo/), which covers the seasonal and reactive strategies that capitalize on weather events.
+These keywords connect to our dedicated guide on [storm damage SEO for roofers](/industries/roofing-seo/), which covers the seasonal and reactive strategies that capitalize on weather events.
 
 ### 5. Commercial Roofing Keywords
 
@@ -106,15 +106,15 @@ Keyword research only produces results when it informs concrete implementation a
 
 ### On Your Website
 
-Each primary keyword cluster should map to a dedicated page. Do not try to rank one page for "roof repair," "roof replacement," and "roof inspection" simultaneously. Create distinct service pages, each optimized for a specific keyword family. Your [roofing website design](/industries/roofing-seo/roofing-website-design/) should build this architecture from the ground up.
+Each primary keyword cluster should map to a dedicated page. Do not try to rank one page for "roof repair," "roof replacement," and "roof inspection" simultaneously. Create distinct service pages, each optimized for a specific keyword family. Your [roofing website design](/industries/roofing-seo/) should build this architecture from the ground up.
 
 ### In Your Google Business Profile
 
-Your GBP listing is often the first touchpoint for roofing searches. The business description, service categories, posts, and Q&A section should all incorporate your priority keywords naturally. Our [Google Business Profile management for roofers](/industries/roofing-seo/roofing-google-business-profile/) guide covers this in detail.
+Your GBP listing is often the first touchpoint for roofing searches. The business description, service categories, posts, and Q&A section should all incorporate your priority keywords naturally. Our [Google Business Profile management for roofers](/industries/roofing-seo/) guide covers this in detail.
 
 ### In Your Content Strategy
 
-Blog posts, guides, and FAQ content should target informational and long-tail keywords that your service pages cannot capture. A post titled "How to Tell If Your Roof Has Hail Damage" targets an informational query that feeds into your storm damage repair service page. This layered approach builds topical authority and captures searchers at every stage of the buying journey. Our [SEO content strategy service](/seo-content-strategy/) designs these content calendars based on keyword research outputs.
+Blog posts, guides, and FAQ content should target informational and long-tail keywords that your service pages cannot capture. A post titled "How to Tell If Your Roof Has Hail Damage" targets an informational query that feeds into your storm damage repair service page. This layered approach builds topical authority and captures searchers at every stage of the buying journey. Our [SEO content strategy service](/services/content-pages/) designs these content calendars based on keyword research outputs.
 
 ### In Local Citations and Directories
 

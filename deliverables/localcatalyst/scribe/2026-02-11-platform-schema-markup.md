@@ -17,7 +17,7 @@
 
 **$197+ | Delivered in 6-12 hours**
 
-[Order Schema Markup](/order/schema-markup/)
+[Order Schema Markup](/free-audit/)
 
 ---
 
@@ -104,7 +104,7 @@ You don't need to worry about whether the code is correct. We test it before you
 Yes. Schema markup doesn't directly change your ranking position, but it dramatically improves your click-through rate by making your listing more prominent and informative. Higher CTR means more traffic from the same ranking position -- and Google notices that.
 
 **Will this work on non-WordPress sites?**
-The generation-only tier works for any website. We deliver clean JSON-LD code that can be added to any HTML page. The deployment tier is currently WordPress only. Shopify and Wix deployment is coming soon.
+The generation-only tier works for any website. We deliver clean JSON-LD code that can be added to any HTML page. The deployment tier is currently WordPress only.
 
 **How long does schema take to appear in search results?**
 After implementation, it typically takes 1-4 weeks for Google to crawl the updated pages and start displaying rich results. We can't control Google's timeline, but proper schema markup is the prerequisite.
@@ -124,7 +124,7 @@ Incorrect schema can trigger manual actions from Google, particularly if it incl
 | Generation Only | $197 | 6-12 hours | JSON-LD code + implementation guide |
 | Generation + WordPress Deployment | $397 | 6-12 hours | Code + installation + verification |
 
-[Order Schema Markup](/order/schema-markup/)
+[Order Schema Markup](/free-audit/)
 
 ---
 

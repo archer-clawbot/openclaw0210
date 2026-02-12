@@ -3,8 +3,8 @@
 **Deliverable:** Blog post (On-Page SEO educational content)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/on-page-seo-checklist/
-**Parent Hub:** /on-page-seo-services/
+**URL:** /learn/on-page-seo-checklist/
+**Parent Hub:** /services/content-pages/
 **Primary Keyword:** on-page SEO checklist
 **Secondary Keywords:** on-page optimization, SEO checklist 2026, on-site SEO factors, page-level SEO, website optimization checklist
 **Title Tag:** Complete On-Page SEO Checklist for 2026 | LocalCatalyst.ai
@@ -14,7 +14,7 @@
 
 ---
 
-On-page SEO remains one of the most controllable levers in your search visibility strategy. Unlike off-page factors that depend on external signals, on-page optimization is entirely within your control, and getting it right can mean the difference between page one rankings and digital obscurity. At LocalCatalyst, our [on-page SEO services](/on-page-seo-services/) are built around a systematic, element-by-element approach that leaves nothing to chance.
+On-page SEO remains one of the most controllable levers in your search visibility strategy. Unlike off-page factors that depend on external signals, on-page optimization is entirely within your control, and getting it right can mean the difference between page one rankings and digital obscurity. At LocalCatalyst, our [on-page SEO services](/services/on-page-optimization/) are built around a systematic, element-by-element approach that leaves nothing to chance.
 
 This checklist covers every on-page factor that matters in 2026. Whether you are optimizing an existing page or building a new one from scratch, follow each section methodically and you will have a page that search engines can understand, index, and rank with confidence.
 
@@ -69,7 +69,7 @@ Proper header structure also helps your content appear in featured snippets. Goo
 
 ## Section 4: Content Optimization
 
-Content is where on-page SEO and user value intersect. Search engines evaluate your content for relevance, depth, originality, and expertise. Our [content strategy services](/seo-content-strategy/) help businesses build content that satisfies both algorithms and audiences.
+Content is where on-page SEO and user value intersect. Search engines evaluate your content for relevance, depth, originality, and expertise. Our [content strategy services](/services/content-pages/) help businesses build content that satisfies both algorithms and audiences.
 
 ### Content Checklist
 
@@ -90,11 +90,11 @@ Clean, descriptive URLs improve both user experience and search engine understan
 ### URL Checklist
 
 - **Keep URLs short and descriptive.** Aim for 3 to 5 words that clearly describe the page content.
-- **Include the primary keyword.** A URL like `/on-page-seo-checklist/` is more informative than `/blog/post-12847/`.
+- **Include the primary keyword.** A URL like `/on-page-seo-checklist/` is more informative than `/learn/post-12847/`.
 - **Use hyphens to separate words.** Hyphens are the standard word separator for URLs. Never use underscores, spaces, or camelCase.
 - **Use lowercase letters only.** Mixed-case URLs can create duplicate content issues on case-sensitive servers.
 - **Avoid unnecessary parameters and session IDs.** Clean, static URLs are easier for search engines to crawl and index.
-- **Maintain a logical folder hierarchy.** URLs like `/blog/on-page-seo-checklist/` communicate site structure to both users and crawlers.
+- **Maintain a logical folder hierarchy.** URLs like `/learn/on-page-seo-checklist/` communicate site structure to both users and crawlers.
 - **Implement redirects when changing URLs.** Any URL change requires a 301 redirect from the old URL to the new one to preserve link equity and prevent 404 errors.
 
 ## Section 6: Image Optimization
@@ -114,7 +114,7 @@ Images enhance user engagement and provide additional ranking opportunities thro
 
 ## Section 7: Internal Linking
 
-Internal links distribute page authority across your site, establish topical relationships between pages, and guide users toward conversion paths. A deliberate [internal linking strategy](/seo-content-strategy/) is essential for both SEO and user experience.
+Internal links distribute page authority across your site, establish topical relationships between pages, and guide users toward conversion paths. A deliberate [internal linking strategy](/services/content-pages/) is essential for both SEO and user experience.
 
 ### Internal Linking Checklist
 
@@ -141,7 +141,7 @@ Structured data helps search engines understand your content at a granular level
 - **Use JSON-LD format for all structured data.** Google recommends JSON-LD as the preferred structured data format over Microdata or RDFa.
 - **Keep schema data consistent with on-page content.** Schema markup must accurately reflect what appears on the page. Misleading structured data can result in manual penalties.
 
-For a comprehensive implementation guide, see our article on [schema markup for local businesses](/blog/schema-markup-local-business/).
+For a comprehensive implementation guide, see our article on [schema markup for local businesses](/learn/schema-markup-local-business/).
 
 ## Section 9: Mobile Optimization
 
@@ -158,7 +158,7 @@ Google uses mobile-first indexing, which means the mobile version of your page i
 
 ## Section 10: Page Speed and Core Web Vitals
 
-Page speed directly impacts both rankings and user experience. Core Web Vitals, which are Google's metrics for loading performance, interactivity, and visual stability, are confirmed ranking factors. Our [technical SEO services](/technical-seo-services/) include comprehensive speed optimization.
+Page speed directly impacts both rankings and user experience. Core Web Vitals, which are Google's metrics for loading performance, interactivity, and visual stability, are confirmed ranking factors. Our [technical SEO services](/services/seo-audit/technical-seo-audit/) include comprehensive speed optimization.
 
 ### Page Speed Checklist
 

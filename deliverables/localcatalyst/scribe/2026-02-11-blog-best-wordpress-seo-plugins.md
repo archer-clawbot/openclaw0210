@@ -3,8 +3,8 @@
 **Deliverable:** Blog post (Website Design educational content)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/best-wordpress-seo-plugins/
-**Parent Hub:** /seo-website-design/
+**URL:** /learn/best-wordpress-seo-plugins/
+**Parent Hub:** /services/website-build/
 **Primary Keyword:** best WordPress SEO plugins
 **Secondary Keywords:** Yoast vs Rank Math, WordPress SEO tools, WordPress schema plugins, WordPress speed plugins, WordPress image optimization
 **Title Tag:** Best WordPress SEO Plugins (2026) | LocalCatalyst.ai
@@ -16,7 +16,7 @@
 
 WordPress powers over 40% of the web, and one of its greatest strengths is its plugin ecosystem. The right SEO plugins transform a basic WordPress installation into a fully optimized, search-engine-friendly platform. The wrong ones, or too many of them, can slow your site down and create conflicts that hurt more than they help.
 
-This guide ranks and compares the essential WordPress SEO plugins across every category that matters: core SEO, schema markup, speed optimization, image optimization, and security. Whether you are building a new WordPress site as part of your [SEO website design](/seo-website-design/) strategy or optimizing an existing one, these are the plugins that deliver measurable results.
+This guide ranks and compares the essential WordPress SEO plugins across every category that matters: core SEO, schema markup, speed optimization, image optimization, and security. Whether you are building a new WordPress site as part of your [SEO website design](/services/website-build/) strategy or optimizing an existing one, these are the plugins that deliver measurable results.
 
 ## Core SEO Plugins: The Big Three
 
@@ -113,7 +113,7 @@ Rank Math's built-in schema module handles most schema needs without an addition
 
 ## Speed Optimization Plugins
 
-Page speed directly affects both rankings and [conversion rates](/blog/website-speed-conversion-rates/). WordPress sites benefit significantly from caching and optimization plugins.
+Page speed directly affects both rankings and [conversion rates](/learn/website-speed-conversion-rates/). WordPress sites benefit significantly from caching and optimization plugins.
 
 ### WP Rocket
 
@@ -229,7 +229,7 @@ Install new plugins on a staging site before adding them to your live site. Plug
 
 ### Monitor Performance Impact
 
-After installing any new plugin, test your site speed to ensure the plugin has not introduced significant overhead. Use the performance measurement tools described in our [website speed guide](/blog/website-speed-conversion-rates/) to establish baselines and track changes.
+After installing any new plugin, test your site speed to ensure the plugin has not introduced significant overhead. Use the performance measurement tools described in our [website speed guide](/learn/website-speed-conversion-rates/) to establish baselines and track changes.
 
 ## Frequently Asked Questions
 

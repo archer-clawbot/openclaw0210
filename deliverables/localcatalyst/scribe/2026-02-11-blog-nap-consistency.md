@@ -3,8 +3,8 @@
 **Deliverable:** Blog post (On-Page SEO educational content)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/nap-consistency/
-**Parent Hub:** /on-page-seo-services/
+**URL:** /learn/nap-consistency/
+**Parent Hub:** /services/content-pages/
 **Primary Keyword:** NAP consistency SEO
 **Secondary Keywords:** NAP consistency, name address phone SEO, NAP citations, business listing consistency, local SEO NAP, consistent business information
 **Title Tag:** NAP Consistency for SEO: Complete Guide | LocalCatalyst.ai
@@ -14,7 +14,7 @@
 
 ---
 
-NAP consistency is one of the foundational signals in local search. When your business Name, Address, and Phone number appear identically across your website, Google Business Profile, and every directory listing on the web, search engines gain confidence in your business entity. When that information is inconsistent, even slightly, it creates doubt. That doubt translates directly into weaker local rankings. Our [on-page SEO services](/on-page-seo-services/) include NAP auditing because we see inconsistent business information undermine local SEO performance more often than most businesses realize.
+NAP consistency is one of the foundational signals in local search. When your business Name, Address, and Phone number appear identically across your website, Google Business Profile, and every directory listing on the web, search engines gain confidence in your business entity. When that information is inconsistent, even slightly, it creates doubt. That doubt translates directly into weaker local rankings. Our [on-page SEO services](/services/on-page-optimization/) include NAP auditing because we see inconsistent business information undermine local SEO performance more often than most businesses realize.
 
 This guide explains what NAP consistency means in practice, why it matters for search rankings, how to audit your current state, and how to fix the most common inconsistencies.
 
@@ -120,7 +120,7 @@ Several tools can automate the discovery process:
 - **Yext** scans its publisher network for listing accuracy
 - **Manual Google searches** for your business name, phone number, and address variations can reveal citations these tools miss
 
-For businesses that want a comprehensive audit without the manual effort, our [citation building services](/citation-building-services/) include full NAP auditing as a foundational step.
+For businesses that want a comprehensive audit without the manual effort, our [citation building services](/services/citation-building/) include full NAP auditing as a foundational step.
 
 ## Common NAP Inconsistencies and How to Fix Them
 

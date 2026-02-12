@@ -30,7 +30,7 @@
       "to": "channel:silas"
     },
     "sessionId": "7bb5ce79-9d7c-4a99-a5db-0a6b97fea4a5",
-    "updatedAt": 1770695887233,
+    "updatedAt": 1770780993960,
     "deliveryContext": {
       "channel": "slack"
     },
@@ -53,5 +53,22 @@
     "inputTokens": 14,
     "outputTokens": 623,
     "totalTokens": 37393
+  },
+  "agent:silas:main": {
+    "sessionId": "27d15a8f-8c87-478c-aa61-1c02dcd48a6d",
+    "updatedAt": 1770781011651,
+    "skillsSnapshot": {
+      "prompt": "",
+      "skills": [],
+      "resolvedSkills": [],
+      "version": 0
+    },
+    "modelProvider": "anthropic",
+    "model": "claude-sonnet-4-5",
+    "contextTokens": 1000000,
+    "abortedLastRun": false,
+    "inputTokens": 12,
+    "outputTokens": 729,
+    "totalTokens": 103792
   }
 }

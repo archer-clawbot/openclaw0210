@@ -1,0 +1,1042 @@
+SEO is the new way to rank number one in
+
+
+AI search engines. Not Google not being
+
+
+AI search engines like Chat GPT,
+
+
+Plexity, Claude, and AIO overviews and
+
+
+the ones everyone is now using instead
+
+
+of Google. And here's the crazy part. No
+
+
+one is talking about this yet. Over the
+
+
+next few minutes, I'm going to show you
+
+
+exactly how I use YouTube videos to rank
+
+
+inside AI search results. You can see an
+
+
+example here. We're ranking on the first
+
+
+page of Google one, two, three times on
+
+
+Google for that particular keyword. And
+
+
+you can see how easy it is to really
+
+
+pull your videos in and get results with
+
+
+this. The powerful thing about videos is
+
+
+they can rank inside Google, but they
+
+
+can also rank inside AIO views. So, for
+
+
+example, if we type in notebook LM
+
+
+update here, it pulls in an AIO view.
+
+
+And who does it link to? It links to
+
+
+Google and it also links to my videos as
+
+
+well. So, videos are really powerful for
+
+
+ranking with SEO. You can also see me
+
+
+ranking once there as well. And then
+
+
+also on the first page of Google as
+
+
+well, right? And so this is a powerful
+
+
+way to start getting ranking really
+
+
+quickly. Okay? And what I'm going to
+
+
+show you today is basically how you can
+
+
+do this without being on camera, without
+
+
+spending thousands on video production,
+
+
+without needing any technical skills.
+
+
+And I will show you how to automate AI
+
+
+avatar videos that actually rank videos
+
+
+that show up when someone asks chat or
+
+
+perplexity a question about your niche.
+
+
+And think about this for a second,
+
+
+right? Billions of searches are
+
+
+happening every single day, right? On AI
+
+
+platforms, right? and your video could
+
+
+be the one that gets recommended. Not
+
+
+because you paid for ads, not because
+
+
+you got lucky with the algorithm, but
+
+
+because you understood how AI search
+
+
+engines actually find and recommend
+
+
+content. So, I'm going to walk you
+
+
+through my exact system, the free tools,
+
+
+the prompts, the 30-day to get your
+
+
+first videos ranking in AI search, and
+
+
+you will see everything live on screen,
+
+
+just the actual process I use, so that
+
+
+by the end of this, you have a complete
+
+
+framework that you can copy and steal
+
+
+from me. Whether you run a service
+
+
+business, sell products, you have an
+
+
+agency, or you just want more eyeballs
+
+
+on your content, this works even if
+
+
+you've never made a video before. Let's
+
+
+get straight into it. So, the method
+
+
+that we're actually going to be using
+
+
+today is something called the video AI
+
+
+domination framework. Okay? And one
+
+
+thing to note here is that AI search
+
+
+engines, they don't work like Google,
+
+
+right? They don't just look at keywords
+
+
+and backlinks. They understand context,
+
+
+relevance, authority in a completely
+
+
+different way. So, when someone asks ch
+
+
+question, it pulls from sources it
+
+
+trusts. Now, YouTube is one of those
+
+
+sources. Perplexi actively searches
+
+
+YouTube for answers. Let me show you an
+
+
+example of this. So, we go on to Plexi
+
+
+here and we'll put like notebook AI
+
+
+updates, something like that. What you
+
+
+can see here is that it actually sources
+
+
+updates from YouTube, right? So, if we
+
+
+look at the reviewed sources here, you
+
+
+can see that it's pulled in three
+
+
+different videos from YouTube inside
+
+
+Perplexity, right? So, if we have a look
+
+
+here, you've got this video and this is
+
+
+a video from Julian Goldie SEO, as you
+
+
+can see. So, that's my channel right
+
+
+there. If we go over to this video, you
+
+
+can also see that's another video from
+
+
+us as well, ranking inside Plexity,
+
+
+right? And so we're ranking on Google
+
+
+and we're also ranking inside Perplexity
+
+
+using this method. And Claude references
+
+
+video content in its responses, too. So
+
+
+this is a massive shift. The game has
+
+
+changed and most people haven't caught
+
+
+on yet. Now, why does video crush text
+
+
+AI search? AI systems love video content
+
+
+for three reasons. Number one, video has
+
+
+multiple signals. you know, it's got
+
+
+audio, visual transcripts, engagement
+
+
+metrics. There's more data points for AI
+
+
+to understand your content. Second,
+
+
+video builds trust faster. So, AI
+
+
+systems recognize that video creators
+
+
+put more effort in and that signals
+
+
+authority. Number three, video gets
+
+
+cited more. So, when AI needs to
+
+
+recommend a source, video feels more
+
+
+complete than a blog post. And bear in
+
+
+mind, AI can generate a blog post at any
+
+
+time. It doesn't really need to
+
+
+reference blog posts, but it doesn't
+
+
+create long videos with interesting case
+
+
+studies. Right? One of the things people
+
+
+going to say is I need expensive
+
+
+equipment to make good videos. But
+
+
+actually AI avatar videos, create
+
+
+professional videos for free. You can
+
+
+actually go on to something like
+
+
+notebook and you can generate videos for
+
+
+free using this method and then rank
+
+
+them on Google which then in turn ranks
+
+
+inside AI search engines and other
+
+
+places. Right? So for example, if we
+
+
+have a look here, we've got the video on
+
+
+the right hand side. This was actually
+
+
+from a video I generated earlier today.
+
+
+This is actually AI narrated and it's a
+
+
+full long video like 6 minutes 26
+
+
+seconds. And you can see this runs
+
+
+people through the topic that we're
+
+
+trying to rank for, right? So, how to
+
+
+watch football like a scout. And so, it
+
+
+creates the design, it narrates a video,
+
+
+it generates everything, and all we need
+
+
+to do is pull in the sources that we
+
+
+want to reference. And then we can
+
+
+easily download this, as you can see,
+
+
+and we're good to go. You could upload
+
+
+that to YouTube. The other method that
+
+
+you can see is that on our YouTube
+
+
+channel, for example, if we check out
+
+
+this YouTube channel, we quite often use
+
+
+AI avatar videos inside our content.
+
+
+Right now, how do you do that? We
+
+
+actually have a full method inside the
+
+
+AI profit boardroom that shows you
+
+
+exactly how to do this in the AI avatar
+
+
+video section. If you go to the
+
+
+classroom here inside the AI profit
+
+
+boardroom link in the comments
+
+
+description, go to the playbook and then
+
+
+scroll down to the AI avatar video
+
+
+section and you can find the right
+
+
+there. Okay, so if you want to learn our
+
+
+process for doing this, you can check it
+
+
+out inside the AR profit boardroom. But
+
+
+it's quite easy to automate videos.
+
+
+Again, you can do it for free with
+
+
+notebook. I've already shown you how to
+
+
+do that and so you can create
+
+
+professional videos for free. So it's a
+
+
+really powerful way. Now some people
+
+
+said YouTube is too competitive to start
+
+
+right now. AI search is a new platform
+
+
+with almost zero competition. When I
+
+
+started out in SEO, everyone said Google
+
+
+was too competitive. Too many websites,
+
+
+too many established players. I ignored
+
+
+them, built an agency, helped my mom
+
+
+retire, and now I reach over 100 million
+
+
+people per year across all platforms.
+
+
+Right? So the lesson is competition is
+
+
+not your problem. Timing is your
+
+
+opportunity. AI search is where YouTube
+
+
+was 10 years ago. It's wide open, right?
+
+
+And waiting for someone to claim the
+
+
+space. And that someone could be you.
+
+
+Also, some people will say like video
+
+
+SEO takes months to see results. But the
+
+
+new belief really is that AI search can
+
+
+surface your content within days, right?
+
+
+So, if we go back here and we look at
+
+
+this content, guess what's ranking
+
+
+number one for this particular keyword?
+
+
+Well, it's my video right here. When was
+
+
+the video created? 4 hours ago, as you
+
+
+can see right there. And so, this
+
+
+content ranks very quickly indeed. And
+
+
+that was within 4 hours. So, traditional
+
+
+SEO is very slow, right? And I know this
+
+
+better than anyone. I run an SEO agency.
+
+
+We tell clients to expect 90 days
+
+
+minimum. But AI search is a different
+
+
+game. Complexity updates in real time.
+
+
+Chat GPT pulls in from recent sources
+
+
+and your video could get cited within
+
+
+days of publishing. And this is why a
+
+
+block like 100 minutes plus per day
+
+
+every day to focus on the biggest
+
+
+constraint in my business. And right now
+
+
+that constraint for most people is not
+
+
+being visible in AI search of people say
+
+
+I need thousands of subscribers. But AI
+
+
+search cares about content quality not
+
+
+subscriber counts. I have 300,000 plus
+
+
+subscribers on YouTube and here's what I
+
+
+noticed is like some of my newer videos
+
+
+with fewer views actually get cited by
+
+
+AI more than my viral ones, right? And
+
+
+why is that? It's because AI looks at
+
+
+relevance and quality, not vanity
+
+
+metrics. So, you know, a video with 500
+
+
+views that perfectly answers a specific
+
+
+question will beat a video with 500,000
+
+
+views that's too broad. And this is
+
+
+great news for you so you can compete
+
+
+from day one. So, let's talk about a
+
+
+90-day framework in terms of how you can
+
+
+implement this. You want to start
+
+
+finding questions that people are
+
+
+looking for. I actually got a prompt to
+
+
+automate that. The other thing you can
+
+
+do is you can go into Google and you can
+
+
+just look through the auto suggests and
+
+
+see what people are searching around
+
+
+your niche. Right? So if I'm in the AI
+
+
+niche and I'm trying to create content
+
+
+around notebookm
+
+
+like all these different updates around
+
+
+it, right? And that's how you do the
+
+
+keyword research. What you can do is you
+
+
+can go to chat GPT. You can plug in a
+
+
+keyword here and then you can go from
+
+
+there. Wilty says, "What can AI money
+
+
+lab help me do until I'm ready for the
+
+
+AI profit lab?" Yeah. So that like
+
+
+inside the AI success lab, right? If you
+
+
+go here, what you're going to find is
+
+
+like a number one, you get a community
+
+
+of 42,000 people that you just connect
+
+
+with instantly. So, you can post in the
+
+
+community, ask for help and support. You
+
+
+also get access to our free AI
+
+
+automation master classes like you see
+
+
+on pretty much every single AI
+
+
+technology out there. This section, we
+
+
+update it daily with the new updates.
+
+
+So, everything you need to know about AI
+
+
+is inside this section. We have a full
+
+
+section on what you can see here, right?
+
+
+So, how to make money with AI. And then
+
+
+also inside the classroom, you can see
+
+
+that we have a full section on AI SEO as
+
+
+well. So everything you need to succeed
+
+
+AI is inside this community and it's
+
+
+completely free link in the comments
+
+
+description. So if we go back to chat
+
+
+now we can say at a market researcher
+
+
+put your niche in there. So we're going
+
+
+to put in for example like SEO and then
+
+
+we can start publishing this and just
+
+
+getting some keywords right says looks
+
+
+like great content. Thanks very much.
+
+
+And then you see it finds a bunch of
+
+
+keywords you could potentially rank for.
+
+
+Super specific. I'll almost say they're
+
+
+too long tail but if you want to start
+
+
+somewhere you can start there. All
+
+
+right. And then if you want to generate
+
+
+the videos well you can use hey genen or
+
+
+you can use notebook them for ranking
+
+
+and you just make sure on the content
+
+
+itself for example if we have a look at
+
+
+Julian go agents that you include the
+
+
+keywords inside the content right so you
+
+
+can see here keyword right there right
+
+
+frontloaded inside the title keyword
+
+
+right there boom here we go right if we
+
+
+actually type that keyword on Google
+
+
+let's have a look here so how to do this
+
+
+we'll see whether it ranks and let's see
+
+
+what we got here yeah you can see that
+
+
+my LinkedIn article is ranking for that
+
+
+keyword on the first page of Google
+
+
+along with that page as well, right? And
+
+
+bear in mind these pages are created
+
+
+from the video content itself. So if we
+
+
+have a look at this page, you can see
+
+
+our video is embedded on the page. So
+
+
+it's pretty easy to create the content
+
+
+and then just rank it either with your
+
+
+blog or with your video as well. Cool
+
+
+thing is like you can create blogs from
+
+
+the videos and then rank those as well.
+
+
+So that's basically it. That's the whole
+
+
+process of doing this. How to implement
+
+
+it. I've talked about the 30-day
+
+
+framework and the old way versus the new
+
+
+way. The old way was spent thousands on
+
+
+camera equipment and lighting. The new
+
+
+way is you can use free AI avatar videos
+
+
+to create professional videos instantly.
+
+
+The old way was you need to look good on
+
+
+camera and be comfortable speaking. The
+
+
+new way is AI avatars handle the
+
+
+delivery. You just write the script. The
+
+
+new way is generating videos that come
+
+
+ready to upload. And then when it comes
+
+
+to ranking inside Google or other AI
+
+
+search engines, the old way was like
+
+
+waiting 6 to 12 months for Google to
+
+
+rank your content. The new AI search can
+
+
+surface your video days as I've shown
+
+
+you today. Right? The old way was
+
+
+competing against millions of websites
+
+
+for keywords. The new way AI search is
+
+
+almost zero competition rate. The old
+
+
+way was needing expensive backlinks to
+
+
+rank. The new way is AI search values
+
+
+content quality and link metrics. The
+
+
+old way was fighting algorithm changes
+
+
+to tank your websites overnight. And the
+
+
+new way is like AI searches focus on
+
+
+relevance, not gaming the system. So you
+
+
+got all the strategies, all the
+
+
+processes, all the systems from today,
+
+
+the 30-day plan and how to implement
+
+
+this yourself. If you want us to do SEO
+
+
+for you, we actually have an offer of a
+
+
+free SEO strategy session. So, you can
+
+
+book in a free SEO strategy session,
+
+
+link in the comments description. Or if
+
+
+you don't even want to jump on a call,
+
+
+you just want to order straight away and
+
+
+get SEO services for your website, you
+
+
+can order via the backlink portal, as
+
+
+you can see right here. Just order
+
+
+instantly online. Also, if you want to
+
+
+get all the video notes from today, it's
+
+
+inside the AI success lab. This is
+
+
+completely free and it shows you exactly
+
+
+how to do AI SEO for your website. as
+
+
+you can see, breaks down all the best
+
+
+ways to use AI, including the video
+
+
+notes from today. So, feel free to get
+
+
+that link in the comments in
+
+
+description. And thanks for watching. I
+
+
+will see you on the next one. Cheers.

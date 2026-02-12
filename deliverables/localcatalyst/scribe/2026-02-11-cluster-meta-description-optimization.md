@@ -3,22 +3,22 @@
 **Deliverable:** Service sub-page (cluster)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /on-page-seo-services/meta-description-optimization/
-**Parent Hub:** /on-page-seo-services/
+**URL:** /services/content-pages/meta-description-optimization/
+**Parent Hub:** /services/content-pages/
 **Primary Keyword:** meta description optimization
 **Secondary Keywords:** meta description best practices, SEO meta descriptions, meta description length, meta description CTR, write meta descriptions
-**Title Tag:** Meta Description Optimization — Write Descriptions That Get Clicks | LocalCatalyst.ai
+**Title Tag:** Meta Description Optimization Guide | LocalCatalyst
 **Meta Description:** Meta descriptions are your ad copy in organic search. Learn character limits, proven formulas, CTR impact, and how to prevent Google from rewriting yours.
 **H1:** Meta Description Optimization: Write the Copy That Converts Impressions to Clicks
 **Word Count Target:** 1,200
 
 ---
 
-*Breadcrumbs: [Home](/) > [On-Page SEO Services](/on-page-seo-services/) > Meta Description Optimization*
+*Breadcrumbs: [Home](/) > [On-Page SEO Services](/services/on-page-optimization/) > Meta Description Optimization*
 
 ## Meta Description Optimization: Write the Copy That Converts Impressions to Clicks
 
-Your meta description is the two-line pitch that appears beneath your title tag in search results. It is not a direct ranking factor — Google has confirmed this repeatedly — but it is one of the most important elements on your page for a different reason: it determines whether people click your result or a competitor's. Click-through rate (CTR) is a behavioral signal that does influence rankings over time, which makes meta description optimization an indirect but powerful ranking lever. As part of our [on-page SEO services](/on-page-seo-services/), we treat meta descriptions as conversion copy, not an afterthought.
+Your meta description is the two-line pitch that appears beneath your title tag in search results. It is not a direct ranking factor — Google has confirmed this repeatedly — but it is one of the most important elements on your page for a different reason: it determines whether people click your result or a competitor's. Click-through rate (CTR) is a behavioral signal that does influence rankings over time, which makes meta description optimization an indirect but powerful ranking lever. As part of our [on-page SEO services](/services/on-page-optimization/), we treat meta descriptions as conversion copy, not an afterthought.
 
 The math is straightforward. If your page ranks #4 for a keyword that gets 1,000 searches per month, the average CTR for position #4 is roughly 8% — that is 80 clicks. A compelling meta description that increases your CTR by just 30% delivers 104 clicks from the same position. Now multiply that improvement across every page on your site and every keyword you rank for. Meta description optimization produces measurable traffic gains without changing a single ranking position.
 
@@ -56,7 +56,7 @@ Every effective meta description contains three components:
 
 **Homepage:**
 "[Brand positioning]. [Core service offering]. [Geographic scope]. [CTA + trust]."
-*Example:* "LocalCatalyst.ai — AI-powered local SEO for businesses that want to dominate their market. Map Pack rankings, GBP optimization, and measurable growth. Free audit available."
+*Example:* "LocalCatalyst.ai — AI-powered local SEO for businesses that want to dominate their market. Map Pack rankings, GBP optimization, and measurable growth. SEO audit available."
 
 ### Words and Phrases That Increase CTR
 
@@ -126,7 +126,7 @@ Google Search Console provides the data needed to measure meta description effec
 3. **Compare CTR** — Measure CTR changes over a 30-day window post-implementation
 4. **Iterate** — Descriptions that do not improve CTR get revised and tested again
 
-We track CTR improvements as part of our on-page optimization reporting. Pages with [optimized title tags](/on-page-seo-services/title-tag-optimization/) and meta descriptions together consistently outperform pages where only one element is optimized — the combination of a click-worthy title and a compelling description produces the strongest CTR gains.
+We track CTR improvements as part of our on-page optimization reporting. Pages with [optimized title tags](/services/content-pages/title-tag-optimization/) and meta descriptions together consistently outperform pages where only one element is optimized — the combination of a click-worthy title and a compelling description produces the strongest CTR gains.
 
 ## FAQ
 
@@ -140,7 +140,7 @@ Aim for 150-155 characters. This maximizes the visible display space without ris
 
 ### Should I include my brand name in every meta description?
 
-Only if space permits and it adds trust value. For well-known local brands, the name adds credibility. For newer businesses, those characters are better spent on benefits and CTAs. The [header tag structure](/on-page-seo-services/header-tag-optimization/) and title tag already communicate your brand — the description should focus on persuading the click.
+Only if space permits and it adds trust value. For well-known local brands, the name adds credibility. For newer businesses, those characters are better spent on benefits and CTAs. The [header tag structure](/services/content-pages/header-tag-optimization/) and title tag already communicate your brand — the description should focus on persuading the click.
 
 ### How often should I update meta descriptions?
 

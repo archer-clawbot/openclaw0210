@@ -4,14 +4,17 @@
 **Deliverable:** Service sub-page (cluster)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** `/seo-content-strategy/service-page-copywriting/`
-**Parent Hub:** `/seo-content-strategy/`
+**URL:** `/services/content-pages/service-page-copywriting/`
+**Parent Hub:** `/services/content-pages/`
+**Title Tag:** SEO Service Page Copywriting — Rank & Convert | LocalCatalyst
+**Meta Description:** Service page copywriting that ranks at the top of Google and converts visitors into customers. Balance SEO authority with conversion optimization.
+**H1:** Service Pages That Rank and Convert
 **Primary Keyword:** SEO service page copywriting
 **Word Count Target:** 1,500
 
 ---
 
-> **Home > [SEO Content Strategy](/seo-content-strategy/) > Service Page Copywriting**
+> **Home > [SEO Content Strategy](/services/content-pages/) > Service Page Copywriting**
 
 ## Service Pages That Rank and Convert
 
@@ -19,7 +22,7 @@ Your service pages are the highest-converting pages on your website. They're whe
 
 Most local businesses get this wrong. Their service pages are 200-word descriptions that read like a brochure, rank for nothing, and convert nobody. Or worse, they're keyword-stuffed walls of text that feel like they were written for Google, not for the person about to spend $5,000 on a kitchen remodel.
 
-At LocalCatalyst, service page copywriting is a core component of our [SEO content strategy](/seo-content-strategy/). We write service pages that balance two demands: ranking authority that puts you at the top of Google and conversion copy that turns visitors into customers. These demands aren't in conflict — they're complementary when you know what you're doing.
+At LocalCatalyst, service page copywriting is a core component of our [SEO content strategy](/services/content-pages/). We write service pages that balance two demands: ranking authority that puts you at the top of Google and conversion copy that turns visitors into customers. These demands aren't in conflict — they're complementary when you know what you're doing.
 
 **[Order Your SEO Audit](/services/seo-audit/)** — We'll evaluate your current service pages and show you exactly where they're losing rankings and conversions.
 
@@ -141,7 +144,7 @@ For local businesses, service pages must signal geographic relevance. Our local 
 - **Geo-modified headings** where natural (H2: "AC Repair Services in Dallas-Fort Worth")
 - **LocalBusiness schema markup** with service area definitions
 
-This local integration supports your broader [local SEO strategy](/local-seo-services/) and works hand-in-hand with your [Google Business Profile optimization](/google-business-profile-management/) to strengthen geographic relevance signals.
+This local integration supports your broader [local SEO strategy](/services/) and works hand-in-hand with your [Google Business Profile optimization](/services/gbp-optimization/) to strengthen geographic relevance signals.
 
 ---
 
@@ -155,7 +158,7 @@ Every service page we write includes structured data markup that helps Google un
 - **Review schema** — Aggregate rating and review snippets (where applicable)
 - **BreadcrumbList schema** — Navigation hierarchy for site structure signals
 
-Schema markup doesn't directly boost rankings, but it earns rich results that increase click-through rates by 20-30%. A service page with star ratings, FAQ dropdowns, and breadcrumbs in the SERP commands attention that plain results don't. We coordinate schema implementation with your [technical SEO](/technical-seo/) to ensure everything validates correctly.
+Schema markup doesn't directly boost rankings, but it earns rich results that increase click-through rates by 20-30%. A service page with star ratings, FAQ dropdowns, and breadcrumbs in the SERP commands attention that plain results don't. We coordinate schema implementation with your [technical SEO](/services/seo-audit/technical-seo-audit/) to ensure everything validates correctly.
 
 ---
 
@@ -163,7 +166,7 @@ Schema markup doesn't directly boost rankings, but it earns rich results that in
 
 ### How many service pages does my business need?
 
-One page per core service, minimum. If you offer roof repair, roof replacement, and roof inspection, those are three separate pages — not one "Roofing Services" page trying to cover everything. Sub-services with meaningful search volume deserve their own pages too. We'll identify the optimal page structure during your [content strategy audit](/seo-content-strategy/).
+One page per core service, minimum. If you offer roof repair, roof replacement, and roof inspection, those are three separate pages — not one "Roofing Services" page trying to cover everything. Sub-services with meaningful search volume deserve their own pages too. We'll identify the optimal page structure during your [content strategy audit](/services/content-pages/).
 
 ### Should service pages be long or short?
 
@@ -179,12 +182,12 @@ They're not in conflict. Google rewards content that satisfies user intent — a
 
 ### How long until rewritten service pages show ranking improvements?
 
-After publication, Google typically recrawls and reindexes updated pages within 1-2 weeks. Ranking improvements from optimized service pages usually appear within 4-8 weeks, with continued improvement as your site's [topical authority](/seo-content-strategy/topical-authority/) grows through supporting blog content and [link building](/link-building-services/).
+After publication, Google typically recrawls and reindexes updated pages within 1-2 weeks. Ranking improvements from optimized service pages usually appear within 4-8 weeks, with continued improvement as your site's [topical authority](/services/content-pages/topical-authority/) grows through supporting blog content and [link building](/managed/).
 
 ---
 
 ## Your Service Pages Are Your Revenue Pages
 
-Every other page on your site exists to support your service pages — blog content builds authority, [links build trust](/link-building-services/), technical optimization ensures crawlability, and your Google Business Profile drives map visibility. But the service pages are where revenue happens.
+Every other page on your site exists to support your service pages — blog content builds authority, [links build trust](/managed/), technical optimization ensures crawlability, and your Google Business Profile drives map visibility. But the service pages are where revenue happens.
 
 **[Order Your SEO Audit](/services/seo-audit/)** — We'll evaluate every service page on your site and show you exactly where you're leaving rankings and revenue on the table.

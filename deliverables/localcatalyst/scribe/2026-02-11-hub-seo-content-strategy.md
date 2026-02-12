@@ -86,7 +86,7 @@ Within 6 months, their organic traffic increased 340%. Within 9 months, they ran
 
 ## LocalCatalyst's Content Framework
 
-Our content strategy process is built into our [CATALYST Methodology](/local-seo-services/) — the same framework we use across all our services. Here's how it works for content:
+Our content strategy process is built into our [CATALYST Methodology](/services/) — the same framework we use across all our services. Here's how it works for content:
 
 ### 1. Audit: Content Gap Analysis and Competitive Intelligence
 
@@ -144,7 +144,7 @@ Your core money pages. Each service page is a conversion-optimized asset targeti
 
 **Example:** An HVAC company's "AC Repair" page built as a 1,500-word resource covering types of repairs, pricing transparency, emergency service details, and service area — ranking for 30+ related keywords instead of just one.
 
-[Learn more about our service page copywriting](/seo-content-strategy/service-page-copywriting/)
+[Learn more about our service page copywriting](/services/content-pages/service-page-copywriting/)
 
 ### Location Pages
 
@@ -152,13 +152,13 @@ For businesses serving multiple areas, location pages are essential. But Google 
 
 **Example:** A plumbing company serving 12 suburbs. Instead of 12 identical pages with swapped city names, we create 12 genuinely unique pages — each referencing local building codes, common plumbing issues specific to the area's housing stock, and neighborhood-specific service details.
 
-[Learn more about location page content](/seo-content-strategy/location-page-content/)
+[Learn more about location page content](/services/content-pages/location-page-content/)
 
 ### Blog Posts and Resource Guides
 
 Strategic blog content targets informational keywords that your potential customers search for during the awareness and consideration stages. Every blog post serves a purpose within the larger content architecture — supporting a pillar page, targeting a specific keyword cluster, or answering questions that drive AI Overview citations.
 
-[Learn more about our blog writing services](/seo-content-strategy/blog-writing-services/)
+[Learn more about our blog writing services](/services/content-pages/blog-writing-services/)
 
 ### FAQ Content
 
@@ -233,7 +233,7 @@ We audit your full content portfolio quarterly and recommend pruning (removing, 
 - Falls below minimum quality standards
 - No longer aligns with your business offerings
 
-Learn more about this process in our guide: [Content Pruning for SEO](/blog/content-pruning-seo/).
+Learn more about this process in our guide: [Content Pruning for SEO](/learn/content-pruning-seo/).
 
 ---
 
@@ -266,7 +266,7 @@ We don't use AI for:
 
 Google's guidance is clear: it's about quality, not how the content was made. We agree. Our AI-assisted process produces higher-quality content faster — which means you get better results at a lower cost. But the strategy, expertise, and quality control are always human.
 
-Read more: [AI Content and SEO — What Actually Matters](/blog/ai-content-seo/)
+Read more: [AI Content and SEO — What Actually Matters](/learn/ai-content-seo/)
 
 ---
 
@@ -324,7 +324,7 @@ Every SEO Content Strategy engagement includes:
 - Schema markup implementation (FAQ, Article, HowTo)
 - AI Overview optimization for applicable content
 - Internal linking strategy execution
-- On-page SEO optimization ([title tags, meta descriptions, headers, images](/on-page-seo/))
+- On-page SEO optimization ([title tags, meta descriptions, headers, images](/services/content-pages/))
 
 ### Ongoing Optimization
 - Monthly content performance reporting
@@ -341,10 +341,10 @@ Every SEO Content Strategy engagement includes:
 - Direct communication with your content strategist
 
 ### Integration with Other Services
-- Content strategy aligned with [local SEO efforts](/local-seo-services/) for maximum impact
-- Content optimized for technical SEO requirements ([site speed, crawlability, schema](/technical-seo/))
-- Content supporting [link building initiatives](/link-building-services/) as linkable assets
-- Content informed by [SEO audit findings](/seo-audit/) for continuous improvement
+- Content strategy aligned with [local SEO efforts](/services/) for maximum impact
+- Content optimized for technical SEO requirements ([site speed, crawlability, schema](/services/seo-audit/))
+- Content supporting [link building initiatives](/managed/) as linkable assets
+- Content informed by [SEO audit findings](/services/seo-audit/) for continuous improvement
 
 ---
 
@@ -380,7 +380,7 @@ We handle everything. Our team writes all content based on the strategy we devel
 
 ### How is this different from hiring a freelance writer?
 
-A freelance writer produces content. We build content systems. The difference is strategy, architecture, and integration. A freelance writer doesn't conduct keyword research, build pillar-cluster architectures, implement schema markup, optimize for AI Overviews, track rankings, refresh declining content, or integrate content with your broader [SEO strategy](/local-seo-services/). We do all of that. The content itself is just one component of the larger system.
+A freelance writer produces content. We build content systems. The difference is strategy, architecture, and integration. A freelance writer doesn't conduct keyword research, build pillar-cluster architectures, implement schema markup, optimize for AI Overviews, track rankings, refresh declining content, or integrate content with your broader [SEO strategy](/services/). We do all of that. The content itself is just one component of the larger system.
 
 ### Can you work with content we've already published?
 
@@ -405,22 +405,22 @@ We track organic traffic, keyword rankings, and — most importantly — convers
 This pillar page is supported by the following cluster pages and blog posts:
 
 ### Cluster Service Pages
-- [Blog Writing Services](/seo-content-strategy/blog-writing-services/) — Strategic blog content creation for local businesses
-- [Service Page Copywriting](/seo-content-strategy/service-page-copywriting/) — Conversion-optimized service page creation
-- [Location Page Content](/seo-content-strategy/location-page-content/) — Unique, locally relevant location page development
-- [Topical Authority Building](/seo-content-strategy/topical-authority/) — Comprehensive topic cluster development
+- [Blog Writing Services](/services/content-pages/blog-writing-services/) — Strategic blog content creation for local businesses
+- [Service Page Copywriting](/services/content-pages/service-page-copywriting/) — Conversion-optimized service page creation
+- [Location Page Content](/services/content-pages/location-page-content/) — Unique, locally relevant location page development
+- [Topical Authority Building](/services/content-pages/topical-authority/) — Comprehensive topic cluster development
 
 ### Supporting Blog Posts
-- [How to Build Topical Authority for Local SEO](/blog/how-to-build-topical-authority/)
-- [Content Gap Analysis: Finding Your Hidden Opportunities](/blog/content-gap-analysis/)
-- [E-E-A-T Content Guidelines for Local Businesses](/blog/eeat-content-guidelines/)
-- [Content Pruning for SEO: When to Cut and When to Keep](/blog/content-pruning-seo/)
-- [AI Content and SEO: What Actually Matters in 2026](/blog/ai-content-seo/)
-- [Local Content Marketing Ideas That Drive Real Results](/blog/local-content-marketing-ideas/)
-- [Cornerstone Content Strategy for Local Businesses](/blog/cornerstone-content-strategy/)
+- [How to Build Topical Authority for Local SEO](/learn/how-to-build-topical-authority/)
+- [Content Gap Analysis: Finding Your Hidden Opportunities](/learn/content-gap-analysis/)
+- [E-E-A-T Content Guidelines for Local Businesses](/learn/eeat-content-guidelines/)
+- [Content Pruning for SEO: When to Cut and When to Keep](/learn/content-pruning-seo/)
+- [AI Content and SEO: What Actually Matters in 2026](/learn/ai-content-seo/)
+- [Local Content Marketing Ideas That Drive Real Results](/learn/local-content-marketing-ideas/)
+- [Cornerstone Content Strategy for Local Businesses](/learn/cornerstone-content-strategy/)
 
 ### Related Hub Pages
-- [Local SEO Services](/local-seo-services/) — Comprehensive local search optimization
-- [On-Page SEO Services](/on-page-seo/) — Technical on-page optimization
-- [Link Building Services](/link-building-services/) — Authority-building through backlinks
-- [SEO Audit Services](/seo-audit/) — Technical and strategic site audits
+- [Local SEO Services](/services/) — Comprehensive local search optimization
+- [On-Page SEO Services](/services/on-page-optimization/) — Technical on-page optimization
+- [Link Building Services](/managed/) — Authority-building through backlinks
+- [SEO Audit Services](/services/seo-audit/) — Technical and strategic site audits

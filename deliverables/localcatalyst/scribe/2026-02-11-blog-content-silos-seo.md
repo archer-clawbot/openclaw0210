@@ -3,8 +3,8 @@
 **Deliverable:** Blog post (On-Page SEO educational content)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/content-silos-seo/
-**Parent Hub:** /on-page-seo-services/
+**URL:** /learn/content-silos-seo/
+**Parent Hub:** /services/content-pages/
 **Primary Keyword:** content silos for SEO
 **Secondary Keywords:** silo architecture SEO, hub and spoke model, topical authority, internal linking structure, website silo structure, content organization SEO
 **Title Tag:** Content Silos for SEO: Build Topical Authority | LocalCatalyst.ai
@@ -14,7 +14,7 @@
 
 ---
 
-Search engines reward websites that demonstrate deep expertise on specific topics. Content silos are the architectural framework that makes this expertise visible, both to search engine crawlers and to users navigating your site. As a core component of our [on-page SEO services](/on-page-seo-services/), silo architecture is one of the most reliable ways to turn a collection of loosely connected pages into a structured, authoritative resource that dominates search results.
+Search engines reward websites that demonstrate deep expertise on specific topics. Content silos are the architectural framework that makes this expertise visible, both to search engine crawlers and to users navigating your site. As a core component of our [on-page SEO services](/services/on-page-optimization/), silo architecture is one of the most reliable ways to turn a collection of loosely connected pages into a structured, authoritative resource that dominates search results.
 
 This guide explains what content silos are, how the hub-and-spoke model works, when to cross-link between silos, and how to implement a silo strategy on a real website.
 
@@ -135,14 +135,14 @@ For each silo, plan which spokes will link to which other spokes. Draw out the c
 Your URL structure should mirror your silo architecture. This is not a ranking requirement, but it provides clarity for both users and crawlers.
 
 **Example URL structure for the On-Page SEO silo:**
-- Hub: `/on-page-seo-services/`
-- Spoke: `/blog/on-page-seo-checklist/`
-- Spoke: `/blog/keyword-placement-best-practices/`
-- Spoke: `/blog/schema-markup-local-business/`
-- Spoke: `/blog/content-silos-seo/`
-- Spoke: `/blog/nap-consistency/`
+- Hub: `/services/content-pages/`
+- Spoke: `/learn/on-page-seo-checklist/`
+- Spoke: `/learn/keyword-placement-best-practices/`
+- Spoke: `/learn/schema-markup-local-business/`
+- Spoke: `/learn/content-silos-seo/`
+- Spoke: `/learn/nap-consistency/`
 
-Note that spoke pages can live under `/blog/` while still being thematically siloed. The silo relationship is established through internal links, not just URL paths.
+Note that spoke pages can live under `/learn/` while still being thematically siloed. The silo relationship is established through internal links, not just URL paths.
 
 ## Implementation on Existing Websites
 
@@ -164,7 +164,7 @@ If you have spoke-level content but no hub page for that silo, create the hub fi
 
 This is the most labor-intensive step. Go through every page in each silo and add the internal links that establish the hub-spoke relationships. Remove irrelevant cross-links that weaken topical focus.
 
-Our [content strategy services](/seo-content-strategy/) include full silo audits and restructuring as part of the architecture planning process.
+Our [content strategy services](/services/content-pages/) include full silo audits and restructuring as part of the architecture planning process.
 
 ### Monitor and Adjust
 

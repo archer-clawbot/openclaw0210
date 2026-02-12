@@ -35,7 +35,7 @@ These problems do not announce themselves. They quietly erode performance while 
 
 Page load speed is a confirmed ranking factor, a Core Web Vitals component, and a conversion factor. Google has stated repeatedly that faster sites rank better. Research consistently shows that conversion rates drop approximately 4.4% for every additional second of load time.
 
-Our [site speed optimization](/technical-seo-services/site-speed-optimization/) addresses every layer of the performance stack:
+Our [site speed optimization](/services/seo-audit/site-speed-optimization/) addresses every layer of the performance stack:
 
 **Server response time (TTFB)** — Time to First Byte is the foundation of page speed. If your server takes 800ms to respond, your page cannot load in under one second regardless of front-end optimization. We evaluate hosting infrastructure, server configuration, database query performance, and CDN implementation. For many local businesses, a hosting upgrade or CDN implementation produces the largest single speed improvement.
 
@@ -49,7 +49,7 @@ Our [site speed optimization](/technical-seo-services/site-speed-optimization/) 
 
 ## Core Web Vitals Deep Dive
 
-Core Web Vitals are Google's standardized metrics for measuring user experience. They are confirmed ranking signals and directly influence both search rankings and user behavior. Our [Core Web Vitals optimization](/technical-seo-services/core-web-vitals/) targets all three metrics:
+Core Web Vitals are Google's standardized metrics for measuring user experience. They are confirmed ranking signals and directly influence both search rankings and user behavior. Our [Core Web Vitals optimization](/services/seo-audit/core-web-vitals/) targets all three metrics:
 
 ### Largest Contentful Paint (LCP)
 
@@ -89,7 +89,7 @@ We measure Core Web Vitals using both lab data (Lighthouse, PageSpeed Insights) 
 
 Google uses mobile-first indexing for all websites, meaning Google predominantly crawls and indexes the mobile version of your site. If your mobile experience is poor, your rankings suffer — even for desktop searches.
 
-Our [mobile optimization](/technical-seo-services/mobile-optimization/) ensures:
+Our [mobile optimization](/services/seo-audit/mobile-optimization/) ensures:
 
 - **Responsive design verification** — confirming your site renders correctly across screen sizes, with no horizontal scrolling, truncated content, or unusable navigation
 - **Tap target sizing** — buttons and links are large enough to tap accurately on mobile (minimum 48x48 CSS pixels with adequate spacing)
@@ -104,7 +104,7 @@ For local businesses, mobile optimization is especially critical. The majority o
 
 If Google cannot efficiently crawl your website, it cannot rank your pages. If your pages are not indexed, they do not exist in search results. These fundamentals are more frequently problematic than most business owners realize.
 
-Our [crawlability and indexation services](/technical-seo-services/crawlability-indexation/) address:
+Our [crawlability and indexation services](/services/seo-audit/crawlability-indexation/) address:
 
 **XML sitemaps** — we create, optimize, and submit XML sitemaps that include all indexable pages, exclude non-indexable pages, and reflect your site's priority structure. Sitemaps should be dynamic, automatically updating as pages are added or removed.
 
@@ -120,7 +120,7 @@ Our [crawlability and indexation services](/technical-seo-services/crawlability-
 
 ## Structured Data and Schema Markup Implementation
 
-Structured data translates your page content into machine-readable format, enabling rich results in search and improving how AI systems understand your business. Our [structured data services](/technical-seo-services/structured-data/) implement and maintain:
+Structured data translates your page content into machine-readable format, enabling rich results in search and improving how AI systems understand your business. Our [structured data services](/services/seo-audit/structured-data/) implement and maintain:
 
 **LocalBusiness schema** — the foundational schema type for local businesses. We implement the most specific subtype available (Dentist, Plumber, Attorney, Restaurant) with complete properties: name, address, phone, hours, geo-coordinates, service area, price range, payment methods, and founding date.
 
@@ -140,7 +140,7 @@ We validate all implementations through Google's Rich Results Test, monitor for 
 
 How your website is organized — its URL structure, hierarchy, internal linking patterns, and navigation — fundamentally affects how search engines discover, understand, and rank your content.
 
-Our [site architecture services](/technical-seo-services/site-architecture/) optimize:
+Our [site architecture services](/services/seo-audit/site-architecture/) optimize:
 
 **URL structure** — clean, descriptive URLs that communicate page content and hierarchy. `/services/roof-repair/` is superior to `/page?id=47` in every measurable way: user comprehension, anchor text value, and algorithmic relevance signaling.
 
@@ -148,7 +148,7 @@ Our [site architecture services](/technical-seo-services/site-architecture/) opt
 
 **Breadcrumb navigation** — visual breadcrumbs that reinforce hierarchical structure, improve user navigation, and provide additional internal links with descriptive anchor text.
 
-**Content silo alignment** — site architecture should reflect your content silo strategy, with clear topical clusters connected by internal links. We coordinate architecture optimization with [on-page SEO](/on-page-seo-services/) to ensure structural and content strategies are aligned.
+**Content silo alignment** — site architecture should reflect your content silo strategy, with clear topical clusters connected by internal links. We coordinate architecture optimization with [on-page SEO](/services/on-page-optimization/) to ensure structural and content strategies are aligned.
 
 ## HTTPS, Security, and Accessibility
 
@@ -241,21 +241,21 @@ Every technical SEO engagement includes:
 ## Supporting Content
 
 ### Cluster Pages
-- [Site Speed Optimization](/technical-seo-services/site-speed-optimization/) — Server, rendering, and payload optimization
-- [Core Web Vitals](/technical-seo-services/core-web-vitals/) — LCP, INP, and CLS optimization methodology
-- [Mobile Optimization](/technical-seo-services/mobile-optimization/) — Mobile-first indexing readiness
-- [Crawlability & Indexation](/technical-seo-services/crawlability-indexation/) — Ensuring Google can find and index your content
-- [Structured Data](/technical-seo-services/structured-data/) — Schema markup implementation and maintenance
-- [Site Architecture](/technical-seo-services/site-architecture/) — URL structure, hierarchy, and navigation optimization
+- [Site Speed Optimization](/services/seo-audit/site-speed-optimization/) — Server, rendering, and payload optimization
+- [Core Web Vitals](/services/seo-audit/core-web-vitals/) — LCP, INP, and CLS optimization methodology
+- [Mobile Optimization](/services/seo-audit/mobile-optimization/) — Mobile-first indexing readiness
+- [Crawlability & Indexation](/services/seo-audit/crawlability-indexation/) — Ensuring Google can find and index your content
+- [Structured Data](/services/seo-audit/structured-data/) — Schema markup implementation and maintenance
+- [Site Architecture](/services/seo-audit/site-architecture/) — URL structure, hierarchy, and navigation optimization
 
 ### Related Blog Posts
-- [Technical SEO Checklist](/blog/technical-seo-checklist/) — Complete technical audit checklist
-- [How to Fix Crawl Errors](/blog/how-to-fix-crawl-errors/) — Diagnosing and resolving common crawl issues
-- [XML Sitemap Best Practices](/blog/xml-sitemap-best-practices/) — Building sitemaps that improve crawl efficiency
-- [Robots.txt Guide](/blog/robots-txt-guide/) — Configuration guide for crawl management
-- [HTTPS & SSL for SEO](/blog/https-ssl-seo/) — Why security matters for rankings
-- [Redirect Management for SEO](/blog/redirect-management-seo/) — Cleaning up redirects without losing link equity
-- [Duplicate Content Solutions](/blog/duplicate-content-solutions/) — Identifying and resolving duplicate content issues
+- [Technical SEO Checklist](/learn/technical-seo-checklist/) — Complete technical audit checklist
+- [How to Fix Crawl Errors](/learn/how-to-fix-crawl-errors/) — Diagnosing and resolving common crawl issues
+- [XML Sitemap Best Practices](/learn/xml-sitemap-best-practices/) — Building sitemaps that improve crawl efficiency
+- [Robots.txt Guide](/learn/robots-txt-guide/) — Configuration guide for crawl management
+- [HTTPS & SSL for SEO](/learn/https-ssl-seo/) — Why security matters for rankings
+- [Redirect Management for SEO](/learn/redirect-management-seo/) — Cleaning up redirects without losing link equity
+- [Duplicate Content Solutions](/learn/duplicate-content-solutions/) — Identifying and resolving duplicate content issues
 
 ## Frequently Asked Questions
 
@@ -277,7 +277,7 @@ Not when implemented properly. We follow a rigorous change management process: e
 
 ### How does technical SEO relate to local SEO?
 
-Technical SEO provides the foundation that local SEO builds upon. Site speed affects Map Pack rankings. Schema markup (LocalBusiness, Service schemas) helps Google understand your business entity and service offerings. Mobile optimization is critical because most local searches happen on mobile devices. Crawlability ensures your location pages and service pages are indexed. Every technical improvement amplifies the effectiveness of your [Google Business Profile optimization](/google-business-profile-management/), [citation building](/citation-building-services/), and [on-page SEO](/on-page-seo-services/).
+Technical SEO provides the foundation that local SEO builds upon. Site speed affects Map Pack rankings. Schema markup (LocalBusiness, Service schemas) helps Google understand your business entity and service offerings. Mobile optimization is critical because most local searches happen on mobile devices. Crawlability ensures your location pages and service pages are indexed. Every technical improvement amplifies the effectiveness of your [Google Business Profile optimization](/services/gbp-optimization/), [citation building](/services/citation-building/), and [on-page SEO](/services/on-page-optimization/).
 
 ### What are Core Web Vitals and do they really affect rankings?
 

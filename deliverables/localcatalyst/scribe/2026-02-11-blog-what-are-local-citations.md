@@ -3,8 +3,8 @@
 **Deliverable:** Blog post (Citation Building educational content)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/what-are-local-citations/
-**Parent Hub:** /citation-building-services/
+**URL:** /learn/what-are-local-citations/
+**Parent Hub:** /services/citation-building/
 **Primary Keyword:** what are local citations
 **Secondary Keywords:** local citations SEO, citation building, structured citations, unstructured citations, business citations, local SEO citations
 **Title Tag:** What Are Local Citations? Definitive Guide | LocalCatalyst.ai
@@ -14,7 +14,7 @@
 
 ---
 
-Local citations are one of the core pillars of local search visibility, yet they remain one of the least understood elements of local SEO for most business owners. If you have ever wondered why some businesses consistently appear in the local map pack while others struggle to rank, citations are often a significant part of the answer. Our [citation building services](/citation-building-services/) exist because we see the direct impact that a well-built citation profile has on local rankings through our geo-grid tracking data.
+Local citations are one of the core pillars of local search visibility, yet they remain one of the least understood elements of local SEO for most business owners. If you have ever wondered why some businesses consistently appear in the local map pack while others struggle to rank, citations are often a significant part of the answer. Our [citation building services](/services/citation-building/) exist because we see the direct impact that a well-built citation profile has on local rankings through our geo-grid tracking data.
 
 This guide explains what local citations are, the difference between structured and unstructured citations, how they influence search rankings, and how to build a citation strategy that strengthens your local presence.
 
@@ -158,7 +158,7 @@ Proactively seek unstructured citation opportunities through:
 - Guest contributions to local blogs or publications
 - Community resource pages and guides
 
-For a detailed list of the most impactful citation sources, see our guide to [top citation sources for local SEO](/blog/top-citation-sources/).
+For a detailed list of the most impactful citation sources, see our guide to [top citation sources for local SEO](/learn/top-citation-sources/).
 
 ## Citation Quality vs. Quantity
 
@@ -171,7 +171,7 @@ The citation landscape has evolved significantly. In the early days of local SEO
 - **Completeness over minimalism.** Listings that include full business information (NAP, website, hours, categories, descriptions, photos) are more valuable than bare-bones submissions.
 - **Ongoing maintenance over one-time submission.** Citations degrade over time as directories update, merge, or change formatting. Regular auditing and maintenance is essential.
 
-Our [technical SEO services](/technical-seo-services/) work in conjunction with citation building to ensure that the technical foundation of your website reinforces the signals your citations are sending.
+Our [technical SEO services](/services/seo-audit/technical-seo-audit/) work in conjunction with citation building to ensure that the technical foundation of your website reinforces the signals your citations are sending.
 
 ## Common Citation Building Mistakes
 

@@ -14,13 +14,13 @@
 
 ---
 
-*Breadcrumbs: [Home](/) > [Industries](/industries/) > [Real Estate SEO](/industries/real-estate-seo/) > Real Estate Content Marketing*
+*Breadcrumbs: [Home](/) > [Industries](/services/) > [Real Estate SEO](/industries/real-estate-seo/) > Real Estate Content Marketing*
 
 ## Real Estate Content Marketing That Builds Authority and Generates Leads
 
 Content marketing in real estate is not about publishing blog posts on "5 tips for staging your home" and hoping for traffic. That approach — generic advice articles that a thousand other agents have already published — produces minimal organic visibility and even less lead generation. Real estate content marketing that works is strategic, locally specific, and designed to capture searches that your competitors and the national portals are not serving well. As we outline in our [real estate SEO strategy guide](/industries/real-estate-seo/), the agents and brokerages that dominate organic search are the ones publishing content that cannot be replicated by Zillow's auto-generated data pages or a competing agent's outsourced blog.
 
-Effective real estate content marketing requires understanding what potential buyers and sellers are actually searching for, creating content that answers those searches better than anything else available, and publishing it within a site architecture that builds topical authority over time. Our [SEO content strategy](/seo-content-strategy/) services are built around this methodology — and real estate is one of the verticals where content strategy produces the most dramatic results.
+Effective real estate content marketing requires understanding what potential buyers and sellers are actually searching for, creating content that answers those searches better than anything else available, and publishing it within a site architecture that builds topical authority over time. Our [SEO content strategy](/services/content-pages/) services are built around this methodology — and real estate is one of the verticals where content strategy produces the most dramatic results.
 
 ## Content Types That Drive Real Estate Leads
 

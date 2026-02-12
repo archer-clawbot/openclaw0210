@@ -6,9 +6,10 @@
 **URL:** /industries/landscaping-seo/
 **Primary Keyword:** landscaping SEO
 **Title Tag:** Landscaping SEO That Grows With Your Business | LocalCatalyst.ai
+**Meta Description:** `Landscaping SEO strategies that capture high-value local searches and grow your business. Dominate your service area year-round.`
 **H1:** Landscaping SEO That Grows With Your Business
 **Word Count Target:** 2,000
-**Links to Hubs:** [Local SEO Services](/local-seo-services/), [GBP Management](/google-business-profile-management/), [Content Strategy](/seo-content-strategy/), [Citation Building](/citation-building-services/)
+**Links to Hubs:** [Local SEO Services](/services/), [GBP Management](/services/gbp-optimization/), [Content Strategy](/services/content-pages/), [Citation Building](/services/citation-building/)
 
 ---
 
@@ -54,7 +55,7 @@ If you offer snow removal, winter is a secondary peak season with its own urgent
 
 ## Google Business Profile Optimization for Landscaping Companies
 
-Your Google Business Profile is the gateway to Map Pack visibility. Landscaping companies have unique opportunities to make their GBP work harder than competitors. [Learn the full approach to GBP optimization](/google-business-profile-management/).
+Your Google Business Profile is the gateway to Map Pack visibility. Landscaping companies have unique opportunities to make their GBP work harder than competitors. [Learn the full approach to GBP optimization](/services/gbp-optimization/).
 
 ### Seasonal Service Updates
 
@@ -74,7 +75,7 @@ Post weekly to your Google Business Profile. Share completed project photos, sea
 
 ## Content Strategy for Landscaping SEO
 
-Content is where landscaping companies build the topical authority that drives sustained organic traffic. Your content strategy should serve three purposes: capture search traffic, showcase expertise, and convert visitors into leads. [Explore our full content strategy approach](/seo-content-strategy/).
+Content is where landscaping companies build the topical authority that drives sustained organic traffic. Your content strategy should serve three purposes: capture search traffic, showcase expertise, and convert visitors into leads. [Explore our full content strategy approach](/services/content-pages/).
 
 ### Design Inspiration Content
 
@@ -104,11 +105,11 @@ Maintain an active presence on Instagram, Pinterest, and Houzz, where homeowners
 
 ## Citation Building for Landscaping Companies
 
-Consistent citations across business directories reinforce your local relevance. Beyond the essential general directories (Google, Yelp, Facebook, Apple Maps, BBB), landscaping companies should pursue listings on industry-specific platforms: Houzz, Angi (formerly Angie's List), HomeAdvisor, Thumbtack, Porch, the National Association of Landscape Professionals directory, and local home builder association directories. Each accurate citation strengthens your local SEO foundation. [See how citation building works](/citation-building-services/).
+Consistent citations across business directories reinforce your local relevance. Beyond the essential general directories (Google, Yelp, Facebook, Apple Maps, BBB), landscaping companies should pursue listings on industry-specific platforms: Houzz, Angi (formerly Angie's List), HomeAdvisor, Thumbtack, Porch, the National Association of Landscape Professionals directory, and local home builder association directories. Each accurate citation strengthens your local SEO foundation. [See how citation building works](/services/citation-building/).
 
 ## Competing With Large Landscape Companies and Franchises
 
-National franchises like TruGreen, BrightView, and regional multi-location companies have marketing budgets that dwarf the typical local landscaper's. However, they also have weaknesses: impersonal service, high crew turnover, and cookie-cutter designs. Your SEO strategy should lean into the strengths of a local, owner-operated landscaping company: custom design, personal attention, community roots, and genuine craftsmanship. Showcase your team, tell your company's story, and let your project portfolio speak for itself. [Learn how local SEO helps you compete](/local-seo-services/).
+National franchises like TruGreen, BrightView, and regional multi-location companies have marketing budgets that dwarf the typical local landscaper's. However, they also have weaknesses: impersonal service, high crew turnover, and cookie-cutter designs. Your SEO strategy should lean into the strengths of a local, owner-operated landscaping company: custom design, personal attention, community roots, and genuine craftsmanship. Showcase your team, tell your company's story, and let your project portfolio speak for itself. [Learn how local SEO helps you compete](/services/).
 
 ## Technical SEO Essentials for Landscaping Websites
 
@@ -144,9 +145,9 @@ Every spring, homeowners in your service area search for a landscaping company. 
 
 ## Supporting Content (Planned Cluster Pages)
 
-- **[Landscaping Keywords](/industries/landscaping-seo/landscaping-keywords/)** — Full keyword research guide for landscaping companies, including seasonal search volume trends, keyword difficulty, and content mapping by service line.
-- **[Landscaping Google Business Profile](/industries/landscaping-seo/landscaping-google-business-profile/)** — Step-by-step guide to building a GBP that showcases your work and dominates the Map Pack for landscaping searches.
-- **[Seasonal Landscaping SEO](/industries/landscaping-seo/seasonal-landscaping-seo/)** — Month-by-month SEO calendar for landscaping companies, aligning content, citations, and GBP activity with seasonal demand.
+- **[Landscaping Keywords](/industries/landscaping-seo/)** — Full keyword research guide for landscaping companies, including seasonal search volume trends, keyword difficulty, and content mapping by service line.
+- **[Landscaping Google Business Profile](/industries/landscaping-seo/)** — Step-by-step guide to building a GBP that showcases your work and dominates the Map Pack for landscaping searches.
+- **[Seasonal Landscaping SEO](/industries/landscaping-seo/)** — Month-by-month SEO calendar for landscaping companies, aligning content, citations, and GBP activity with seasonal demand.
 
 ## Related Industry Verticals
 

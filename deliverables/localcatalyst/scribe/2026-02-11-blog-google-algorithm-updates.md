@@ -3,8 +3,8 @@
 **Deliverable:** Resource blog post
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/google-algorithm-updates/
-**Parent Hub:** /blog/
+**URL:** /learn/google-algorithm-updates/
+**Parent Hub:** /learn/
 **Primary Keyword:** Google algorithm updates
 **Secondary Keywords:** Google algorithm update history, Google core updates, Google Panda update, Google Penguin update, Google Helpful Content Update, algorithm update timeline
 **Title Tag:** Google Algorithm Updates: Complete History & Timeline
@@ -206,12 +206,12 @@ Every major Google algorithm update since 2011 reinforces the same core principl
 
 ## What This Means for Local Businesses
 
-Local businesses are not immune to algorithm updates. Here is what the history of updates tells you about building a resilient [local SEO strategy](/services/local-seo/):
+Local businesses are not immune to algorithm updates. Here is what the history of updates tells you about building a resilient [local SEO strategy](/services/):
 
 - **Create genuinely useful content** that reflects your actual expertise and serves your local audience
 - **Build your Google Business Profile** as a primary local ranking asset — keep it complete, accurate, and actively managed with reviews and posts
 - **Earn links from real local sources** — sponsorships, partnerships, local media, chambers of commerce
-- **Maintain technical health** — fast load times, mobile-friendly design, clean crawl structure, and proper [technical SEO](/services/technical-seo/) foundations
+- **Maintain technical health** — fast load times, mobile-friendly design, clean crawl structure, and proper [technical SEO](/services/seo-audit/technical-seo-audit/) foundations
 - **Avoid shortcuts.** Every tactic that has ever been penalized (link schemes, content spinning, keyword stuffing, cloaking) was a shortcut. The businesses that recover fastest from algorithm updates are the ones that never relied on shortcuts in the first place.
 
 ---

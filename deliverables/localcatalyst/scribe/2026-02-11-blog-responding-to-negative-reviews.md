@@ -3,8 +3,8 @@
 **Deliverable:** Hub blog post
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/responding-to-negative-reviews/
-**Parent Hub:** /reputation-management-services/
+**URL:** /learn/responding-to-negative-reviews/
+**Parent Hub:** /services/
 **Primary Keyword:** how to respond to negative reviews
 **Secondary Keywords:** responding to negative reviews, negative review response, bad review response, handle negative Google reviews, negative review templates
 **Title Tag:** How to Respond to Negative Reviews (With Examples)
@@ -14,7 +14,7 @@
 
 ---
 
-Negative reviews are inevitable. Every business, regardless of quality, will eventually receive a review that stings. The difference between businesses that thrive and those that suffer reputation damage is not whether they receive negative reviews, but how they respond. A strong negative review response strategy is a core component of any serious [reputation management](/reputation-management-services/) program, and it can actually strengthen your business when executed correctly.
+Negative reviews are inevitable. Every business, regardless of quality, will eventually receive a review that stings. The difference between businesses that thrive and those that suffer reputation damage is not whether they receive negative reviews, but how they respond. A strong negative review response strategy is a core component of any serious reputation management program, and it can actually strengthen your business when executed correctly.
 
 This guide provides a complete framework for responding to negative reviews, including real response templates, common mistakes to avoid, and the psychology behind why good responses matter more than the negative review itself.
 
@@ -34,7 +34,7 @@ Consider two scenarios a potential customer might encounter:
 
 Scenario B often converts better than having no negative review at all. The response becomes a demonstration of character that no marketing copy can replicate.
 
-Beyond consumer psychology, review responses also influence your local SEO. Google has confirmed that responding to reviews is a factor in local search ranking. Response rate, response time, and the quality of responses all contribute to how Google evaluates your [Google Business Profile](/google-business-profile-management/).
+Beyond consumer psychology, review responses also influence your local SEO. Google has confirmed that responding to reviews is a factor in local search ranking. Response rate, response time, and the quality of responses all contribute to how Google evaluates your [Google Business Profile](/services/gbp-optimization/).
 
 ## The 5-Step Response Framework
 
@@ -112,7 +112,7 @@ Every additional sentence after the core response increases the probability that
 
 > "We take all feedback seriously, but we are unable to locate a record matching this review in our system. If you are a customer, please contact [Name] at [phone/email] so we can look into this further and address any concerns you may have."
 
-For fake reviews, also flag the review through Google's reporting tools. For a detailed guide on that process, see our article on [removing fake Google reviews](/blog/fake-google-reviews-removal/).
+For fake reviews, also flag the review through Google's reporting tools. For a detailed guide on that process, see our article on [removing fake Google reviews](/learn/fake-google-reviews-removal/).
 
 ## Common Mistakes That Make Negative Reviews Worse
 
@@ -170,7 +170,7 @@ Individual responses are important. A system ensures consistency across your ent
 5. **Escalation protocol:** Define when a review requires management involvement (e.g., threats of legal action, safety allegations, reviews from identifiable high-value customers).
 6. **Monthly review analysis:** Track review sentiment trends, identify recurring complaints, and feed insights into operations improvements.
 
-Our [reputation management services](/reputation-management-services/) include comprehensive review monitoring, response management, and sentiment analysis so you can focus on running your business.
+Our [managed SEO service](/managed/) includes comprehensive review monitoring, response management, and sentiment analysis so you can focus on running your business.
 
 ## The Long-Term Impact of Consistent, Professional Responses
 
@@ -180,7 +180,7 @@ Businesses that respond to every review, positive and negative, consistently out
 
 2. **Higher conversion rates.** Potential customers who see a pattern of thoughtful responses develop stronger trust. Studies show that businesses responding to reviews see up to 35% higher conversion from their Google Business Profile.
 
-3. **Stronger Map Pack performance.** Google rewards businesses that actively manage their review profiles. Response rate is a documented local ranking signal, making review response both a reputation activity and an [SEO activity](/local-seo-services/).
+3. **Stronger Map Pack performance.** Google rewards businesses that actively manage their review profiles. Response rate is a documented local ranking signal, making review response both a reputation activity and an [SEO activity](/services/).
 
 ## Frequently Asked Questions
 
@@ -202,4 +202,6 @@ Yes. A profile with exclusively five-star reviews can appear inauthentic to cons
 
 ---
 
-**Need help managing your online review responses?** Our reputation management team monitors, responds to, and analyzes reviews across every platform that matters for your business. [Order an SEO Audit](/services/seo-audit/) to see how your review profile compares to your competitors, or [reach out to our team](/contact/) to discuss a tailored reputation management plan.
+**Ready to turn every review into a growth opportunity?** [Explore Managed SEO](/managed/)
+
+---

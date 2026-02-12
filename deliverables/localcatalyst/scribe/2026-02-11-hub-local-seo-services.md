@@ -7,7 +7,7 @@
 **Primary Keyword:** local SEO services
 **Secondary Keywords:** local SEO company, local SEO agency, local SEO marketing, local search optimization
 **Title Tag:** Local SEO Services — Rank Higher in Local Search | LocalCatalyst.ai
-**Meta Description:** Our local SEO services drive real customers to your business. Map Pack rankings, local organic visibility, and AI Overview optimization. Free audit available.
+**Meta Description:** Our local SEO services drive real customers to your business. Map Pack rankings, local organic visibility, and AI Overview optimization. SEO audit available.
 **H1:** Local SEO Services That Drive Real Customers to Your Business
 **Word Count Target:** 2,500–3,500
 
@@ -33,7 +33,7 @@ Local SEO is the systematic optimization of every signal Google uses to determin
 4. **Citation signals** — data aggregator distribution, NAP accuracy across directories, citation volume and quality
 5. **Behavioral signals** — click-through rates, driving direction requests, call volumes, dwell time
 
-Our [local SEO services](/local-seo-services/) address all five categories through coordinated campaigns, not isolated tactics. When we optimize your Google Business Profile, we simultaneously reinforce those signals through on-page optimization, citation building, and content development. The compounding effect of aligned signals is what separates businesses that dominate local search from those that languish on page two.
+Our [local SEO services](/services/) address all five categories through coordinated campaigns, not isolated tactics. When we optimize your Google Business Profile, we simultaneously reinforce those signals through on-page optimization, citation building, and content development. The compounding effect of aligned signals is what separates businesses that dominate local search from those that languish on page two.
 
 ## The Local Search Ecosystem in 2026
 
@@ -43,7 +43,7 @@ The local search landscape has evolved dramatically. Understanding where your bu
 
 The Map Pack remains the highest-value real estate in local search. Appearing in the top three map results for your primary service keywords means your business name, reviews, hours, phone number, and directions are displayed directly in the search results — before the searcher ever clicks a link.
 
-Our [Google Maps ranking strategies](/local-seo-services/google-maps-ranking/) focus on the specific signals Google uses to determine Map Pack eligibility and position. We track your rankings across a geo-grid of points throughout your service area, giving us granular visibility into exactly where you rank and where gaps exist.
+Our [Google Maps ranking strategies](/services/google-maps-ranking/) focus on the specific signals Google uses to determine Map Pack eligibility and position. We track your rankings across a geo-grid of points throughout your service area, giving us granular visibility into exactly where you rank and where gaps exist.
 
 ### Local Organic Results
 
@@ -73,17 +73,17 @@ Not all optimizations are created equal. A HVAC company with a penalized Google 
 
 ### Execute
 
-Execution is where most agencies fall apart. They hand you a report and wish you luck. We execute every optimization ourselves — from [GBP management](/google-business-profile-management/) and [citation building](/citation-building-services/) to [on-page optimization](/on-page-seo-services/) and [technical SEO fixes](/technical-seo-services/). Our team handles implementation so your team can focus on running your business.
+Execution is where most agencies fall apart. They hand you a report and wish you luck. We execute every optimization ourselves — from [GBP management](/services/gbp-optimization/) and [citation building](/services/citation-building/) to [on-page optimization](/services/on-page-optimization/) and [technical SEO fixes](/services/seo-audit/technical-seo-audit/). Our team handles implementation so your team can focus on running your business.
 
 ### Expand
 
-Once foundational optimizations are in place and rankings begin climbing, we expand your footprint. This means targeting new keyword clusters, optimizing additional service areas, building [content strategies](/seo-content-strategy/) around long-tail opportunities, and scaling what works. The Expand phase is where compounding returns really accelerate.
+Once foundational optimizations are in place and rankings begin climbing, we expand your footprint. This means targeting new keyword clusters, optimizing additional service areas, building [content strategies](/services/content-pages/) around long-tail opportunities, and scaling what works. The Expand phase is where compounding returns really accelerate.
 
 ## Local Keyword Research That Drives Strategy
 
 Keyword research for local SEO is fundamentally different from general keyword research. Volume numbers from national tools are misleading — a keyword with 200 monthly searches nationally might have 10 searches in your metro area, but those 10 searches might be worth $5,000 each in lifetime customer value.
 
-Our [local keyword research process](/local-seo-services/local-keyword-research/) identifies:
+Our [local keyword research process](/services/local-keyword-research/) identifies:
 
 - **Primary service keywords** with proven local commercial intent
 - **Long-tail variations** that capture specific needs ("emergency AC repair Sunday" vs. "HVAC service")
@@ -96,7 +96,7 @@ We map every keyword to a specific page and intent, ensuring no cannibalization 
 
 ## Competitor Analysis for Local Markets
 
-You cannot build an effective local SEO strategy without understanding who you are competing against and why they are outranking you. Our [competitor analysis](/local-seo-services/competitor-analysis/) goes far beyond checking who shows up in the Map Pack.
+You cannot build an effective local SEO strategy without understanding who you are competing against and why they are outranking you. Our [competitor analysis](/services/competitor-analysis/) goes far beyond checking who shows up in the Map Pack.
 
 We analyze:
 
@@ -114,7 +114,7 @@ This intelligence directly informs prioritization. If your top competitor has 40
 
 Businesses with multiple locations face unique challenges: how to build authority for each location without creating thin, duplicate content; how to structure location pages that rank independently; how to manage multiple GBP listings without triggering spam filters.
 
-Our [multi-location SEO services](/local-seo-services/multi-location-seo/) address these challenges through:
+Our [multi-location SEO services](/services/multi-location-seo/) address these challenges through:
 
 - **Scalable location page frameworks** with unique, substantial content for each service area
 - **GBP management systems** that maintain consistent optimization across all listings
@@ -128,12 +128,12 @@ Whether you operate 3 dental offices or 30 restaurant locations, we build a stra
 
 Local SEO does not exist in isolation. The strongest local search visibility comes from coordinated efforts across multiple disciplines:
 
-- **[Technical SEO](/technical-seo-services/)** ensures Google can crawl, render, and index your site efficiently. Core Web Vitals, mobile optimization, and structured data implementation all feed local ranking signals.
-- **[On-page SEO](/on-page-seo-services/)** optimizes individual pages for local relevance — from title tags and header structures to content quality and internal linking.
-- **[Link building](/link-building-services/)** earns the authoritative backlinks that signal trust and relevance to Google. Local links from community organizations, industry associations, and local media carry particular weight.
-- **[Citation building](/citation-building-services/)** establishes consistent business information across directories, data aggregators, and industry-specific platforms.
-- **[Reputation management](/reputation-management-services/)** generates and manages reviews — the social proof that influences both rankings and conversion.
-- **[Content strategy](/seo-content-strategy/)** creates the topical depth that establishes expertise and captures long-tail search traffic.
+- **[Technical SEO](/services/seo-audit/technical-seo-audit/)** ensures Google can crawl, render, and index your site efficiently. Core Web Vitals, mobile optimization, and structured data implementation all feed local ranking signals.
+- **[On-page SEO](/services/on-page-optimization/)** optimizes individual pages for local relevance — from title tags and header structures to content quality and internal linking.
+- **[Link building](/managed/)** earns the authoritative backlinks that signal trust and relevance to Google. Local links from community organizations, industry associations, and local media carry particular weight.
+- **[Citation building](/services/citation-building/)** establishes consistent business information across directories, data aggregators, and industry-specific platforms.
+- **Reputation management** (included in [managed SEO](/managed/)) generates and manages reviews — the social proof that influences both rankings and conversion.
+- **[Content strategy](/services/content-pages/)** creates the topical depth that establishes expertise and captures long-tail search traffic.
 
 We coordinate all of these disciplines within a unified strategy. Every blog post supports a service page. Every link reinforces a content cluster. Every citation strengthens GBP authority. This is the difference between random acts of SEO and a coherent growth engine.
 
@@ -213,22 +213,22 @@ Each industry has distinct search patterns, competitive dynamics, and conversion
 ## Supporting Content
 
 ### Cluster Pages
-- [Google Maps Ranking](/local-seo-services/google-maps-ranking/) — How we get your business into the Map Pack
-- [Local 3-Pack Optimization](/local-seo-services/local-3-pack-optimization/) — Strategies for the three most valuable positions in local search
-- [Local Keyword Research](/local-seo-services/local-keyword-research/) — Finding the searches that drive revenue
-- [Competitor Analysis](/local-seo-services/competitor-analysis/) — Understanding and surpassing your local competition
-- [Multi-Location SEO](/local-seo-services/multi-location-seo/) — Scaling local visibility across multiple locations
+- [Google Maps Ranking](/services/google-maps-ranking/) — How we get your business into the Map Pack
+- [Local 3-Pack Optimization](/services/local-3-pack-optimization/) — Strategies for the three most valuable positions in local search
+- [Local Keyword Research](/services/local-keyword-research/) — Finding the searches that drive revenue
+- [Competitor Analysis](/services/competitor-analysis/) — Understanding and surpassing your local competition
+- [Multi-Location SEO](/services/multi-location-seo/) — Scaling local visibility across multiple locations
 
 ### Related Blog Posts
-- [What Is Local SEO?](/blog/what-is-local-seo/) — A complete introduction for business owners
-- [Local SEO Ranking Factors](/blog/local-seo-ranking-factors/) — The signals that determine your position
-- [The Complete Local SEO Checklist](/blog/local-seo-checklist/) — Every optimization step, organized by priority
-- [Local SEO vs. Organic SEO](/blog/local-seo-vs-organic-seo/) — Understanding the critical differences
-- [How Long Does Local SEO Take?](/blog/how-long-does-local-seo-take/) — Realistic timelines and expectations
-- [Local SEO for Small Business](/blog/local-seo-for-small-business/) — Strategies that work on any budget
-- [Local SEO Statistics](/blog/local-seo-statistics/) — The data behind local search marketing
-- [Near Me Search Optimization](/blog/near-me-search-optimization/) — Capturing proximity-based searches
-- [Local SEO ROI](/blog/local-seo-roi/) — Measuring the return on your investment
+- [What Is Local SEO?](/learn/what-is-local-seo/) — A complete introduction for business owners
+- [Local SEO Ranking Factors](/learn/local-seo-ranking-factors-2026/) — The signals that determine your position
+- [The Complete Local SEO Checklist](/learn/local-seo-checklist/) — Every optimization step, organized by priority
+- [Local SEO vs. Organic SEO](/learn/local-seo-vs-organic-seo/) — Understanding the critical differences
+- [How Long Does Local SEO Take?](/learn/how-long-does-local-seo-take/) — Realistic timelines and expectations
+- [Local SEO for Small Business](/learn/local-seo-for-small-business/) — Strategies that work on any budget
+- [Local SEO Statistics](/learn/local-seo-statistics/) — The data behind local search marketing
+- [Near Me Search Optimization](/learn/near-me-search-optimization/) — Capturing proximity-based searches
+- [Local SEO ROI](/learn/local-seo-roi/) — Measuring the return on your investment
 
 ## Frequently Asked Questions
 
@@ -238,7 +238,7 @@ Local SEO is the process of optimizing your online presence so your business app
 
 ### How is local SEO different from regular SEO?
 
-Regular (organic) SEO optimizes for national or broad search visibility. Local SEO adds a geographic layer — your Google Business Profile, local citations, geo-modified keywords, review signals, and proximity-based ranking factors all play roles that do not exist in traditional SEO. The ranking algorithms are different too. Google uses a distinct local algorithm that weighs relevance, distance, and prominence differently than its organic algorithm. Our [comparison guide](/blog/local-seo-vs-organic-seo/) covers the differences in detail.
+Regular (organic) SEO optimizes for national or broad search visibility. Local SEO adds a geographic layer — your Google Business Profile, local citations, geo-modified keywords, review signals, and proximity-based ranking factors all play roles that do not exist in traditional SEO. The ranking algorithms are different too. Google uses a distinct local algorithm that weighs relevance, distance, and prominence differently than its organic algorithm. Our [comparison guide](/learn/local-seo-vs-organic-seo/) covers the differences in detail.
 
 ### How long does it take to see results from local SEO?
 
@@ -246,7 +246,7 @@ Most businesses see meaningful improvements within 60–90 days of beginning a c
 
 ### How much do local SEO services cost?
 
-Our local SEO engagements are priced based on the scope of work required — which depends on your market's competitiveness, the number of locations, and the gap between your current visibility and your goals. We do not offer one-size-fits-all packages because every local market is different. What we can tell you: we price our services to deliver clear ROI. If a single new customer is worth $500 to your business and our work generates 20 additional customers per month, the math speaks for itself. [Request a free audit](/services/seo-audit/) and we will provide a transparent proposal with projected outcomes.
+Our local SEO engagements are priced based on the scope of work required — which depends on your market's competitiveness, the number of locations, and the gap between your current visibility and your goals. We do not offer one-size-fits-all packages because every local market is different. What we can tell you: we price our services to deliver clear ROI. If a single new customer is worth $500 to your business and our work generates 20 additional customers per month, the math speaks for itself. [Order an SEO Audit](/services/seo-audit/) and we will provide a transparent proposal with projected outcomes.
 
 ### Do I need local SEO if I already run Google Ads?
 
@@ -254,7 +254,7 @@ Yes. Google Ads and local SEO serve complementary but distinct purposes. Ads pro
 
 ### Can you help with multiple locations?
 
-Absolutely. Multi-location SEO is one of our core competencies. We build scalable frameworks that give each location unique, optimized content and GBP management while maintaining brand consistency and avoiding duplicate content issues. Our [multi-location SEO services](/local-seo-services/multi-location-seo/) page details our approach for businesses with anywhere from 2 to 50+ locations.
+Absolutely. Multi-location SEO is one of our core competencies. We build scalable frameworks that give each location unique, optimized content and GBP management while maintaining brand consistency and avoiding duplicate content issues. Our [multi-location SEO services](/services/multi-location-seo/) page details our approach for businesses with anywhere from 2 to 50+ locations.
 
 ### What metrics do you track and report?
 
@@ -266,4 +266,4 @@ Three things. First, our CATALYST methodology provides a systematic, data-driven
 
 ---
 
-*Ready to see where your business stands in local search? [Request your free local SEO audit](/services/seo-audit/) and get a comprehensive analysis of your visibility, competition, and growth opportunities.*
+*Ready to see where your business stands in local search? [Order your SEO Audit](/services/seo-audit/) and get a comprehensive analysis of your visibility, competition, and growth opportunities.*

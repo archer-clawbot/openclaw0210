@@ -3,8 +3,8 @@
 **Deliverable:** Blog post (Hub 4 educational content)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/xml-sitemap-best-practices/
-**Parent Hub:** /technical-seo-services/
+**URL:** /learn/xml-sitemap-best-practices/
+**Parent Hub:** /services/seo-audit/
 **Primary Keyword:** XML sitemap SEO
 **Secondary Keywords:** XML sitemap best practices, sitemap index file, submit sitemap Google, sitemap generator, sitemap errors
 **Title Tag:** XML Sitemap Best Practices for SEO | LocalCatalyst.ai
@@ -14,7 +14,7 @@
 
 ---
 
-An XML sitemap is one of the most straightforward tools in technical SEO, yet it is frequently misconfigured. A well-structured sitemap helps search engines discover your pages faster, prioritize crawling, and understand your site's architecture. As part of our [technical SEO services](/technical-seo-services/), sitemap auditing is one of the first items we address because it directly affects how efficiently Google crawls and indexes your site.
+An XML sitemap is one of the most straightforward tools in technical SEO, yet it is frequently misconfigured. A well-structured sitemap helps search engines discover your pages faster, prioritize crawling, and understand your site's architecture. As part of our [technical SEO services](/services/seo-audit/technical-seo-audit/), sitemap auditing is one of the first items we address because it directly affects how efficiently Google crawls and indexes your site.
 
 This guide covers what XML sitemaps do, how to create them properly, what to include and exclude, and how to monitor them for ongoing SEO performance.
 
@@ -159,7 +159,7 @@ Submitting a sitemap is not a one-time task. Ongoing monitoring ensures it stays
 - **Validate after site changes.** Any migration, redesign, or URL restructure should trigger a sitemap audit. Ensure old URLs are removed, new URLs are added, and redirects are not included.
 - **Watch for sitemap errors.** Search Console will flag XML formatting errors, URLs that return non-200 status codes, and sitemaps that exceed size limits.
 
-Our [local SEO audit](/local-seo-audit/) process includes a full sitemap-to-index reconciliation as part of the crawl analysis phase.
+Our [local SEO audit](/services/seo-audit/local-seo-audit/) process includes a full sitemap-to-index reconciliation as part of the crawl analysis phase.
 
 ## Common Sitemap Mistakes
 

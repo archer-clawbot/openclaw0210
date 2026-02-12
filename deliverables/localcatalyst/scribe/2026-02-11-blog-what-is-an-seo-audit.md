@@ -3,8 +3,8 @@
 **Deliverable:** Hub blog post
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/what-is-an-seo-audit/
-**Parent Hub:** /seo-audit-services/
+**URL:** /learn/what-is-an-seo-audit/
+**Parent Hub:** /services/seo-audit/
 **Primary Keyword:** what is an SEO audit
 **Secondary Keywords:** SEO audit explained, SEO site audit, SEO audit definition, website SEO audit, purpose of SEO audit
 **Title Tag:** What Is an SEO Audit? Purpose & Process
@@ -16,7 +16,7 @@
 
 ## What Is an SEO Audit? Everything You Need to Know
 
-An SEO audit is a comprehensive evaluation of a website's ability to appear in search engine results. It examines technical infrastructure, on-page content, backlink profile, and competitive positioning to identify what is working, what is broken, and what opportunities exist for improvement. If you are considering [SEO audit services](/seo-audit-services/) for your business, understanding what an audit involves helps you evaluate providers and set realistic expectations for what the process delivers.
+An SEO audit is a comprehensive evaluation of a website's ability to appear in search engine results. It examines technical infrastructure, on-page content, backlink profile, and competitive positioning to identify what is working, what is broken, and what opportunities exist for improvement. If you are considering [SEO audit services](/services/seo-audit/) for your business, understanding what an audit involves helps you evaluate providers and set realistic expectations for what the process delivers.
 
 This guide explains the purpose of an SEO audit, what each component covers, and how the findings translate into ranking improvements.
 
@@ -37,7 +37,7 @@ An SEO audit answers three fundamental questions:
 - **Before starting SEO work.** An audit establishes the baseline and prevents you from investing in the wrong priorities.
 - **After a ranking drop.** If rankings declined suddenly, an audit identifies whether the cause is technical, algorithmic, competitive, or content-related.
 - **Before a site redesign or migration.** Major site changes introduce SEO risk. An audit before the project identifies what must be preserved during the transition.
-- **Periodically, as maintenance.** Google's algorithms, competitor strategies, and web standards evolve. Regular audits ensure your site keeps pace. Understanding [how often to conduct an SEO audit](/blog/how-often-seo-audit/) helps you establish the right cadence.
+- **Periodically, as maintenance.** Google's algorithms, competitor strategies, and web standards evolve. Regular audits ensure your site keeps pace. Understanding [how often to conduct an SEO audit](/learn/how-often-seo-audit/) helps you establish the right cadence.
 - **When switching SEO providers.** A fresh audit from a new provider establishes an independent assessment of your site's current state.
 
 ---
@@ -135,7 +135,7 @@ The off-page audit analyzes your website's external reputation, primarily throug
 - Citation consistency (NAP accuracy for local businesses)
 - Social signals and brand search volume
 
-For local businesses, the off-page audit also evaluates local citation accuracy and the geographic relevance of the link profile, factors that directly influence map pack rankings. Professional [link building services](/link-building-services/) use these findings to build targeted acquisition strategies.
+For local businesses, the off-page audit also evaluates local citation accuracy and the geographic relevance of the link profile, factors that directly influence map pack rankings. Professional [link building services](/managed/) use these findings to build targeted acquisition strategies.
 
 ### 4. Competitive Analysis
 
@@ -225,7 +225,7 @@ A professional audit adds:
 - **Customized recommendations** that account for your business model and resources
 - **Competitive benchmarking** that tools cannot fully automate
 
-The most effective audits combine automated tool data with expert analysis to deliver both comprehensive coverage and strategic prioritization. If you want to conduct initial checks yourself before investing in a professional audit, a [DIY SEO audit guide](/blog/diy-seo-audit-guide/) can walk you through the fundamentals.
+The most effective audits combine automated tool data with expert analysis to deliver both comprehensive coverage and strategic prioritization. If you want to conduct initial checks yourself before investing in a professional audit, a [DIY SEO audit guide](/learn/diy-seo-audit-guide/) can walk you through the fundamentals.
 
 ---
 

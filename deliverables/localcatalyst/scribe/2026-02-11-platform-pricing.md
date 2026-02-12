@@ -66,7 +66,7 @@ Everything a local business needs to compete in search.
 
 ### The Agency Toolkit -- Custom
 **Bulk pricing for agencies and freelancers**
-Order deliverables for your clients at volume rates. White-label ready. Contact us for agency pricing on 5+ concurrent projects.
+Order deliverables for your clients at volume rates. White-label ready. [Browse Our Services](/services/) for agency pricing on 5+ concurrent projects.
 <!-- TODO: Build dedicated landing page at /agency/ or /white-label/ for agency partnerships -->
 
 ---
@@ -99,7 +99,7 @@ Some businesses want a partner, not a product catalog. Our managed SEO service w
 - Quarterly strategy reviews
 - Priority support
 
-**Pricing:** Managed SEO starts at $1,500/month. Pricing depends on your market size, competition level, and scope.
+**Pricing:** For ongoing SEO management, [explore our managed plans](/managed/). Pricing depends on your market size, competition level, and scope.
 
 We don't publish managed pricing on the website because every engagement is scoped differently. But we'll give you a straight answer on the first call.
 
@@ -111,7 +111,7 @@ We don't publish managed pricing on the website because every engagement is scop
 
 | | LocalCatalyst | Traditional Agency | Freelancer |
 |---|---|---|---|
-| **Pricing** | Fixed per deliverable | $1,500-5,000/month retainer | $50-150/hour, scope creep |
+| **Pricing** | Fixed per deliverable | Monthly retainer | $50-150/hour, scope creep |
 | **Turnaround** | Hours to days | Weeks to months | Days to weeks |
 | **Transparency** | You see exactly what you're paying for | Monthly reports you can't decipher | Depends on the freelancer |
 | **Consistency** | AI system, same quality every time | Depends on who's assigned | Varies wildly |
@@ -137,7 +137,7 @@ In most cases, it's more consistent. A senior SEO specialist might produce a bet
 Every product includes one revision round at no extra cost. If the deliverable doesn't meet the specifications outlined on the product page, we'll redo it. We don't offer refunds on completed work, but we've never had to redo an order twice.
 
 **Do you offer white-label services for agencies?**
-Yes. Every deliverable is unbranded by default. You can present it to your clients as your own work. Agencies and freelancers use our products to scale their delivery capacity without hiring more staff. Contact us for agency volume pricing.
+Yes. Every deliverable is unbranded by default. You can present it to your clients as your own work. Agencies and freelancers use our products to scale their delivery capacity without hiring more staff. [Browse Our Services](/services/) for agency volume pricing.
 
 **How do you compare to [other tool/agency]?**
 We're not a tool -- you don't log in and run reports yourself. We're not a traditional agency -- you don't sign a contract and wait for monthly deliverables. We're a product. You order what you need, we deliver it, you use it. The closest comparison is a freelancer who's always available, always consistent, and always fast. Except we're cheaper and we don't take vacations.

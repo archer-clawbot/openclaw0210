@@ -3,8 +3,8 @@
 **Deliverable:** Service sub-page (cluster)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /local-seo-services/local-keyword-research/
-**Parent Hub:** /local-seo-services/
+**URL:** /services/local-keyword-research/
+**Parent Hub:** /services/
 **Primary Keyword:** local keyword research
 **Secondary Keywords:** local SEO keyword research, local keyword strategy, local search keywords, keyword research for local businesses, local keyword map
 **Title Tag:** Local Keyword Research for Local SEO | LocalCatalyst.ai
@@ -14,11 +14,11 @@
 
 ---
 
-*Breadcrumbs: [Home](/) > [Local SEO Services](/local-seo-services/) > Local Keyword Research*
+*Breadcrumbs: [Home](/) > [Local SEO Services](/services/) > Local Keyword Research*
 
 ## Local Keyword Research: The Foundation of Every Successful Local SEO Campaign
 
-Every page on your website, every GBP post, every service listing, and every piece of content you publish is only as effective as the keywords it targets. Choose the wrong keywords and you will attract the wrong traffic — or no traffic at all. Choose the right keywords and you will connect with consumers who are actively searching for the exact services you provide, in the exact locations you serve. This is why our [local SEO services](/local-seo-services/) begin with rigorous keyword research before a single optimization is implemented.
+Every page on your website, every GBP post, every service listing, and every piece of content you publish is only as effective as the keywords it targets. Choose the wrong keywords and you will attract the wrong traffic — or no traffic at all. Choose the right keywords and you will connect with consumers who are actively searching for the exact services you provide, in the exact locations you serve. This is why our [local SEO services](/services/) begin with rigorous keyword research before a single optimization is implemented.
 
 Local keyword research is a fundamentally different discipline from general keyword research. The intent signals are different, the search volume patterns are different, the competitive dynamics are different, and the mapping of keywords to pages follows different rules. This page walks through the complete methodology we use to build local keyword strategies that drive qualified leads.
 
@@ -134,7 +134,7 @@ A local keyword map is a structured document that connects every target keyword 
 | emergency plumber near me | 880 | High | Transactional | /emergency-plumbing/ | Not ranking | High |
 | water heater repair Austin | 590 | Medium | Commercial | /water-heater-repair/ | #8 | High |
 | plumber Round Rock | 320 | Low | Commercial | /service-areas/round-rock/ | Not ranking | Medium |
-| how much does a plumber cost Austin | 170 | Low | Informational | /blog/plumber-costs/ | Not ranking | Medium |
+| how much does a plumber cost Austin | 170 | Low | Informational | /learn/plumber-costs/ | Not ranking | Medium |
 
 This map is a living document. As rankings change, new opportunities emerge, and content is published, the map is updated to reflect current reality and guide ongoing strategy.
 
@@ -169,10 +169,10 @@ No single tool provides a complete picture. Effective local keyword research req
 
 Keyword research is not an isolated exercise — it is the foundation that informs every other element of your local SEO campaign:
 
-- **GBP optimization** — Keywords inform your category selections, business description, service listings, and posting topics. See our [GBP optimization service](/google-business-profile-management/gbp-optimization/) for how keyword research drives profile optimization.
-- **On-page SEO** — Title tags, headers, meta descriptions, and body content are all built around keyword targets from the keyword map. Our [on-page SEO services](/on-page-seo-services/) execute the on-page strategy defined by keyword research.
-- **Content strategy** — Blog topics, FAQ content, and resource pages are generated from informational keywords identified in research. Our [SEO content strategy](/seo-content-strategy/) translates keyword data into an editorial calendar.
-- **Google Maps ranking** — The keywords you target on your website and GBP directly influence which [Google Maps queries](/local-seo-services/google-maps-ranking/) your business appears for.
+- **GBP optimization** — Keywords inform your category selections, business description, service listings, and posting topics. See our [GBP optimization service](/services/gbp-optimization/) for how keyword research drives profile optimization.
+- **On-page SEO** — Title tags, headers, meta descriptions, and body content are all built around keyword targets from the keyword map. Our [on-page SEO services](/services/on-page-optimization/) execute the on-page strategy defined by keyword research.
+- **Content strategy** — Blog topics, FAQ content, and resource pages are generated from informational keywords identified in research. Our [SEO content strategy](/services/content-pages/) translates keyword data into an editorial calendar.
+- **Google Maps ranking** — The keywords you target on your website and GBP directly influence which [Google Maps queries](/services/google-maps-ranking/) your business appears for.
 - **Geo-grid tracking** — The keywords identified in research become the terms we track across your service area using geo-grid methodology.
 
 ## Frequently Asked Questions
@@ -199,4 +199,4 @@ AI tools can assist with brainstorming seed keywords, expanding keyword lists, a
 
 ---
 
-**Want to see the keyword opportunities in your market?** Our [free SEO audit](/services/seo-audit/) includes a competitive keyword analysis showing the highest-value local keywords in your industry, where you currently rank, and where the largest gaps exist relative to your top competitors. No guesswork — just data.
+**Want to see the keyword opportunities in your market?** Our [SEO Audit](/services/seo-audit/) includes a competitive keyword analysis showing the highest-value local keywords in your industry, where you currently rank, and where the largest gaps exist relative to your top competitors. No guesswork — just data.

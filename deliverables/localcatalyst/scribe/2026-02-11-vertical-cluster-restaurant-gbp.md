@@ -16,7 +16,7 @@
 
 For restaurants, the Google Business Profile is arguably more important than the website itself. When someone searches "restaurants near me," "best Italian food [city]," or "brunch spots open now," the Map Pack and Knowledge Panel results powered by GBP dominate the search experience. As a central component of our [restaurant SEO program](/industries/restaurant-seo/), Google Business Profile optimization determines whether your restaurant appears when hungry diners are deciding where to eat. This guide covers every element of GBP optimization specific to the restaurant industry.
 
-LocalCatalyst's [Google Business Profile management service](/google-business-profile-management/) handles the ongoing optimization, posting, and performance tracking that keeps your restaurant's listing competitive against the dozens of other dining options in your local market.
+LocalCatalyst's [Google Business Profile management service](/services/gbp-optimization/) handles the ongoing optimization, posting, and performance tracking that keeps your restaurant's listing competitive against the dozens of other dining options in your local market.
 
 ## Why GBP is the Restaurant's Digital Front Door
 
@@ -65,7 +65,7 @@ Google allows restaurants to add menu items directly to their GBP listing. This 
 - Influences which cuisine-specific searches trigger your listing
 - Supports voice search results ("show me restaurants with pad thai near me")
 
-Structure your menu in GBP using sections (Appetizers, Entrees, Desserts, Drinks) with item names, descriptions, and prices. Keep it updated when seasonal items change. This connects to the detailed guidance in our [restaurant menu SEO](/industries/restaurant-seo/restaurant-menu-seo/) cluster page.
+Structure your menu in GBP using sections (Appetizers, Entrees, Desserts, Drinks) with item names, descriptions, and prices. Keep it updated when seasonal items change. This connects to the detailed guidance in our [restaurant menu SEO](/industries/restaurant-seo/) cluster page.
 
 ### Attributes and Features
 
@@ -103,7 +103,7 @@ Diners upload their own photos to your GBP listing, and you cannot remove them u
 
 ## Reviews: Managing Your Restaurant's Reputation on GBP
 
-Reviews are covered in depth in our [restaurant review management](/industries/restaurant-seo/restaurant-review-management/) guide, but the GBP-specific elements deserve attention here.
+Reviews are covered in depth in our [restaurant review management](/industries/restaurant-seo/) guide, but the GBP-specific elements deserve attention here.
 
 **Review velocity matters.** Google favors restaurants that receive a steady stream of recent reviews over those with a high total count but few recent additions. A restaurant with 200 reviews but none in the last month appears less relevant than one with 80 reviews and 10 in the last month.
 

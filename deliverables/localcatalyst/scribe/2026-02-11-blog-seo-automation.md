@@ -3,8 +3,8 @@
 **Deliverable:** Thought leadership blog post
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/seo-automation/
-**Parent Hub:** /blog/
+**URL:** /learn/seo-automation/
+**Parent Hub:** /learn/
 **Primary Keyword:** SEO automation
 **Secondary Keywords:** automated SEO reporting, automated site audits, SEO workflow automation, automated rank tracking, automated citation management, SEO process automation
 **Title Tag:** SEO Automation: What to Automate vs. Keep Human
@@ -79,7 +79,7 @@ The tasks that should remain human share their own characteristics: they require
 
 An automated system can identify 50 opportunities and 30 problems. It cannot decide which five to pursue this quarter given your budget, your competitive position, your business goals, and your capacity for implementation. Strategic prioritization requires understanding what matters to your specific business, not just what the data shows.
 
-This is the core of what a [local SEO agency](/services/local-seo/) provides — not the data (agents can handle that), but the judgment about what to do with the data.
+This is the core of what a [local SEO agency](/services/) provides — not the data (agents can handle that), but the judgment about what to do with the data.
 
 ### Client Communication
 

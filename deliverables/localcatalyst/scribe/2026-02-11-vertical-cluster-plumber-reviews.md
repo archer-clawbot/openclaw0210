@@ -16,7 +16,7 @@
 
 Online reviews are the single most influential factor in whether a homeowner calls your plumbing company or your competitor's. When someone searches "plumber near me," they see three local pack results with star ratings and review counts displayed prominently. A plumber with 400 reviews at 4.8 stars will get clicked before a plumber with 40 reviews at 5.0 stars every time, because volume signals legitimacy and a perfect score with few reviews signals either a new business or selective review collection. This guide is part of our comprehensive [plumbing SEO resource](/industries/plumbing-seo/) and provides a practical review generation system built for how plumbing businesses actually operate.
 
-For plumbing companies that want a managed approach to review generation and reputation monitoring, our [review generation service](/reputation-management-services/review-generation/) handles the strategy, tools, and ongoing execution.
+For plumbing companies that want a managed approach to review generation and reputation monitoring, our review generation service handles the strategy, tools, and ongoing execution.
 
 ## Why Reviews Matter More for Plumbers Than Almost Any Other Industry
 

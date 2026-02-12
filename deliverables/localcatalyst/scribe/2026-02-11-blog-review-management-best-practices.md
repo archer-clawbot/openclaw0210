@@ -3,8 +3,8 @@
 **Deliverable:** Hub blog post
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/review-management-best-practices/
-**Parent Hub:** /reputation-management-services/
+**URL:** /learn/review-management-best-practices/
+**Parent Hub:** /services/
 **Primary Keyword:** review management best practices
 **Secondary Keywords:** online review management, review management strategy, review monitoring, managing business reviews, review management tips
 **Title Tag:** Review Management Best Practices for Local Business
@@ -14,7 +14,7 @@
 
 ---
 
-Managing your online reviews is not a part-time task you delegate to whoever has a free moment. It is a strategic business function that directly impacts your revenue, your search rankings, and how AI systems represent your business. Effective review management requires structure, consistency, and a clear process. This guide covers the best practices that underpin a strong [reputation management](/reputation-management-services/) program.
+Managing your online reviews is not a part-time task you delegate to whoever has a free moment. It is a strategic business function that directly impacts your revenue, your search rankings, and how AI systems represent your business. Effective review management requires structure, consistency, and a clear process. This guide covers the best practices that underpin a strong reputation management program.
 
 These practices are drawn from managing review profiles for businesses across dozens of industries. They apply whether you have 20 reviews or 2,000.
 
@@ -75,7 +75,7 @@ The review request should feel like a natural part of the customer experience, n
 
 Consistency is what separates businesses with 50 reviews from businesses with 500 reviews. It is not about finding a magic tactic. It is about executing a standard process every single day.
 
-For detailed tactics on generating reviews, our companion guide on [how to get more Google reviews](/blog/how-to-get-more-google-reviews/) covers twelve specific methods.
+For detailed tactics on generating reviews, our companion guide on [how to get more Google reviews](/learn/how-to-get-more-google-reviews/) covers twelve specific methods.
 
 ## Best Practice 4: Never Incentivize, Gate, or Fabricate Reviews
 
@@ -98,7 +98,7 @@ Reviews are not just reputation signals. They are customer feedback data that sh
 - **Volume tracking:** How many reviews did you receive this month compared to previous months and compared to competitors?
 - **Rating trend:** Is your average rating stable, improving, or declining?
 - **Sentiment categories:** What topics do positive reviews mention most? What complaints appear in negative reviews?
-- **Keyword analysis:** What words and phrases do customers use to describe your business? These should inform your [content strategy](/seo-content-strategy/) and on-page optimization.
+- **Keyword analysis:** What words and phrases do customers use to describe your business? These should inform your [content strategy](/services/content-pages/) and on-page optimization.
 - **Competitor comparison:** How does your review volume, rating, and velocity compare to the top three competitors in your market?
 - **Platform distribution:** Are you over-indexed on Google but neglecting Yelp or industry-specific platforms?
 
@@ -116,7 +116,7 @@ Fake reviews happen. Competitors, disgruntled former employees, or people who co
 4. **If Google does not remove the review,** escalate through Google Business Profile support with documentation.
 5. **If the review remains,** your professional public response will serve as sufficient context for future readers. One fake review with a calm response does minimal damage.
 
-For detailed guidance on the removal process, see our guide on [removing fake Google reviews](/blog/fake-google-reviews-removal/).
+For detailed guidance on the removal process, see our guide on [removing fake Google reviews](/learn/fake-google-reviews-removal/).
 
 ## Best Practice 7: Leverage Reviews as Marketing Assets
 
@@ -146,7 +146,7 @@ This does not mean diluting your Google strategy. It means ensuring that your re
 
 ## Best Practice 9: Connect Review Management to SEO Strategy
 
-Review management and [local SEO](/local-seo-services/) are not separate functions. They are deeply interconnected, and managing them in silos leaves value on the table.
+Review management and [local SEO](/services/) are not separate functions. They are deeply interconnected, and managing them in silos leaves value on the table.
 
 **Connections to leverage:**
 - Review keywords should inform your keyword targeting strategy
@@ -192,4 +192,6 @@ Track: total review count (by platform), average rating (by platform), review ve
 
 ---
 
-**Ready to implement a professional review management system?** Our reputation management team builds, monitors, and optimizes review programs that generate consistent results. [Order an SEO Audit](/services/seo-audit/) to benchmark your current review profile, or [See Our Services](/services/) to discuss a review management strategy tailored to your business.
+**Ready to turn your reviews into a ranking advantage?** [Explore Managed SEO](/managed/)
+
+---

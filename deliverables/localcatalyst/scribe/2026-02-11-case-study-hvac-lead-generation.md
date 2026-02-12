@@ -5,6 +5,10 @@
 **Agent:** Scribe
 **URL:** /case-studies/hvac-company-lead-generation/
 **Word Count Target:** 1,500
+**Title Tag:** HVAC SEO Case Study — 488% Lead Increase | LocalCatalyst
+**Meta Description:** HVAC company increased organic leads from 8 to 47/month in 120 days. See how LocalCatalyst's local SEO strategy delivered a 488% lead increase.
+**H1:** How Local SEO Generated 47 Monthly Leads for an HVAC Company
+**Primary Keyword:** HVAC SEO case study
 
 ---
 

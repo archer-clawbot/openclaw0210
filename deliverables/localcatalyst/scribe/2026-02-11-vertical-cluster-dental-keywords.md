@@ -16,7 +16,7 @@
 
 Dental practices live and die by a surprisingly small set of high-value keywords. Unlike medical practices with dozens of specialties, most general dental offices compete for the same core terms — "dentist near me," "emergency dentist [city]," "teeth cleaning [city]." The practices that win those terms fill their schedules. The rest rely on insurance directories and word of mouth.
 
-The key to [dental SEO](/industries/dental-seo/) keyword strategy isn't finding obscure long-tail terms — it's understanding how to segment your keyword universe by patient intent, map each segment to the right page, and prioritize the terms that actually produce revenue. This guide provides that framework. For methodology details on local keyword research execution, visit our [local keyword research](/local-seo-services/local-keyword-research/) service.
+The key to [dental SEO](/industries/dental-seo/) keyword strategy isn't finding obscure long-tail terms — it's understanding how to segment your keyword universe by patient intent, map each segment to the right page, and prioritize the terms that actually produce revenue. This guide provides that framework. For methodology details on local keyword research execution, visit our [local keyword research](/services/local-keyword-research/) service.
 
 ## The Dental Keyword Landscape: Six Categories That Matter
 

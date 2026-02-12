@@ -3,8 +3,8 @@
 **Deliverable:** Service sub-page (cluster)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /local-seo-services/local-3-pack-optimization/
-**Parent Hub:** /local-seo-services/
+**URL:** /services/local-3-pack-optimization/
+**Parent Hub:** /services/
 **Primary Keyword:** Google local 3-pack
 **Secondary Keywords:** local 3-pack optimization, local pack ranking, Map Pack SEO, how to get into Google 3-pack, local pack ranking factors
 **Title Tag:** Google Local 3-Pack Optimization Guide | LocalCatalyst.ai
@@ -14,11 +14,11 @@
 
 ---
 
-*Breadcrumbs: [Home](/) > [Local SEO Services](/local-seo-services/) > Local 3-Pack Optimization*
+*Breadcrumbs: [Home](/) > [Local SEO Services](/services/) > Local 3-Pack Optimization*
 
 ## Google Local 3-Pack: How to Win the Most Valuable Real Estate in Local Search
 
-The Google local 3-pack is the three-business map listing that appears at the top of search results whenever Google detects local intent. For local businesses, earning a position in this 3-pack is the highest-impact outcome that [local SEO services](/local-seo-services/) can deliver — and it is the objective around which our entire strategy is built.
+The Google local 3-pack is the three-business map listing that appears at the top of search results whenever Google detects local intent. For local businesses, earning a position in this 3-pack is the highest-impact outcome that [local SEO services](/services/) can deliver — and it is the objective around which our entire strategy is built.
 
 Research consistently shows that the local 3-pack captures approximately 42% of all clicks on local search results pages. That number is staggering. It means that nearly half of all people who search for a local service click on one of the three map results before looking at anything else — before scrolling to organic results, before considering paid ads, and before engaging with AI Overviews.
 
@@ -45,7 +45,7 @@ Below the three listings, a "More businesses" or "More places" link expands to t
 
 ## Ranking Factors Specific to the 3-Pack
 
-The local 3-pack draws from Google Maps results, so the same three core ranking factors apply: relevance, distance, and prominence. However, the competitive dynamics of the 3-pack introduce additional nuances. For a detailed breakdown of these core factors, see our [Google Maps ranking guide](/local-seo-services/google-maps-ranking/).
+The local 3-pack draws from Google Maps results, so the same three core ranking factors apply: relevance, distance, and prominence. However, the competitive dynamics of the 3-pack introduce additional nuances. For a detailed breakdown of these core factors, see our [Google Maps ranking guide](/services/google-maps-ranking/).
 
 ### GBP Completeness and Category Optimization
 
@@ -55,7 +55,7 @@ The specific GBP elements that influence 3-pack positioning:
 
 - **Primary category** — This is the single most powerful ranking signal in local SEO. Your primary category must exactly match the core service you want to rank for. A business with "Dentist" as its primary category will outrank one with "Dental Clinic" for searches containing the word "dentist," all else being equal.
 - **Additional categories** — Secondary categories expand the queries for which you are eligible to appear. Most businesses should use 3-7 additional categories that reflect genuine service offerings.
-- **Profile completeness** — Google tracks a completeness metric internally. Profiles with every field populated — description, services, products, attributes, hours, photos, Q&A — receive a ranking advantage over incomplete profiles. Our [GBP optimization service](/google-business-profile-management/gbp-optimization/) ensures no field is left empty.
+- **Profile completeness** — Google tracks a completeness metric internally. Profiles with every field populated — description, services, products, attributes, hours, photos, Q&A — receive a ranking advantage over incomplete profiles. Our [GBP optimization service](/services/gbp-optimization/) ensures no field is left empty.
 
 ### Review Signals
 
@@ -101,11 +101,11 @@ Implement a systematic review generation process. This means asking every satisf
 
 ### Step 3: Maximize Profile Completeness
 
-Fill every empty field. Add all relevant services with descriptions. Upload high-quality photos (our [GBP photos and videos guide](/google-business-profile-management/gbp-photos-videos/) covers best practices). Write a comprehensive business description. Add products if applicable. Configure every attribute. Set special hours for holidays. Seed the Q&A section with common customer questions and authoritative answers.
+Fill every empty field. Add all relevant services with descriptions. Upload high-quality photos (our [GBP photos and videos guide](/services/gbp-optimization/gbp-photos-videos/) covers best practices). Write a comprehensive business description. Add products if applicable. Configure every attribute. Set special hours for holidays. Seed the Q&A section with common customer questions and authoritative answers.
 
 ### Step 4: Build Citation Consistency
 
-Audit your citations across the top 50-100 directories and data aggregators. Fix every NAP inconsistency. Submit to aggregators you have not yet claimed. Add listings on industry-specific directories. The goal is perfect NAP consistency across every online mention. This connects directly to our broader [citation building services](/citation-building-services/).
+Audit your citations across the top 50-100 directories and data aggregators. Fix every NAP inconsistency. Submit to aggregators you have not yet claimed. Add listings on industry-specific directories. The goal is perfect NAP consistency across every online mention. This connects directly to our broader [citation building services](/services/citation-building/).
 
 ### Step 5: Post Weekly and Add Photos
 
@@ -113,7 +113,7 @@ Maintain an active GBP with weekly posts and regular photo uploads. Posts keep y
 
 ### Step 6: Optimize Your Website for Local Relevance
 
-Ensure your website reinforces your GBP signals. Include your NAP on every page (footer), create dedicated service pages optimized for target keywords using proper [local keyword research](/local-seo-services/local-keyword-research/), implement LocalBusiness schema markup, embed a Google Map, and ensure mobile performance is strong.
+Ensure your website reinforces your GBP signals. Include your NAP on every page (footer), create dedicated service pages optimized for target keywords using proper [local keyword research](/services/local-keyword-research/), implement LocalBusiness schema markup, embed a Google Map, and ensure mobile performance is strong.
 
 ## Local Pack Filtering and Diversity
 
@@ -154,4 +154,4 @@ The local 3-pack is personalized based on the searcher's exact location. Google 
 
 ---
 
-**Want to know where your business stands in the local 3-pack?** Our [free SEO audit](/services/seo-audit/) includes a geo-grid analysis showing your exact 3-pack positions across your service area, a competitive comparison with the businesses currently dominating the map, and a prioritized roadmap for earning your place in the top three. Request yours today.
+**Want to know where your business stands in the local 3-pack?** Our [SEO Audit](/services/seo-audit/) includes a geo-grid analysis showing your exact 3-pack positions across your service area, a competitive comparison with the businesses currently dominating the map, and a prioritized roadmap for earning your place in the top three. Order yours today.

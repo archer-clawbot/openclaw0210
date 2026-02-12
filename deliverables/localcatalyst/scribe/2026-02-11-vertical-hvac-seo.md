@@ -20,7 +20,7 @@ The HVAC industry runs on urgency and seasons. When a furnace dies in January or
 
 But here is the problem most HVAC companies face: the phone rings off the hook for three months during peak season, then goes quiet. Summer is chaos. Winter is chaos. Spring and fall feel like the business is dying. This feast-or-famine cycle is not a demand problem — it is a visibility problem. Homeowners search for HVAC services year-round. Maintenance, efficiency upgrades, indoor air quality, duct cleaning, smart thermostat installation — these searches happen in every season. The companies that capture them are the ones that stay booked twelve months a year.
 
-At LocalCatalyst, HVAC SEO is one of our deepest verticals. We understand the seasonal dynamics, the emergency-driven search patterns, the multi-city service area challenges, and the constant competitive pressure from lead aggregators like HomeAdvisor and Angi that want to sell you your own customers at a markup. Our [CATALYST methodology](/local-seo-services/) (Audit, Prioritize, Execute, Expand) is built to systematically build the kind of year-round local search dominance that smooths out the seasonal rollercoaster and generates consistent lead flow.
+At LocalCatalyst, HVAC SEO is one of our deepest verticals. We understand the seasonal dynamics, the emergency-driven search patterns, the multi-city service area challenges, and the constant competitive pressure from lead aggregators like HomeAdvisor and Angi that want to sell you your own customers at a markup. Our [CATALYST methodology](/services/) (Audit, Prioritize, Execute, Expand) is built to systematically build the kind of year-round local search dominance that smooths out the seasonal rollercoaster and generates consistent lead flow.
 
 Want to see where your HVAC business ranks across your service area — and where you are invisible? [Order an SEO Audit](/services/seo-audit/) and we will map your visibility on a geo-grid showing every gap and opportunity.
 
@@ -44,11 +44,11 @@ Seasonality is the defining characteristic of HVAC search demand, and your SEO s
 
 The critical insight in seasonal HVAC SEO is that content must be published and ranking before the seasonal surge, not during it. A blog post about "how to prepare your AC for summer" published in June is too late — it needed to be indexed and ranking by April. We build 12-month editorial calendars that ensure your seasonal content is live and gaining authority 2-3 months before peak demand in each category.
 
-Our [on-page SEO services](/on-page-seo-services/) ensure every seasonal page is optimized with the right keyword targets, internal linking structure, and content depth to compete for the terms that drive calls when demand peaks.
+Our [on-page SEO services](/services/on-page-optimization/) ensure every seasonal page is optimized with the right keyword targets, internal linking structure, and content depth to compete for the terms that drive calls when demand peaks.
 
 ## Google Business Profile for HVAC Companies
 
-Your GBP is your most valuable local SEO asset, and for HVAC companies operating as service area businesses, [optimizing it correctly](/google-business-profile-management/) requires understanding Google's specific policies and the unique needs of heating and cooling searches.
+Your GBP is your most valuable local SEO asset, and for HVAC companies operating as service area businesses, [optimizing it correctly](/services/gbp-optimization/) requires understanding Google's specific policies and the unique needs of heating and cooling searches.
 
 ### Emergency Hours and Availability Signals
 
@@ -82,7 +82,7 @@ Our approach builds service area pages that rank because they deserve to:
 - **Proper internal linking** — service area pages link to detailed service pages, and your main service pages link back to their location variants
 - **Schema markup** — LocalBusiness and Service schema with service area definitions help search engines understand your geographic and service coverage
 
-Our [on-page SEO services](/on-page-seo-services/) handle the technical optimization of every service area page, from title tags and header structure to internal linking and schema implementation.
+Our [on-page SEO services](/services/on-page-optimization/) handle the technical optimization of every service area page, from title tags and header structure to internal linking and schema implementation.
 
 ## Content Strategy for HVAC Companies
 
@@ -98,7 +98,7 @@ Content is what separates HVAC companies that rank from those that pay per click
 
 ## Link Building for HVAC Companies
 
-Backlinks remain a significant ranking factor, and HVAC companies have several natural link building opportunities that many agencies overlook. Our [link building services](/link-building-services/) for HVAC companies target the highest-value opportunities.
+Backlinks remain a significant ranking factor, and HVAC companies have several natural link building opportunities that many agencies overlook. Our [link building services](/managed/) for HVAC companies target the highest-value opportunities.
 
 **Local supplier and manufacturer partnerships.** Equipment manufacturers and distributors often maintain "find a dealer" or "certified installer" directories on high-authority domains. Trane, Carrier, Lennox, Rheem, Goodman — if you are an authorized dealer or certified installer, those directory listings are powerful backlinks.
 
@@ -131,20 +131,20 @@ The most significant shift: HVAC companies moving from seasonal feast-or-famine 
 ## Supporting Content
 
 ### Planned Cluster Pages
-- [HVAC SEO Keywords](/industries/hvac-seo/hvac-keywords/) — Keyword research guide covering every seasonal, service, and location term HVAC companies should target
-- [HVAC Google Business Profile](/industries/hvac-seo/hvac-google-business-profile/) — Complete GBP optimization guide for heating and cooling companies
-- [HVAC Website Design](/industries/hvac-seo/hvac-website-design/) — Website design best practices for HVAC companies that convert visitors into calls
-- [HVAC Content Strategy](/industries/hvac-seo/hvac-content-strategy/) — Year-round content planning for heating and cooling companies
-- [Seasonal HVAC SEO](/industries/hvac-seo/seasonal-hvac-seo/) — Managing seasonal demand fluctuations through strategic SEO planning
+- [HVAC SEO Keywords](/industries/hvac-seo/) — Keyword research guide covering every seasonal, service, and location term HVAC companies should target
+- [HVAC Google Business Profile](/industries/hvac-seo/) — Complete GBP optimization guide for heating and cooling companies
+- [HVAC Website Design](/industries/hvac-seo/) — Website design best practices for HVAC companies that convert visitors into calls
+- [HVAC Content Strategy](/industries/hvac-seo/) — Year-round content planning for heating and cooling companies
+- [Seasonal HVAC SEO](/industries/hvac-seo/) — Managing seasonal demand fluctuations through strategic SEO planning
 
 ### Related Industry Verticals
 - [Home Services SEO](/industries/home-services-seo/) — Comprehensive strategies for all home service companies
 - [Plumbing SEO](/industries/plumbing-seo/) — Specialized strategies for plumbing companies with similar service area challenges
 
 ### Related Blog Posts
-- [Local SEO Ranking Factors in 2026](/blog/local-seo-ranking-factors-2026/) — The signals that determine your local visibility
-- [Map Pack Ranking Guide](/blog/map-pack-ranking-guide/) — How to get your business into the top 3
-- [Local Link Building Strategies](/blog/local-link-building-strategies/) — Building backlinks that boost local rankings
+- [Local SEO Ranking Factors in 2026](/learn/local-seo-ranking-factors-2026/) — The signals that determine your local visibility
+- [Map Pack Ranking Guide](/learn/map-pack-ranking-guide/) — How to get your business into the top 3
+- [Local Link Building Strategies](/learn/local-link-building-strategies/) — Building backlinks that boost local rankings
 
 ## Frequently Asked Questions
 
@@ -182,4 +182,4 @@ We track everything tied to lead generation: geo-grid rankings across your entir
 
 ---
 
-*Ready to generate HVAC leads year-round instead of riding the seasonal rollercoaster? [Request your free HVAC SEO audit](/services/seo-audit/) and see exactly where you rank across your service area, where you are invisible, and where the biggest opportunities lie.*
+*Ready to generate HVAC leads year-round instead of riding the seasonal rollercoaster? [Order your HVAC SEO Audit](/services/seo-audit/) and see exactly where you rank across your service area, where you are invisible, and where the biggest opportunities lie.*

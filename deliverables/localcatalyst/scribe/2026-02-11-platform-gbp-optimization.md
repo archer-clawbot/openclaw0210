@@ -17,7 +17,7 @@
 
 **$297+ | Delivered in 24-48 hours**
 
-[Order GBP Optimization](/order/gbp-optimization/)
+[Order GBP Optimization](/free-audit/)
 
 ---
 
@@ -101,6 +101,12 @@ We handle everything else.
 
 ---
 
+## How We Compare
+
+Most GBP optimization services fall into two categories: DIY tools that give you a checklist but no execution, or agencies that bundle GBP into a monthly retainer starting at $500+/month. Local SEO agencies typically charge $300-500 for a one-time GBP setup — but require a retainer to maintain it. We deliver a complete, ready-to-implement optimization package at a one-time price with no ongoing commitment.
+
+---
+
 ## Frequently Asked Questions
 
 **Do you need my Google account login?**
@@ -116,7 +122,7 @@ No one can guarantee map pack rankings. Google's local algorithm considers proxi
 We don't handle suspension recovery as part of this product. If your profile is currently suspended, resolve that first (Google has a reinstatement process), then order optimization once your profile is active again.
 
 **Can I order this for multiple locations?**
-Yes. Multi-location businesses get a 15% discount on orders of 5+ locations. Each location receives its own fully customized optimization. Contact us for multi-location pricing.
+Yes. Multi-location businesses get a 15% discount on orders of 5+ locations. Each location receives its own fully customized optimization. [Browse Our Services](/services/) for multi-location pricing details.
 
 ---
 
@@ -127,7 +133,7 @@ Yes. Multi-location businesses get a 15% discount on orders of 5+ locations. Eac
 | GBP Optimization | $297 | 24-48 hours | Description, categories, services, Q&As, posting calendar, completeness score |
 | GBP Optimization + Posts | $497 | 24-48 hours | Everything above + 8 published-ready GBP posts |
 
-[Order GBP Optimization ($297)](/order/gbp-optimization/?tier=standard) | [Order GBP + Posts ($497)](/order/gbp-optimization/?tier=premium)
+[Order GBP Optimization ($297)](/free-audit/) | [Order GBP + Posts ($497)](/free-audit/)
 
 ---
 
@@ -138,5 +144,6 @@ GBP optimization handles the map pack. These products handle the rest:
 - **[SEO Audit](/services/seo-audit/)** ($297+) -- Diagnose your full SEO health, including GBP-to-website alignment
 - **[Content Pages](/services/content-pages/)** ($97/page) -- Build the service and location pages that support your GBP rankings
 - **[Schema Markup](/services/schema-markup/)** ($197+) -- Add LocalBusiness structured data that reinforces your GBP information
+- **[Monthly Content](/services/monthly-content/)** ($297+/mo) -- Keep your site publishing consistently to build the topical authority that sustains map pack rankings
 
 The businesses that dominate local search don't just optimize their GBP or their website. They do both. The signals reinforce each other.

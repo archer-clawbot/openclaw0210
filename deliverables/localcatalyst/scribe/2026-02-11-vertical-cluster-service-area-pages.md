@@ -14,13 +14,13 @@
 
 ---
 
-*Breadcrumbs: [Home](/) > [Industries](/industries/) > [Home Services SEO](/industries/home-services-seo/) > Service Area Page SEO*
+*Breadcrumbs: [Home](/) > [Industries](/services/) > [Home Services SEO](/industries/home-services-seo/) > Service Area Page SEO*
 
 ## Service Area Page SEO: How to Rank in Every City You Serve
 
 A home service company that serves 20 cities faces a fundamental SEO challenge: Google needs to understand that your business is relevant in all 20 of those markets, but creating 20 versions of the same page with only the city name changed will get you penalized. This tension — the need for geographic breadth versus Google's demand for unique, valuable content — is the central problem that service area page SEO solves. As our [home services SEO guide](/industries/home-services-seo/) explains, covering your full service territory in organic search is essential for lead generation, and service area pages are the mechanism that makes it possible.
 
-Every plumber, HVAC company, electrician, roofer, and landscaper in a competitive market needs a service area page strategy. The companies that do it well generate leads from every corner of their service territory. The companies that do it poorly — or do not do it at all — remain invisible outside the 3-5 mile radius surrounding their physical address. Our [local SEO services](/local-seo-services/) are built around this exact challenge: expanding your visible footprint to match your actual service area.
+Every plumber, HVAC company, electrician, roofer, and landscaper in a competitive market needs a service area page strategy. The companies that do it well generate leads from every corner of their service territory. The companies that do it poorly — or do not do it at all — remain invisible outside the 3-5 mile radius surrounding their physical address. Our [local SEO services](/services/) are built around this exact challenge: expanding your visible footprint to match your actual service area.
 
 ## Why Service Area Pages Matter
 

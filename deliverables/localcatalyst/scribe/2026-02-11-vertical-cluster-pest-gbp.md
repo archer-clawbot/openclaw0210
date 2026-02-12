@@ -14,7 +14,7 @@
 
 ---
 
-When a homeowner discovers a pest problem, the first thing they do is search Google. The Map Pack dominates those results, displaying three pest control companies with ratings, hours, and a click-to-call button. If your company is not in that Map Pack, you are losing calls to competitors who are. This guide is part of our [pest control SEO](/industries/pest-control-seo/) hub and covers the GBP optimizations specific to the pest control industry. For comprehensive profile management, explore our [Google Business Profile management](/google-business-profile-management/) service.
+When a homeowner discovers a pest problem, the first thing they do is search Google. The Map Pack dominates those results, displaying three pest control companies with ratings, hours, and a click-to-call button. If your company is not in that Map Pack, you are losing calls to competitors who are. This guide is part of our [pest control SEO](/industries/pest-control-seo/) hub and covers the GBP optimizations specific to the pest control industry. For comprehensive profile management, explore our [Google Business Profile management](/services/gbp-optimization/) service.
 
 ## Why GBP Is the Highest-ROI Channel for Pest Control
 

@@ -20,7 +20,7 @@ Home services is one of the most competitive verticals in local SEO. Every plumb
 
 The stakes are high because the economics are compelling. A single "emergency plumber near me" click can generate a $500-2,000 service call. An "AC replacement [city]" lead can be worth $8,000-15,000. When you multiply that by hundreds of searches per month across a service area that might cover 15-30 cities and neighborhoods, the revenue gap between the business ranking #1 and the business ranking #10 is often six figures annually.
 
-At LocalCatalyst, home services SEO is one of our deepest areas of expertise. We understand the unique challenges that service area businesses face — hidden addresses, multi-city service areas, seasonal demand fluctuations, and the constant pressure from lead aggregators that want to insert themselves between you and your customers. Our [CATALYST methodology](/local-seo-services/) (Audit, Prioritize, Execute, Expand) is built to systematically dismantle these challenges and build the kind of local search dominance that generates leads every single day.
+At LocalCatalyst, home services SEO is one of our deepest areas of expertise. We understand the unique challenges that service area businesses face — hidden addresses, multi-city service areas, seasonal demand fluctuations, and the constant pressure from lead aggregators that want to insert themselves between you and your customers. Our [CATALYST methodology](/services/) (Audit, Prioritize, Execute, Expand) is built to systematically dismantle these challenges and build the kind of local search dominance that generates leads every single day.
 
 Want to know how your home service business stacks up in local search? [Order an SEO Audit](/services/seo-audit/) and we will map your visibility across a geo-grid of your entire service area — showing you exactly where you rank, where you are invisible, and where the biggest opportunities lie.
 
@@ -34,13 +34,13 @@ Most home service companies do not have storefronts where customers visit. They 
 
 This creates a fundamental challenge: Google uses proximity as a major ranking factor, but without a visible address, the algorithm has to rely more heavily on the address you registered during verification. A plumber based in the northern suburbs who serves the entire metro area will struggle to appear in Map Pack results for searches happening 30 miles south — even though they serve that area every day.
 
-Our [local SEO strategies](/local-seo-services/) for SABs address this proximity gap through a combination of GBP optimization, strategic service area page development, locally-relevant content, and citation building that reinforces your relevance across your full service territory.
+Our [local SEO strategies](/services/) for SABs address this proximity gap through a combination of GBP optimization, strategic service area page development, locally-relevant content, and citation building that reinforces your relevance across your full service territory.
 
 ### Multi-City Coverage Without Spam
 
 A typical home service company serves 10-30 cities and neighborhoods. Ranking in each of those areas requires unique, substantive content for each location — not 30 copies of the same page with the city name swapped out.
 
-Google's helpful content system specifically targets thin, location-swapped pages. We have seen home service companies penalized for exactly this approach — dozens of service area pages that were functionally identical except for the city name in the H1 and title tag. Our [technical SEO services](/technical-seo-services/) ensure your service area pages each contain genuinely unique, locally-relevant content that serves the searcher and satisfies Google's quality requirements.
+Google's helpful content system specifically targets thin, location-swapped pages. We have seen home service companies penalized for exactly this approach — dozens of service area pages that were functionally identical except for the city name in the H1 and title tag. Our [technical SEO services](/services/seo-audit/technical-seo-audit/) ensure your service area pages each contain genuinely unique, locally-relevant content that serves the searcher and satisfies Google's quality requirements.
 
 ### Lead Aggregator Competition
 
@@ -64,7 +64,7 @@ Our team builds service area pages that rank because they deserve to — each on
 
 ## Google Business Profile for Service Area Businesses
 
-Your GBP is your most important local SEO asset, and [optimizing it correctly](/google-business-profile-management/) for a service area business requires understanding Google's specific policies and best practices for SABs.
+Your GBP is your most important local SEO asset, and [optimizing it correctly](/services/gbp-optimization/) for a service area business requires understanding Google's specific policies and best practices for SABs.
 
 **Hidden address configuration.** SABs must hide their physical address. If your address is visible and customers do not visit your location, you are violating Google's guidelines and risk suspension.
 
@@ -94,7 +94,7 @@ We build 12-month editorial and optimization calendars that align your content i
 
 ## Citation Building for Home Services
 
-Citations — mentions of your business name, address, and phone number across the web — remain a significant local ranking factor. For home service businesses, citation strategy goes beyond the generic directories. Our [citation building services](/citation-building-services/) target every directory that matters for your trade.
+Citations — mentions of your business name, address, and phone number across the web — remain a significant local ranking factor. For home service businesses, citation strategy goes beyond the generic directories. Our [citation building services](/services/citation-building/) target every directory that matters for your trade.
 
 **General directories:** Google Business Profile, Yelp, Facebook, BBB, Bing Places, Apple Maps, Nextdoor
 
@@ -115,7 +115,7 @@ Ranking for emergency queries requires:
 - **GBP attributes** that signal availability — "Open 24 hours" or extended hours, emergency service mentions in your business description
 - **Dedicated emergency service pages** optimized for emergency-specific keywords with prominent click-to-call CTAs
 - **Review content** that mentions emergency response — reviews that say "they came within an hour on a Sunday" carry enormous weight for both Google and potential customers
-- **Page speed** — a customer with water flooding their basement will not wait 4 seconds for your page to load. Our [technical SEO services](/technical-seo-services/) ensure your site loads fast enough to capture impatient, high-intent searchers.
+- **Page speed** — a customer with water flooding their basement will not wait 4 seconds for your page to load. Our [technical SEO services](/services/seo-audit/technical-seo-audit/) ensure your site loads fast enough to capture impatient, high-intent searchers.
 
 ## Results You Can Expect
 
@@ -132,11 +132,11 @@ The most significant shift we consistently see: home service businesses transiti
 ## Supporting Content
 
 ### Planned Cluster Pages
-- [Service Area Page SEO](/industries/home-services-seo/service-area-page-seo/) — Building location pages that rank without triggering duplicate content filters
-- [Home Services Google Business Profile](/industries/home-services-seo/google-business-profile/) — GBP optimization for service area businesses
-- [Home Services Citation Building](/industries/home-services-seo/citations/) — Directory strategy for contractors and home service companies
-- [Home Services Review Strategy](/industries/home-services-seo/review-strategy/) — Technician-driven review generation for home service businesses
-- [Home Services SEO Keywords](/industries/home-services-seo/keywords/) — Keyword research guide for contractors and home service companies
+- [Service Area Page SEO](/industries/home-services-seo/) — Building location pages that rank without triggering duplicate content filters
+- [Home Services Google Business Profile](/industries/home-services-seo/) — GBP optimization for service area businesses
+- [Home Services Citation Building](/industries/home-services-seo/) — Directory strategy for contractors and home service companies
+- [Home Services Review Strategy](/industries/home-services-seo/) — Technician-driven review generation for home service businesses
+- [Home Services SEO Keywords](/industries/home-services-seo/) — Keyword research guide for contractors and home service companies
 
 ### Related Industry Verticals
 - [Plumbing SEO](/industries/plumbing-seo/) — Specialized strategies for plumbing companies
@@ -144,9 +144,9 @@ The most significant shift we consistently see: home service businesses transiti
 - [Roofing SEO](/industries/roofing-seo/) — Local SEO strategies for roofing contractors
 
 ### Related Blog Posts
-- [Local SEO Ranking Factors in 2026](/blog/local-seo-ranking-factors-2026/) — The signals that determine your local visibility
-- [Citation Building Guide](/blog/citation-building-guide/) — Complete guide to citation strategy
-- [Map Pack Ranking Guide](/blog/map-pack-ranking-guide/) — How to get your business into the top 3
+- [Local SEO Ranking Factors in 2026](/learn/local-seo-ranking-factors-2026/) — The signals that determine your local visibility
+- [Citation Building Guide](/learn/citation-building-guide/) — Complete guide to citation strategy
+- [Map Pack Ranking Guide](/learn/map-pack-ranking-guide/) — How to get your business into the top 3
 
 ## Frequently Asked Questions
 
@@ -184,4 +184,4 @@ Yes. Multi-trade home service businesses require careful keyword mapping, conten
 
 ---
 
-*Ready to dominate local search across your entire service area? [Request your free home services SEO audit](/services/seo-audit/) and see exactly where you rank, where you are missing, and where the biggest lead generation opportunities lie.*
+*Ready to dominate local search across your entire service area? [Order your home services SEO Audit](/services/seo-audit/) and see exactly where you rank, where you are missing, and where the biggest lead generation opportunities lie.*

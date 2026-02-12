@@ -14,7 +14,7 @@
 
 ---
 
-*Breadcrumbs: [Home](/) > [Industries](/industries/) > [Real Estate SEO](/industries/real-estate-seo/) > Real Estate Keywords*
+*Breadcrumbs: [Home](/) > [Industries](/services/) > [Real Estate SEO](/industries/real-estate-seo/) > Real Estate Keywords*
 
 ## Real Estate SEO Keywords That Actually Generate Leads
 
@@ -22,7 +22,7 @@ Most real estate agents approach keyword research the same way: they type "homes
 
 Keyword research for real estate is unlike keyword research for any other local industry. The search landscape is fragmented across buyer intent, seller intent, investor intent, and renter intent. It is geographically granular down to the neighborhood and subdivision level. And the competitive dynamics are uniquely distorted by the dominance of national portals that occupy the top positions for virtually every broad real estate term in the country.
 
-This guide breaks down the keyword categories that produce real leads for real estate professionals — and the research methodology that identifies the best opportunities in your specific market. For a deeper dive into how we build keyword strategies across all local industries, visit our [local keyword research](/local-seo-services/local-keyword-research/) service page.
+This guide breaks down the keyword categories that produce real leads for real estate professionals — and the research methodology that identifies the best opportunities in your specific market. For a deeper dive into how we build keyword strategies across all local industries, visit our [local keyword research](/services/local-keyword-research/) service page.
 
 ## The Five Core Real Estate Keyword Categories
 
@@ -70,7 +70,7 @@ Neighborhood keywords represent the single largest competitive advantage availab
 - "Cost of living in [neighborhood]"
 - "What is [neighborhood] like?"
 
-**The opportunity:** Zillow's neighborhood pages are auto-generated data feeds. They cannot tell a buyer which streets flood during heavy rain, which side of the subdivision has the best elementary school zoning, or whether the planned highway expansion will affect noise levels. Content that answers these questions with genuine local knowledge ranks because it provides something no portal can replicate at scale. This is where a well-researched [neighborhood page SEO strategy](/industries/real-estate-seo/neighborhood-page-seo/) becomes your most powerful asset.
+**The opportunity:** Zillow's neighborhood pages are auto-generated data feeds. They cannot tell a buyer which streets flood during heavy rain, which side of the subdivision has the best elementary school zoning, or whether the planned highway expansion will affect noise levels. Content that answers these questions with genuine local knowledge ranks because it provides something no portal can replicate at scale. This is where a well-researched [neighborhood page SEO strategy](/industries/real-estate-seo/) becomes your most powerful asset.
 
 ### 4. Informational and Process Keywords
 

@@ -3,8 +3,8 @@
 **Deliverable:** Blog post (Hub 4 educational content)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/how-to-fix-crawl-errors/
-**Parent Hub:** /technical-seo-services/
+**URL:** /learn/how-to-fix-crawl-errors/
+**Parent Hub:** /services/seo-audit/
 **Primary Keyword:** fix crawl errors
 **Secondary Keywords:** crawl errors Google Search Console, 404 errors SEO, 5xx server errors, soft 404, redirect loops, crawl budget
 **Title Tag:** How to Fix Crawl Errors in Search Console | LocalCatalyst.ai
@@ -14,7 +14,7 @@
 
 ---
 
-Crawl errors are among the most common issues uncovered during a technical SEO audit, and among the most damaging when left unresolved. Every URL that returns an error instead of content is a missed opportunity -- for rankings, for traffic, and for revenue. Our [technical SEO services](/technical-seo-services/) treat crawl error resolution as a first-priority item because the downstream effects compound quickly across a site.
+Crawl errors are among the most common issues uncovered during a technical SEO audit, and among the most damaging when left unresolved. Every URL that returns an error instead of content is a missed opportunity -- for rankings, for traffic, and for revenue. Our [technical SEO services](/services/seo-audit/technical-seo-audit/) treat crawl error resolution as a first-priority item because the downstream effects compound quickly across a site.
 
 This guide walks through every major type of crawl error, shows you how to find them in Google Search Console, and provides the exact fix for each.
 
@@ -144,7 +144,7 @@ Fixing crawl errors ad hoc is unsustainable. Use this process to manage them sys
 5. **Validate fixes** by requesting reindexing of corrected URLs in Search Console's URL Inspection tool.
 6. **Monitor weekly.** New crawl errors appear as Google recrawls your site. Set a weekly review cadence.
 
-Our [site speed optimization](/site-speed-optimization/) engagements frequently uncover crawl errors as a side effect of server performance issues -- the two are closely related.
+Our [site speed optimization](/services/seo-audit/site-speed-optimization/) engagements frequently uncover crawl errors as a side effect of server performance issues -- the two are closely related.
 
 ## Preventing Crawl Errors Before They Happen
 
@@ -178,4 +178,10 @@ A 404 means "not found" -- the server does not know whether the absence is tempo
 
 ## Stop Losing Traffic to Broken Pages
 
-Crawl errors are fixable, and every one you resolve is a small win for your site's health and visibility. If you want expert help identifying and resolving the crawl issues holding your site back, [Order an SEO Audit](/services/seo-audit/) or [get in touch with our team](/contact/).
+Crawl errors are fixable, and every one you resolve is a small win for your site's health and visibility.
+
+---
+
+**Ready to find out what's holding your rankings back?** [Order Your SEO Audit ($297)](/services/seo-audit/)
+
+---

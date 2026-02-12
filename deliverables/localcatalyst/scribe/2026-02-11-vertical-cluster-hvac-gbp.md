@@ -16,7 +16,7 @@
 
 For HVAC contractors, the Google Local Pack is the most valuable piece of real estate in search. Those three map listings above the organic results capture roughly 44% of clicks for local service searches. If your company is not appearing in the local pack for terms like "AC repair near me" or "furnace installation [city]," you are handing those calls directly to competitors. This guide is part of our comprehensive [HVAC SEO resource](/industries/hvac-seo/) and covers exactly how to optimize your Google Business Profile to earn and hold those top local positions.
 
-Need a team to manage your GBP on an ongoing basis? Our [Google Business Profile management service](/google-business-profile-management/) handles optimization, posting, and performance tracking for HVAC companies.
+Need a team to manage your GBP on an ongoing basis? Our [Google Business Profile management service](/services/gbp-optimization/) handles optimization, posting, and performance tracking for HVAC companies.
 
 ## Setting Up Your HVAC Google Business Profile Correctly
 

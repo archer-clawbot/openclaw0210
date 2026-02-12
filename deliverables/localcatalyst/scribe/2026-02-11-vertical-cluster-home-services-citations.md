@@ -14,13 +14,13 @@
 
 ---
 
-*Breadcrumbs: [Home](/) > [Industries](/industries/) > [Home Services SEO](/industries/home-services-seo/) > Home Services Citations*
+*Breadcrumbs: [Home](/) > [Industries](/services/) > [Home Services SEO](/industries/home-services-seo/) > Home Services Citations*
 
 ## Citations for Home Services: Building the Foundation of Local Visibility
 
 Citations — online mentions of your business name, address, and phone number — are one of the foundational ranking factors in local SEO. For home service businesses, citations play a particularly important role because they reinforce your relevance across the multiple cities and service areas you cover. As our [home services SEO guide](/industries/home-services-seo/) explains, service area businesses face a proximity challenge: you need to appear in search results for cities where you do not have a physical address. A strong, consistent citation profile is one of the signals Google uses to validate your presence in those markets.
 
-Citation building for home services is not simply about getting listed on as many directories as possible. It is about strategic placement on the directories that matter, with perfectly consistent business information, and with emphasis on the industry-specific directories that carry the most weight for contractor searches. Our [citation building services](/citation-building-services/) handle this systematically, ensuring your business data is accurate, consistent, and present everywhere it needs to be.
+Citation building for home services is not simply about getting listed on as many directories as possible. It is about strategic placement on the directories that matter, with perfectly consistent business information, and with emphasis on the industry-specific directories that carry the most weight for contractor searches. Our [citation building services](/services/citation-building/) handle this systematically, ensuring your business data is accurate, consistent, and present everywhere it needs to be.
 
 ## The Three Tiers of Home Service Citations
 

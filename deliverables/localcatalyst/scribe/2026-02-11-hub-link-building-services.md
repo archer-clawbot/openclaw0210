@@ -95,7 +95,7 @@ For local businesses, local links are the highest-value targets. These are links
 
 **Example:** We helped a veterinary clinic in Austin earn 14 local backlinks in a single quarter by partnering with three local animal shelters for a vaccination drive, getting featured in the Austin Chronicle, and joining the Central Texas Veterinary Medical Association. Their local organic visibility increased 67% over the following 6 months.
 
-[Deep dive: Local Link Building Strategies](/link-building-services/local-link-building/)
+[Deep dive: Local Link Building Strategies](/managed/local-link-building/)
 
 ### Guest Posting and Contributed Content
 
@@ -110,7 +110,7 @@ Strategic guest posting places your expertise in front of relevant audiences whi
 
 **Example:** For a personal injury law firm, we placed contributed articles in three regional legal publications and two local business journals, earning 7 high-authority backlinks with an average DR of 52. These placements also drove 340+ referral visits in the first month — visitors who were already interested in legal services.
 
-[Learn more about guest posting services](/link-building-services/guest-posting/)
+[Learn more about guest posting services](/managed/guest-posting/)
 
 ### Digital PR
 
@@ -125,7 +125,7 @@ Digital PR earns backlinks through media coverage — getting your business feat
 
 **Example:** For a roofing company, we created a regional storm damage cost report based on insurance claim data and local weather patterns. The report was cited by 3 local news stations, 2 regional newspapers, and 11 industry blogs — earning 16 unique referring domains with an average DR of 45 in a single campaign.
 
-[Explore our digital PR services](/link-building-services/digital-pr/)
+[Explore our digital PR services](/managed/digital-pr/)
 
 ### Resource Page Link Building
 
@@ -142,7 +142,7 @@ Thousands of authoritative websites maintain resource pages — curated lists of
 
 **Example:** A dental practice earned links from 4 university health resource pages and 2 county health department sites by creating a comprehensive "Children's Dental Health Guide" that genuinely served as a useful resource for the communities those institutions serve.
 
-[Learn about resource link building](/link-building-services/resource-link-building/)
+[Learn about resource link building](/managed/resource-link-building/)
 
 ### Broken Link Building
 
@@ -157,7 +157,7 @@ When websites link to pages that no longer exist (404 errors), it creates an opp
 4. Create equal or superior content on your site
 5. Outreach to the site owner with the broken link notification and your replacement suggestion
 
-[Details on broken link building](/link-building-services/broken-link-building/)
+[Details on broken link building](/managed/broken-link-building/)
 
 ---
 
@@ -196,7 +196,7 @@ We build link profiles that get stronger over time, not ones that become liabili
 
 ## Our Link Building Process Within the CATALYST Framework
 
-Link building isn't isolated — it's integrated into our [CATALYST Methodology](/local-seo-services/) alongside [content strategy](/seo-content-strategy/), [on-page optimization](/on-page-seo/), and [technical SEO](/seo-audit/).
+Link building isn't isolated — it's integrated into our [CATALYST Methodology](/services/) alongside [content strategy](/services/content-pages/), [on-page optimization](/services/on-page-optimization/), and [technical SEO](/services/seo-audit/technical-seo-audit/).
 
 ### Audit Phase
 
@@ -314,11 +314,11 @@ Every Link Building Services engagement includes:
 - Dashboard access for real-time backlink metrics
 
 ### Integration with Other Services
-- Link building aligned with [content strategy](/seo-content-strategy/) — content assets designed to earn links naturally
-- Backlink authority supporting [local SEO](/local-seo-services/) and Map Pack rankings
-- Link building informed by [SEO audit](/seo-audit/) findings and technical requirements
-- Internal linking optimized to distribute earned link equity across key pages via [on-page optimization](/on-page-seo/)
-- [Citation building](/citation-building/) complementing link building for NAP consistency and local authority
+- Link building aligned with [content strategy](/services/content-pages/) — content assets designed to earn links naturally
+- Backlink authority supporting [local SEO](/services/) and Map Pack rankings
+- Link building informed by [SEO audit](/services/seo-audit/) findings and technical requirements
+- Internal linking optimized to distribute earned link equity across key pages via [on-page optimization](/services/on-page-optimization/)
+- [Citation building](/services/citation-building/) complementing link building for NAP consistency and local authority
 
 ---
 
@@ -344,7 +344,7 @@ Every industry has unique link ecosystems. We know where to find them because we
 
 ### How many backlinks do I need to rank?
 
-There's no magic number. It depends on your competitive landscape, the authority of your existing backlink profile, and the specific keywords you're targeting. What matters is the quality and relevance of the links, not the raw count. A local plumber competing in a mid-size market might need 20-30 quality referring domains to dominate. A personal injury lawyer in Chicago might need 100+. We'll analyze your specific situation during the [free SEO audit](/services/seo-audit/) and give you a realistic target.
+There's no magic number. It depends on your competitive landscape, the authority of your existing backlink profile, and the specific keywords you're targeting. What matters is the quality and relevance of the links, not the raw count. A local plumber competing in a mid-size market might need 20-30 quality referring domains to dominate. A personal injury lawyer in Chicago might need 100+. We'll analyze your specific situation during the [SEO Audit](/services/seo-audit/) and give you a realistic target.
 
 ### How long does link building take to impact rankings?
 
@@ -381,22 +381,22 @@ We handle it. Our audit phase includes a thorough toxic link analysis. We'll ide
 This pillar page is supported by the following cluster pages and blog posts:
 
 ### Cluster Service Pages
-- [Local Link Building](/link-building-services/local-link-building/) — Community-focused link acquisition for local authority
-- [Guest Posting Services](/link-building-services/guest-posting/) — Thought leadership placement on authoritative publications
-- [Digital PR Services](/link-building-services/digital-pr/) — Media coverage and journalist outreach for earned links
-- [Resource Link Building](/link-building-services/resource-link-building/) — Placement on curated resource pages and directories
-- [Broken Link Building](/link-building-services/broken-link-building/) — Reclaiming link opportunities from dead pages
+- [Local Link Building](/managed/local-link-building/) — Community-focused link acquisition for local authority
+- [Guest Posting Services](/managed/guest-posting/) — Thought leadership placement on authoritative publications
+- [Digital PR Services](/managed/digital-pr/) — Media coverage and journalist outreach for earned links
+- [Resource Link Building](/managed/resource-link-building/) — Placement on curated resource pages and directories
+- [Broken Link Building](/managed/broken-link-building/) — Reclaiming link opportunities from dead pages
 
 ### Supporting Blog Posts
-- [Link Building Strategies for Local SEO: The Complete Guide](/blog/link-building-strategies-local-seo/)
-- [What Makes a Good Backlink? Quality Signals Explained](/blog/what-makes-a-good-backlink/)
-- [Anchor Text Optimization: Best Practices for 2026](/blog/anchor-text-optimization/)
-- [Link Building Mistakes That Will Tank Your Rankings](/blog/link-building-mistakes/)
-- [How to Earn Local Backlinks Without Spamming](/blog/how-to-earn-local-backlinks/)
-- [Competitor Backlink Analysis: A Step-by-Step Guide](/blog/competitor-backlink-analysis/)
+- [Link Building Strategies for Local SEO: The Complete Guide](/learn/link-building-strategies-local-seo/)
+- [What Makes a Good Backlink? Quality Signals Explained](/learn/what-makes-a-good-backlink/)
+- [Anchor Text Optimization: Best Practices for 2026](/learn/anchor-text-optimization/)
+- [Link Building Mistakes That Will Tank Your Rankings](/learn/link-building-mistakes/)
+- [How to Earn Local Backlinks Without Spamming](/learn/how-to-earn-local-backlinks/)
+- [Competitor Backlink Analysis: A Step-by-Step Guide](/learn/competitor-backlink-analysis/)
 
 ### Related Hub Pages
-- [Local SEO Services](/local-seo-services/) — Comprehensive local search optimization
-- [SEO Content Strategy](/seo-content-strategy/) — Strategic content that attracts natural links
-- [Citation Building Services](/citation-building/) — NAP consistency and local directory authority
-- [SEO Audit Services](/seo-audit/) — Technical and backlink audits
+- [Local SEO Services](/services/) — Comprehensive local search optimization
+- [SEO Content Strategy](/services/content-pages/) — Strategic content that attracts natural links
+- [Citation Building Services](/services/citation-building/) — NAP consistency and local directory authority
+- [SEO Audit Services](/services/seo-audit/) — Technical and backlink audits

@@ -3,8 +3,8 @@
 **Deliverable:** Service sub-page (cluster)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /seo-website-design/conversion-rate-optimization/
-**Parent Hub:** /seo-website-design/
+**URL:** /services/website-build/conversion-rate-optimization/
+**Parent Hub:** /services/website-build/
 **Primary Keyword:** conversion rate optimization
 **Secondary Keywords:** CRO for local businesses, website conversion optimization, local business CRO, conversion rate improvement, CRO services
 **Title Tag:** Conversion Rate Optimization for Local Businesses | LocalCatalyst.ai
@@ -14,11 +14,11 @@
 
 ---
 
-**Breadcrumbs:** [Home](/) > [SEO Website Design](/seo-website-design/) > Conversion Rate Optimization
+**Breadcrumbs:** [Home](/) > [SEO Website Design](/services/website-build/) > Conversion Rate Optimization
 
 ## Traffic Without Conversions Is a Vanity Metric
 
-You can rank first for every keyword in your market and still fail as a business if nobody who visits your website picks up the phone, fills out a form, or books an appointment. As a critical component of our [SEO website design](/seo-website-design/) services, conversion rate optimization ensures that the traffic we drive to your site actually generates revenue.
+You can rank first for every keyword in your market and still fail as a business if nobody who visits your website picks up the phone, fills out a form, or books an appointment. As a critical component of our [SEO website design](/services/website-build/) services, conversion rate optimization ensures that the traffic we drive to your site actually generates revenue.
 
 This is the step most SEO agencies skip entirely. They report on rankings and traffic numbers, send you a dashboard showing impressions going up and to the right, and call it a day. Meanwhile, your website converts at 1.5% — which means 98.5% of every visitor you paid to attract walks away without taking action.
 
@@ -76,7 +76,7 @@ Forms are the primary conversion mechanism for businesses where the service requ
 
 For businesses with physical locations — restaurants, retail stores, medical offices, gyms — driving direction requests from Google Maps is a critical conversion event. A direction request represents a customer who has decided to visit.
 
-Direction request optimization ties directly into [Google Business Profile management](/google-business-profile-management/) — accurate address data, photos of the physical location, and clear service descriptions that build confidence in the visit decision.
+Direction request optimization ties directly into [Google Business Profile management](/services/gbp-optimization/) — accurate address data, photos of the physical location, and clear service descriptions that build confidence in the visit decision.
 
 ### Appointment Bookings
 
@@ -214,7 +214,7 @@ You cannot optimize what you do not measure. Our conversion tracking implementat
 
 **Heatmaps and session recordings:** Tools like Hotjar or Microsoft Clarity show exactly how users interact with your pages — where they click, how far they scroll, where they hesitate, and where they leave. This qualitative data supplements the quantitative metrics and reveals friction points that numbers alone cannot explain.
 
-**Monthly reporting:** Our clients receive monthly conversion reports showing total conversions by type, conversion rate by page and traffic source, cost per conversion, and month-over-month trends. This data feeds directly back into our [content strategy](/seo-content-strategy/) and page optimization decisions.
+**Monthly reporting:** Our clients receive monthly conversion reports showing total conversions by type, conversion rate by page and traffic source, cost per conversion, and month-over-month trends. This data feeds directly back into our [content strategy](/services/content-pages/) and page optimization decisions.
 
 ## A/B Testing Methodology
 
@@ -257,7 +257,7 @@ Initial improvements from quick wins (CTA optimization, form simplification, tru
 
 ### Can you do CRO without a website redesign?
 
-Absolutely. Most CRO improvements can be implemented on existing websites through targeted changes — button copy, form modifications, CTA placement, trust signal additions, and page layout adjustments. A full redesign through our [SEO website design services](/seo-website-design/) builds conversion architecture from the ground up, but meaningful CRO gains are achievable on any site.
+Absolutely. Most CRO improvements can be implemented on existing websites through targeted changes — button copy, form modifications, CTA placement, trust signal additions, and page layout adjustments. A full redesign through our [SEO website design services](/services/website-build/) builds conversion architecture from the ground up, but meaningful CRO gains are achievable on any site.
 
 ### How does CRO relate to SEO?
 
@@ -265,7 +265,7 @@ CRO and SEO are complementary strategies that compound each other. SEO drives qu
 
 ### What tools do you use for CRO?
 
-Google Analytics 4 for conversion tracking and attribution. Microsoft Clarity or Hotjar for heatmaps and session recordings. Google Optimize or custom split testing for A/B experiments. CallRail or similar platforms for call tracking with dynamic number insertion. And our proprietary geo-grid analytics for understanding how [local search visibility](/local-seo-services/) correlates with conversion performance across your service area.
+Google Analytics 4 for conversion tracking and attribution. Microsoft Clarity or Hotjar for heatmaps and session recordings. Google Optimize or custom split testing for A/B experiments. CallRail or similar platforms for call tracking with dynamic number insertion. And our proprietary geo-grid analytics for understanding how [local search visibility](/services/) correlates with conversion performance across your service area.
 
 ---
 

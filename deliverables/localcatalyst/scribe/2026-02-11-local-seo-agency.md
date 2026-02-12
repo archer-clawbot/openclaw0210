@@ -105,7 +105,7 @@ Your Google Business Profile is your #1 local SEO asset. We claim, verify, optim
 - Service area tuning
 - Monthly insights reporting
 
-[Learn more about our GBP optimization service →](/services/google-business-profile-optimization/)
+[Learn more about our GBP optimization service →](/services/gbp-optimization/)
 
 ### Local SEO
 
@@ -120,7 +120,7 @@ We build and optimize your website to rank for local search queries: "[service] 
 - Internal linking strategy
 - Content creation (blog posts, location pages)
 
-[Learn more about our local SEO services →](/services/local-seo/)
+[Learn more about our local SEO services →](/services/)
 
 ### Review Management
 
@@ -133,7 +133,7 @@ We build and optimize your website to rank for local search queries: "[service] 
 - Reputation repair (flagging fake reviews, burying negatives)
 - Monthly sentiment reporting
 
-[Learn more about our review management service →](/services/review-management/)
+[Learn more about our review management service →](/reputation-management-services/)
 
 ### Local Citations
 
@@ -146,7 +146,7 @@ Your business name, address, and phone number (NAP) must be accurate and consist
 - NAP standardization
 - Ongoing citation monitoring
 
-[Learn more about our citation services →](/services/local-citations/)
+[Learn more about our citation services →](/services/citation-building/)
 
 ### Technical SEO
 
@@ -161,7 +161,7 @@ Local rankings aren't just about your GBP and citations. Your website needs to b
 - Robots.txt configuration
 - Canonical tag cleanup
 
-[Learn more about our technical SEO services →](/services/technical-seo/)
+[Learn more about our technical SEO services →](/services/seo-audit/technical-seo-audit/)
 
 ---
 
@@ -318,9 +318,9 @@ If you serve customers in a specific geographic area — even if your industry i
 ### H2
 `Investment`
 
-**Full-Service Local SEO: $1,500-$3,000/month**
+**Full-Service Local SEO**
 
-Pricing depends on your market competitiveness, number of locations, and service area size. Includes:
+For ongoing SEO management, [explore our managed plans](/managed/). Pricing depends on your market competitiveness, number of locations, and service area size. Includes:
 - Google Business Profile optimization and monthly management
 - Local SEO (service pages, location pages, content)
 - Review management
@@ -334,7 +334,7 @@ Pricing depends on your market competitiveness, number of locations, and service
 - Review management: $400/month
 - Technical SEO audit: $800 (one-time)
 
-[Schedule a strategy call to discuss pricing →](/contact/)
+[Schedule a strategy call to discuss pricing →](/managed/)
 
 ---
 
@@ -367,8 +367,8 @@ A: Competitive markets take longer and require more aggressive strategies (more 
 **Q8: Do you handle social media?**  
 A: No. We focus exclusively on local search (Google, Bing, Apple Maps). If you need social media management, we can refer you to a trusted partner.
 
-**Q9: Will I have a dedicated account manager?**  
-A: Yes. Every client gets a dedicated account manager who coordinates your campaign and serves as your primary point of contact.
+**Q9: How will I communicate with LocalCatalyst?**
+A: Every client gets direct access to the platform and our support team. For managed SEO clients, you'll have a dedicated strategist who coordinates your campaign.
 
 **Q10: What happens if I cancel?**  
 A: We operate month-to-month (no long-term contracts). You can cancel anytime with 30 days' notice. You keep everything we've built (GBP optimization, content, citations).
@@ -383,25 +383,25 @@ A: We operate month-to-month (no long-term contracts). You can cancel anytime wi
 Let's talk about your market, your competitors, and how LocalCatalyst can get you ranking in the Map Pack.
 
 **CTA Button Text:** Browse our services  
-**CTA Button Link:** /contact/
+**CTA Button Link:** /managed/
 
 **Secondary Text Below Button:**  
-Or get a free local SEO audit first → [Free Audit Link]
+Or start with an SEO audit → [Order Your SEO Audit](/services/seo-audit/)
 
 ---
 
 ## Internal Linking Strategy
 
 **Link to from Local SEO Agency page:**
-- /services/local-seo/ (anchor: "local SEO services")
-- /services/google-business-profile-optimization/ (anchor: "GBP optimization")
+- /services/ (anchor: "local SEO services")
+- /services/gbp-optimization/ (anchor: "GBP optimization")
 - /services/review-management/ (anchor: "review management")
 - /services/local-citations/ (anchor: "citation services")
-- /services/technical-seo/ (anchor: "technical SEO")
+- /services/seo-audit/technical-seo-audit/ (anchor: "technical SEO")
 - /case-studies/ (anchor: "case studies")
 - /about/ (anchor: "about us")
-- /contact/ (multiple CTAs)
-- /blog/category/local-seo/ (anchor: "local SEO tips" or specific blog post)
+- /managed/ (multiple CTAs)
+- /learn/category/local-seo/ (anchor: "local SEO tips" or specific blog post)
 
 **Link to Local SEO Agency page from:**
 - Homepage (main nav, services section)

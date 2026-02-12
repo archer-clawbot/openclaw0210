@@ -3,8 +3,8 @@
 **Deliverable:** Service sub-page (cluster)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /local-seo-services/google-maps-ranking/
-**Parent Hub:** /local-seo-services/
+**URL:** /services/google-maps-ranking/
+**Parent Hub:** /services/
 **Primary Keyword:** how to rank on Google Maps
 **Secondary Keywords:** Google Maps ranking factors, Google Maps SEO, Map Pack ranking, local map rankings, Maps visibility
 **Title Tag:** How to Rank on Google Maps in 2026 | LocalCatalyst.ai
@@ -14,11 +14,11 @@
 
 ---
 
-*Breadcrumbs: [Home](/) > [Local SEO Services](/local-seo-services/) > Google Maps Ranking*
+*Breadcrumbs: [Home](/) > [Local SEO Services](/services/) > Google Maps Ranking*
 
 ## How to Rank on Google Maps: The Complete Guide for Local Businesses
 
-Google Maps is where local business transactions begin. When a consumer searches for a service provider — a dentist, plumber, attorney, or restaurant — the map results are the first thing they see and, more often than not, the only thing they interact with before making a decision. Our [local SEO services](/local-seo-services/) are built around the reality that Maps visibility is the single most valuable form of local search real estate, and ranking there requires a deliberate, data-driven approach.
+Google Maps is where local business transactions begin. When a consumer searches for a service provider — a dentist, plumber, attorney, or restaurant — the map results are the first thing they see and, more often than not, the only thing they interact with before making a decision. Our [local SEO services](/services/) are built around the reality that Maps visibility is the single most valuable form of local search real estate, and ranking there requires a deliberate, data-driven approach.
 
 If your business does not appear in the Google Maps results for your primary service keywords, you are invisible to the highest-intent customers in your market. This page breaks down exactly how Google Maps ranking works, what factors determine your position, and the specific actions you can take to improve your visibility.
 
@@ -41,11 +41,11 @@ Relevance measures how well your Google Business Profile matches what the search
 - **Primary and secondary categories** — Your GBP category selections are the strongest relevance signal. A business categorized as "Emergency Plumber" will rank for "emergency plumber near me" far more readily than a business categorized only as "Plumber."
 - **Business description** — The 750-character description provides context about your services. Natural keyword inclusion helps Google understand your service scope.
 - **Services and products listed** — Each service you add to your GBP creates an additional relevance signal for related queries.
-- **GBP posts** — Regular [posting activity](/google-business-profile-management/gbp-posts/) reinforces topical relevance and tells Google your profile is actively maintained.
+- **GBP posts** — Regular [posting activity](/services/gbp-optimization/gbp-posts/) reinforces topical relevance and tells Google your profile is actively maintained.
 - **Q&A content** — Questions and answers on your profile create indexable content that can match long-tail queries.
 - **Reviews mentioning specific services** — When customers mention "root canal" or "water heater installation" in reviews, those terms become relevance signals for your profile.
 
-Maximizing relevance requires a complete, accurately categorized profile that clearly communicates every service you offer. Our [GBP optimization service](/google-business-profile-management/gbp-optimization/) addresses every relevance signal systematically.
+Maximizing relevance requires a complete, accurately categorized profile that clearly communicates every service you offer. Our [GBP optimization service](/services/gbp-optimization/) addresses every relevance signal systematically.
 
 ### 2. Distance
 
@@ -101,7 +101,7 @@ Prominence is cumulative. No single signal category will propel you to the top o
 
 ## Map Pack vs. Local Organic: Understanding the Difference
 
-The Map Pack and local organic results are related but distinct. The Map Pack — also called the [local 3-pack](/local-seo-services/local-3-pack-optimization/) — displays three business listings with a map snippet directly in the search results page. Local organic results appear below the Map Pack and are influenced by traditional SEO signals layered with local relevance.
+The Map Pack and local organic results are related but distinct. The Map Pack — also called the [local 3-pack](/services/local-3-pack-optimization/) — displays three business listings with a map snippet directly in the search results page. Local organic results appear below the Map Pack and are influenced by traditional SEO signals layered with local relevance.
 
 **Map Pack characteristics:**
 - Shows business name, rating, review count, address, hours, and phone
@@ -115,7 +115,7 @@ The Map Pack and local organic results are related but distinct. The Map Pack �
 - Typically your website pages, not your GBP listing
 - Captures searchers who scroll past the Map Pack
 
-The ideal local SEO strategy targets both. A business that appears in the Map Pack AND ranks in local organic results effectively doubles its search real estate, capturing clicks from both interfaces. This dual visibility is a core objective of our [local SEO services](/local-seo-services/).
+The ideal local SEO strategy targets both. A business that appears in the Map Pack AND ranks in local organic results effectively doubles its search real estate, capturing clicks from both interfaces. This dual visibility is a core objective of our [local SEO services](/services/).
 
 ## Geo-Grid Tracking: Measuring Maps Rankings Accurately
 
@@ -145,7 +145,7 @@ Based on the ranking factors above, here is a prioritized action plan for improv
 
 ### Priority 1: Optimize Your Google Business Profile
 
-Your GBP is the foundation of Maps ranking. Complete every section, select optimal categories, write a keyword-rich description, add all services and products, configure hours and attributes, and ensure your NAP is accurate. This is non-negotiable. See our detailed [GBP optimization guide](/google-business-profile-management/gbp-optimization/) for the complete walkthrough.
+Your GBP is the foundation of Maps ranking. Complete every section, select optimal categories, write a keyword-rich description, add all services and products, configure hours and attributes, and ensure your NAP is accurate. This is non-negotiable. See our detailed [GBP optimization guide](/services/gbp-optimization/) for the complete walkthrough.
 
 ### Priority 2: Build a Consistent Review Engine
 
@@ -157,11 +157,11 @@ Ensure your NAP is identical across every directory, data aggregator, and online
 
 ### Priority 4: Strengthen On-Page Local Signals
 
-Your website reinforces your GBP. Create dedicated location pages (for multi-location businesses), embed Google Maps, include your NAP in structured data, optimize title tags and headers with local keywords (guided by thorough [local keyword research](/local-seo-services/local-keyword-research/)), and ensure mobile performance meets Core Web Vitals thresholds.
+Your website reinforces your GBP. Create dedicated location pages (for multi-location businesses), embed Google Maps, include your NAP in structured data, optimize title tags and headers with local keywords (guided by thorough [local keyword research](/services/local-keyword-research/)), and ensure mobile performance meets Core Web Vitals thresholds.
 
 ### Priority 5: Engage Continuously on Your GBP
 
-Google rewards active profiles. Post weekly updates, add new [photos and videos](/google-business-profile-management/gbp-photos-videos/) regularly, answer questions in Q&A, and keep your hours and attributes current. Consistent engagement signals to Google that your business is active and your profile is trustworthy.
+Google rewards active profiles. Post weekly updates, add new [photos and videos](/services/gbp-optimization/gbp-photos-videos/) regularly, answer questions in Q&A, and keep your hours and attributes current. Consistent engagement signals to Google that your business is active and your profile is trustworthy.
 
 ### Priority 6: Earn Local Links
 
@@ -182,7 +182,7 @@ Avoid these errors that can undermine your Maps visibility:
 
 ### How long does it take to rank on Google Maps?
 
-Timelines vary significantly based on your current position, competition level, and market size. Businesses with established profiles and some existing authority may see meaningful movement in 30-60 days. New profiles or businesses in highly competitive markets may take 3-6 months of consistent optimization. The key variable is how far behind your competitors you are across the five prominence signal categories. We set realistic timelines during our initial [free SEO audit](/services/seo-audit/) based on your specific competitive landscape.
+Timelines vary significantly based on your current position, competition level, and market size. Businesses with established profiles and some existing authority may see meaningful movement in 30-60 days. New profiles or businesses in highly competitive markets may take 3-6 months of consistent optimization. The key variable is how far behind your competitors you are across the five prominence signal categories. We set realistic timelines during our initial [SEO Audit](/services/seo-audit/) based on your specific competitive landscape.
 
 ### Can I rank on Google Maps without a physical location?
 
@@ -198,8 +198,8 @@ Yes. While GBP signals are the primary driver of Maps rankings, your website is 
 
 ### What is the difference between Google Maps ranking and the local 3-pack?
 
-The [local 3-pack](/local-seo-services/local-3-pack-optimization/) is the three business listings displayed in Google's main search results page when a query has local intent. Google Maps ranking refers to your position within the full Google Maps interface, which displays many more results. The 3-pack is drawn from Google Maps results — the top three Maps results for a given query and location are displayed as the 3-pack. Ranking in the 3-pack is essentially ranking in the top three of Google Maps for that specific query from that specific location.
+The [local 3-pack](/services/local-3-pack-optimization/) is the three business listings displayed in Google's main search results page when a query has local intent. Google Maps ranking refers to your position within the full Google Maps interface, which displays many more results. The 3-pack is drawn from Google Maps results — the top three Maps results for a given query and location are displayed as the 3-pack. Ranking in the 3-pack is essentially ranking in the top three of Google Maps for that specific query from that specific location.
 
 ---
 
-**Ready to improve your Google Maps visibility?** Our [free SEO audit](/services/seo-audit/) includes a geo-grid analysis of your current Maps rankings, competitive benchmarking, and a prioritized action plan for improving your Map Pack positions. No contracts. No commitments. Just data-driven insight into where you stand and what it takes to rank.
+**Ready to improve your Google Maps visibility?** Our [SEO Audit](/services/seo-audit/) includes a geo-grid analysis of your current Maps rankings, competitive benchmarking, and a prioritized action plan for improving your Map Pack positions. See where you stand and what it takes to rank.

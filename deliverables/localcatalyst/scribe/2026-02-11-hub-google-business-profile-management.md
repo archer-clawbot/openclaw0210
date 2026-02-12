@@ -31,7 +31,7 @@ Google's local ranking algorithm evaluates three primary factors: relevance, dis
 
 **Distance** is geographic, but even here GBP signals matter — your service area settings, your address verification, and your location accuracy all influence how broadly Google considers you relevant for geographically distributed queries.
 
-Studies consistently show that GBP signals account for the largest share of local pack ranking factors — roughly 32% according to the most recent local search ranking factor surveys. No other single factor category carries as much weight. This is why our [local SEO services](/local-seo-services/) always begin with GBP optimization.
+Studies consistently show that GBP signals account for the largest share of local pack ranking factors — roughly 32% according to the most recent local search ranking factor surveys. No other single factor category carries as much weight. This is why our [local SEO services](/services/) always begin with GBP optimization.
 
 ## GBP Optimization Deep Dive
 
@@ -78,7 +78,7 @@ Google Business Profile posts are the most underutilized feature in local SEO. R
 **Our posting cadence:**
 We publish 2–4 posts per week for each managed GBP listing. Each post is keyword-optimized, includes a compelling image, and features a clear call-to-action. We do not recycle content or use generic stock photos — every post is tailored to your business, your market, and your current strategic priorities.
 
-Our [GBP posting strategies](/google-business-profile-management/gbp-posts/) page details our approach to content planning, keyword integration, and performance measurement for GBP posts.
+Our [GBP posting strategies](/services/gbp-optimization/gbp-posts/) page details our approach to content planning, keyword integration, and performance measurement for GBP posts.
 
 **Post performance tracking:**
 We monitor views, clicks, and engagement for every post, using this data to refine messaging, imagery, and posting times. Over 90 days, patterns emerge that allow us to optimize post performance significantly.
@@ -87,7 +87,7 @@ We monitor views, clicks, and engagement for every post, using this data to refi
 
 Visual content on your GBP directly influences customer engagement and, indirectly, your rankings. Businesses with more than 100 photos receive 520% more calls and 2,717% more direction requests than the average business (Google data).
 
-Our [photo and video optimization](/google-business-profile-management/gbp-photos-videos/) approach includes:
+Our [photo and video optimization](/services/gbp-optimization/gbp-photos-videos/) approach includes:
 
 - **Professional photo auditing** — evaluating existing photos for quality, relevance, and categorization
 - **Upload cadence management** — adding new photos weekly to signal ongoing business activity
@@ -102,7 +102,7 @@ We coordinate photo strategy with your team, using a combination of professional
 
 The Questions & Answers section of GBP is publicly editable — anyone can ask a question, and anyone can answer. Left unmanaged, this section can fill with inaccurate information, competitor sabotage, or unanswered customer questions that signal neglect.
 
-Our [Q&A management](/google-business-profile-management/gbp-qa-management/) approach includes:
+Our [Q&A management](/services/gbp-optimization/gbp-qa-management/) approach includes:
 
 - **Proactive question seeding** — we research common customer questions in your industry and post them with authoritative, keyword-rich answers from your business account
 - **Monitoring and response** — we monitor for new questions and respond within 24 hours
@@ -142,10 +142,10 @@ A GBP suspension can instantly eliminate your Map Pack visibility, removing your
 
 Your Google Business Profile does not operate in isolation. The signals it generates interact with every other aspect of your local SEO:
 
-- **[Citation building](/citation-building-services/)** reinforces GBP NAP accuracy and builds the web of consistent business data that strengthens prominence signals
-- **[Reputation management](/reputation-management-services/)** drives review velocity and quality — the social proof layer that influences both rankings and conversions
-- **[On-page SEO](/on-page-seo-services/)** ensures your website content aligns with GBP categories and services, reinforcing relevance signals
-- **[Local SEO](/local-seo-services/)** coordinates all of these efforts into a unified strategy where each element amplifies the others
+- **[Citation building](/services/citation-building/)** reinforces GBP NAP accuracy and builds the web of consistent business data that strengthens prominence signals
+- **Reputation management** (included in [managed SEO](/managed/)) drives review velocity and quality — the social proof layer that influences both rankings and conversions
+- **[On-page SEO](/services/on-page-optimization/)** ensures your website content aligns with GBP categories and services, reinforcing relevance signals
+- **[Local SEO](/services/)** coordinates all of these efforts into a unified strategy where each element amplifies the others
 
 This integration is a core principle of our CATALYST methodology. During the Audit phase, we assess GBP health alongside citations, backlinks, on-page optimization, and technical infrastructure. During Prioritize, we sequence GBP optimizations based on their expected impact relative to other available improvements. During Execute, GBP management happens in coordination with — not in isolation from — every other campaign component.
 
@@ -195,25 +195,25 @@ Every GBP management engagement includes:
 - **Suspension monitoring and prevention** protocols
 - **Competitor GBP tracking** — monitoring competitor profile changes and performance
 - **Dashboard access** with real-time GBP performance metrics
-- **Dedicated account manager** for strategy and communication
+- **Direct communication** with your strategist
 
 ## Supporting Content
 
 ### Cluster Pages
-- [GBP Optimization](/google-business-profile-management/gbp-optimization/) — Comprehensive profile optimization methodology
-- [GBP Posts](/google-business-profile-management/gbp-posts/) — Posting strategy, content planning, and performance optimization
-- [GBP Photos & Videos](/google-business-profile-management/gbp-photos-videos/) — Visual content strategy for maximum engagement
-- [GBP Q&A Management](/google-business-profile-management/gbp-qa-management/) — Question seeding, monitoring, and response
-- [GBP Attributes & Services](/google-business-profile-management/gbp-attributes-services/) — Complete attribute and service configuration
+- [GBP Optimization](/services/gbp-optimization/) — Comprehensive profile optimization methodology
+- [GBP Posts](/services/gbp-optimization/gbp-posts/) — Posting strategy, content planning, and performance optimization
+- [GBP Photos & Videos](/services/gbp-optimization/gbp-photos-videos/) — Visual content strategy for maximum engagement
+- [GBP Q&A Management](/services/gbp-optimization/gbp-qa-management/) — Question seeding, monitoring, and response
+- [GBP Attributes & Services](/services/gbp-optimization/gbp-attributes-services/) — Complete attribute and service configuration
 
 ### Related Blog Posts
-- [How to Optimize Your Google Business Profile](/blog/how-to-optimize-google-business-profile/) — Step-by-step optimization guide
-- [Google Business Profile Categories](/blog/google-business-profile-categories/) — Selecting the right categories for your business
-- [GBP Suspension Recovery](/blog/gbp-suspension-recovery/) — What to do when your listing is suspended
-- [Google Business Profile Review Strategy](/blog/google-business-profile-review-strategy/) — Building a review profile that drives rankings
-- [GBP Insights Analytics](/blog/gbp-insights-analytics/) — How to interpret and act on GBP data
-- [Google Business Profile Checklist](/blog/google-business-profile-checklist/) — Complete setup and optimization checklist
-- [GBP Products & Services Setup](/blog/gbp-products-services-setup/) — Maximizing the products and services sections
+- [How to Optimize Your Google Business Profile](/learn/how-to-optimize-google-business-profile/) — Step-by-step optimization guide
+- [Google Business Profile Categories](/learn/google-business-profile-categories/) — Selecting the right categories for your business
+- [GBP Suspension Recovery](/learn/gbp-suspension-recovery/) — What to do when your listing is suspended
+- [Google Business Profile Review Strategy](/learn/google-business-profile-review-strategy/) — Building a review profile that drives rankings
+- [GBP Insights Analytics](/learn/gbp-insights-analytics/) — How to interpret and act on GBP data
+- [Google Business Profile Checklist](/learn/google-business-profile-checklist/) — Complete setup and optimization checklist
+- [GBP Products & Services Setup](/learn/gbp-products-services-setup/) — Maximizing the products and services sections
 
 ## Frequently Asked Questions
 
@@ -235,7 +235,7 @@ A GBP suspension removes your listing from Maps and local search results — eff
 
 ### How do you handle reviews as part of GBP management?
 
-Review management is integral to GBP optimization. We coordinate with our [reputation management services](/reputation-management-services/) to implement review generation strategies, monitor new reviews across platforms, craft professional responses to both positive and negative reviews, and track review velocity as a key performance metric. We do not purchase or fabricate reviews — ever. Our approach focuses on making it easy for satisfied customers to share their experience and ensuring every review receives a thoughtful response.
+Review management is integral to GBP optimization. For [managed SEO](/managed/) clients, we implement review generation strategies, monitor new reviews across platforms, craft professional responses to both positive and negative reviews, and track review velocity as a key performance metric. We do not purchase or fabricate reviews — ever. Our approach focuses on making it easy for satisfied customers to share their experience and ensuring every review receives a thoughtful response.
 
 ### Do you manage GBP for multiple locations?
 

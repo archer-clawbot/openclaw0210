@@ -22,7 +22,7 @@ If your medical practice is not visible in those results — in the Map Pack, in
 
 The challenge is that medical practice SEO is not like SEO for a plumber or a restaurant. Healthcare content falls under Google's YMYL (Your Money or Your Life) classification, which means it faces the highest scrutiny for accuracy, authority, and trustworthiness. HIPAA compliance adds constraints that most SEO agencies do not understand. And the competitive landscape includes not just other private practices, but hospital systems with massive domain authority and aggregator platforms like Zocdoc, Healthgrades, and WebMD that dominate search results for medical queries.
 
-At LocalCatalyst, we specialize in [local SEO](/local-seo-services/) strategies built specifically for medical practices — strategies that navigate YMYL requirements, respect HIPAA constraints, and compete effectively against both hospital systems and aggregator platforms. Our [CATALYST methodology](/local-seo-services/) (Audit, Prioritize, Execute, Expand) provides the structured, data-driven framework that healthcare marketing requires.
+At LocalCatalyst, we specialize in [local SEO](/services/) strategies built specifically for medical practices — strategies that navigate YMYL requirements, respect HIPAA constraints, and compete effectively against both hospital systems and aggregator platforms. Our [CATALYST methodology](/services/) (Audit, Prioritize, Execute, Expand) provides the structured, data-driven framework that healthcare marketing requires.
 
 If you want to know exactly where your practice stands in local search right now, [Order an SEO Audit](/services/seo-audit/). We will map your visibility across a geo-grid of your service area and identify every opportunity you are currently missing.
 
@@ -52,7 +52,7 @@ But you can compete — and win — on local relevance, review quality, and spec
 
 Understanding how patients search is the foundation of an effective medical SEO strategy.
 
-**High-intent local searches dominate.** When a patient searches "urgent care near me" or "pediatrician accepting new patients in [city]," they are ready to book. These searches convert at rates that dwarf general healthcare information queries. Our [local SEO services](/local-seo-services/) focus on capturing these high-intent searches across your entire service area.
+**High-intent local searches dominate.** When a patient searches "urgent care near me" or "pediatrician accepting new patients in [city]," they are ready to book. These searches convert at rates that dwarf general healthcare information queries. Our [local SEO services](/services/) focus on capturing these high-intent searches across your entire service area.
 
 **Condition and symptom searches represent a massive opportunity.** Patients do not always search for a doctor first — they search for answers. "Persistent lower back pain causes," "child rash won't go away," "how to treat plantar fasciitis." Practices that provide authoritative answers to these queries build visibility, trust, and a natural pathway to booking.
 
@@ -62,7 +62,7 @@ Understanding how patients search is the foundation of an effective medical SEO 
 
 ## Google Business Profile Optimization for Medical Practices
 
-Your Google Business Profile is the single most important asset in your medical practice's local SEO strategy. It determines whether you appear in the Map Pack — and for medical searches, the Map Pack captures the majority of clicks. Our [GBP management services](/google-business-profile-management/) for medical practices address every signal that influences Map Pack visibility.
+Your Google Business Profile is the single most important asset in your medical practice's local SEO strategy. It determines whether you appear in the Map Pack — and for medical searches, the Map Pack captures the majority of clicks. Our [GBP management services](/services/gbp-optimization/) for medical practices address every signal that influences Map Pack visibility.
 
 **Category optimization.** Google allows one primary category and up to nine additional categories. For a family medicine practice, this might mean "Family practice physician" as the primary, with additional categories for "Internist," "Walk-in clinic," and other relevant specialties. Incorrect or missing categories are one of the most common reasons medical practices fail to appear in Map Pack results.
 
@@ -78,7 +78,7 @@ Your Google Business Profile is the single most important asset in your medical 
 
 ## Reputation Management for Healthcare
 
-In healthcare, reputation is not just a ranking factor — it is the deciding factor. A patient choosing between two family doctors in the same area will almost always choose the one with more reviews and a higher rating. Our [reputation management services](/reputation-management-services/) for medical practices address the unique challenges of healthcare review management.
+In healthcare, reputation is not just a ranking factor — it is the deciding factor. A patient choosing between two family doctors in the same area will almost always choose the one with more reviews and a higher rating. Our reputation management services for medical practices address the unique challenges of healthcare review management.
 
 **Review generation systems.** Most medical practices receive far fewer reviews than they deserve. A practice seeing 80 patients per day should be generating 15-20 new reviews per month, not 2-3. We build post-appointment review generation workflows — through email, SMS, or in-office prompts — that make it easy for satisfied patients to share their experience.
 
@@ -90,7 +90,7 @@ In healthcare, reputation is not just a ranking factor — it is the deciding fa
 
 ## Content Strategy for Medical Practices
 
-Content is where medical practices can build durable competitive advantages. Hospital systems produce generic health content. Aggregators produce provider listings. An independent practice that publishes authoritative, locally-relevant health content occupies a niche that neither can match. Our [content strategy services](/seo-content-strategy/) for healthcare are built around E-E-A-T compliance and patient conversion.
+Content is where medical practices can build durable competitive advantages. Hospital systems produce generic health content. Aggregators produce provider listings. An independent practice that publishes authoritative, locally-relevant health content occupies a niche that neither can match. Our [content strategy services](/services/content-pages/) for healthcare are built around E-E-A-T compliance and patient conversion.
 
 **Symptom and condition guides.** When a patient searches "what causes numbness in hands," Google wants to surface content written by a qualified medical professional. Provider-authored condition guides — attributed to your physicians with their credentials — serve patient needs while building the E-E-A-T signals Google requires for YMYL content.
 
@@ -127,19 +127,19 @@ One multi-specialty practice we worked with increased new patient bookings by 18
 ## Supporting Content
 
 ### Planned Cluster Pages
-- [Google Business Profile for Doctors](/industries/medical-practices/gbp-for-doctors/) — Complete GBP optimization guide for medical practices
-- [Medical Practice Website Design](/industries/medical-practices/website-design/) — HIPAA-compliant, ADA-accessible website strategies
-- [Patient Review Management](/industries/medical-practices/patient-review-management/) — HIPAA-compliant review generation and response
-- [HIPAA-Compliant SEO](/industries/medical-practices/hipaa-compliant-seo/) — Navigating privacy requirements in digital marketing
-- [Medical SEO Keywords](/industries/medical-practices/medical-seo-keywords/) — Keyword research guide for medical practices
+- [Google Business Profile for Doctors](/industries/medical-practices/) — Complete GBP optimization guide for medical practices
+- [Medical Practice Website Design](/industries/medical-practices/) — HIPAA-compliant, ADA-accessible website strategies
+- [Patient Review Management](/industries/medical-practices/) — HIPAA-compliant review generation and response
+- [HIPAA-Compliant SEO](/industries/medical-practices/) — Navigating privacy requirements in digital marketing
+- [Medical SEO Keywords](/industries/medical-practices/) — Keyword research guide for medical practices
 
 ### Related Industry Verticals
 - [Dental SEO](/industries/dental-seo/) — Specialized strategies for dental practices with similar YMYL and HIPAA requirements
 
 ### Related Blog Posts
-- [Local SEO Ranking Factors in 2026](/blog/local-seo-ranking-factors-2026/) — The signals that determine your local visibility
-- [Google Business Profile Optimization Checklist](/blog/gbp-optimization-checklist/) — Step-by-step guide to GBP excellence
-- [Review Generation Strategy](/blog/google-reviews-generation-strategy/) — How to build a review generation engine
+- [Local SEO Ranking Factors in 2026](/learn/local-seo-ranking-factors-2026/) — The signals that determine your local visibility
+- [Google Business Profile Optimization Checklist](/learn/gbp-optimization-checklist/) — Step-by-step guide to GBP excellence
+- [Review Generation Strategy](/learn/google-reviews-generation-strategy/) — How to build a review generation engine
 
 ## Frequently Asked Questions
 
@@ -165,7 +165,7 @@ Rather than trying to outrank aggregators for broad terms like "doctors in [city
 
 ### How much does SEO for a medical practice cost?
 
-Pricing depends on the scope of work — the number of locations, specialties, competitive intensity of your market, and the gap between your current visibility and your goals. We price to deliver clear ROI: if a new patient is worth $2,000-5,000 in lifetime value and our work generates 20 additional patients per month, the investment pays for itself many times over. [Request a free audit](/services/seo-audit/) for a transparent proposal with projected outcomes.
+Pricing depends on the scope of work — the number of locations, specialties, competitive intensity of your market, and the gap between your current visibility and your goals. We price to deliver clear ROI: if a new patient is worth $2,000-5,000 in lifetime value and our work generates 20 additional patients per month, the investment pays for itself many times over. [Order an SEO Audit](/services/seo-audit/) for a transparent proposal with projected outcomes.
 
 ### Do you write medical content, and is it reviewed by physicians?
 
@@ -177,4 +177,4 @@ We track everything that ties to patient acquisition: geo-grid rankings across y
 
 ---
 
-*Ready to fill your schedule with new patients from local search? [Request your free medical practice SEO audit](/services/seo-audit/) and see exactly where your practice stands against the competition.*
+*Ready to fill your schedule with new patients from local search? [Order your medical practice SEO Audit](/services/seo-audit/) and see exactly where your practice stands against the competition.*

@@ -14,7 +14,7 @@
 
 ---
 
-In veterinary medicine, trust is everything. Pet owners treat their animals as family members, and choosing a vet is an intensely personal decision. Online reviews are the primary mechanism through which that trust is established before a pet owner ever walks through your door. This guide, part of our [veterinary SEO](/industries/veterinary-seo/) vertical, provides a complete review management system for veterinary practices. For done-for-you review management, explore our [reputation management services](/reputation-management-services/).
+In veterinary medicine, trust is everything. Pet owners treat their animals as family members, and choosing a vet is an intensely personal decision. Online reviews are the primary mechanism through which that trust is established before a pet owner ever walks through your door. This guide, part of our [veterinary SEO](/industries/veterinary-seo/) vertical, provides a complete review management system for veterinary practices. For done-for-you review management, explore our reputation management services.
 
 ## Why Reviews Are Disproportionately Important for Veterinary Practices
 

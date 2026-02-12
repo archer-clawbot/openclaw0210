@@ -4,14 +4,17 @@
 **Deliverable:** Service sub-page (cluster)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** `/citation-building-services/niche-citations/`
-**Parent Hub:** `/citation-building-services/`
+**URL:** `/services/citation-building/niche-citations/`
+**Parent Hub:** `/services/citation-building/`
+**Title Tag:** Industry-Specific Citations — Niche Authority | LocalCatalyst
+**Meta Description:** Build categorical relevance with industry-specific citations. We submit to niche directories that strengthen your business category signals.
+**H1:** Why Industry-Specific Citations Carry More Weight
 **Primary Keyword:** industry-specific citations
 **Word Count Target:** 1,500
 
 ---
 
-> **Home > [Citation Building Services](/citation-building-services/) > Niche Citations**
+> **Home > [Citation Building Services](/services/citation-building/) > Niche Citations**
 
 ## Why Industry-Specific Citations Carry More Weight
 
@@ -19,7 +22,7 @@ General directories like Yelp, Facebook, and the BBB are essential — every loc
 
 When Google sees your dental practice listed on Healthgrades, Vitals, and ZocDoc alongside your Yelp and BBB listings, it receives a layered trust signal. The general directories confirm you're a legitimate business. The niche directories confirm you're a legitimate dental practice. That combination of general authority and categorical relevance is what drives Map Pack visibility and local organic rankings.
 
-At LocalCatalyst, niche citation building is a strategic phase within our [citation building services](/citation-building-services/). After we've completed [citation cleanup](/citation-building-services/citation-cleanup/) and established your foundation on core platforms, we build targeted niche citations that align your business with the directories Google associates most strongly with your industry. This approach is coordinated with your broader [local SEO strategy](/local-seo-services/) to ensure every citation reinforces your overall visibility.
+At LocalCatalyst, niche citation building is a strategic phase within our [citation building services](/services/citation-building/). After we've completed [citation cleanup](/services/citation-building/citation-cleanup/) and established your foundation on core platforms, we build targeted niche citations that align your business with the directories Google associates most strongly with your industry. This approach is coordinated with your broader [local SEO strategy](/services/) to ensure every citation reinforces your overall visibility.
 
 **[Order Your SEO Audit](/services/seo-audit/)** — We'll identify the industry-specific directories where your competitors are listed and you aren't.
 
@@ -196,7 +199,7 @@ Directories with photos get more engagement (clicks, calls, direction requests).
 
 ### Encourage Platform-Specific Reviews
 
-Reviews on niche directories build credibility within the platform and signal activity to Google. Encourage satisfied customers to leave reviews on the platforms most relevant to your industry (Healthgrades for doctors, Avvo for attorneys, Houzz for contractors) as part of your broader [reputation management strategy](/reputation-management-services/).
+Reviews on niche directories build credibility within the platform and signal activity to Google. Encourage satisfied customers to leave reviews on the platforms most relevant to your industry (Healthgrades for doctors, Avvo for attorneys, Houzz for contractors) as part of your broader reputation management strategy.
 
 ---
 
@@ -224,13 +227,13 @@ It depends on your industry and competitive landscape. Most industries have 5-15
 
 Absolutely. General directories establish baseline legitimacy. Niche directories establish categorical authority. The businesses ranking at the top of the Map Pack in competitive markets have both. If your competitors are listed on Healthgrades and you aren't, that's a gap that's costing you rankings.
 
-### Do niche citations also help with [structured and unstructured citation](/citation-building-services/structured-unstructured-citations/) building?
+### Do niche citations also help with [structured and unstructured citation](/services/citation-building/structured-unstructured-citations/) building?
 
 Niche citations are primarily structured citations — formal directory listings with consistent NAP fields. However, many niche platforms also generate unstructured citations through editorial content, featured provider spotlights, and industry resource articles. Active engagement with niche platforms can produce both types of citations from a single source.
 
 ### How often should niche citations be updated?
 
-Any time your business information changes (address, phone, hours, services, credentials), updates must be pushed to every niche directory immediately. Beyond change-driven updates, we perform quarterly reviews of niche citations to ensure data hasn't drifted due to platform changes, aggregator overwrites, or directory migrations. This monitoring is included in our ongoing [citation management](/citation-building-services/).
+Any time your business information changes (address, phone, hours, services, credentials), updates must be pushed to every niche directory immediately. Beyond change-driven updates, we perform quarterly reviews of niche citations to ensure data hasn't drifted due to platform changes, aggregator overwrites, or directory migrations. This monitoring is included in our ongoing [citation management](/services/citation-building/).
 
 ### Can you help us get listed on directories that require credentials?
 

@@ -16,7 +16,7 @@
 
 When a homeowner searches "plumber near me" with water pooling on their kitchen floor, they are not scrolling to page two of Google. They are calling one of the three businesses in the local pack. For plumbing companies, Google Business Profile optimization is not optional; it is the single most important factor in capturing emergency calls and high-intent local searches. This guide is part of our complete [plumbing SEO resource](/industries/plumbing-seo/) and covers every aspect of GBP optimization specific to the plumbing industry.
 
-If you want a team handling your GBP optimization on an ongoing basis, our [Google Business Profile management service](/google-business-profile-management/) provides continuous optimization, posting, and performance tracking for plumbing companies.
+If you want a team handling your GBP optimization on an ongoing basis, our [Google Business Profile management service](/services/gbp-optimization/) provides continuous optimization, posting, and performance tracking for plumbing companies.
 
 ## GBP Setup: Getting the Foundation Right
 

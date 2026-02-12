@@ -14,7 +14,7 @@
 
 ---
 
-Personal trainers face a unique local SEO challenge. You are not a large facility with brand recognition. You are an individual or small team competing against gyms, franchises, and online coaching platforms for the same search terms. The good news is that local SEO levels the playing field dramatically. A well-optimized personal trainer can outrank a large gym chain for specific, high-intent queries. This guide is part of our [fitness and gym SEO](/industries/fitness-gym-seo/) hub and covers the SEO strategies that work specifically for independent personal trainers and small training studios. For a full local visibility strategy, explore our [local SEO services](/local-seo-services/).
+Personal trainers face a unique local SEO challenge. You are not a large facility with brand recognition. You are an individual or small team competing against gyms, franchises, and online coaching platforms for the same search terms. The good news is that local SEO levels the playing field dramatically. A well-optimized personal trainer can outrank a large gym chain for specific, high-intent queries. This guide is part of our [fitness and gym SEO](/industries/fitness-gym-seo/) hub and covers the SEO strategies that work specifically for independent personal trainers and small training studios. For a full local visibility strategy, explore our [local SEO services](/services/).
 
 ## Why Personal Trainers Need Local SEO
 

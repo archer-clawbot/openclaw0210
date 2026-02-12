@@ -1,1 +1,40 @@
-{}
+{
+  "agent:lookout:main": {
+    "sessionId": "acab00fd-dcef-4972-81c3-66264dbe804d",
+    "updatedAt": 1770781967584,
+    "skillsSnapshot": {
+      "prompt": "",
+      "skills": [],
+      "resolvedSkills": [],
+      "version": 0
+    },
+    "modelProvider": "anthropic",
+    "model": "claude-haiku-4-5",
+    "contextTokens": 200000,
+    "abortedLastRun": false,
+    "inputTokens": 11,
+    "outputTokens": 765,
+    "totalTokens": 31240
+  },
+  "agent:lookout:slack:channel:lookout": {
+    "chatType": "channel",
+    "channel": "slack",
+    "groupId": "lookout",
+    "displayName": "slack:g-lookout",
+    "origin": {
+      "label": "slack:channel:lookout",
+      "provider": "slack",
+      "surface": "slack",
+      "chatType": "channel",
+      "from": "slack:channel:lookout",
+      "to": "channel:lookout"
+    },
+    "sessionId": "c70ea291-649b-4c62-8a01-c49440d4a735",
+    "updatedAt": 1770781930746,
+    "deliveryContext": {
+      "channel": "slack"
+    },
+    "lastChannel": "slack",
+    "sessionFile": "C:\\Users\\spart\\.openclaw\\agents\\lookout\\sessions\\c70ea291-649b-4c62-8a01-c49440d4a735.jsonl"
+  }
+}

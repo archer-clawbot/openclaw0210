@@ -4,14 +4,17 @@
 **Deliverable:** Service sub-page (cluster)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** `/seo-content-strategy/blog-writing-services/`
-**Parent Hub:** `/seo-content-strategy/`
+**URL:** `/services/content-pages/blog-writing-services/`
+**Parent Hub:** `/services/content-pages/`
+**Title Tag:** SEO Blog Writing Services — Drive Rankings | LocalCatalyst
+**Meta Description:** Strategic SEO blog writing that builds topical authority, captures long-tail traffic, and converts readers into customers. Order your audit now.
+**H1:** Strategic Blog Content That Drives Local Rankings and Revenue
 **Primary Keyword:** SEO blog writing services
 **Word Count Target:** 1,800
 
 ---
 
-> **Home > [SEO Content Strategy](/seo-content-strategy/) > Blog Writing Services**
+> **Home > [SEO Content Strategy](/services/content-pages/) > Blog Writing Services**
 
 ## Strategic Blog Content That Drives Local Rankings and Revenue
 
@@ -19,7 +22,7 @@ Most local businesses approach blogging backwards. They publish random posts abo
 
 Blogging works. Random blogging doesn't.
 
-At LocalCatalyst, our [SEO content strategy](/seo-content-strategy/) treats blog content as a strategic asset — not a checkbox. Every blog post we write serves a defined purpose within a larger content architecture designed to build [topical authority](/seo-content-strategy/topical-authority/), capture long-tail search traffic, strengthen internal linking, and move readers toward conversion.
+At LocalCatalyst, our [SEO content strategy](/services/content-pages/) treats blog content as a strategic asset — not a checkbox. Every blog post we write serves a defined purpose within a larger content architecture designed to build [topical authority](/services/content-pages/topical-authority/), capture long-tail search traffic, strengthen internal linking, and move readers toward conversion.
 
 **[Order Your SEO Audit](/services/seo-audit/)** — We'll identify your highest-value blog content opportunities and show you exactly where traffic is waiting.
 
@@ -47,7 +50,7 @@ Blog content targets thousands of these long-tail queries that service pages can
 
 Every blog post is a linking opportunity. Strategic internal links from blog content to your service pages pass authority, reinforce topical relevance, and guide readers toward conversion. A blog post about "signs you need a new roof" naturally links to your roof replacement service page. That link tells Google what your service page is about and sends qualified readers directly to it.
 
-This is why our blog strategy is always coordinated with [on-page SEO optimization](/on-page-seo/) — the internal linking architecture matters as much as the content itself.
+This is why our blog strategy is always coordinated with [on-page SEO optimization](/services/on-page-optimization/) — the internal linking architecture matters as much as the content itself.
 
 ### AI Overview Visibility
 
@@ -176,7 +179,7 @@ Once topical authority is established, the focus shifts to maintaining rankings,
 
 ## How Blog Content Supports Your Service Pages
 
-Blog content and [service page copywriting](/seo-content-strategy/service-page-copywriting/) work as a system. Here's how:
+Blog content and [service page copywriting](/services/content-pages/service-page-copywriting/) work as a system. Here's how:
 
 - **Authority transfer:** Blog posts targeting informational keywords build topical authority that elevates your service pages in rankings for commercial keywords
 - **Internal link equity:** Every blog post linking to a service page passes ranking power to that page
@@ -184,7 +187,7 @@ Blog content and [service page copywriting](/seo-content-strategy/service-page-c
 - **User journey mapping:** A customer reads your educational blog post, finds it genuinely helpful, clicks to your service page, and converts — a journey that paid ads can't replicate
 - **AI Overview presence:** Blog content earns AI Overview citations that drive brand visibility, supporting branded searches that land on your service pages
 
-This is why our blog strategy is never created in isolation. It's always designed to support your core revenue pages, your [link building efforts](/link-building-services/) (blog posts serve as linkable assets), and your broader [local SEO strategy](/local-seo-services/).
+This is why our blog strategy is never created in isolation. It's always designed to support your core revenue pages, your [link building efforts](/managed/) (blog posts serve as linkable assets), and your broader [local SEO strategy](/services/).
 
 ---
 
@@ -232,11 +235,11 @@ Absolutely. Our content audit evaluates every existing post for keyword targetin
 
 ### How is this different from hiring a freelance writer?
 
-A freelance writer produces blog posts. We build blog content systems. The difference is strategy, integration, and accountability. A freelance writer doesn't conduct keyword research, build topic cluster architectures, implement schema markup, optimize for AI Overviews, track rankings, refresh declining content, or coordinate blog content with your [service pages](/seo-content-strategy/service-page-copywriting/) and [link building strategy](/link-building-services/). We handle all of that because isolated blog posts don't move the needle — integrated blog systems do.
+A freelance writer produces blog posts. We build blog content systems. The difference is strategy, integration, and accountability. A freelance writer doesn't conduct keyword research, build topic cluster architectures, implement schema markup, optimize for AI Overviews, track rankings, refresh declining content, or coordinate blog content with your [service pages](/services/content-pages/service-page-copywriting/) and [link building strategy](/managed/). We handle all of that because isolated blog posts don't move the needle — integrated blog systems do.
 
 ### What if blogging hasn't worked for us before?
 
-It almost certainly wasn't the blogging that failed — it was the strategy (or lack thereof). We've audited hundreds of local business blogs, and the pattern is almost always the same: random topics, no keyword targeting, no internal linking, no SEO optimization, and no measurement. When you engineer blog content strategically, it works for every industry. Our [free SEO audit](/services/seo-audit/) includes a content gap analysis that shows exactly where your blog opportunities are.
+It almost certainly wasn't the blogging that failed — it was the strategy (or lack thereof). We've audited hundreds of local business blogs, and the pattern is almost always the same: random topics, no keyword targeting, no internal linking, no SEO optimization, and no measurement. When you engineer blog content strategically, it works for every industry. Our [SEO Audit](/services/seo-audit/) includes a content gap analysis that shows exactly where your blog opportunities are.
 
 ---
 

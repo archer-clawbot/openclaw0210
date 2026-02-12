@@ -3,8 +3,8 @@
 **Deliverable:** Hub blog post
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/holiday-local-seo-strategy/
-**Parent Hub:** /local-seo-services/
+**URL:** /learn/holiday-local-seo-strategy/
+**Parent Hub:** /services/
 **Primary Keyword:** holiday SEO for local business
 **Secondary Keywords:** holiday local SEO, seasonal SEO strategy, holiday marketing local business, Christmas SEO local business, seasonal local search optimization
 **Title Tag:** Holiday SEO for Local Businesses: A Planning Guide
@@ -14,7 +14,7 @@
 
 ---
 
-The holiday season concentrates consumer spending into a compressed window where search volume surges, buying intent peaks, and local businesses either capture their share or watch it flow to better-prepared competitors. A strong [local SEO strategy](/local-seo-services/) does not pause for the holidays. It adapts to capture seasonal demand that represents a disproportionate share of annual revenue for many local businesses.
+The holiday season concentrates consumer spending into a compressed window where search volume surges, buying intent peaks, and local businesses either capture their share or watch it flow to better-prepared competitors. A strong [local SEO strategy](/services/) does not pause for the holidays. It adapts to capture seasonal demand that represents a disproportionate share of annual revenue for many local businesses.
 
 This guide covers the specific actions local businesses should take before, during, and after the holiday season to maximize visibility and revenue during the highest-stakes period of the year.
 
@@ -44,7 +44,7 @@ Your Google Business Profile is the first thing most holiday searchers will see.
 - **Holiday photos:** Update your photo gallery with seasonal images. A restaurant with holiday decor photos or a retail store with gift displays creates immediate seasonal relevance.
 - **Google Posts:** Begin publishing holiday-relevant posts 6-8 weeks before the season. Posts about holiday hours, seasonal specials, gift guides, and holiday preparation tips keep your profile active and relevant.
 
-A well-maintained [Google Business Profile](/google-business-profile-management/) converts at a significantly higher rate during the holidays because consumers are making faster decisions and relying more heavily on the information visible directly in search results.
+A well-maintained [Google Business Profile](/services/gbp-optimization/) converts at a significantly higher rate during the holidays because consumers are making faster decisions and relying more heavily on the information visible directly in search results.
 
 ### Create Holiday-Specific Landing Pages
 
@@ -175,7 +175,7 @@ Different industries face different seasonal dynamics. Here are targeted priorit
 - **December-January:** Execute peak season tactics, begin post-holiday follow-up planning
 - **January-February:** Follow up with holiday customers, analyze performance data, plan for next season
 
-Starting this timeline requires a solid [local SEO foundation](/local-seo-services/) already in place. The holiday season amplifies existing strengths and weaknesses. A business with poor technical SEO, a weak GBP, or minimal reviews will not fix those issues in time for a productive holiday season.
+Starting this timeline requires a solid [local SEO foundation](/services/) already in place. The holiday season amplifies existing strengths and weaknesses. A business with poor technical SEO, a weak GBP, or minimal reviews will not fix those issues in time for a productive holiday season.
 
 ## Frequently Asked Questions
 
@@ -197,4 +197,6 @@ Yes. Service businesses experience seasonal demand patterns just as retailers do
 
 ---
 
-**Ready to build a seasonal SEO strategy that captures holiday demand?** [Order an SEO Audit](/services/seo-audit/) to evaluate your current local search foundation, or [contact our team](/contact/) to start planning your next holiday season strategy now -- before your competitors do.
+**Ready to capture seasonal demand before your competitors do?** [Browse Our Services](/services/)
+
+---

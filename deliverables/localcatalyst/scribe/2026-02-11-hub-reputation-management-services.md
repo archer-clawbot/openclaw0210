@@ -15,7 +15,7 @@
 
 Your online reputation is not a vanity metric. It is the single most influential factor in whether a potential customer chooses your business or your competitor's. It directly impacts your local search rankings. It shapes how AI systems describe your business in AI Overviews and LLM-generated responses. And in 2026, when consumers have more options and less patience than ever, it is the foundation on which every other marketing investment either compounds or collapses.
 
-At LocalCatalyst, our **reputation management services** go far beyond monitoring review sites and hoping for the best. We build systematic, repeatable processes that generate consistent positive reviews, manage negative feedback with speed and strategy, and transform your online reputation into a measurable ranking and revenue asset. This is integrated directly into our [CATALYST methodology](/local-seo-services/) — because reputation is not separate from SEO. It is SEO.
+At LocalCatalyst, our **reputation management services** go far beyond monitoring review sites and hoping for the best. We build systematic, repeatable processes that generate consistent positive reviews, manage negative feedback with speed and strategy, and transform your online reputation into a measurable ranking and revenue asset. This is integrated directly into our [CATALYST methodology](/services/) — because reputation is not separate from SEO. It is SEO.
 
 If you don't know where your reputation stands right now — across Google, Yelp, Facebook, and the industry-specific platforms that matter for your business — [Order an SEO Audit](/services/seo-audit/) and we'll include a complete reputation snapshot.
 
@@ -27,7 +27,7 @@ But the impact goes beyond direct conversion. Reviews are the **second most impo
 
 This creates a compounding effect: more reviews lead to higher rankings, which lead to more visibility, which leads to more customers, which lead to more reviews. The businesses that build this flywheel early dominate their markets for years. The businesses that ignore reputation management watch competitors pull further ahead every month.
 
-We see this pattern repeatedly across the industries we serve — from [dental practices](/local-seo-services/) averaging 4.2 stars with 40 reviews losing patients to newer competitors averaging 4.8 stars with 200+ reviews, to HVAC companies watching their Map Pack positions erode as competitors with stronger review profiles climb past them.
+We see this pattern repeatedly across the industries we serve — from [dental practices](/services/) averaging 4.2 stars with 40 reviews losing patients to newer competitors averaging 4.8 stars with 200+ reviews, to HVAC companies watching their Map Pack positions erode as competitors with stronger review profiles climb past them.
 
 ## The Review Generation Problem
 
@@ -41,7 +41,7 @@ This is the core of what we do. We turn the silent majority of your happy custom
 
 ## Our Review Management Approach
 
-We structure reputation management in four interconnected phases, aligned with the CATALYST methodology we use across all [local SEO services](/local-seo-services/).
+We structure reputation management in four interconnected phases, aligned with the CATALYST methodology we use across all [local SEO services](/services/).
 
 ### Phase 1: Review Generation (Execute)
 
@@ -130,7 +130,7 @@ A business sitting at 3.2 stars with 50 reviews needs a specific, calculated app
 
 **Negative Content Suppression**
 
-Beyond reviews, we address negative content that appears in search results for your brand name. This overlaps with our [content strategy services](/seo-content-strategy/) — we create authoritative, positive content assets that rank for your brand terms and push negative content below the fold.
+Beyond reviews, we address negative content that appears in search results for your brand name. This overlaps with our [content strategy services](/services/content-pages/) — we create authoritative, positive content assets that rank for your brand terms and push negative content below the fold.
 
 Our [negative review management](/reputation-management-services/negative-review-management/) page covers recovery strategies in depth.
 
@@ -144,7 +144,7 @@ This means review quality matters as much as quantity. A review that says "Great
 
 Our review generation strategies are designed to encourage detailed, specific reviews — not through scripting or dictation (which violates platform policies) but through well-timed prompts that ask customers about specific aspects of their experience.
 
-This is the same principle driving our [GBP management](/google-business-profile-management/) and [citation building](/citation-building-services/) strategies: the businesses that provide the most structured, consistent, and detailed signals across the web are the businesses that AI systems learn to trust and recommend.
+This is the same principle driving our [GBP management](/services/gbp-optimization/) and [citation building](/services/citation-building/) strategies: the businesses that provide the most structured, consistent, and detailed signals across the web are the businesses that AI systems learn to trust and recommend.
 
 ## Results You Can Expect
 
@@ -213,7 +213,7 @@ We can request removal of reviews that violate Google's review policies — fake
 
 ### How do reviews affect local SEO rankings?
 
-Reviews impact local rankings through multiple signals: review quantity (total number of reviews), review velocity (frequency of new reviews), review diversity (reviews across multiple platforms), average rating, keyword content within reviews, and business response rate. Google has confirmed that reviews are a top-three ranking factor for local results. In practice, we consistently observe that businesses with stronger review profiles rank higher in the Map Pack and local organic results than competitors with similar [GBP optimization](/google-business-profile-management/) and [citation profiles](/citation-building-services/) but weaker reviews.
+Reviews impact local rankings through multiple signals: review quantity (total number of reviews), review velocity (frequency of new reviews), review diversity (reviews across multiple platforms), average rating, keyword content within reviews, and business response rate. Google has confirmed that reviews are a top-three ranking factor for local results. In practice, we consistently observe that businesses with stronger review profiles rank higher in the Map Pack and local organic results than competitors with similar [GBP optimization](/services/gbp-optimization/) and [citation profiles](/services/citation-building/) but weaker reviews.
 
 ### What platforms should I focus on for reviews?
 
@@ -242,14 +242,14 @@ This pillar page is supported by the following cluster content and blog posts:
 - [Review Monitoring Services](/reputation-management-services/review-monitoring/) — Multi-platform review monitoring with real-time alerts and sentiment analysis
 
 ### Related Blog Posts
-- [How to Get More Google Reviews in 2026](/blog/how-to-get-more-google-reviews/) — Practical tactics for increasing your Google review volume
-- [Responding to Negative Reviews: A Complete Guide](/blog/responding-to-negative-reviews/) — Templates and frameworks for professional negative review responses
-- [How Google Reviews Impact Local SEO Rankings](/blog/google-reviews-impact-seo/) — Data-backed analysis of the review-ranking correlation
-- [Review Management Best Practices for Local Businesses](/blog/review-management-best-practices/) — Comprehensive guide to review management strategy
-- [How to Remove Fake Google Reviews](/blog/fake-google-reviews-removal/) — Step-by-step process for identifying and reporting policy-violating reviews
+- [How to Get More Google Reviews in 2026](/learn/how-to-get-more-google-reviews/) — Practical tactics for increasing your Google review volume
+- [Responding to Negative Reviews: A Complete Guide](/learn/responding-to-negative-reviews/) — Templates and frameworks for professional negative review responses
+- [How Google Reviews Impact Local SEO Rankings](/learn/google-reviews-impact-seo/) — Data-backed analysis of the review-ranking correlation
+- [Review Management Best Practices for Local Businesses](/learn/review-management-best-practices/) — Comprehensive guide to review management strategy
+- [How to Remove Fake Google Reviews](/learn/fake-google-reviews-removal/) — Step-by-step process for identifying and reporting policy-violating reviews
 
 ### Related Hub Pages
-- [Local SEO Services](/local-seo-services/) — Our comprehensive local SEO methodology and CATALYST framework
-- [Google Business Profile Management](/google-business-profile-management/) — GBP optimization that amplifies review signals
-- [Citation Building Services](/citation-building-services/) — NAP consistency and directory management that reinforces reputation authority
-- [SEO Content Strategy](/seo-content-strategy/) — Content creation that supports brand reputation and suppresses negative content
+- [Local SEO Services](/services/) — Our comprehensive local SEO methodology and CATALYST framework
+- [Google Business Profile Management](/services/gbp-optimization/) — GBP optimization that amplifies review signals
+- [Citation Building Services](/services/citation-building/) — NAP consistency and directory management that reinforces reputation authority
+- [SEO Content Strategy](/services/content-pages/) — Content creation that supports brand reputation and suppresses negative content

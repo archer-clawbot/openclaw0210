@@ -16,7 +16,7 @@
 
 For roofing companies, the Google Business Profile is the single most influential asset in local search visibility. When a homeowner searches "roofer near me" or "roof repair [city]," the Map Pack results that appear above organic listings capture the majority of clicks and phone calls. As a core component of our [roofing SEO program](/industries/roofing-seo/), GBP optimization is where we consistently see the fastest return on investment for roofing clients. This guide details exactly how to set up, optimize, and maintain your roofing company's Google Business Profile for maximum lead generation.
 
-LocalCatalyst's [Google Business Profile management service](/google-business-profile-management/) applies these roofing-specific strategies within our CATALYST Methodology framework, combining data-driven optimization with ongoing management that keeps your listing competitive month after month.
+LocalCatalyst's [Google Business Profile management service](/services/gbp-optimization/) applies these roofing-specific strategies within our CATALYST Methodology framework, combining data-driven optimization with ongoing management that keeps your listing competitive month after month.
 
 ## Why GBP Matters Disproportionately for Roofing Companies
 
@@ -93,7 +93,7 @@ You cannot change where your office is located, but you can influence proximity 
 
 Prominence reflects your business's overall authority and reputation online. The two biggest prominence factors for roofing GBP listings are reviews and citations.
 
-**Review strategy.** More reviews, higher average ratings, and recent review activity all boost prominence. We cover review acquisition tactics in our broader [reputation management services](/reputation-management-services/) program, but for roofers specifically:
+**Review strategy.** More reviews, higher average ratings, and recent review activity all boost prominence. We cover review acquisition tactics in our broader reputation management services program, but for roofers specifically:
 
 - Request reviews immediately after job completion, while the customer is most satisfied
 - Respond to every review within 24 hours, positive or negative
@@ -112,7 +112,7 @@ GBP posts appear directly on your listing and influence both rankings and click-
 
 **Project showcase posts.** Before-and-after photos from recent jobs with brief descriptions of the work performed. Include the neighborhood or city name for location relevance.
 
-**Storm response posts.** After significant weather events, post immediately about your storm damage assessment services. Searchers will spike, and a fresh, relevant post can boost your visibility exactly when demand is highest. This connects directly to our [storm damage SEO strategies](/industries/roofing-seo/storm-damage-seo/).
+**Storm response posts.** After significant weather events, post immediately about your storm damage assessment services. Searchers will spike, and a fresh, relevant post can boost your visibility exactly when demand is highest. This connects directly to our [storm damage SEO strategies](/industries/roofing-seo/).
 
 **Offer posts.** Free inspection promotions or seasonal maintenance packages give searchers a reason to choose your listing over competitors.
 

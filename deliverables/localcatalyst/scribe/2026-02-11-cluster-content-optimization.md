@@ -3,8 +3,8 @@
 **Deliverable:** Service sub-page (cluster)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /on-page-seo-services/content-optimization/
-**Parent Hub:** /on-page-seo-services/
+**URL:** /services/content-pages/content-optimization/
+**Parent Hub:** /services/content-pages/
 **Primary Keyword:** content optimization for SEO
 **Secondary Keywords:** SEO content optimization, content scoring, search intent optimization, E-E-A-T content, semantic SEO, content freshness
 **Title Tag:** Content Optimization for SEO That Ranks | LocalCatalyst.ai
@@ -14,11 +14,11 @@
 
 ---
 
-**Breadcrumbs:** [Home](/) > [On-Page SEO Services](/on-page-seo-services/) > Content Optimization
+**Breadcrumbs:** [Home](/) > [On-Page SEO Services](/services/on-page-optimization/) > Content Optimization
 
 ## What Content Optimization Actually Means in 2026
 
-Content optimization is far more than inserting keywords into paragraphs. As a foundational element of our [on-page SEO services](/on-page-seo-services/), content optimization at LocalCatalyst means aligning every piece of content with search intent, covering topics with semantic depth, demonstrating genuine expertise, and structuring information so both users and search engines can extract maximum value. The days of keyword density formulas are over. The era of comprehensive, intent-matched content is here.
+Content optimization is far more than inserting keywords into paragraphs. As a foundational element of our [on-page SEO services](/services/on-page-optimization/), content optimization at LocalCatalyst means aligning every piece of content with search intent, covering topics with semantic depth, demonstrating genuine expertise, and structuring information so both users and search engines can extract maximum value. The days of keyword density formulas are over. The era of comprehensive, intent-matched content is here.
 
 Google's algorithms now evaluate content the way a knowledgeable human would: Does this page fully answer the query? Does the author demonstrate real expertise? Is the information trustworthy, current, and well-organized? Content optimization is the process of ensuring your answer to all three questions is an unambiguous yes.
 
@@ -202,7 +202,7 @@ Optimization without measurement is guessing. Track these metrics for every opti
 |---|---|---|
 | Organic traffic | GA4, Search Console | Is the page attracting visitors? |
 | Keyword rankings | Semrush, Ahrefs | Is the page ranking for target terms? |
-| CTR | Search Console | Is the [title tag](/on-page-seo-services/title-tag-optimization/) compelling? |
+| CTR | Search Console | Is the [title tag](/services/content-pages/title-tag-optimization/) compelling? |
 | Time on page | GA4 | Is the content engaging? |
 | Bounce rate | GA4 | Does the page satisfy intent? |
 | Scroll depth | GA4 (event tracking) | How much content is consumed? |

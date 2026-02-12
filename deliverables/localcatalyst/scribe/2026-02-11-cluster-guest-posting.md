@@ -4,14 +4,17 @@
 **Deliverable:** Service sub-page (cluster)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** `/link-building-services/guest-posting/`
-**Parent Hub:** `/link-building-services/`
+**URL:** `/managed/guest-posting/`
+**Parent Hub:** `/managed/`
+**Title Tag:** Guest Posting Service — White-Hat Links | LocalCatalyst
+**Meta Description:** Earn editorial backlinks through legitimate guest posting. We place expert content on real publications with genuine audiences and authority.
+**H1:** Guest Posting That Builds Authority, Not Risk
 **Primary Keyword:** guest posting service
 **Word Count Target:** 1,500
 
 ---
 
-> **Home > [Link Building Services](/link-building-services/) > Guest Posting Services**
+> **Home > [Link Building Services](/managed/) > Guest Posting Services**
 
 ## Guest Posting That Builds Authority, Not Risk
 
@@ -19,7 +22,7 @@ Guest posting has a reputation problem. For years, low-quality SEO agencies used
 
 But legitimate guest posting — placing expert content on real publications with genuine audiences and editorial oversight — remains one of the most effective link building strategies available. The distinction isn't subtle, and getting it wrong isn't just ineffective. It's dangerous.
 
-At LocalCatalyst, our guest posting service operates within the ethical, white-hat framework that governs all of our [link building services](/link-building-services/). We place your expertise on publications that real people read, that Google trusts, and that send both authority and referral traffic back to your site. Every placement we secure would exist whether or not a backlink was involved — because the content itself provides value to the publication's audience.
+At LocalCatalyst, our guest posting service operates within the ethical, white-hat framework that governs all of our [link building services](/managed/). We place your expertise on publications that real people read, that Google trusts, and that send both authority and referral traffic back to your site. Every placement we secure would exist whether or not a backlink was involved — because the content itself provides value to the publication's audience.
 
 **[Order Your SEO Audit](/services/seo-audit/)** — We'll evaluate your current backlink profile and identify the highest-value guest posting opportunities for your industry.
 
@@ -182,7 +185,7 @@ Guest posting for local businesses differs from national campaigns because the h
 - **State-level industry publications** (state bar publications, state contractor association magazines)
 - **Regional business directories** with editorial content sections
 
-These placements carry both the authority signal of a quality backlink and the geographic relevance signal that local search algorithms weigh heavily — complementing the [local link building](/link-building-services/local-link-building/) work we do through community partnerships and sponsorships.
+These placements carry both the authority signal of a quality backlink and the geographic relevance signal that local search algorithms weigh heavily — complementing the [local link building](/managed/local-link-building/) work we do through community partnerships and sponsorships.
 
 ---
 
@@ -196,7 +199,7 @@ We track every guest post placement across multiple dimensions:
 - **Brand visibility** — Impressions and reach of the published content
 - **Link persistence** — Ongoing monitoring to ensure links remain live and followed
 
-Results are included in your monthly [link building report](/link-building-services/) alongside metrics from other link building strategies.
+Results are included in your monthly [link building report](/managed/) alongside metrics from other link building strategies.
 
 ---
 
@@ -204,7 +207,7 @@ Results are included in your monthly [link building report](/link-building-servi
 
 ### How many guest posts can you place per month?
 
-Typically 2-4 high-quality placements per month, depending on your industry and the available publication landscape. We could place more, but quality standards create a natural ceiling — we reject the majority of potential sites. Guest posting is one component of a broader link building strategy that includes [local links](/link-building-services/local-link-building/), [digital PR](/link-building-services/digital-pr/), and other approaches.
+Typically 2-4 high-quality placements per month, depending on your industry and the available publication landscape. We could place more, but quality standards create a natural ceiling — we reject the majority of potential sites. Guest posting is one component of a broader link building strategy that includes [local links](/managed/local-link-building/), [digital PR](/managed/digital-pr/), and other approaches.
 
 ### How long does it take to see results from guest posting?
 
@@ -220,7 +223,7 @@ Yes. Our writers create every guest post, tailored to the target publication's s
 
 ### Can guest posting also drive direct leads?
 
-Absolutely. A well-placed guest post on a publication your customers read drives qualified referral traffic. We've seen guest posts on local business publications generate 10-30+ direct website visits in the first week, with some placements continuing to drive traffic for months. For local businesses, a guest post in a regional publication read by your target market has direct lead generation value beyond the SEO benefit. The content also reinforces [topical authority](/seo-content-strategy/topical-authority/) when it covers topics relevant to your core services.
+Absolutely. A well-placed guest post on a publication your customers read drives qualified referral traffic. We've seen guest posts on local business publications generate 10-30+ direct website visits in the first week, with some placements continuing to drive traffic for months. For local businesses, a guest post in a regional publication read by your target market has direct lead generation value beyond the SEO benefit. The content also reinforces [topical authority](/services/content-pages/topical-authority/) when it covers topics relevant to your core services.
 
 ---
 

@@ -3,8 +3,8 @@
 **Deliverable:** Service sub-page (cluster)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /technical-seo-services/site-architecture/
-**Parent Hub:** /technical-seo-services/
+**URL:** /services/seo-audit/site-architecture/
+**Parent Hub:** /services/seo-audit/
 **Primary Keyword:** website architecture SEO
 **Secondary Keywords:** site architecture for SEO, SEO site structure, hub and spoke SEO, URL structure best practices, site navigation SEO, website hierarchy
 **Title Tag:** Website Architecture for SEO — Structure That Ranks | LocalCatalyst.ai
@@ -14,11 +14,11 @@
 
 ---
 
-*Breadcrumbs: [Home](/) > [Technical SEO Services](/technical-seo-services/) > Site Architecture*
+*Breadcrumbs: [Home](/) > [Technical SEO Services](/services/seo-audit/technical-seo-audit/) > Site Architecture*
 
 ## Website Architecture for SEO: Build the Structure That Search Engines and Users Reward
 
-Website architecture is the organizational structure that determines how your pages are connected, how users navigate between them, and how search engine crawlers discover and understand the relationships between your content. It is the most foundational technical SEO decision you make — more fundamental than site speed, schema markup, or any individual page optimization — because architecture dictates how every other SEO signal flows through your site. Our [technical SEO services](/technical-seo-services/) include site architecture planning and optimization because a poorly structured site undermines every other investment you make.
+Website architecture is the organizational structure that determines how your pages are connected, how users navigate between them, and how search engine crawlers discover and understand the relationships between your content. It is the most foundational technical SEO decision you make — more fundamental than site speed, schema markup, or any individual page optimization — because architecture dictates how every other SEO signal flows through your site. Our [technical SEO services](/services/seo-audit/technical-seo-audit/) include site architecture planning and optimization because a poorly structured site undermines every other investment you make.
 
 The analogy is a building. You can install premium fixtures, paint beautiful interiors, and furnish every room — but if the floor plan makes no sense, the hallways lead nowhere, and visitors cannot find the rooms they need, the building fails at its purpose. Website architecture is your floor plan. It determines whether visitors find what they need, whether Google can access every page, and whether the authority your site earns distributes effectively across all your content.
 
@@ -26,7 +26,7 @@ The analogy is a building. You can install premium fixtures, paint beautiful int
 
 ### Crawlability
 
-Google discovers pages by following links from one page to another. Your site architecture — the pattern of internal links connecting your pages — determines which pages Googlebot can reach, how quickly it discovers new content, and whether any pages are orphaned (disconnected from the link graph entirely). A clean architecture ensures every important page is discoverable within a few clicks from the homepage, and [crawlability](/technical-seo-services/crawlability-indexation/) is never compromised by structural dead ends.
+Google discovers pages by following links from one page to another. Your site architecture — the pattern of internal links connecting your pages — determines which pages Googlebot can reach, how quickly it discovers new content, and whether any pages are orphaned (disconnected from the link graph entirely). A clean architecture ensures every important page is discoverable within a few clicks from the homepage, and [crawlability](/services/seo-audit/crawlability-indexation/) is never compromised by structural dead ends.
 
 ### Link Equity Distribution
 
@@ -96,8 +96,8 @@ URLs should be human-readable, describing the page content in plain language:
 
 Include the target keyword in the URL slug where it fits naturally:
 
-- `/local-seo-services/` for a local SEO services hub page
-- `/local-seo-services/competitor-analysis/` for the [competitor analysis](/local-seo-services/competitor-analysis/) cluster page
+- `/services/` for a local SEO services hub page
+- `/services/competitor-analysis/` for the [competitor analysis](/services/competitor-analysis/) cluster page
 
 Avoid keyword stuffing in URLs: `/best-austin-plumber-emergency-plumbing-service-repair/` is excessive and signals spam.
 
@@ -116,11 +116,11 @@ URLs should mirror your site hierarchy:
 
 ```
 /                                    (Homepage)
-/local-seo-services/                 (Hub page)
-/local-seo-services/keyword-research/ (Cluster page)
-/local-seo-services/competitor-analysis/ (Cluster page)
-/blog/                               (Blog index)
-/blog/local-seo-ranking-factors/     (Blog post)
+/services/                 (Hub page)
+/services/keyword-research/ (Cluster page)
+/services/competitor-analysis/ (Cluster page)
+/learn/                               (Blog index)
+/learn/local-seo-ranking-factors/     (Blog post)
 ```
 
 This structure communicates to both users and search engines how pages relate to each other hierarchically.
@@ -142,22 +142,22 @@ Each spoke page links back to the hub page and to other relevant spoke pages, cr
 ### Hub-and-Spoke for a Local SEO Agency
 
 ```
-Hub: /local-seo-services/
-  ├── /local-seo-services/local-keyword-research/
-  ├── /local-seo-services/google-maps-ranking/
-  ├── /local-seo-services/competitor-analysis/
-  ├── /local-seo-services/multi-location-seo/
-  └── /local-seo-services/local-3-pack-optimization/
+Hub: /services/
+  ├── /services/local-keyword-research/
+  ├── /services/google-maps-ranking/
+  ├── /services/competitor-analysis/
+  ├── /services/multi-location-seo/
+  └── /services/local-3-pack-optimization/
 
-Hub: /google-business-profile-management/
-  ├── /google-business-profile-management/gbp-optimization/
-  ├── /google-business-profile-management/gbp-posts/
-  ├── /google-business-profile-management/gbp-photos-videos/
-  ├── /google-business-profile-management/gbp-qa-management/
-  └── /google-business-profile-management/gbp-attributes-services/
+Hub: /services/gbp-optimization/
+  ├── /services/gbp-optimization/gbp-optimization/
+  ├── /services/gbp-optimization/gbp-posts/
+  ├── /services/gbp-optimization/gbp-photos-videos/
+  ├── /services/gbp-optimization/gbp-qa-management/
+  └── /services/gbp-optimization/gbp-attributes-services/
 ```
 
-Each hub-and-spoke cluster is also interlinked with other hubs, creating a web of topical connections across the entire site. A spoke page under the Local SEO hub might link to a spoke page under the [On-Page SEO hub](/on-page-seo-services/) when discussing keyword optimization, creating cross-cluster relevance signals.
+Each hub-and-spoke cluster is also interlinked with other hubs, creating a web of topical connections across the entire site. A spoke page under the Local SEO hub might link to a spoke page under the [On-Page SEO hub](/services/on-page-optimization/) when discussing keyword optimization, creating cross-cluster relevance signals.
 
 ## Silo Structure
 
@@ -178,7 +178,7 @@ Breadcrumbs are a navigation element that shows the user's current position with
 Breadcrumbs serve dual purposes:
 
 1. **User navigation** — One-click access to any parent level in the hierarchy
-2. **Search result display** — With [BreadcrumbList schema](/technical-seo-services/structured-data/), breadcrumbs replace the raw URL in search results, improving visual clarity and CTR
+2. **Search result display** — With [BreadcrumbList schema](/services/seo-audit/structured-data/), breadcrumbs replace the raw URL in search results, improving visual clarity and CTR
 
 Implement breadcrumbs on every page below the homepage. Breadcrumb structure should mirror your URL hierarchy exactly — inconsistencies between breadcrumbs, URLs, and navigation create confusion for both users and search engines.
 
@@ -228,11 +228,11 @@ We audit site architecture quarterly for:
 - **Deep pages** — Pages requiring 4+ clicks to reach from the homepage
 - **Thin clusters** — Hub pages with too few spoke pages to demonstrate topical depth
 - **Broken internal links** — Links pointing to 404 pages, redirected URLs, or non-canonical versions
-- **Cannibalization** — Multiple pages targeting the same keyword, which our [content audit process](/seo-content-strategy/) identifies and resolves
+- **Cannibalization** — Multiple pages targeting the same keyword, which our [content audit process](/services/content-pages/) identifies and resolves
 
 ## Architecture for Multi-Location Businesses
 
-[Multi-location businesses](/local-seo-services/multi-location-seo/) face unique architectural challenges. The standard approach:
+[Multi-location businesses](/services/multi-location-seo/) face unique architectural challenges. The standard approach:
 
 ```
 /                           (Homepage)

@@ -1,14 +1,14 @@
-# 🎯 APEX SEO AUDIT SCORECARD
+# 🎯 CATALYST SEO AUDIT SCORECARD
 ## Humble Parking Lot Striping
 **Domain:** humbleparkinglotstriping.com  
 **Audit Date:** February 8, 2026  
 **Auditor:** Silas, SEO Strategist  
-**Audit Type:** RE-AUDIT (Updated APEX Protocols)
+**Audit Type:** RE-AUDIT (Updated CATALYST Protocols)
 
 ---
 
 ## 📊 OVERALL SCORE: 78/100 (B+)
-*Previous Baseline: N/A — Initial Full APEX Audit*
+*Previous Baseline: N/A — Initial Full CATALYST Audit*
 
 | Category | Score | Weight | Weighted |
 |----------|-------|--------|----------|

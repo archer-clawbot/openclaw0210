@@ -16,7 +16,7 @@
 
 Bars, pubs, breweries, cocktail lounges, and nightclubs face unique search visibility challenges that differ significantly from restaurant SEO. While bars share many characteristics with restaurants in local search, the search behavior of nightlife patrons, the time-sensitive nature of the business, and the competitive dynamics of after-dark entertainment create distinct optimization requirements. As a specialized segment within our [restaurant SEO program](/industries/restaurant-seo/), bar and nightlife SEO addresses these differences with targeted strategies.
 
-LocalCatalyst's [local SEO services](/local-seo-services/) provide the comprehensive optimization framework that bars and nightlife venues need to capture their share of the millions of "bars near me" and "nightlife [city]" searches happening in every market.
+LocalCatalyst's [local SEO services](/services/) provide the comprehensive optimization framework that bars and nightlife venues need to capture their share of the millions of "bars near me" and "nightlife [city]" searches happening in every market.
 
 ## How Bar and Nightlife Searches Differ
 
@@ -95,7 +95,7 @@ Keep these pages updated with upcoming event schedules. An active events page si
 
 ### Drink Menu and Specialty Pages
 
-Just as [restaurant menu SEO](/industries/restaurant-seo/restaurant-menu-seo/) turns dish listings into search assets, your drink menu can capture specific beverage searches:
+Just as [restaurant menu SEO](/industries/restaurant-seo/) turns dish listings into search assets, your drink menu can capture specific beverage searches:
 
 - "Best craft cocktails [city]"
 - "Bourbon bar [neighborhood]"
@@ -128,7 +128,7 @@ Review management for bars requires attention to the unique dynamics of nightlif
 
 Monitor reviews across Google, Yelp, and nightlife-specific platforms. Respond to all reviews, and pay particular attention to reviews that mention safety concerns, over-serving, or negative crowd behavior, as these can disproportionately impact future customers' willingness to visit.
 
-Our [restaurant review management guide](/industries/restaurant-seo/restaurant-review-management/) covers response frameworks that apply equally to bars, with additional considerations for the nightlife context.
+Our [restaurant review management guide](/industries/restaurant-seo/) covers response frameworks that apply equally to bars, with additional considerations for the nightlife context.
 
 ## Local Link Building for Bars
 
@@ -162,4 +162,4 @@ Create dedicated event pages or blog posts four to six weeks before major events
 
 Your best customers are searching for exactly what your bar offers. The question is whether they are finding you or your competition. A focused nightlife SEO strategy ensures your venue appears at the top of local results during the hours that drive your revenue.
 
-[See Our Services](/services/) to discuss how we can build your bar's search visibility, or [get your free SEO audit](/services/seo-audit/) to see where you stand today.
+[See Our Services](/services/) to discuss how we can build your bar's search visibility, or [order your SEO Audit](/services/seo-audit/) to see where you stand today.

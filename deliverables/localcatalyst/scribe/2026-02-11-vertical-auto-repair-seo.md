@@ -6,9 +6,10 @@
 **URL:** /industries/auto-repair-seo/
 **Primary Keyword:** auto repair SEO
 **Title Tag:** Auto Repair SEO That Fills Your Service Bays | LocalCatalyst.ai
+**Meta Description:** `Auto repair SEO strategies that dominate local search and fill your service bays. Get more customers searching for mechanics near you.`
 **H1:** Auto Repair SEO That Fills Your Service Bays
 **Word Count Target:** 2,000
-**Links to Hubs:** [Local SEO Services](/local-seo-services/), [GBP Management](/google-business-profile-management/), [Reputation Management](/reputation-management-services/), [Citation Building](/citation-building-services/)
+**Links to Hubs:** [Local SEO Services](/services/), [GBP Management](/services/gbp-optimization/), [Citation Building](/services/citation-building/)
 
 ---
 
@@ -50,7 +51,7 @@ Mark your profile with every relevant attribute: "Veteran-owned," "Women-owned,"
 
 ### Post Regularly
 
-Google Business Profile posts are underused by most auto shops. Post weekly with seasonal maintenance tips, special offers, new equipment announcements, or community involvement. Each post signals to Google that your business is active and engaged, which can positively influence local rankings. [Learn more about GBP optimization for auto repair shops](/google-business-profile-management/).
+Google Business Profile posts are underused by most auto shops. Post weekly with seasonal maintenance tips, special offers, new equipment announcements, or community involvement. Each post signals to Google that your business is active and engaged, which can positively influence local rankings. [Learn more about GBP optimization for auto repair shops](/services/gbp-optimization/).
 
 ## Trust Signals That Drive Rankings and Conversions
 
@@ -82,7 +83,7 @@ Every shop gets a bad review eventually. How you respond matters more than the r
 
 ### Showcasing Reviews on Your Website
 
-Embed your best reviews on your homepage and service pages. Reviews that mention specific services ("they replaced my brakes in two hours and the price was exactly what they quoted") serve double duty as social proof and keyword-rich content. [Explore our full reputation management approach](/reputation-management-services/).
+Embed your best reviews on your homepage and service pages. Reviews that mention specific services ("they replaced my brakes in two hours and the price was exactly what they quoted") serve double duty as social proof and keyword-rich content. Reputation management is included in [managed SEO](/managed/).
 
 ## Citation Building for Auto Repair Shops
 
@@ -94,7 +95,7 @@ Every shop needs accurate, consistent listings on Google Business Profile, Yelp,
 
 ### Automotive-Specific Directories
 
-Industry-specific citations carry extra weight. Ensure your shop is listed on CarFax Service Center, RepairPal, AutoMD, Mechanic Advisor, OpenBay, and any state or regional automotive trade directories. These niche citations signal relevance to search engines and drive qualified referral traffic from car owners actively looking for a mechanic. [See how citation building works](/citation-building-services/).
+Industry-specific citations carry extra weight. Ensure your shop is listed on CarFax Service Center, RepairPal, AutoMD, Mechanic Advisor, OpenBay, and any state or regional automotive trade directories. These niche citations signal relevance to search engines and drive qualified referral traffic from car owners actively looking for a mechanic. [See how citation building works](/services/citation-building/).
 
 ## Content Strategy for Auto Repair SEO
 
@@ -130,7 +131,7 @@ National chains have marketing budgets independent shops cannot match. However, 
 
 ### The Independent Shop Advantage
 
-Highlight what makes your shop different: owner-operated, ASE Master Technicians, decades of community service, specialty expertise, honest pricing, and genuine relationships with customers. These differentiators matter to consumers and can be woven into every page and every post. [Learn how local SEO amplifies these advantages](/local-seo-services/).
+Highlight what makes your shop different: owner-operated, ASE Master Technicians, decades of community service, specialty expertise, honest pricing, and genuine relationships with customers. These differentiators matter to consumers and can be woven into every page and every post. [Learn how local SEO amplifies these advantages](/services/).
 
 ## Technical SEO for Auto Repair Websites
 
@@ -142,7 +143,7 @@ A strong local SEO strategy also requires a technically sound website. Your site
 Most auto repair shops begin seeing improved Map Pack visibility within 60 to 90 days of implementing a comprehensive local SEO strategy. Organic search traffic growth typically follows within three to six months. The timeline depends on your current online presence, competition level, and how aggressively you pursue citations, reviews, and content.
 
 ### How much does auto repair SEO cost?
-Auto repair SEO investment varies based on market size and competition. Shops in smaller markets may see strong results with $800 to $1,500 per month. Shops in competitive metro areas often invest $1,500 to $3,000 per month to outrank established competitors and chains. The return on investment is substantial when you consider that a single new customer can be worth $500 to $2,000 annually.
+Auto repair SEO investment varies based on market size and competition. The return on investment is substantial when you consider that a single new customer can be worth $500 to $2,000 annually. For ongoing SEO management, [explore our managed plans](/managed/).
 
 ### Is Google Business Profile really that important for auto repair shops?
 Yes. For local service businesses like auto repair, the Google Business Profile is the most impactful SEO asset you have. It controls your visibility in Map Pack results, provides the information customers need to choose your shop (reviews, hours, services, photos), and drives more phone calls than your website in most cases.
@@ -169,9 +170,9 @@ Every day your shop is not visible in local search results, customers who need e
 
 ## Supporting Content (Planned Cluster Pages)
 
-- **[Auto Repair Keywords](/industries/auto-repair-seo/auto-repair-keywords/)** — Complete keyword research guide for auto repair shops, including search volume data, keyword difficulty, and content mapping.
-- **[Auto Repair Google Business Profile](/industries/auto-repair-seo/auto-repair-google-business-profile/)** — Step-by-step guide to building and optimizing a GBP that dominates the Map Pack for auto repair searches.
-- **[Auto Repair Review Management](/industries/auto-repair-seo/auto-repair-review-management/)** — Systems, templates, and strategies for generating and managing reviews at scale for auto repair shops.
+- **[Auto Repair Keywords](/industries/auto-repair-seo/)** — Complete keyword research guide for auto repair shops, including search volume data, keyword difficulty, and content mapping.
+- **[Auto Repair Google Business Profile](/industries/auto-repair-seo/)** — Step-by-step guide to building and optimizing a GBP that dominates the Map Pack for auto repair searches.
+- **[Auto Repair Review Management](/industries/auto-repair-seo/)** — Systems, templates, and strategies for generating and managing reviews at scale for auto repair shops.
 
 ## Related Industry Verticals
 

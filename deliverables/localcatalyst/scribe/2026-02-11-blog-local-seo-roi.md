@@ -3,8 +3,8 @@
 **Deliverable:** Blog post (Hub 1 educational content)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/local-seo-roi/
-**Parent Hub:** /local-seo-services/
+**URL:** /learn/local-seo-roi/
+**Parent Hub:** /services/
 **Primary Keyword:** local SEO ROI
 **Secondary Keywords:** local SEO return on investment, is local SEO worth it, local SEO cost vs benefit, measuring local SEO results, local SEO value
 **Title Tag:** How to Calculate Local SEO ROI | LocalCatalyst.ai
@@ -14,7 +14,7 @@
 
 ---
 
-Every dollar you spend on marketing should be accountable. Local SEO is no exception. Yet many business owners struggle to connect their [local SEO services](/local-seo-services/) investment to concrete financial outcomes. The ranking improvements are visible. The increased calls are noticeable. But how do you translate those signals into an actual return-on-investment calculation?
+Every dollar you spend on marketing should be accountable. Local SEO is no exception. Yet many business owners struggle to connect their [local SEO services](/services/) investment to concrete financial outcomes. The ranking improvements are visible. The increased calls are noticeable. But how do you translate those signals into an actual return-on-investment calculation?
 
 This guide provides a practical framework for calculating local SEO ROI. It covers the formulas, the metrics that matter, how local SEO compares to paid advertising on a cost basis, and real-world examples that illustrate the math.
 
@@ -24,7 +24,7 @@ Local SEO ROI is harder to measure than paid advertising ROI for a specific reas
 
 With Google Ads, you spend $500 and receive a measurable number of clicks. You can calculate cost per click, cost per lead, and cost per acquisition in a spreadsheet.
 
-With local SEO, you invest $1,500/month and the returns compound over time. Month one might produce minimal incremental revenue. Month six might produce substantial returns. Month twelve might deliver multiples of your total investment. The returns are real but lagged, which makes traditional campaign-based ROI calculations misleading.
+With local SEO, you invest in ongoing optimization and the returns compound over time. Month one might produce minimal incremental revenue. Month six might produce substantial returns. Month twelve might deliver multiples of your total investment. The returns are real but lagged, which makes traditional campaign-based ROI calculations misleading.
 
 The correct approach measures cumulative investment against cumulative returns over a meaningful timeframe — typically 6-12 months at minimum.
 
@@ -34,7 +34,7 @@ At its simplest, local SEO ROI is:
 
 **ROI = (Revenue from Local SEO - Cost of Local SEO) / Cost of Local SEO x 100**
 
-If you invest $18,000 over 12 months ($1,500/month) and attribute $72,000 in revenue to local search, your ROI is:
+If you invest $18,000 over 12 months and attribute $72,000 in revenue to local search, your ROI is:
 
 ($72,000 - $18,000) / $18,000 x 100 = **300% ROI**
 
@@ -144,7 +144,7 @@ This compounding effect means the cost per lead from local SEO decreases over ti
 
 ## Case Study: Single-Location Dental Practice
 
-A single-location dental practice invested $1,500/month in local SEO services including [Google Business Profile optimization](/google-business-profile-optimization/), [citation building](/citation-building-services/), [reputation management](/reputation-management/), and on-page optimization.
+A single-location dental practice invested in ongoing local SEO services including [Google Business Profile optimization](/services/gbp-optimization/), [citation building](/services/citation-building/), review management, and on-page optimization.
 
 **Starting point (Month 0):**
 - 22 Google reviews (3.8 average rating)
@@ -192,9 +192,9 @@ Track these monthly. If visibility and engagement metrics are trending upward, r
 
 For most businesses, local SEO investment breaks even within 4-8 months and becomes strongly ROI-positive by months 8-12. The exact timeline depends on your industry, market competitiveness, and starting point.
 
-Businesses with high customer lifetime values (medical, legal, home services) tend to see ROI faster because fewer conversions are needed to justify the investment. A personal injury firm that acquires one additional client per month through local SEO may achieve positive ROI on a $3,000/month investment from a single case.
+Businesses with high customer lifetime values (medical, legal, home services) tend to see ROI faster because fewer conversions are needed to justify the investment. A personal injury firm that acquires one additional client per month through local SEO may achieve positive ROI on its managed SEO investment from a single case.
 
-For detailed timeline expectations, see our guide on [how long local SEO takes](/blog/how-long-does-local-seo-take/).
+For detailed timeline expectations, see our guide on [how long local SEO takes](/learn/how-long-does-local-seo-take/).
 
 ## Frequently Asked Questions
 
@@ -212,6 +212,6 @@ Local SEO ROI improves over time. The first 6 months have the lowest ROI because
 
 ## Calculate Your Potential ROI
 
-The numbers in this guide are frameworks, not guarantees. Your actual ROI depends on your specific market, competitive landscape, starting point, and customer economics. Our free audit provides a data-driven assessment of your local SEO opportunity — including estimated lead potential, competitive gap analysis, and a realistic projection of what a comprehensive local SEO investment could return for your business.
+The numbers in this guide are frameworks, not guarantees. Your actual ROI depends on your specific market, competitive landscape, starting point, and customer economics. Our [SEO Audit](/services/seo-audit/) provides a data-driven assessment of your local SEO opportunity — including estimated lead potential, competitive gap analysis, and a realistic projection of what a comprehensive local SEO investment could return for your business.
 
 [Order Your SEO Audit](/services/seo-audit/) and see the revenue opportunity in your local market.

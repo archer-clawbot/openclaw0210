@@ -1,7 +1,7 @@
 {
   "agent:sentinel:cron:b8890acc-185c-4739-8248-988d0660ca46": {
-    "sessionId": "adc2c870-83c5-4a33-a76e-88ef621b3314",
-    "updatedAt": 1770661165437,
+    "sessionId": "c88146a4-7fd6-4c63-aaa1-36658c43bab4",
+    "updatedAt": 1770883200029,
     "systemSent": true,
     "model": "claude-haiku-4-5",
     "contextTokens": 200000,
@@ -12,9 +12,9 @@
       "version": 0
     },
     "modelProvider": "anthropic",
-    "inputTokens": 12,
-    "outputTokens": 113,
-    "totalTokens": 47983
+    "inputTokens": 6,
+    "outputTokens": 636,
+    "totalTokens": 36743
   },
   "agent:sentinel:slack:channel:c0adup40414": {
     "chatType": "channel",
@@ -36,5 +36,47 @@
     },
     "lastChannel": "slack",
     "sessionFile": "C:\\Users\\spart\\.openclaw\\agents\\sentinel\\sessions\\fa338015-36ba-4dcc-8170-03a3d39e1977.jsonl"
+  },
+  "agent:sentinel:slack:channel:sentinel": {
+    "chatType": "channel",
+    "channel": "slack",
+    "groupId": "sentinel",
+    "displayName": "slack:g-sentinel",
+    "origin": {
+      "label": "slack:channel:sentinel",
+      "provider": "slack",
+      "surface": "slack",
+      "chatType": "channel",
+      "from": "slack:channel:sentinel",
+      "to": "channel:sentinel"
+    },
+    "sessionId": "8e17ff50-c96f-446c-a08a-6b92699ec078",
+    "updatedAt": 1770883325040,
+    "deliveryContext": {
+      "channel": "slack"
+    },
+    "lastChannel": "slack",
+    "sessionFile": "C:\\Users\\spart\\.openclaw\\agents\\sentinel\\sessions\\8e17ff50-c96f-446c-a08a-6b92699ec078.jsonl"
+  },
+  "agent:sentinel:slack:channel:archer": {
+    "chatType": "channel",
+    "channel": "slack",
+    "groupId": "archer",
+    "displayName": "slack:g-archer",
+    "origin": {
+      "label": "slack:channel:archer",
+      "provider": "slack",
+      "surface": "slack",
+      "chatType": "channel",
+      "from": "slack:channel:archer",
+      "to": "channel:archer"
+    },
+    "sessionId": "d9bd1c85-c711-4298-a505-2becaf666481",
+    "updatedAt": 1770883325322,
+    "deliveryContext": {
+      "channel": "slack"
+    },
+    "lastChannel": "slack",
+    "sessionFile": "C:\\Users\\spart\\.openclaw\\agents\\sentinel\\sessions\\d9bd1c85-c711-4298-a505-2becaf666481.jsonl"
   }
 }

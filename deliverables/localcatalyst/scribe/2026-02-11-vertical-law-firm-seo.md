@@ -22,7 +22,7 @@ Now consider the alternative. The law firm ranking #1 organically for "personal 
 
 That is why law firm SEO is not optional. It is the most consequential marketing decision your firm will make.
 
-At LocalCatalyst, we build law firm SEO strategies that navigate the unique requirements of legal marketing — the highest CPC landscape in search, YMYL content standards that demand demonstrated expertise, bar advertising rules that constrain what you can say, and the competitive reality of fighting for visibility against firms spending six figures per month on digital marketing. Our [CATALYST methodology](/local-seo-services/) (Audit, Prioritize, Execute, Expand) gives law firms a structured, data-driven path to organic client acquisition that compounds over time.
+At LocalCatalyst, we build law firm SEO strategies that navigate the unique requirements of legal marketing — the highest CPC landscape in search, YMYL content standards that demand demonstrated expertise, bar advertising rules that constrain what you can say, and the competitive reality of fighting for visibility against firms spending six figures per month on digital marketing. Our [CATALYST methodology](/services/) (Audit, Prioritize, Execute, Expand) gives law firms a structured, data-driven path to organic client acquisition that compounds over time.
 
 Want to know exactly where your firm stands in local search? [Order an SEO Audit](/services/seo-audit/) and we will map your visibility across every practice area search in your market — showing you where you rank, where you are invisible, and where signed clients are going to competitors.
 
@@ -62,7 +62,7 @@ A thin practice area page — 300 words with a generic description and a contact
 - **FAQ content** — answers to the questions potential clients actually search: "How much does a personal injury lawyer cost?" "What is the statute of limitations for [case type] in [state]?" "Do I need a lawyer for [situation]?"
 - **Attorney attribution** — clear identification of which attorneys handle this practice area, with links to their bio pages and credentials
 
-Our [content strategy services](/seo-content-strategy/) build practice area content architectures that establish topical authority for each area of law your firm handles.
+Our [content strategy services](/services/content-pages/) build practice area content architectures that establish topical authority for each area of law your firm handles.
 
 ### Sub-Practice Area Pages
 
@@ -88,7 +88,7 @@ Your GBP determines Map Pack visibility for local legal searches. While many leg
 
 **Attorney profiles within GBP.** For firms with multiple attorneys, each attorney can have their own GBP profile linked to the firm's location. This creates additional Map Pack eligibility for practice-area-specific searches and allows each attorney's reviews and credentials to contribute to the firm's overall visibility.
 
-**Review strategy for law firms.** Legal clients are less likely to leave reviews than restaurant diners or home service customers — the matters are personal, sometimes embarrassing, and always confidential. Our [reputation management services](/reputation-management-services/) build review generation systems designed for the sensitivity of legal matters, timing requests to case resolution when the client is most satisfied and the matter is concluded.
+**Review strategy for law firms.** Legal clients are less likely to leave reviews than restaurant diners or home service customers — the matters are personal, sometimes embarrassing, and always confidential. Our reputation management services build review generation systems designed for the sensitivity of legal matters, timing requests to case resolution when the client is most satisfied and the matter is concluded.
 
 **Content posting.** Weekly GBP posts covering legal updates, firm news, community involvement, and educational content keep your profile fresh and signal activity. Posts addressing recent legal changes, landmark decisions, or seasonal legal topics (tax season for estate planning, summer for DUI) create timely relevance.
 
@@ -100,7 +100,7 @@ Content is the foundation of law firm SEO. In a YMYL vertical where authority an
 
 Comprehensive legal guides targeting informational searches build topical authority and capture potential clients in the research phase. "What to do after a car accident," "how to file for divorce in [state]," "understanding your rights after an arrest," "estate planning checklist" — these guides answer real questions that real people are searching, and the firm that provides the best answer becomes the firm they call when they need representation.
 
-Our [content strategy services](/seo-content-strategy/) develop editorial calendars that systematically build authority across every practice area, targeting both high-volume informational queries and high-intent transactional queries.
+Our [content strategy services](/services/content-pages/) develop editorial calendars that systematically build authority across every practice area, targeting both high-volume informational queries and high-intent transactional queries.
 
 ### FAQ Content and Schema
 
@@ -114,7 +114,7 @@ Client testimonials, where permitted, add a human dimension. A testimonial from 
 
 ## Link Building for Law Firms
 
-Backlinks are critical in legal SEO because of the competitive intensity of the space. The firms ranking on page 1 for high-value legal terms typically have strong backlink profiles built through legitimate, industry-relevant sources. Our [link building services](/link-building-services/) target the most impactful opportunities.
+Backlinks are critical in legal SEO because of the competitive intensity of the space. The firms ranking on page 1 for high-value legal terms typically have strong backlink profiles built through legitimate, industry-relevant sources. Our [link building services](/managed/) target the most impactful opportunities.
 
 **Legal directories.** Avvo, FindLaw, Justia, Martindale-Hubbell, Super Lawyers, Lawyers.com, and NOLO maintain lawyer directories with high domain authority. Optimized profiles on these platforms provide both backlinks and direct referral traffic.
 
@@ -128,7 +128,7 @@ Backlinks are critical in legal SEO because of the competitive intensity of the 
 
 ## Reputation Management for Law Firms
 
-Reputation is everything in law. A potential client evaluating two firms will almost always choose the one with stronger reviews and a more trustworthy online presence. Our [reputation management services](/reputation-management-services/) address the unique challenges of legal reputation management.
+Reputation is everything in law. A potential client evaluating two firms will almost always choose the one with stronger reviews and a more trustworthy online presence. Our reputation management services address the unique challenges of legal reputation management.
 
 **Review generation timing.** The best time to request a review is at case resolution — when the outcome is favorable and the client is most appreciative. We build case-resolution review workflows that prompt satisfied clients at the optimal moment while respecting the sensitivity of legal matters.
 
@@ -163,19 +163,19 @@ The most significant shift: law firms moving from PPC dependence — where every
 ## Supporting Content
 
 ### Planned Cluster Pages
-- [Attorney SEO Keywords](/industries/law-firm-seo/attorney-keywords/) — Keyword research guide covering practice area, location, and question-based legal search terms
-- [Law Firm Content Marketing](/industries/law-firm-seo/law-firm-content-marketing/) — Content strategy for law firms including practice area pages, legal guides, and FAQ content
-- [Law Firm Google Business Profile](/industries/law-firm-seo/law-firm-google-business-profile/) — GBP optimization guide for law firms and individual attorneys
-- [Legal Link Building](/industries/law-firm-seo/legal-link-building/) — Link building strategies for law firms using directories, publications, and community involvement
-- [Law Firm Reputation Management](/industries/law-firm-seo/law-firm-reputation-management/) — Review generation and reputation management for attorneys
+- [Attorney SEO Keywords](/industries/law-firm-seo/) — Keyword research guide covering practice area, location, and question-based legal search terms
+- [Law Firm Content Marketing](/industries/law-firm-seo/) — Content strategy for law firms including practice area pages, legal guides, and FAQ content
+- [Law Firm Google Business Profile](/industries/law-firm-seo/) — GBP optimization guide for law firms and individual attorneys
+- [Legal Link Building](/industries/law-firm-seo/) — Link building strategies for law firms using directories, publications, and community involvement
+- [Law Firm Reputation Management](/industries/law-firm-seo/) — Review generation and reputation management for attorneys
 
 ### Related Industry Verticals
 No directly related industry verticals.
 
 ### Related Blog Posts
-- [Local SEO Ranking Factors in 2026](/blog/local-seo-ranking-factors-2026/) — The signals that determine your local visibility
-- [Google Business Profile Optimization Checklist](/blog/gbp-optimization-checklist/) — Step-by-step guide to GBP excellence
-- [Local Link Building Strategies](/blog/local-link-building-strategies/) — Building backlinks that boost local rankings
+- [Local SEO Ranking Factors in 2026](/learn/local-seo-ranking-factors-2026/) — The signals that determine your local visibility
+- [Google Business Profile Optimization Checklist](/learn/gbp-optimization-checklist/) — Step-by-step guide to GBP excellence
+- [Local Link Building Strategies](/learn/local-link-building-strategies/) — Building backlinks that boost local rankings
 
 ## Frequently Asked Questions
 
@@ -213,4 +213,4 @@ We track geo-grid rankings for all target practice area keywords, Map Pack visib
 
 ---
 
-*Ready to stop paying the highest CPCs in search and start building organic client acquisition? [Request your free law firm SEO audit](/services/seo-audit/) and see exactly where your firm ranks, where potential clients are finding competitors, and where the biggest opportunities are.*
+*Ready to stop paying the highest CPCs in search and start building organic client acquisition? [Order your law firm SEO Audit](/services/seo-audit/) and see exactly where your firm ranks, where potential clients are finding competitors, and where the biggest opportunities are.*

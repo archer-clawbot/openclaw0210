@@ -3,8 +3,8 @@
 **Deliverable:** Blog post (Hub 5 educational content)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/eeat-content-guidelines/
-**Parent Hub:** /seo-content-strategy/
+**URL:** /learn/eeat-content-guidelines/
+**Parent Hub:** /services/content-pages/
 **Primary Keyword:** E-E-A-T content guidelines
 **Secondary Keywords:** E-E-A-T SEO, experience expertise authoritativeness trustworthiness, Google E-E-A-T, YMYL content, E-E-A-T best practices
 **Title Tag:** E-E-A-T Content Guidelines for SEO in 2026 | LocalCatalyst.ai
@@ -14,7 +14,7 @@
 
 ---
 
-Google wants to rank content that is helpful, reliable, and created by people who know what they are talking about. That principle is codified in E-E-A-T: Experience, Expertise, Authoritativeness, and Trustworthiness. Understanding and implementing E-E-A-T is not optional for any serious [SEO content strategy](/seo-content-strategy/) in 2026. It is the framework Google uses to evaluate whether your content deserves to rank.
+Google wants to rank content that is helpful, reliable, and created by people who know what they are talking about. That principle is codified in E-E-A-T: Experience, Expertise, Authoritativeness, and Trustworthiness. Understanding and implementing E-E-A-T is not optional for any serious [SEO content strategy](/services/content-pages/) in 2026. It is the framework Google uses to evaluate whether your content deserves to rank.
 
 This guide explains what E-E-A-T means in practical terms, how Google evaluates each component, and exactly how to demonstrate it in your content.
 
@@ -57,7 +57,7 @@ Google evaluates E-E-A-T at three levels: the content itself, the content creato
 - **Contact information:** Can users reach a real person or organization?
 - **Editorial standards:** Does the site have clear editorial policies, fact-checking processes, or content review procedures?
 - **Domain reputation:** Is the site known as a reliable source? Do other authoritative sites link to it?
-- **Topical focus:** Does the site demonstrate [topical authority](/blog/how-to-build-topical-authority/) in its subject area?
+- **Topical focus:** Does the site demonstrate [topical authority](/learn/how-to-build-topical-authority/) in its subject area?
 
 ## YMYL: When E-E-A-T Matters Most
 
@@ -134,9 +134,9 @@ Authoritativeness is about reputation. It is the hardest component to build beca
 
 **Get mentioned and cited.** Brand mentions, even without links, contribute to perceived authority. Being quoted as an expert in news articles, invited to speak at industry events, or referenced in academic papers all build authority.
 
-**Build a comprehensive content library.** A site with 5 articles on local SEO has less authority than a site with 50 articles covering every facet of the topic. [Content depth and breadth](/blog/how-to-build-topical-authority/) are direct contributors to authoritativeness.
+**Build a comprehensive content library.** A site with 5 articles on local SEO has less authority than a site with 50 articles covering every facet of the topic. [Content depth and breadth](/learn/how-to-build-topical-authority/) are direct contributors to authoritativeness.
 
-**Maintain consistent quality.** One viral article does not make you an authority. Sustained, consistent quality across your entire content library does. This includes regularly updating existing content and [pruning underperforming pages](/blog/content-pruning-seo/).
+**Maintain consistent quality.** One viral article does not make you an authority. Sustained, consistent quality across your entire content library does. This includes regularly updating existing content and [pruning underperforming pages](/learn/content-pruning-seo/).
 
 **Leverage third-party platforms.** Contribute expert content to respected industry publications, participate in industry forums, and maintain active professional profiles. These create a network of authority signals that extends beyond your own site.
 
@@ -155,7 +155,7 @@ Google considers Trustworthiness the most important component of E-E-A-T. Withou
 
 - **HTTPS:** Your site must use HTTPS. This is non-negotiable in 2026.
 - **Clear privacy policy:** Explain how user data is collected and used.
-- **Accessible contact information:** Real address, phone number, and email. For local businesses, this includes accurate [Google Business Profile](/google-business-profile-optimization/) information.
+- **Accessible contact information:** Real address, phone number, and email. For local businesses, this includes accurate [Google Business Profile](/services/gbp-optimization/) information.
 - **Secure transactions:** If your site processes payments, use established, secure payment processors.
 
 ### Organizational Trustworthiness
@@ -190,7 +190,7 @@ Local businesses have unique advantages and challenges when it comes to E-E-A-T.
 - Feature the business owner's credentials and experience prominently on the site
 - Showcase real project photos, case studies, and before/after examples
 - Encourage and respond to customer reviews across platforms
-- Create [local content](/blog/local-content-marketing-ideas/) that demonstrates community knowledge and involvement
+- Create [local content](/learn/local-content-marketing-ideas/) that demonstrates community knowledge and involvement
 - Maintain accurate and consistent business information across all online directories
 - Get local press coverage when possible
 
@@ -213,7 +213,7 @@ E-E-A-T is not a single ranking factor in the way that page speed or mobile-frie
 
 ### How does AI content affect E-E-A-T?
 
-Google has stated that it does not penalize content simply because it was created with AI assistance. However, AI-generated content that lacks genuine experience, expertise, and unique insights will struggle to demonstrate E-E-A-T. The key is whether the content is helpful and trustworthy, not how it was produced. For more on this topic, see our guide on [AI content and SEO](/blog/ai-content-seo/).
+Google has stated that it does not penalize content simply because it was created with AI assistance. However, AI-generated content that lacks genuine experience, expertise, and unique insights will struggle to demonstrate E-E-A-T. The key is whether the content is helpful and trustworthy, not how it was produced. For more on this topic, see our guide on [AI content and SEO](/learn/ai-content-seo/).
 
 ### Can I improve E-E-A-T quickly?
 

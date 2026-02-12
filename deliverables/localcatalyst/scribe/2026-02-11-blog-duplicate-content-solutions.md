@@ -3,8 +3,8 @@
 **Deliverable:** Blog post (Hub 4 educational content)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/duplicate-content-solutions/
-**Parent Hub:** /technical-seo-services/
+**URL:** /learn/duplicate-content-solutions/
+**Parent Hub:** /services/seo-audit/
 **Primary Keyword:** duplicate content SEO
 **Secondary Keywords:** canonical tags, duplicate content penalty, content syndication SEO, parameter handling, pagination SEO, near-duplicate content
 **Title Tag:** Duplicate Content SEO: Causes and Solutions | LocalCatalyst.ai
@@ -14,7 +14,7 @@
 
 ---
 
-Duplicate content is one of the most misunderstood issues in SEO. Many site owners fear a "duplicate content penalty" that does not technically exist, while overlooking the very real problems duplicate content causes: diluted link equity, wasted crawl budget, and the wrong version of a page ranking in search results. Our [technical SEO services](/technical-seo-services/) routinely uncover duplicate content issues that have silently suppressed organic performance for months or years.
+Duplicate content is one of the most misunderstood issues in SEO. Many site owners fear a "duplicate content penalty" that does not technically exist, while overlooking the very real problems duplicate content causes: diluted link equity, wasted crawl budget, and the wrong version of a page ranking in search results. Our [technical SEO services](/services/seo-audit/technical-seo-audit/) routinely uncover duplicate content issues that have silently suppressed organic performance for months or years.
 
 This guide breaks down every type of duplicate content, explains how Google actually handles it, and provides concrete solutions for each scenario.
 
@@ -143,7 +143,7 @@ Google deprecated `rel="next"` and `rel="prev"` in 2019. Current recommendations
 - **Implement a "View All" page** if feasible. A single page containing all items (with lazy loading for performance) can serve as the canonical for the entire set.
 - **Ensure each paginated page has unique title tags and meta descriptions** that reference the page number.
 
-Our [site speed optimization](/site-speed-optimization/) assessments often intersect with pagination issues, since paginated pages with heavy product listings can create both performance and duplication problems.
+Our [site speed optimization](/services/seo-audit/site-speed-optimization/) assessments often intersect with pagination issues, since paginated pages with heavy product listings can create both performance and duplication problems.
 
 ## Faceted Navigation and Duplicate Content
 
@@ -170,7 +170,7 @@ To assess how duplicate content affects your site:
 3. **Crawl analysis.** Use Screaming Frog to identify pages with identical title tags, meta descriptions, or body content hashes.
 4. **Backlink analysis.** Check whether backlinks to your content are split across multiple URL versions. If so, canonical consolidation will concentrate that equity.
 
-Our [local SEO audit](/local-seo-audit/) includes a full duplicate content analysis, identifying exactly which URLs are diluting your site's authority and how to consolidate them.
+Our [local SEO audit](/services/seo-audit/local-seo-audit/) includes a full duplicate content analysis, identifying exactly which URLs are diluting your site's authority and how to consolidate them.
 
 ## FAQ
 

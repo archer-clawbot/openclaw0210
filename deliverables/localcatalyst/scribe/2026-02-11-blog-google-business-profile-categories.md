@@ -3,8 +3,8 @@
 **Deliverable:** Blog post (GBP Management educational content)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/google-business-profile-categories/
-**Parent Hub:** /google-business-profile-management/
+**URL:** /learn/google-business-profile-categories/
+**Parent Hub:** /services/gbp-optimization/
 **Primary Keyword:** Google Business Profile categories
 **Secondary Keywords:** GBP category selection, primary category GBP, secondary categories Google Business, local SEO categories
 **Title Tag:** Google Business Profile Categories Guide | LocalCatalyst.ai
@@ -14,7 +14,7 @@
 
 ---
 
-Choosing the right Google Business Profile categories is one of the single most impactful decisions you will make for your local search presence. Categories tell Google what your business does, which searches you should appear in, and how your listing gets displayed across Maps and Search. If you are working on your [Google Business Profile management](/google-business-profile-management/) strategy, this is where you need to start.
+Choosing the right Google Business Profile categories is one of the single most impactful decisions you will make for your local search presence. Categories tell Google what your business does, which searches you should appear in, and how your listing gets displayed across Maps and Search. If you are working on your [Google Business Profile management](/services/gbp-optimization/) strategy, this is where you need to start.
 
 Despite their importance, categories are one of the most misunderstood elements of GBP optimization. Many business owners select categories based on gut instinct rather than strategic analysis. That approach leaves rankings on the table. This guide breaks down exactly how Google Business Profile categories work, how to select the right ones, and how to use them as a competitive advantage.
 
@@ -66,7 +66,7 @@ Google's category list changes regularly. Use tools or the GBP dashboard to sear
 
 ### Step 5: Test and Monitor
 
-After setting your primary category, monitor your rankings for your target keywords over 2-4 weeks. If you are not seeing the traction you expected, it may be worth testing an alternative primary category. Use [GBP insights and analytics](/blog/gbp-insights-analytics/) to track how your search queries change after a category adjustment.
+After setting your primary category, monitor your rankings for your target keywords over 2-4 weeks. If you are not seeing the traction you expected, it may be worth testing an alternative primary category. Use [GBP insights and analytics](/learn/gbp-insights-analytics/) to track how your search queries change after a category adjustment.
 
 ## How to Select Secondary Categories
 
@@ -108,7 +108,7 @@ Law firms with multiple practice areas face a classic primary category dilemma. 
 
 ### Restaurants and Food Service
 
-Restaurants benefit from specificity. "Vietnamese Restaurant" will outperform "Restaurant" for relevant searches. If you offer delivery, catering, or takeout as distinct services, those categories can supplement your primary selection. Review your [GBP optimization checklist](/blog/google-business-profile-checklist/) to ensure your restaurant listing is fully configured.
+Restaurants benefit from specificity. "Vietnamese Restaurant" will outperform "Restaurant" for relevant searches. If you offer delivery, catering, or takeout as distinct services, those categories can supplement your primary selection. Review your [GBP optimization checklist](/learn/google-business-profile-checklist/) to ensure your restaurant listing is fully configured.
 
 ### Professional Services (Accounting, Consulting, Financial)
 
@@ -146,7 +146,7 @@ Categories influence local rankings through several mechanisms.
 
 ## Monitoring and Adjusting Your Categories
 
-Category optimization is not a set-it-and-forget-it task. Build these practices into your ongoing [Google Business Profile management](/google-business-profile-management/) routine.
+Category optimization is not a set-it-and-forget-it task. Build these practices into your ongoing [Google Business Profile management](/services/gbp-optimization/) routine.
 
 **Track search query data monthly.** Review which queries are driving impressions and clicks. If you are missing queries you expected to rank for, a category adjustment may help.
 

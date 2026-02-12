@@ -14,13 +14,13 @@
 
 ---
 
-*Breadcrumbs: [Home](/) > [Industries](/industries/) > [Home Services SEO](/industries/home-services-seo/) > Home Services SEO Keywords*
+*Breadcrumbs: [Home](/) > [Industries](/services/) > [Home Services SEO](/industries/home-services-seo/) > Home Services SEO Keywords*
 
 ## Home Services SEO Keywords: The Terms That Generate Calls
 
 Keyword strategy for home service businesses is fundamentally different from keyword strategy for other local industries. The searches are more urgent, more service-specific, and more geographically distributed. A homeowner with a burst pipe at midnight does not search "plumbing services overview" — they search "emergency plumber near me." A homeowner with a failing AC unit in July does not browse educational content — they search "AC repair [city] today." Understanding these search patterns and building a keyword strategy around them is the difference between a website that generates leads and one that generates nothing. As our [home services SEO guide](/industries/home-services-seo/) outlines, keyword research is the foundation on which every other optimization is built.
 
-The home services keyword landscape is vast because it spans dozens of trades, hundreds of specific services, and multiple geographic markets for each business. A single plumbing company might have 500+ relevant keyword variations across its services and service area. Identifying which of those keywords to target first — and how to structure content to capture them — requires a systematic approach. Our [local keyword research](/local-seo-services/local-keyword-research/) services apply this methodology to build keyword strategies that map directly to revenue.
+The home services keyword landscape is vast because it spans dozens of trades, hundreds of specific services, and multiple geographic markets for each business. A single plumbing company might have 500+ relevant keyword variations across its services and service area. Identifying which of those keywords to target first — and how to structure content to capture them — requires a systematic approach. Our [local keyword research](/services/local-keyword-research/) services apply this methodology to build keyword strategies that map directly to revenue.
 
 ## The Four Keyword Intent Tiers
 

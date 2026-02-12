@@ -3,8 +3,8 @@
 **Deliverable:** Blog post (Citation Building educational content)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/citation-audit-guide/
-**Parent Hub:** /citation-building-services/
+**URL:** /learn/citation-audit-guide/
+**Parent Hub:** /services/citation-building/
 **Primary Keyword:** how to do a citation audit
 **Secondary Keywords:** citation audit process, citation audit tools, local citation check, audit business listings, citation accuracy check, NAP audit
 **Title Tag:** How to Do a Citation Audit: Step-by-Step | LocalCatalyst.ai
@@ -14,7 +14,7 @@
 
 ---
 
-A citation audit is the process of systematically reviewing every online mention of your business information to identify inconsistencies, duplicates, and errors that weaken your local SEO. Even businesses that initially built clean citations can develop problems over time as aggregators overwrite data, platforms merge or update, and business details change. Our [citation building services](/citation-building-services/) begin with a comprehensive audit because building new citations on top of a foundation of inconsistent data is counterproductive.
+A citation audit is the process of systematically reviewing every online mention of your business information to identify inconsistencies, duplicates, and errors that weaken your local SEO. Even businesses that initially built clean citations can develop problems over time as aggregators overwrite data, platforms merge or update, and business details change. Our [citation building services](/services/citation-building/) begin with a comprehensive audit because building new citations on top of a foundation of inconsistent data is counterproductive.
 
 This guide walks you through the complete citation audit process, from preparation to prioritized corrections, using the tools and techniques that produce the most thorough results.
 
@@ -171,7 +171,7 @@ Work through your prioritized list systematically.
 
 **For duplicate listings:** On each platform with duplicates, identify the primary listing (usually the one with reviews), ensure it has your canonical NAP, and request removal of the duplicate. Most platforms have a duplicate removal or merge process.
 
-For a focused guide on fixing the most common NAP problems, see our article on [how to fix NAP inconsistencies](/blog/nap-inconsistency-fix/).
+For a focused guide on fixing the most common NAP problems, see our article on [how to fix NAP inconsistencies](/learn/nap-inconsistency-fix/).
 
 ## Step 8: Verify and Monitor
 
@@ -181,7 +181,7 @@ After making corrections, allow 4 to 8 weeks for changes to process and propagat
 - **Check aggregator downstream** to verify corrections propagated to dependent directories.
 - **Monitor for regression** where platforms revert to old data from cached or aggregator sources.
 
-Schedule quarterly citation audits going forward to catch new inconsistencies before they accumulate. Our [on-page SEO services](/on-page-seo-services/) include ongoing citation monitoring as part of a comprehensive local SEO maintenance program.
+Schedule quarterly citation audits going forward to catch new inconsistencies before they accumulate. Our [on-page SEO services](/services/on-page-optimization/) include ongoing citation monitoring as part of a comprehensive local SEO maintenance program.
 
 ## Common Citation Audit Pitfalls
 

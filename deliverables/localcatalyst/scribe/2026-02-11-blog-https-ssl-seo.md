@@ -3,8 +3,8 @@
 **Deliverable:** Blog post (Hub 4 educational content)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/https-ssl-seo/
-**Parent Hub:** /technical-seo-services/
+**URL:** /learn/https-ssl-seo/
+**Parent Hub:** /services/seo-audit/
 **Primary Keyword:** HTTPS and SEO
 **Secondary Keywords:** SSL certificate SEO, HTTPS migration, mixed content SEO, TLS certificate, HTTPS ranking signal
 **Title Tag:** HTTPS and SEO: Why SSL Matters for Rankings | LocalCatalyst.ai
@@ -14,7 +14,7 @@
 
 ---
 
-Google confirmed HTTPS as a ranking signal in 2014, and over a decade later it remains a baseline requirement for any site that takes search visibility seriously. Yet we still encounter sites with expired certificates, mixed content warnings, and incomplete HTTPS migrations during our [technical SEO services](/technical-seo-services/) audits. The fix is straightforward, but the consequences of getting it wrong -- or ignoring it entirely -- compound over time.
+Google confirmed HTTPS as a ranking signal in 2014, and over a decade later it remains a baseline requirement for any site that takes search visibility seriously. Yet we still encounter sites with expired certificates, mixed content warnings, and incomplete HTTPS migrations during our [technical SEO services](/services/seo-audit/technical-seo-audit/) audits. The fix is straightforward, but the consequences of getting it wrong -- or ignoring it entirely -- compound over time.
 
 This guide explains why HTTPS matters for SEO, how to choose the right SSL certificate, how to migrate safely, and how to resolve the most common SSL-related issues.
 
@@ -162,7 +162,7 @@ If your certificate is issued for `www.example.com` but your site is accessed at
 
 A common mistake: HTTP redirects to HTTP-www, which redirects to HTTPS-www. This three-hop chain wastes crawl budget and slows page loads. Ensure all variations redirect directly to the final canonical HTTPS URL in a single hop.
 
-Our [site speed optimization](/site-speed-optimization/) service frequently uncovers redirect chain issues originating from incomplete HTTPS migrations.
+Our [site speed optimization](/services/seo-audit/site-speed-optimization/) service frequently uncovers redirect chain issues originating from incomplete HTTPS migrations.
 
 ## FAQ
 

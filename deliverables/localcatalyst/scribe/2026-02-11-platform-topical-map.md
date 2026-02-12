@@ -17,7 +17,7 @@
 
 **$397 | Delivered in 4-6 hours**
 
-[Order Your Topical Map](/order/topical-map/)
+[Order Your Topical Map](/free-audit/)
 
 ---
 
@@ -92,15 +92,14 @@ No subscription. No recurring charge. The map is yours.
 
 ### How We Compare
 
-Premium topical mapping services charge $597-$1,700 and take 1-2 weeks to deliver. Traditional agencies bundle it into retainers starting at $1,500/month and take even longer. We deliver the same depth of analysis in hours because our AI agents run the research, clustering, and mapping in parallel rather than sequentially.
+Premium topical mapping services charge $597-$1,700 and take 1-2 weeks to deliver. Traditional agencies bundle it into monthly retainers and take even longer. We deliver the same depth of analysis in hours because our AI agents run the research, clustering, and mapping in parallel rather than sequentially.
 
 | | LocalCatalyst | Premium SEO Services | Traditional Agency |
 |---|---|---|---|
-| **Price** | $397 | $597-1,700 | $1,500-3,000+ (bundled in retainer) |
+| **Price** | $397 | $597-1,700 | Bundled in retainer |
 | **Turnaround** | 4-6 hours | 1-2 weeks | 3-4 weeks |
-| **Keyword data** | Included | Included | Included |
-| **Internal linking map** | Included | Sometimes | Rarely |
-| **Priority order** | Included | Rarely | Rarely |
+| **What You Get** | CSV + PDF with keywords, linking map, priority order | Varies — often keyword list only | Bundled in strategy deck |
+| **Commitment** | One-time purchase | One-time purchase | Monthly retainer required |
 
 ---
 
@@ -124,7 +123,7 @@ Search volume and difficulty data come from the same sources agencies use (aggre
 The system analyzes your existing pages and factors them into the map. You'll see which existing pages need optimization, which new pages to create, and how everything should link together. The map adapts to where you are, not just where you should be.
 
 **Can I use this for multiple locations?**
-The base price covers one primary service area. If you operate in multiple cities or regions, we can map each location's content needs. Contact us for multi-location pricing.
+The base price covers one primary service area. If you operate in multiple cities or regions, we can map each location's content needs. [Browse Our Services](/services/) for multi-location pricing.
 
 **Do I have to buy content pages from you?**
 No. The topical map is a standalone deliverable. You can hand it to your in-house team, a freelancer, or any other content provider. Of course, if you want us to write the pages, we can do that too.
@@ -140,7 +139,7 @@ Stop guessing at content. Get the blueprint.
 
 **$397 | Delivered in 4-6 hours**
 
-[Order Your Topical Map](/order/topical-map/)
+[Order Your Topical Map](/free-audit/)
 
 ---
 

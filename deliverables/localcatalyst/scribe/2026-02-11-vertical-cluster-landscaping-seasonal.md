@@ -14,7 +14,7 @@
 
 ---
 
-Landscaping is one of the most seasonally driven industries in local search. Search volume for core terms can swing 300-400% between peak and off months, and landscaping companies that publish and optimize on a static annual schedule leave massive amounts of demand uncaptured. This guide, part of our [landscaping SEO](/industries/landscaping-seo/) hub, lays out a seasonal content and optimization framework that keeps your pipeline full twelve months a year. For help building and executing a seasonal content plan, explore our [SEO content strategy](/seo-content-strategy/) services.
+Landscaping is one of the most seasonally driven industries in local search. Search volume for core terms can swing 300-400% between peak and off months, and landscaping companies that publish and optimize on a static annual schedule leave massive amounts of demand uncaptured. This guide, part of our [landscaping SEO](/industries/landscaping-seo/) hub, lays out a seasonal content and optimization framework that keeps your pipeline full twelve months a year. For help building and executing a seasonal content plan, explore our [SEO content strategy](/services/content-pages/) services.
 
 ## Understanding Seasonal Search Patterns in Landscaping
 

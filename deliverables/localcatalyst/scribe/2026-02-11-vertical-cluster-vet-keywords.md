@@ -14,7 +14,7 @@
 
 ---
 
-Pet owners searching for veterinary care behave differently than almost any other local service searcher. The emotional stakes are high, the decision is often urgent, and trust signals matter enormously. Building a keyword strategy that reflects this reality is the foundation of every successful veterinary SEO campaign. This guide is part of our [veterinary SEO](/industries/veterinary-seo/) hub and provides the keyword framework that vet clinics need to capture high-intent local searches. For professional keyword research tailored to your market, explore our [local keyword research](/local-seo-services/local-keyword-research/) service.
+Pet owners searching for veterinary care behave differently than almost any other local service searcher. The emotional stakes are high, the decision is often urgent, and trust signals matter enormously. Building a keyword strategy that reflects this reality is the foundation of every successful veterinary SEO campaign. This guide is part of our [veterinary SEO](/industries/veterinary-seo/) hub and provides the keyword framework that vet clinics need to capture high-intent local searches. For professional keyword research tailored to your market, explore our [local keyword research](/services/local-keyword-research/) service.
 
 ## The Veterinary Keyword Landscape
 

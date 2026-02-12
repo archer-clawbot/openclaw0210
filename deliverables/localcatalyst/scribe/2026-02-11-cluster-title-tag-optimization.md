@@ -3,8 +3,8 @@
 **Deliverable:** Service sub-page (cluster)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /on-page-seo-services/title-tag-optimization/
-**Parent Hub:** /on-page-seo-services/
+**URL:** /services/content-pages/title-tag-optimization/
+**Parent Hub:** /services/content-pages/
 **Primary Keyword:** title tag optimization
 **Secondary Keywords:** SEO title tags, title tag best practices, meta title optimization, title tag length, title tag CTR
 **Title Tag:** Title Tag Optimization for Higher Rankings | LocalCatalyst.ai
@@ -14,11 +14,11 @@
 
 ---
 
-**Breadcrumbs:** [Home](/) > [On-Page SEO Services](/on-page-seo-services/) > Title Tag Optimization
+**Breadcrumbs:** [Home](/) > [On-Page SEO Services](/services/on-page-optimization/) > Title Tag Optimization
 
 ## Why Title Tags Deserve Your Attention First
 
-If you could only change one element on every page of your website, it should be your title tags. As part of our comprehensive [on-page SEO services](/on-page-seo-services/), title tag optimization consistently delivers the fastest, most measurable ranking improvements we see across client campaigns. In our analysis of over 3,000 local business pages, optimizing title tags alone produced an average ranking improvement of 3.2 positions within 30 days.
+If you could only change one element on every page of your website, it should be your title tags. As part of our comprehensive [on-page SEO services](/services/on-page-optimization/), title tag optimization consistently delivers the fastest, most measurable ranking improvements we see across client campaigns. In our analysis of over 3,000 local business pages, optimizing title tags alone produced an average ranking improvement of 3.2 positions within 30 days.
 
 Title tags serve a dual purpose: they tell search engines what your page is about, and they convince searchers to click your result instead of a competitor's. That makes them the critical intersection of rankings and traffic — the one element that directly influences both.
 
@@ -110,7 +110,7 @@ Google interprets this as spam. It provides a terrible user experience in the SE
 
 ### Duplicate Title Tags
 
-Every page on your site needs a unique title tag. Duplicate titles create confusion for search engines about which page should rank for a given query. This is one of the most common issues we uncover during [content optimization audits](/on-page-seo-services/content-optimization/) — sites with 30-50% duplicate titles across service and location pages.
+Every page on your site needs a unique title tag. Duplicate titles create confusion for search engines about which page should rank for a given query. This is one of the most common issues we uncover during [content optimization audits](/services/content-pages/content-optimization/) — sites with 30-50% duplicate titles across service and location pages.
 
 ### Titles That Are Too Generic
 
@@ -159,7 +159,7 @@ If Google consistently rewrites a title, it is a signal that your original title
 
 ## Integrating Title Tags Into Your Broader On-Page Strategy
 
-Title tags don't exist in isolation. They work in concert with your [internal linking strategy](/on-page-seo-services/internal-linking-strategy/) and overall [technical SEO foundation](/technical-seo-services/) to build topical authority. A well-optimized title tag on a page with poor internal linking or slow load times will underperform its potential.
+Title tags don't exist in isolation. They work in concert with your [internal linking strategy](/services/content-pages/internal-linking-strategy/) and overall [technical SEO foundation](/services/seo-audit/technical-seo-audit/) to build topical authority. A well-optimized title tag on a page with poor internal linking or slow load times will underperform its potential.
 
 At LocalCatalyst, our CATALYST methodology ensures every on-page element — title tags included — is optimized as part of a coordinated system, not a checklist of isolated fixes.
 

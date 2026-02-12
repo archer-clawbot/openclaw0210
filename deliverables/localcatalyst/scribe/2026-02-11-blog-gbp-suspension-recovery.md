@@ -3,8 +3,8 @@
 **Deliverable:** Blog post (GBP Management educational content)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/gbp-suspension-recovery/
-**Parent Hub:** /google-business-profile-management/
+**URL:** /learn/gbp-suspension-recovery/
+**Parent Hub:** /services/gbp-optimization/
 **Primary Keyword:** Google Business Profile suspended
 **Secondary Keywords:** GBP suspension recovery, Google listing suspended, reinstate Google Business Profile, GBP suspension appeal
 **Title Tag:** GBP Suspension Recovery Guide | LocalCatalyst.ai
@@ -16,7 +16,7 @@
 
 Discovering that your Google Business Profile has been suspended is one of the most alarming experiences a local business owner can face. Your listing vanishes from Maps, your phone stops ringing, and revenue takes an immediate hit. If you are dealing with a suspension, you need to act quickly and correctly. Missteps in the recovery process can delay reinstatement by weeks or even result in permanent removal.
 
-This guide is part of our comprehensive [Google Business Profile management](/google-business-profile-management/) resources. It covers everything you need to understand about GBP suspensions: why they happen, what type you are dealing with, how to get reinstated, and how to make sure it never happens again.
+This guide is part of our comprehensive [Google Business Profile management](/services/gbp-optimization/) resources. It covers everything you need to understand about GBP suspensions: why they happen, what type you are dealing with, how to get reinstated, and how to make sure it never happens again.
 
 ## Understanding GBP Suspension Types
 
@@ -152,7 +152,7 @@ If your initial appeal is denied or goes unanswered beyond the expected timefram
 
 A suspension does not mean your business has to stop generating leads. While you work on recovery, take these steps to maintain visibility.
 
-**Strengthen your website's organic presence.** Ensure your [SEO-optimized website](/seo-website-design/) is ranking for your target keywords. Organic search results still appear even when your Maps listing does not.
+**Strengthen your website's organic presence.** Ensure your [SEO-optimized website](/services/website-build/) is ranking for your target keywords. Organic search results still appear even when your Maps listing does not.
 
 **Increase paid advertising temporarily.** Google Ads search campaigns can fill the gap while your organic Maps presence is offline.
 
@@ -170,7 +170,7 @@ Your GBP business name must match your real-world business name exactly as it ap
 
 ### Audit Your Listing Regularly
 
-Review your listing at least monthly to check for unauthorized edits, ensure all information is accurate, and verify that no duplicate listings have appeared. Use our [GBP optimization checklist](/blog/google-business-profile-checklist/) as your audit framework.
+Review your listing at least monthly to check for unauthorized edits, ensure all information is accurate, and verify that no duplicate listings have appeared. Use our [GBP optimization checklist](/learn/google-business-profile-checklist/) as your audit framework.
 
 ### Maintain Consistent NAP Information
 

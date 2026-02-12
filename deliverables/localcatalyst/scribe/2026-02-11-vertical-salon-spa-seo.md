@@ -6,9 +6,10 @@
 **URL:** /industries/salon-spa-seo/
 **Primary Keyword:** salon SEO
 **Title Tag:** Salon & Spa SEO That Keeps Your Books Full | LocalCatalyst.ai
+**Meta Description:** `Salon SEO strategies that fill your appointment book with high-value clients. Dominate beauty searches in your local market today.`
 **H1:** Salon & Spa SEO That Keeps Your Books Full
 **Word Count Target:** 2,000
-**Links to Hubs:** [Local SEO Services](/local-seo-services/), [GBP Management](/google-business-profile-management/), [Reputation Management](/reputation-management-services/), [Website Design](/seo-website-design/)
+**Links to Hubs:** [Local SEO Services](/services/), [GBP Management](/services/gbp-optimization/), [Website Design](/services/website-build/)
 
 ---
 
@@ -40,7 +41,7 @@ Many clients search for pricing before booking: "balayage cost [city]," "how muc
 
 ## Google Business Profile Optimization for Salons and Spas
 
-Your Google Business Profile is the single most important factor in determining whether your salon appears in the Map Pack for local beauty searches. [Explore our full GBP management approach](/google-business-profile-management/).
+Your Google Business Profile is the single most important factor in determining whether your salon appears in the Map Pack for local beauty searches. [Explore our full GBP management approach](/services/gbp-optimization/).
 
 ### Detailed Service Menu With Pricing
 
@@ -76,7 +77,7 @@ Short-form video content (transformation reels, time-lapse styling videos, treat
 
 ## Review Management for Salons and Spas
 
-Reviews are decisive in the beauty industry. A potential client choosing between two salons will almost always choose the one with more reviews and a higher rating. [Explore our reputation management services](/reputation-management-services/).
+Reviews are decisive in the beauty industry. A potential client choosing between two salons will almost always choose the one with more reviews and a higher rating. Reputation management is included in [managed SEO](/managed/).
 
 ### Post-Appointment Automated Requests
 
@@ -120,7 +121,7 @@ Independent salons and spas face competition from two directions: chain salons (
 
 ### Against Chains
 
-Chains compete on price and convenience. Independent salons compete on artistry, personalization, and experience. Your SEO content should emphasize what makes your salon different: award-winning stylists, a curated atmosphere, bespoke consultations, premium products, and the kind of personal attention a chain could never offer. [Learn how local SEO amplifies these advantages](/local-seo-services/).
+Chains compete on price and convenience. Independent salons compete on artistry, personalization, and experience. Your SEO content should emphasize what makes your salon different: award-winning stylists, a curated atmosphere, bespoke consultations, premium products, and the kind of personal attention a chain could never offer. [Learn how local SEO amplifies these advantages](/services/).
 
 ### Against Booking Platforms
 
@@ -128,7 +129,7 @@ Platforms like StyleSeat and Vagaro rank for many salon-related searches and tak
 
 ## Website Design for Salons and Spas
 
-A salon website must be as visually refined as the services it represents. It should be mobile-first (most salon searches and bookings happen on phones), visually rich with high-quality photography, fast-loading despite heavy imagery, easy to navigate to specific services and stylist profiles, integrated with your booking system on every page, and designed with clear pricing and service descriptions. [Learn about SEO-optimized website design](/seo-website-design/).
+A salon website must be as visually refined as the services it represents. It should be mobile-first (most salon searches and bookings happen on phones), visually rich with high-quality photography, fast-loading despite heavy imagery, easy to navigate to specific services and stylist profiles, integrated with your booking system on every page, and designed with clear pricing and service descriptions. [Learn about SEO-optimized website design](/services/website-build/).
 
 ## Technical SEO for Salon and Spa Websites
 
@@ -167,9 +168,9 @@ Every day, potential clients in your area search for the exact services you offe
 
 ## Supporting Content (Planned Cluster Pages)
 
-- **[Salon SEO Keywords](/industries/salon-spa-seo/salon-seo-keywords/)** — Complete keyword research guide for salons and spas, including service-specific search volumes, trend-driven keyword opportunities, and content mapping.
-- **[Salon Google Business Profile](/industries/salon-spa-seo/salon-google-business-profile/)** — Step-by-step guide to building a GBP that showcases your artistry and drives direct bookings from local search.
-- **[Salon Review Strategy](/industries/salon-spa-seo/salon-review-strategy/)** — Systems, templates, and best practices for generating and managing reviews that win new salon and spa clients.
+- **[Salon SEO Keywords](/industries/salon-spa-seo/)** — Complete keyword research guide for salons and spas, including service-specific search volumes, trend-driven keyword opportunities, and content mapping.
+- **[Salon Google Business Profile](/industries/salon-spa-seo/)** — Step-by-step guide to building a GBP that showcases your artistry and drives direct bookings from local search.
+- **[Salon Review Strategy](/industries/salon-spa-seo/)** — Systems, templates, and best practices for generating and managing reviews that win new salon and spa clients.
 
 ## Related Industry Verticals
 

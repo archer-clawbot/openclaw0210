@@ -3,7 +3,10 @@
 **Deliverable:** Blog post content
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/internal-linking-strategy/
+**URL:** /learn/internal-linking-strategy/
+**Title Tag:** Internal Linking Strategy — Underused SEO Lever | LocalCatalyst
+**Meta Description:** Master internal linking strategy with hub-and-spoke architecture, anchor text best practices, silo structure, and orphan page fixes for maximum SEO impact.
+**H1:** Internal Linking Strategy: The Most Underused Lever in On-Page SEO
 **Primary Keyword:** internal linking strategy
 **Secondary Keywords:** internal links SEO, internal linking best practices, hub and spoke SEO, silo structure, anchor text internal links, orphan pages SEO, PageRank distribution
 
@@ -29,7 +32,7 @@ A single well-placed internal link from your highest-authority page to an underp
 
 Googlebot discovers pages by following links. If a page is buried four or more clicks from your homepage with no other internal links pointing to it, crawlers may visit it infrequently or skip it entirely. Internal links reduce crawl depth, ensure consistent indexation, and help search engines understand your site's hierarchy.
 
-This directly intersects with [technical SEO](/services/technical-seo/). A technically sound site with a broken internal link structure still underperforms.
+This directly intersects with [technical SEO](/services/seo-audit/technical-seo-audit/). A technically sound site with a broken internal link structure still underperforms.
 
 ### User Experience and Engagement
 
@@ -39,9 +42,9 @@ Internal links guide visitors to related content, keeping them on your site long
 
 The most effective internal linking architecture for SEO follows a hub-and-spoke model (sometimes called pillar-cluster architecture).
 
-**The hub** is a comprehensive pillar page targeting a broad keyword. For a local SEO agency, this might be a page on [local SEO services](/services/local-seo/) covering every dimension of the service.
+**The hub** is a comprehensive pillar page targeting a broad keyword. For a local SEO agency, this might be a page on [local SEO services](/services/) covering every dimension of the service.
 
-**The spokes** are supporting pages that target narrower, related keywords. Blog posts on [content optimization](/blog/content-optimization-framework/), [keyword research](/blog/keyword-research-process/), citation building, and review management each function as spokes.
+**The spokes** are supporting pages that target narrower, related keywords. Blog posts on [content optimization](/learn/content-optimization-framework/), [keyword research](/learn/keyword-research-process/), citation building, and review management each function as spokes.
 
 The linking rules are straightforward:
 
@@ -57,7 +60,7 @@ This model creates a tight topical cluster that signals comprehensive authority 
 Unlike external backlinks, where exact-match anchor text can trigger over-optimization penalties, internal link anchor text should be descriptive and keyword-informed. Google uses anchor text to understand what the target page is about.
 
 **Do this:**
-- Use descriptive anchors that reflect the target page's topic: "our [Google Business Profile optimization](/services/google-business-profile-optimization/) service"
+- Use descriptive anchors that reflect the target page's topic: "our [Google Business Profile optimization](/services/gbp-optimization/) service"
 - Vary anchor text naturally. Five links to the same page can use five slightly different phrases.
 - Keep anchors concise — typically two to six words.
 
@@ -117,7 +120,7 @@ Cramming 30 internal links into an 800-word blog post degrades readability and d
 Linking the phrase "our team" to your technical SEO service page confuses both users and crawlers. The anchor must relate to the target page's topic.
 
 ### Broken Internal Links
-Links pointing to 404 pages waste crawl budget and authority. Run a monthly crawl to catch broken internal links before they accumulate. This is a standard component of [technical SEO maintenance](/services/technical-seo/).
+Links pointing to 404 pages waste crawl budget and authority. Run a monthly crawl to catch broken internal links before they accumulate. This is a standard component of [technical SEO maintenance](/services/seo-audit/technical-seo-audit/).
 
 ### Linking Only From Navigation
 Site-wide navigation links (header, footer, sidebar) pass less unique value than contextual in-content links. Navigation links are necessary for usability, but they are not a substitute for contextual internal links placed within the body content where they carry editorial relevance signals.
@@ -143,4 +146,8 @@ We recommend a full internal link audit quarterly, with automated crawl monitori
 
 Internal linking is not a task you complete once. It is a system you maintain every time you publish, update, or reorganize content. Each new page is an opportunity to strengthen existing pages through contextual links, and each existing page is a potential authority source for new content.
 
-If your site's internal linking is disorganized or nonexistent, [contact LocalCatalyst](/contact/) for a comprehensive internal link audit. We will map your current link architecture, identify orphan pages, and build a hub-and-spoke structure designed to maximize the authority your site has already earned.
+---
+
+**Ready to maximize the authority your site has already earned?** [Browse Our Services](/services/)
+
+---

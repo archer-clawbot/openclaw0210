@@ -3,8 +3,8 @@
 **Deliverable:** Hub blog post
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/competitor-backlink-analysis/
-**Parent Hub:** /link-building-services/
+**URL:** /learn/competitor-backlink-analysis/
+**Parent Hub:** /managed/
 **Primary Keyword:** competitor backlink analysis
 **Secondary Keywords:** competitive link analysis, backlink gap analysis, competitor link research, spy on competitor backlinks, reverse engineer competitor links
 **Title Tag:** Competitor Backlink Analysis: A Full Guide
@@ -16,7 +16,7 @@
 
 ## Competitor Backlink Analysis: Find the Links Your Rivals Have That You Do Not
 
-Every business that outranks you in search results has a backlink profile you can study. Competitor backlink analysis reveals exactly which sites link to your rivals, what kind of content earns those links, and where the gaps in your own profile exist. This intelligence transforms link building from guesswork into targeted strategy. If you are investing in [link building services](/link-building-services/), a competitor analysis should be the first thing any provider delivers before they build a single link.
+Every business that outranks you in search results has a backlink profile you can study. Competitor backlink analysis reveals exactly which sites link to your rivals, what kind of content earns those links, and where the gaps in your own profile exist. This intelligence transforms link building from guesswork into targeted strategy. If you are investing in [link building services](/managed/), a competitor analysis should be the first thing any provider delivers before they build a single link.
 
 This guide walks through the full process of analyzing competitor backlinks, interpreting the data, and converting findings into an actionable link building plan.
 
@@ -121,7 +121,7 @@ Analyzing competitor anchor text distributions reveals two things:
 1. **Which keywords they are targeting** through link building
 2. **How aggressive their optimization is** relative to yours
 
-If a competitor has a heavily optimized anchor profile with high exact-match percentages, they may be vulnerable to algorithmic filtering. A cleaner, more natural [anchor text profile](/blog/anchor-text-optimization/) on your site can be a competitive advantage.
+If a competitor has a heavily optimized anchor profile with high exact-match percentages, they may be vulnerable to algorithmic filtering. A cleaner, more natural [anchor text profile](/learn/anchor-text-optimization/) on your site can be a competitive advantage.
 
 ---
 
@@ -174,7 +174,7 @@ Set up alerts in Ahrefs or SEMrush to notify you when competitors acquire new ba
 Backlink data has limitations:
 
 - **No tool captures 100% of backlinks.** Different tools index different portions of the web. Using multiple tools provides a more complete picture.
-- **Correlation is not causation.** A competitor's links may not be the primary reason they outrank you. Technical SEO, content quality, and user signals also play significant roles. A thorough [SEO audit](/seo-audit-services/) evaluates all of these factors together.
+- **Correlation is not causation.** A competitor's links may not be the primary reason they outrank you. Technical SEO, content quality, and user signals also play significant roles. A thorough [SEO audit](/services/seo-audit/) evaluates all of these factors together.
 - **Not every competitor link is worth replicating.** Some competitor links come from PBNs, paid placements, or other manipulative sources. Replicating these would harm rather than help your site. Filter out suspicious links before building your outreach list.
 - **Past links do not guarantee future availability.** A site that linked to a competitor two years ago may have changed its editorial policy, gone dormant, or shifted its focus. Verify that link targets are still active and accepting content or listings.
 
@@ -192,7 +192,7 @@ Ahrefs offers the most comprehensive backlink database and the strongest link ga
 
 ### What if competitors have significantly more backlinks than I do?
 
-A large gap does not mean you need to match their total link count. Focus on the quality and relevance of your links rather than raw volume. Many businesses rank competitively with fewer total referring domains by concentrating on high-relevance, high-authority links from locally significant sources. Close the gap strategically by targeting the highest-impact [link building opportunities](/blog/link-building-strategies-local-seo/) first.
+A large gap does not mean you need to match their total link count. Focus on the quality and relevance of your links rather than raw volume. Many businesses rank competitively with fewer total referring domains by concentrating on high-relevance, high-authority links from locally significant sources. Close the gap strategically by targeting the highest-impact [link building opportunities](/learn/link-building-strategies-local-seo/) first.
 
 ### Should I try to copy every link my competitors have?
 

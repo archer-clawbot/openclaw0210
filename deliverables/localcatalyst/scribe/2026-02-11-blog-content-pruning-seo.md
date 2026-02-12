@@ -3,8 +3,8 @@
 **Deliverable:** Blog post (Hub 5 educational content)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/content-pruning-seo/
-**Parent Hub:** /seo-content-strategy/
+**URL:** /learn/content-pruning-seo/
+**Parent Hub:** /services/content-pages/
 **Primary Keyword:** content pruning for SEO
 **Secondary Keywords:** content pruning strategy, remove old content SEO, content audit SEO, thin content, content consolidation
 **Title Tag:** Content Pruning for SEO: When to Update or Delete | LocalCatalyst.ai
@@ -14,7 +14,7 @@
 
 ---
 
-More content is not always better. If your site has accumulated pages that are outdated, thin, redundant, or simply not performing, they may be actively dragging down your overall SEO performance. Content pruning, the strategic process of removing, consolidating, or updating underperforming pages, is an essential but often neglected part of any mature [SEO content strategy](/seo-content-strategy/).
+More content is not always better. If your site has accumulated pages that are outdated, thin, redundant, or simply not performing, they may be actively dragging down your overall SEO performance. Content pruning, the strategic process of removing, consolidating, or updating underperforming pages, is an essential but often neglected part of any mature [SEO content strategy](/services/content-pages/).
 
 This guide covers when to prune content, how to identify candidates, and the decision framework for determining whether a page should be updated, consolidated, or deleted.
 
@@ -28,7 +28,7 @@ Content pruning becomes necessary when your site has accumulated pages that no l
 
 **Content overlap.** When multiple pages target similar keywords or topics, they compete against each other in search results. This internal competition, called keyword cannibalization, weakens the ranking potential of all affected pages.
 
-**Outdated information.** Content with outdated statistics, defunct product information, or obsolete advice can harm your site's [E-E-A-T signals](/blog/eeat-content-guidelines/). Users who encounter outdated content lose trust in your site.
+**Outdated information.** Content with outdated statistics, defunct product information, or obsolete advice can harm your site's [E-E-A-T signals](/learn/eeat-content-guidelines/). Users who encounter outdated content lose trust in your site.
 
 **Site migration or redesign.** A redesign is an ideal time to audit content and prune pages that no longer align with your current business focus or brand.
 
@@ -96,7 +96,7 @@ Updating is the preferred option when the page has a solid foundation but has be
 4. Set up 301 redirects from the deleted URLs to the surviving page.
 5. Update all internal links to point to the surviving page.
 
-Consolidation is powerful because it combines the ranking signals of multiple weaker pages into one strong page. It directly addresses cannibalization while building the kind of comprehensive content that supports [topical authority](/blog/how-to-build-topical-authority/).
+Consolidation is powerful because it combines the ranking signals of multiple weaker pages into one strong page. It directly addresses cannibalization while building the kind of comprehensive content that supports [topical authority](/learn/how-to-build-topical-authority/).
 
 ### Option 3: Delete
 
@@ -174,6 +174,6 @@ Declined content is usually an update candidate, not a delete candidate. If a pa
 
 Content pruning is not about having less content. It is about having the right content. A lean, high-quality content library outperforms a bloated one filled with thin, outdated, and redundant pages. The effort you invest in pruning pays dividends across your entire site's SEO performance.
 
-At LocalCatalyst.ai, content auditing and pruning are built into our [content strategy](/seo-content-strategy/) services. We identify what to keep, what to fix, and what to remove, so every page on your site contributes to your search visibility instead of undermining it.
+At LocalCatalyst.ai, content auditing and pruning are built into our [content strategy](/services/content-pages/) services. We identify what to keep, what to fix, and what to remove, so every page on your site contributes to your search visibility instead of undermining it.
 
 [Order Your SEO Audit](/services/seo-audit/) to find out which pages on your site are helping your rankings and which ones are holding you back.

@@ -5,6 +5,10 @@
 **Agent:** Scribe
 **URL:** /testimonials/
 **Word Count Target:** 1,000
+**Title Tag:** Client Testimonials — Real SEO Results | LocalCatalyst
+**Meta Description:** Read real testimonials from local businesses who increased rankings, leads, and revenue with LocalCatalyst. See what our clients say about their results.
+**H1:** What Our Clients Say About Their Local SEO Results
+**Primary Keyword:** SEO testimonials
 
 ---
 

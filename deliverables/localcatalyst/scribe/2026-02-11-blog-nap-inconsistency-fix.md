@@ -3,8 +3,8 @@
 **Deliverable:** Blog post (Citation Building educational content)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/nap-inconsistency-fix/
-**Parent Hub:** /citation-building-services/
+**URL:** /learn/nap-inconsistency-fix/
+**Parent Hub:** /services/citation-building/
 **Primary Keyword:** how to fix NAP inconsistencies
 **Secondary Keywords:** fix NAP consistency, correct business listings, NAP cleanup, fix citation errors, update business information online, citation correction
 **Title Tag:** How to Fix NAP Inconsistencies Online | LocalCatalyst.ai
@@ -14,7 +14,7 @@
 
 ---
 
-NAP inconsistencies are one of the most common and most damaging local SEO problems. When your business Name, Address, and Phone number differ across the web, even in minor ways, it creates conflicting signals that weaken your local search visibility. The good news is that NAP inconsistencies are fixable. The process requires patience and systematic effort, but the ranking improvements that follow a thorough cleanup are among the most reliable returns in local SEO. Our [citation building services](/citation-building-services/) include professional NAP cleanup because we see firsthand how dramatically consistent business information improves geo-grid visibility scores.
+NAP inconsistencies are one of the most common and most damaging local SEO problems. When your business Name, Address, and Phone number differ across the web, even in minor ways, it creates conflicting signals that weaken your local search visibility. The good news is that NAP inconsistencies are fixable. The process requires patience and systematic effort, but the ranking improvements that follow a thorough cleanup are among the most reliable returns in local SEO. Our [citation building services](/services/citation-building/) include professional NAP cleanup because we see firsthand how dramatically consistent business information improves geo-grid visibility scores.
 
 This guide covers the most common causes of NAP inconsistencies and provides a clear, step-by-step process for fixing them.
 
@@ -133,7 +133,7 @@ Ensure every instance of your NAP on your own website matches the canonical form
 - Location pages
 - Schema markup (check the JSON-LD in your page source code)
 
-Your website should be the cleanest, most consistent representation of your business information anywhere on the web. For schema markup implementation guidance, see our article on [schema markup for local business](/blog/schema-markup-local-business/).
+Your website should be the cleanest, most consistent representation of your business information anywhere on the web. For schema markup implementation guidance, see our article on [schema markup for local business](/learn/schema-markup-local-business/).
 
 ### Step 8: Verify Corrections After Propagation
 
@@ -143,7 +143,7 @@ Eight to twelve weeks after fixing your aggregator data, perform a follow-up aud
 - Manual corrections on individual platforms have persisted (and not been overwritten by old aggregator data)
 - No new inconsistencies have appeared from scraper-generated listings
 
-Use the same citation auditing tools you used for the initial audit (Moz Local, BrightLocal, Whitespark) to scan for remaining issues. For a detailed audit methodology, see our [citation audit guide](/blog/citation-audit-guide/).
+Use the same citation auditing tools you used for the initial audit (Moz Local, BrightLocal, Whitespark) to scan for remaining issues. For a detailed audit methodology, see our [citation audit guide](/learn/citation-audit-guide/).
 
 ## Preventing Future Inconsistencies
 
@@ -159,7 +159,7 @@ After cleaning up your NAP, take these steps to prevent inconsistencies from ret
 
 **Lock aggregator data** by maintaining active submissions with all three major aggregators. This reduces the chance of outdated third-party data overwriting your correct information.
 
-Our [on-page SEO services](/on-page-seo-services/) include ongoing NAP monitoring as part of a comprehensive local SEO maintenance program.
+Our [on-page SEO services](/services/on-page-optimization/) include ongoing NAP monitoring as part of a comprehensive local SEO maintenance program.
 
 ## Frequently Asked Questions
 

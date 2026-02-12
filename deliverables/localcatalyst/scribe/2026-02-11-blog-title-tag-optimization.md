@@ -3,7 +3,10 @@
 **Deliverable:** Blog post content
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/title-tag-optimization/
+**URL:** /learn/title-tag-optimization/
+**Title Tag:** Title Tag Optimization — Write Tags That Rank & Convert | LocalCatalyst
+**Meta Description:** Master title tag optimization with our complete guide. Character length, keyword placement, CTR techniques, formulas, and testing for maximum impact.
+**H1:** Title Tag Optimization: The Complete Guide to Writing SEO Title Tags That Rank and Convert
 **Primary Keyword:** title tag optimization, SEO title tags
 **Secondary Keywords:** title tag best practices, title tag length, meta title SEO, title tag formulas, CTR optimization
 **Category:** on-page-seo
@@ -28,7 +31,7 @@ For SEO, the title tag is a direct ranking signal. Google uses the title tag to 
 
 For conversion, the title tag is your headline in the search results. It competes directly with 9 other titles on the page. The title that most clearly communicates relevance and value wins the click.
 
-Getting title tags right is foundational to any [local SEO](/services/local-seo/) or on-page optimization strategy. Every page on your site needs a unique, intentionally crafted title tag.
+Getting title tags right is foundational to any [local SEO](/services/) or on-page optimization strategy. Every page on your site needs a unique, intentionally crafted title tag.
 
 ## Character Length Best Practices
 
@@ -88,7 +91,7 @@ Every other page should lead with the page-specific keyword, not the brand.
 
 ## Common Title Tag Mistakes
 
-**Duplicate title tags.** Every page must have a unique title tag. CMS platforms often generate duplicate titles for paginated pages, filtered views, or parameter URLs. Audit your site with Screaming Frog or Sitebulb to identify duplicates. This falls under [technical SEO](/services/technical-seo/) hygiene that should be monitored regularly.
+**Duplicate title tags.** Every page must have a unique title tag. CMS platforms often generate duplicate titles for paginated pages, filtered views, or parameter URLs. Audit your site with Screaming Frog or Sitebulb to identify duplicates. This falls under [technical SEO](/services/seo-audit/technical-seo-audit/) hygiene that should be monitored regularly.
 
 **Keyword stuffing.** "Plumber Austin | Austin Plumber | Plumbing Austin TX | Best Austin Plumber" does not work. Google may rewrite stuffed titles or discount the page entirely. One primary keyword, placed naturally, is sufficient.
 
@@ -139,7 +142,7 @@ Identify pages with high impressions but low CTR. These are your biggest opportu
 
 Change one title tag at a time and monitor CTR over 2-4 weeks before drawing conclusions. Document every change so you can attribute improvements (or declines) to specific edits.
 
-For pages targeting [Google Business Profile](/services/google-business-profile-optimization/) or local queries, cross-reference title tag CTR data with your geo-grid tracking and local rank data to understand how on-page changes correlate with local visibility.
+For pages targeting [Google Business Profile](/services/gbp-optimization/) or local queries, cross-reference title tag CTR data with your geo-grid tracking and local rank data to understand how on-page changes correlate with local visibility.
 
 ## Frequently Asked Questions
 
@@ -159,4 +162,8 @@ Temporarily, yes. Google may re-evaluate a page's relevance when the title tag c
 
 Title tags are one of the highest-leverage on-page SEO elements you can optimize. Every page on your website deserves a unique, strategically crafted title tag that targets the right keyword, communicates clear value, and earns the click.
 
-If you want a comprehensive [on-page optimization](/services/on-page-optimization/) audit that includes title tag analysis, meta descriptions, header structure, and content optimization, [contact LocalCatalyst](/contact/) for a free site review. We will identify exactly where your pages are underperforming and deliver a prioritized action plan to fix them.
+---
+
+**Ready to build content that ranks?** [Order SEO Content ($97/page)](/services/content-pages/)
+
+---

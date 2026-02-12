@@ -14,7 +14,7 @@
 
 ---
 
-For landscaping companies, the Google Business Profile is the single most important asset in local search. When a homeowner searches "landscaper near me," Google pulls directly from GBP data to populate the Map Pack, the three-listing box that captures the majority of local clicks. Our [landscaping SEO](/industries/landscaping-seo/) hub covers the full picture, but this guide focuses specifically on optimizing your GBP listing to maximize visibility and lead generation. For a hands-off approach, explore our [Google Business Profile management](/google-business-profile-management/) service.
+For landscaping companies, the Google Business Profile is the single most important asset in local search. When a homeowner searches "landscaper near me," Google pulls directly from GBP data to populate the Map Pack, the three-listing box that captures the majority of local clicks. Our [landscaping SEO](/industries/landscaping-seo/) hub covers the full picture, but this guide focuses specifically on optimizing your GBP listing to maximize visibility and lead generation. For a hands-off approach, explore our [Google Business Profile management](/services/gbp-optimization/) service.
 
 ## Why GBP Matters More Than Your Website for Local Landscaping Leads
 

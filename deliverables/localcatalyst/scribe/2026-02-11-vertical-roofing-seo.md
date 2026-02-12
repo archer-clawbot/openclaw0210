@@ -6,7 +6,7 @@
 **URL:** /industries/roofing-seo/
 **Primary Keyword:** roofing SEO
 **Secondary Keywords:** roofer SEO, SEO for roofing companies, roofing company marketing, roofing lead generation
-**Title Tag:** Roofing SEO That Generates Leads Without Paying Per Click | LocalCatalyst.ai
+**Title Tag:** Roofing SEO That Generates Organic Leads | LocalCatalyst
 **Meta Description:** Roofing SEO strategies that generate organic leads year-round. Storm damage visibility, Map Pack dominance, and service area coverage for roofing contractors.
 **H1:** Roofing SEO That Generates Leads Without Paying Per Click
 **Word Count Target:** 2,200
@@ -22,7 +22,7 @@ Meanwhile, the roofing company ranking #1 organically for those same searches pa
 
 That is the fundamental case for roofing SEO. In an industry where paid advertising costs are among the highest in local search, organic visibility is not just a marketing channel — it is a competitive moat. The roofing companies that invest in SEO today are the ones that will dominate their markets for years, because organic rankings compound over time while PPC costs only increase.
 
-At LocalCatalyst, we build roofing SEO strategies designed for the unique dynamics of this industry — extreme seasonality, storm-driven demand spikes, long sales cycles for replacements, and the multi-city service areas that every roofing company must cover. Our [CATALYST methodology](/local-seo-services/) (Audit, Prioritize, Execute, Expand) gives roofing contractors a structured, data-driven path from PPC dependence to organic lead dominance.
+At LocalCatalyst, we build roofing SEO strategies designed for the unique dynamics of this industry — extreme seasonality, storm-driven demand spikes, long sales cycles for replacements, and the multi-city service areas that every roofing company must cover. Our [CATALYST methodology](/services/) (Audit, Prioritize, Execute, Expand) gives roofing contractors a structured, data-driven path from PPC dependence to organic lead dominance.
 
 Want to see where your roofing company ranks across your service area? [Order an SEO Audit](/services/seo-audit/) and we will map your visibility on a geo-grid showing exactly where you are winning, where you are invisible, and where the biggest opportunities are.
 
@@ -58,7 +58,7 @@ This cost structure creates a massive opportunity for SEO. Every organic ranking
 
 ## Google Business Profile for Roofing Companies
 
-Your GBP is where potential customers form their first impression and make their first decision. Our [GBP management services](/google-business-profile-management/) for roofing companies optimize every element that drives visibility and conversions.
+Your GBP is where potential customers form their first impression and make their first decision. Our [GBP management services](/services/gbp-optimization/) for roofing companies optimize every element that drives visibility and conversions.
 
 **Category configuration.** "Roofing contractor" as your primary category. Secondary categories should capture the full scope: "Roof repair service," "Gutter installation service," "Siding contractor," "Skylight installation service." Many roofing companies are missing secondary categories that would make them visible for related services.
 
@@ -83,7 +83,7 @@ Effective storm damage SEO requires content that is already indexed and ranking 
 - **Insurance claim guides** — "How to file a roof insurance claim," "does homeowners insurance cover hail damage," and "roof insurance claim process [state]" capture homeowners in the immediate post-storm period when they are figuring out next steps
 - **Emergency service pages** — "Emergency roof tarp service," "emergency roof repair near me," optimized for the immediate-need searches that follow severe weather
 
-Our [content strategy services](/seo-content-strategy/) build this storm-readiness library as part of every roofing SEO engagement, because storm preparation is not something you can do after the storm.
+Our [content strategy services](/services/content-pages/) build this storm-readiness library as part of every roofing SEO engagement, because storm preparation is not something you can do after the storm.
 
 ### Post-Storm Activation
 
@@ -107,7 +107,7 @@ Our service area pages for roofing companies include:
 
 ## Link Building for Roofing Companies
 
-Backlinks from authoritative sites signal trust to Google and are particularly important in the competitive roofing space. Our [link building services](/link-building-services/) target the most valuable opportunities for roofers.
+Backlinks from authoritative sites signal trust to Google and are particularly important in the competitive roofing space. Our [link building services](/managed/) target the most valuable opportunities for roofers.
 
 **Manufacturer certifications.** GAF Master Elite, Owens Corning Preferred, CertainTeed SELECT ShingleMaster, and other manufacturer certification programs maintain online directories of certified contractors. These are high-authority backlinks that also signal quality to potential customers.
 
@@ -144,18 +144,18 @@ The most significant shift: roofing companies moving from PPC dependence — whe
 ## Supporting Content
 
 ### Planned Cluster Pages
-- [Roofing SEO Keywords](/industries/roofing-seo/roofing-keywords/) — Keyword research guide covering seasonal, storm, repair, replacement, and material terms for roofers
-- [Roofing Google Business Profile](/industries/roofing-seo/roofing-google-business-profile/) — Complete GBP optimization guide for roofing companies
-- [Roofing Website Design](/industries/roofing-seo/roofing-website-design/) — Website design best practices for roofing companies that convert visitors into leads
-- [Storm Damage SEO](/industries/roofing-seo/storm-damage-seo/) — Pre-storm content strategy and post-storm activation for roofing companies
+- [Roofing SEO Keywords](/industries/roofing-seo/) — Keyword research guide covering seasonal, storm, repair, replacement, and material terms for roofers
+- [Roofing Google Business Profile](/industries/roofing-seo/) — Complete GBP optimization guide for roofing companies
+- [Roofing Website Design](/industries/roofing-seo/) — Website design best practices for roofing companies that convert visitors into leads
+- [Storm Damage SEO](/industries/roofing-seo/) — Pre-storm content strategy and post-storm activation for roofing companies
 
 ### Related Industry Verticals
 - [Home Services SEO](/industries/home-services-seo/) — Comprehensive strategies for all home service companies
 
 ### Related Blog Posts
-- [Local SEO Ranking Factors in 2026](/blog/local-seo-ranking-factors-2026/) — The signals that determine your local visibility
-- [Local Link Building Strategies](/blog/local-link-building-strategies/) — Building backlinks that boost local rankings
-- [Map Pack Ranking Guide](/blog/map-pack-ranking-guide/) — How to get your business into the top 3
+- [Local SEO Ranking Factors in 2026](/learn/local-seo-ranking-factors-2026/) — The signals that determine your local visibility
+- [Local Link Building Strategies](/learn/local-link-building-strategies/) — Building backlinks that boost local rankings
+- [Map Pack Ranking Guide](/learn/map-pack-ranking-guide/) — How to get your business into the top 3
 
 ## Frequently Asked Questions
 
@@ -189,4 +189,4 @@ We target the link sources most relevant and valuable for roofers: manufacturer 
 
 ---
 
-*Ready to stop paying per click and start building organic lead flow that compounds over time? [Request your free roofing SEO audit](/services/seo-audit/) and see exactly where you rank, where the gaps are, and where the biggest opportunities are waiting.*
+*Ready to stop paying per click and start building organic lead flow that compounds over time? [Order your roofing SEO Audit](/services/seo-audit/) and see exactly where you rank, where the gaps are, and where the biggest opportunities are waiting.*

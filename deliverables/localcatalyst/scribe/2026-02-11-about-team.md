@@ -5,6 +5,10 @@
 **Agent:** Scribe
 **URL:** /about/team/
 **Word Count Target:** 1,000
+**Title Tag:** Meet Our SEO Team — Experts in Local Search | LocalCatalyst
+**Meta Description:** Meet the local SEO specialists behind LocalCatalyst. Our team combines technical expertise, content strategy, and data-driven results for your business.
+**H1:** Meet the Local SEO Specialists Who Drive Your Rankings
+**Primary Keyword:** SEO team
 
 ---
 
@@ -19,8 +23,6 @@ Every member of our team specializes in local SEO. We don't dabble in national c
 **Title:** Founder & Chief Executive Officer
 **Credentials:** Google Partner, CATALYST Methodology Architect
 **Specialties:** Local SEO strategy, business growth consulting, competitive market analysis
-
-![Photo: Cody Hinton, Founder & CEO](/images/team/cody-hinton.jpg)
 
 Cody founded LocalCatalyst after spending a decade in digital marketing watching local businesses get shortchanged by agencies that treated them as afterthoughts. He saw enterprise-level SEO strategies that delivered massive ROI for national brands --- and realized that with the right systems, those same strategies could be adapted for local businesses at a fraction of the cost.
 
@@ -38,8 +40,6 @@ Before founding LocalCatalyst, Cody helped scale a regional marketing agency fro
 **Credentials:** Google Analytics Certified, Google Ads Certified, SEMrush SEO Certified
 **Specialties:** CATALYST methodology development, local keyword research, competitive analysis, campaign architecture
 
-![Photo: Sarah Chen, Director of SEO Strategy](/images/team/sarah-chen.jpg)
-
 Sarah brings over eight years of dedicated local SEO experience to LocalCatalyst, where she leads the development and refinement of our CATALYST methodology. Before joining the team, she spent five years at a top-20 digital agency managing local search campaigns for multi-location brands across healthcare, home services, and professional services.
 
 At LocalCatalyst, Sarah designs the strategic roadmap for every client engagement. She translates audit findings into prioritized action plans, sets benchmarks using geo-grid rankings and Share of Local Voice (SoLV) metrics, and ensures every campaign is built on data rather than assumptions. Her work on competitive displacement modeling has become a core differentiator in how LocalCatalyst approaches saturated local markets.
@@ -55,8 +55,6 @@ Sarah is a firm believer that local SEO is not a set-it-and-forget-it service. S
 **Title:** Technical SEO Lead
 **Credentials:** Google Web Developer Certified, Screaming Frog Certified Crawler Specialist
 **Specialties:** Core Web Vitals optimization, schema markup, site architecture, WordPress performance, crawl analysis
-
-![Photo: Marcus Thompson, Technical SEO Lead](/images/team/marcus-thompson.jpg)
 
 Marcus is a former full-stack web developer who pivoted into technical SEO after realizing that most ranking problems he encountered weren't content problems --- they were engineering problems. Slow load times, broken internal linking, missing structured data, and bloated code were silently killing visibility for businesses that had done everything else right.
 
@@ -74,8 +72,6 @@ Marcus is also the architect behind LocalCatalyst's site speed optimization proc
 **Credentials:** HubSpot Content Marketing Certified, AP Style Editor
 **Specialties:** E-E-A-T content strategy, topical authority architecture, service page optimization, blog strategy
 
-![Photo: Jessica Rivera, Content Strategy Manager](/images/team/jessica-rivera.jpg)
-
 Jessica's background in journalism gives her something rare in the SEO world: the ability to write content that is genuinely useful to readers while simultaneously satisfying every signal Google looks for. She spent four years as a features writer for a metro daily newspaper before transitioning into content marketing, where she discovered that the same storytelling instincts that made good journalism also made great SEO content.
 
 At LocalCatalyst, Jessica leads content strategy and production for all client campaigns. She designs topical authority maps, writes and edits service pages built for conversion, develops blog calendars that target long-tail and question-based queries, and ensures every piece of content meets E-E-A-T standards. Her service page framework --- which combines expert-level depth with clear calls to action --- has become a template used across all LocalCatalyst engagements.
@@ -91,8 +87,6 @@ Jessica also manages LocalCatalyst's AI-assisted content workflows, using AI too
 **Title:** GBP & Local Visibility Specialist
 **Credentials:** Google Business Profile Gold Product Expert, BrightLocal Certified
 **Specialties:** Google Business Profile optimization, review generation strategy, local pack ranking, citation management
-
-![Photo: David Kim, GBP & Local Visibility Specialist](/images/team/david-kim.jpg)
 
 David has spent more than five years focused exclusively on Google Business Profile optimization --- and that narrow focus has made him one of the most knowledgeable GBP practitioners in the industry. He manages GBP strategy across all 15 of LocalCatalyst's service verticals, and his playbooks for review generation, category optimization, and GBP post scheduling have been refined through hundreds of client engagements.
 

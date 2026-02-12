@@ -3,8 +3,8 @@
 **Deliverable:** Resource blog post
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/seo-red-flags/
-**Parent Hub:** /blog/
+**URL:** /learn/seo-red-flags/
+**Parent Hub:** /learn/
 **Primary Keyword:** SEO red flags to watch for
 **Secondary Keywords:** bad SEO practices, signs of bad SEO agency, SEO scams, black hat SEO warning signs, how to spot bad SEO, SEO agency warning signs
 **Title Tag:** SEO Red Flags: Warning Signs of Bad Agencies
@@ -60,7 +60,7 @@ Recovery from a link-based penalty is painful. It requires identifying and disav
 
 Equally concerning are reports that contain only vanity metrics: "You now rank for 1,247 keywords!" without any context about which keywords, whether they drive traffic, or whether that traffic converts to business.
 
-**What good reporting includes:** Specific ranking data for target keywords, organic traffic trends, conversion metrics (calls, forms, leads), work completed during the reporting period, and strategic recommendations for the next period. Our guide on [what to expect from SEO services](/blog/what-to-expect-from-seo-services/) covers reporting standards in detail.
+**What good reporting includes:** Specific ranking data for target keywords, organic traffic trends, conversion metrics (calls, forms, leads), work completed during the reporting period, and strategic recommendations for the next period. Our guide on [what to expect from SEO services](/learn/what-to-expect-from-seo-services/) covers reporting standards in detail.
 
 ## Red Flag #6: Long Contracts with No Deliverables
 
@@ -134,7 +134,7 @@ No. Price alone is not a red flag. The red flag is when pricing does not align w
 
 ### How do I verify that an SEO agency is legitimate?
 
-Check for client testimonials and case studies with specific metrics. Look for the agency's own organic presence, since an SEO company that does not rank well for relevant terms is a concern. Ask for references you can contact directly. Review their contract for clear deliverables, ownership terms, and reasonable exit clauses. Our guide on [questions to ask an SEO company](/blog/questions-to-ask-seo-company/) provides a thorough evaluation framework.
+Check for client testimonials and case studies with specific metrics. Look for the agency's own organic presence, since an SEO company that does not rank well for relevant terms is a concern. Ask for references you can contact directly. Review their contract for clear deliverables, ownership terms, and reasonable exit clauses. Our guide on [questions to ask an SEO company](/learn/questions-to-ask-seo-company/) provides a thorough evaluation framework.
 
 ### What should I do if my current agency is using black hat tactics?
 

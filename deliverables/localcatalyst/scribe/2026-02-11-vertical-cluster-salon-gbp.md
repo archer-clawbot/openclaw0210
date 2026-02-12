@@ -14,7 +14,7 @@
 
 ---
 
-For salons and spas, the Google Business Profile is where first impressions happen. A potential client searches "hair salon near me," scans the Map Pack, looks at photos and ratings, and either taps your phone number or moves to the next listing. This interaction takes seconds, and your GBP determines the outcome. This guide is part of our [salon and spa SEO](/industries/salon-spa-seo/) hub and covers the specific GBP optimizations that beauty businesses need to convert local searchers into booked appointments. For hands-off GBP management, see our [Google Business Profile management](/google-business-profile-management/) service.
+For salons and spas, the Google Business Profile is where first impressions happen. A potential client searches "hair salon near me," scans the Map Pack, looks at photos and ratings, and either taps your phone number or moves to the next listing. This interaction takes seconds, and your GBP determines the outcome. This guide is part of our [salon and spa SEO](/industries/salon-spa-seo/) hub and covers the specific GBP optimizations that beauty businesses need to convert local searchers into booked appointments. For hands-off GBP management, see our [Google Business Profile management](/services/gbp-optimization/) service.
 
 ## Why GBP Dominates the Salon Client Journey
 

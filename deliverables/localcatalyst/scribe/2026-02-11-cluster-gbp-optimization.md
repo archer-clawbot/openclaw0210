@@ -3,8 +3,8 @@
 **Deliverable:** Service sub-page (cluster)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /google-business-profile-management/gbp-optimization/
-**Parent Hub:** /google-business-profile-management/
+**URL:** /services/gbp-optimization/gbp-optimization/
+**Parent Hub:** /services/gbp-optimization/
 **Primary Keyword:** Google Business Profile optimization
 **Secondary Keywords:** GBP optimization checklist, optimize Google Business Profile, GBP SEO, Google My Business optimization, GBP ranking factors
 **Title Tag:** Google Business Profile Optimization Guide | LocalCatalyst.ai
@@ -14,11 +14,11 @@
 
 ---
 
-*Breadcrumbs: [Home](/) > [Google Business Profile Management](/google-business-profile-management/) > GBP Optimization*
+*Breadcrumbs: [Home](/) > [Google Business Profile Management](/services/gbp-optimization/) > GBP Optimization*
 
 ## Google Business Profile Optimization: The Complete Walkthrough for Maximum Visibility
 
-Your Google Business Profile is the single most influential element in local search ranking. It controls whether you appear in the Map Pack, how your business is displayed in Google Maps, what information potential customers see before visiting your website, and increasingly, whether Google's AI Overviews reference your business in response to local queries. Our [Google Business Profile management services](/google-business-profile-management/) are built around the principle that a fully optimized GBP is not optional — it is the prerequisite for every other local SEO tactic to work.
+Your Google Business Profile is the single most influential element in local search ranking. It controls whether you appear in the Map Pack, how your business is displayed in Google Maps, what information potential customers see before visiting your website, and increasingly, whether Google's AI Overviews reference your business in response to local queries. Our [Google Business Profile management services](/services/gbp-optimization/) are built around the principle that a fully optimized GBP is not optional — it is the prerequisite for every other local SEO tactic to work.
 
 This page provides a complete, field-by-field walkthrough of GBP optimization — from initial claiming and verification to advanced strategies that most businesses never implement. Whether you are setting up a new profile or auditing an existing one, this guide covers every element that influences your local search visibility.
 
@@ -155,7 +155,7 @@ Reviews are the second most influential ranking factor after GBP signals themsel
 
 ### GBP Posts
 
-Regular posting signals to Google that your business is active and your profile is current. We cover posting strategy in depth on our [GBP posts guide](/google-business-profile-management/gbp-posts/), but the key principles are:
+Regular posting signals to Google that your business is active and your profile is current. We cover posting strategy in depth on our [GBP posts guide](/services/gbp-optimization/gbp-posts/), but the key principles are:
 
 - Post at least weekly
 - Include images with every post
@@ -165,7 +165,7 @@ Regular posting signals to Google that your business is active and your profile 
 
 ### Photos and Videos
 
-Visual content drives engagement and signals business legitimacy. Businesses with robust photo libraries receive significantly more customer actions. Our [GBP photos and videos guide](/google-business-profile-management/gbp-photos-videos/) covers the complete visual optimization strategy, including photo types, quality standards, geo-tagging, and upload cadence.
+Visual content drives engagement and signals business legitimacy. Businesses with robust photo libraries receive significantly more customer actions. Our [GBP photos and videos guide](/services/gbp-optimization/gbp-photos-videos/) covers the complete visual optimization strategy, including photo types, quality standards, geo-tagging, and upload cadence.
 
 ### Q&A Seeding
 
@@ -187,7 +187,7 @@ Even minor inconsistencies create problems:
 - "(512) 555-1234" vs. "512-555-1234" vs. "+1 512 555 1234"
 - "Smith Plumbing LLC" vs. "Smith Plumbing" vs. "Smith Plumbing, LLC"
 
-Google cross-references your GBP data against citations across the web. Consistency reinforces trust and prominence signals. Inconsistency creates doubt and dilutes your authority. Our [citation building services](/citation-building-services/) include a full NAP audit and consistency cleanup as part of every engagement.
+Google cross-references your GBP data against citations across the web. Consistency reinforces trust and prominence signals. Inconsistency creates doubt and dilutes your authority. Our [citation building services](/services/citation-building/) include a full NAP audit and consistency cleanup as part of every engagement.
 
 ## Common GBP Optimization Mistakes
 
@@ -220,7 +220,7 @@ GBP changes typically propagate within 24-72 hours, but ranking impact varies. C
 
 ### Can I optimize my GBP myself or do I need professional help?
 
-You can absolutely implement basic GBP optimization yourself using this guide. Where professional management adds value is in the strategic decisions (which categories maximize ranking opportunity, how to structure the keyword strategy through [local keyword research](/local-seo-services/local-keyword-research/), which competitor gaps to exploit), the ongoing engagement (weekly posting, photo management, review response), and the measurement (geo-grid tracking, competitive benchmarking). Most business owners can set up a solid profile, but few have the time or tools to maintain the continuous optimization that keeps a profile competitive.
+You can absolutely implement basic GBP optimization yourself using this guide. Where professional management adds value is in the strategic decisions (which categories maximize ranking opportunity, how to structure the keyword strategy through [local keyword research](/services/local-keyword-research/), which competitor gaps to exploit), the ongoing engagement (weekly posting, photo management, review response), and the measurement (geo-grid tracking, competitive benchmarking). Most business owners can set up a solid profile, but few have the time or tools to maintain the continuous optimization that keeps a profile competitive.
 
 ### What happens if my GBP gets suspended?
 
@@ -236,4 +236,4 @@ Yes. Google's AI Overviews for local queries pull data from GBP listings, includ
 
 ---
 
-**Not sure if your Google Business Profile is fully optimized?** Our [free SEO audit](/services/seo-audit/) includes a comprehensive GBP analysis using the 5-SPEC framework, identifying exactly which profile elements need attention and quantifying the ranking impact of each optimization opportunity. Get your audit today.
+**Not sure if your Google Business Profile is fully optimized?** Our [SEO Audit](/services/seo-audit/) includes a comprehensive GBP analysis using the 5-SPEC framework, identifying exactly which profile elements need attention and quantifying the ranking impact of each optimization opportunity. Get your audit today.

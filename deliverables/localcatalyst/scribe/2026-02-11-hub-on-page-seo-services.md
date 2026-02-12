@@ -19,7 +19,7 @@ Every page on your website is either earning you visibility or wasting it. There
 
 Our on-page SEO services ensure every page on your site is pulling its weight. We go far beyond the checklist-style optimization that most agencies offer — swapping a few keywords into meta tags and calling it done. We apply semantic optimization, entity alignment, topical authority building, and user intent matching at the page level, creating content structures that perform across Google's organic results, AI Overviews, and LLM-powered discovery platforms.
 
-For local businesses, on-page SEO carries particular importance. Your service pages, location pages, and content assets need to communicate geographic relevance, service expertise, and trustworthiness to both algorithms and humans. When on-page signals align with your [Google Business Profile](/google-business-profile-management/), [citations](/citation-building-services/), and [backlink profile](/link-building-services/), the compounding effect drives significant ranking improvements.
+For local businesses, on-page SEO carries particular importance. Your service pages, location pages, and content assets need to communicate geographic relevance, service expertise, and trustworthiness to both algorithms and humans. When on-page signals align with your [Google Business Profile](/services/gbp-optimization/), [citations](/services/citation-building/), and [backlink profile](/managed/), the compounding effect drives significant ranking improvements.
 
 ## What On-Page SEO Means in 2026
 
@@ -37,7 +37,7 @@ On-page SEO has evolved well beyond meta tags and keyword density. In 2026, page
 
 ## Title Tag Optimization Methodology
 
-Title tags remain one of the strongest on-page ranking signals. They are also the first thing a searcher sees in results, making them both a ranking factor and a conversion factor. We approach [title tag optimization](/on-page-seo-services/title-tag-optimization/) with methodical precision:
+Title tags remain one of the strongest on-page ranking signals. They are also the first thing a searcher sees in results, making them both a ranking factor and a conversion factor. We approach [title tag optimization](/services/content-pages/title-tag-optimization/) with methodical precision:
 
 **For service pages**, we use the formula: `[Primary Keyword] — [Differentiator or Benefit] | [Brand]`. Example: "Emergency Plumbing Repair — 24/7 Same-Day Service | ABC Plumbing." This front-loads the primary keyword while communicating value and brand.
 
@@ -51,7 +51,7 @@ Every title tag we write is under 60 characters, front-loads the primary keyword
 
 Meta descriptions do not directly influence rankings, but they significantly influence click-through rates — and CTR is a ranking signal. A compelling meta description can be the difference between a searcher clicking your result or your competitor's.
 
-Our [meta description optimization](/on-page-seo-services/meta-description-optimization/) follows these principles:
+Our [meta description optimization](/services/content-pages/meta-description-optimization/) follows these principles:
 
 - **Under 155 characters** to avoid truncation
 - **Includes primary keyword** naturally (Google bolds matching terms)
@@ -63,7 +63,7 @@ For a pest control company targeting "termite treatment," a weak meta descriptio
 
 ## Header Tag Hierarchy and Content Structure
 
-Header tags (H1 through H6) create the hierarchical structure that both users and search engines use to understand page content. Our [header tag optimization](/on-page-seo-services/header-tag-optimization/) ensures every page follows a logical, keyword-informed hierarchy.
+Header tags (H1 through H6) create the hierarchical structure that both users and search engines use to understand page content. Our [header tag optimization](/services/content-pages/header-tag-optimization/) ensures every page follows a logical, keyword-informed hierarchy.
 
 **H1** — one per page, containing the primary keyword, establishing the page's core topic. This should match the searcher's intent and set expectations for the content that follows.
 
@@ -77,11 +77,11 @@ This hierarchy does more than organize content — it creates a semantic structu
 
 Internal linking is the most undervalued lever in SEO. Your internal links define how authority flows through your site, which pages Google considers most important, and how topical relationships between pages are understood.
 
-Our [internal linking strategy](/on-page-seo-services/internal-linking-strategy/) implements hub-and-spoke architecture:
+Our [internal linking strategy](/services/content-pages/internal-linking-strategy/) implements hub-and-spoke architecture:
 
 **Hub pages** (like this one) serve as pillar content for broad topics. They link down to spoke pages that cover specific subtopics in depth. Spoke pages link back to the hub and cross-link to related spokes. This creates a content silo that concentrates topical authority and makes your expertise structure explicit to search engines.
 
-**Anchor text strategy** — we use descriptive, keyword-relevant anchor text that tells Google what the linked page is about. "Learn more about our [local keyword research process](/local-seo-services/local-keyword-research/)" is far more valuable than "click here."
+**Anchor text strategy** — we use descriptive, keyword-relevant anchor text that tells Google what the linked page is about. "Learn more about our [local keyword research process](/services/local-keyword-research/)" is far more valuable than "click here."
 
 **Link equity distribution** — we ensure your most important pages receive the most internal links, concentrating ranking power where it matters most. Service pages and location pages that drive revenue should receive more internal links than informational blog posts.
 
@@ -91,7 +91,7 @@ We also coordinate internal linking with your broader site architecture, ensurin
 
 ## Image Optimization
 
-Images affect page speed, accessibility, user experience, and search visibility. Our [image optimization](/on-page-seo-services/image-optimization/) addresses all four dimensions:
+Images affect page speed, accessibility, user experience, and search visibility. Our [image optimization](/services/content-pages/image-optimization/) addresses all four dimensions:
 
 **Alt text** — descriptive, keyword-relevant alt text that serves accessibility requirements and provides context to search engines. For a law firm, an image of their office should have alt text like "Smith & Associates law office exterior in downtown Denver" — not "image1.jpg" or "office."
 
@@ -115,7 +115,7 @@ Content is the substance that all other on-page elements support. Our content op
 
 **Content depth calibration** — not every page needs 3,000 words. A service page for "emergency AC repair" needs to be concise and action-oriented. A guide on "how to choose an HVAC system" needs comprehensive coverage. We calibrate content depth to match search intent and competitive requirements for each target keyword.
 
-Our [content optimization services](/on-page-seo-services/content-optimization/) page details our full methodology.
+Our [content optimization services](/services/content-pages/content-optimization/) page details our full methodology.
 
 ## Schema Markup for Local Businesses
 
@@ -145,7 +145,7 @@ A content silo for a roofing company might look like:
 
 Each piece of content links to related pieces within the silo, creating a self-reinforcing cluster of topical authority. Google sees this interconnected content and recognizes your site as a comprehensive resource on roofing — which translates to higher rankings across the entire cluster.
 
-This is the same hub-and-spoke model we use for our own content. This page you are reading is the hub for our on-page SEO content silo, linking to cluster pages on [title tag optimization](/on-page-seo-services/title-tag-optimization/), [meta descriptions](/on-page-seo-services/meta-description-optimization/), [header tags](/on-page-seo-services/header-tag-optimization/), [internal linking](/on-page-seo-services/internal-linking-strategy/), [image optimization](/on-page-seo-services/image-optimization/), and [content optimization](/on-page-seo-services/content-optimization/).
+This is the same hub-and-spoke model we use for our own content. This page you are reading is the hub for our on-page SEO content silo, linking to cluster pages on [title tag optimization](/services/content-pages/title-tag-optimization/), [meta descriptions](/services/content-pages/meta-description-optimization/), [header tags](/services/content-pages/header-tag-optimization/), [internal linking](/services/content-pages/internal-linking-strategy/), [image optimization](/services/content-pages/image-optimization/), and [content optimization](/services/content-pages/content-optimization/).
 
 ## NAP Consistency Across On-Page Elements
 
@@ -158,7 +158,7 @@ For local businesses, Name, Address, and Phone number (NAP) consistency is a cri
 - Schema markup
 - Embedded Google Maps
 
-This on-page NAP consistency reinforces the NAP accuracy maintained through your [citation building](/citation-building-services/) and [Google Business Profile](/google-business-profile-management/), creating a unified data signal that strengthens local ranking factors.
+This on-page NAP consistency reinforces the NAP accuracy maintained through your [citation building](/services/citation-building/) and [Google Business Profile](/services/gbp-optimization/), creating a unified data signal that strengthens local ranking factors.
 
 ## Results You Can Expect
 
@@ -211,19 +211,19 @@ Every on-page SEO engagement includes:
 ## Supporting Content
 
 ### Cluster Pages
-- [Title Tag Optimization](/on-page-seo-services/title-tag-optimization/) — Methodology for high-performing title tags
-- [Meta Description Optimization](/on-page-seo-services/meta-description-optimization/) — Writing meta descriptions that drive clicks
-- [Header Tag Optimization](/on-page-seo-services/header-tag-optimization/) — Structuring content for search engines and users
-- [Internal Linking Strategy](/on-page-seo-services/internal-linking-strategy/) — Building hub-and-spoke content architecture
-- [Image Optimization](/on-page-seo-services/image-optimization/) — Compression, alt text, modern formats, and performance
-- [Content Optimization](/on-page-seo-services/content-optimization/) — Semantic optimization and topical authority
+- [Title Tag Optimization](/services/content-pages/title-tag-optimization/) — Methodology for high-performing title tags
+- [Meta Description Optimization](/services/content-pages/meta-description-optimization/) — Writing meta descriptions that drive clicks
+- [Header Tag Optimization](/services/content-pages/header-tag-optimization/) — Structuring content for search engines and users
+- [Internal Linking Strategy](/services/content-pages/internal-linking-strategy/) — Building hub-and-spoke content architecture
+- [Image Optimization](/services/content-pages/image-optimization/) — Compression, alt text, modern formats, and performance
+- [Content Optimization](/services/content-pages/content-optimization/) — Semantic optimization and topical authority
 
 ### Related Blog Posts
-- [On-Page SEO Checklist](/blog/on-page-seo-checklist/) — Complete optimization checklist for every page
-- [Keyword Placement Best Practices](/blog/keyword-placement-best-practices/) — Strategic keyword integration without stuffing
-- [Schema Markup for Local Business](/blog/schema-markup-local-business/) — Implementation guide for local schema types
-- [Content Silos for SEO](/blog/content-silos-seo/) — Building topical authority through content architecture
-- [NAP Consistency](/blog/nap-consistency/) — Why NAP accuracy matters and how to maintain it
+- [On-Page SEO Checklist](/learn/on-page-seo-checklist/) — Complete optimization checklist for every page
+- [Keyword Placement Best Practices](/learn/keyword-placement-best-practices/) — Strategic keyword integration without stuffing
+- [Schema Markup for Local Business](/learn/schema-markup-local-business/) — Implementation guide for local schema types
+- [Content Silos for SEO](/learn/content-silos-seo/) — Building topical authority through content architecture
+- [NAP Consistency](/learn/nap-consistency/) — Why NAP accuracy matters and how to maintain it
 
 ## Frequently Asked Questions
 
@@ -233,7 +233,7 @@ On-page SEO is the optimization of individual web pages to improve their search 
 
 ### How is on-page SEO different from technical SEO?
 
-On-page SEO focuses on the content and HTML elements of individual pages — what the page says and how it is structured. [Technical SEO](/technical-seo-services/) focuses on the infrastructure that supports those pages — site speed, crawlability, indexation, mobile optimization, and server configuration. Think of technical SEO as the foundation and plumbing of a building, and on-page SEO as the interior design and layout. Both are essential, and they work together. A technically fast site with poor on-page optimization will underperform, just as a well-optimized page on a slow, uncrawlable site will be held back.
+On-page SEO focuses on the content and HTML elements of individual pages — what the page says and how it is structured. [Technical SEO](/services/seo-audit/technical-seo-audit/) focuses on the infrastructure that supports those pages — site speed, crawlability, indexation, mobile optimization, and server configuration. Think of technical SEO as the foundation and plumbing of a building, and on-page SEO as the interior design and layout. Both are essential, and they work together. A technically fast site with poor on-page optimization will underperform, just as a well-optimized page on a slow, uncrawlable site will be held back.
 
 ### How often should on-page SEO be updated?
 
@@ -241,7 +241,7 @@ On-page optimization is not a one-time project. We recommend reviewing and updat
 
 ### Do you optimize existing content or create new content?
 
-Both. We begin by optimizing your existing pages — these are often quick wins that produce measurable improvements within weeks. We then identify content gaps where new pages are needed to complete your topical coverage and capture additional keyword opportunities. Our [content strategy services](/seo-content-strategy/) handle the planning and creation of new content assets that integrate with your existing on-page architecture.
+Both. We begin by optimizing your existing pages — these are often quick wins that produce measurable improvements within weeks. We then identify content gaps where new pages are needed to complete your topical coverage and capture additional keyword opportunities. Our [content strategy services](/services/content-pages/) handle the planning and creation of new content assets that integrate with your existing on-page architecture.
 
 ### What tools do you use for on-page optimization?
 
@@ -249,7 +249,7 @@ We use a combination of proprietary analysis frameworks and industry-leading too
 
 ### How does on-page SEO affect local rankings specifically?
 
-For local businesses, on-page SEO serves a dual purpose: it improves organic rankings and reinforces local pack signals. Locally optimized title tags, location-specific content, LocalBusiness schema markup, embedded maps, and consistent NAP information all send geographic relevance signals that support your [Google Business Profile](/google-business-profile-management/) and [local SEO strategy](/local-seo-services/). A dental practice with service pages optimized for "dental implants in [City]" with proper schema markup will outrank a practice with generic, location-agnostic pages — even if their backlink profiles are similar.
+For local businesses, on-page SEO serves a dual purpose: it improves organic rankings and reinforces local pack signals. Locally optimized title tags, location-specific content, LocalBusiness schema markup, embedded maps, and consistent NAP information all send geographic relevance signals that support your [Google Business Profile](/services/gbp-optimization/) and [local SEO strategy](/services/). A dental practice with service pages optimized for "dental implants in [City]" with proper schema markup will outrank a practice with generic, location-agnostic pages — even if their backlink profiles are similar.
 
 ---
 

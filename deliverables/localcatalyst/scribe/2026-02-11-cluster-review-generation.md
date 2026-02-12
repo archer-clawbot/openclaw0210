@@ -14,17 +14,17 @@
 
 ---
 
-**Breadcrumbs:** [Home](/) > [Reputation Management Services](/reputation-management-services/) > Review Generation
+**Breadcrumbs:** [Home](/) > Reputation Management Services > Review Generation
 
 ## The Silent Majority Problem
 
-Here is the most frustrating reality in local business marketing: your happiest customers are your quietest ones. As part of our comprehensive [reputation management services](/reputation-management-services/), we solve this problem systematically — because left to natural behavior, the businesses with the best service often have the worst online reputations.
+Here is the most frustrating reality in local business marketing: your happiest customers are your quietest ones. As part of our comprehensive reputation management services, we solve this problem systematically — because left to natural behavior, the businesses with the best service often have the worst online reputations.
 
 The data is consistent across every industry we serve. Without a proactive review generation strategy, only 5-10% of customers leave reviews organically, and dissatisfied customers are 3-4 times more likely to leave one than satisfied customers. A plumbing company completing 600 jobs a year might collect 15-20 organic reviews — and half of them are complaints. Not because the work is bad, but because the satisfied 590 customers simply moved on with their lives.
 
-This creates a distorted picture that damages both your conversion rate and your [local SEO rankings](/local-seo-services/). Google uses review quantity, velocity, and average rating as ranking signals. Potential customers use them to decide whether to call you or the competitor listed below you. Every day without a review generation system is a day your competitors with one are pulling further ahead.
+This creates a distorted picture that damages both your conversion rate and your [local SEO rankings](/services/). Google uses review quantity, velocity, and average rating as ranking signals. Potential customers use them to decide whether to call you or the competitor listed below you. Every day without a review generation system is a day your competitors with one are pulling further ahead.
 
-**[Start with a free SEO audit](/services/seo-audit/)** and we will include a complete review profile analysis showing exactly where you stand against your local competition.
+**[Start with our SEO Audit](/services/seo-audit/)** and we will include a complete review profile analysis showing exactly where you stand against your local competition.
 
 ## Why Proactive Review Generation Is Not Optional
 
@@ -199,10 +199,10 @@ For a multi-location dental practice we manage, the review generation system pro
 
 Review generation does not operate in isolation. It amplifies every other element of your local SEO strategy:
 
-- **[Review response management](/reputation-management-services/review-response/)** ensures every generated review receives a personalized, keyword-rich response that compounds the SEO benefit
-- **[Google Business Profile optimization](/google-business-profile-management/)** provides the foundation that reviews enhance — a fully optimized GBP with strong reviews dominates a partially optimized one
-- **[Citation building](/citation-building-services/)** creates consistent NAP data across the web, reinforcing the trust signals that reviews provide
-- **[Negative review management](/reputation-management-services/negative-review-management/)** handles the inevitable negative feedback that comes with higher visibility
+- **Review response management** ensures every generated review receives a personalized, keyword-rich response that compounds the SEO benefit
+- **[Google Business Profile optimization](/services/gbp-optimization/)** provides the foundation that reviews enhance — a fully optimized GBP with strong reviews dominates a partially optimized one
+- **[Citation building](/services/citation-building/)** creates consistent NAP data across the web, reinforcing the trust signals that reviews provide
+- **Negative review management** handles the inevitable negative feedback that comes with higher visibility
 
 Together, these create a compounding system where each element reinforces the others. Reviews boost rankings. Rankings increase visibility. Visibility brings more customers. More customers generate more reviews. The flywheel accelerates.
 
@@ -218,7 +218,7 @@ Yes. Asking customers to share their honest experience is perfectly legal and co
 
 ### What if we get negative reviews through the system?
 
-Negative reviews are a natural part of any review profile — and they actually increase the credibility of your positive reviews. Our review funnel provides a private feedback pathway for dissatisfied customers, giving your team the chance to resolve issues before they become public. But we never prevent negative reviews from being posted. When they do appear, our [negative review management](/reputation-management-services/negative-review-management/) process ensures a rapid, professional response that demonstrates accountability.
+Negative reviews are a natural part of any review profile — and they actually increase the credibility of your positive reviews. Our review funnel provides a private feedback pathway for dissatisfied customers, giving your team the chance to resolve issues before they become public. But we never prevent negative reviews from being posted. When they do appear, our negative review management process ensures a rapid, professional response that demonstrates accountability.
 
 ### Can you set up review generation for multiple locations?
 

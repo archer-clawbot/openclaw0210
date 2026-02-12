@@ -1,20 +1,24 @@
 # LocalCatalyst - Case Studies Page
-**Client:** LocalCatalyst  
-**Deliverable:** /case-studies/ page content  
-**Date:** 2026-02-11  
+**Client:** LocalCatalyst
+**Deliverable:** /case-studies/ page content
+**Date:** 2026-02-11
 **Agent:** Scribe
+**Title Tag:** Local SEO Case Studies — Real Results | LocalCatalyst
+**Meta Description:** See how LocalCatalyst helps local businesses dominate Google Maps and local search. Real case studies with ranking data, revenue impact, and timeline.
+**H1:** Local SEO Case Studies: Real Businesses, Real Results
+**Primary Keyword:** SEO case studies
 
 ---
 
 ## SEO Metadata
 
-**Title Tag:**  
+**Title Tag:**
 `Local SEO Case Studies | Real Results from LocalCatalyst`
 
-**Meta Description:**  
+**Meta Description:**
 `See how LocalCatalyst helps local businesses dominate Google Maps and local search. Real case studies with ranking data, revenue impact, and timeline.`
 
-**Primary Keyword:** seo case studies  
+**Primary Keyword:** seo case studies
 **Secondary Keywords:** local seo results, seo success stories, local seo case studies, google maps ranking case study
 
 ---
@@ -518,7 +522,7 @@ These aren't outliers. This is what happens when you combine expert local SEO st
 If you're ready to dominate your local market — whether you're a plumber in Chicago, a dentist in Dallas, or a restaurant in Miami — let's talk.
 
 **CTA Button Text:** Order Your SEO Audit  
-**CTA Button Link:** /contact/
+**CTA Button Link:** /services/seo-audit/order/
 
 **Secondary Text Below Button:**  
 Or browse our services → [Schedule Call Link]
@@ -528,12 +532,12 @@ Or browse our services → [Schedule Call Link]
 ## Internal Linking Strategy
 
 **Link to from Case Studies page:**
-- /services/local-seo/ (anchor: "local SEO services")
-- /services/google-business-profile-optimization/ (anchor: "GBP optimization")
+- /services/ (anchor: "local SEO services")
+- /services/gbp-optimization/ (anchor: "GBP optimization")
 - /services/review-management/ (anchor: "review management")
 - /services/local-citations/ (anchor: "citation building")
 - /local-seo-agency/ (anchor: "local SEO agency")
-- /contact/ (multiple CTAs)
+- /managed/ (multiple CTAs)
 
 **Link to Case Studies page from:**
 - Homepage (featured section)

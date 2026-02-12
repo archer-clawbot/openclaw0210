@@ -16,7 +16,7 @@
 
 Your restaurant's menu is more than a list of dishes and prices. In the context of local search, it is a keyword-rich content asset that determines whether your restaurant appears for the specific cuisine, dish, and dietary searches that hungry diners use to find their next meal. Within our [restaurant SEO program](/industries/restaurant-seo/), menu optimization is one of the most underutilized and highest-impact tactics available to restaurant owners.
 
-LocalCatalyst's [on-page SEO services](/on-page-seo-services/) apply the technical and content optimization strategies outlined in this guide to transform your menu from a static PDF into a dynamic search visibility tool.
+LocalCatalyst's [on-page SEO services](/services/on-page-optimization/) apply the technical and content optimization strategies outlined in this guide to transform your menu from a static PDF into a dynamic search visibility tool.
 
 ## The Menu SEO Problem Most Restaurants Have
 
@@ -91,7 +91,7 @@ Menu consistency across your website, Google Business Profile, Yelp, TripAdvisor
 
 ### Google Business Profile Menu
 
-As covered in our [restaurant GBP optimization guide](/industries/restaurant-seo/restaurant-google-business-profile/), adding your menu to GBP provides keyword signals and allows diners to browse your offerings directly in search results. Ensure your GBP menu matches your website menu in items, descriptions, and pricing.
+As covered in our [restaurant GBP optimization guide](/industries/restaurant-seo/), adding your menu to GBP provides keyword signals and allows diners to browse your offerings directly in search results. Ensure your GBP menu matches your website menu in items, descriptions, and pricing.
 
 ### Third-Party Menu Platforms
 
@@ -114,7 +114,7 @@ Your menu changes are content marketing opportunities. Seasonal menu updates, ne
 - Social media content that drives engagement and traffic
 - Email marketing that brings past diners back
 
-A blog post titled "Introducing Our New Fall Menu: Butternut Squash Ravioli, Braised Lamb Shank, and More" targets seasonal and dish-specific searches while promoting your current offerings. This content supports your broader [SEO content strategy](/seo-content-strategy/) and gives your menu changes visibility beyond your existing customer base.
+A blog post titled "Introducing Our New Fall Menu: Butternut Squash Ravioli, Braised Lamb Shank, and More" targets seasonal and dish-specific searches while promoting your current offerings. This content supports your broader [SEO content strategy](/services/content-pages/) and gives your menu changes visibility beyond your existing customer base.
 
 ## Frequently Asked Questions
 

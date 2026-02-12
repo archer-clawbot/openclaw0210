@@ -80,7 +80,7 @@ Medical practice websites are notoriously slow. The culprits are predictable: un
 
 A site that loads in under 2 seconds on mobile has a measurable advantage in both rankings and patient conversion. Every additional second of load time increases bounce rate by roughly 20%.
 
-For a deeper dive into the technical implementation, see our [SEO website design](/seo-website-design/) service page.
+For a deeper dive into the technical implementation, see our [SEO website design](/services/website-build/) service page.
 
 ## Location Pages for Multi-Location Practices
 
@@ -129,7 +129,7 @@ Structured data tells Google exactly what your pages represent. For medical prac
 **FAQPage schema** (on any page with an FAQ section):
 This can generate rich results in search — expanded Q&A directly in the SERP — which increases click-through rates significantly.
 
-Implementing these schema types doesn't require a developer. Most modern CMS platforms support JSON-LD injection through plugins or custom fields. The impact is measurable: pages with proper medical schema markup earn rich results and higher click-through rates than identical pages without it. Our [technical SEO services](/technical-seo-services/) team can audit and implement schema across your entire site.
+Implementing these schema types doesn't require a developer. Most modern CMS platforms support JSON-LD injection through plugins or custom fields. The impact is measurable: pages with proper medical schema markup earn rich results and higher click-through rates than identical pages without it. Our [technical SEO services](/services/seo-audit/technical-seo-audit/) team can audit and implement schema across your entire site.
 
 ## Content Strategy Baked Into the Design
 

@@ -16,7 +16,7 @@
 
 Content marketing for law firms operates under constraints that most industries never face. Bar advertising rules govern what attorneys can claim in public-facing materials, Google's YMYL (Your Money or Your Life) classification holds legal content to elevated quality standards, and the E-E-A-T framework demands demonstrable expertise behind every published page. Our [law firm SEO](/industries/law-firm-seo/) strategies treat content not as a volume exercise but as an authority-building discipline where every piece serves a defined purpose in the client acquisition funnel.
 
-Working with LocalCatalyst's [SEO content strategy](/seo-content-strategy/) team, law firms develop content programs that satisfy search engines and prospective clients simultaneously, without running afoul of ethical obligations.
+Working with LocalCatalyst's [SEO content strategy](/services/content-pages/) team, law firms develop content programs that satisfy search engines and prospective clients simultaneously, without running afoul of ethical obligations.
 
 ## Why YMYL Classification Changes Everything for Legal Content
 
@@ -78,7 +78,7 @@ A law firm blog serves three distinct functions in a content marketing strategy:
 
 **2. Long-tail keyword capture.** Blog articles targeting specific legal questions ("Can I modify child support if I lost my job?" or "What happens at a DUI arraignment in [state]?") capture search traffic that practice area pages alone cannot address.
 
-**3. Link attraction.** Substantive legal analysis, original research, and comprehensive guides attract backlinks from legal publications, news outlets, and other authoritative sources. Link building through content quality is the most sustainable strategy for law firms, complementing targeted [link building efforts](/link-building-services/).
+**3. Link attraction.** Substantive legal analysis, original research, and comprehensive guides attract backlinks from legal publications, news outlets, and other authoritative sources. Link building through content quality is the most sustainable strategy for law firms, complementing targeted [link building efforts](/managed/).
 
 ### Blog Content That Converts
 

@@ -1,0 +1,3166 @@
+0 to 170 clicks per day with AI SEO.
+
+
+That's what's happened to my agency's
+
+
+website as you can see right here. And
+
+
+today I'm going to break it down for
+
+
+you. So, I'm going to show you what's
+
+
+happened to my agency's website using a
+
+
+simple AI SEO system. No expensive
+
+
+tools, no complicated software, no
+
+
+waiting for results with SEO. Just claw
+
+
+AI, some free keyword research, and a
+
+
+link building strategy that actually
+
+
+works as you can see. So, I mean, this
+
+
+website was getting like literally zero
+
+
+clicks back here, and now it is getting
+
+
+up to like 176. You see the trajectory
+
+
+it's on is going up pretty nicely right
+
+
+there. So, here's the thing that people
+
+
+get wrong about SEO. They think you need
+
+
+to be technical. They think you need
+
+
+fancy software and they think it takes
+
+
+forever. Wrong, wrong, and wrong again.
+
+
+Today, I'm going to pull back the
+
+
+curtain and show you exactly how I did
+
+
+this. You're going to see the exact
+
+
+keywords to targeted, the exact prompts,
+
+
+the exact link building approach that
+
+
+moved the needle. And the best part is
+
+
+you can do this even if you've never
+
+
+done SEO before, even if you've tried
+
+
+SEO and failed, even if you think AI is
+
+
+confusing. I'm going to walk you through
+
+
+the whole thing step by step. And by the
+
+
+end of this video, you'll have a
+
+
+complete free 30-day system you can copy
+
+
+and paste into your own business if you
+
+
+want to. Right. So, we're going to get
+
+
+straight into this and we're going to be
+
+
+using something called the Goldie
+
+
+Accelerator Framework. As you can see
+
+
+right here, if you've never um seen this
+
+
+group before, this is a free AI success
+
+
+lab and it's going to run you through
+
+
+all the notes from today. Actually
+
+
+connects you with 42,700
+
+
+entrepreneurs interested in AI. And if
+
+
+you go to the classroom here and then
+
+
+you go down to AI SEO, you'll see all
+
+
+the video notes from today with all the
+
+
+links, resources, 30-day plan, etc.
+
+
+Right, completely free link in the
+
+
+comments description. So, the Goldie AI
+
+
+SEO framework, let's run you through it.
+
+
+This is the exact system I used to take
+
+
+my agency from zero to 176 clicks a day.
+
+
+And I call it the Goldie AI SEO
+
+
+accelerator because it combines three
+
+
+things. Claude AI for content creation,
+
+
+low competition keyword research, and
+
+
+strategic link building. So, when you
+
+
+put these three things together,
+
+
+something magical actually happens. You
+
+
+stop fighting for impossible keywords.
+
+
+You start ranking fast and you build
+
+
+momentum that compounds over time,
+
+
+right? It's like um how I approach Muay
+
+
+Thai training. For example, I don't try
+
+
+and knock someone out in the first
+
+
+round. You set things up, you find the
+
+
+openings, you land strategic strikes
+
+
+that add up. And it's the same with SEO,
+
+
+right? So, let me break down exactly
+
+
+what happened with my agency website.
+
+
+So, if we look at where we're at right
+
+
+now, you can see, you know, previously
+
+
+we're at like zero and we started
+
+
+publishing around about here. It was
+
+
+sort of the end of September last year
+
+
+that we started publishing a lot of
+
+
+content to this website and pretty much
+
+
+um every single video that I created I
+
+
+would turn into a blog post. So I'm
+
+
+going to test this out. Wilty, are you
+
+
+on again my friend? Good to see you.
+
+
+You're [clears throat] making me laugh.
+
+
+Maybe we if if someone is watching,
+
+
+they're not sure what's going on. So
+
+
+I've done three this is my third live
+
+
+stream today. I do one for AI SEO. I do
+
+
+one for making money and I do one for AI
+
+
+tools in general and then I publish the
+
+
+videos. Right. And Walty says, "When do
+
+
+you sleep? I've been too long. Um, it's
+
+
+6:00 a.m. here and haven't been sleep
+
+
+yet, though I may not last through the
+
+
+whole live." Well, I appreciate you
+
+
+watching either way, man. What a legend
+
+
+you. [laughter]
+
+
+Wilty has made every single live stream
+
+
+today. So, I appreciate that, man. Like,
+
+
+what dedication? Um, so basically what
+
+
+I'm going to break down today is my
+
+
+exact process for doing this. So, where
+
+
+do we get started? Well, if we have a
+
+
+look at this website, we'll analyze and
+
+
+break down what we're doing here. So, if
+
+
+we look at this website for example,
+
+
+right, this my agency website, the goal
+
+
+here is to drive people to the SEO
+
+
+strategy session or to get them to order
+
+
+SEO online, right? And so, like you
+
+
+don't need a lot of traffic to actually
+
+
+monetize this website. And when we
+
+
+actually do generate traffic to it, if
+
+
+you have a look, for example, we'll log
+
+
+into HFS here and we'll check out what
+
+
+we're doing. But essentially um we've
+
+
+built a lot of backlinks to this
+
+
+website. A lot of them natural and a lot
+
+
+of them actually coming through to the
+
+
+site and HFS is way way behind on the
+
+
+organic traffic as you already know. But
+
+
+if we have a look here, the main thing
+
+
+to note here out of all this dashboard
+
+
+is that you've got a DR a domain rating
+
+
+55. So it's a pretty powerful website,
+
+
+right? Um inspired Michelle says,
+
+
+"Hello. Hello from Vancouver. It's 3:12
+
+
+a.m. Appreciate you watching. Good to
+
+
+see you. I went to Vancouver airport
+
+
+last year and it was the nicest airport
+
+
+I've ever been to. Like the friendliest
+
+
+people. So always like Canadians. And
+
+
+you can see here Wily says, "Yes, I have
+
+
+been watching."
+
+
+So we're going to get back to this now.
+
+
+We're going to have a look at what sort
+
+
+of backlinks we've built. All right. So
+
+
+if we look at let's say for example,
+
+
+we're only going to look at one link per
+
+
+domain and then we only want to look at
+
+
+do follow. Right? This is how you can
+
+
+quickly filter down the backlink profile
+
+
+and just find decent stuff. And [snorts]
+
+
+what you can see here if we look through
+
+
+the website for example is like we're
+
+
+getting pages from for example like
+
+
+trafficthinktac.com
+
+
+and this is a domain rating 70. Now one
+
+
+of the craziest things about this is
+
+
+like we haven't actually done any
+
+
+outreach to this website. They've just
+
+
+linked to us naturally from
+
+
+trafficthinktank.com
+
+
+and um you can see us listed as one of
+
+
+the top seven books in SEO right there.
+
+
+Look at that. I didn't even know I was
+
+
+on this list. And so we're getting a lot
+
+
+of backlinks naturally because we do so
+
+
+much personal branding. And then what we
+
+
+also do is we do some outreach as well.
+
+
+In fact, I don't think we do much
+
+
+outreach anymore, but we used to do a
+
+
+lot of outreach and and that's what we
+
+
+do for a lot of our clients as well. Um,
+
+
+Inspired Michelle, oh, Jason says, "Is
+
+
+this live?" It is live. Jason McKay,
+
+
+thanks very much for joining. Good to
+
+
+see here. And then Inspired Michelle
+
+
+says, "Are you driving to the to the
+
+
+website or a landing page lately?"
+
+
+People say driving to the landing page,
+
+
+not web. And do you have a video that
+
+
+explains what backlinks really are?
+
+
+Sorry, I'm a rookie. All right, cool.
+
+
+So, a lot to break down there. So, um
+
+
+yeah, if you actually go on YouTube,
+
+
+like we've got tons of training on link
+
+
+building. So, if you type in Jul link
+
+
+building, for example, you'll see all my
+
+
+trainings on link building. If you
+
+
+actually um do you know what? If you DM
+
+
+me inside the AI success lab, and anyone
+
+
+watching, if you DM me inside the AI
+
+
+success lab, I'll just give you a free
+
+
+copy of my book just to help you. Um but
+
+
+yeah, that's basically it. And then if
+
+
+you want some videos, just just have a
+
+
+look at my videos on the website. Um,
+
+
+but yeah, essentially that's what it is.
+
+
+Backlinks are kind of like boats from
+
+
+other websites say your content is good.
+
+
+The more backlinks you get, the more
+
+
+likely you are to rank. Now, where do we
+
+
+drive the back links to? We drive Oh,
+
+
+Wilty says, "Hit the like button,
+
+
+subscribe." That's what we're talking
+
+
+about. Thank you, Wilty. Um, you're on
+
+
+fire today, man. Appreciate it. Um, and
+
+
+you can see here, basically, we're
+
+
+driving back links to inner pages on our
+
+
+site, right? So, for example, here we've
+
+
+got backlink from this site and it
+
+
+points to this site over here, right?
+
+
+And um basically we're just pointing to
+
+
+inner pages. So it's a mix of like
+
+
+homepage links, inner page links,
+
+
+landing page links, etc. So not really
+
+
+linking anywhere specific, but you can
+
+
+see that's helped the traffic a lot and
+
+
+that makes it much easier to rank
+
+
+because the more backlinks you have, the
+
+
+more authority you have, the more likely
+
+
+you are to rank. So if we have a look
+
+
+here, you know, really what changed
+
+
+everything? Well, we stopped targeting
+
+
+impossible keywords everyone fights
+
+
+server. We started using claw to find
+
+
+gaps competitive. We built real
+
+
+backlings from real websites as you've
+
+
+seen today already. And then you can see
+
+
+here that we've created content that
+
+
+actually answers what people search for.
+
+
+Spider Michelle says thanks cool will
+
+
+do. Awesome. And so if we have a look
+
+
+for example at this website and what
+
+
+we're doing here um we're going after
+
+
+like really niche keywords like really
+
+
+easy stuff to rank for that most people
+
+
+wouldn't. So for example, if you look at
+
+
+this like who is trying to rank for that
+
+
+keyword, right? But people are searching
+
+
+on Google and it does have um it does
+
+
+have search volume, right? But you can
+
+
+see here, for example, if we type in
+
+
+this on Google, well, we're going to
+
+
+rank in one way or another. So, for
+
+
+example, you can see we're ranking with
+
+
+our videos for this particular keyword.
+
+
+How do we drive um better rankings for
+
+
+our videos? Well, one of the methods we
+
+
+do is like we do embed these websites uh
+
+
+with our videos and that helps rank them
+
+
+as well. That helps drive more traffic
+
+
+to them. And then for example between
+
+
+the keyword research the content and
+
+
+everything else that we're doing we just
+
+
+have a much higher chance of ranking
+
+
+right um for example here if we look at
+
+
+this keyword let's have a look here um
+
+
+you can see us ranking on the first page
+
+
+of Google with two different channels
+
+
+from YouTube as you can see right and
+
+
+then if we actually scroll down you can
+
+
+see that AI overviews is sourcing us and
+
+
+our content for this particular keyword
+
+
+right um so we're going after like
+
+
+really niche stuff like really low
+
+
+competition stuff. I don't think many
+
+
+people are trying to rank for that
+
+
+keyword, although I can see a few
+
+
+YouTube videos trying to do it. But you
+
+
+can see here, for example, our page
+
+
+ranks number one. And then we have
+
+
+another page ranking number two, right?
+
+
+And so if you have a look at this
+
+
+keyword as well,
+
+
+um this page will ranking twice inside
+
+
+AI views for that particular keyword as
+
+
+well as with our video here and our
+
+
+video here, right? And so we can rank
+
+
+four times on the first page of Google.
+
+
+Pretty simple. And also, we've got
+
+
+another page ranking right here. here.
+
+
+And bear in mind, like this page was
+
+
+only created 20 hours ago if you have a
+
+
+look at that. And then we've got another
+
+
+page that's ranking for that particular
+
+
+keyword. What have we done? We just
+
+
+posted the caption plus a video and
+
+
+boom, it started ranking on Google. So
+
+
+there's many different ways. I think
+
+
+even this this is one of our Reddit
+
+
+threads as well. Look at that. It's
+
+
+crazy. It's crazy this stuff, right? So
+
+
+um one of the things that we do is we
+
+
+actually publish across multiple
+
+
+platforms using the content from our
+
+
+videos and then we we rank it multiple
+
+
+times. So we don't just get traffic to
+
+
+our website, we also get traffic to our
+
+
+videos from Google and we also get
+
+
+traffic to our Reddit and our LinkedIn
+
+
+as you can see. So that's basically how
+
+
+it works. That's the whole process. Now
+
+
+you know some people going to say SEO
+
+
+takes years to see results. The new
+
+
+belief and I think this is a much more
+
+
+power empowering belief which which is
+
+
+that low competition keywords can rank
+
+
+in weeks. And here's what nobody tells
+
+
+you about SEO, right? Um, so for
+
+
+example, the people who say it takes
+
+
+years of targeting keywords they have no
+
+
+business targeting, right? Um, it's like
+
+
+a white belt walking into a Muay Thai
+
+
+gym and trying to fight professional. Of
+
+
+course, you're going to lose, right? But
+
+
+what if you fought other white belts?
+
+
+Well, that's what low competition
+
+
+keywords are. They're winnable fights.
+
+
+Um, and when I started focusing on
+
+
+keywords the big competitors ignored, I
+
+
+started seeing rankings within weeks,
+
+
+not months, not years, weeks. Right? So,
+
+
+the game isn't about being the biggest.
+
+
+is about being strategic and that is
+
+
+what we are doing with our content with
+
+
+our backlink strategy and by posting
+
+
+across multiple platforms as well.
+
+
+Righty says Julian explain a little bit
+
+
+more about your 24-hour free offer that
+
+
+you listed. Not sure what that is. If
+
+
+you mean this one for the AR profit
+
+
+boardroom um this one right here, right?
+
+
+So basically you can see everything
+
+
+that's broken down, but if you're not
+
+
+sure about something in the offer, you
+
+
+know, feel free to ask me. But basically
+
+
+you get all of this stuff. Um, and this
+
+
+if you join the AR profit boardroom, you
+
+
+can see the numbers break down right
+
+
+here. Plus, if you sign up annually, you
+
+
+get all this stuff. Uh, so yeah, there
+
+
+you go. And then Jason McKay says, "I
+
+
+used to get loads of traffic to my Etsy
+
+
+store."
+
+
+And then
+
+
+um and eBay 150 orders a day. the last
+
+
+couple of years has gone to dust and I
+
+
+don't know why it seems like if you're
+
+
+not spending um well I mean like you can
+
+
+rank organically but the way that we do
+
+
+it is we don't just rank with one
+
+
+platform right because this is what
+
+
+happens so for example if you're
+
+
+creating content just on your website um
+
+
+and then you know something happens
+
+
+Google changes algorithm or whatever the
+
+
+problem with that the biggest issue with
+
+
+that is like you lose all your traffic
+
+
+overnight whereas if you look for
+
+
+example if our website got clapped and
+
+
+let's say for example Google decided we
+
+
+don't like Julian's website. We're going
+
+
+to mark him down, right? Well, no
+
+
+problem, mate. So, we got two YouTube
+
+
+channels ranking on first page, Google,
+
+
+and then we've also got our website
+
+
+ranking right here. We've got LinkedIn
+
+
+and we've got Reddit, right? And so,
+
+
+like in multiple different ways, from
+
+
+multiple different angles, and multiple
+
+
+different platforms, we're ranking our
+
+
+content. And so, you become like
+
+
+unstoppable. And that's the way that I
+
+
+like to look at AI SEO. That's that's
+
+
+one of the things that we're doing with
+
+
+this as well, but I'll come on to that
+
+
+later. Um, some people will think you
+
+
+need to be technical to do SEO.
+
+
+Actually, Claude AI handles all the
+
+
+technical stuff for you, right? And I'll
+
+
+show you how we do this. And it's super
+
+
+simple. When it comes to creating the
+
+
+content, I actually have a team that
+
+
+have never done SEO before and they get
+
+
+results better than 99% SEOs. Why is
+
+
+that? Is because they're using the
+
+
+systems that I've set up for them. What
+
+
+are the systems that we've set up? Let
+
+
+me show you. So, basically what they do
+
+
+is they take a piece of content like
+
+
+this one, right? Um, then they take the
+
+
+transcript from the video like this,
+
+
+right? We just get rid of this ad
+
+
+quickly. There we go. Get rid of the ad.
+
+
+And then they take the transcript like
+
+
+you see here. And all they do is they go
+
+
+up to Claude, they paste that in, they
+
+
+take um a prompt like this
+
+
+as you can see. So they take this
+
+
+prompt, they plug it into Claude and
+
+
+then they put the keyword here. So let's
+
+
+say for example the keyword for this was
+
+
+like notebook and Gemini, right?
+
+
+notebook LM
+
+
+and Gemini AI, right? Well, they would
+
+
+just plug it in like you see here and
+
+
+that would automate the content, right?
+
+
+And that's pretty much how we are
+
+
+generating the content for the website.
+
+
+Now, obviously, we proofread it, we
+
+
+check it, we have a checklist to make
+
+
+sure everything is working properly. But
+
+
+essentially, that's how easy it is to
+
+
+create content that actually ranks. And
+
+
+all you need to do is find the keywords.
+
+
+Now, how do you find the keywords? Well,
+
+
+we're going after like trending stuff,
+
+
+right? So, we're going after stuff that
+
+
+is is pretty much brand new. Like
+
+
+notebook alm. It literally just got
+
+
+released like last year. All these
+
+
+updates that are coming out are like
+
+
+brand brand new, right? Literally within
+
+
+24 hours we talk about an update, right?
+
+
+And so what you can do, I tend to find
+
+
+this actually works better than HS is
+
+
+you can go into Google here and you can
+
+
+just go in the autosuggest. And the
+
+
+reason that I recommend finding keywords
+
+
+from auto suggest is that you won't find
+
+
+the search volume or you won't find the
+
+
+accurate level of search volume for
+
+
+these keywords if you just go into
+
+
+hrefs, right? And so it's much better to
+
+
+go into autosuggest. And also the cool
+
+
+thing about that is when your team are
+
+
+doing research, you don't need to pay
+
+
+for any tools, right? It's it's free to
+
+
+do the keyword research and that sort of
+
+
+thing. Um, so yeah, it's pretty simple
+
+
+and easy. Now Jason says, can you use
+
+
+Gemini as a subscription for that as a
+
+
+fine subscription to all these AI? Yeah,
+
+
+I mean I mean honestly like if I had a
+
+
+choice between subscribing to Gemini and
+
+
+Claude, I'd probably go with Claude to
+
+
+be honest because I think the content is
+
+
+way way better. But if you took the
+
+
+exact same prompt like you can see here
+
+
+and then you went into Gemini, the
+
+
+content won't feel as humanized and
+
+
+sentient, but you can still use the same
+
+
+prompt and go into Gemini and you know,
+
+
+as long as you're not like, you know, an
+
+
+absolute perfectionist with your
+
+
+content, you can still generate content
+
+
+that actually ranks using this method,
+
+
+right? Um so yeah, it works really well.
+
+
+and inspired. Michelle says, "What is
+
+
+this GEO? Is that just a new word for
+
+
+SEO?" Yeah, I mean that's basically the
+
+
+same thing, right? So GEO is just a form
+
+
+of like ranking inside AI. But you know
+
+
+AI,
+
+
+nothing has really changed about SEO,
+
+
+right? So for example, if you have a
+
+
+look here and we went into Publexity and
+
+
+we were like, okay, notebook LM make
+
+
+money, something like that, right?
+
+
+um and you were looking inside there. I
+
+
+can actually see that my website here,
+
+
+here, here, here, here, um where else?
+
+
+And here are all ranking inside
+
+
+perplexity as well, right? And so I know
+
+
+like for this keyword for example, like
+
+
+I can rank my content inside there like
+
+
+eight times, right? And I actually find
+
+
+it's easier now to create more content
+
+
+across more platforms, which gives you
+
+
+more opportunities to rank inside AI
+
+
+search engines as well as Google, right?
+
+
+And that's just what we're doing. That's
+
+
+you can see our page is ranking right
+
+
+there. No one else will show you this
+
+
+stuff by the way. No, everyone is too
+
+
+scared to show you stuff like this
+
+
+because they're scared of like, you
+
+
+know, getting clapped or whatever. But I
+
+
+just want to share this stuff with you.
+
+
+And you can see here, for example, we've
+
+
+got a LinkedIn page ranking right there.
+
+
+We've got a website ranking inside
+
+
+Perplexity. We've got another website, a
+
+
+different website ranking inside
+
+
+Perplexity. How are we doing it? We're
+
+
+just doing exactly what I showed you,
+
+
+right? Um Ashton says, "Tip the morning,
+
+
+bro. Loving the content. Thank you very
+
+
+much. to wake up and provide free
+
+
+guidance. Always happy to help. It is a
+
+
+pleasure, Ashton. Thanks for joining
+
+
+again. But yeah, this is basically how
+
+
+it goes. So, if you want to use Gemini,
+
+
+you can see here that you can generate
+
+
+the content with Gemini as well.
+
+
+Honestly, it's not bad, right? Like,
+
+
+it's not that bad. It's it's going to be
+
+
+better than chat. Um, anyway, and you
+
+
+can see here, for example, it's it's
+
+
+created this content and the content
+
+
+feels fairly humanized, right? You would
+
+
+just edit it before you publish it, but
+
+
+if you don't want to use Claude, then
+
+
+you can use Gemini, no issue, right? No
+
+
+problem at all. Um, and so that's
+
+
+basically how we're getting results with
+
+
+this. So the other thing that I'm going
+
+
+to say is like, you know, some people
+
+
+say all the good keywords are taken,
+
+
+right? But the new belief really is like
+
+
+keywords appear every single day. New
+
+
+keywords appear every single day. Think
+
+
+about this, right? AI didn't exist as a
+
+
+mainstream topic three years ago. Now
+
+
+there are millions of searches around
+
+
+it. New industries pop up. New problems
+
+
+emerge. New solutions get created. So
+
+
+every single day there are fresh
+
+
+keywords with zero competition because
+
+
+nobody has written them about right um
+
+
+no one has written about them yet and so
+
+
+you can use claude or you can use Google
+
+
+for this and it's like having a scout
+
+
+that never sleeps right other people say
+
+
+well link building is spammy and risky
+
+
+really the new belief here the
+
+
+empowering belief is like strategic
+
+
+outreach builds real relationships and
+
+
+real rankings right so bad link building
+
+
+is spammy good link building is just
+
+
+networking think about this right when I
+
+
+speak at events like uh Vietnam SEO
+
+
+mastery I did Chang my SEO. I meet
+
+
+people. We exchange ideas. Sometimes we
+
+
+collaborate. That is link building
+
+
+except you do it online, right? So you
+
+
+reach out to real websites. You offer
+
+
+real value. They link to you because it
+
+
+helps their readers. No spam, no tricks,
+
+
+no risk, right? And so my team of 50
+
+
+people or the agency does this every
+
+
+single day. And we've we've never had a
+
+
+penalty, right? This is the methods we
+
+
+use. So I've shown you exactly how to
+
+
+implement this. Um I've talked about the
+
+
+keywords, content, and backlink strategy
+
+
+that we've used. And I want to give you
+
+
+a 30-day plan for actually implementing
+
+
+it. This is exactly what to do from day
+
+
+one to day 30 to start getting results.
+
+
+And I've shown you all the proof that
+
+
+this actually works. You know, ranking
+
+
+inside Perplexity and also ranking
+
+
+inside Google like what, multiple times,
+
+
+sometimes 10 times on the first page of
+
+
+Google for the same keyword. And so,
+
+
+we've got a 30-day plan here that you
+
+
+can actually copy and steal from me if
+
+
+you'd like to. And this is exactly how
+
+
+we get results like you can see, right?
+
+
+And so, just to recap, what have we
+
+
+done? We've given you all the resources,
+
+
+right, for using this. I've shown you
+
+
+proof that actually works. As you can
+
+
+see right here, we have talked you
+
+
+through the Goldie AI SEO accelerator
+
+
+framework, right? So, core AI for
+
+
+content creation, low competition
+
+
+keyword research, and strategic link
+
+
+building. Um, I've walked through some
+
+
+of the beliefs that might be holding you
+
+
+back from getting results with SEO
+
+
+because sometimes it's not a skill set
+
+
+problem, it's a belief problem, right?
+
+
+And sometimes when you make those skill
+
+
+uh those belief changes, your skill set
+
+
+suddenly changes as well, right? And
+
+
+then I've also given you a 30-day AI
+
+
+accelerator plan so you can get results
+
+
+with this stuff. And these have prompts
+
+
+that you can implement every single day
+
+
+for every day to get results with this
+
+
+stuff. All right. Now, the final thing
+
+
+that I want to say as well is that we've
+
+
+actually created a list of 100 AI SEO
+
+
+prompts that you can get for pretty much
+
+
+every element of AI. Right. Um,
+
+
+inspired. Michelle says, "Is it just
+
+
+worth it to use Gemini or Claude and do
+
+
+it myself?" Yeah. So, I would recommend
+
+
+that you actually use Claude if you can.
+
+
+Right. Claude is by far the best. It
+
+
+creates better content than I can write
+
+
+to put it in perspective and I've been
+
+
+doing copyrightiting for about 10 years.
+
+
+So, I would definitely recommend going
+
+
+with Claude if you can, right? If you
+
+
+want to use Gemini, that is totally
+
+
+fine. Um, and Jason says, "I find that
+
+
+when I'm subscribing to something like
+
+
+you have, it becomes overwhelming as
+
+
+there's many videos you seem to get
+
+
+dragged all over the place. How do I
+
+
+resolve that?" So, if you're in the AR
+
+
+profit boardroom, there's two ways you
+
+
+can resolve that. Number one, inside the
+
+
+AI profit boardroom here, we actually
+
+
+have a focus protocol, right? So, if you
+
+
+go to the start here post inside the AI
+
+
+profit boardroom, this is designed to
+
+
+remove overwhelm. So, for example, you
+
+
+can see here we have the feeling
+
+
+overwhelmed section inside the AI profit
+
+
+boardroom. This is my AI automation
+
+
+community and you follow this and you
+
+
+will never worry about overwhelm again.
+
+
+Right? So if you feel overwhelmed, if
+
+
+you want to cut out the noise, if you
+
+
+want something the step by step with a
+
+
+sixeek course, use the link above. It's
+
+
+a drip fe fed week by week so you don't
+
+
+get overwhelmed, right? And this way
+
+
+everything is actionable. Okay? And if
+
+
+you're still overwhelmed, use the Julian
+
+
+Goldie Ultimate Focus manual. And this
+
+
+manual will help you just avoid
+
+
+overwhelm and avoid all the problems
+
+
+that come with AI. And then the other
+
+
+thing that we do to just cut out the
+
+
+noise and help you save time is that we
+
+
+have weekly updates inside the air
+
+
+profit boarding and all you need to do
+
+
+is check that once a week. Like you can
+
+
+turn off all your notifications. You
+
+
+don't need to check YouTube. You don't
+
+
+need to check check Twitter. Just check
+
+
+out the weekly updates inside the AR
+
+
+profitable. And that's two ways that you
+
+
+can cut out overwhelm. So just to be
+
+
+clear here and we've actually got a link
+
+
+right here inside the air profitable to
+
+
+the focus manual if you're feeling
+
+
+overwhelmed, right? um because it's
+
+
+something that everyone in AI feels. So
+
+
+yeah, hope that helps Jason. So thanks
+
+
+so much for watching. I've given you
+
+
+access to all the frameworks from today
+
+
+inside the AI success lab link in the
+
+
+comments description. This connects you
+
+
+with 42,700
+
+
+people. As you can see, if you go to the
+
+
+classroom here and then you go to the AI
+
+
+SEO section, you can get all the video
+
+
+notes from today. And then additionally,
+
+
+you get all the links, you get the full
+
+
+guide on the framework, you get 100
+
+
+prompts, all the limiting beliefs to
+
+
+break through, and then also a 30-day
+
+
+plan for really implementing that. So,
+
+
+yeah, feel free to get that. Michelle
+
+
+and Jason, I hope that you're in the AR
+
+
+profit boardroom and that you've used
+
+
+the focus manual. If you haven't, check
+
+
+it out. If you can't find it, DM me. And
+
+
+then just turn off all your
+
+
+notifications. Don't check YouTube.
+
+
+Don't check check Twitter. Don't check
+
+
+any other social media. and follow the
+
+
+plan inside the focus protocol and then
+
+
+just check my weekly updates once a week
+
+
+and you're good to go. So, thanks so
+
+
+much for watching. Appreciate as always
+
+
+and I'll see you on the next one. Cheers
+
+
+and
+
+
+Inspire. Michelle says, "Thanks. I'd
+
+
+wake up for your lives. I learned so
+
+
+much and don't feel stupid when I ask
+
+
+questions." Always always happy tell
+
+
+and uh yeah always happy to help like no
+
+
+there's no stupid questions like you
+
+
+know every question is good and then
+
+
+Wily says see the value of the off well
+
+
+you know it's It's one of those like,
+
+
+you know, when you're ready to come,
+
+
+we're ready for you. So, feel free. Um,
+
+
+so that's it.
+
+
+Video
+
+
+AI SEO is the new way to rank number one
+
+
+in AI search engines. Not Google not
+
+
+being AI search engines like Chat GPT,
+
+
+Plexity, Claude, and AI overviews and
+
+
+the ones everyone is now using instead
+
+
+of Google. And here's the crazy part, no
+
+
+one is talking about this yet. So, you
+
+
+know, over the next few minutes, I'm
+
+
+going to show you exactly how I use
+
+
+YouTube videos to rank inside AI search
+
+
+results. You can see an example here.
+
+
+So, we're ranking on the first page of
+
+
+Google one, two, three times on Google
+
+
+for that particular keyword. And you can
+
+
+see how easy it is to to really pull
+
+
+your videos in and get results with
+
+
+this. The powerful thing about videos is
+
+
+they can rank inside Google, but they
+
+
+can also rank inside AIO views. So, for
+
+
+example, if we type in notebook LM
+
+
+update here, it pulls in an AIO view.
+
+
+And who does it link to? Well, it links
+
+
+to Google and it also links to my videos
+
+
+as well, right? So videos are really
+
+
+powerful for ranking with SEO. You can
+
+
+also see me ranking once there, once
+
+
+there as well, and then also on the
+
+
+first page of Google as well, right? And
+
+
+so this is a powerful way to start
+
+
+getting uh ranking really quickly. Okay?
+
+
+And what I'm going to show you today
+
+
+um is basically how you can do this
+
+
+without being on camera, without
+
+
+spending thousands on video production,
+
+
+without needing any technical skills.
+
+
+And I will show you how to automate AI
+
+
+avatar videos that actually rank. Videos
+
+
+that show up when someone asks Chat
+
+
+cheap or Plexi a question about your
+
+
+niche. And think about this for a
+
+
+second, right? Billions of searches are
+
+
+happening every single day, right? On AI
+
+
+platforms, right? Um, and your video
+
+
+could be the one that gets recommended
+
+
+not because you paid for ads, but
+
+
+because not because you got lucky with
+
+
+the algorithm, but because you
+
+
+understood how AI search engines
+
+
+actually find and recommend content. So,
+
+
+I'm going to walk you through my exact
+
+
+system, the free tools, the prompts, the
+
+
+30-day plan to get your first videos
+
+
+ranking in AI search, and you will see
+
+
+everything live on screen, just the
+
+
+actual process I use so that by the end
+
+
+of this, you have a complete framework
+
+
+that you can copy and steal from me.
+
+
+Whether you run a service business, sell
+
+
+products, you have an agency, or you
+
+
+just want more eyeballs on your content,
+
+
+this works even if you've never made a
+
+
+video before. Let's get straight into
+
+
+it. So the method that we're actually
+
+
+going to be using today is something
+
+
+called the video AI domination
+
+
+framework. Okay. And one thing to note
+
+
+here is like AI search engines, they
+
+
+don't work like Google, right? They
+
+
+don't just look at keywords and
+
+
+backlinks. They understand context,
+
+
+relevance, authority in a completely
+
+
+different way. So when someone asks Chat
+
+
+GPT a question, it pulls from sources it
+
+
+trusts. Now YouTube is one of those
+
+
+sources. Perplexi actively searches
+
+
+YouTube for answers. Let me show you an
+
+
+example of this. So we go into
+
+
+perplexity here um and we'll put like
+
+
+notebook AI updates something like that.
+
+
+What you can see here is that it
+
+
+actually sources um updates from
+
+
+YouTube. Right? So if we look at the
+
+
+reviewed sources here, you can see that
+
+
+it's pulled in uh three different videos
+
+
+from YouTube inside Perplexity. Right?
+
+
+So if we have a look here, you've got
+
+
+this video, right? And this is a video
+
+
+from Julian Goldie SEO as you can see.
+
+
+So that's my channel right there. If we
+
+
+go over to this video, you can also see
+
+
+that's another video from us as well,
+
+
+ranking inside Plexity, right? And so
+
+
+we're ranking on Google and we're also
+
+
+ranking inside perplexity using this
+
+
+method. And Claude references video
+
+
+content in its responses, too. So this
+
+
+is a massive shift. The game has changed
+
+
+and most people haven't caught on yet.
+
+
+Now, why does video crush text AI
+
+
+search? Well, AI systems love video
+
+
+content for three reasons. Number one,
+
+
+video has multiple signals. You know,
+
+
+it's got audio, visual transcripts,
+
+
+engagement metrics. It has more data
+
+
+points for AI to understand your
+
+
+content. Second, video builds trust
+
+
+faster. So, AI systems recognize that
+
+
+video creators put more effort in and
+
+
+that signals authority. Number three,
+
+
+video gets cited more. So, when AI needs
+
+
+to recommend a source, video feels more
+
+
+complete than a blog post, right? And
+
+
+you know, bear in mind, AI can generate
+
+
+a blog post at any time. doesn't really
+
+
+need to reference blog posts, but it
+
+
+doesn't create like long videos with
+
+
+interesting case studies, right? And so,
+
+
+one of the things people going to say
+
+
+like is I need expensive equipment to
+
+
+make good videos, but actually AI avatar
+
+
+videos create professional videos for
+
+
+free. You know, you can actually go on
+
+
+to something like notebook and you can
+
+
+generate videos for free using this
+
+
+method and then rank them on Google,
+
+
+which then in turn ranks inside AI
+
+
+search engines and other places. Right?
+
+
+So for example, if we have a look here,
+
+
+we've got the video on the right hand
+
+
+side. This was actually from a video I
+
+
+generated before earlier today. Um, this
+
+
+is actually AI narrated and it's a full
+
+
+long video like it's like 6 minutes 26,
+
+
+right? 26 seconds. And you can see the
+
+
+this runs people through the topic that
+
+
+we're trying to rank for, right? So how
+
+
+to watch football like a scout. And so
+
+
+it creates the design, it narrates a
+
+
+video, it generates everything, and all
+
+
+we need to do is pull in the sources
+
+
+that we want to to reference. And then
+
+
+we can easily download this, as you can
+
+
+see, and we're good to go. You could
+
+
+upload that to YouTube. The other method
+
+
+that you can see is that on our YouTube
+
+
+channel, for example, if we check out
+
+
+this YouTube channel, we quite often use
+
+
+AI avatar videos inside our content.
+
+
+Right now, how do you do that? Well, we
+
+
+actually have a full method inside the
+
+
+AI profit boardroom that shows you
+
+
+exactly how to do this in the AI avatar
+
+
+video section. If you go to the
+
+
+classroom here inside the profit
+
+
+boardroom, link in the comments
+
+
+description, go to the playbook and then
+
+
+scroll down to the AI avatar video
+
+
+section and you can find the SP right
+
+
+there. Okay, so if you if you want to
+
+
+learn our process for doing this, you
+
+
+can check it out inside the AR profit
+
+
+boardroom. But it's quite easy to
+
+
+automate videos. Again, you can do it
+
+
+for free with notebook. I've already
+
+
+shown you how to do that and so you can
+
+
+create professional videos for free, you
+
+
+know. Um, so it's a really powerful way.
+
+
+Now, some people say YouTube is too
+
+
+competitive to start right now. Well, AI
+
+
+search is a new platform with almost
+
+
+zero competition. You know, when I
+
+
+started out in SEO, everyone said Google
+
+
+was too competitive, too many websites,
+
+
+too many established players. I ignored
+
+
+them, built an agency, helped my mom
+
+
+retire, and now I reach over 100 million
+
+
+people per year across all platforms.
+
+
+Right? So, the lesson is competition is
+
+
+not your problem. Timing is your
+
+
+opportunity. AI search is where YouTube
+
+
+was 10 years ago. It's wide open, right?
+
+
+And waiting for someone to claim the
+
+
+space. And that someone could be you,
+
+
+right? Also, some people will say like
+
+
+video SEO takes months to see results.
+
+
+But the new belief really is that AI
+
+
+search can surface your content within
+
+
+days, right? So, if we go back here and
+
+
+we look at this content, guess what's
+
+
+ranking number one for this particular
+
+
+keyword? What is my video right here?
+
+
+When was this video created? 4 hours
+
+
+ago, as you can see right there. Right?
+
+
+And so this content ranks very very
+
+
+quickly indeed and that was within 4
+
+
+hours. So traditional SEO is very slow,
+
+
+right? And I know this better than
+
+
+anyone. I run an SEO agency. We tell
+
+
+clients to expect 90 days minimum. But
+
+
+AI search is a different game. You know,
+
+
+complexity updates in real time. Chat
+
+
+GPT pulls in from recent sources and
+
+
+your video could get cited within days
+
+
+of publishing. And this is why I block
+
+
+like 100 minutes plus per day every day
+
+
+to focus on the biggest constraint in my
+
+
+business. And right now that constraint
+
+
+for most people is not being visible in
+
+
+AI search. Other people say, "Well, I
+
+
+need thousands of subscribers to rank,
+
+
+but AI search cares about content
+
+
+quality, not subscriber count." So, you
+
+
+know, I have 300,000 plus subscribers on
+
+
+YouTube. And here's what I noticed is
+
+
+like some of my newer videos with fewer
+
+
+views actually get cited by AI more than
+
+
+my viral ones, right? And why is that?
+
+
+It's because AI looks at relevance and
+
+
+quality, not vanity metrics. So, you
+
+
+know, a video with 500 views that
+
+
+perfectly answers a specific question
+
+
+will beat a video with 500,000 views
+
+
+that's too broad. And this is great news
+
+
+for you so you can compete from day one.
+
+
+All right, so let's talk about a 90-day
+
+
+framework in terms of how you can
+
+
+implement this. Well, you want to start
+
+
+finding questions that people are
+
+
+looking for. I actually got a prompt to
+
+
+automate that. Well, the other thing you
+
+
+can do is you can go into Google and you
+
+
+can just look through the auto suggests
+
+
+and see what people are searching around
+
+
+your niche. Right? So, if I'm in the AI
+
+
+niche and I'm trying to create content
+
+
+around notebookm, it'll be very easy to
+
+
+find like all these different updates
+
+
+around it. All right. Um, and that's how
+
+
+you do the keyword research or what you
+
+
+can do is you can go to chat GPT.
+
+
+You can plug in a keyword here and then
+
+
+you can go from there. Um, Wilty says,
+
+
+"What can the AI money lab help me do
+
+
+until I'm ready for the AI profit lab?"
+
+
+Yeah. So, there I mean like inside the
+
+
+AI success lab, right? If you go here,
+
+
+what you're going to find is like a
+
+
+number one, you get a community of
+
+
+42,000 people that you just connect with
+
+
+instantly. So, you can post in the
+
+
+community, ask for help and support. You
+
+
+also get access to our free AI
+
+
+automation master classes like you see
+
+
+on pretty much every single AI
+
+
+technology out there. And also, if you
+
+
+check out this section, we update it
+
+
+daily with the new updates. So,
+
+
+everything you need to know about AI is
+
+
+inside this section. We have a full
+
+
+section on what you can see here, right?
+
+
+So how to make money with AI and then
+
+
+also inside the classroom you can see
+
+
+that we have a full section on AI SEO as
+
+
+well. So everything you need to succeed
+
+
+with AI is inside this community and
+
+
+it's completely free link in the
+
+
+comments description. So if we go back
+
+
+to chat sheet now we can say at a market
+
+
+researcher right um put your niche in
+
+
+there. So we're going to put in for
+
+
+example our SEO and then we can start
+
+
+publishing this and just getting some
+
+
+keywords right. Wilty says looks like
+
+
+great content. Thanks very much. And
+
+
+then you can see it asks uh a bunch of
+
+
+it's it finds a bunch of keywords you
+
+
+could potentially rank for that are
+
+
+super specific. I would almost say
+
+
+they're too longtail but if you want to
+
+
+start somewhere you can start there. All
+
+
+right. And then it if you want to
+
+
+generate the videos well you can use hey
+
+
+genen or you can use notebook LM for
+
+
+ranking and you just make sure on the
+
+
+content itself you know for example if
+
+
+we have a look at Julian Goldie agency
+
+
+that you include the keywords inside the
+
+
+content right so you can see here
+
+
+keyword right there right frontloaded
+
+
+inside the title keyword right there
+
+
+boom here we go right if we actually
+
+
+type that keyword on Google let's have a
+
+
+look here so how to do this we'll see
+
+
+whether it ranks
+
+
+Um and let's see what we got here.
+
+
+So yeah, you can see that my LinkedIn
+
+
+article is ranking for that keyword um
+
+
+on the first page of Google along with
+
+
+that page as well, right? And so like
+
+
+and bear in mind like these pages are
+
+
+created from the video content itself.
+
+
+So if we have a look at this page, you
+
+
+can see our video is embedded on the
+
+
+page. So it's pretty easy to create the
+
+
+content and then just rank it either
+
+
+with your blog or with your video as
+
+
+well. That's the other cool thing is
+
+
+like you can create blogs from the
+
+
+videos and then rank those as well. So
+
+
+that's basically it. That's the whole
+
+
+process of doing this, how to implement
+
+
+it. I've talked about the 30-day
+
+
+framework. Um, and you know the old way
+
+
+versus the new way. The old way was like
+
+
+spent thousands of camera equipment and
+
+
+lighting. The new way is you can use
+
+
+free AI avatar videos to create
+
+
+professional videos instantly. The old
+
+
+way was you need to look good on camera
+
+
+and be comfortable speaking. The new way
+
+
+is AI avatars handle the delivery. You
+
+
+just write the script. The old way was
+
+
+like hours of editing and
+
+
+post-production. The new way is
+
+
+generating videos um that come ready to
+
+
+upload. And then when it comes to
+
+
+ranking inside Google or other AI search
+
+
+engines, right? Well, the old way was
+
+
+like waiting like 6 to 12 months for
+
+
+Google to rank your content. The new way
+
+
+is like AI search can surface your video
+
+
+within days as I've shown you today.
+
+
+Right? The old way was competing against
+
+
+millions of websites for keywords. The
+
+
+new way AI search is almost zero
+
+
+competition right now. The old way was
+
+
+needing expensive backlinks to rank. The
+
+
+new way is AI search values content
+
+
+quality and link metrics. The old way
+
+
+was fighting algorithm changes to tank
+
+
+your websites overnight. And the new way
+
+
+is like AI searches uh focus on
+
+
+relevance, not gaming the system. So you
+
+
+got all the strategies, all the
+
+
+processes, all the systems from today,
+
+
+the 30-day plan and how to implement
+
+
+this yourself. If you want us to do SEO
+
+
+for you, um we actually have an offer of
+
+
+a free SEO strategy session. So you can
+
+
+book in a free SEO strategy session link
+
+
+in the comments description. Or if you
+
+
+don't even want to jump on a call, you
+
+
+just want to order straight away and get
+
+
+SEO services for your website, you can
+
+
+order via the backlink portal as you can
+
+
+see right here. Just order instantly
+
+
+online. Also, if you want to get all the
+
+
+video notes from today is inside the AI
+
+
+success lab. This is completely free and
+
+
+it shows you exactly how to do AI SEO
+
+
+for your website. As you can see, breaks
+
+
+down all the best ways to use AI um
+
+
+including the video notes from today. So
+
+
+feel free to get that link in the
+
+
+comments and description.
+
+
+And thanks for watching. I will see you
+
+
+on the next one. Cheers. Bye-bye.

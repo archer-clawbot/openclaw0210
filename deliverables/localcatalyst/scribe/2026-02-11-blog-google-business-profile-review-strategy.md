@@ -3,8 +3,8 @@
 **Deliverable:** Blog post (GBP Management educational content)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/google-business-profile-review-strategy/
-**Parent Hub:** /google-business-profile-management/
+**URL:** /learn/google-business-profile-review-strategy/
+**Parent Hub:** /services/gbp-optimization/
 **Primary Keyword:** Google reviews strategy
 **Secondary Keywords:** review generation strategy, Google review management, review response templates, review velocity, local business reviews
 **Title Tag:** Google Reviews Strategy for Local Business | LocalCatalyst.ai
@@ -14,7 +14,7 @@
 
 ---
 
-Google reviews are the public scorecard of your business. They influence whether a potential customer clicks on your listing, calls your office, or walks through your door. More than that, reviews are a confirmed ranking factor in Google's local search algorithm. A strategic approach to reviews is not optional if you are serious about [Google Business Profile management](/google-business-profile-management/) and local visibility.
+Google reviews are the public scorecard of your business. They influence whether a potential customer clicks on your listing, calls your office, or walks through your door. More than that, reviews are a confirmed ranking factor in Google's local search algorithm. A strategic approach to reviews is not optional if you are serious about [Google Business Profile management](/services/gbp-optimization/) and local visibility.
 
 Yet most businesses treat reviews passively. They hope satisfied customers leave reviews, cringe when negative ones appear, and never build a systematic process around either. This guide provides a comprehensive framework for generating, managing, and leveraging Google reviews to grow your local business.
 
@@ -111,7 +111,7 @@ Google's algorithm favors consistent review accumulation over sudden bursts. A b
 
 ### Monitoring Velocity
 
-Track your monthly review count as a key performance indicator. Include it in your monthly reporting alongside other [GBP insights and analytics](/blog/gbp-insights-analytics/). If velocity drops below your target for two consecutive months, diagnose the breakdown in your system.
+Track your monthly review count as a key performance indicator. Include it in your monthly reporting alongside other [GBP insights and analytics](/learn/gbp-insights-analytics/). If velocity drops below your target for two consecutive months, diagnose the breakdown in your system.
 
 ## Responding to Reviews: Templates and Best Practices
 
@@ -185,7 +185,7 @@ Review gating, the practice of first asking customers about their experience and
 
 A strong review profile has applications beyond search visibility.
 
-**Website social proof.** Embed your best reviews on key pages of your website, particularly service pages and your homepage. This reinforces credibility for visitors who arrive through channels other than Google Maps. Ensure your [website design supports SEO](/seo-website-design/) goals while showcasing these trust signals.
+**Website social proof.** Embed your best reviews on key pages of your website, particularly service pages and your homepage. This reinforces credibility for visitors who arrive through channels other than Google Maps. Ensure your [website design supports SEO](/services/website-build/) goals while showcasing these trust signals.
 
 **Sales enablement.** Reference specific reviews in proposals, sales calls, and marketing materials. "Here is what a similar client said about working with us" is powerful validation.
 
@@ -213,4 +213,10 @@ Document the suspected fake reviews with screenshots and any evidence that the r
 
 ## Start Building Your Review Engine
 
-A strong review strategy compounds over time. Every review you generate today builds the foundation for your local search visibility tomorrow. If you want a professional assessment of your current review profile and a customized strategy for your business, [contact our team](/contact/) or [Order an SEO Audit](/services/seo-audit/) to get started.
+A strong review strategy compounds over time. Every review you generate today builds the foundation for your local search visibility tomorrow.
+
+---
+
+**Ready to dominate the local map pack?** [Order GBP Optimization ($297)](/services/gbp-optimization/)
+
+---

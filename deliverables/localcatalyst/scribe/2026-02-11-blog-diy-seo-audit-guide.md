@@ -3,10 +3,10 @@
 **Deliverable:** Hub blog post
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/diy-seo-audit-guide/
-**Parent Hub:** /seo-audit-services/
+**URL:** /learn/diy-seo-audit-guide/
+**Parent Hub:** /services/seo-audit/
 **Primary Keyword:** DIY SEO audit guide
-**Secondary Keywords:** how to do an SEO audit yourself, SEO audit step by step, free SEO audit guide, self SEO audit, website audit tutorial, do it yourself SEO audit
+**Secondary Keywords:** how to do an SEO audit yourself, SEO audit step by step, SEO audit guide, self SEO audit, website audit tutorial, do it yourself SEO audit
 **Title Tag:** DIY SEO Audit Guide: Step-by-Step (2026)
 **Meta Description:** Follow this step-by-step DIY SEO audit guide to evaluate your website's technical health, content, backlinks, and competitive positioning using free tools.
 **H1:** DIY SEO Audit Guide: How to Evaluate Your Website Step by Step
@@ -16,7 +16,7 @@
 
 ## DIY SEO Audit Guide: How to Evaluate Your Website Step by Step
 
-You do not need a five-figure agency retainer to understand what is holding your website back in search results. A DIY SEO audit using free and low-cost tools can uncover the technical problems, content gaps, and backlink weaknesses that suppress your rankings. While professional [SEO audit services](/seo-audit-services/) add strategic depth and competitive analysis that self-audits cannot fully replicate, working through this guide yourself builds foundational SEO knowledge and identifies the most obvious opportunities for improvement.
+You do not need a five-figure agency retainer to understand what is holding your website back in search results. A DIY SEO audit using free and low-cost tools can uncover the technical problems, content gaps, and backlink weaknesses that suppress your rankings. While professional [SEO audit services](/services/seo-audit/) add strategic depth and competitive analysis that self-audits cannot fully replicate, working through this guide yourself builds foundational SEO knowledge and identifies the most obvious opportunities for improvement.
 
 This guide walks through every step of a self-conducted SEO audit, organized in the order you should complete them. Each section lists the specific tools to use, what to look for, and how to interpret your findings.
 
@@ -246,7 +246,7 @@ Use Ahrefs Webmaster Tools (free) or Google Search Console's "Links" report to e
 
 **Domain Authority Distribution:** What is the authority range of your linking domains? A healthy profile includes links from a range of authority levels, with some high-authority links from trusted sources.
 
-**Anchor Text Distribution:** Export your anchor text data and categorize each anchor as branded, exact match, partial match, generic, naked URL, or topical. If exact-match keyword anchors exceed 10-15% of your total, you may face over-optimization risk. Understanding proper [anchor text optimization](/blog/anchor-text-optimization/) helps you evaluate whether your distribution looks natural.
+**Anchor Text Distribution:** Export your anchor text data and categorize each anchor as branded, exact match, partial match, generic, naked URL, or topical. If exact-match keyword anchors exceed 10-15% of your total, you may face over-optimization risk. Understanding proper [anchor text optimization](/learn/anchor-text-optimization/) helps you evaluate whether your distribution looks natural.
 
 **Toxic Link Identification:** Look for links from:
 - Domains with extremely low authority and spammy content
@@ -260,7 +260,7 @@ Use Ahrefs Webmaster Tools (free) or Google Search Console's "Links" report to e
 ### Taking Action on Findings
 
 - **For toxic links:** If you identify genuinely harmful links that you cannot get removed through outreach, submit a disavow file through Google Search Console. Be conservative. Only disavow links that are clearly toxic, not merely low-authority.
-- **For link gaps:** If competitors have significantly more referring domains, link building needs to be part of your SEO strategy. Investigate [how to earn local backlinks](/blog/how-to-earn-local-backlinks/) as a starting point.
+- **For link gaps:** If competitors have significantly more referring domains, link building needs to be part of your SEO strategy. Investigate [how to earn local backlinks](/learn/how-to-earn-local-backlinks/) as a starting point.
 - **For anchor text issues:** If your distribution is skewed toward exact-match anchors, focus future link building on branded, generic, and topical anchor text to dilute the over-optimized ratio.
 
 ---

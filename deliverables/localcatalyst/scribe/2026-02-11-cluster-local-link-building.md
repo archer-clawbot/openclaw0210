@@ -4,14 +4,17 @@
 **Deliverable:** Service sub-page (cluster)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** `/link-building-services/local-link-building/`
-**Parent Hub:** `/link-building-services/`
+**URL:** `/managed/local-link-building/`
+**Parent Hub:** `/managed/`
+**Title Tag:** Local Link Building — Community Authority | LocalCatalyst
+**Meta Description:** Build local authority through chambers, sponsorships, and media. Our local link building earns geographic relevance signals that boost rankings.
+**H1:** Why Local Links Carry Extra Weight for Local Businesses
 **Primary Keyword:** local link building
 **Word Count Target:** 2,000
 
 ---
 
-> **Home > [Link Building Services](/link-building-services/) > Local Link Building**
+> **Home > [Link Building Services](/managed/) > Local Link Building**
 
 ## Why Local Links Carry Extra Weight for Local Businesses
 
@@ -19,7 +22,7 @@ Not all backlinks are created equal. For local businesses competing in local sea
 
 Google's local search algorithm doesn't just evaluate authority — it evaluates local relevance. When a locally trusted source links to your site, it tells Google two things simultaneously: "This business is authoritative" and "This business is a legitimate, established part of this community." That dual signal is what makes local links the highest-value targets for any business competing in the Map Pack and local organic results.
 
-At LocalCatalyst, local link building is a core pillar of our [link building services](/link-building-services/). We don't just earn backlinks — we earn backlinks from the sources that Google weighs most heavily for local rankings. This approach is integrated into our broader [local SEO methodology](/local-seo-services/) because local authority and local visibility are inseparable.
+At LocalCatalyst, local link building is a core pillar of our [link building services](/managed/). We don't just earn backlinks — we earn backlinks from the sources that Google weighs most heavily for local rankings. This approach is integrated into our broader [local SEO methodology](/services/) because local authority and local visibility are inseparable.
 
 **[Order Your SEO Audit](/services/seo-audit/)** — We'll analyze your local backlink profile and show you exactly how it compares to the businesses ranking above you.
 
@@ -76,7 +79,7 @@ Local news outlets, community magazines, and regional publications are link gold
 
 Local media links typically carry DR 40-70+ and send highly qualified referral traffic — people in your community reading about your business in a trusted local source.
 
-This approach overlaps with our [digital PR services](/link-building-services/digital-pr/), which extends media outreach beyond local publications to regional and national outlets.
+This approach overlaps with our [digital PR services](/managed/digital-pr/), which extends media outreach beyond local publications to regional and national outlets.
 
 ### Local Event Sponsorships
 
@@ -207,7 +210,7 @@ We measure local link building performance with precision:
 - **Relationship depth** (one-time link vs. ongoing partnership)
 - **Cost per link** across different strategies
 
-You get all of this in your monthly link building report alongside your broader [SEO performance metrics](/local-seo-services/).
+You get all of this in your monthly link building report alongside your broader [SEO performance metrics](/services/).
 
 ---
 
@@ -246,11 +249,11 @@ The key insight: local link building has a compounding effect. As your community
 
 ### Are local links really more valuable than high-DR national links?
 
-For local rankings, yes — in many cases, a relevant local link with DR 35 outperforms a generic national link with DR 60. Google's local algorithm weighs geographic relevance heavily. That said, you want both. Our complete [link building strategy](/link-building-services/) includes local links for geographic authority and broader links (via [guest posting](/link-building-services/guest-posting/) and [digital PR](/link-building-services/digital-pr/)) for overall domain authority.
+For local rankings, yes — in many cases, a relevant local link with DR 35 outperforms a generic national link with DR 60. Google's local algorithm weighs geographic relevance heavily. That said, you want both. Our complete [link building strategy](/managed/) includes local links for geographic authority and broader links (via [guest posting](/managed/guest-posting/) and [digital PR](/managed/digital-pr/)) for overall domain authority.
 
 ### How much does local link building cost?
 
-The primary costs are sponsorships and memberships (typically $200-$2,000 per opportunity) plus our service fee for research, outreach, and management. A typical local link building campaign might involve $500-$1,500/month in sponsorship costs alongside our management fee. The ROI is strong — a single high-authority local link can contribute to ranking improvements worth thousands in equivalent ad spend.
+The primary costs are sponsorships and memberships (typically $200-$2,000 per opportunity) plus our service fee for research, outreach, and management. The ROI is strong — a single high-authority local link can contribute to ranking improvements worth thousands in equivalent ad spend. For ongoing link building, [explore our managed plans](/managed/).
 
 ### We're in a small town. Are there enough local link opportunities?
 
@@ -258,7 +261,7 @@ There are always more than you think. Even small towns have chambers of commerce
 
 ### How do local links help with Map Pack rankings specifically?
 
-Local links signal community authority to Google's local algorithm. When Google evaluates which businesses to show in the Map Pack for a query, it considers which businesses are most trusted and prominent in the local area. Links from local organizations, media, and community institutions are the strongest signals of local prominence that exist outside of your Google Business Profile itself. They directly support the [GBP optimization work](/google-business-profile-management/) we do for our clients.
+Local links signal community authority to Google's local algorithm. When Google evaluates which businesses to show in the Map Pack for a query, it considers which businesses are most trusted and prominent in the local area. Links from local organizations, media, and community institutions are the strongest signals of local prominence that exist outside of your Google Business Profile itself. They directly support the [GBP optimization work](/services/gbp-optimization/) we do for our clients.
 
 ### Can we pursue local link building ourselves?
 

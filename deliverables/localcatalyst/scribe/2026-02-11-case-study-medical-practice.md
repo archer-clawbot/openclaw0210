@@ -7,6 +7,10 @@
 **Industry:** Medical Practice (Multi-Specialty Clinic)
 **Services Used:** Local SEO, GBP Management, Reputation Management, Technical SEO
 **Word Count Target:** 1,500
+**Title Tag:** Medical Practice SEO Case Study — 185% Growth | LocalCatalyst
+**Meta Description:** Medical practice increased new patient bookings by 185% in 90 days with local SEO. See how GBP optimization and reviews drove real growth.
+**H1:** Medical Practice Local SEO: 185% Increase in New Patient Bookings
+**Primary Keyword:** medical practice SEO case study
 
 ---
 
@@ -65,7 +69,7 @@ GBP completeness moved from 35% to 92% by end of month 1.
 
 **Week 3-4: Technical Remediation**
 
-Our [technical SEO](/technical-seo-services/) team addressed every issue identified in the audit. Image compression and lazy loading reduced LCP from 4.2 seconds to 1.8 seconds. We implemented proper heading hierarchy, fixed crawl errors, added XML sitemap, configured robots.txt, and deployed MedicalBusiness schema, Physician schema, and FAQPage schema across the site. HTTPS was already in place, but mixed content issues were resolved.
+Our [technical SEO](/services/seo-audit/technical-seo-audit/) team addressed every issue identified in the audit. Image compression and lazy loading reduced LCP from 4.2 seconds to 1.8 seconds. We implemented proper heading hierarchy, fixed crawl errors, added XML sitemap, configured robots.txt, and deployed MedicalBusiness schema, Physician schema, and FAQPage schema across the site. HTTPS was already in place, but mixed content issues were resolved.
 
 **Week 4: Citation Cleanup**
 
@@ -135,16 +139,16 @@ After 90 days, the transformation was comprehensive.
 
 ## Services Used in This Campaign
 
-- [Local SEO Services](/local-seo-services/) — Geo-grid tracking, keyword strategy, and comprehensive local visibility optimization
-- [Google Business Profile Management](/google-business-profile-management/) — Full GBP overhaul and ongoing optimization for both locations
-- [Reputation Management Services](/reputation-management-services/) — HIPAA-compliant review generation and response management
-- [Technical SEO Services](/technical-seo-services/) — Site speed optimization, schema implementation, and crawlability fixes
+- [Local SEO Services](/services/) — Geo-grid tracking, keyword strategy, and comprehensive local visibility optimization
+- [Google Business Profile Management](/services/gbp-optimization/) — Full GBP overhaul and ongoing optimization for both locations
+- Reputation Management Services — HIPAA-compliant review generation and response management
+- [Technical SEO Services](/services/seo-audit/technical-seo-audit/) — Site speed optimization, schema implementation, and crawlability fixes
 
 ## Related Content
 
 - [SEO for Medical Practices](/industries/medical-practices/) — Our complete approach to medical practice local SEO
-- [Google Business Profile Optimization Checklist](/blog/gbp-optimization-checklist/) — Step-by-step GBP optimization guide
-- [Review Generation Strategy](/blog/google-reviews-generation-strategy/) — How to build a systematic review engine
+- [Google Business Profile Optimization Checklist](/learn/gbp-optimization-checklist/) — Step-by-step GBP optimization guide
+- [Review Generation Strategy](/learn/google-reviews-generation-strategy/) — How to build a systematic review engine
 
 ---
 

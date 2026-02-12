@@ -16,7 +16,7 @@
 
 The HVAC industry runs on seasons. AC searches spike 400-600% between March and July. Furnace searches surge from September through December. Contractors who align their marketing with these predictable demand cycles capture disproportionate market share during peak periods, while those who react in real-time are always a step behind. This seasonal marketing guide is part of our complete [HVAC SEO strategy](/industries/hvac-seo/) and provides a month-by-month framework for maximizing visibility when it matters most.
 
-For help building and executing a seasonal content calendar, our [SEO content strategy service](/seo-content-strategy/) plans your editorial calendar around demand cycles so you are positioned before the search volume arrives.
+For help building and executing a seasonal content calendar, our [SEO content strategy service](/services/content-pages/) plans your editorial calendar around demand cycles so you are positioned before the search volume arrives.
 
 ## Why Seasonal Timing Is Everything in HVAC Marketing
 

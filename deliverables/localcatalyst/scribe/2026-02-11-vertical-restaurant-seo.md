@@ -22,7 +22,7 @@ Restaurant SEO is different from virtually every other local SEO vertical becaus
 
 That compressed decision cycle means everything visible in those first 60 seconds must be perfect: your Map Pack position, your star rating, your photo quality, your menu accessibility, and your review volume. There is no second chance to make an impression.
 
-At LocalCatalyst, we build restaurant SEO strategies that optimize every element of this discovery-to-visit journey. Our [CATALYST methodology](/local-seo-services/) (Audit, Prioritize, Execute, Expand) gives restaurants a structured path from invisible to indispensable in their local market — whether you are a neighborhood bistro, a multi-location fast casual chain, or a fine dining destination.
+At LocalCatalyst, we build restaurant SEO strategies that optimize every element of this discovery-to-visit journey. Our [CATALYST methodology](/services/) (Audit, Prioritize, Execute, Expand) gives restaurants a structured path from invisible to indispensable in their local market — whether you are a neighborhood bistro, a multi-location fast casual chain, or a fine dining destination.
 
 Want to see where your restaurant shows up (and where it does not)? [Order an SEO Audit](/services/seo-audit/) and we will map your visibility across every relevant search in your area.
 
@@ -42,7 +42,7 @@ Understanding how diners find restaurants is foundational to every strategy we b
 
 ## Google Business Profile Optimization for Restaurants
 
-For restaurants, the Google Business Profile is not just an important marketing asset — it is often the only thing a potential diner sees before deciding to visit. Our [GBP management services](/google-business-profile-management/) for restaurants address every signal that influences visibility and conversion.
+For restaurants, the Google Business Profile is not just an important marketing asset — it is often the only thing a potential diner sees before deciding to visit. Our [GBP management services](/services/gbp-optimization/) for restaurants address every signal that influences visibility and conversion.
 
 ### Category and Attribute Selection
 
@@ -86,7 +86,7 @@ We recommend a minimum of 50 photos on your GBP, refreshed monthly with new cont
 
 In the restaurant industry, reviews are not just a ranking factor — they are the currency of your reputation. A restaurant with 500 reviews and a 4.5 rating communicates something fundamentally different than one with 50 reviews and the same rating. Volume signals popularity. Recency signals relevance. And the content of those reviews — "amazing pasta," "great cocktails," "perfect for date night" — feeds directly into how Google matches your restaurant to specific searches.
 
-Our [reputation management services](/reputation-management-services/) for restaurants focus on three pillars:
+Our reputation management services for restaurants focus on three pillars:
 
 **Review generation.** Restaurants interact with dozens or hundreds of customers daily, yet most generate a fraction of the reviews they could. We implement generation strategies tailored to restaurant workflows — table tent cards with QR codes, post-visit SMS or email prompts tied to your POS or reservation system, and staff training that makes the ask feel natural rather than forced. The goal is to turn your satisfied diners into a consistent stream of fresh reviews.
 
@@ -96,7 +96,7 @@ Our [reputation management services](/reputation-management-services/) for resta
 
 ## Menu SEO and Structured Data
 
-Your menu is content — and it should be optimized as such. Our [on-page SEO services](/on-page-seo-services/) for restaurants include comprehensive menu optimization.
+Your menu is content — and it should be optimized as such. Our [on-page SEO services](/services/on-page-optimization/) for restaurants include comprehensive menu optimization.
 
 **Menu page optimization.** Your website's menu page should be crawlable HTML text, not a PDF or an image. Google cannot read a JPG of your menu. A properly structured menu page with dish names, descriptions, and prices in HTML provides content that Google can index and match to relevant searches — "truffle pasta [city]," "wagyu burger downtown," "vegan options [neighborhood]."
 
@@ -149,22 +149,21 @@ One Italian restaurant we worked with went from invisible to #1 in the Map Pack 
 ## Supporting Content
 
 ### Planned Cluster Pages
-- [Restaurant Google Business Profile](/industries/restaurant-seo/google-business-profile/) — Complete GBP optimization guide for restaurants
-- [Restaurant Review Management](/industries/restaurant-seo/review-management/) — Review generation and response strategies for restaurants
-- [Restaurant Menu SEO](/industries/restaurant-seo/menu-seo/) — Optimizing your menu for search visibility
-- [Restaurant Local Keywords](/industries/restaurant-seo/local-keywords/) — Keyword research guide for restaurants
-- [Bar SEO](/industries/restaurant-seo/bar-seo/) — SEO strategies for bars, pubs, and nightlife venues
+- [Restaurant Google Business Profile](/industries/restaurant-seo/) — Complete GBP optimization guide for restaurants
+- [Restaurant Review Management](/industries/restaurant-seo/) — Review generation and response strategies for restaurants
+- [Restaurant Menu SEO](/industries/restaurant-seo/) — Optimizing your menu for search visibility
+- [Restaurant Local Keywords](/industries/restaurant-seo/) — Keyword research guide for restaurants
+- [Bar SEO](/industries/restaurant-seo/) — SEO strategies for bars, pubs, and nightlife venues
 
 ### Related Service Hubs
-- [Local SEO Services](/local-seo-services/) — Comprehensive local search optimization
-- [Reputation Management Services](/reputation-management-services/) — Review generation and reputation strategy
-- [Google Business Profile Management](/google-business-profile-management/) — Full-service GBP optimization
-- [On-Page SEO Services](/on-page-seo-services/) — Website content and technical optimization
+- [Local SEO Services](/services/) — Comprehensive local search optimization
+- [Google Business Profile Management](/services/gbp-optimization/) — Full-service GBP optimization
+- [On-Page SEO Services](/services/on-page-optimization/) — Website content and technical optimization
 
 ### Related Blog Posts
-- [Google Business Profile Optimization Checklist](/blog/gbp-optimization-checklist/) — Step-by-step guide to GBP excellence
-- [Review Generation Strategy](/blog/google-reviews-generation-strategy/) — How to build a review generation engine
-- [Local SEO Ranking Factors in 2026](/blog/local-seo-ranking-factors-2026/) — The signals that determine your local visibility
+- [Google Business Profile Optimization Checklist](/learn/gbp-optimization-checklist/) — Step-by-step guide to GBP excellence
+- [Review Generation Strategy](/learn/google-reviews-generation-strategy/) — How to build a review generation engine
+- [Local SEO Ranking Factors in 2026](/learn/local-seo-ranking-factors-2026/) — The signals that determine your local visibility
 
 ## Frequently Asked Questions
 
@@ -202,4 +201,4 @@ Yes. Multi-location restaurant groups — whether identical concepts or distinct
 
 ---
 
-*Ready to fill more tables from local search? [Request your free restaurant SEO audit](/services/seo-audit/) and see exactly where your restaurant appears — and where it should.*
+*Ready to fill more tables from local search? [Order your restaurant SEO Audit](/services/seo-audit/) and see exactly where your restaurant appears — and where it should.*

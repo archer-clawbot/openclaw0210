@@ -286,7 +286,7 @@ If the contract does not clearly state that you own all content, optimizations, 
 
 When comparing quotes from multiple agencies, use this framework:
 
-**1. Compare scope, not just price.** A $2,000/month proposal that includes 4 blog posts, 5 links, and full technical SEO is a better value than a $1,500/month proposal that includes 1 blog post and "ongoing optimization."
+**1. Compare scope, not just price.** A higher-priced proposal that includes 4 blog posts, 5 links, and full technical SEO is a better value than a cheaper proposal that includes 1 blog post and "ongoing optimization."
 
 **2. Ask what "link building" means.** There is a massive quality difference between manual outreach to relevant websites and automated directory submissions. Get specifics.
 
@@ -302,7 +302,7 @@ When comparing quotes from multiple agencies, use this framework:
 
 Price is only meaningful in the context of value. The right framing is not "how much does SEO cost" but "what is a new customer worth to me, and how many customers can SEO deliver?"
 
-A roofing company where each new customer represents $8,000-$15,000 in revenue can justify a $3,000/month SEO investment if it produces just one additional customer per month. That is a 3-5x return.
+A roofing company where each new customer represents $8,000-$15,000 in revenue can justify a significant monthly SEO investment if it produces just one additional customer per month. That is a 3-5x return.
 
 A coffee shop where the average ticket is $6 needs a very different calculation. The investment may still make sense if SEO drives enough foot traffic, but the math requires higher volume at lower per-customer value.
 
@@ -316,7 +316,7 @@ SEO pricing reflects differences in scope, quality, market competitiveness, and 
 
 ### Can I start with a lower-tier package and upgrade later?
 
-Yes, and this is often a smart approach. Starting at $1,000-$1,500/month lets you evaluate the agency's work quality, communication, and results before committing to a larger investment. Most agencies are happy to scale up scope as trust and results build.
+Yes, and this is often a smart approach. Starting with a smaller scope lets you evaluate the agency's work quality, communication, and results before committing to a larger investment. Most agencies are happy to scale up scope as trust and results build.
 
 ### Is it worth paying more for an agency that specializes in my industry?
 

@@ -4,14 +4,16 @@
 **Date:** 2026-02-11
 **Agent:** Scribe
 **URL:** /resources/
-**Primary Keyword:** seo templates, seo checklist
-**Secondary Keywords:** local seo checklist, gbp optimization template, technical seo audit, on-page seo checklist, free seo tools
+**Title Tag:** Free SEO Templates & Checklists | LocalCatalyst
+**Meta Description:** Free SEO templates and checklists for local businesses. Download GBP optimization, technical SEO audit, citation building, and on-page SEO resources.
+**H1:** Free SEO Resources: Templates, Checklists, and Tools
+**Primary Keyword:** seo templates
 
 ---
 
 ## Free SEO Resources to Dominate Local Search
 
-Running a local business means wearing a dozen hats — and SEO shouldn't require a degree to get right. We built these resources from the same frameworks our team uses inside the [CATALYST Methodology](/services/local-seo/) to help businesses rank higher in local search, attract more qualified leads, and convert searchers into customers.
+Running a local business means wearing a dozen hats — and SEO shouldn't require a degree to get right. We built these resources from the same frameworks our team uses inside the [CATALYST Methodology](/services/) to help businesses rank higher in local search, attract more qualified leads, and convert searchers into customers.
 
 Every template, checklist, and tool below is free. Download what you need, implement at your own pace, and reach out when you're ready for a partner to handle the heavy lifting.
 
@@ -29,9 +31,9 @@ A step-by-step action plan covering every lever that influences local pack ranki
 - Review generation strategy outline
 - Local content planning framework aligned with geo-modified keywords
 
-This checklist pairs directly with our [Local SEO service](/services/local-seo/) and gives you a clear picture of where your business stands today.
+This checklist pairs directly with our [Local SEO service](/services/) and gives you a clear picture of where your business stands today.
 
-**[Download the Local SEO Checklist (PDF)](/resources/local-seo-checklist/)**
+**[Download the Local SEO Checklist (PDF)](/learn/local-seo-checklist/)**
 
 ---
 
@@ -47,9 +49,9 @@ Your Google Business Profile is the single most influential asset in local pack 
 - Photo and video upload specifications and best practices
 - Review response templates for positive, neutral, and negative reviews
 
-Built from the same playbook behind our [Google Business Profile Optimization service](/services/google-business-profile-optimization/).
+Built from the same playbook behind our [Google Business Profile Optimization service](/services/gbp-optimization/).
 
-**[Download the GBP Optimization Template (PDF)](/resources/gbp-optimization-template/)**
+**[Download the GBP Optimization Template (PDF)](/learn/gbp-optimization-checklist/)**
 
 ---
 
@@ -66,9 +68,9 @@ Technical issues silently erode rankings. This worksheet gives you a structured 
 - Mobile usability testing protocol
 - HTTPS and security configuration audit points
 
-Use this alongside our [Technical SEO service](/services/technical-seo/) or as a self-serve diagnostic tool. For a deeper look at Core Web Vitals specifically, see our guide on [Core Web Vitals optimization](/blog/core-web-vitals-optimization/).
+Use this alongside our [Technical SEO service](/services/seo-audit/technical-seo-audit/) or as a self-serve diagnostic tool. For a deeper look at Core Web Vitals specifically, see our guide on [Core Web Vitals optimization](/learn/core-web-vitals-optimization/).
 
-**[Download the Technical SEO Audit Worksheet (PDF)](/resources/technical-seo-audit-worksheet/)**
+**[Download the Technical SEO Audit Worksheet (PDF)](/learn/technical-seo-checklist/)**
 
 ---
 
@@ -87,7 +89,7 @@ On-page optimization is where strategy meets execution. This checklist ensures e
 
 Designed to complement our [On-Page Optimization service](/services/on-page-optimization/) and applicable to service pages, location pages, and blog content alike.
 
-**[Download the On-Page SEO Checklist (PDF)](/resources/on-page-seo-checklist/)**
+**[Download the On-Page SEO Checklist (PDF)](/learn/on-page-seo-checklist/)**
 
 ---
 
@@ -106,13 +108,13 @@ Tracking the right metrics is the difference between informed strategy and guess
 
 This template mirrors the SoLV (Share of Local Visibility) and WVS (Weighted Visibility Score) metrics we track for managed clients across all service tiers.
 
-**[Download the Monthly Reporting Template (PDF)](/resources/monthly-reporting-template/)**
+**[Download the Monthly Reporting Template (PDF)](/resources/)**
 
 ---
 
-## Free SEO Audit Tool
+## SEO Audit Tool
 
-Not sure where to start? Our free audit tool analyzes your website and Google Business Profile against 50+ ranking factors and delivers a prioritized action plan within minutes.
+Not sure where to start? Our SEO audit analyzes your website and Google Business Profile against 50+ ranking factors and delivers a prioritized action plan within minutes.
 
 **What you'll receive:**
 
@@ -122,9 +124,9 @@ Not sure where to start? Our free audit tool analyzes your website and Google Bu
 - Competitor gap analysis for your primary keywords
 - Custom recommendations based on your industry and location
 
-No credit card required. No obligation. Just a clear-eyed assessment of where you stand and what to fix first.
+A clear-eyed assessment of where you stand and what to fix first.
 
-**[Run Your Free SEO Audit](/free-audit/)**
+**[Order Your SEO Audit](/services/seo-audit/)**
 
 ---
 

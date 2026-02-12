@@ -3,8 +3,8 @@
 **Deliverable:** Resource blog post
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/seo-vs-ppc/
-**Parent Hub:** /blog/
+**URL:** /learn/seo-vs-ppc/
+**Parent Hub:** /learn/
 **Primary Keyword:** SEO vs PPC
 **Secondary Keywords:** SEO vs paid search, organic SEO vs Google Ads, SEO or PPC which is better, SEO vs PPC cost comparison, search engine optimization vs pay per click
 **Title Tag:** SEO vs PPC: An Honest Comparison for Local Business
@@ -60,7 +60,7 @@ With PPC, every dollar buys a fixed amount of traffic. With SEO, the same dollar
 
 Organic results earn roughly 70% of all search clicks, while paid ads receive the remaining 30%. The top three organic positions capture the majority of organic clicks, and the first position alone often receives 25-30% of all clicks for a given query.
 
-For local businesses, the Google Maps Pack is even more dominant. The Map Pack occupies prime SERP real estate and is driven entirely by organic [local SEO signals](/services/local-seo/) — not paid ads.
+For local businesses, the Google Maps Pack is even more dominant. The Map Pack occupies prime SERP real estate and is driven entirely by organic [local SEO signals](/services/) — not paid ads.
 
 ### Lower Long-Term Cost Per Lead
 
@@ -188,7 +188,7 @@ Some businesses launch PPC, start an SEO campaign, then cut PPC after 3-4 months
 
 ### Ignoring Local SEO Entirely
 
-For local businesses, the Google Maps Pack is distinct from both traditional organic results and paid ads. Even if you run aggressive PPC and have solid organic rankings, neglecting your [Google Business Profile](/services/google-business-profile-optimization/) means missing the Map Pack — which is often the most clicked section of local search results.
+For local businesses, the Google Maps Pack is distinct from both traditional organic results and paid ads. Even if you run aggressive PPC and have solid organic rankings, neglecting your [Google Business Profile](/services/gbp-optimization/) means missing the Map Pack — which is often the most clicked section of local search results.
 
 ### Comparing Channels Without Tracking
 
@@ -208,7 +208,7 @@ Absolutely. The combination is stronger than either channel alone. PPC provides 
 
 ### How long before SEO replaces PPC as my primary lead source?
 
-For most local businesses in moderately competitive markets, SEO begins generating comparable lead volume to a moderate PPC campaign within 10-18 months. The exact timeline depends on your starting point, competition, content investment, and the aggressiveness of your [SEO strategy](/services/local-seo/). We recommend maintaining some PPC budget even after SEO matures, as the combined presence maximizes total traffic.
+For most local businesses in moderately competitive markets, SEO begins generating comparable lead volume to a moderate PPC campaign within 10-18 months. The exact timeline depends on your starting point, competition, content investment, and the aggressiveness of your [SEO strategy](/services/). We recommend maintaining some PPC budget even after SEO matures, as the combined presence maximizes total traffic.
 
 ### Which is better for a brand-new local business?
 

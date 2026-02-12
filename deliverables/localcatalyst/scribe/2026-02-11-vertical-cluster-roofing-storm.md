@@ -16,7 +16,7 @@
 
 Storm damage represents the single largest revenue opportunity for roofing companies in weather-prone markets, and the companies that capture those leads are the ones with SEO infrastructure already in place when severe weather strikes. As a specialized component of our [roofing SEO program](/industries/roofing-seo/), storm damage SEO requires a fundamentally different approach than standard roofing search optimization. It combines pre-positioned content, rapid-response tactics, and seasonal planning into a strategy that converts weather events into booked jobs.
 
-LocalCatalyst's [SEO content strategy service](/seo-content-strategy/) builds the editorial and technical framework that allows roofing companies to dominate storm-related searches in their markets year-round, not just in the chaotic days immediately following a major weather event.
+LocalCatalyst's [SEO content strategy service](/services/content-pages/) builds the editorial and technical framework that allows roofing companies to dominate storm-related searches in their markets year-round, not just in the chaotic days immediately following a major weather event.
 
 ## The Storm Damage Search Pattern
 
@@ -77,7 +77,7 @@ When a significant storm hits your market, you need a playbook ready to execute 
 
 ### Google Business Profile Activation
 
-Publish a GBP post within hours of a major storm event. The post should confirm your availability, describe your storm damage assessment service, and include a direct call-to-action with your phone number. This is where your [GBP optimization for roofers](/industries/roofing-seo/roofing-google-business-profile/) strategy intersects with storm response. A timely GBP post can boost your local pack visibility precisely when search volume is spiking.
+Publish a GBP post within hours of a major storm event. The post should confirm your availability, describe your storm damage assessment service, and include a direct call-to-action with your phone number. This is where your [GBP optimization for roofers](/industries/roofing-seo/) strategy intersects with storm response. A timely GBP post can boost your local pack visibility precisely when search volume is spiking.
 
 Update your GBP Q&A section with storm-specific questions: "Are you available for emergency storm damage inspections?" "Do you offer emergency tarp service?" "Do you work with [major local insurance carriers]?"
 
@@ -111,7 +111,7 @@ Storm damage content has natural link-building potential that standard roofing s
 
 **Local news and media.** As mentioned above, storm events create media opportunities. Local TV stations, newspapers, and community blogs covering storm damage frequently link to local contractor resources.
 
-**Community partnerships.** Partnerships with disaster relief organizations, local chambers of commerce, and neighborhood associations during storm recovery events generate both links and brand awareness. Our [link building services](/link-building-services/) integrate these storm-specific opportunities into your broader authority building program.
+**Community partnerships.** Partnerships with disaster relief organizations, local chambers of commerce, and neighborhood associations during storm recovery events generate both links and brand awareness. Our [link building services](/managed/) integrate these storm-specific opportunities into your broader authority building program.
 
 ## Measuring Storm Damage SEO Performance
 

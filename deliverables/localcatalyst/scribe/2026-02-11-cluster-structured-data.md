@@ -3,8 +3,8 @@
 **Deliverable:** Service sub-page (cluster)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /technical-seo-services/structured-data/
-**Parent Hub:** /technical-seo-services/
+**URL:** /services/seo-audit/structured-data/
+**Parent Hub:** /services/seo-audit/
 **Primary Keyword:** structured data implementation
 **Secondary Keywords:** schema markup SEO, JSON-LD implementation, local business schema, rich results SEO, structured data for local SEO
 **Title Tag:** Structured Data & Schema Markup Implementation | LocalCatalyst.ai
@@ -14,11 +14,11 @@
 
 ---
 
-*Breadcrumbs: [Home](/) > [Technical SEO Services](/technical-seo-services/) > Structured Data*
+*Breadcrumbs: [Home](/) > [Technical SEO Services](/services/seo-audit/technical-seo-audit/) > Structured Data*
 
 ## Structured Data Implementation: Tell Search Engines Exactly What Your Business Offers
 
-Search engines are sophisticated, but they still interpret web content as text. They read your page and make inferences about what your business is, what services you offer, what your hours are, and what customers think of you. Structured data removes the guesswork. It provides explicit, machine-readable declarations that tell Google exactly what your content means — not just what it says. Our [technical SEO services](/technical-seo-services/) include structured data implementation because it directly enables rich results, improves content comprehension, and gives your listings visual advantages that increase click-through rates by 30% or more.
+Search engines are sophisticated, but they still interpret web content as text. They read your page and make inferences about what your business is, what services you offer, what your hours are, and what customers think of you. Structured data removes the guesswork. It provides explicit, machine-readable declarations that tell Google exactly what your content means — not just what it says. Our [technical SEO services](/services/seo-audit/technical-seo-audit/) include structured data implementation because it directly enables rich results, improves content comprehension, and gives your listings visual advantages that increase click-through rates by 30% or more.
 
 Rich results — the enhanced search listings with star ratings, FAQ accordions, breadcrumb paths, event details, and other visual elements — are only available to pages with valid structured data. A competitor whose listing shows a 4.8-star rating, "52 reviews," and an FAQ dropdown occupies significantly more SERP real estate and attracts significantly more clicks than a standard blue link. Structured data is what makes that visual enhancement possible.
 
@@ -88,7 +88,7 @@ Use the most specific subtype available:
 
 Specific subtypes carry more relevance signals than the generic `LocalBusiness` type and may unlock industry-specific rich result features.
 
-**Implementation scope:** Your homepage and every location page should include a `LocalBusiness` schema with complete, accurate information. For [multi-location businesses](/local-seo-services/multi-location-seo/), each location page gets its own `LocalBusiness` schema with that location's specific details.
+**Implementation scope:** Your homepage and every location page should include a `LocalBusiness` schema with complete, accurate information. For [multi-location businesses](/services/multi-location-seo/), each location page gets its own `LocalBusiness` schema with that location's specific details.
 
 ### Service
 
@@ -147,7 +147,7 @@ The `BreadcrumbList` schema enables breadcrumb display in search results, showin
 Without breadcrumb schema: `smithplumbing.com/services/emergency-repair/`
 With breadcrumb schema: `Smith Plumbing > Services > Emergency Repair`
 
-The breadcrumb trail provides navigational context that improves CTR and communicates [site architecture](/technical-seo-services/site-architecture/) to both users and search engines.
+The breadcrumb trail provides navigational context that improves CTR and communicates [site architecture](/services/seo-audit/site-architecture/) to both users and search engines.
 
 **Implementation scope:** Every page that displays breadcrumbs should include matching `BreadcrumbList` schema.
 
@@ -227,7 +227,7 @@ Google Search Console's Enhancements reports track structured data performance:
 - **Impression and click data** — How rich results perform in terms of visibility and CTR
 - **Error notifications** — Alerts when structured data errors are detected on crawled pages
 
-We monitor these reports weekly, addressing errors within 48 hours and tracking the CTR impact of rich result features as part of ongoing [technical SEO management](/technical-seo-services/).
+We monitor these reports weekly, addressing errors within 48 hours and tracking the CTR impact of rich result features as part of ongoing [technical SEO management](/services/seo-audit/technical-seo-audit/).
 
 ## Advanced Schema
 
@@ -263,7 +263,7 @@ Incorrect or deceptive structured data can trigger a manual action from Google. 
 
 ### Do I need structured data on every page?
 
-Not every page needs every schema type, but every page should have some structured data. At minimum, every page should include `BreadcrumbList` schema and your homepage should include `Organization` and `LocalBusiness` schema. Service pages, blog posts, FAQ pages, and location pages each have additional schema types that are relevant to their content. Our [site architecture planning](/technical-seo-services/site-architecture/) includes a schema mapping that defines which types apply to which page templates.
+Not every page needs every schema type, but every page should have some structured data. At minimum, every page should include `BreadcrumbList` schema and your homepage should include `Organization` and `LocalBusiness` schema. Service pages, blog posts, FAQ pages, and location pages each have additional schema types that are relevant to their content. Our [site architecture planning](/services/seo-audit/site-architecture/) includes a schema mapping that defines which types apply to which page templates.
 
 ### What happens if my structured data has errors?
 

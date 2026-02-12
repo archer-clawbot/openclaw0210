@@ -4,14 +4,17 @@
 **Deliverable:** Service sub-page (cluster)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** `/citation-building-services/structured-unstructured-citations/`
-**Parent Hub:** `/citation-building-services/`
+**URL:** `/services/citation-building/structured-unstructured-citations/`
+**Parent Hub:** `/services/citation-building/`
+**Title Tag:** Structured vs Unstructured Citations | LocalCatalyst
+**Meta Description:** Understand structured and unstructured citations, how Google uses each type, and why your complete strategy needs both for maximum impact.
+**H1:** Two Types of Citations, One Complete Strategy
 **Primary Keyword:** structured vs unstructured citations
 **Word Count Target:** 1,200
 
 ---
 
-> **Home > [Citation Building Services](/citation-building-services/) > Structured vs. Unstructured Citations**
+> **Home > [Citation Building Services](/services/citation-building/) > Structured vs. Unstructured Citations**
 
 ## Two Types of Citations, One Complete Strategy
 
@@ -19,7 +22,7 @@ Not every citation looks the same. Some are formal directory listings with your 
 
 Both types matter. They serve different functions in Google's local ranking algorithm, they require different building strategies, and most local businesses only invest in one while ignoring the other entirely.
 
-At LocalCatalyst, our [citation building services](/citation-building-services/) encompass both structured and unstructured citations because a complete citation profile requires both. Understanding the distinction — and knowing how to build each type strategically — is what separates businesses that dominate local search from those that merely participate in it.
+At LocalCatalyst, our [citation building services](/services/citation-building/) encompass both structured and unstructured citations because a complete citation profile requires both. Understanding the distinction — and knowing how to build each type strategically — is what separates businesses that dominate local search from those that merely participate in it.
 
 **[Order Your SEO Audit](/services/seo-audit/)** — We'll analyze your citation profile across both types and show you where the gaps are.
 
@@ -37,7 +40,7 @@ Structured citations are formal business listings on directories and platforms t
 - **Apple Maps / Apple Business Connect** — Apple's business listing platform
 - **Facebook Business Page** — Social platform with structured business information
 - **Better Business Bureau (BBB)** — Accredited business listings
-- **Industry directories** — Healthgrades, Avvo, HomeAdvisor, and other [niche citation](/citation-building-services/niche-citations/) platforms
+- **Industry directories** — Healthgrades, Avvo, HomeAdvisor, and other [niche citation](/services/citation-building/niche-citations/) platforms
 - **Data aggregators** — Data Axle, Foursquare, Localeze/Neustar, Factual — the upstream data sources that feed information to downstream directories
 
 ### Characteristics of Structured Citations
@@ -45,14 +48,14 @@ Structured citations are formal business listings on directories and platforms t
 - **Consistent format** — NAP data is stored in dedicated fields, making it easy for search engines to parse
 - **Self-submitted** — You (or your agency) create and manage these listings directly
 - **Controllable** — You can update information when your business details change
-- **Auditable** — Easy to find, verify, and correct through [citation cleanup](/citation-building-services/citation-cleanup/)
+- **Auditable** — Easy to find, verify, and correct through [citation cleanup](/services/citation-building/citation-cleanup/)
 - **Scalable** — Can be built systematically across dozens of platforms
 
 ### Why Structured Citations Matter
 
 Structured citations are the foundation of local SEO citation signals. They're what Google cross-references to verify your business information. When your Google Business Profile says you're at 123 Main Street and 50+ directories confirm that address in their structured data fields, Google has high confidence that your business is actually located at 123 Main Street.
 
-**NAP consistency across structured citations is one of the top 5 local ranking factors.** This is why [citation cleanup](/citation-building-services/citation-cleanup/) — fixing inconsistencies across your structured citation profile — produces measurable ranking improvements.
+**NAP consistency across structured citations is one of the top 5 local ranking factors.** This is why [citation cleanup](/services/citation-building/citation-cleanup/) — fixing inconsistencies across your structured citation profile — produces measurable ranking improvements.
 
 ---
 
@@ -85,7 +88,7 @@ Unstructured citations matter precisely because they're harder to manufacture. A
 
 Google's algorithms distinguish between self-submitted signals (structured citations) and third-party endorsements (unstructured citations). Both matter, but unstructured citations carry a dimension of trust that structured citations alone cannot provide. They represent genuine external validation — the digital equivalent of word-of-mouth.
 
-Unstructured citations also support your [link building efforts](/link-building-services/). Many unstructured citations include links back to your website, making them a hybrid signal that provides both citation value and backlink authority. A local newspaper article that mentions your business name, address, and phone number while also linking to your site delivers triple value: citation signal, backlink authority, and referral traffic.
+Unstructured citations also support your [link building efforts](/managed/). Many unstructured citations include links back to your website, making them a hybrid signal that provides both citation value and backlink authority. A local newspaper article that mentions your business name, address, and phone number while also linking to your site delivers triple value: citation signal, backlink authority, and referral traffic.
 
 ---
 
@@ -109,7 +112,7 @@ Google uses unstructured citations as signals of **business prominence and commu
 
 Businesses with strong profiles across both types rank higher than businesses strong in only one. Structured citations provide the data consistency foundation. Unstructured citations provide the authority and prominence layer. Together, they create a complete trust profile that satisfies Google's local ranking algorithm.
 
-This is the same principle behind our integrated approach to [local SEO](/local-seo-services/): no single signal dominates. It's the combination of consistent citations, strong [GBP optimization](/google-business-profile-management/), quality backlinks, and positive [reputation signals](/reputation-management-services/) that produces rankings.
+This is the same principle behind our integrated approach to [local SEO](/services/): no single signal dominates. It's the combination of consistent citations, strong [GBP optimization](/services/gbp-optimization/), quality backlinks, and positive reputation signals that produces rankings.
 
 ---
 
@@ -119,9 +122,9 @@ This is the same principle behind our integrated approach to [local SEO](/local-
 
 Structured citation building is systematic and controllable:
 
-1. **Audit existing citations** for consistency ([citation cleanup](/citation-building-services/citation-cleanup/) first)
+1. **Audit existing citations** for consistency ([citation cleanup](/services/citation-building/citation-cleanup/) first)
 2. **Submit to core platforms** — Google, Yelp, Bing, Apple, Facebook, BBB
-3. **Submit to industry directories** — [Niche citations](/citation-building-services/niche-citations/) relevant to your vertical
+3. **Submit to industry directories** — [Niche citations](/services/citation-building/niche-citations/) relevant to your vertical
 4. **Submit to data aggregators** — Data Axle, Foursquare, Localeze, Factual (ensures downstream propagation)
 5. **Submit to local directories** — Regional and city-level directories in your service area
 6. **Monitor and maintain** — Ongoing consistency monitoring and correction
@@ -132,9 +135,9 @@ Structured citation building is systematic and controllable:
 
 Unstructured citation building requires different strategies because you're influencing mentions rather than submitting listings:
 
-- **Local media coverage** — [Digital PR](/link-building-services/digital-pr/) campaigns that earn news coverage mentioning your business
+- **Local media coverage** — [Digital PR](/managed/digital-pr/) campaigns that earn news coverage mentioning your business
 - **Community involvement** — Sponsorships, charity events, and partnerships that generate community mentions
-- **Guest content** — [Guest posting](/link-building-services/guest-posting/) on local and industry publications that mention your business naturally
+- **Guest content** — [Guest posting](/managed/guest-posting/) on local and industry publications that mention your business naturally
 - **Social media engagement** — Active participation in local community discussions and groups
 - **Customer encouragement** — Encouraging happy customers to share their experience (with your business details) on blogs, forums, and social platforms
 - **Event participation** — Hosting or participating in events that generate coverage and social mentions
@@ -162,11 +165,11 @@ Unstructured citation building requires different strategies because you're infl
 ### Build Both Simultaneously If:
 
 - You're in a highly competitive local market
-- You have the budget for comprehensive citation building and [digital PR](/link-building-services/digital-pr/) or [local link building](/link-building-services/local-link-building/)
+- You have the budget for comprehensive citation building and [digital PR](/managed/digital-pr/) or [local link building](/managed/local-link-building/)
 - Your competitors have strong profiles in both categories
 - You're pursuing an aggressive growth timeline
 
-For most of our clients, we start with structured citation cleanup and building (months 1-3), then layer in unstructured citation strategies (months 3+) as the foundation stabilizes. This phased approach is built into our [CATALYST methodology](/local-seo-services/).
+For most of our clients, we start with structured citation cleanup and building (months 1-3), then layer in unstructured citation strategies (months 3+) as the foundation stabilizes. This phased approach is built into our [CATALYST methodology](/services/).
 
 ---
 
@@ -179,7 +182,7 @@ Unstructured citations and link building overlap significantly. Here's how:
 - **Community organization mentions** (chamber of commerce features, nonprofit partnership stories) typically include links to sponsor and partner websites
 - **Event coverage** mentions sponsors and participants with links to their sites
 
-This overlap means that [digital PR](/link-building-services/digital-pr/) and [local link building](/link-building-services/local-link-building/) campaigns naturally produce unstructured citations as a secondary benefit. At LocalCatalyst, we track both the link value and the citation value of every media placement and community mention.
+This overlap means that [digital PR](/managed/digital-pr/) and [local link building](/managed/local-link-building/) campaigns naturally produce unstructured citations as a secondary benefit. At LocalCatalyst, we track both the link value and the citation value of every media placement and community mention.
 
 ---
 

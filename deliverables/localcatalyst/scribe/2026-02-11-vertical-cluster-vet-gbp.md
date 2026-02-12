@@ -14,7 +14,7 @@
 
 ---
 
-When a pet owner searches for a veterinarian, the Google Map Pack is where the decision happens. Three listings, a map, reviews, hours, and a phone number. If your veterinary practice is not in those three results, you are functionally invisible to a significant portion of local searchers. This guide is part of our [veterinary SEO](/industries/veterinary-seo/) vertical and focuses on the Google Business Profile optimizations that put vet clinics into the Map Pack consistently. For full-service profile management, see our [Google Business Profile management](/google-business-profile-management/) offering.
+When a pet owner searches for a veterinarian, the Google Map Pack is where the decision happens. Three listings, a map, reviews, hours, and a phone number. If your veterinary practice is not in those three results, you are functionally invisible to a significant portion of local searchers. This guide is part of our [veterinary SEO](/industries/veterinary-seo/) vertical and focuses on the Google Business Profile optimizations that put vet clinics into the Map Pack consistently. For full-service profile management, see our [Google Business Profile management](/services/gbp-optimization/) offering.
 
 ## Why GBP Is Critical for Veterinary Practices
 
@@ -119,4 +119,12 @@ Emergency vet clinics should emphasize their hours, particularly late-night and 
 
 ## Make Your Veterinary GBP a Patient Acquisition Engine
 
-Your Google Business Profile is the first impression most pet owners will have of your practice. Make it count. [Contact our team](/contact/) for a comprehensive GBP audit that identifies the specific optimizations your veterinary listing needs to dominate the Map Pack.
+Your Google Business Profile is the first impression most pet owners will have of your practice. Make it count.
+
+---
+
+**Ready to dominate the Map Pack in your area?** [Get Your Veterinary SEO Audit ($297)](/services/seo-audit/)
+
+---
+
+**Ready to explore the full range of local SEO solutions?** [See All SEO Services](/services/)

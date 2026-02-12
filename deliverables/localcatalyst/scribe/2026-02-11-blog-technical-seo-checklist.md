@@ -3,8 +3,8 @@
 **Deliverable:** Blog post (Hub 4 educational content)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/technical-seo-checklist/
-**Parent Hub:** /technical-seo-services/
+**URL:** /learn/technical-seo-checklist/
+**Parent Hub:** /services/seo-audit/
 **Primary Keyword:** technical SEO checklist
 **Secondary Keywords:** technical SEO audit, site speed optimization, Core Web Vitals, crawlability, indexation, structured data, mobile SEO
 **Title Tag:** Technical SEO Checklist for 2026 | LocalCatalyst.ai
@@ -14,7 +14,7 @@
 
 ---
 
-Technical SEO is the foundation every other optimization effort rests on. Without a crawlable, indexable, fast, and secure website, even the best content strategy will underperform. Our [technical SEO services](/technical-seo-services/) at LocalCatalyst.ai are built around a systematic audit process that leaves nothing to chance. This checklist distills that process into a single, actionable reference you can follow from start to finish.
+Technical SEO is the foundation every other optimization effort rests on. Without a crawlable, indexable, fast, and secure website, even the best content strategy will underperform. Our [technical SEO services](/services/seo-audit/technical-seo-audit/) at LocalCatalyst.ai are built around a systematic audit process that leaves nothing to chance. This checklist distills that process into a single, actionable reference you can follow from start to finish.
 
 Whether you are conducting your first technical audit or refining an ongoing program, work through each section below in order. Every item links to a deeper concept so you can prioritize what matters most for your site.
 
@@ -219,7 +219,7 @@ Not every item carries equal weight. We recommend this prioritization framework:
 3. **Medium (fix this month):** Structured data errors, orphan pages, suboptimal URL structures, missing hreflang tags.
 4. **Low (ongoing maintenance):** Log file analysis refinement, crawl budget optimization, security header hardening.
 
-Our [site speed optimization](/site-speed-optimization/) and [local SEO audit](/local-seo-audit/) services use this exact prioritization to deliver measurable improvements in the shortest possible timeframe.
+Our [site speed optimization](/services/seo-audit/site-speed-optimization/) and [local SEO audit](/services/seo-audit/local-seo-audit/) services use this exact prioritization to deliver measurable improvements in the shortest possible timeframe.
 
 ## FAQ
 
@@ -243,4 +243,10 @@ Technical SEO issues affect local rankings just as much as organic rankings. A s
 
 ## Ready to Audit Your Site?
 
-A checklist is only as good as the team executing it. If you want a professional technical SEO audit powered by AI and validated by experts, [Order Your SEO Audit](/services/seo-audit/) or [contact our team](/contact/) to discuss your project.
+A checklist is only as good as the team executing it.
+
+---
+
+**Ready to find out what's holding your rankings back?** [Order Your SEO Audit ($297)](/services/seo-audit/)
+
+---

@@ -3,8 +3,8 @@
 **Deliverable:** Blog post (Hub 4 educational content)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/robots-txt-guide/
-**Parent Hub:** /technical-seo-services/
+**URL:** /learn/robots-txt-guide/
+**Parent Hub:** /services/seo-audit/
 **Primary Keyword:** robots.txt guide
 **Secondary Keywords:** robots.txt SEO, robots.txt syntax, disallow vs noindex, robots.txt examples, robots.txt testing
 **Title Tag:** Robots.txt Guide for SEO Professionals | LocalCatalyst.ai
@@ -14,7 +14,7 @@
 
 ---
 
-The `robots.txt` file is one of the oldest and most fundamental tools in a webmaster's toolkit, yet it remains one of the most frequently misconfigured. A single misplaced directive can block Googlebot from crawling your entire site. As part of our [technical SEO services](/technical-seo-services/), we audit every client's `robots.txt` file before moving to any other optimization -- because if crawlers cannot reach your pages, nothing else matters.
+The `robots.txt` file is one of the oldest and most fundamental tools in a webmaster's toolkit, yet it remains one of the most frequently misconfigured. A single misplaced directive can block Googlebot from crawling your entire site. As part of our [technical SEO services](/services/seo-audit/technical-seo-audit/), we audit every client's `robots.txt` file before moving to any other optimization -- because if crawlers cannot reach your pages, nothing else matters.
 
 This guide covers everything you need to know about `robots.txt`: the syntax, the directives, the common mistakes, and the CMS-specific configurations that catch most site owners off guard.
 
@@ -200,7 +200,7 @@ Test both positive (URLs that should be crawlable) and negative (URLs that shoul
 
 ## Managing Crawl Budget with Robots.txt
 
-For large sites with hundreds of thousands of URLs, `robots.txt` is a blunt but effective tool for [crawl budget optimization](/site-speed-optimization/). Common candidates for blocking:
+For large sites with hundreds of thousands of URLs, `robots.txt` is a blunt but effective tool for [crawl budget optimization](/services/seo-audit/site-speed-optimization/). Common candidates for blocking:
 
 - Internal search result pages.
 - Faceted navigation with parameter combinations.

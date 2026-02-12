@@ -3,22 +3,22 @@
 **Deliverable:** Service sub-page (cluster)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /seo-audit-services/technical-seo-audit/
-**Parent Hub:** /seo-audit-services/
+**URL:** /services/seo-audit/technical-seo-audit/
+**Parent Hub:** /services/seo-audit/
 **Primary Keyword:** technical SEO audit
 **Secondary Keywords:** website technical audit, SEO site audit, technical SEO analysis, crawl audit, site speed audit, Core Web Vitals audit
-**Title Tag:** Technical SEO Audit — Infrastructure & Performance Analysis | LocalCatalyst.ai
+**Title Tag:** Technical SEO Audit — Site Performance | LocalCatalyst
 **Meta Description:** Our technical SEO audit reveals every crawl error, speed bottleneck, and indexation issue preventing your site from ranking. Comprehensive analysis with prioritized fixes.
 **H1:** Technical SEO Audit: Your Website's Infrastructure Under the Microscope
 **Word Count Target:** 1,800
 
 ---
 
-**Breadcrumbs:** [Home](/) > [SEO Audit Services](/seo-audit-services/) > Technical SEO Audit
+**Breadcrumbs:** [Home](/) > [SEO Audit Services](/services/seo-audit/) > Technical SEO Audit
 
 ## Your Content Cannot Rank If Google Cannot Find It
 
-The most common misconception in SEO is that rankings are primarily about content and backlinks. Content and links matter — but they are irrelevant if Google cannot efficiently crawl, render, index, and understand your website. Technical SEO is the infrastructure layer that everything else builds upon. As a core component of our comprehensive [SEO audit services](/seo-audit-services/), our technical SEO audit examines every layer of that infrastructure to identify the barriers between your content and the search results.
+The most common misconception in SEO is that rankings are primarily about content and backlinks. Content and links matter — but they are irrelevant if Google cannot efficiently crawl, render, index, and understand your website. Technical SEO is the infrastructure layer that everything else builds upon. As a core component of our comprehensive [SEO audit services](/services/seo-audit/), our technical SEO audit examines every layer of that infrastructure to identify the barriers between your content and the search results.
 
 We have audited hundreds of local business websites, and the pattern is consistent: the average site has 87 technical issues, and business owners are aware of approximately zero of them. These are not obscure edge cases. They are crawl errors that prevent pages from being indexed. Speed problems that fail Core Web Vitals. Redirect chains that waste crawl budget. Schema errors that suppress rich results. Any one of these can be the reason your competitors outrank you despite having weaker content.
 
@@ -47,7 +47,7 @@ We crawl your entire website using enterprise-grade crawling tools that simulate
 - Canonical tags pointing to incorrect URLs
 
 **Orphan pages:**
-Pages that exist on your server but have no internal links pointing to them. Google may never discover these pages, or may assign them minimal crawl priority. We identify orphan pages and recommend internal linking strategies to integrate them into your site's crawl path — connecting this analysis to your broader [on-page SEO](/on-page-seo-services/) strategy.
+Pages that exist on your server but have no internal links pointing to them. Google may never discover these pages, or may assign them minimal crawl priority. We identify orphan pages and recommend internal linking strategies to integrate them into your site's crawl path — connecting this analysis to your broader [on-page SEO](/services/on-page-optimization/) strategy.
 
 **Crawl depth issues:**
 Pages buried more than 3 clicks from the homepage receive less crawl frequency and less PageRank. We map the click depth of every page and identify important content that is buried too deep in your site architecture.
@@ -152,7 +152,7 @@ We validate:
 - **Implementation quality:** Is the schema in JSON-LD format (Google's preferred format)? Is the data accurate and consistent with on-page content?
 - **Competitive comparison:** What schema are your ranking competitors implementing that you are not? Rich results provide significant CTR advantages in search results.
 
-Schema markup connects to both your [technical SEO foundation](/technical-seo-services/) and your broader [content strategy](/seo-content-strategy/) — providing structured signals that search engines and AI systems use to understand and recommend your business.
+Schema markup connects to both your [technical SEO foundation](/services/seo-audit/technical-seo-audit/) and your broader [content strategy](/services/content-pages/) — providing structured signals that search engines and AI systems use to understand and recommend your business.
 
 ## Security Audit
 
@@ -164,7 +164,7 @@ Security issues directly impact SEO. A compromised site, mixed content warnings,
 - **Security headers:** X-Content-Type-Options, X-Frame-Options, Content-Security-Policy, and Strict-Transport-Security headers that protect against common attacks
 - **Malware scanning:** Is the site flagged in Google Safe Browsing? Any signs of injection attacks, spam links, or redirect hijacking?
 
-For [WordPress sites](/seo-website-design/wordpress-seo/), we additionally check plugin vulnerabilities, user access controls, and wp-admin security hardening.
+For [WordPress sites](/services/website-build/wordpress-seo/), we additionally check plugin vulnerabilities, user access controls, and wp-admin security hardening.
 
 ## Site Architecture Review
 
@@ -239,7 +239,7 @@ Screaming Frog for comprehensive site crawling. Google Search Console for indexa
 
 ### How often should I get a technical SEO audit?
 
-Annually at minimum. After any major site change (redesign, CMS migration, hosting change, major content restructuring), an audit should be conducted within 30 days. For sites with active development or frequent content changes, quarterly technical check-ups catch issues before they compound. Our [technical SEO services](/technical-seo-services/) include ongoing monitoring that catches issues in real-time rather than waiting for the next scheduled audit.
+Annually at minimum. After any major site change (redesign, CMS migration, hosting change, major content restructuring), an audit should be conducted within 30 days. For sites with active development or frequent content changes, quarterly technical check-ups catch issues before they compound. Our [technical SEO services](/services/seo-audit/technical-seo-audit/) include ongoing monitoring that catches issues in real-time rather than waiting for the next scheduled audit.
 
 ### Can technical issues really tank my rankings?
 

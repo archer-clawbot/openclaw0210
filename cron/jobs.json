@@ -29,7 +29,7 @@
       "name": "Sentinel Nightly Health Check",
       "enabled": true,
       "createdAtMs": 1770661140897,
-      "updatedAtMs": 1770796800015,
+      "updatedAtMs": 1770883200007,
       "schedule": {
         "kind": "cron",
         "expr": "0 2 * * *",
@@ -45,10 +45,10 @@
         "to": "#sentinel"
       },
       "state": {
-        "nextRunAtMs": 1770883200000,
-        "lastRunAtMs": 1770796800016,
+        "nextRunAtMs": 1770969600000,
+        "lastRunAtMs": 1770883200007,
         "lastStatus": "ok",
-        "lastDurationMs": 96235
+        "lastDurationMs": 151423
       }
     },
     {
@@ -79,7 +79,7 @@
       "name": "Night Forge — Overnight Improvement Cycle",
       "enabled": true,
       "createdAtMs": 1739232000000,
-      "updatedAtMs": 1770797100014,
+      "updatedAtMs": 1770883500005,
       "schedule": {
         "kind": "cron",
         "expr": "5 2 * * *",
@@ -95,10 +95,54 @@
         "to": "7302669335"
       },
       "state": {
-        "nextRunAtMs": 1770883500000,
-        "lastRunAtMs": 1770797100014,
+        "nextRunAtMs": 1770969900000,
+        "lastRunAtMs": 1770883500005,
         "lastStatus": "ok",
-        "lastDurationMs": 191736
+        "lastDurationMs": 129596
+      }
+    },
+    {
+      "id": "f6180213-bf95-49e4-9cd6-b69b8845e6e3",
+      "agentId": "main",
+      "name": "Razor Weekly CRO Trigger",
+      "enabled": true,
+      "createdAtMs": 1770877325705,
+      "updatedAtMs": 1770877325705,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 9 * * 0",
+        "tz": "America/Chicago"
+      },
+      "sessionTarget": "main",
+      "wakeMode": "next-heartbeat",
+      "payload": {
+        "kind": "systemEvent",
+        "text": "⏰ Weekly CRO Auto-Deploy Check: Spawn Razor to run weekly CRO workflow for auto-deploy enabled clients."
+      },
+      "state": {
+        "nextRunAtMs": 1771167600000
+      }
+    },
+    {
+      "id": "c58f586a-5878-4cc7-9bde-7d1f2e9be6ba",
+      "agentId": "main",
+      "name": "Blitz Weekly Campaign Optimization",
+      "enabled": true,
+      "createdAtMs": 1770877915943,
+      "updatedAtMs": 1770877915943,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 9 * * 1",
+        "tz": "America/Chicago"
+      },
+      "sessionTarget": "main",
+      "wakeMode": "next-heartbeat",
+      "payload": {
+        "kind": "systemEvent",
+        "text": "⏰ Weekly Campaign Auto-Optimization Check: Spawn Blitz to run weekly campaign optimization workflow for auto-optimize enabled campaigns."
+      },
+      "state": {
+        "nextRunAtMs": 1771254000000
       }
     }
   ]

@@ -4,22 +4,25 @@
 **Deliverable:** Service sub-page (cluster)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** `/citation-building-services/citation-cleanup/`
-**Parent Hub:** `/citation-building-services/`
+**URL:** `/services/citation-building/citation-cleanup/`
+**Parent Hub:** `/services/citation-building/`
+**Title Tag:** Citation Cleanup Service — Fix NAP Errors | LocalCatalyst
+**Meta Description:** Fix inconsistent citations, remove duplicates, and boost local rankings. Our citation cleanup service restores trust and improves visibility.
+**H1:** Finding and Fixing the Listing Errors That Suppress Your Rankings
 **Primary Keyword:** citation cleanup service
 **Word Count Target:** 1,500
 
 ---
 
-> **Home > [Citation Building Services](/citation-building-services/) > Citation Cleanup**
+> **Home > [Citation Building Services](/services/citation-building/) > Citation Cleanup**
 
 ## Finding and Fixing the Listing Errors That Suppress Your Rankings
 
 If your local rankings have been declining — or if they've plateaued despite active SEO work — there's a good chance your citation profile is working against you. Citation cleanup is the process of finding and fixing inconsistent, duplicate, or incorrect business listings across the internet. And for most local businesses, it's one of the most impactful ranking improvements available.
 
-At LocalCatalyst, citation cleanup is the first phase of every [citation building engagement](/citation-building-services/). Before we build new listings, we fix what's broken. Because building 50 new citations on top of a foundation of 40% inconsistency doesn't solve the problem — it buries it under more data while Google continues to distrust your business information.
+At LocalCatalyst, citation cleanup is the first phase of every [citation building engagement](/services/citation-building/). Before we build new listings, we fix what's broken. Because building 50 new citations on top of a foundation of 40% inconsistency doesn't solve the problem — it buries it under more data while Google continues to distrust your business information.
 
-Our cleanup process is systematic, thorough, and measurable. We audit every citation we can find, prioritize corrections by impact, submit changes through proper channels, verify the corrections take effect, and monitor for regression. The result: a clean, consistent citation profile that Google can trust — the foundation that every other [local SEO effort](/local-seo-services/) depends on.
+Our cleanup process is systematic, thorough, and measurable. We audit every citation we can find, prioritize corrections by impact, submit changes through proper channels, verify the corrections take effect, and monitor for regression. The result: a clean, consistent citation profile that Google can trust — the foundation that every other [local SEO effort](/services/) depends on.
 
 **[Order Your SEO Audit](/services/seo-audit/)** — We'll scan your citation profile and show you exactly how many inconsistencies are currently suppressing your rankings.
 
@@ -50,7 +53,7 @@ Most businesses don't create citation inconsistencies intentionally. They accumu
 
 Citation inconsistency isn't a static problem — it compounds. One incorrect record in a major data aggregator can propagate to 50+ downstream directories over the course of months. A single source of bad upstream data creates an expanding web of inconsistency that gets harder to fix the longer it persists.
 
-This is why cleanup before building is essential. It's also why citation management is ongoing — we cover this in depth on our [citation building hub page](/citation-building-services/).
+This is why cleanup before building is essential. It's also why citation management is ongoing — we cover this in depth on our [citation building hub page](/services/citation-building/).
 
 ---
 
@@ -58,7 +61,7 @@ This is why cleanup before building is essential. It's also why citation managem
 
 ### Wrong or Outdated Addresses
 
-The most common and most damaging inconsistency. An old address on a high-authority directory tells Google your business might not actually be where you say it is. We've seen businesses ranking poorly despite excellent on-page SEO and [GBP optimization](/google-business-profile-management/) — because 15 directories still listed their previous address from two years ago.
+The most common and most damaging inconsistency. An old address on a high-authority directory tells Google your business might not actually be where you say it is. We've seen businesses ranking poorly despite excellent on-page SEO and [GBP optimization](/services/gbp-optimization/) — because 15 directories still listed their previous address from two years ago.
 
 ### Incorrect Phone Numbers
 
@@ -176,7 +179,7 @@ If your business has fewer than 20 existing citations and minimal inconsistency,
 - You have fewer than 20 total citations
 - Your existing citations are mostly accurate
 
-For most established local businesses, cleanup + building is the right approach — clean the foundation first, then build strategically on top. We detail the full building process on our [niche citations](/citation-building-services/niche-citations/) and [structured vs. unstructured citations](/citation-building-services/structured-unstructured-citations/) pages.
+For most established local businesses, cleanup + building is the right approach — clean the foundation first, then build strategically on top. We detail the full building process on our [niche citations](/services/citation-building/niche-citations/) and [structured vs. unstructured citations](/services/citation-building/structured-unstructured-citations/) pages.
 
 ---
 
@@ -191,7 +194,7 @@ Citation cleanup produces measurable ranking improvements because you're removin
 - **Map Pack visibility:** Businesses previously absent from the Map Pack appearing within 90 days of achieving citation consistency
 - **Google Business Profile metrics:** Increase in search views, discovery searches, and customer actions (calls, direction requests, website visits) as Google's confidence in your business data improves
 
-**Real example:** A veterinary clinic in Denver had 74 citations with 43% inconsistency (old address from a 2023 move, multiple phone numbers, three name variations). After 90 days of cleanup, their consistency score reached 97%. Their primary keyword rankings improved an average of 3.2 positions, Map Pack appearances increased 28%, and GBP discovery searches increased 41% — before any new citation building or [link building](/link-building-services/) work began.
+**Real example:** A veterinary clinic in Denver had 74 citations with 43% inconsistency (old address from a 2023 move, multiple phone numbers, three name variations). After 90 days of cleanup, their consistency score reached 97%. Their primary keyword rankings improved an average of 3.2 positions, Map Pack appearances increased 28%, and GBP discovery searches increased 41% — before any new citation building or [link building](/managed/) work began.
 
 ---
 
@@ -199,7 +202,7 @@ Citation cleanup produces measurable ranking improvements because you're removin
 
 ### How do I know if I need citation cleanup?
 
-If you've been in business for more than 2 years, changed locations or phone numbers, or had a previous marketing agency manage your listings, you almost certainly need cleanup. The only way to know for sure is a citation audit. Our [free SEO audit](/services/seo-audit/) includes a citation health snapshot that reveals your current consistency score.
+If you've been in business for more than 2 years, changed locations or phone numbers, or had a previous marketing agency manage your listings, you almost certainly need cleanup. The only way to know for sure is a citation audit. Our [SEO Audit](/services/seo-audit/) includes a citation health snapshot that reveals your current consistency score.
 
 ### Can I do citation cleanup myself?
 
@@ -211,7 +214,7 @@ Inconsistencies continue suppressing your rankings. Worse, they compound — agg
 
 ### Will citation cleanup help if my competitors have more citations?
 
-Yes, because cleanup and building are sequential. First, we fix your existing citations to eliminate the suppression effect. Then, we build new citations to close the quantity and source gap with competitors. Cleanup is the foundation — building is the growth strategy. Both are covered in our [citation building services](/citation-building-services/).
+Yes, because cleanup and building are sequential. First, we fix your existing citations to eliminate the suppression effect. Then, we build new citations to close the quantity and source gap with competitors. Cleanup is the foundation — building is the growth strategy. Both are covered in our [citation building services](/services/citation-building/).
 
 ### How often should citations be audited?
 

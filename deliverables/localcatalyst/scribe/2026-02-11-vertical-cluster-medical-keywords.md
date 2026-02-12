@@ -16,7 +16,7 @@
 
 Keyword research for [medical practices](/industries/medical-practices/) is fundamentally different from keyword research for other local businesses. Patients don't search the way consumers shop. They search with urgency, with specific symptoms, with insurance questions, and with geographic constraints that shift depending on whether they need routine care or an urgent specialist. If your keyword strategy doesn't reflect these search behaviors, you're optimizing for the wrong terms.
 
-This guide breaks down the keyword categories that matter for medical practice SEO, shows you how to build a prioritized target list, and explains how to map keywords to pages so every piece of content on your site earns traffic. For a deeper dive into the methodology, see our [local keyword research](/local-seo-services/local-keyword-research/) service page.
+This guide breaks down the keyword categories that matter for medical practice SEO, shows you how to build a prioritized target list, and explains how to map keywords to pages so every piece of content on your site earns traffic. For a deeper dive into the methodology, see our [local keyword research](/services/local-keyword-research/) service page.
 
 ## The Five Keyword Categories for Medical Practices
 

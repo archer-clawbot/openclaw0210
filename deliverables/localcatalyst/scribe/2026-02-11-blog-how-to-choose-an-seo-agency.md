@@ -3,8 +3,8 @@
 **Deliverable:** Resource blog post
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/how-to-choose-an-seo-agency/
-**Parent Hub:** /blog/
+**URL:** /learn/how-to-choose-an-seo-agency/
+**Parent Hub:** /learn/
 **Primary Keyword:** how to choose an SEO agency
 **Secondary Keywords:** choosing an SEO company, what to look for in an SEO agency, SEO agency red flags, questions to ask an SEO agency, hiring an SEO company, SEO agency pricing
 **Title Tag:** How to Choose an SEO Agency: A Buyer's Guide
@@ -37,7 +37,7 @@ An agency that proposes a strategy before understanding your starting point is g
 Legitimate agencies can explain what they do and why they do it in clear terms. They should be able to describe:
 - How they conduct keyword research
 - How they approach content creation or optimization
-- What their [technical SEO](/services/technical-seo/) process looks like
+- What their [technical SEO](/services/seo-audit/technical-seo-audit/) process looks like
 - How they build links and what types of links they pursue
 - How they track and report results
 - What their timeline expectations are
@@ -230,7 +230,7 @@ How an agency structures its contract tells you a lot about how they operate.
 
 One of the most telling evaluations: does the agency practice what it preaches?
 
-- **Search for their core keywords.** If an agency selling [local SEO services](/services/local-seo/) does not rank for relevant terms in their own market, that is worth questioning.
+- **Search for their core keywords.** If an agency selling [local SEO services](/services/) does not rank for relevant terms in their own market, that is worth questioning.
 - **Review their website.** Is it fast? Mobile-friendly? Well-structured? Does it have quality content?
 - **Check their Google Business Profile.** Is it complete, with reviews and regular posts?
 - **Look at their content.** Do they publish substantive thought leadership, or is their blog full of generic filler?

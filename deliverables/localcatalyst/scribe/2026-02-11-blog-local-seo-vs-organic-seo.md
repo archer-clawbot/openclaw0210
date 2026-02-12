@@ -3,8 +3,8 @@
 **Deliverable:** Blog post (Hub 1 educational content)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/local-seo-vs-organic-seo/
-**Parent Hub:** /local-seo-services/
+**URL:** /learn/local-seo-vs-organic-seo/
+**Parent Hub:** /services/
 **Primary Keyword:** local SEO vs organic SEO
 **Secondary Keywords:** local search vs organic search, difference between local and organic SEO, local SEO vs traditional SEO, local pack vs organic results
 **Title Tag:** Local SEO vs Organic SEO: Key Differences | LocalCatalyst.ai
@@ -14,7 +14,7 @@
 
 ---
 
-One of the most common points of confusion for business owners investing in search engine optimization is the difference between local SEO and organic SEO. They are related, they share some common principles, but they are fundamentally different disciplines targeting different types of search results with different ranking algorithms. Understanding the distinction is essential to allocating your marketing budget effectively and choosing the right [local SEO services](/local-seo-services/) for your goals.
+One of the most common points of confusion for business owners investing in search engine optimization is the difference between local SEO and organic SEO. They are related, they share some common principles, but they are fundamentally different disciplines targeting different types of search results with different ranking algorithms. Understanding the distinction is essential to allocating your marketing budget effectively and choosing the right [local SEO services](/services/) for your goals.
 
 This guide breaks down the differences clearly, explains when you need one versus the other, and shows how the two work together.
 
@@ -60,7 +60,7 @@ According to research from Whitespark's annual Local Search Ranking Factors surv
 6. **Citation signals** (NAP consistency across directories, citation volume) — ~7%
 7. **Personalization** (searcher proximity to business) — ~7%
 
-Notice that your [Google Business Profile](/google-business-profile-optimization/) — a property external to your website — is the single largest factor. This is a fundamental difference from organic SEO.
+Notice that your [Google Business Profile](/services/gbp-optimization/) — a property external to your website — is the single largest factor. This is a fundamental difference from organic SEO.
 
 ### Top Organic Ranking Factors
 
@@ -88,15 +88,15 @@ Conversely, content depth and topical authority — the dominant organic factors
 - Creating location-specific landing pages on your website
 - Implementing LocalBusiness schema markup
 - Building links from locally relevant websites
-- Managing your online reputation through [reputation management](/reputation-management/)
+- Managing your online reputation through review management and response strategy
 
 ### Organic SEO Strategy Focuses On:
 
 - Creating in-depth, authoritative content that matches search intent
-- Building a strong backlink profile through [link building](/link-building-services/) and digital PR
+- Building a strong backlink profile through [link building](/managed/) and digital PR
 - Optimizing technical performance (speed, crawlability, Core Web Vitals)
 - Structuring your site architecture and internal linking
-- Targeting keyword opportunities through comprehensive [content strategy](/content-strategy/)
+- Targeting keyword opportunities through comprehensive [content strategy](/services/content-pages/)
 - Earning featured snippets and other SERP features
 
 ## When You Need Local SEO
@@ -141,7 +141,7 @@ Local and organic SEO are not independent — they have a symbiotic relationship
 
 - **Content created for organic SEO supports local rankings.** Blog posts and guides that earn backlinks increase your domain authority, which supports your local SEO. Locally focused content also gives you more internal linking opportunities to your location and service pages.
 
-- **Technical improvements benefit both.** Faster page speed, better mobile experience, and clean schema markup improve both your local and organic performance simultaneously. Our [technical SEO services](/technical-seo/) address both channels at once.
+- **Technical improvements benefit both.** Faster page speed, better mobile experience, and clean schema markup improve both your local and organic performance simultaneously. Our [technical SEO services](/services/seo-audit/technical-seo-audit/) address both channels at once.
 
 ## The Bottom Line
 
@@ -165,6 +165,6 @@ There is significant overlap, but yes — local SEO often requires specialized t
 
 ## See Where You Stand in Both
 
-The first step in any SEO strategy is understanding your current position — in both local and organic search. Our free audit evaluates your local pack visibility, organic rankings, technical health, and competitive landscape so you know exactly where to focus your efforts.
+The first step in any SEO strategy is understanding your current position — in both local and organic search. Our [SEO Audit](/services/seo-audit/) evaluates your local pack visibility, organic rankings, technical health, and competitive landscape so you know exactly where to focus your efforts.
 
 [Order Your SEO Audit](/services/seo-audit/) and see how your business performs across local and organic search.

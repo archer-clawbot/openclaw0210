@@ -3,8 +3,8 @@
 **Deliverable:** Hub blog post
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/how-often-seo-audit/
-**Parent Hub:** /seo-audit-services/
+**URL:** /learn/how-often-seo-audit/
+**Parent Hub:** /services/seo-audit/
 **Primary Keyword:** how often should you do an SEO audit
 **Secondary Keywords:** SEO audit frequency, SEO audit schedule, when to do an SEO audit, regular SEO audits, SEO audit cadence
 **Title Tag:** How Often Should You Do an SEO Audit?
@@ -16,7 +16,7 @@
 
 ## How Often Should You Do an SEO Audit?
 
-The short answer: most businesses benefit from a comprehensive SEO audit every 6-12 months, with lighter technical checks monthly or quarterly. The longer answer depends on your site size, competitive environment, rate of content production, and how actively Google's algorithms are shifting in your industry. Understanding the right cadence ensures your [SEO audit services](/seo-audit-services/) investment is timed for maximum impact rather than wasted on redundant checks.
+The short answer: most businesses benefit from a comprehensive SEO audit every 6-12 months, with lighter technical checks monthly or quarterly. The longer answer depends on your site size, competitive environment, rate of content production, and how actively Google's algorithms are shifting in your industry. Understanding the right cadence ensures your [SEO audit services](/services/seo-audit/) investment is timed for maximum impact rather than wasted on redundant checks.
 
 This guide breaks down the recommended audit frequency for different situations and explains the events that should trigger an unscheduled audit.
 
@@ -72,7 +72,7 @@ This rotating quarterly approach ensures every major audit category receives att
 
 ### Tier 3: Comprehensive Annual Audit (Full Scope)
 
-A complete, top-to-bottom evaluation covering every element in a thorough [SEO audit template](/blog/seo-audit-template/). This is the audit that establishes your yearly baseline, informs annual strategy, and catches issues that lighter reviews may miss.
+A complete, top-to-bottom evaluation covering every element in a thorough [SEO audit template](/learn/seo-audit-template/). This is the audit that establishes your yearly baseline, informs annual strategy, and catches issues that lighter reviews may miss.
 
 The annual comprehensive audit is also the appropriate time to evaluate whether your overall SEO strategy needs a directional shift based on market changes, algorithm updates, or business goal evolution.
 
@@ -124,7 +124,7 @@ Any significant structural change to your site, such as a domain change, CMS mig
 
 ### New SEO Provider Onboarding
 
-When switching SEO providers, a fresh audit establishes an independent baseline. It also reveals any issues inherited from previous work, including potentially harmful [link building practices](/link-building-services/) or technical debt.
+When switching SEO providers, a fresh audit establishes an independent baseline. It also reveals any issues inherited from previous work, including potentially harmful [link building practices](/managed/) or technical debt.
 
 ### Major Algorithm Updates
 

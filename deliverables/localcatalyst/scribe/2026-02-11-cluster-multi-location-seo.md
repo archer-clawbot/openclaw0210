@@ -3,22 +3,22 @@
 **Deliverable:** Service sub-page (cluster)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /local-seo-services/multi-location-seo/
-**Parent Hub:** /local-seo-services/
+**URL:** /services/multi-location-seo/
+**Parent Hub:** /services/
 **Primary Keyword:** multi-location SEO
 **Secondary Keywords:** multi-location local SEO, multi-location SEO strategy, franchise SEO, multiple location SEO management, enterprise local SEO
-**Title Tag:** Multi-Location SEO — Scale Local Search Across Every Location | LocalCatalyst.ai
+**Title Tag:** Multi-Location SEO — Scale Every Location | LocalCatalyst
 **Meta Description:** Multi-location SEO that drives results for every location. GBP management at scale, unique location pages, per-location reporting, and franchise strategies.
 **H1:** Multi-Location SEO: Scalable Local Search Strategy for Every Location You Operate
 **Word Count Target:** 2,200
 
 ---
 
-*Breadcrumbs: [Home](/) > [Local SEO Services](/local-seo-services/) > Multi-Location SEO*
+*Breadcrumbs: [Home](/) > [Local SEO Services](/services/) > Multi-Location SEO*
 
 ## Multi-Location SEO: Scalable Local Search Strategy for Every Location You Operate
 
-Managing local SEO for a single location is challenging enough. Managing it across five, fifty, or five hundred locations introduces an entirely different scale of complexity — duplicate content risks, inconsistent NAP data, competing GBP listings, fragmented review management, and the operational challenge of maintaining unique, high-quality optimization for each location without letting any fall through the cracks. Our [local SEO services](/local-seo-services/) include dedicated multi-location strategies designed for businesses that need every location to perform in its local market, not just the flagship.
+Managing local SEO for a single location is challenging enough. Managing it across five, fifty, or five hundred locations introduces an entirely different scale of complexity — duplicate content risks, inconsistent NAP data, competing GBP listings, fragmented review management, and the operational challenge of maintaining unique, high-quality optimization for each location without letting any fall through the cracks. Our [local SEO services](/services/) include dedicated multi-location strategies designed for businesses that need every location to perform in its local market, not just the flagship.
 
 The stakes for multi-location businesses are compounded by the math. If a single-location plumber loses ranking for one keyword, they lose one stream of leads. If a 20-location HVAC company loses ranking across five locations, they lose five streams — and the revenue impact is five times greater. Conversely, the upside is multiplicative: effective multi-location SEO scales wins across every market you serve, turning local search into a predictable, system-wide customer acquisition channel.
 
@@ -36,7 +36,7 @@ Common GBP management failures at scale include:
 - **Review abandonment** — Reviews accumulate unanswered at locations without a designated review manager
 - **Incorrect hours and NAP data** — Locations that change hours or phone numbers without updating GBP
 
-We implement centralized GBP management with location-specific optimization protocols. Each profile receives individualized attention — unique descriptions, location-relevant [photos and videos](/google-business-profile-management/gbp-photos-videos/), market-specific [posting schedules](/google-business-profile-management/gbp-posts/), and designated review response workflows — managed through a unified system that prevents any location from being neglected.
+We implement centralized GBP management with location-specific optimization protocols. Each profile receives individualized attention — unique descriptions, location-relevant [photos and videos](/services/gbp-optimization/gbp-photos-videos/), market-specific [posting schedules](/services/gbp-optimization/gbp-posts/), and designated review response workflows — managed through a unified system that prevents any location from being neglected.
 
 ### Creating Unique Content Per Location
 
@@ -99,7 +99,7 @@ Each location page should follow a consistent structural template while containi
 7. **Location details** — Full address, phone, hours, parking information, accessibility details
 8. **Driving directions** — From major highways, landmarks, or adjacent neighborhoods
 9. **FAQ section** — Questions specific to this location's market
-10. **LocalBusiness schema markup** — Unique [structured data](/technical-seo-services/structured-data/) for each location with correct NAP, geo-coordinates, and service area
+10. **LocalBusiness schema markup** — Unique [structured data](/services/seo-audit/structured-data/) for each location with correct NAP, geo-coordinates, and service area
 
 ### Avoiding Thin Content Penalties
 
@@ -120,7 +120,7 @@ Common citation challenges for multi-location businesses:
 - **Inconsistent naming** — "Smith Dental - North Austin" in one directory and "Smith Dental North" in another
 - **Missing locations** — Newer locations that have not been submitted to major directories
 
-We use citation management platforms to monitor NAP accuracy across all locations simultaneously, flagging inconsistencies for correction and submitting new locations to the full [citation network](/citation-building-services/) upon opening.
+We use citation management platforms to monitor NAP accuracy across all locations simultaneously, flagging inconsistencies for correction and submitting new locations to the full [citation network](/services/citation-building/) upon opening.
 
 ### Location-Specific Citation Opportunities
 
@@ -171,7 +171,7 @@ Effective multi-location internal linking patterns:
 - **Location pages to service pages** — Each location page links to the main service pages for cross-pollination of authority
 - **Hub page** — A central "/locations/" page that links to every individual location, serving as a sitemap for the location architecture
 
-This [internal linking strategy](/on-page-seo-services/internal-linking-strategy/) distributes authority across all location pages and helps Google understand the geographic scope of your business.
+This [internal linking strategy](/services/content-pages/internal-linking-strategy/) distributes authority across all location pages and helps Google understand the geographic scope of your business.
 
 ## Reporting and Tracking Per Location
 

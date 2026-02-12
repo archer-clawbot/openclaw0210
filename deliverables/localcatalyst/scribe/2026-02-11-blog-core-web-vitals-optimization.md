@@ -3,7 +3,10 @@
 **Deliverable:** Blog post content
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/core-web-vitals-optimization/
+**URL:** /learn/core-web-vitals-optimization/
+**Title Tag:** Core Web Vitals Optimization — Complete Guide | LocalCatalyst
+**Meta Description:** Master Core Web Vitals optimization for local businesses. Fix LCP, INP, and CLS to improve rankings, conversions, and user experience in 2026.
+**H1:** Core Web Vitals Optimization: A Complete Guide for Local Businesses
 **Primary Keyword:** core web vitals optimization, improve core web vitals
 **Secondary Keywords:** LCP optimization, INP optimization, CLS optimization, page speed local seo, core web vitals ranking factor, google page experience
 **Category:** technical-seo
@@ -75,7 +78,7 @@ You need both lab data (simulated tests) and field data (real user measurements)
 - **WebPageTest** — Advanced testing with filmstrip views, waterfall charts, and multi-step transaction testing. Useful for diagnosing complex performance issues.
 - **Chrome DevTools Performance Panel** — Frame-by-frame analysis of rendering, scripting, and layout behavior. Essential for debugging INP and CLS issues.
 
-For a comprehensive approach to performance auditing, our [Technical SEO service](/services/technical-seo/) includes full Core Web Vitals analysis as a standard component.
+For a comprehensive approach to performance auditing, our [Technical SEO service](/services/seo-audit/technical-seo-audit/) includes full Core Web Vitals analysis as a standard component.
 
 ---
 
@@ -170,7 +173,7 @@ Here's where it becomes tangible for local businesses:
 - **Local pack results** are fiercely competitive. In markets where multiple businesses have strong GBP profiles, solid review counts, and consistent citations, page experience can determine who ranks third versus fourth.
 - **Conversion rate impact** is often larger than the ranking impact. A site that loads in 2 seconds instead of 5 seconds will convert more of the visitors it already gets — regardless of ranking changes.
 
-Combine Core Web Vitals optimization with a strong [Google Business Profile](/services/google-business-profile-optimization/) and disciplined [local link building](/blog/local-link-building-strategies/), and you're building on all three pillars of local search prominence.
+Combine Core Web Vitals optimization with a strong [Google Business Profile](/services/gbp-optimization/) and disciplined [local link building](/learn/local-link-building-strategies/), and you're building on all three pillars of local search prominence.
 
 ---
 
@@ -200,4 +203,4 @@ Every second your site takes to load, every layout shift that causes a misclick,
 
 Core Web Vitals optimization isn't optional for local businesses competing in 2026. It's table stakes.
 
-If your site is failing Core Web Vitals or you're not sure where you stand, **[request a free technical SEO audit](/free-audit/)** and we'll deliver a prioritized action plan to fix what's broken and measure the impact on your rankings and conversions.
+If your site is failing Core Web Vitals or you're not sure where you stand, **[order an SEO Audit](/services/seo-audit/)** and we'll deliver a prioritized action plan to fix what's broken and measure the impact on your rankings and conversions.

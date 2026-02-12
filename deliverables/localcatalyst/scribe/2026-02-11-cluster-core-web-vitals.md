@@ -3,8 +3,8 @@
 **Deliverable:** Service sub-page (cluster)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /technical-seo-services/core-web-vitals/
-**Parent Hub:** /technical-seo-services/
+**URL:** /services/seo-audit/core-web-vitals/
+**Parent Hub:** /services/seo-audit/
 **Primary Keyword:** Core Web Vitals optimization
 **Secondary Keywords:** LCP optimization, INP optimization, CLS optimization, page experience signal, Core Web Vitals SEO, CrUX data
 **Title Tag:** Core Web Vitals Optimization for SEO | LocalCatalyst.ai
@@ -14,11 +14,11 @@
 
 ---
 
-**Breadcrumbs:** [Home](/) > [Technical SEO Services](/technical-seo-services/) > Core Web Vitals
+**Breadcrumbs:** [Home](/) > [Technical SEO Services](/services/seo-audit/technical-seo-audit/) > Core Web Vitals
 
 ## What Core Web Vitals Are and Why They Matter
 
-Core Web Vitals (CWV) are Google's standardized metrics for measuring real-world user experience on your website. As a key pillar of our [technical SEO services](/technical-seo-services/), Core Web Vitals optimization ensures your site meets Google's page experience thresholds — a confirmed ranking signal that influences visibility across every page of your site. Since the Page Experience update rolled out, sites that pass all three CWV metrics have a measurable ranking advantage over sites that don't.
+Core Web Vitals (CWV) are Google's standardized metrics for measuring real-world user experience on your website. As a key pillar of our [technical SEO services](/services/seo-audit/technical-seo-audit/), Core Web Vitals optimization ensures your site meets Google's page experience thresholds — a confirmed ranking signal that influences visibility across every page of your site. Since the Page Experience update rolled out, sites that pass all three CWV metrics have a measurable ranking advantage over sites that don't.
 
 Google evaluates three specific metrics: Largest Contentful Paint (LCP), Interaction to Next Paint (INP), and Cumulative Layout Shift (CLS). Each measures a distinct dimension of user experience — loading, interactivity, and visual stability. Together, they quantify whether your site feels fast, responsive, and reliable to real visitors.
 
@@ -116,7 +116,7 @@ LCP optimization requires ensuring the largest content element loads and renders
 
 ### Server Response Time
 
-A slow server delays everything. Target TTFB under 400ms. See our comprehensive guide on [site speed optimization](/technical-seo-services/site-speed-optimization/) for server-side strategies including hosting, caching, and CDN configuration.
+A slow server delays everything. Target TTFB under 400ms. See our comprehensive guide on [site speed optimization](/services/seo-audit/site-speed-optimization/) for server-side strategies including hosting, caching, and CDN configuration.
 
 ### Image Optimization for LCP
 

@@ -3,8 +3,8 @@
 **Deliverable:** Resource blog post
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/seo-glossary/
-**Parent Hub:** /blog/
+**URL:** /learn/seo-glossary/
+**Parent Hub:** /learn/
 **Primary Keyword:** SEO glossary
 **Secondary Keywords:** SEO terms, SEO definitions, search engine optimization glossary, local SEO terms, technical SEO glossary
 **Title Tag:** SEO Glossary: 150+ Terms Every Business Owner Should Know
@@ -69,7 +69,7 @@ A hyperlink that points to a page that no longer exists, returning a 404 error. 
 An HTML element (`rel="canonical"`) that tells search engines which version of a page is the primary version when duplicate or near-duplicate content exists. Proper canonicalization prevents duplicate content issues and consolidates ranking signals.
 
 **Citation** *(Local SEO)*
-Any online mention of a business's name, address, and phone number (NAP). Citations appear on business directories, social media profiles, and industry-specific platforms. Consistent citations across the web strengthen [local SEO performance](/services/local-seo/).
+Any online mention of a business's name, address, and phone number (NAP). Citations appear on business directories, social media profiles, and industry-specific platforms. Consistent citations across the web strengthen [local SEO performance](/services/).
 
 **Click-Through Rate (CTR)** *(Analytics)*
 The percentage of people who click on your listing after seeing it in search results. CTR is calculated by dividing clicks by impressions. Higher CTR signals to Google that your result is relevant and appealing to searchers.
@@ -87,7 +87,7 @@ A set of specific metrics Google uses to measure user experience on a page. The 
 The number of pages a search engine bot will crawl on your site within a given timeframe. Large websites need to manage crawl budget carefully to ensure important pages get discovered and indexed.
 
 **Crawling** *(Technical SEO)*
-The process by which search engine bots discover web pages by following links and reading sitemaps. Crawling is the first step in getting a page indexed and ranked. See our [guide to how Google Search works](/blog/how-google-search-works/) for a deeper explanation.
+The process by which search engine bots discover web pages by following links and reading sitemaps. Crawling is the first step in getting a page indexed and ranked. See our [guide to how Google Search works](/learn/how-google-search-works/) for a deeper explanation.
 
 ---
 
@@ -136,13 +136,13 @@ A tool within Google Search Console that allows you to see how Googlebot views a
 ## G
 
 **GBP (Google Business Profile)** *(Local SEO)*
-The free business listing that appears in Google Search and Google Maps. Previously called Google My Business (GMB). Your GBP is the most important asset in local SEO — it controls how your business appears in the Map Pack. Proper [GBP optimization](/services/google-business-profile-optimization/) directly impacts local visibility.
+The free business listing that appears in Google Search and Google Maps. Previously called Google My Business (GMB). Your GBP is the most important asset in local SEO — it controls how your business appears in the Map Pack. Proper [GBP optimization](/services/gbp-optimization/) directly impacts local visibility.
 
 **Geotargeting** *(Local SEO)*
 The practice of delivering different content or results based on a user's geographic location. In local SEO, geotargeting means optimizing content for specific cities, neighborhoods, or service areas.
 
 **Google Algorithm Update** *(General SEO)*
-A change to Google's search algorithm that affects how pages are ranked. Major named updates include Panda, Penguin, Hummingbird, RankBrain, BERT, and the Helpful Content Update. Google also rolls out several core updates per year. See our [complete guide to Google algorithm updates](/blog/google-algorithm-updates/) for a full timeline.
+A change to Google's search algorithm that affects how pages are ranked. Major named updates include Panda, Penguin, Hummingbird, RankBrain, BERT, and the Helpful Content Update. Google also rolls out several core updates per year. See our [complete guide to Google algorithm updates](/learn/google-algorithm-updates/) for a full timeline.
 
 **Google Maps Pack (Map Pack / Local Pack / 3-Pack)** *(Local SEO)*
 The section of Google search results that displays three local business listings alongside a map. Appearing in the Map Pack is critical for local businesses since it occupies prime real estate in search results and drives significant click-through traffic.
@@ -222,7 +222,7 @@ The ranking value passed from one page to another through a hyperlink. Pages wit
 See "Google Maps Pack" above.
 
 **Local SEO** *(Local SEO)*
-The practice of optimizing a business's online presence to attract more customers from local searches. Local SEO encompasses Google Business Profile optimization, local citation building, review management, localized content, and local link building. It is the core focus of what we do at [LocalCatalyst](/services/local-seo/).
+The practice of optimizing a business's online presence to attract more customers from local searches. Local SEO encompasses Google Business Profile optimization, local citation building, review management, localized content, and local link building. It is the core focus of what we do at [LocalCatalyst](/services/).
 
 **Long-Tail Keyword** *(General SEO)*
 A longer, more specific search query, typically three or more words. Long-tail keywords have lower search volume but higher conversion rates and are usually easier to rank for. Example: "emergency plumber Austin TX" is a long-tail variant of "plumber Austin."
@@ -283,7 +283,7 @@ How quickly a web page loads and becomes interactive. Page speed is a confirmed 
 Google's original algorithm for measuring the importance of web pages based on the quantity and quality of links pointing to them. While Google no longer publicly shares PageRank scores, the underlying concept of link-based authority remains central to how rankings work.
 
 **PPC (Pay-Per-Click)** *(Paid Search)*
-An advertising model where advertisers pay each time a user clicks on their ad. Google Ads is the most common PPC platform. See our [comparison of SEO vs PPC](/blog/seo-vs-ppc/) for guidance on when to use each approach.
+An advertising model where advertisers pay each time a user clicks on their ad. Google Ads is the most common PPC platform. See our [comparison of SEO vs PPC](/learn/seo-vs-ppc/) for guidance on when to use each approach.
 
 ---
 
@@ -325,7 +325,7 @@ The underlying goal behind a user's search query. The four main types of search 
 The page displayed by a search engine in response to a query. Modern SERPs contain organic results, paid ads, featured snippets, knowledge panels, Map Packs, image results, video carousels, People Also Ask boxes, and more.
 
 **Sitemap (XML Sitemap)** *(Technical SEO)*
-An XML file that lists all the important pages on your website, helping search engines discover and crawl them efficiently. Submit your sitemap through Google Search Console. A well-structured sitemap is a basic requirement of [technical SEO](/services/technical-seo/).
+An XML file that lists all the important pages on your website, helping search engines discover and crawl them efficiently. Submit your sitemap through Google Search Console. A well-structured sitemap is a basic requirement of [technical SEO](/services/seo-audit/technical-seo-audit/).
 
 **SSL Certificate** *(Technical SEO)*
 A digital certificate that authenticates a website's identity and enables HTTPS encryption. An SSL certificate is required for HTTPS, which is a Google ranking factor.
@@ -351,7 +351,7 @@ A website's demonstrated expertise on a specific subject area, built through com
 ## U
 
 **URL Structure** *(Technical SEO)*
-The format and organization of page URLs on a website. Clean, descriptive URLs that include relevant keywords are preferred over long, parameter-heavy URLs. Example of a good URL: `/services/local-seo/` vs. a poor URL: `/page?id=4827&cat=3`.
+The format and organization of page URLs on a website. Clean, descriptive URLs that include relevant keywords are preferred over long, parameter-heavy URLs. Example of a good URL: `/services/` vs. a poor URL: `/page?id=4827&cat=3`.
 
 **User Experience (UX)** *(General SEO)*
 The overall experience a visitor has when interacting with a website. Google uses UX-related signals (Core Web Vitals, mobile-friendliness, HTTPS, non-intrusive interstitials) as ranking factors.

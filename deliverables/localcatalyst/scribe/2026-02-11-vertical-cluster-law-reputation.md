@@ -16,7 +16,7 @@
 
 An attorney's reputation has always been the foundation of client acquisition. Referrals, courtroom presence, and professional standing drove legal business for decades. Today, that reputation lives online, and a single negative review on Google or Avvo can override years of professional excellence in the eyes of a prospective client. Within our [law firm SEO](/industries/law-firm-seo/) framework, reputation management is not a vanity exercise but a direct revenue driver that determines whether search visibility converts into signed retainers.
 
-LocalCatalyst's [reputation management services](/reputation-management-services/) for attorneys address the ethical complexities and platform-specific challenges that make legal reputation management distinct from any other industry.
+LocalCatalyst's reputation management services for attorneys address the ethical complexities and platform-specific challenges that make legal reputation management distinct from any other industry.
 
 ## Why Reputation Matters More for Attorneys
 
@@ -127,4 +127,10 @@ Do not confirm or expand upon any case details in your public response, even if 
 
 Your professional reputation represents decades of work, and in the digital era, it is shaped by online reviews as much as courtroom results. Proactive reputation management ensures that your online presence reflects the quality of your practice. LocalCatalyst's CATALYST methodology includes comprehensive reputation auditing and ongoing monitoring tailored to the ethical requirements of legal practice.
 
-[Order an SEO Audit](/services/seo-audit/) to see how your firm's online reputation compares to local competitors, or [reach out to our team](/contact/) to build a reputation management strategy that protects your practice and drives client growth.
+---
+
+**Ready to see how your online reputation stacks up?** [Get Your Law Firm SEO Audit ($297)](/services/seo-audit/)
+
+---
+
+**Ready to explore the full range of local SEO solutions?** [See All SEO Services](/services/)

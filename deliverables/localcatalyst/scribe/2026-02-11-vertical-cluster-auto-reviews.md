@@ -14,13 +14,13 @@
 
 ---
 
-*Breadcrumbs: [Home](/) > [Industries](/industries/) > [Auto Repair SEO](/industries/auto-repair-seo/) > Auto Repair Review Management*
+*Breadcrumbs: [Home](/) > [Industries](/services/) > [Auto Repair SEO](/industries/auto-repair-seo/) > Auto Repair Review Management*
 
 ## Review Management for Auto Shops: The Trust Engine That Drives Rankings
 
 Auto repair has a trust problem that no other local industry faces quite as acutely. The average customer does not understand what is happening under their hood. They cannot independently verify whether a repair was necessary, whether the parts installed were quality, or whether the price charged was fair. They are relying entirely on trust — and in the absence of a personal recommendation, that trust comes from reviews. As our [auto repair SEO guide](/industries/auto-repair-seo/) explains, reviews are simultaneously a primary ranking factor for Map Pack visibility and the single most influential decision factor for customers choosing between shops. A strong review profile is not a nice-to-have. It is a competitive necessity.
 
-The auto repair shops that dominate local search — the ones consistently appearing in Map Pack results and converting browsers into customers — have one thing in common: a systematic, relentless approach to review generation and management. They do not leave reviews to chance. They ask every customer, every time, and they respond to every review that comes in. Our [reputation management services](/reputation-management-services/) build this systematic approach into your shop's daily operations.
+The auto repair shops that dominate local search — the ones consistently appearing in Map Pack results and converting browsers into customers — have one thing in common: a systematic, relentless approach to review generation and management. They do not leave reviews to chance. They ask every customer, every time, and they respond to every review that comes in. Our reputation management services build this systematic approach into your shop's daily operations.
 
 ## Why Reviews Are the Deciding Factor in Auto Repair
 

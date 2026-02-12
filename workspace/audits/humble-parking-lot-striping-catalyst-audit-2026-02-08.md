@@ -1,4 +1,4 @@
-# APEX SEO AUDIT REPORT
+# CATALYST SEO AUDIT REPORT
 ## Humble Parking Lot Striping
 
 **Website:** https://www.humbleparkinglotstriping.com  
@@ -23,11 +23,11 @@
 
 ---
 
-## APEX MASTER SCORECARD
+## CATALYST MASTER SCORECARD
 
 ```
 ═══════════════════════════════════════════════════════════════════════════
-                         APEX MASTER SCORECARD
+                         CATALYST MASTER SCORECARD
                       Humble Parking Lot Striping
                           February 8, 2026
 ═══════════════════════════════════════════════════════════════════════════
@@ -111,7 +111,7 @@ AI/CROSS-PLATFORM (10% weight)
 └─────────────────────────────────┴───────┴─────────────────────────────────────────────────┘
 
 ═══════════════════════════════════════════════════════════════════════════
-                         OVERALL APEX SCORE
+                         OVERALL CATALYST SCORE
 ═══════════════════════════════════════════════════════════════════════════
 
 Formula: Route 1 (25%) + Route 2 (30%) + Route 4 (25%) + Route 5 (10%) + AI/XP (10%)
@@ -125,7 +125,7 @@ Calculation:
 └── TOTAL:                   2.38/10
 
 ═══════════════════════════════════════════════════════════════════════════
-                 OVERALL APEX SCORE: 2.4/10 — CRITICAL
+                 OVERALL CATALYST SCORE: 2.4/10 — CRITICAL
 ═══════════════════════════════════════════════════════════════════════════
 ```
 
@@ -240,7 +240,7 @@ Humble, TX 77346
 
 | Metric | Current | Target |
 |--------|---------|--------|
-| APEX Score | 2.4/10 | 7.0/10 |
+| CATALYST Score | 2.4/10 | 7.0/10 |
 | GBP | None | Verified + Optimized |
 | Citations | ~2 | 50+ |
 | Google Reviews | 0 | 25+ |
@@ -324,7 +324,7 @@ Notes: Add alt text with keywords
 
 ## SUMMARY
 
-**APEX Score: 2.4/10 — CRITICAL**
+**CATALYST Score: 2.4/10 — CRITICAL**
 
 Website is technically excellent (Route 2: 6.6/10) — fast load times, complete LocalBusiness schema, good content structure. But the business is invisible in Local Pack because:
 
@@ -333,10 +333,10 @@ Website is technically excellent (Route 2: 6.6/10) — fast load times, complete
 - **~2 citations** (Citations = 2)
 - **No social presence** (sameAs empty)
 
-This is 100% an off-site problem. The fix is straightforward: GBP + citations + reviews. With focused off-page work, expect APEX 7.0+ within 90 days.
+This is 100% an off-site problem. The fix is straightforward: GBP + citations + reviews. With focused off-page work, expect CATALYST 7.0+ within 90 days.
 
 ---
 
-*Report ID: humble-parking-lot-striping-APEX-audit-2026-02-08*  
+*Report ID: humble-parking-lot-striping-catalyst-audit-2026-02-08*  
 *Next Review: 30 days*  
 *LocalCatalyst.ai*

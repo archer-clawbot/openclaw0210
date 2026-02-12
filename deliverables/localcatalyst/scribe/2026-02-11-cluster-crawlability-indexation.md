@@ -3,8 +3,8 @@
 **Deliverable:** Service sub-page (cluster)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /technical-seo-services/crawlability-indexation/
-**Parent Hub:** /technical-seo-services/
+**URL:** /services/seo-audit/crawlability-indexation/
+**Parent Hub:** /services/seo-audit/
 **Primary Keyword:** crawlability and indexation
 **Secondary Keywords:** crawl budget optimization, XML sitemap SEO, robots.txt SEO, canonical tags, indexation issues, crawl errors
 **Title Tag:** Crawlability & Indexation — Get Your Pages Indexed | LocalCatalyst.ai
@@ -14,11 +14,11 @@
 
 ---
 
-*Breadcrumbs: [Home](/) > [Technical SEO Services](/technical-seo-services/) > Crawlability & Indexation*
+*Breadcrumbs: [Home](/) > [Technical SEO Services](/services/seo-audit/technical-seo-audit/) > Crawlability & Indexation*
 
 ## Crawlability and Indexation: Ensuring Google Can Find, Crawl, and Index Every Important Page
 
-A page that Google cannot find does not exist in search. A page that Google finds but cannot crawl is invisible. A page that Google crawls but does not index will never appear in search results. This three-step chain — discovery, crawling, indexation — is the prerequisite for every ranking your website will ever earn. Our [technical SEO services](/technical-seo-services/) treat crawlability and indexation as the foundational layer of SEO because every other optimization is wasted if Google cannot properly process your pages.
+A page that Google cannot find does not exist in search. A page that Google finds but cannot crawl is invisible. A page that Google crawls but does not index will never appear in search results. This three-step chain — discovery, crawling, indexation — is the prerequisite for every ranking your website will ever earn. Our [technical SEO services](/services/seo-audit/technical-seo-audit/) treat crawlability and indexation as the foundational layer of SEO because every other optimization is wasted if Google cannot properly process your pages.
 
 Most local businesses assume Google automatically finds and indexes all their pages. It does not. Google's crawlers operate within constraints — crawl budgets, processing limits, and algorithmic decisions about which pages deserve indexation. Errors in your XML sitemap, robots.txt, canonical tags, or internal linking structure can silently prevent important pages from being indexed while allowing low-value pages to consume your crawl budget. The result is a site where your best content never reaches search results.
 
@@ -191,7 +191,7 @@ Google Search Console provides several reports essential for crawlability monito
 - **URL inspection** — Tests how Google sees a specific URL, including crawl date, indexation status, and canonical determination
 - **Sitemaps report** — Shows submission status and indexation rates for submitted sitemaps
 
-We monitor these reports weekly as part of ongoing [technical SEO management](/technical-seo-services/), catching indexation problems before they impact rankings.
+We monitor these reports weekly as part of ongoing [technical SEO management](/services/seo-audit/technical-seo-audit/), catching indexation problems before they impact rankings.
 
 ## Fixing Orphan Pages
 

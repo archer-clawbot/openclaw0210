@@ -3,8 +3,8 @@
 **Deliverable:** Blog post (Hub 4 educational content)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/redirect-management-seo/
-**Parent Hub:** /technical-seo-services/
+**URL:** /learn/redirect-management-seo/
+**Parent Hub:** /services/seo-audit/
 **Primary Keyword:** 301 redirects SEO
 **Secondary Keywords:** 301 vs 302 redirect, redirect chains, redirect mapping, site migration redirects, 307 redirect, meta refresh redirect
 **Title Tag:** 301 Redirects and SEO: Complete Guide | LocalCatalyst.ai
@@ -14,7 +14,7 @@
 
 ---
 
-Redirects are one of the most consequential technical SEO decisions you will make. A properly implemented redirect preserves rankings, link equity, and user experience during URL changes. A poorly implemented one can crater your organic traffic overnight. Our [technical SEO services](/technical-seo-services/) include redirect auditing as a core component because the mistakes we find are among the most damaging -- and among the most fixable.
+Redirects are one of the most consequential technical SEO decisions you will make. A properly implemented redirect preserves rankings, link equity, and user experience during URL changes. A poorly implemented one can crater your organic traffic overnight. Our [technical SEO services](/services/seo-audit/technical-seo-audit/) include redirect auditing as a core component because the mistakes we find are among the most damaging -- and among the most fixable.
 
 This guide covers every redirect type relevant to SEO, when to use each one, how to handle site migrations, and the common mistakes that cost sites traffic.
 
@@ -126,7 +126,7 @@ Site migrations (redesigns, replatforming, domain changes) are the highest-stake
 - **Keep old redirects active indefinitely.** There is no expiration date on the need for redirects. Backlinks pointing to old URLs may persist for years.
 - **Update internal links to point to new URLs directly.** Do not rely on redirects for internal navigation. Update your templates, menus, and content to reference the new URL.
 
-Our [local SEO audit](/local-seo-audit/) process includes a migration-readiness assessment for businesses planning platform changes, ensuring no traffic is lost in the transition.
+Our [local SEO audit](/services/seo-audit/local-seo-audit/) process includes a migration-readiness assessment for businesses planning platform changes, ensuring no traffic is lost in the transition.
 
 ## Common Redirect Mistakes
 
@@ -187,4 +187,10 @@ Use redirects when you want users and bots to be sent to a different URL (the ol
 
 ## Get Your Redirects Right the First Time
 
-Whether you are planning a site migration or cleaning up years of accumulated redirect debt, the stakes are high. [Order an SEO Audit](/services/seo-audit/) to get a complete picture of your redirect health, or [contact our team](/contact/) for migration planning support.
+Whether you are planning a site migration or cleaning up years of accumulated redirect debt, the stakes are high.
+
+---
+
+**Ready to find out what's holding your rankings back?** [Order Your SEO Audit ($297)](/services/seo-audit/)
+
+---

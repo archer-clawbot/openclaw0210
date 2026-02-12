@@ -4,22 +4,25 @@
 **Deliverable:** Service sub-page (cluster)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** `/seo-website-design/website-redesign-seo/`
-**Parent Hub:** `/seo-website-design/`
+**URL:** `/services/website-build/website-redesign-seo/`
+**Parent Hub:** `/services/website-build/`
+**Title Tag:** Website Redesign Without Losing SEO | LocalCatalyst
+**Meta Description:** Preserve rankings during website redesigns with proper redirects, content migration, and technical oversight. Protect years of SEO equity.
+**H1:** The Redesign That Destroyed Everything
 **Primary Keyword:** website redesign without losing SEO
 **Word Count Target:** 1,800
 
 ---
 
-**Breadcrumbs:** [Home](/) > [SEO Website Design](/seo-website-design/) > Website Redesign SEO
+**Breadcrumbs:** [Home](/) > [SEO Website Design](/services/website-build/) > Website Redesign SEO
 
 ## The Redesign That Destroyed Everything
 
 A law firm in Phoenix hired a design agency to rebuild their website. Beautiful new design. Modern layout. Stunning portfolio. Six weeks after launch, their organic traffic had dropped 67%. Rankings for the 30+ keywords that generated $40,000 in monthly leads — gone. The design agency's response: "Give it time. Google needs to recrawl the new site."
 
-It did not come back. Not after a month. Not after three months. The firm had to hire us to perform emergency SEO recovery — a process that took five months and cost more than the redesign itself. The root cause was preventable: the design agency changed every URL on the site without implementing redirects, deleted 14 pages that were generating organic traffic, and migrated from WordPress to a proprietary platform that broke the site's schema markup and internal linking architecture.
+It did not come back. Not after a month. Not after three months. The firm had to engage us for emergency SEO recovery — a process that took five months and cost more than the redesign itself. The root cause was preventable: the design agency changed every URL on the site without implementing redirects, deleted 14 pages that were generating organic traffic, and migrated from WordPress to a proprietary platform that broke the site's schema markup and internal linking architecture.
 
-This story is not unusual. It is the norm. As part of our [SEO website design](/seo-website-design/) services, we have rebuilt or recovered dozens of websites where a redesign destroyed years of accumulated SEO equity. The tragedy is that every one of these losses was preventable with proper planning.
+This story is not unusual. It is the norm. As part of our [SEO website design](/services/website-build/) services, we have rebuilt or recovered dozens of websites where a redesign destroyed years of accumulated SEO equity. The tragedy is that every one of these losses was preventable with proper planning.
 
 **[Order Your SEO Audit](/services/seo-audit/)** — If you are planning a redesign, start here. We will baseline your current rankings, traffic, and link equity so nothing gets lost in the transition.
 
@@ -75,7 +78,7 @@ Before any design work begins, we establish a complete baseline of your current 
 - **Content inventory** — Every page on your site, its traffic value, ranking keywords, and backlink count
 - **Technical baseline** — Current Core Web Vitals scores, schema markup, robots.txt, XML sitemap, canonical configuration
 
-This audit becomes the reference document for the entire redesign. Nothing moves forward without it. It also integrates with the [SEO audit](/seo-audit-services/) process that underpins all of our client engagements.
+This audit becomes the reference document for the entire redesign. Nothing moves forward without it. It also integrates with the [SEO audit](/services/seo-audit/) process that underpins all of our client engagements.
 
 ### Phase 2: URL Mapping and Redirect Plan
 
@@ -84,7 +87,7 @@ Every URL on the current site is mapped to its corresponding URL on the new site
 | Old URL | New URL | Redirect Type | Notes |
 |---|---|---|---|
 | `/services/plumbing-repair/` | `/plumbing/repair-services/` | 301 | 47 backlinks, 320 monthly visits |
-| `/blog/water-heater-guide/` | `/resources/water-heater-guide/` | 301 | 12 backlinks, 890 monthly visits |
+| `/learn/water-heater-guide/` | `/resources/water-heater-guide/` | 301 | 12 backlinks, 890 monthly visits |
 | `/about-us/` | `/about/` | 301 | 3 backlinks |
 | `/scottsdale-plumber/` | `/locations/scottsdale/` | 301 | 28 backlinks, 510 monthly visits |
 
@@ -113,7 +116,7 @@ During the build phase, we provide ongoing SEO oversight:
 - **Schema implementation** — All structured data (LocalBusiness, Service, BreadcrumbList, FAQ, Review) is implemented during development, not after launch
 - **Navigation architecture** — Menu structure, footer links, and sidebar navigation are designed to support both user experience and internal link distribution
 
-This is the same technical discipline we apply to every [WordPress SEO](/seo-website-design/wordpress-seo/) build and [landing page design](/seo-website-design/landing-page-design/) engagement.
+This is the same technical discipline we apply to every [WordPress SEO](/services/website-build/wordpress-seo/) build and [landing page design](/services/website-build/landing-page-design/) engagement.
 
 ### Phase 5: Pre-Launch Testing
 
@@ -191,7 +194,7 @@ Absolutely. We frequently partner with design agencies that handle creative and 
 
 ### What if our rankings have already dropped after a redesign?
 
-We offer post-redesign recovery services. The process starts with a [comprehensive SEO audit](/seo-audit-services/) comparing the current site to whatever baseline data is available from before the redesign. We identify missing redirects, lost content, broken technical elements, and any other ranking factors that changed. Recovery typically takes 2-5 months depending on the severity of the damage.
+We offer post-redesign recovery services. The process starts with a [comprehensive SEO audit](/services/seo-audit/) comparing the current site to whatever baseline data is available from before the redesign. We identify missing redirects, lost content, broken technical elements, and any other ranking factors that changed. Recovery typically takes 2-5 months depending on the severity of the damage.
 
 ### Is it ever safe to change URL structures during a redesign?
 

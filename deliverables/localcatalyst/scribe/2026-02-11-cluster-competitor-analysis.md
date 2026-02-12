@@ -3,8 +3,8 @@
 **Deliverable:** Service sub-page (cluster)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /local-seo-services/competitor-analysis/
-**Parent Hub:** /local-seo-services/
+**URL:** /services/competitor-analysis/
+**Parent Hub:** /services/
 **Primary Keyword:** local SEO competitor analysis
 **Secondary Keywords:** local competitor research, local SEO competitive analysis, competitor gap analysis, Map Pack competitor analysis, local search competitors
 **Title Tag:** Local SEO Competitor Analysis — Find & Exploit Gaps | LocalCatalyst.ai
@@ -14,13 +14,13 @@
 
 ---
 
-*Breadcrumbs: [Home](/) > [Local SEO Services](/local-seo-services/) > Competitor Analysis*
+*Breadcrumbs: [Home](/) > [Local SEO Services](/services/) > Competitor Analysis*
 
 ## Local SEO Competitor Analysis: Find the Gaps, Exploit the Advantages
 
-The businesses that dominate your local search results are not there by accident. They have stronger signals in specific areas — better GBP optimization, more reviews, higher-quality backlinks, deeper content, or more consistent citations. The purpose of competitor analysis is to identify precisely which signals give them their advantage and build a strategy that systematically closes those gaps. Our [local SEO services](/local-seo-services/) begin every engagement with competitive analysis because optimization without competitive context is optimization without direction.
+The businesses that dominate your local search results are not there by accident. They have stronger signals in specific areas — better GBP optimization, more reviews, higher-quality backlinks, deeper content, or more consistent citations. The purpose of competitor analysis is to identify precisely which signals give them their advantage and build a strategy that systematically closes those gaps. Our [local SEO services](/services/) begin every engagement with competitive analysis because optimization without competitive context is optimization without direction.
 
-You cannot outperform competitors you do not understand. Most local businesses have never analyzed their competition beyond a cursory Google search and a glance at a competitor's website. That surface-level awareness misses the factors that actually determine rankings: the structured data competitors deploy, the citation networks they have built, the [local keyword strategies](/local-seo-services/local-keyword-research/) they target, and the link profiles that give them authority. A systematic competitor analysis transforms guesswork into a prioritized action plan.
+You cannot outperform competitors you do not understand. Most local businesses have never analyzed their competition beyond a cursory Google search and a glance at a competitor's website. That surface-level awareness misses the factors that actually determine rankings: the structured data competitors deploy, the citation networks they have built, the [local keyword strategies](/services/local-keyword-research/) they target, and the link profiles that give them authority. A systematic competitor analysis transforms guesswork into a prioritized action plan.
 
 ## Identifying Your Real Competitors
 
@@ -36,7 +36,7 @@ We map your Map Pack competitors across every primary keyword in your strategy, 
 
 Below the Map Pack, the local organic results feature a different set of competitors. These are websites with strong domain authority, well-optimized service pages, and robust content strategies. Organic competitors are often large directories (Yelp, Angi, HomeAdvisor), franchise websites, or local businesses with mature SEO programs.
 
-Organic competitors matter because they capture the searchers who scroll past the Map Pack or who click on organic results for informational queries. Beating them requires a different set of tactics — primarily content depth, backlink authority, and [on-page optimization](/on-page-seo-services/).
+Organic competitors matter because they capture the searchers who scroll past the Map Pack or who click on organic results for informational queries. Beating them requires a different set of tactics — primarily content depth, backlink authority, and [on-page optimization](/services/on-page-optimization/).
 
 ### Paid Competitors
 
@@ -64,11 +64,11 @@ Reviews are the second most influential GBP ranking factor. We analyze competito
 - **Review content** — Do their reviews contain keywords naturally? Are customers mentioning specific services and locations?
 - **Response rate and quality** — Does the business respond to reviews? How quickly? How substantively?
 
-A competitor with 450 reviews at a 4.7-star average and 15 new reviews per month presents a very different challenge than a competitor with 80 reviews at a 4.9 average and 2 new reviews per month. Our [review generation strategies](/reputation-management-services/) are calibrated to match or exceed competitor review velocity.
+A competitor with 450 reviews at a 4.7-star average and 15 new reviews per month presents a very different challenge than a competitor with 80 reviews at a 4.9 average and 2 new reviews per month. Our review generation strategies are calibrated to match or exceed competitor review velocity.
 
 ### Posts, Photos, and Q&A
 
-Active GBP engagement signals — [posting frequency](/google-business-profile-management/gbp-posts/), [photo volume and quality](/google-business-profile-management/gbp-photos-videos/), and Q&A activity — differentiate optimized profiles from neglected ones. We audit competitor engagement across all three dimensions, noting which competitors are actively managing their profiles and which are coasting on older optimizations.
+Active GBP engagement signals — [posting frequency](/services/gbp-optimization/gbp-posts/), [photo volume and quality](/services/gbp-optimization/gbp-photos-videos/), and Q&A activity — differentiate optimized profiles from neglected ones. We audit competitor engagement across all three dimensions, noting which competitors are actively managing their profiles and which are coasting on older optimizations.
 
 ## Reverse-Engineering Competitor Keyword Strategy
 
@@ -94,7 +94,7 @@ Using Ahrefs and SEMrush, we pull the complete keyword ranking footprint for eac
 
 Citations — mentions of your business name, address, and phone number across directories, aggregators, and industry platforms — are a core local ranking factor. Citation gap analysis identifies where competitors are listed that you are not.
 
-We pull citation profiles for your top five competitors and compare them against yours. The output is a prioritized list of directories and platforms where you need to build citations, ordered by domain authority and relevance. Our [citation building services](/citation-building-services/) use this gap analysis to build citations that close the gap efficiently rather than submitting to random directories.
+We pull citation profiles for your top five competitors and compare them against yours. The output is a prioritized list of directories and platforms where you need to build citations, ordered by domain authority and relevance. Our [citation building services](/services/citation-building/) use this gap analysis to build citations that close the gap efficiently rather than submitting to random directories.
 
 Common citation gaps include:
 
@@ -115,7 +115,7 @@ We analyze competitor backlink profiles across several dimensions:
 - **Anchor text distribution** — Natural vs. optimized anchor text ratios
 - **Link velocity** — How quickly are competitors acquiring new links?
 
-The backlink gap analysis feeds directly into our [link building strategy](/link-building-services/), ensuring we pursue link opportunities that competitors have already validated as effective.
+The backlink gap analysis feeds directly into our [link building strategy](/managed/), ensuring we pursue link opportunities that competitors have already validated as effective.
 
 ## Content Gap Analysis
 
@@ -147,7 +147,7 @@ Raw competitive data is useless without prioritization. We convert every competi
 
 ### Priority 3: Long-Term Strategic Plays (Highest Impact, Highest Effort)
 
-- Comprehensive [content strategy](/seo-content-strategy/) to establish topical authority
+- Comprehensive [content strategy](/services/content-pages/) to establish topical authority
 - Digital PR campaigns for high-authority backlinks
 - Full technical SEO remediation
 

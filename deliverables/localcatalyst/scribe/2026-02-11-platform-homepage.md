@@ -5,7 +5,7 @@
 **Agent:** Scribe
 **URL:** /
 **Primary Keyword:** AI SEO services
-**Secondary Keywords:** on-demand SEO, automated SEO services, AI-powered SEO, SEO deliverables platform, order SEO services
+**Secondary Keywords:** on-demand SEO, automated SEO services, SEO deliverables, local SEO services
 **Title Tag:** AI-Powered SEO Services On Demand | LocalCatalyst.ai
 **Meta Description:** On-demand AI SEO services: audits, content pages, topical maps, schema markup, and GBP optimization — delivered in hours, not weeks. Starting at $197.
 **H1:** SEO Deliverables. On Demand. Powered by AI.
@@ -113,18 +113,18 @@ These aren't outliers. They're the expected outcome when you build the right pag
 
 Local SEO is local SEO, but every industry has specific nuances. Our AI agents are trained on vertical-specific data for:
 
-- [Dental practices](/industries/dental/)
-- [HVAC companies](/industries/hvac/)
-- [Plumbing services](/industries/plumbing/)
-- [Roofing contractors](/industries/roofing/)
-- [Medical practices](/industries/medical/)
-- [Law firms](/industries/law-firm/)
-- [Restaurants and bars](/industries/restaurant/)
-- [Veterinary clinics](/industries/veterinary/)
-- [Salons and spas](/industries/salon-spa/)
-- [Pest control](/industries/pest-control/)
-- [Landscaping](/industries/landscaping/)
-- [Gyms and fitness](/industries/fitness-gym/)
+- [Dental practices](/industries/dental-seo/)
+- [HVAC companies](/industries/hvac-seo/)
+- [Plumbing services](/industries/plumbing-seo/)
+- [Roofing contractors](/industries/roofing-seo/)
+- [Medical practices](/industries/medical-practices/)
+- [Law firms](/industries/law-firm-seo/)
+- [Restaurants and bars](/industries/restaurant-seo/)
+- [Veterinary clinics](/industries/veterinary-seo/)
+- [Salons and spas](/industries/salon-spa-seo/)
+- [Pest control](/industries/pest-control-seo/)
+- [Landscaping](/industries/landscaping-seo/)
+- [Gyms and fitness](/industries/fitness-gym-seo/)
 
 Don't see your industry? The system works for any local business. These verticals just get extra training data baked in.
 

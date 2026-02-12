@@ -3,8 +3,8 @@
 **Deliverable:** Service sub-page (cluster)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /google-business-profile-management/gbp-attributes-services/
-**Parent Hub:** /google-business-profile-management/
+**URL:** /services/gbp-optimization/gbp-attributes-services/
+**Parent Hub:** /services/gbp-optimization/
 **Primary Keyword:** GBP attributes and services
 **Secondary Keywords:** Google Business Profile attributes, GBP services section, GBP products section, Google Business features, GBP attribute optimization
 **Title Tag:** GBP Attributes & Services Optimization Guide | LocalCatalyst.ai
@@ -14,11 +14,11 @@
 
 ---
 
-*Breadcrumbs: [Home](/) > [Google Business Profile Management](/google-business-profile-management/) > GBP Attributes & Services*
+*Breadcrumbs: [Home](/) > [Google Business Profile Management](/services/gbp-optimization/) > GBP Attributes & Services*
 
 ## GBP Attributes and Services: The Hidden Fields That Expand Your Search Visibility
 
-Most businesses treat their Google Business Profile as a digital business card — name, address, phone, hours. They fill in the basics and move on. What they miss are the dozens of additional fields Google provides to describe your business in granular detail: attributes, services, and products. These fields directly influence which searches trigger your listing and what information appears to potential customers. Our [Google Business Profile management services](/google-business-profile-management/) include complete optimization of every available field because each one is a signal Google uses to match your business to searcher intent.
+Most businesses treat their Google Business Profile as a digital business card — name, address, phone, hours. They fill in the basics and move on. What they miss are the dozens of additional fields Google provides to describe your business in granular detail: attributes, services, and products. These fields directly influence which searches trigger your listing and what information appears to potential customers. Our [Google Business Profile management services](/services/gbp-optimization/) include complete optimization of every available field because each one is a signal Google uses to match your business to searcher intent.
 
 A fully optimized attributes and services profile tells Google significantly more about your business than a bare-minimum profile. When someone searches for "wheelchair-accessible dentist near me" or "plumber that accepts credit cards," Google uses attribute data to filter results. If you offer those features but have not declared them in your GBP, you are invisible for those searches. Your competitors who have filled in their attributes are capturing that traffic instead.
 
@@ -50,8 +50,8 @@ Subjective attributes are crowd-sourced from Google users and customer reviews. 
 You cannot directly set subjective attributes, but you can influence them:
 
 - Encourage customers to answer Google's "Know this place?" questions
-- Include relevant descriptors in your [GBP posts](/google-business-profile-management/gbp-posts/) and business description
-- Feature related content in [photos and videos](/google-business-profile-management/gbp-photos-videos/) that signal the attribute (e.g., photos of family-friendly environments)
+- Include relevant descriptors in your [GBP posts](/services/gbp-optimization/gbp-posts/) and business description
+- Feature related content in [photos and videos](/services/gbp-optimization/gbp-photos-videos/) that signal the attribute (e.g., photos of family-friendly environments)
 - Respond to reviews in ways that reinforce desired attributes
 
 ### How Attributes Impact Search Visibility
@@ -142,7 +142,7 @@ Restaurants can use the products section for menu items. Retail stores can featu
 - **Ignoring the services section entirely** — Google cannot match your business to service-specific queries if you have not listed your services
 - **Generic service names** — Using internal jargon instead of customer-facing, keyword-rich service names
 - **Blank descriptions** — Adding service names without descriptions wastes the keyword and informational opportunity
-- **Inconsistent across locations** — [Multi-location businesses](/local-seo-services/multi-location-seo/) that copy the same services and attributes to every location regardless of what each location actually offers
+- **Inconsistent across locations** — [Multi-location businesses](/services/multi-location-seo/) that copy the same services and attributes to every location regardless of what each location actually offers
 - **Not updating seasonally** — Failing to add seasonal services or update product offerings as inventory changes
 
 ## FAQ

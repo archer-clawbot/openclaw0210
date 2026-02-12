@@ -3,8 +3,8 @@
 **Deliverable:** Blog post (Hub 5 educational content)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/local-content-marketing-ideas/
-**Parent Hub:** /seo-content-strategy/
+**URL:** /learn/local-content-marketing-ideas/
+**Parent Hub:** /services/content-pages/
 **Primary Keyword:** local content marketing ideas
 **Secondary Keywords:** local business content ideas, community content marketing, local SEO content, local blog ideas, content marketing for small business
 **Title Tag:** Local Content Marketing Ideas That Drive Traffic | LocalCatalyst.ai
@@ -16,7 +16,7 @@
 
 Local businesses have a content advantage that most do not realize they have. While national brands create generic content for broad audiences, local businesses can create content that speaks directly to their community, references local landmarks and concerns, and addresses the specific needs of customers in their service area. This specificity is not a limitation. It is a powerful differentiator in both search results and audience engagement.
 
-The following ideas are designed specifically for local businesses looking to build their [SEO content strategy](/seo-content-strategy/) with content that resonates locally while building the topical authority and E-E-A-T signals that search engines reward.
+The following ideas are designed specifically for local businesses looking to build their [SEO content strategy](/services/content-pages/) with content that resonates locally while building the topical authority and E-E-A-T signals that search engines reward.
 
 ## Community-Focused Content
 
@@ -27,7 +27,7 @@ Community content positions your business as a genuine part of the local fabric,
 Write about complementary local businesses. A real estate agent can spotlight local moving companies, home inspectors, and interior designers. A restaurant can feature the local farms that supply its ingredients. These spotlights accomplish several things simultaneously:
 
 - They create natural opportunities for backlinks when featured businesses share and link to the content
-- They demonstrate community involvement, which strengthens your local [E-E-A-T signals](/blog/eeat-content-guidelines/)
+- They demonstrate community involvement, which strengthens your local [E-E-A-T signals](/learn/eeat-content-guidelines/)
 - They build relationships that can lead to referral partnerships
 - They provide genuinely useful information for local customers
 
@@ -136,7 +136,7 @@ Document the results you have achieved for local customers. With permission, cre
 - Specific, measurable results
 - Customer quotes and testimonials
 
-Case studies are powerful [cornerstone content](/blog/cornerstone-content-strategy/) pieces because they demonstrate experience, expertise, and results simultaneously. They also target specific problem-related keywords that potential customers search for.
+Case studies are powerful [cornerstone content](/learn/cornerstone-content-strategy/) pieces because they demonstrate experience, expertise, and results simultaneously. They also target specific problem-related keywords that potential customers search for.
 
 ### Customer Q&A Content
 
@@ -239,7 +239,7 @@ Consistency matters more than frequency. Publishing one high-quality, locally re
 
 ### Should I write about topics outside my core business?
 
-Community and lifestyle content that is relevant to your audience can be valuable, but do not stray too far from your expertise. A local roofer writing about home maintenance and local weather preparedness makes sense. The same roofer writing restaurant reviews does not. Content should reinforce your [topical authority](/blog/how-to-build-topical-authority/), not dilute it.
+Community and lifestyle content that is relevant to your audience can be valuable, but do not stray too far from your expertise. A local roofer writing about home maintenance and local weather preparedness makes sense. The same roofer writing restaurant reviews does not. Content should reinforce your [topical authority](/learn/how-to-build-topical-authority/), not dilute it.
 
 ### How do I promote local content effectively?
 

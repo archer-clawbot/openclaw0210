@@ -7,6 +7,10 @@
 **Industry:** Restaurant (Italian Fine Dining)
 **Services Used:** GBP Management, Reputation Management, Local SEO, On-Page SEO
 **Word Count Target:** 1,500
+**Title Tag:** Restaurant SEO Case Study — #1 in 60 Days | LocalCatalyst
+**Meta Description:** Italian restaurant went from invisible to #1 in Google Maps in 60 days. See how GBP optimization, reviews, and local SEO transformed this business.
+**H1:** Restaurant Google Maps SEO: From Invisible to #1 in 60 Days
+**Primary Keyword:** restaurant SEO case study
 
 ---
 
@@ -58,7 +62,7 @@ Our audit confirmed what we suspected: the GBP was the primary bottleneck, follo
 
 **Week 1-2: GBP Complete Overhaul**
 
-We rebuilt their Google Business Profile from the ground up through our [GBP management services](/google-business-profile-management/).
+We rebuilt their Google Business Profile from the ground up through our [GBP management services](/services/gbp-optimization/).
 
 Category optimization: primary category changed from generic "Restaurant" to "Italian restaurant," with secondary categories including "Pizza restaurant," "Pasta restaurant," "Wine bar," and "Fine dining restaurant."
 
@@ -80,7 +84,7 @@ The six old, low-quality photos were replaced. New photos were uploaded to the G
 
 **Week 2-4: Review Generation Launch**
 
-We implemented a multi-channel review generation system through our [reputation management services](/reputation-management-services/).
+We implemented a multi-channel review generation system through our reputation management services.
 
 Table tent cards with QR codes were placed on every table, linking directly to the Google review page with a simple prompt: "Loved your meal? Tell Google."
 
@@ -100,7 +104,7 @@ We built a new WordPress website to replace the single-page Wix site. The new si
 - A reservations page with embedded OpenTable widget
 - A private dining and events page targeting "private dining [city]" searches
 - Restaurant schema markup (LocalBusiness, Restaurant, Menu) across the entire site
-- [On-page optimization](/on-page-seo-services/) with proper title tags, meta descriptions, heading hierarchy, and internal linking
+- [On-page optimization](/services/on-page-optimization/) with proper title tags, meta descriptions, heading hierarchy, and internal linking
 - Mobile-first design with fast load times (1.4s LCP)
 
 ### Month 2: Acceleration (Weeks 5-8)
@@ -159,16 +163,16 @@ In 60 days, Trattoria Vecchia went from invisible to dominant.
 
 ## Services Used in This Campaign
 
-- [Google Business Profile Management](/google-business-profile-management/) — Complete GBP overhaul, photo strategy, menu integration, and weekly posting
-- [Reputation Management Services](/reputation-management-services/) — Multi-channel review generation and response management
-- [Local SEO Services](/local-seo-services/) — Geo-grid tracking, local link building, and comprehensive local visibility strategy
-- [On-Page SEO Services](/on-page-seo-services/) — New website build with proper schema, content optimization, and technical foundation
+- [Google Business Profile Management](/services/gbp-optimization/) — Complete GBP overhaul, photo strategy, menu integration, and weekly posting
+- Reputation Management Services — Multi-channel review generation and response management
+- [Local SEO Services](/services/) — Geo-grid tracking, local link building, and comprehensive local visibility strategy
+- [On-Page SEO Services](/services/on-page-optimization/) — New website build with proper schema, content optimization, and technical foundation
 
 ## Related Content
 
 - [Restaurant SEO](/industries/restaurant-seo/) — Our complete approach to restaurant local SEO
-- [Google Business Profile Optimization Checklist](/blog/gbp-optimization-checklist/) — Step-by-step GBP optimization guide
-- [Review Generation Strategy](/blog/google-reviews-generation-strategy/) — How to build a systematic review engine
+- [Google Business Profile Optimization Checklist](/learn/gbp-optimization-checklist/) — Step-by-step GBP optimization guide
+- [Review Generation Strategy](/learn/google-reviews-generation-strategy/) — How to build a systematic review engine
 
 ---
 

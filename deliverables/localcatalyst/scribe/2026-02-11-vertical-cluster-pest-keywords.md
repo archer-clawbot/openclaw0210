@@ -14,7 +14,7 @@
 
 ---
 
-Pest control is an urgency-driven industry. When a homeowner finds termites in the basement or a restaurant owner spots rodents in the kitchen, they search Google immediately and call the first credible company they find. That urgency makes keyword research extraordinarily valuable for pest control companies: the right keywords connect you with clients at the exact moment they are ready to pay for a solution. This guide is part of our [pest control SEO](/industries/pest-control-seo/) hub and provides the keyword framework that pest control businesses need to capture high-intent local searches. For professional keyword research tailored to your market, see our [local keyword research](/local-seo-services/local-keyword-research/) service.
+Pest control is an urgency-driven industry. When a homeowner finds termites in the basement or a restaurant owner spots rodents in the kitchen, they search Google immediately and call the first credible company they find. That urgency makes keyword research extraordinarily valuable for pest control companies: the right keywords connect you with clients at the exact moment they are ready to pay for a solution. This guide is part of our [pest control SEO](/industries/pest-control-seo/) hub and provides the keyword framework that pest control businesses need to capture high-intent local searches. For professional keyword research tailored to your market, see our [local keyword research](/services/local-keyword-research/) service.
 
 ## The Pest Control Search Landscape
 

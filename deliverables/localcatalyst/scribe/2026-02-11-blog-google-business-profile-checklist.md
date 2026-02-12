@@ -3,8 +3,8 @@
 **Deliverable:** Blog post (GBP Management educational content)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/google-business-profile-checklist/
-**Parent Hub:** /google-business-profile-management/
+**URL:** /learn/google-business-profile-checklist/
+**Parent Hub:** /services/gbp-optimization/
 **Primary Keyword:** GBP optimization checklist
 **Secondary Keywords:** Google Business Profile optimization, GBP setup checklist, optimize Google listing, complete GBP guide
 **Title Tag:** GBP Optimization Checklist (2026) | LocalCatalyst.ai
@@ -16,7 +16,7 @@
 
 A fully optimized Google Business Profile outperforms a partially completed one in every measurable way: more search impressions, more customer actions, higher local pack rankings. Yet the majority of business listings leave significant optimization on the table. Fields go unfilled, features go unused, and opportunities go missed.
 
-This checklist is your step-by-step guide to complete [Google Business Profile management](/google-business-profile-management/) optimization. Work through every section methodically, and your listing will be more complete, more competitive, and more effective than the vast majority of local businesses.
+This checklist is your step-by-step guide to complete [Google Business Profile management](/services/gbp-optimization/) optimization. Work through every section methodically, and your listing will be more complete, more competitive, and more effective than the vast majority of local businesses.
 
 ## Section 1: Business Identity
 
@@ -29,7 +29,7 @@ These foundational elements define who you are in Google's ecosystem. Get these 
 - [ ] The name matches your signage, business cards, and legal documents
 - [ ] If you have a DBA (doing business as), it matches the name your customers know
 
-**Why it matters:** Keyword-stuffed business names are the number one cause of [GBP suspensions](/blog/gbp-suspension-recovery/). Google's guidelines are explicit: your name must reflect your real-world business name and nothing more.
+**Why it matters:** Keyword-stuffed business names are the number one cause of [GBP suspensions](/learn/gbp-suspension-recovery/). Google's guidelines are explicit: your name must reflect your real-world business name and nothing more.
 
 ### Business Categories
 
@@ -40,7 +40,7 @@ These foundational elements define who you are in Google's ecosystem. Get these 
 - [ ] You have 3-5 secondary categories (not overloaded with marginally relevant ones)
 - [ ] You review categories quarterly for new additions by Google
 
-**Why it matters:** Categories are the strongest relevance signal you send to Google. Read our complete guide to [GBP categories](/blog/google-business-profile-categories/) for detailed selection strategies.
+**Why it matters:** Categories are the strongest relevance signal you send to Google. Read our complete guide to [GBP categories](/learn/google-business-profile-categories/) for detailed selection strategies.
 
 ### Business Description
 
@@ -125,7 +125,7 @@ The products and services sections provide additional relevance signals and help
 - [ ] Pricing is current and accurate
 - [ ] Product links point to the correct pages on your website
 
-For a detailed guide on setting up these sections, see our post on [GBP products and services](/blog/gbp-products-services-setup/).
+For a detailed guide on setting up these sections, see our post on [GBP products and services](/learn/gbp-products-services-setup/).
 
 ## Section 5: Attributes
 
@@ -206,7 +206,7 @@ Reviews are both a ranking factor and a conversion factor. Your review profile n
 - [ ] Negative reviews receive professional, empathetic responses within 48 hours
 - [ ] Fake or policy-violating reviews are flagged for removal
 
-For a complete review management framework, read our [Google reviews strategy guide](/blog/google-business-profile-review-strategy/).
+For a complete review management framework, read our [Google reviews strategy guide](/learn/google-business-profile-review-strategy/).
 
 ## Section 8: Google Posts
 
@@ -268,7 +268,7 @@ Google Posts keep your listing active and provide fresh content signals.
 - [ ] Your website includes local schema markup (LocalBusiness or relevant subtype)
 - [ ] Your website's contact page matches your GBP information exactly
 - [ ] Embedded Google Map on your website shows your correct listing
-- [ ] Your [website design supports your local SEO goals](/seo-website-design/)
+- [ ] Your [website design supports your local SEO goals](/services/website-build/)
 
 ## Using This Checklist
 
@@ -288,7 +288,7 @@ Based on local SEO research and our experience with the CATALYST Methodology, th
 
 ### How often should I audit my Google Business Profile?
 
-Conduct a full checklist audit quarterly. Perform weekly spot-checks on hours, reviews, and posts. Monitor your [GBP analytics](/blog/gbp-insights-analytics/) monthly to identify any performance changes that may indicate an optimization issue.
+Conduct a full checklist audit quarterly. Perform weekly spot-checks on hours, reviews, and posts. Monitor your [GBP analytics](/learn/gbp-insights-analytics/) monthly to identify any performance changes that may indicate an optimization issue.
 
 ### Can I optimize my GBP listing myself, or do I need professional help?
 

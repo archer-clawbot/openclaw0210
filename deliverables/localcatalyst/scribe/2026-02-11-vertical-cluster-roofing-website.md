@@ -16,7 +16,7 @@
 
 A roofing company's website is the conversion engine that turns search visibility into booked jobs. Within our [roofing SEO program](/industries/roofing-seo/), website design and architecture represent the structural foundation that all other optimization builds upon. A poorly designed roofing website undermines every dollar spent on SEO, advertising, and reputation building because it fails to convert the traffic those efforts generate. This guide covers the design principles, technical requirements, and content architecture that high-performing roofing websites share.
 
-LocalCatalyst's [SEO website design service](/seo-website-design/) builds roofing company websites from the ground up with search performance and lead conversion as primary design objectives, not afterthoughts.
+LocalCatalyst's [SEO website design service](/services/website-build/) builds roofing company websites from the ground up with search performance and lead conversion as primary design objectives, not afterthoughts.
 
 ## Why Most Roofing Websites Underperform
 
@@ -50,7 +50,7 @@ Each major roofing service deserves its own dedicated page. Do not combine all s
 - Emergency roofing services
 - Specific material pages (metal roofing, tile roofing, flat roofing)
 
-Each service page should include a clear description of the service, the problems it solves, your process, pricing context (ranges or factors that influence cost), and a strong call to action. Connect these pages to your broader [keyword strategy](/industries/roofing-seo/roofing-keywords/) to ensure proper targeting.
+Each service page should include a clear description of the service, the problems it solves, your process, pricing context (ranges or factors that influence cost), and a strong call to action. Connect these pages to your broader [keyword strategy](/industries/roofing-seo/) to ensure proper targeting.
 
 ### Location Pages
 
@@ -62,7 +62,7 @@ For every city, town, or major suburb in your service area, create a dedicated l
 - NAP (name, address, phone) consistency with your GBP listings
 - Embedded Google Map showing your service coverage
 
-These pages are essential for appearing in local searches outside your immediate office location. They support the geographic targeting strategies outlined in our [local SEO services](/local-seo-services/).
+These pages are essential for appearing in local searches outside your immediate office location. They support the geographic targeting strategies outlined in our [local SEO services](/services/).
 
 ### About Page
 
@@ -74,7 +74,7 @@ Aggregate your best reviews from Google, Yelp, and industry platforms onto a ded
 
 ### Blog or Resources Section
 
-A blog supports your [content strategy](/seo-content-strategy/) by targeting informational keywords that service pages cannot capture. Effective roofing blog topics include seasonal maintenance guides, storm preparation checklists, material comparison articles, cost guides, and insurance claim process explanations.
+A blog supports your [content strategy](/services/content-pages/) by targeting informational keywords that service pages cannot capture. Effective roofing blog topics include seasonal maintenance guides, storm preparation checklists, material comparison articles, cost guides, and insurance claim process explanations.
 
 ## Technical Requirements for Roofing Websites
 

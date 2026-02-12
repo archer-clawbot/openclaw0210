@@ -5,6 +5,10 @@
 **Agent:** Scribe
 **URL:** /case-studies/home-services-citation-cleanup/
 **Word Count Target:** 1,200
+**Title Tag:** Home Services SEO Case Study — Citation Cleanup | LocalCatalyst
+**Meta Description:** How citation cleanup moved an electrician from position 12 to Map Pack #3 in 45 days. See the strategy, timeline, and results from this home services SEO win.
+**H1:** Citation Cleanup Case Study: Electrician Reaches Map Pack in 45 Days
+**Primary Keyword:** home services SEO case study
 
 ---
 
@@ -21,7 +25,7 @@ Brian Rocha, owner of Rocha Electric, had done a lot of things right. He had a m
 
 And yet, Rocha Electric was stuck at position 12 for "electrician [city]" --- buried on page 2 of local results, invisible in the Map Pack, and watching competitors with fewer reviews and worse websites consistently outrank him.
 
-Brian had tried two things before contacting LocalCatalyst: hiring a freelancer to "do SEO" (which mostly involved publishing blog posts nobody read) and running Google Ads at $1,500/month (which produced leads at $110 each --- barely profitable for residential electrical work).
+Brian had tried two things before contacting LocalCatalyst: hiring a freelancer to "do SEO" (which mostly involved publishing blog posts nobody read) and running Google Ads (which produced leads at $110 each --- barely profitable for residential electrical work).
 
 The question that brought him to us was simple and frustrated: "What am I missing?"
 
@@ -140,6 +144,6 @@ Within days of the major aggregator corrections propagating, we observed the fir
 
 **Suspect citation inconsistencies might be holding your business back?**
 
-Our free SEO audit includes a citation health check that identifies every inconsistency across your online presence.
+Our [SEO Audit](/services/seo-audit/) includes a citation health check that identifies every inconsistency across your online presence.
 
 **[Order Your SEO Audit](/services/seo-audit/)** | **[View More Case Studies](/case-studies/)**

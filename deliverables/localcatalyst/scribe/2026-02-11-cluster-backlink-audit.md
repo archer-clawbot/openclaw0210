@@ -4,20 +4,23 @@
 **Deliverable:** Service sub-page (cluster)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** `/seo-audit-services/backlink-audit/`
-**Parent Hub:** `/seo-audit-services/`
+**URL:** `/services/seo-audit/backlink-audit/`
+**Parent Hub:** `/services/seo-audit/`
+**Title Tag:** Backlink Audit Service — Expert Analysis | LocalCatalyst
+**Meta Description:** Identify toxic links, analyze competitors, and build authority with our comprehensive backlink audit service. Get actionable insights today.
+**H1:** Your Backlink Profile Is Either an Asset or a Liability
 **Primary Keyword:** backlink audit service
 **Word Count Target:** 1,500
 
 ---
 
-**Breadcrumbs:** [Home](/) > [SEO Audit Services](/seo-audit-services/) > Backlink Audit
+**Breadcrumbs:** [Home](/) > [SEO Audit Services](/services/seo-audit/) > Backlink Audit
 
 ## Your Backlink Profile Is Either an Asset or a Liability
 
 Every link pointing to your website carries a signal. Some signals build authority — they tell Google your business is trusted, relevant, and cited by credible sources. Others carry risk — they associate your domain with spam networks, paid link schemes, and manipulative tactics that Google's SpamBrain algorithm is specifically designed to detect and penalize.
 
-Most business owners have no idea which signals their backlink profile is sending. As a critical component of our [SEO audit services](/seo-audit-services/), our backlink audit reveals the complete picture: which links are strengthening your rankings, which are threatening them, where your competitors have link advantages you do not, and exactly what needs to change to build a backlink profile that compounds your authority over time.
+Most business owners have no idea which signals their backlink profile is sending. As a critical component of our [SEO audit services](/services/seo-audit/), our backlink audit reveals the complete picture: which links are strengthening your rankings, which are threatening them, where your competitors have link advantages you do not, and exactly what needs to change to build a backlink profile that compounds your authority over time.
 
 This is not a generic "backlink report" pulled from a single tool. It is a manual, link-by-link analysis conducted by strategists who understand how Google evaluates link quality in 2026 — after the March 2024 spam update fundamentally changed how the algorithm weighs backlinks.
 
@@ -95,7 +98,7 @@ Your backlink profile does not exist in isolation — it exists relative to the 
 - **Competitor link quality comparison** — Are their Tier 1 links coming from sources you could also earn placements from?
 - **Common link sources** — Sites that link to 3+ competitors are likely linkable for any business in the space
 
-This gap analysis directly feeds into the [link building strategy](/link-building-services/) we develop based on audit findings. Every gap is an opportunity.
+This gap analysis directly feeds into the [link building strategy](/managed/) we develop based on audit findings. Every gap is an opportunity.
 
 ### Step 4: Disavow File Analysis and Recommendations
 
@@ -125,7 +128,7 @@ Our backlink audit report includes:
 4. **Toxic Link Report** — Every identified toxic link with risk classification and recommended action
 5. **Competitor Gap Analysis** — Side-by-side comparison with your top competitors, including specific opportunity targets
 6. **Disavow Recommendations** — Prepared disavow file (if warranted) with documentation for every entry
-7. **Link Building Roadmap** — Prioritized opportunities based on gap analysis, aligned with our [link building services](/link-building-services/) methodology
+7. **Link Building Roadmap** — Prioritized opportunities based on gap analysis, aligned with our [link building services](/managed/) methodology
 8. **Historical Trend Analysis** — Link acquisition velocity over time, showing growth or decline patterns
 
 The report is presented in a live review session where we walk through every finding, answer questions, and align on the strategy that follows. This is not a PDF you receive and never open. It is the foundation of your link building strategy.
@@ -136,7 +139,7 @@ The report is presented in a live review session where we walk through every fin
 
 ### How often should we conduct a backlink audit?
 
-We recommend a comprehensive audit annually, with quarterly monitoring reviews. The annual audit is the deep dive — every link classified, competitors analyzed, disavow file updated. Quarterly reviews track link acquisition trends, flag new toxic links, and ensure your profile is trending in the right direction. Continuous monitoring is included in all of our [local SEO service](/local-seo-services/) packages.
+We recommend a comprehensive audit annually, with quarterly monitoring reviews. The annual audit is the deep dive — every link classified, competitors analyzed, disavow file updated. Quarterly reviews track link acquisition trends, flag new toxic links, and ensure your profile is trending in the right direction. Continuous monitoring is included in all of our [local SEO service](/services/) packages.
 
 ### Can a bad backlink profile be fixed?
 
@@ -144,7 +147,7 @@ Yes. We have recovered businesses from manual penalties, algorithmic suppression
 
 ### What if my business has never done link building?
 
-That is actually a clean starting position. Businesses with no link building history typically have small, organic backlink profiles with no toxic links. The audit still provides critical value: it establishes your baseline, identifies your competitors' link advantages, and maps the opportunities available in your market. The [competitor audit](/seo-audit-services/competitor-audit/) component is particularly valuable for businesses starting from scratch.
+That is actually a clean starting position. Businesses with no link building history typically have small, organic backlink profiles with no toxic links. The audit still provides critical value: it establishes your baseline, identifies your competitors' link advantages, and maps the opportunities available in your market. The [competitor audit](/services/seo-audit/competitor-audit/) component is particularly valuable for businesses starting from scratch.
 
 ### How is your backlink audit different from an automated report?
 
@@ -152,7 +155,7 @@ Automated tools like Ahrefs' "toxic link" score or Semrush's "toxic score" use a
 
 ### Does the audit include a plan for building new links?
 
-Yes. The competitor gap analysis and opportunity mapping that conclude the audit provide a prioritized link building roadmap. For clients who engage our [link building services](/link-building-services/), the audit findings directly drive campaign targeting — from [guest posting](/link-building-services/guest-posting/) prospects to [digital PR](/link-building-services/digital-pr/) angles to [local link building](/link-building-services/local-link-building/) opportunities.
+Yes. The competitor gap analysis and opportunity mapping that conclude the audit provide a prioritized link building roadmap. For clients who engage our [link building services](/managed/), the audit findings directly drive campaign targeting — from [guest posting](/managed/guest-posting/) prospects to [digital PR](/managed/digital-pr/) angles to [local link building](/managed/local-link-building/) opportunities.
 
 ---
 

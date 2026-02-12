@@ -1,7 +1,7 @@
 {
   "agent:forge:main": {
     "sessionId": "7b773bf2-1db4-419f-9283-2db869ee499e",
-    "updatedAt": 1770775623085,
+    "updatedAt": 1770883618024,
     "skillsSnapshot": {
       "prompt": "",
       "skills": [],
@@ -14,6 +14,32 @@
     "abortedLastRun": false,
     "inputTokens": 8,
     "outputTokens": 2605,
-    "totalTokens": 68133
+    "totalTokens": 68133,
+    "origin": {
+      "label": "telegram:7302669335",
+      "provider": "telegram",
+      "surface": "telegram",
+      "chatType": "direct",
+      "from": "telegram:7302669335",
+      "to": "telegram:7302669335"
+    },
+    "sessionFile": "C:\\Users\\spart\\.openclaw\\agents\\forge\\sessions\\7b773bf2-1db4-419f-9283-2db869ee499e.jsonl"
+  },
+  "agent:forge:cron:forge-nightly": {
+    "sessionId": "31e5c6ca-b8c0-4ad0-b99c-7c573f04e24e",
+    "updatedAt": 1770883500026,
+    "systemSent": true,
+    "model": "claude-opus-4-5",
+    "contextTokens": 200000,
+    "skillsSnapshot": {
+      "prompt": "",
+      "skills": [],
+      "resolvedSkills": [],
+      "version": 0
+    },
+    "modelProvider": "anthropic",
+    "inputTokens": 8,
+    "outputTokens": 308,
+    "totalTokens": 89937
   }
 }

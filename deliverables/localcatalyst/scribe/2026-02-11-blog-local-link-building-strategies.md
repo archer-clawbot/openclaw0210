@@ -3,7 +3,10 @@
 **Deliverable:** Blog post content
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/local-link-building-strategies/
+**URL:** /learn/local-link-building-strategies/
+**Title Tag:** Local Link Building Strategies That Work in 2026 | LocalCatalyst
+**Meta Description:** 7 proven local link building strategies: sponsorships, chamber memberships, PR, partnerships, guest posting, resource pages, and original research.
+**H1:** 7 Local Link Building Strategies That Actually Work in 2026
 **Primary Keyword:** local link building, local backlinks
 **Secondary Keywords:** local seo link building, community backlinks, local sponsorship links, chamber of commerce seo, local PR backlinks, resource page link building
 **Category:** local-seo
@@ -18,7 +21,7 @@ Google's local algorithm evaluates relevance, proximity, and prominence. Backlin
 
 The challenge is that local link building requires relationship-building, creativity, and consistency. There's no shortcut. But the businesses that invest in it build a competitive moat that paid ads and directory listings alone can't replicate.
 
-Here are seven strategies we deploy for clients inside our [Local SEO service](/services/local-seo/) — each one tested, repeatable, and proven to move the needle.
+Here are seven strategies we deploy for clients inside our [Local SEO service](/services/) — each one tested, repeatable, and proven to move the needle.
 
 ---
 
@@ -47,7 +50,7 @@ Your local Chamber of Commerce maintains a member directory with links to member
 - Attend networking events and get involved in committees — active members often receive additional exposure through event recaps and spotlight features
 - Look beyond the main chamber: industry-specific associations, downtown business alliances, minority business councils, and regional economic development organizations all maintain similar directories
 
-**Bonus:** Chamber membership also functions as a high-authority [local citation](/blog/citation-building-guide/), reinforcing your NAP consistency across another trusted source.
+**Bonus:** Chamber membership also functions as a high-authority [local citation](/learn/citation-building-guide/), reinforcing your NAP consistency across another trusted source.
 
 ---
 
@@ -125,7 +128,7 @@ Publishing original research about your local market positions your business as 
 
 **Example:** A local real estate agent publishes a quarterly "[City] Housing Market Report" with neighborhood-level data. Local journalists cite it regularly, community blogs reference it, and competing agents link to it as a neutral data source.
 
-This strategy requires more upfront effort than directory submissions, but it generates links passively over time — which is the definition of a compounding SEO asset. Pair it with solid [technical SEO foundations](/services/technical-seo/) to ensure Google can crawl and index your content effectively.
+This strategy requires more upfront effort than directory submissions, but it generates links passively over time — which is the definition of a compounding SEO asset. Pair it with solid [technical SEO foundations](/services/seo-audit/technical-seo-audit/) to ensure Google can crawl and index your content effectively.
 
 ---
 
@@ -149,7 +152,7 @@ There's no fixed number. Competitive markets require more links than underserved
 
 ### Are directory links still valuable for local SEO?
 
-Yes, but they serve a different purpose than editorial backlinks. Directory citations validate your NAP data and build foundational authority. Editorial links from local sources build prominence. You need both. See our [citation building guide](/blog/citation-building-guide/) for the directory strategy.
+Yes, but they serve a different purpose than editorial backlinks. Directory citations validate your NAP data and build foundational authority. Editorial links from local sources build prominence. You need both. See our [citation building guide](/learn/citation-building-guide/) for the directory strategy.
 
 ### How long does it take to see results from local link building?
 

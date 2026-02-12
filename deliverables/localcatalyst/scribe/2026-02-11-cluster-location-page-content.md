@@ -4,18 +4,21 @@
 **Deliverable:** Service sub-page (cluster)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** `/seo-content-strategy/location-page-content/`
-**Parent Hub:** `/seo-content-strategy/`
+**URL:** `/services/content-pages/location-page-content/`
+**Parent Hub:** `/services/content-pages/`
+**Title Tag:** Location Page Content — Rank Every City | LocalCatalyst
+**Meta Description:** Create unique location pages that rank in every city you serve. Our location page content strategy builds geographic authority without thin content.
+**H1:** Location Pages That Rank in Every City You Serve
 **Primary Keyword:** location page content
 **Word Count Target:** 1,500
 
 ---
 
-> **Home > [SEO Content Strategy](/seo-content-strategy/) > Location Page Content**
+> **Home > [SEO Content Strategy](/services/content-pages/) > Location Page Content**
 
 ## Location Pages That Rank in Every City You Serve
 
-If you serve multiple cities or neighborhoods, you need location pages. Not doorway pages. Not templates with the city name swapped out. Real, substantive, locally relevant pages that give Google a reason to rank you in every market you serve. This is a core component of the [SEO content strategy](/seo-content-strategy/) we build for multi-location and service-area businesses — and most agencies get it catastrophically wrong.
+If you serve multiple cities or neighborhoods, you need location pages. Not doorway pages. Not templates with the city name swapped out. Real, substantive, locally relevant pages that give Google a reason to rank you in every market you serve. This is a core component of the [SEO content strategy](/services/content-pages/) we build for multi-location and service-area businesses — and most agencies get it catastrophically wrong.
 
 The mistake we see most often: a business creates 30 city pages with identical content, changes "Phoenix" to "Scottsdale" to "Mesa" to "Chandler," and wonders why Google ignores all of them. That is not a location page strategy. That is a thin content factory that actively damages your rankings.
 
@@ -43,7 +46,7 @@ A roofing company's Scottsdale location page might reference the specific roofin
 
 ### 3. Internal Linking Architecture
 
-Location pages create a powerful internal linking matrix. Each location page links to your relevant service pages, and your service pages link back to the location pages. This builds a web of topical and geographic signals that reinforces your authority across every combination of service and city — a structure that complements your [topical authority](/seo-content-strategy/topical-authority/) strategy with geographic depth.
+Location pages create a powerful internal linking matrix. Each location page links to your relevant service pages, and your service pages link back to the location pages. This builds a web of topical and geographic signals that reinforces your authority across every combination of service and city — a structure that complements your [topical authority](/services/content-pages/topical-authority/) strategy with geographic depth.
 
 ---
 
@@ -111,7 +114,7 @@ The internal linking strategy for location pages is where many businesses miss t
 - **Location pages link to nearby location pages** — Your Scottsdale page links to your Paradise Valley, Tempe, and Mesa pages where geographic proximity makes cross-linking natural
 - **Blog content links to location pages** — A blog post about "monsoon roof damage in Arizona" links to your Phoenix, Mesa, and Scottsdale location pages
 
-This creates a mesh of geographic and topical signals that reinforces your relevance across every service-city combination. It is the same [service page copywriting](/seo-content-strategy/service-page-copywriting/) discipline we apply to commercial pages, extended to geographic targeting.
+This creates a mesh of geographic and topical signals that reinforces your relevance across every service-city combination. It is the same [service page copywriting](/services/content-pages/service-page-copywriting/) discipline we apply to commercial pages, extended to geographic targeting.
 
 ---
 
@@ -160,7 +163,7 @@ Proper schema markup tells Google exactly what each location page represents. We
 - **Review/AggregateRating schema** — Displays star ratings in search results when location-specific reviews are available
 - **BreadcrumbList schema** — Reinforces the page hierarchy and site structure
 
-This structured data is essential for communicating your geographic coverage to search engines in a machine-readable format — and it directly supports the [local SEO](/local-seo-services/) signals that determine Map Pack and local organic rankings.
+This structured data is essential for communicating your geographic coverage to search engines in a machine-readable format — and it directly supports the [local SEO](/services/) signals that determine Map Pack and local organic rankings.
 
 ---
 
@@ -172,7 +175,7 @@ Expect 2-4 weeks for an initial set of 10-15 location pages, depending on the lo
 
 ### Will location pages cannibalize my main service pages?
 
-No, when structured correctly. Service pages target service keywords ("roof replacement"). Location pages target service + city keywords ("roof replacement Scottsdale"). The internal linking between them reinforces both pages rather than creating competition. This is a fundamental principle of the [content strategy](/seo-content-strategy/) architecture we build.
+No, when structured correctly. Service pages target service keywords ("roof replacement"). Location pages target service + city keywords ("roof replacement Scottsdale"). The internal linking between them reinforces both pages rather than creating competition. This is a fundamental principle of the [content strategy](/services/content-pages/) architecture we build.
 
 ### Can I use AI to generate location page content?
 
@@ -184,7 +187,7 @@ Absolutely. Service-area businesses (plumbers, roofers, landscapers, mobile serv
 
 ### How do location pages interact with my Google Business Profile?
 
-Location pages and your GBP listing work together. For your primary business location, the location page reinforces the geographic signals Google sees in your GBP. For cities where you do not have a physical location, location pages fill the gap that GBP cannot — giving you organic visibility in markets where you are not eligible for a Map Pack listing. This is part of the broader [reputation management](/reputation-management-services/) and local visibility strategy we build for service-area businesses.
+Location pages and your GBP listing work together. For your primary business location, the location page reinforces the geographic signals Google sees in your GBP. For cities where you do not have a physical location, location pages fill the gap that GBP cannot — giving you organic visibility in markets where you are not eligible for a Map Pack listing. This is part of the broader local visibility strategy we build for service-area businesses.
 
 ---
 

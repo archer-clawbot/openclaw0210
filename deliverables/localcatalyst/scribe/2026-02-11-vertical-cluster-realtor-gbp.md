@@ -14,13 +14,13 @@
 
 ---
 
-*Breadcrumbs: [Home](/) > [Industries](/industries/) > [Real Estate SEO](/industries/real-estate-seo/) > Realtor Google Business Profile*
+*Breadcrumbs: [Home](/) > [Industries](/services/) > [Real Estate SEO](/industries/real-estate-seo/) > Realtor Google Business Profile*
 
 ## Google Business Profile for Realtors: The Complete Optimization Guide
 
 Your Google Business Profile is the most visible piece of digital real estate you own — and most realtors are barely using it. When a potential buyer or seller searches "real estate agent near me" or "realtor [city]," the Map Pack results that appear above all organic listings are powered by GBP data. The agents who appear in those three coveted positions get the calls and the clicks. Everyone else is invisible. As our [real estate SEO guide](/industries/real-estate-seo/) details, competing effectively in local search requires owning the assets that drive Map Pack visibility, and no asset is more important than your GBP.
 
-The challenge for real estate agents is that GBP optimization for realtors involves unique considerations that other industries do not face. Category options are limited and confusing. The question of whether to list under a brokerage or as an individual practitioner creates policy minefields. Photo and content opportunities specific to real estate are routinely missed. This guide covers every element of GBP optimization for realtors, from initial setup to ongoing management. For a comprehensive look at GBP strategy across all industries, visit our [Google Business Profile management](/google-business-profile-management/) service page.
+The challenge for real estate agents is that GBP optimization for realtors involves unique considerations that other industries do not face. Category options are limited and confusing. The question of whether to list under a brokerage or as an individual practitioner creates policy minefields. Photo and content opportunities specific to real estate are routinely missed. This guide covers every element of GBP optimization for realtors, from initial setup to ongoing management. For a comprehensive look at GBP strategy across all industries, visit our [Google Business Profile management](/services/gbp-optimization/) service page.
 
 ## Setting Up Your Realtor GBP Correctly
 

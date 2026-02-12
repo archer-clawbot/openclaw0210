@@ -3,8 +3,8 @@
 **Deliverable:** Hub blog post
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/link-building-strategies-local-seo/
-**Parent Hub:** /link-building-services/
+**URL:** /learn/link-building-strategies-local-seo/
+**Parent Hub:** /managed/
 **Primary Keyword:** link building strategies for local SEO
 **Secondary Keywords:** local link building, local SEO backlinks, community link building, local citation building, neighborhood link acquisition, regional authority building
 **Title Tag:** Link Building Strategies for Local SEO (2026)
@@ -16,7 +16,7 @@
 
 ## Link Building Strategies for Local SEO That Actually Work
 
-Local businesses compete in a fundamentally different arena than national brands. The links that move the needle for a Fortune 500 company rarely overlap with the links that push a regional service provider to the top of the map pack. If you are investing in [link building services](/link-building-services/) for your business, understanding these differences is the foundation of every dollar well spent.
+Local businesses compete in a fundamentally different arena than national brands. The links that move the needle for a Fortune 500 company rarely overlap with the links that push a regional service provider to the top of the map pack. If you are investing in [link building services](/managed/) for your business, understanding these differences is the foundation of every dollar well spent.
 
 This guide breaks down the link building strategies that matter specifically for local SEO, organized by difficulty, cost, and expected impact. Each tactic has been tested across dozens of local campaigns, and the recommendations here reflect what actually produces results rather than what sounds impressive in a pitch deck.
 
@@ -143,7 +143,7 @@ These tools require upfront development investment but generate passive links ov
 
 ## Outreach-Based Link Building
 
-Proactive outreach remains one of the most effective [link building strategies](/link-building-services/) when executed properly. The key is providing genuine value to the sites you contact.
+Proactive outreach remains one of the most effective [link building strategies](/managed/) when executed properly. The key is providing genuine value to the sites you contact.
 
 ### Local Blogger and Media Outreach
 
@@ -222,7 +222,7 @@ Track these metrics to evaluate whether your link building efforts translate int
 - **Brand mention growth** across local media
 - **Citation consistency score**
 
-Use tools like Ahrefs, Moz, or SEMrush to track referring domains and domain authority. Monitor local pack rankings with a local rank tracker that checks from your actual service area, not from a national data center. If you are unsure where your backlink profile stands, a thorough [SEO audit](/seo-audit-services/) can establish your baseline and identify gaps.
+Use tools like Ahrefs, Moz, or SEMrush to track referring domains and domain authority. Monitor local pack rankings with a local rank tracker that checks from your actual service area, not from a national data center. If you are unsure where your backlink profile stands, a thorough [SEO audit](/services/seo-audit/) can establish your baseline and identify gaps.
 
 ---
 
@@ -256,7 +256,7 @@ Sustainable local link building follows a phased approach:
 - Analyze which tactics produced the best results
 - Double down on highest-performing channels
 - Expand geographic targeting to adjacent markets
-- Develop ongoing [content marketing](/content-marketing-services/) calendar for link-worthy assets
+- Develop ongoing [content marketing](/services/content-pages/) calendar for link-worthy assets
 
 ---
 

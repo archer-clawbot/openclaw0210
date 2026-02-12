@@ -3,8 +3,8 @@
 **Deliverable:** Service sub-page (cluster)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /seo-audit-services/content-audit/
-**Parent Hub:** /seo-audit-services/
+**URL:** /services/seo-audit/content-audit/
+**Parent Hub:** /services/seo-audit/
 **Primary Keyword:** SEO content audit
 **Secondary Keywords:** content audit services, website content analysis, content gap analysis, content performance audit, content optimization audit
 **Title Tag:** SEO Content Audit — Find Gaps, Fix Underperformers | LocalCatalyst.ai
@@ -14,15 +14,15 @@
 
 ---
 
-**Breadcrumbs:** [Home](/) > [SEO Audit Services](/seo-audit-services/) > Content Audit
+**Breadcrumbs:** [Home](/) > [SEO Audit Services](/services/seo-audit/) > Content Audit
 
 ## Your Content Library Is an Asset — Or a Liability
 
-Every page on your website is either helping your rankings or hurting them. There is no neutral ground. As a critical component of our [SEO audit services](/seo-audit-services/), the content audit reveals which pages in your content library are driving traffic and conversions, which are underperforming their potential, and which are actively harming your site through cannibalization, thin content, or outdated information.
+Every page on your website is either helping your rankings or hurting them. There is no neutral ground. As a critical component of our [SEO audit services](/services/seo-audit/), the content audit reveals which pages in your content library are driving traffic and conversions, which are underperforming their potential, and which are actively harming your site through cannibalization, thin content, or outdated information.
 
 Most local businesses have never audited their content. They have been adding pages and blog posts for years — sometimes with a strategy, often without — and have no idea which of those pages Google values, which it ignores, and which it penalizes. The result is a content library that includes hidden gems buried under layers of content that contributes nothing.
 
-A dental practice we audited last year had 87 blog posts published over four years. Our content audit revealed that 12 of those posts drove 91% of all organic blog traffic. 40 posts had zero organic visits in the previous 12 months. 15 posts were cannibalizing each other for the same keywords. And 8 high-opportunity topics their competitors ranked for were not covered at all. That single audit restructured their entire [content strategy](/seo-content-strategy/) and resulted in a 140% increase in organic blog traffic within six months.
+A dental practice we audited last year had 87 blog posts published over four years. Our content audit revealed that 12 of those posts drove 91% of all organic blog traffic. 40 posts had zero organic visits in the previous 12 months. 15 posts were cannibalizing each other for the same keywords. And 8 high-opportunity topics their competitors ranked for were not covered at all. That single audit restructured their entire [content strategy](/services/content-pages/) and resulted in a 140% increase in organic blog traffic within six months.
 
 **[Order Your SEO Audit](/services/seo-audit/)** and we will include a high-level content performance snapshot showing your top-performing and worst-performing pages.
 
@@ -163,7 +163,7 @@ Our SEO content audit delivers:
 8. **Prioritized roadmap** — actions ordered by impact-to-effort ratio with timeline recommendations
 9. **Strategy call** — 60-minute walkthrough with your content strategist
 
-The content audit integrates directly with our [content strategy services](/seo-content-strategy/) and [on-page SEO optimization](/on-page-seo-services/) — providing the intelligence that drives data-informed content decisions.
+The content audit integrates directly with our [content strategy services](/services/content-pages/) and [on-page SEO optimization](/services/on-page-optimization/) — providing the intelligence that drives data-informed content decisions.
 
 ## Frequently Asked Questions
 
@@ -181,7 +181,7 @@ You can pull basic traffic data from Google Analytics and Search Console. But a 
 
 ### How does a content audit differ from a technical SEO audit?
 
-A [technical SEO audit](/seo-audit-services/technical-seo-audit/) examines your website's infrastructure — crawlability, speed, indexation, and schema. A content audit examines the content itself — what topics you cover, how well each page performs, where gaps exist, and which pages help or hurt your rankings. Both are components of our comprehensive audit process, and both inform different aspects of your SEO strategy. Technical issues prevent Google from accessing your content. Content issues prevent Google from valuing it.
+A [technical SEO audit](/services/seo-audit/technical-seo-audit/) examines your website's infrastructure — crawlability, speed, indexation, and schema. A content audit examines the content itself — what topics you cover, how well each page performs, where gaps exist, and which pages help or hurt your rankings. Both are components of our comprehensive audit process, and both inform different aspects of your SEO strategy. Technical issues prevent Google from accessing your content. Content issues prevent Google from valuing it.
 
 ### How often should I audit my content?
 

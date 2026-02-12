@@ -3,8 +3,8 @@
 **Deliverable:** Resource blog post
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/questions-to-ask-seo-company/
-**Parent Hub:** /blog/
+**URL:** /learn/questions-to-ask-seo-company/
+**Parent Hub:** /learn/
 **Primary Keyword:** questions to ask SEO company
 **Secondary Keywords:** what to ask an SEO agency, hiring an SEO company, vetting SEO agencies, SEO company interview questions, choosing an SEO provider
 **Title Tag:** 20 Questions to Ask an SEO Company Before Hiring
@@ -88,7 +88,7 @@ The problem is that most business owners do not know what to ask during the eval
 
 **Good answer:** Honest projections that acknowledge uncertainty. A good agency will frame expectations around typical outcomes for similar businesses while noting that specific results depend on competition, starting position, and market factors. Expect language like "businesses in your situation typically see X% growth in 6 months."
 
-**Red flag answer:** Guarantees of specific rankings or traffic numbers. No one can guarantee SEO outcomes because no one controls Google's algorithm. Our guide on [SEO red flags](/blog/seo-red-flags/) covers this in detail.
+**Red flag answer:** Guarantees of specific rankings or traffic numbers. No one can guarantee SEO outcomes because no one controls Google's algorithm. Our guide on [SEO red flags](/learn/seo-red-flags/) covers this in detail.
 
 ### 12. What happens if results are not meeting expectations?
 
@@ -162,9 +162,9 @@ Also evaluate how the agency asks questions of you. A good agency should be deep
 
 Three to five is a productive range. Fewer than three does not give you enough comparison data. More than five introduces decision fatigue without proportional benefit. Focus on agencies that specialize in your business size and type rather than casting the widest possible net.
 
-### Should I ask for a free audit before signing a contract?
+### Should I ask for an audit before signing a contract?
 
-A preliminary audit is a reasonable request and a good way to evaluate an agency's analytical capabilities. However, recognize that a free audit will be limited in scope compared to the comprehensive audit that begins a paid engagement. Use it as an indicator of the agency's thoroughness and communication style.
+A preliminary audit is a reasonable request and a good way to evaluate an agency's analytical capabilities. However, recognize that an introductory audit will be limited in scope compared to the comprehensive audit that begins a paid engagement. Use it as an indicator of the agency's thoroughness and communication style.
 
 ### Is it a bad sign if an agency asks about my budget?
 
@@ -180,6 +180,6 @@ No agency will provide perfect answers to every question. What matters is the ov
 
 Now that you know what to ask, the next step is understanding where your business stands. A thorough audit gives you the baseline you need to evaluate any agency's proposed strategy.
 
-Our [local SEO services](/services/local-seo/) are built on the transparency and accountability standards described in this guide. We welcome every question on this list, and we answer them in our first conversation.
+Our [local SEO services](/services/) are built on the transparency and accountability standards described in this guide. We welcome every question on this list, and we answer them in our first conversation.
 
 **[Order Your SEO Audit](/services/seo-audit/)** to get a clear-eyed assessment of your current position and a candid conversation about what growth looks like for your business.

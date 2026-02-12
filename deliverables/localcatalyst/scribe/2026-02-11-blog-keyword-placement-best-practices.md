@@ -3,8 +3,8 @@
 **Deliverable:** Blog post (On-Page SEO educational content)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/keyword-placement-best-practices/
-**Parent Hub:** /on-page-seo-services/
+**URL:** /learn/keyword-placement-best-practices/
+**Parent Hub:** /services/content-pages/
 **Primary Keyword:** keyword placement SEO
 **Secondary Keywords:** where to place keywords, keyword density, keyword optimization, natural keyword integration, semantic SEO, LSI keywords
 **Title Tag:** Keyword Placement Best Practices for SEO | LocalCatalyst.ai
@@ -14,7 +14,7 @@
 
 ---
 
-Keyword placement is one of the most misunderstood aspects of on-page SEO. Get it right, and you send clear relevance signals that help search engines connect your content with the right queries. Get it wrong, and you either dilute your page's focus or trigger quality filters that suppress your rankings. Our [on-page SEO services](/on-page-seo-services/) are built on a precise, data-informed approach to keyword integration that balances search engine requirements with natural readability.
+Keyword placement is one of the most misunderstood aspects of on-page SEO. Get it right, and you send clear relevance signals that help search engines connect your content with the right queries. Get it wrong, and you either dilute your page's focus or trigger quality filters that suppress your rankings. Our [on-page SEO services](/services/on-page-optimization/) are built on a precise, data-informed approach to keyword integration that balances search engine requirements with natural readability.
 
 This guide covers where to place keywords for maximum impact, how to avoid common over-optimization traps, and how modern semantic SEO has changed the keyword landscape entirely.
 
@@ -102,7 +102,7 @@ While meta descriptions are not a direct ranking factor, they influence click-th
 
 ### 9. Anchor Text of Internal Links
 
-When other pages on your site link to a given page, the anchor text of those links provides a relevance signal. This connects your [internal linking strategy](/seo-content-strategy/) directly to your keyword strategy.
+When other pages on your site link to a given page, the anchor text of those links provides a relevance signal. This connects your [internal linking strategy](/services/content-pages/) directly to your keyword strategy.
 
 **Best practices:**
 - Use descriptive, keyword-relevant anchor text for internal links pointing to your important pages.
@@ -181,7 +181,7 @@ If the top results for your target keyword are all comprehensive how-to guides, 
 
 Each page should target one primary keyword and a small cluster of closely related secondary terms. Trying to optimize a single page for multiple unrelated keywords dilutes your relevance signals and confuses search engines about the page's purpose.
 
-If you have multiple keyword targets, build dedicated pages for each and connect them through your [content silo architecture](/blog/content-silos-seo/).
+If you have multiple keyword targets, build dedicated pages for each and connect them through your [content silo architecture](/learn/content-silos-seo/).
 
 ## A Practical Keyword Placement Workflow
 

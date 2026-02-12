@@ -71,7 +71,7 @@ Your GBP is the #1 ranking factor for Map Pack visibility. We engineer every ele
 
 **Results:** Average 312% increase in Map Pack visibility | 95% of clients rank in top 3
 
-[Learn more about GBP Optimization →](/services/google-business-profile-optimization/)
+[Learn more about GBP Optimization →](/services/gbp-optimization/)
 
 ---
 
@@ -88,7 +88,7 @@ Comprehensive local search optimization that goes beyond basic citation building
 
 **Results:** Businesses we optimize dominate their local markets
 
-[Learn more about Local SEO →](/services/local-seo/)
+[Learn more about Local SEO →](/services/)
 
 ---
 
@@ -105,7 +105,7 @@ Most local SEO agencies can't read a crawl report or implement schema markup. We
 
 **Results:** Average 58% improvement in Core Web Vitals | 100% mobile-friendly compliance
 
-[Learn more about Technical SEO →](/services/technical-seo/)
+[Learn more about Technical SEO →](/services/seo-audit/)
 
 ---
 
@@ -123,7 +123,7 @@ Content optimization that ranks AND converts:
 
 **Results:** Average 178% organic traffic increase | 92% keyword ranking improvement
 
-[Learn more about On-Page Optimization →](/services/on-page-optimization/)
+[Learn more about On-Page Optimization →](/services/content-pages/)
 
 ---
 
@@ -390,13 +390,13 @@ Browse our services and get:
 ## INTERNAL LINKING INSTRUCTIONS
 
 ### Outbound Links (contextual):
-- `/services/google-business-profile-optimization/` (when mentioning GBP)
-- `/services/local-seo/` (when mentioning local SEO)
-- `/services/technical-seo/` (when mentioning technical SEO)
-- `/services/on-page-optimization/` (when mentioning on-page)
+- `/services/gbp-optimization/` (when mentioning GBP)
+- `/services/` (when mentioning local SEO)
+- `/services/seo-audit/` (when mentioning technical SEO)
+- `/services/content-pages/` (when mentioning on-page)
 - `/about/` (learn more about our methodology)
 - `/case-studies/` (see our results)
-- `/contact/` (all CTAs)
+- `/managed/` (all CTAs)
 
 ### Inbound Links Needed:
 - Homepage (when mentioning "SEO agency" or "SEO experts")

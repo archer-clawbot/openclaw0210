@@ -3,8 +3,8 @@
 **Deliverable:** Hub blog post
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/fake-google-reviews-removal/
-**Parent Hub:** /reputation-management-services/
+**URL:** /learn/fake-google-reviews-removal/
+**Parent Hub:** /services/
 **Primary Keyword:** how to remove fake Google reviews
 **Secondary Keywords:** remove fake Google reviews, report fake reviews Google, Google review removal, fake review removal process, flag fake Google review
 **Title Tag:** How to Remove Fake Google Reviews (Step by Step)
@@ -14,7 +14,7 @@
 
 ---
 
-Fake reviews are one of the most frustrating challenges local businesses face. A single fraudulent one-star review from a competitor, a bot, or someone who confused your business with another can damage consumer trust and suppress your local rankings. Knowing how to identify and remove fake Google reviews is an essential skill within any [reputation management](/reputation-management-services/) program.
+Fake reviews are one of the most frustrating challenges local businesses face. A single fraudulent one-star review from a competitor, a bot, or someone who confused your business with another can damage consumer trust and suppress your local rankings. Knowing how to identify and remove fake Google reviews is an essential skill within any reputation management program.
 
 This guide walks through the complete process: identifying fake reviews, reporting them through Google's official channels, escalating when initial reports fail, and protecting your business while the process plays out.
 
@@ -113,7 +113,7 @@ Legal action should be a last resort. It is expensive, time-consuming, and the o
 Google's review removal process is not instant. During the waiting period, protect your reputation through these measures:
 
 1. **Your public response is already posted** (Step 1), so future customers will see your professional handling of the situation.
-2. **Accelerate legitimate review generation.** New positive reviews push the fake review lower in the display order and dilute its impact on your average rating. This is where a strong [review generation strategy](/blog/how-to-get-more-google-reviews/) pays immediate dividends.
+2. **Accelerate legitimate review generation.** New positive reviews push the fake review lower in the display order and dilute its impact on your average rating. This is where a strong [review generation strategy](/learn/how-to-get-more-google-reviews/) pays immediate dividends.
 3. **Monitor for additional fake reviews.** If one fake review was part of a coordinated attack, more may follow. Set up real-time alerts so you can respond and report immediately.
 4. **Document everything.** Screenshots, timestamps, customer record searches, and correspondence with Google. This documentation supports escalation and potential legal action.
 
@@ -123,7 +123,7 @@ Complete prevention is impossible, but you can reduce your vulnerability:
 
 - **Maintain a strong, active review profile.** A business with 200 legitimate reviews is far less impacted by one fake review than a business with 15 reviews.
 - **Monitor competitor behavior.** If you notice a pattern of fake reviews appearing after competitive interactions, document it.
-- **Use your [Google Business Profile](/google-business-profile-management/) security settings.** Ensure only authorized users have access to your profile, and monitor for unauthorized changes.
+- **Use your [Google Business Profile](/services/gbp-optimization/) security settings.** Ensure only authorized users have access to your profile, and monitor for unauthorized changes.
 - **Build relationships with Google support.** Businesses that regularly interact with GBP support and maintain well-optimized profiles tend to receive faster and more favorable responses to review disputes.
 
 ## Google's Review Policies: What Qualifies for Removal
@@ -165,4 +165,6 @@ A single fake review has minimal ranking impact if your overall profile is stron
 
 ---
 
-**Dealing with fake reviews and need expert help?** Our reputation management team handles review monitoring, fake review reporting, and strategic response management for local businesses. [Order an SEO Audit](/services/seo-audit/) to get a full assessment of your review profile, or [contact us directly](/contact/) to discuss your reputation management needs.
+**Ready to protect your online reputation?** [Explore Managed SEO](/managed/)
+
+---

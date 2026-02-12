@@ -113,7 +113,7 @@ We can build on your existing hosting or recommend a provider. We typically reco
 Site maintenance is available as a separate product. The build price covers design, development, and initial SEO configuration. Ongoing plugin updates, security monitoring, and content updates are a separate engagement.
 
 **What if I already have a WordPress site that needs SEO work?**
-If your existing site is on a solid theme and just needs SEO configuration, a [technical SEO](/services/technical-seo/) product may be more appropriate than a full rebuild. If the site is built on a bloated theme with fundamental performance issues, a rebuild is often faster and more effective than trying to fix a broken foundation.
+If your existing site is on a solid theme and just needs SEO configuration, a [SEO audit](/services/seo-audit/) product may be more appropriate than a full rebuild. If the site is built on a bloated theme with fundamental performance issues, a rebuild is often faster and more effective than trying to fix a broken foundation.
 
 ---
 
@@ -125,4 +125,4 @@ If your existing site is on a solid theme and just needs SEO configuration, a [t
 
 ---
 
-[Order a Website Build](/services/website-build/order/) | [Browse All Products](/services/)
+[Order a Website Build](/free-audit/) | [Browse All Products](/services/)

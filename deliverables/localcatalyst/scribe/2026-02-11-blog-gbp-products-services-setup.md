@@ -3,8 +3,8 @@
 **Deliverable:** Blog post (GBP Management educational content)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/gbp-products-services-setup/
-**Parent Hub:** /google-business-profile-management/
+**URL:** /learn/gbp-products-services-setup/
+**Parent Hub:** /services/gbp-optimization/
 **Primary Keyword:** GBP products and services
 **Secondary Keywords:** Google Business Profile products, GBP services setup, Google listing products, GBP service descriptions
 **Title Tag:** GBP Products & Services Setup Guide | LocalCatalyst.ai
@@ -16,7 +16,7 @@
 
 The Products and Services sections of your Google Business Profile are among the most underutilized features available to local businesses. While most owners focus on categories, reviews, and photos, the products and services sections provide direct signals to Google about what you offer, and they give potential customers detailed information right on your listing.
 
-Setting these sections up correctly improves search matching, increases the relevance of your listing for specific queries, and helps customers self-qualify before they ever contact you. This is a foundational element of thorough [Google Business Profile management](/google-business-profile-management/).
+Setting these sections up correctly improves search matching, increases the relevance of your listing for specific queries, and helps customers self-qualify before they ever contact you. This is a foundational element of thorough [Google Business Profile management](/services/gbp-optimization/).
 
 ## Understanding the Difference: Products vs. Services
 
@@ -93,7 +93,7 @@ Pricing is optional for services, and whether to include it depends on your busi
 
 ### Step 4: Map Services to Categories
 
-Ensure your services section reinforces your category selections. If "Emergency Plumber" is one of your [GBP categories](/blog/google-business-profile-categories/), your services section should include emergency plumbing services with appropriate descriptions.
+Ensure your services section reinforces your category selections. If "Emergency Plumber" is one of your [GBP categories](/learn/google-business-profile-categories/), your services section should include emergency plumbing services with appropriate descriptions.
 
 This alignment strengthens the relevance signal. When Google sees that your categories, services, and business description all consistently reference the same service areas, it increases confidence in your listing's relevance for those queries.
 
@@ -154,17 +154,17 @@ Products and services affect search matching in several important ways.
 
 **Outdated information.** If you discontinue a service or change pricing, update your GBP listing. Outdated information erodes trust and can lead to negative reviews when customer expectations do not match reality.
 
-**Ignoring the section entirely.** Many businesses set up their categories and description and skip products and services altogether. This leaves a significant optimization gap. Review your complete setup against our [GBP optimization checklist](/blog/google-business-profile-checklist/).
+**Ignoring the section entirely.** Many businesses set up their categories and description and skip products and services altogether. This leaves a significant optimization gap. Review your complete setup against our [GBP optimization checklist](/learn/google-business-profile-checklist/).
 
 **Using the wrong section.** Service businesses should primarily use the Services section. The Products section works for tangible goods or packaged service offerings. Using both is appropriate when your business offers a mix.
 
 ## Maintaining Your Products and Services
 
-Products and services are not set-and-forget sections. Build maintenance into your regular [GBP management](/google-business-profile-management/) routine.
+Products and services are not set-and-forget sections. Build maintenance into your regular [GBP management](/services/gbp-optimization/) routine.
 
 **Monthly:** Review descriptions for accuracy. Update pricing if needed. Add any new services or products you have launched.
 
-**Quarterly:** Audit the full list. Remove discontinued offerings. Refresh descriptions based on search query data from your [GBP analytics](/blog/gbp-insights-analytics/). Check if new category-specific options have become available.
+**Quarterly:** Audit the full list. Remove discontinued offerings. Refresh descriptions based on search query data from your [GBP analytics](/learn/gbp-insights-analytics/). Check if new category-specific options have become available.
 
 **Annually:** Complete overhaul. Rewrite descriptions to reflect current messaging and positioning. Reorganize categories if your service mix has evolved. Update all images.
 

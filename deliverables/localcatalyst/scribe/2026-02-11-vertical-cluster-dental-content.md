@@ -16,7 +16,7 @@
 
 Content marketing for dental practices isn't about publishing blog posts and hoping patients find them. It's about systematically building topical authority around the services you offer and the questions patients ask — so that Google recognizes your website as the definitive local resource for dental care in your market.
 
-The practices dominating [dental SEO](/industries/dental-seo/) in competitive markets don't just have optimized Google Business Profiles and fast websites. They have deep content libraries that capture patients at every stage of the decision journey, from "is my tooth pain serious" to "best Invisalign dentist in [city]." This guide shows you how to build that content engine. For the underlying strategy framework, see our [SEO content strategy](/seo-content-strategy/) service.
+The practices dominating [dental SEO](/industries/dental-seo/) in competitive markets don't just have optimized Google Business Profiles and fast websites. They have deep content libraries that capture patients at every stage of the decision journey, from "is my tooth pain serious" to "best Invisalign dentist in [city]." This guide shows you how to build that content engine. For the underlying strategy framework, see our [SEO content strategy](/services/content-pages/) service.
 
 ## The Three Content Layers Every Dental Website Needs
 

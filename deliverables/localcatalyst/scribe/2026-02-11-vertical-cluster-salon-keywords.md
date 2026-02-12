@@ -14,7 +14,7 @@
 
 ---
 
-The beauty industry generates some of the highest local search volumes of any service category. "Hair salon near me" alone produces hundreds of thousands of monthly searches nationally. But volume without strategy is just noise. The salons and spas that win in search are the ones that target the specific, intent-rich keywords their ideal clients actually use. This guide, part of our [salon and spa SEO](/industries/salon-spa-seo/) hub, provides the keyword research framework that beauty businesses need to attract more bookings through organic search. For professional keyword research tailored to your market, explore our [local keyword research](/local-seo-services/local-keyword-research/) service.
+The beauty industry generates some of the highest local search volumes of any service category. "Hair salon near me" alone produces hundreds of thousands of monthly searches nationally. But volume without strategy is just noise. The salons and spas that win in search are the ones that target the specific, intent-rich keywords their ideal clients actually use. This guide, part of our [salon and spa SEO](/industries/salon-spa-seo/) hub, provides the keyword research framework that beauty businesses need to attract more bookings through organic search. For professional keyword research tailored to your market, explore our [local keyword research](/services/local-keyword-research/) service.
 
 ## Understanding How Salon Clients Search
 

@@ -16,7 +16,7 @@
 
 Plumbing companies live and die by their ability to appear when homeowners search for help. Unlike industries where customers browse casually, plumbing searches are driven by urgent problems: burst pipes, clogged drains, water heaters that stopped working. Targeting the right keywords means the difference between a full schedule and an empty one. This keyword guide is part of our comprehensive [plumbing SEO resource](/industries/plumbing-seo/) and covers exactly which terms to target and how to structure your site around them.
 
-For plumbing companies that want professional keyword research tailored to their market and service area, our [local keyword research service](/local-seo-services/local-keyword-research/) builds complete keyword strategies from the ground up.
+For plumbing companies that want professional keyword research tailored to their market and service area, our [local keyword research service](/services/local-keyword-research/) builds complete keyword strategies from the ground up.
 
 ## How Plumbing Keywords Differ From Other Industries
 
@@ -121,8 +121,8 @@ Assign every keyword to a specific page to prevent cannibalization:
 | Service page | Water heater installation | /water-heater-installation/ |
 | Service page | Sewer line repair | /sewer-line-repair/ |
 | Service area page | Plumber in [nearby city] | /service-areas/[city]/ |
-| Blog post | How much does drain cleaning cost | /blog/drain-cleaning-cost/ |
-| Blog post | Why is my toilet running | /blog/toilet-running-causes/ |
+| Blog post | How much does drain cleaning cost | /learn/drain-cleaning-cost/ |
+| Blog post | Why is my toilet running | /learn/toilet-running-causes/ |
 
 **Common mistake:** Many plumbing companies create a single "Residential Plumbing" page listing all services. This page cannot rank for any specific service keyword because it lacks the depth and focus Google requires. Split every service into its own page.
 

@@ -3,8 +3,8 @@
 **Deliverable:** Hub blog post
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/anchor-text-optimization/
-**Parent Hub:** /link-building-services/
+**URL:** /learn/anchor-text-optimization/
+**Parent Hub:** /managed/
 **Primary Keyword:** anchor text optimization
 **Secondary Keywords:** anchor text strategy, anchor text types, anchor text best practices, anchor text ratios, natural anchor text distribution
 **Title Tag:** Anchor Text Optimization: Strategy & Ratios
@@ -16,7 +16,7 @@
 
 ## Anchor Text Optimization: Building a Natural, Effective Link Profile
 
-Anchor text is the visible, clickable text within a hyperlink. It serves as a signal to search engines about the topic and relevance of the linked page. Managing anchor text distribution across your backlink profile is a critical component of any [link building services](/link-building-services/) strategy, yet it remains one of the most misunderstood aspects of SEO.
+Anchor text is the visible, clickable text within a hyperlink. It serves as a signal to search engines about the topic and relevance of the linked page. Managing anchor text distribution across your backlink profile is a critical component of any [link building services](/managed/) strategy, yet it remains one of the most misunderstood aspects of SEO.
 
 Get anchor text right, and your links amplify each other. Get it wrong, and you trigger algorithmic penalties that suppress the very rankings you are trying to build. This guide covers the types, ratios, and strategies that keep your anchor text profile both effective and safe.
 
@@ -64,7 +64,7 @@ The anchor text is your brand name or a variation of it.
 
 The anchor text is the raw URL itself.
 
-**Example:** "https://localcatalyst.ai/link-building-services/"
+**Example:** "https://localcatalyst.ai/managed/"
 
 **Role:** Common in citations, forum posts, and quick references. Carries minimal keyword signal but contributes to a natural anchor distribution. Expected in any organic link profile.
 
@@ -140,7 +140,7 @@ Anchors that match the expected pattern for their source type appear organic. A 
 
 A common mistake is directing all optimized anchors to the homepage while neglecting inner pages. Distribute link building and anchor text variety across your most important pages, including service pages, location pages, and high-value blog content.
 
-For example, if you have a page targeting "local SEO services," some links should point to that specific page with relevant anchors rather than funneling everything through the homepage. Understanding how to [earn local backlinks](/blog/how-to-earn-local-backlinks/) to specific inner pages strengthens your entire site structure.
+For example, if you have a page targeting "local SEO services," some links should point to that specific page with relevant anchors rather than funneling everything through the homepage. Understanding how to [earn local backlinks](/learn/how-to-earn-local-backlinks/) to specific inner pages strengthens your entire site structure.
 
 ### Monitor and Adjust Over Time
 
@@ -179,7 +179,7 @@ To assess your current anchor text health, follow this process:
 5. **Identify imbalances** where any single category or phrase is over-represented.
 6. **Plan corrective action** by targeting under-represented anchor types in future link building.
 
-If your audit reveals significant over-optimization, the fix is not removing existing links but diluting the problematic concentration by building new links with varied, natural anchors. A broader [SEO audit](/seo-audit-services/) will reveal whether anchor text issues are contributing to ranking stagnation or suppression.
+If your audit reveals significant over-optimization, the fix is not removing existing links but diluting the problematic concentration by building new links with varied, natural anchors. A broader [SEO audit](/services/seo-audit/) will reveal whether anchor text issues are contributing to ranking stagnation or suppression.
 
 ---
 
@@ -205,4 +205,10 @@ Since Google treats nofollow as a hint rather than a directive, anchor text on n
 
 ## Optimize Your Anchor Text Profile
 
-Uncertain whether your current anchor text distribution is helping or hindering your rankings? A detailed backlink analysis can identify over-optimization risks and guide your strategy. [Contact our team](/contact/) for a comprehensive anchor text audit and link building plan tailored to your competitive landscape.
+Uncertain whether your current anchor text distribution is helping or hindering your rankings? A detailed backlink analysis can identify over-optimization risks and guide your strategy.
+
+---
+
+**Ready to strengthen your link profile?** [Explore Managed SEO](/managed/)
+
+---

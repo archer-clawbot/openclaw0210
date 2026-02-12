@@ -5,6 +5,10 @@
 **Agent:** Scribe
 **URL:** /about/why-choose-us/
 **Word Count Target:** 1,500
+**Title Tag:** Why Choose LocalCatalyst for Local SEO | LocalCatalyst
+**Meta Description:** LocalCatalyst specializes only in local SEO. Get enterprise-level expertise, AI-powered workflows, real metrics, and transparent reporting for your business.
+**H1:** Why Local Businesses Choose LocalCatalyst for SEO That Delivers Results
+**Primary Keyword:** why choose LocalCatalyst
 
 ---
 
@@ -146,6 +150,6 @@ When you work with LocalCatalyst, you're not getting a team that has to learn yo
 
 ## Ready to See What Specialized Local SEO Can Do for Your Business?
 
-We offer a free, no-obligation SEO audit that shows you exactly where you stand in your local market --- what's working, what's broken, and what the biggest opportunities are. No sales pitch. Just data.
+Start with our [SEO Audit](/services/seo-audit/) to see exactly where you stand in your local market --- what's working, what's broken, and what the biggest opportunities are. Just data.
 
 **[Order Your SEO Audit](/services/seo-audit/)** | **[Browse Our Services](/services/)**

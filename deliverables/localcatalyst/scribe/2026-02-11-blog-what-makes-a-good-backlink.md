@@ -3,8 +3,8 @@
 **Deliverable:** Hub blog post
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/what-makes-a-good-backlink/
-**Parent Hub:** /link-building-services/
+**URL:** /learn/what-makes-a-good-backlink/
+**Parent Hub:** /managed/
 **Primary Keyword:** what makes a good backlink
 **Secondary Keywords:** good backlinks vs bad backlinks, backlink quality factors, high quality backlinks, evaluating backlinks, link quality metrics
 **Title Tag:** What Makes a Good Backlink? Quality Factors
@@ -16,7 +16,7 @@
 
 ## What Makes a Good Backlink? The Quality Factors That Matter
 
-Not all backlinks are created equal. A single link from a trusted, relevant source can move rankings more than hundreds of links from low-quality directories. If you are evaluating [link building services](/link-building-services/) or assessing your own backlink profile, knowing how to distinguish a valuable backlink from a worthless or harmful one is essential.
+Not all backlinks are created equal. A single link from a trusted, relevant source can move rankings more than hundreds of links from low-quality directories. If you are evaluating [link building services](/managed/) or assessing your own backlink profile, knowing how to distinguish a valuable backlink from a worthless or harmful one is essential.
 
 This guide walks through each quality factor that determines whether a backlink helps your rankings, does nothing, or actively damages your site's standing with Google.
 
@@ -73,7 +73,7 @@ Even on a relevant site, the specific page matters. A link from a blog post abou
 
 For local businesses, geographic relevance is a critical and often overlooked quality factor. Links from sites associated with your service area, local newspapers, regional business directories, city government pages, and local organizations, carry a geographic relevance signal that reinforces your local search presence.
 
-This is why effective [local link building strategies](/blog/link-building-strategies-local-seo/) prioritize geographically relevant sources alongside authoritative ones.
+This is why effective [local link building strategies](/learn/link-building-strategies-local-seo/) prioritize geographically relevant sources alongside authoritative ones.
 
 ---
 
@@ -118,7 +118,7 @@ The clickable text of a link, the anchor text, tells Google what the linked page
 | Generic | "click here" or "learn more" | Minimal keyword value |
 | Natural/descriptive | "this guide to building local links" | Ideal balance of signal and safety |
 
-A natural backlink profile contains a mix of all anchor text types. Over-optimization, particularly heavy use of exact-match anchors, triggers algorithmic filters that can suppress rankings. Proper [anchor text optimization](/blog/anchor-text-optimization/) balances keyword relevance with natural variation.
+A natural backlink profile contains a mix of all anchor text types. Over-optimization, particularly heavy use of exact-match anchors, triggers algorithmic filters that can suppress rankings. Proper [anchor text optimization](/learn/anchor-text-optimization/) balances keyword relevance with natural variation.
 
 ---
 
@@ -170,7 +170,7 @@ Audit your current backlink profile using these steps:
 4. **Identify gaps** where competitors have quality links that you lack.
 5. **Disavow toxic links** through Google's Disavow Tool if they pose a real penalty risk.
 
-A thorough [SEO audit](/seo-audit-services/) includes backlink profile analysis as a core component, revealing both the strengths you can build on and the weaknesses that may be holding your rankings back.
+A thorough [SEO audit](/services/seo-audit/) includes backlink profile analysis as a core component, revealing both the strengths you can build on and the weaknesses that may be holding your rankings back.
 
 ---
 

@@ -3,8 +3,8 @@
 **Deliverable:** Service sub-page (cluster)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /google-business-profile-management/gbp-photos-videos/
-**Parent Hub:** /google-business-profile-management/
+**URL:** /services/gbp-optimization/gbp-photos-videos/
+**Parent Hub:** /services/gbp-optimization/
 **Primary Keyword:** GBP photos and videos
 **Secondary Keywords:** Google Business Profile photos, GBP photo optimization, Google Maps photos, business profile videos, GBP image guidelines
 **Title Tag:** GBP Photos & Videos Optimization Guide | LocalCatalyst.ai
@@ -14,11 +14,11 @@
 
 ---
 
-*Breadcrumbs: [Home](/) > [Google Business Profile Management](/google-business-profile-management/) > GBP Photos & Videos*
+*Breadcrumbs: [Home](/) > [Google Business Profile Management](/services/gbp-optimization/) > GBP Photos & Videos*
 
 ## GBP Photos and Videos: Visual Content That Drives Calls, Visits, and Rankings
 
-Visual content on your Google Business Profile is not decorative — it is a ranking signal, a trust builder, and a direct driver of customer actions. Google's own data shows that businesses with more than 100 photos receive 520% more calls than the average business. That is not a marginal improvement. It is a five-fold increase in the single most valuable customer action a local business listing can generate. Our [Google Business Profile management services](/google-business-profile-management/) include systematic photo and video optimization because the performance gap between visually rich profiles and bare-minimum profiles is too significant to ignore.
+Visual content on your Google Business Profile is not decorative — it is a ranking signal, a trust builder, and a direct driver of customer actions. Google's own data shows that businesses with more than 100 photos receive 520% more calls than the average business. That is not a marginal improvement. It is a five-fold increase in the single most valuable customer action a local business listing can generate. Our [Google Business Profile management services](/services/gbp-optimization/) include systematic photo and video optimization because the performance gap between visually rich profiles and bare-minimum profiles is too significant to ignore.
 
 Despite this data, most local businesses upload a handful of photos when they first claim their profile and never add another. Their competitors have 15-20 photos. Top-performing businesses have 200 or more. The visual content gap is one of the easiest competitive advantages to exploit — it requires no technical expertise, no specialized tools, and no ongoing costs beyond the time to take and upload photos regularly.
 
@@ -28,7 +28,7 @@ Photos influence local search performance through multiple mechanisms:
 
 ### Engagement Signals
 
-Google tracks photo views and engagement as a ranking signal. Profiles with more photos generate more photo views, which contribute to the behavioral signals that influence prominence — one of the three core ranking factors for Google Maps and the [local 3-pack](/local-seo-services/local-3-pack-optimization/).
+Google tracks photo views and engagement as a ranking signal. Profiles with more photos generate more photo views, which contribute to the behavioral signals that influence prominence — one of the three core ranking factors for Google Maps and the [local 3-pack](/services/local-3-pack-optimization/).
 
 ### Trust and Conversion
 
@@ -216,7 +216,7 @@ Google reserves the right to remove photos that violate their content policies. 
 
 ### Do photos directly impact Google Maps rankings?
 
-Photo engagement metrics (views, clicks) contribute to the behavioral signals that influence Google Maps and [Map Pack rankings](/local-seo-services/google-maps-ranking/). While Google has not quantified the exact weight of photo signals, the correlation between photo volume and ranking performance is well-documented in local SEO research. More importantly, photos impact conversion metrics (calls, direction requests, website clicks) that are themselves ranking signals. The relationship is both direct and indirect.
+Photo engagement metrics (views, clicks) contribute to the behavioral signals that influence Google Maps and [Map Pack rankings](/services/google-maps-ranking/). While Google has not quantified the exact weight of photo signals, the correlation between photo volume and ranking performance is well-documented in local SEO research. More importantly, photos impact conversion metrics (calls, direction requests, website clicks) that are themselves ranking signals. The relationship is both direct and indirect.
 
 ### Should I hire a professional photographer?
 
@@ -228,4 +228,4 @@ Use photos on both. Your website and GBP serve different functions. GBP photos a
 
 ---
 
-**Want to see how your visual content stacks up against competitors?** Our [free SEO audit](/services/seo-audit/) includes a GBP photo analysis comparing your photo count, quality, and coverage against the businesses dominating the Map Pack in your market. Find out exactly where the gaps are and how closing them can increase your calls and visits.
+**Want to see how your visual content stacks up against competitors?** Our [SEO Audit](/services/seo-audit/) includes a GBP photo analysis comparing your photo count, quality, and coverage against the businesses dominating the Map Pack in your market. Find out exactly where the gaps are and how closing them can increase your calls and visits.

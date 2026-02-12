@@ -3,8 +3,8 @@
 **Deliverable:** Blog post (Hub 1 educational content)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/how-long-does-local-seo-take/
-**Parent Hub:** /local-seo-services/
+**URL:** /learn/how-long-does-local-seo-take/
+**Parent Hub:** /services/
 **Primary Keyword:** how long does local SEO take
 **Secondary Keywords:** local SEO timeline, local SEO results timeline, how fast does local SEO work, local SEO expectations, local SEO time to rank
 **Title Tag:** How Long Does Local SEO Take? Realistic Timeline | LocalCatalyst.ai
@@ -14,7 +14,7 @@
 
 ---
 
-"How long until I start ranking?" is the first question every business owner asks when investing in [local SEO services](/local-seo-services/). It is a reasonable question, and it deserves an honest answer — not vague promises or overly optimistic projections.
+"How long until I start ranking?" is the first question every business owner asks when investing in [local SEO services](/services/). It is a reasonable question, and it deserves an honest answer — not vague promises or overly optimistic projections.
 
 The truthful answer is: it depends. But that does not mean the answer is unknowable. The timeline for local SEO results is predictable once you understand the specific factors that influence speed. This guide breaks down realistic timelines by competitive level, the factors that accelerate or delay results, and exactly what to expect month by month.
 
@@ -71,7 +71,7 @@ The first month is entirely about setting the foundation. Expect to see:
 
 - Google Business Profile fully optimized (all fields completed, categories set, photos uploaded)
 - Initial citation audit completed, with submissions to top directories started
-- Website audit identifying [technical SEO](/technical-seo/) issues, on-page gaps, and content opportunities
+- Website audit identifying [technical SEO](/services/seo-audit/technical-seo-audit/) issues, on-page gaps, and content opportunities
 - Review generation process established
 - Baseline rankings documented for tracking
 
@@ -83,7 +83,7 @@ This is the phase where most optimization work is being executed but results hav
 
 - Citations are indexing and propagating across the data ecosystem
 - New reviews are accumulating, improving your review profile
-- On-page optimizations and [content improvements](/content-strategy/) are being indexed
+- On-page optimizations and [content improvements](/services/content-pages/) are being indexed
 - Initial link building efforts are underway
 - Technical SEO fixes are being crawled and processed
 
@@ -138,7 +138,7 @@ Not every local SEO action takes months to produce results. Some changes deliver
 - Building foundational citations
 - Publishing optimized location pages
 - Generating a steady stream of new reviews
-- Resolving [on-page SEO](/on-page-seo/) gaps
+- Resolving [on-page SEO](/services/on-page-optimization/) gaps
 
 **Long-term gains (6+ months):**
 - Building domain authority through link acquisition
@@ -175,6 +175,6 @@ Track these metrics monthly: local pack rankings for target keywords (using geo-
 
 ## Know Where You Stand Today
 
-The most accurate way to predict your local SEO timeline is to understand your starting point. Our free audit analyzes your current local visibility, competitive landscape, technical health, and opportunity gaps — giving you a clear, data-backed picture of what it will take to reach your goals.
+The most accurate way to predict your local SEO timeline is to understand your starting point. Our [SEO Audit](/services/seo-audit/) analyzes your current local visibility, competitive landscape, technical health, and opportunity gaps — giving you a clear, data-backed picture of what it will take to reach your goals.
 
 [Order Your SEO Audit](/services/seo-audit/) and get a realistic timeline customized to your market and starting position.

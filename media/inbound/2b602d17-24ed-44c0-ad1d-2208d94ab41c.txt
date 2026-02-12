@@ -1,0 +1,2671 @@
+today we are going to be running through
+
+
+complexity aiso with a Twist because we
+
+
+have a member from the SEO Elite Circle
+
+
+today Dino welcome Dino thank you Julian
+
+
+uh good to be here good to have you on
+
+
+it you know this the first time we've
+
+
+done a live stream with an seite Circle
+
+
+member so it's super exciting I know
+
+
+you're in the plumbing na so you talking
+
+
+about real estate as well for your
+
+
+partner so I it's gonna be fun to just
+
+
+run through some live examples of how
+
+
+you can use perplexity for that yeah
+
+
+perfect yeah can you do um yeah can you
+
+
+get stuck in absolutely all right cool
+
+
+so what we're going to do is I'll share
+
+
+my screen are you using like AI for your
+
+
+website the
+
+
+minute um yes content
+
+
+yes yeah okay makes sense and and and
+
+
+articles yeah how do you typically write
+
+
+your your content right now using like
+
+
+AI or what sort of AI you using yes I am
+
+
+using AI I use um on page
+
+
+AI um and that does uh like page
+
+
+optimization and for your articles which
+
+
+is really cool nice yeah like what I've
+
+
+never used on page I AI like what sort
+
+
+of stuff do you do with that um
+
+
+basically you just yeah write in your uh
+
+
+keyword you're going for and it'll write
+
+
+your article in you know a few minutes
+
+
+and you're done pretty much and it
+
+
+optimizes it um with all the Google
+
+
+entities and all that sort of stuff so
+
+
+yeah it's really good that's pretty cool
+
+
+that's pretty cool all right I'm just
+
+
+going to quickly sign up to perplexity
+
+
+Pro and upgrade my membership just so I
+
+
+can show people watching like all the
+
+
+cool stuff you can do it now first thing
+
+
+I would say for you like obviously
+
+
+you're in the plumbing Niche and you're
+
+
+trying to rank locally right so you're
+
+
+in Harvey Bay for example yep yeah so
+
+
+the one of the best ways you can use
+
+
+perplex is like you can actually just
+
+
+come up with a bunch of like local SEO
+
+
+keywords around your particular Niche so
+
+
+for example let's say and I put
+
+
+everything all the prompts and
+
+
+everything from today and I'll share
+
+
+them with you but I also share them with
+
+
+everyone watching as well but like
+
+
+example yeah so let's say your Niche is
+
+
+um plumbers Harvey Bay right oh yeah h e
+
+
+r v e
+
+
+y h r v yep a a y right you say h e r v
+
+
+y e okay perfect that's it all right all
+
+
+the way from Australia
+
+
+and uh we're going International today
+
+
+so Nish equals Plum Harvey Bay and then
+
+
+you can say right uh find me
+
+
+some low competition
+
+
+keywords alphabet suit
+
+
+method to generate
+
+
+customers for my local business right
+
+
+and anyone watching this like you don't
+
+
+have to necessarily use uh you don't
+
+
+have to use this for local like you can
+
+
+use this for for any sort of Industry
+
+
+you want
+
+
+right and
+
+
+so you could switch this to for example
+
+
+like you could Niche this down to like
+
+
+e-commerce real estate info products
+
+
+whatever Niche you're in this prompt
+
+
+will work if you customize it right okay
+
+
+and then you can see a bunch of ideas
+
+
+right here now some of these are going
+
+
+to be BS and some of them you're
+
+
+probably not going to want to use right
+
+
+but for example best emergency plumber
+
+
+Harvey Bay that looks like a relevant
+
+
+keyword to me that you could potentially
+
+
+rank for the other thing that you can do
+
+
+yeah is you can go into Google water to
+
+
+complete if you need some keyword
+
+
+ideas and you can just have a look
+
+
+through the list and be like okay Harvey
+
+
+Bay plumbers Harvey Bay Plumbing these
+
+
+two will likely be the same page yeah
+
+
+because people are basically looking for
+
+
+the same thing but then you can also see
+
+
+for example you got hary Bay Plumbing
+
+
+Supplies hary Bay plumbing jobs um that
+
+
+probably wouldn't be so relevant to you
+
+
+yeah and
+
+
+also like I think for you particularly
+
+
+emergency PL would be pretty good
+
+
+because like those are customers ready
+
+
+to buy and also ready to spend a lot
+
+
+money at the same time
+
+
+right yeah
+
+
+awesome I don't know why but you know my
+
+
+uh I've got a lot of cousins back in
+
+
+England but they're all going to
+
+
+Australia at the
+
+
+minute perfect weather here at the
+
+
+moment it's great yeah they they love it
+
+
+also like a mate I grew up with as well
+
+
+he over to to Perth actually oh yeah
+
+
+yeah yeah yeah so I don't know what
+
+
+happens you let people go home after
+
+
+they go or they
+
+
+don't they love it too much yeah so they
+
+
+stay
+
+
+yeah all right cool we got a lot of
+
+
+people watching as well so Tyler says
+
+
+howdy guys hi Tyler is another member of
+
+
+the SE Elite so welcome Tyler Ami says
+
+
+hi Julian and you know if we've got any
+
+
+questions as we going along we got a lot
+
+
+of people watching today if anyone has
+
+
+any questions as we go along just feel
+
+
+free to ask them and we'll just help you
+
+
+out as much as we can right so
+
+
+essentially for you um Dina what I would
+
+
+say is like when you're doing the
+
+
+keyword research and when you find some
+
+
+good examples of keywords you like just
+
+
+build up a list of like 50 of
+
+
+them yeah and then you know like yeah
+
+
+this is all my this is all my keyword
+
+
+research and then it's just a case of of
+
+
+creating the content from there do you
+
+
+have like a keyword strategy in place at
+
+
+the minute
+
+
+um sort of like when I first did it
+
+
+obviously I use RFS um as well following
+
+
+what you were doing um which is awesome
+
+
+love RFS it's great um the thing I
+
+
+didn't do at the start was I didn't have
+
+
+like longtail keywords for a lot of blog
+
+
+posts so I was just like plumbers Harvey
+
+
+Bay I was just basically doing my
+
+
+suburbs so like plumbers Harvey Bay
+
+
+plumbers urangan um you know blah blah
+
+
+blah and creating Pages for that for my
+
+
+local search um I guess the thing for me
+
+
+was structuring um how you do the like
+
+
+the blogs with with finding these
+
+
+keywords I
+
+
+guess all right so like you want to know
+
+
+how to structure your blogs right yeah
+
+
+for SEO okay we'll come on to that in a
+
+
+second and we have a question from guy
+
+
+who says hi I want quality back links
+
+
+can you help absolutely if you book in a
+
+
+call Link in the comments description
+
+
+you can book in a call about link
+
+
+building and you know feel free to jump
+
+
+on a call with us one for one we'll
+
+
+guide you through number one how to
+
+
+build back links the best types of links
+
+
+to build and then also if you want us to
+
+
+do it for you we're happy to do that too
+
+
+so let's keep running through now and uh
+
+
+yeah so from here I hope that everyone
+
+
+watching like it's it's
+
+
+pretty it's pretty clear how to do the
+
+
+the keyword research Dino I know you
+
+
+were saying you were following the
+
+
+structure from the SE Elite Circle which
+
+
+is a really good way to do it and then
+
+
+also the thing for you as well I would
+
+
+say is like there's going to be certain
+
+
+Niche services that you offer around
+
+
+Plumbing that you could also rank for
+
+
+that would be quite easy uh so for
+
+
+example like I don't know if you do this
+
+
+but you know for example services like
+
+
+drain cleaning gas fitting Hot Water
+
+
+Systems Etc yeah yeah yeah definitely
+
+
+and then yeah with those you just you
+
+
+create a page on your website for them
+
+
+they're not a Blog are they is that
+
+
+correct yeah exactly so like these would
+
+
+be more service Pages not blocks yeah so
+
+
+for
+
+
+example we'll go on to to Google now
+
+
+I'll show you some examples of how to do
+
+
+this so there's a few ways you can do it
+
+
+um
+
+
+let me type in some example keywords so
+
+
+for example Plum this Harvey
+
+
+Bay let's say you're trying to WR for
+
+
+the keyword best plumbers Harvey Bay
+
+
+right there's a few ways you can
+
+
+structure this I mean the first thing I
+
+
+would say is number one get a Maps list
+
+
+in if you haven't already yeah I have
+
+
+I've just recently done all that so I
+
+
+think my website's been live for like a
+
+
+couple of weeks um
+
+
+yeah perfect and then also when you're
+
+
+doing the the local Maps listing like
+
+
+you want to make sure that you you get a
+
+
+lot of reviews on there like you can see
+
+
+how this is ordered in terms of reviews
+
+
+like 576 13 118 yeah it's like the best
+
+
+reviews and the most amount of reviews
+
+
+for the maps listings that the rank
+
+
+that's say the 820 of it yeah yeah also
+
+
+we had a really good thread inside the
+
+
+SE Elite Circle I pull this up as a
+
+
+freebie for everyone watching but I
+
+
+think it'd be super super useful for you
+
+
+as well Dean yeah S I haven't seen that
+
+
+yet yeah where is it now
+
+
+let me try and find this example for
+
+
+you here we go right I'm actually going
+
+
+to I'll pin it to the feed because I
+
+
+think a lot of people in the the SEO
+
+
+Community would like it right but yeah
+
+
+cool basically um yeah so reviews are
+
+
+like the 820 it obviously I in like lots
+
+
+of images and videos to the content
+
+
+well CTR with driving directions was
+
+
+another tip reced by Ronald Osborne he
+
+
+actually he's in Australia too he he's a
+
+
+member of the SE Circle makes about 150k
+
+
+a month with Partnerships and uh yeah
+
+
+these are some of his best tips as well
+
+
+and then also just align the I think a
+
+
+lot of people do this wrong but like
+
+
+align the gmbb with your services on the
+
+
+website if that makes
+
+
+sense yeah yeah
+
+
+cool yeah and uh you've also seen the
+
+
+full training here right on on how to do
+
+
+SEO I think that help you too yeah I did
+
+
+watch that this morning that was really
+
+
+good so yeah I just need to put that
+
+
+into practice now Perfect all right I'm
+
+
+going to copy and paste these tips into
+
+
+this document for you just so that
+
+
+you've got them you know how to handle
+
+
+it great all right we've covered a lot
+
+
+already how to automate keyword research
+
+
+how to find examples and some of the
+
+
+best examples for you how to do gmbs
+
+
+next up let's talk about how to
+
+
+structure your blogs for are you using
+
+
+any sort of like content outline tool to
+
+
+figure out what sort of keywords you can
+
+
+rank for
+
+
+um basically I just I was just going
+
+
+into Google and typing a certain keyword
+
+
+and then um yeah coming up with you know
+
+
+um best plumbers Harvey Bay um plumbers
+
+
+Harvey Bay prices all that sort of stuff
+
+
+for that that's all I was using at this
+
+
+point yeah okay so here's how I usually
+
+
+do when it comes to figuring out what I
+
+
+should rank for so let's say for example
+
+
+I want to rank for the keyword best
+
+
+Plumb is har Bay inside the organic
+
+
+listings so be below the the maps
+
+
+listings right if I want to rank for a
+
+
+keyword like that I'm going to be
+
+
+looking at all these competitors I'm not
+
+
+going to put it up on this example video
+
+
+because you know obviously it's other
+
+
+people's content I don't want to show
+
+
+that on the YouTube video but yeah you
+
+
+can basically look through other
+
+
+people's
+
+
+Pages get a list of all the
+
+
+headings get a list of all the the
+
+
+topics and FAQs have covered and the
+
+
+structure and the word account
+
+
+and then reverse engineer okay this is
+
+
+what's working for them therefore I'm
+
+
+going to do it for my site too if that
+
+
+makes sense yeah cool yeah so like
+
+
+reverse
+
+
+engineer your competitors I'm sure you
+
+
+wouldn't as well but don't just like
+
+
+steal the headings but like re it you
+
+
+need yeah cool yeah perfect all right
+
+
+there's a couple other options to help
+
+
+you I'm going to show you some some good
+
+
+examples of how to do this
+
+
+so if you want to automate your outlines
+
+
+but you want to automate them for cheap
+
+
+let's say you don't want to look through
+
+
+every single competitor over and over
+
+
+again right you don't want to do that
+
+
+all manually yourself what you can do is
+
+
+you can go inside appsumo and you can
+
+
+search something like
+
+
+phrase and uh and just try and find some
+
+
+alternatives to phrase that that would
+
+
+automate your content outlines otherwise
+
+
+you can type in stuff like content
+
+
+outlines and basically appsumo it gives
+
+
+you access to tools that are like
+
+
+heavily discounted sort of copies of
+
+
+other competitors if that makes sense
+
+
+cool
+
+
+yeah so if we're scrolling through
+
+
+here uh you know you've got like
+
+
+witnessed uh sorry right seed right seed
+
+
+is only $44 and you see how it's giving
+
+
+you a Content optimization score here
+
+
+yeah that looks very very similar to
+
+
+like phrase or Surfer or all these
+
+
+optimization tools that will automate
+
+
+the content outl for you yeah yeah well
+
+
+that's what um yeah that on page AI does
+
+
+too
+
+
+basically same sort of thing which is
+
+
+awesome yeah yeah that's exactly what
+
+
+you want definitely that sounds good I
+
+
+me I'm going to have to do a video on on
+
+
+page AI yeah it's really good yeah all
+
+
+right it and then like um you know
+
+
+obviously it's got all your Google
+
+
+entities on the right um and then it'll
+
+
+add them into the content and then you
+
+
+can basically just click on the words
+
+
+that it's missing and then it'll Auto
+
+
+optimize um it does AI detection um yeah
+
+
+it does everything it's really
+
+
+good right I'm going to have to put that
+
+
+on my list of video ideas
+
+
+let me find it right
+
+
+here on page AI perfect yeah all right I
+
+
+think there's there's two but it's the
+
+
+one with like the little rocket
+
+
+ship oh okay yeah I mean if it's got the
+
+
+rocket ship emoji I'm I'm already bought
+
+
+in mate a sure thing know me too
+
+
+well all right cool um we got a few
+
+
+questions here that I want to just
+
+
+answer on the the comments here so
+
+
+novice says you recommend writing
+
+
+articles about about all the related
+
+
+keywords at the main topic I'll show you
+
+
+how to automate this in a second and the
+
+
+best way to figure out okay what should
+
+
+you write in your article and how to
+
+
+optimize it and then Tyler says if the
+
+
+first position is a product page but I
+
+
+want to do a Blog Page is it a wise idea
+
+
+or should I also do a product page that
+
+
+rank them yeah so if for example Google
+
+
+was showing like 10 product pages or
+
+
+five product pages for that keyword you
+
+
+would also do a product page for that
+
+
+keyword same as Deno was saying before
+
+
+like if you're trying to rank for best
+
+
+emergency plumber Harvey Bay then you
+
+
+would create a service page around that
+
+
+topic because it's obviously not a blog
+
+
+post that people are looking for right
+
+
+yeah that was the one thing that really
+
+
+me um you know what's a Blog what's a
+
+
+what's a page sort of
+
+
+thing yeah that makes sense and then
+
+
+also um guy says I don't believe in AI
+
+
+for keyword research now you can believe
+
+
+what you want but I would say number one
+
+
+perplexity gives you some solid ideas
+
+
+but then you want to vet them right you
+
+
+want to go through this list and make
+
+
+sure people are actually searching for
+
+
+them but also so Auto the autocomplete
+
+
+in Google is basically AI like the the
+
+
+ideas that you're getting from Google's
+
+
+autocomplete it's basically like AI
+
+
+generated stuff right so they're kind of
+
+
+like predicting based on previous data
+
+
+what people search for in the future and
+
+
+also if you're not sure about some of
+
+
+these keywords let's say for example
+
+
+you're not sure okay can I rank for for
+
+
+best plumbers Harvey Bay you can
+
+
+actually validate them so you can take a
+
+
+keyword like this and be like that
+
+
+sounds like BS to me I don't believe AI
+
+
+or I don't believe Google a to complete
+
+
+let me check it for myself so you can go
+
+
+into H's free qword tool and then from
+
+
+here free keyword generate tool and just
+
+
+paste in that keyword that you found
+
+
+previously hit find
+
+
+keywords make sure you verify you're a
+
+
+human and if you can't find that keyword
+
+
+then you know potentially you don't want
+
+
+to rank for it but usually if it's like
+
+
+a local keyword and it is in the aut
+
+
+complete then that's a good sign um also
+
+
+what you can do is you can just put in a
+
+
+shortened version of it so you can put
+
+
+best you can put plumbers jav Bay make
+
+
+sure you set the the country as well so
+
+
+I think that's why I didn't show up
+
+
+before just make sure you set up the
+
+
+country hit find
+
+
+keywords verify it and you can see this
+
+
+is a pretty easy keyword to rank for the
+
+
+volume is higher than 100 for that
+
+
+search keyword so it's a good one to go
+
+
+for you know yeah
+
+
+100% all right let's finally come on to
+
+
+the content creation and how to do this
+
+
+so when you're using any of these tools
+
+
+we'll create new we'll type in that
+
+
+keyword we were going after before so
+
+
+best PL is Harvey Bay we'll set the the
+
+
+country as
+
+
+Australia and then we'll hit create
+
+
+document now is there anything I know
+
+
+you're saying like you weren't sure what
+
+
+to write about inside the content is
+
+
+that because on page AI is not giving
+
+
+you the information that you need or
+
+
+you're just not sure about certain
+
+
+things no so it like once you got the
+
+
+keyword it writes everything for you
+
+
+which is great it was just basically
+
+
+like how I was structuring like
+
+
+obviously plumbers Harvey Bay plumbers
+
+
+urangan which is a suburb was like a
+
+
+page but then um you know like best
+
+
+plumbers Harvey Bay did I have a do I
+
+
+structure a page for that or is that a
+
+
+Blog um ah I see yeah that was yeah that
+
+
+was a sort of thing like what was a page
+
+
+and what was a was a Blog
+
+
+basically yeah so in that example right
+
+
+let's have a look at best Plum Harvey
+
+
+Bay
+
+
+if we pull up this example and we scroll
+
+
+down and see what's ranking you can see
+
+
+these the keywords a lot of the pages
+
+
+that are ranking are number one
+
+
+directories so you can see for example
+
+
+this is like top 10 plumbers in javey
+
+
+Bay yeah that's a directory this is a
+
+
+homepage so you can't really reverse
+
+
+engineer a homepage like that's just
+
+
+that's just a company this is a
+
+
+directory let me have a look at this
+
+
+example right here
+
+
+this is like a a service page
+
+
+yeah and let's have a look at this one
+
+
+this is like a service page as well it's
+
+
+a homepage but it's basically a service
+
+
+page right so if I was looking at the
+
+
+first page of Google there um I think
+
+
+for you because you're not a rank and
+
+
+rent website just create a service page
+
+
+yeah okay cool that be the main thing so
+
+
+so not a blog post but an actual service
+
+
+page Yeah so basically yeah find the
+
+
+words type them into Google see what
+
+
+they're showing up for if they're a blog
+
+
+or or a page and then just copy what
+
+
+they're showing up as yeah 100% And then
+
+
+also like when you're doing the content
+
+
+outline whatever tool you're using let
+
+
+me zoom in for people right here so they
+
+
+can see it but whatever tool you using
+
+
+you can choose to select headings from
+
+
+search results like so and it will give
+
+
+you a list of like the headings from you
+
+
+comped so for example you can look
+
+
+through the list and you're like right
+
+
+okay I'm going to take I'm going to take
+
+
+some of the these scroll through them
+
+
+and just add them to the list so like
+
+
+plumbus Harvey Bay We'll add that and
+
+
+you see how it's called like H1 H2 Etc
+
+
+yeah yeah so that's kind of like the
+
+
+hierarchy of a page so like you start
+
+
+off with a H1 then H2 H3
+
+
+Etc yeah cool yeah and then you can run
+
+
+through like these headings and just
+
+
+answer the content now what you're also
+
+
+going to see is on the page you'll see
+
+
+the word cam right so this is 5,300
+
+
+words 1,800 words 1, 100 words 1,100
+
+
+words
+
+
+right and so like that gives you an idea
+
+
+of how many words you would write so if
+
+
+if for example the average of the first
+
+
+page which in this example looks like
+
+
+roughly I would say around like maybe
+
+
+1,000 words 1,200 words yeah then you
+
+
+can then you would Target a similar
+
+
+amount of word count
+
+
+but you want to write with less fluff
+
+
+than you can bet this yeah straight to
+
+
+the point yeah exactly and if you can
+
+
+give more value are you than your
+
+
+competitors in a lower word count than
+
+
+your competitors I think you're always
+
+
+going to win because people like it's
+
+
+not about writing the the longest page I
+
+
+I think it's about giving the most
+
+
+amount of value and the least amount of
+
+
+time possible if that makes sense yeah
+
+
+yeah
+
+
+cool Tyler is asking what tool is that
+
+
+so this particular tool is Phase iio
+
+
+which I got a I got a lifetime deal on
+
+
+appsumo and it's paid for itself but
+
+
+again I think you could use tools like
+
+
+this one for example right seed it
+
+
+probably very similar things like you
+
+
+can see the the content grading right
+
+
+there it's obviously reverse engineering
+
+
+what's already ranking and it also kind
+
+
+of looks a bit like Jasper in terms of
+
+
+the the workflows but yeah that gives
+
+
+you an idea of what you can use and how
+
+
+to use
+
+
+it so does that make sense in terms of
+
+
+like how to structure the website and
+
+
+how to write the content and everything
+
+
+yeah definitely yeah that's good I guess
+
+
+yeah for me it was yeah obviously the
+
+
+keywords um how you structure all that
+
+
+with um your service pages and pages on
+
+
+your site and then you know what do you
+
+
+do for your blogs and then yeah then I
+
+
+can start ripping into that now yeah
+
+
+exactly and then you got your keyword
+
+
+which is basically just a H1 like your
+
+
+your main keyword is going to be the H1
+
+
+exact match and then you write your your
+
+
+content underneath
+
+
+now I was I was speaking to another SEO
+
+
+Elite Circle member last night actually
+
+
+Matias dios there's a there's an
+
+
+interview coming soon but we were
+
+
+talking about the best ways to leverage
+
+
+AI to write content and it's like I
+
+
+wouldn't recommend just going down like
+
+
+the one click and then publishing
+
+
+approach but you can get you can get AI
+
+
+to like do 80 or 90% of the content and
+
+
+then just just find a way to like make
+
+
+your content unique and add something
+
+
+new some type of new information to the
+
+
+content that most people aren't doing
+
+
+does that make sense yeah yeah for sure
+
+
+there's always ways to like make it more
+
+
+unique add something interesting in
+
+
+there add some some interesting detail
+
+
+that most people haven't done um but I
+
+
+just I wouldn't recommend writing it
+
+
+based on on what your competitiv are
+
+
+doing I'd write something completely new
+
+
+based on the head ins and the outline
+
+
+that Google has to see yeah yeah perfect
+
+
+cool yeah and then from there you can
+
+
+just generate the content now coming
+
+
+back to perplexity and how to write the
+
+
+content I think is one of the best ways
+
+
+to do this is is write it SE section by
+
+
+section so for example let's say you've
+
+
+got a a heading to write like blocked
+
+
+drains Harvey
+
+
+okay you can go into perplexity we can
+
+
+switch to Pro I'm actually just going to
+
+
+make sure that we're using Claude
+
+
+because Claude is my favorite AI model
+
+
+to use when writing content do you only
+
+
+do you usually use like track GPT inside
+
+
+on page AI or what s
+
+
+of yeah Claude I use Claude yeah yeah
+
+
+Claude is just so much just the best
+
+
+they might as well re all
+
+
+models so what I normally do is I go
+
+
+I'll type in like so I'll go on to my on
+
+
+page find out like all my words that I
+
+
+need um Google entities then I'll put
+
+
+them in a little spreadsheet and then
+
+
+I'll put them into Claude and say hey I
+
+
+need to write a a page about plumbers
+
+
+Harvey Bay can you make sure all these
+
+
+words are included then I'll put that
+
+
+into the tool um and then yeah I just
+
+
+make sure all the words are included and
+
+
+then once it looks good I yeah then
+
+
+paste it into the website nice man yeah
+
+
+yeah that's that's a good way to do it
+
+
+so if we go on to AI models inside perp
+
+
+Plexi settings this is on the pro
+
+
+version but you can change it to to CLA
+
+
+3.5 Sonic and then inside
+
+
+the inside per Plexi what I'm going to
+
+
+do is I'm just going to give it a prompt
+
+
+the basically tells it to only write
+
+
+this section but also adapt it to your
+
+
+business and your brand right so for
+
+
+example if we take one of my favorite
+
+
+prompts for writing content
+
+
+which is this one right here we're going
+
+
+to grab
+
+
+that we're going to plug it into
+
+
+perplexity and we're going to put the
+
+
+heading as
+
+
+equals block drains Harvey Bas so let's
+
+
+say you writing the content for this
+
+
+H2 and uh and then from there put for
+
+
+Content gration do this easy to read
+
+
+feels conversational UK grammar we'll
+
+
+delete the internal linking
+
+
+opportunities
+
+
+uh we won't add the
+
+
+FAQs we'll add subheadings and headings
+
+
+keyword in the first line first
+
+
+person and that should be good to go
+
+
+right and
+
+
+then what I would also recommend is you
+
+
+just add some information about you so
+
+
+right from this
+
+
+perspective and then just as a a
+
+
+placeholder obviously you would tailor
+
+
+it to your brand but it' be like okay um
+
+
+a local
+
+
+plumbing company
+
+
+called Doos
+
+
+plumbers sell my
+
+
+services subtly throughout content right
+
+
+and then
+
+
+also here because it's just one single
+
+
+section we want it to be like maximum I
+
+
+would say maximum 200 words maybe less
+
+
+okay we'll hit enter like so and it's
+
+
+probably not going to come out perfect
+
+
+but it'll give us a starting point to
+
+
+write the content I'm just going to past
+
+
+this prompt right here for people who
+
+
+are
+
+
+watching yeah cool I definitely need to
+
+
+have a look at that prompt
+
+
+too yeah I mean these prompts always
+
+
+changing right so like the way the
+
+
+things are it's always changing um if
+
+
+you look for example let's have a look
+
+
+at that see how long that is
+
+
+yes it's written about 200 words there
+
+
+it's formatted it really
+
+
+nicely um and you see how it's like you
+
+
+know dealing with this we've seen it all
+
+
+at our company blockchains are a pain
+
+
+but here's how we help them here's a
+
+
+culprate here's why you shouldn't ignore
+
+
+it um and here's why you should use a
+
+
+professional instead of trying to do it
+
+
+yourself right and then it sells your
+
+
+services Sly throughout the
+
+
+content yeah that's awesome I like that
+
+
+with a a nice little CTA there as well
+
+
+now let's say you've got like 10 or 12
+
+
+headings and it's just a page that needs
+
+
+to be 1,000 or 1,200 words you could cut
+
+
+this down you say right cut this down to
+
+
+100 words um and also semantically
+
+
+optimize it with lsis and entities for
+
+
+the keyword
+
+
+so once you do all this um with
+
+
+perplexity do you run it through like an
+
+
+AI um scanning tool just so Google
+
+
+doesn't detect it's through
+
+
+AI I usually don't simply because I
+
+
+don't really I don't think Google cares
+
+
+anymore like if
+
+
+I yeah but it's like if Google is
+
+
+already ranking AI content number
+
+
+one yeah it clearly it clearly isn't is
+
+
+n against AI content but I think it is
+
+
+against AI spam and and like unedited AI
+
+
+spam I also think that if you look for
+
+
+example at humanized content you know
+
+
+stuff that passes AI detector that is AI
+
+
+written usually it just doesn't feel was
+
+
+natural is when it first came out the
+
+
+the prompt you know yeah so that's why
+
+
+I'm not too fuss about it but it depends
+
+
+on people's race tolerance right if if
+
+
+you're running a billion dollar company
+
+
+you probably want to be a lot more com a
+
+
+lot more careful yeah yeah
+
+
+but you can see here so again it sold
+
+
+you throughout the content but it's a
+
+
+lot shorter it gets straight to the
+
+
+point but it's nicely formatted as well
+
+
+yeah cool yeah yeah so I think that's
+
+
+good that's good to I'm just G that
+
+
+looks really good thanks I'm just gonna
+
+
+grab this sap right here and
+
+
+then inside the description from the
+
+
+video
+
+
+today I'll give people access to this so
+
+
+let me go
+
+
+to the live stream we'll put this in
+
+
+description you want to get access to it
+
+
+do know as well it's just inside the
+
+
+description there yeah perfect yeah I'll
+
+
+definitely have a look at that that's
+
+
+cool awesome so I think um yeah I did
+
+
+this before I come into the um Elite
+
+
+circle like a lot of my content so I'll
+
+
+definitely probably have to go back
+
+
+through um and use that prompt and and
+
+
+um yeah upgrade a lot of my content I
+
+
+think awesome and Nissa says do you
+
+
+recommend injecting facts from new and
+
+
+reliable sources by letting the GPT to
+
+
+read and analyze Source page yourself I
+
+
+think the best way to insert facts still
+
+
+is to do it manually but if you really
+
+
+want to do it like automated with with
+
+
+AI I still think perplexity is probably
+
+
+one of the best places you do this you
+
+
+can go to to focus over here then you
+
+
+can go to academic and then from
+
+
+academic or in fact not even if you're
+
+
+in the plumbing Niche you don't need to
+
+
+go academic but you can say like find me
+
+
+some statistics plus references plus
+
+
+case studies about Plumbing in Australia
+
+
+so you just tailor it to your Niche and
+
+
+your location
+
+
+Etc hit enter like so it will do the
+
+
+research for you and it can it's
+
+
+connected to the internet so you can
+
+
+find that sort of
+
+
+stuff and uh once that's done you can
+
+
+find a bunch of like external resources
+
+
+and facts to include inside the the
+
+
+content right so you can see all this
+
+
+information and you got the sources for
+
+
+each fact on the side there so if people
+
+
+want to automate the facts that's one of
+
+
+the easiest ways to do it
+
+
+cool yeah just a couple more FAQs I
+
+
+think artifact says you're recommended
+
+
+to write with AI app clients actually
+
+
+check the AI detection in the content so
+
+
+if you're if you're writing for clients
+
+
+like you got to be transparent with them
+
+
+that you're using AI if you're not
+
+
+telling them you're using Ai and and
+
+
+then they check it and they're like mate
+
+
+you're using AI they're going to be
+
+
+they're going to be seriously annoyed
+
+
+right you'd be annoyed right do you know
+
+
+if someone did that yeah
+
+
+I guess like just depends like what
+
+
+prompts they're using and and how the
+
+
+content comes out as well like you know
+
+
+if you're just typing in um plumbers
+
+
+Harvey Bay drain cleaning or something
+
+
+and go straight into J uh chat gbt and
+
+
+it comes out very um basic you know
+
+
+you'd probably be a bit annoyed but you
+
+
+know if it comes up like we had it in
+
+
+there it's pretty um yeah looked pretty
+
+
+good yeah man definitely that's it it's
+
+
+all about the quality like like if you
+
+
+go if you into chat GB and you're like
+
+
+write an article on SEO it' be terrible
+
+
+what comes out it's all about prompt
+
+
+yeah definitely and uh novice says but
+
+
+ad networks have started to reject AI
+
+
+content which I actually disagree with I
+
+
+think that um there are certain facts
+
+
+around that if you actually join the SEO
+
+
+Elite Circle there's some some cool
+
+
+stuff inside there on how to get
+
+
+approved quickly and catfish says but
+
+
+you're assuming that the entities that
+
+
+LM understands because it was training
+
+
+the same entities gole recognizes you
+
+
+better yeah so what you can also do if
+
+
+you if you really want to be like fact
+
+
+driven on inserting entities just go
+
+
+to you can use the tool like like phrase
+
+
+to actually find the lsis for you or
+
+
+also inside sist sist is another good
+
+
+option we go inside the content
+
+
+Optimizer this is a free tool actually
+
+
+for everyone using it's just not that
+
+
+good for for Content
+
+
+outlines so if we log in
+
+
+here and we'll go to content Optimizer
+
+
+and I'll show you some examples of how
+
+
+you can use the the entities in LS
+
+
+size so if we go to
+
+
+edit wait for that to load and you've
+
+
+got a bunch of lsis on the right that
+
+
+you can copy and paste into perplexity
+
+
+and then ask it to reite with these
+
+
+specific entities so if you want more
+
+
+like fat driven if you want more
+
+
+referenced lsis and entities that aren't
+
+
+just from the AI then just get them from
+
+
+zista or from NE writer or phase or
+
+
+whatever you use Manny says how do I
+
+
+learn SEO from scratch please so that's
+
+
+a really good question I'm gonna let
+
+
+Dean answer this so you've been learning
+
+
+from the SEO Elite Circle right how's
+
+
+that been going so far yeah well um yeah
+
+
+I didn't know how to structure any um of
+
+
+my site or anything so that's why I
+
+
+jumped on to the circle um basically
+
+
+from start to finish um starts at
+
+
+keyword research goes through your
+
+
+content um how to get it index back
+
+
+linking
+
+
+everything's in there so it's made it so
+
+
+easy for me um yeah today I've just gone
+
+
+through adding y to my site which is
+
+
+cleared up so much stuff as well so yeah
+
+
+it's basically step by step and yeah
+
+
+very easy and very knowledgeable so yeah
+
+
+100% recommend that if anyone's sitting
+
+
+on the sideline and you need um need
+
+
+some help jump in it's really good
+
+
+awesome man I really appreciate that is
+
+
+there have you found this training
+
+
+session useful today and is there
+
+
+anything else I can help you with before
+
+
+you got
+
+
+um no I've never really used that
+
+
+perplexity so I'll definitely jump in
+
+
+and have a look at that as well um yeah
+
+
+just going through at the moment so I'll
+
+
+definitely have to clear a few of my
+
+
+pages up but um yeah no it's been very
+
+
+helpful um yeah really appreciate it
+
+
+awesome man appreciate that and uh if
+
+
+anyone wants to join the SEO Le Circle
+
+
+links in the comments description this
+
+
+is 72% Discount right now additionally
+
+
+if someone watching this just wants us
+
+
+to one to one give you a custom tailored
+
+
+SEO game plan on how to rank number one
+
+
+with SEO and how to get one of Le
+
+
+traffic sales feel free to book in a
+
+
+free SEO strategy session we'll show you
+
+
+how we take websites from zero to
+
+
+145,000 bits this month and generate
+
+
+thousands of dollars in sales based on
+
+
+what's working for us you get free SEO
+
+
+domination plan go to secret link
+
+
+building answer any questions you have
+
+
+basically figure out everything for you
+
+
+and the other thing that I want to show
+
+
+you I know a lot of people here were
+
+
+saying like you know does AI content
+
+
+rank is AI performing well Etc I mean
+
+
+perplexity AI itself they generate a lot
+
+
+of AI content on their website and
+
+
+they've gone over the last sort of
+
+
+couple of years they've gone from like
+
+
+zero down here all the way up to like
+
+
+3.4 million traffic with seos absolutely
+
+
+outrage just how well they're doing and
+
+
+it's a great case stud of how well AI
+
+
+can
+
+
+rank that's
+
+
+crazy awesome man well you've got the
+
+
+SRP um I've tried to answer like every
+
+
+single question if you have anything
+
+
+else man just just let me know know feel
+
+
+free to reach out on the DMS yeah
+
+
+perfect we do thank you all right
+
+
+appreciate it appreciate you jumping on
+
+
+Dean as well you've been great cheers
+
+
+thank you very much see you thank you
+
+
+cheers bye

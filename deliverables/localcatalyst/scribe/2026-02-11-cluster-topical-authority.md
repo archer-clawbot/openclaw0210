@@ -4,14 +4,17 @@
 **Deliverable:** Service sub-page (cluster)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** `/seo-content-strategy/topical-authority/`
-**Parent Hub:** `/seo-content-strategy/`
+**URL:** `/services/content-pages/topical-authority/`
+**Parent Hub:** `/services/content-pages/`
+**Title Tag:** Topical Authority SEO — Comprehensive Expertise | LocalCatalyst
+**Meta Description:** Build topical authority through pillar-cluster architecture. Establish comprehensive expertise that ranks for competitive keywords and drives revenue.
+**H1:** What Topical Authority Is and Why Google Rewards It
 **Primary Keyword:** topical authority SEO
 **Word Count Target:** 2,000
 
 ---
 
-> **Home > [SEO Content Strategy](/seo-content-strategy/) > Topical Authority**
+> **Home > [SEO Content Strategy](/services/content-pages/) > Topical Authority**
 
 ## What Topical Authority Is and Why Google Rewards It
 
@@ -19,7 +22,7 @@ In 2026, ranking for competitive keywords requires more than on-page optimizatio
 
 This is topical authority: the degree to which your website is recognized as an authoritative, comprehensive resource on a subject. And it is the single most powerful lever in modern SEO.
 
-At LocalCatalyst, building topical authority is central to our [SEO content strategy](/seo-content-strategy/). It's how we take local businesses from invisible to dominant — not by chasing individual keywords, but by systematically establishing your site as the definitive resource for everything related to your services. When Google trusts that your site comprehensively covers a topic, every page on your site targeting related keywords benefits.
+At LocalCatalyst, building topical authority is central to our [SEO content strategy](/services/content-pages/). It's how we take local businesses from invisible to dominant — not by chasing individual keywords, but by systematically establishing your site as the definitive resource for everything related to your services. When Google trusts that your site comprehensively covers a topic, every page on your site targeting related keywords benefits.
 
 **[Order Your SEO Audit](/services/seo-audit/)** — We'll measure your current topical authority against your top competitors and show you exactly where the gaps are.
 
@@ -54,7 +57,7 @@ While Google doesn't publish its exact algorithm, extensive testing and patent a
 2. **Content depth** — Does each page provide comprehensive, expert-level coverage?
 3. **Internal linking structure** — Are your pages connected in a way that demonstrates topical relationships?
 4. **Entity associations** — Does your site consistently associate with the right entities (industry terms, service categories, geographic locations)?
-5. **External validation** — Do other authoritative sites link to your content on this topic? (This is where [link building](/link-building-services/) intersects with topical authority.)
+5. **External validation** — Do other authoritative sites link to your content on this topic? (This is where [link building](/managed/) intersects with topical authority.)
 6. **User engagement** — Do searchers find what they're looking for on your site, or do they bounce back to Google?
 
 ---
@@ -94,7 +97,7 @@ This structure tells Google: "This site doesn't just have a page about drain cle
 
 ## How We Build Topical Authority for Local Businesses
 
-Our process for building topical authority follows the CATALYST methodology we apply across all [local SEO services](/local-seo-services/):
+Our process for building topical authority follows the CATALYST methodology we apply across all [local SEO services](/services/):
 
 ### Step 1: Topic Universe Mapping
 
@@ -115,7 +118,7 @@ We measure your current topical authority against your top 5 local competitors:
 - **Content coverage ratio** — What percentage of the total topic universe does each competitor cover?
 - **Content depth scores** — How thoroughly does each competitor cover the topics they address?
 - **Internal linking quality** — How well-structured are competitors' content architectures?
-- **External authority signals** — Which competitors have [backlinks](/link-building-services/) from authoritative sources on these topics?
+- **External authority signals** — Which competitors have [backlinks](/managed/) from authoritative sources on these topics?
 
 This analysis reveals exactly where you need to invest to overtake your competitors — and where you can leapfrog them by covering topics they've neglected.
 
@@ -186,7 +189,7 @@ These concepts are related but distinct, and understanding the difference matter
 
 **The takeaway:** Domain authority gives you a foundation. Topical authority gives you the competitive edge for specific keywords. A site with moderate domain authority but strong topical authority will outrank a site with high domain authority but thin topical coverage — and we see this play out consistently in local SEO.
 
-This is why our approach integrates topical authority building with [link building](/link-building-services/) — you need both the backlink authority and the content depth to dominate competitive markets.
+This is why our approach integrates topical authority building with [link building](/managed/) — you need both the backlink authority and the content depth to dominate competitive markets.
 
 ---
 
@@ -260,6 +263,6 @@ Topical authority has inertia. Once established, it doesn't disappear overnight.
 
 ## Build the Authority That Makes Everything Else Work
 
-Topical authority is the force multiplier behind every other SEO investment. Your [service pages](/seo-content-strategy/service-page-copywriting/) rank higher. Your [links](/link-building-services/) are more impactful. Your [technical SEO](/technical-seo-services/) work delivers greater returns. Everything compounds when Google trusts your site as an authority.
+Topical authority is the force multiplier behind every other SEO investment. Your [service pages](/services/content-pages/) rank higher. Your [links](/managed/) are more impactful. Your [technical SEO](/services/seo-audit/technical-seo-audit/) work delivers greater returns. Everything compounds when Google trusts your site as an authority.
 
 **[Order Your SEO Audit](/services/seo-audit/)** — We'll measure your topical authority against your competitors and map the exact content architecture you need to dominate your market.

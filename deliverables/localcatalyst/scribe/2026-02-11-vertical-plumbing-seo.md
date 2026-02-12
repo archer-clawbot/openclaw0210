@@ -22,7 +22,7 @@ If your plumbing company is not the one they find, you did not lose a $150 servi
 
 Plumbing searches are among the most valuable in all of local SEO. "Plumber near me" alone generates millions of monthly searches in the United States, and the intent behind virtually every plumbing search is immediate and transactional. Nobody is casually browsing plumbers for fun. They have a problem, and they need it fixed now.
 
-At LocalCatalyst, we build plumber SEO strategies designed for the urgency and competitiveness of this industry. Our [CATALYST methodology](/local-seo-services/) (Audit, Prioritize, Execute, Expand) addresses the specific challenges plumbing companies face — extreme emergency intent, multi-city service areas, competition from franchise operations and lead aggregators, and the need to be visible 24/7 across every city you serve.
+At LocalCatalyst, we build plumber SEO strategies designed for the urgency and competitiveness of this industry. Our [CATALYST methodology](/services/) (Audit, Prioritize, Execute, Expand) addresses the specific challenges plumbing companies face — extreme emergency intent, multi-city service areas, competition from franchise operations and lead aggregators, and the need to be visible 24/7 across every city you serve.
 
 Want to see exactly where your plumbing company ranks — and where customers are finding your competitors instead? [Order an SEO Audit](/services/seo-audit/) and we will map your visibility across a geo-grid of your entire service area.
 
@@ -38,7 +38,7 @@ Ranking for emergency plumbing searches requires a coordinated set of signals:
 
 **Dedicated emergency pages.** Your website needs pages specifically optimized for emergency plumbing searches — not just your homepage mentioning "we handle emergencies." Dedicated pages for "emergency plumber [city]," "24 hour plumber [city]," and specific emergency types like "burst pipe repair," "sewer backup service," and "gas leak repair" capture the distinct searches that panicking homeowners type.
 
-**Click-to-call prominence.** A homeowner with water spraying across their kitchen is not going to fill out a contact form. Your phone number must be immediately visible, tappable, and functional on every page — especially emergency service pages. Our [local SEO strategies](/local-seo-services/) for plumbers put phone conversions at the center of every technical and design decision.
+**Click-to-call prominence.** A homeowner with water spraying across their kitchen is not going to fill out a contact form. Your phone number must be immediately visible, tappable, and functional on every page — especially emergency service pages. Our [local SEO strategies](/services/) for plumbers put phone conversions at the center of every technical and design decision.
 
 **Page speed for urgent searchers.** A customer with an emergency will not wait 4 seconds for your page to load. They will hit the back button and call the next result. Emergency landing pages must load in under 2 seconds on mobile to capture these impatient, high-intent searchers.
 
@@ -48,7 +48,7 @@ Reviews that mention fast response times carry enormous weight for both Google's
 
 ## Google Business Profile for Plumbing Companies
 
-Your GBP determines whether you appear in the Map Pack — and for plumbing searches, the Map Pack captures the majority of clicks and calls. Our [GBP management services](/google-business-profile-management/) for plumbing companies optimize every signal that influences visibility and conversion.
+Your GBP determines whether you appear in the Map Pack — and for plumbing searches, the Map Pack captures the majority of clicks and calls. Our [GBP management services](/services/gbp-optimization/) for plumbing companies optimize every signal that influences visibility and conversion.
 
 **Category optimization.** Your primary category should be "Plumber." Secondary categories capture additional services: "Drain cleaning service," "Water heater installation service," "Sewer service," "Gas installation service," "Septic system service." Many plumbing companies are missing secondary categories that would make them eligible for searches they currently cannot appear for.
 
@@ -75,7 +75,7 @@ Each service area page becomes a standalone asset that serves a real searcher's 
 
 ## Citation Building for Plumbing Companies
 
-Citations — mentions of your business name, address, and phone number across the web — are a significant local ranking factor. For plumbing companies, citation strategy goes beyond generic directories. Our [citation building services](/citation-building-services/) target every platform that matters for your business.
+Citations — mentions of your business name, address, and phone number across the web — are a significant local ranking factor. For plumbing companies, citation strategy goes beyond generic directories. Our [citation building services](/services/citation-building/) target every platform that matters for your business.
 
 **General directories:** Google Business Profile, Yelp, Facebook, BBB, Bing Places, Apple Maps, Nextdoor — the foundational layer every plumbing company needs.
 
@@ -89,7 +89,7 @@ We audit your existing citations, fix every inconsistency, build new citations o
 
 ## Link Building for Plumbing Companies
 
-Backlinks from authoritative, relevant websites signal trust and authority to Google. Plumbing companies have several natural link building opportunities. Our [link building services](/link-building-services/) target the highest-value sources.
+Backlinks from authoritative, relevant websites signal trust and authority to Google. Plumbing companies have several natural link building opportunities. Our [link building services](/managed/) target the highest-value sources.
 
 **Manufacturer and supplier directories.** If you are a certified installer or authorized dealer for brands like Rinnai, Bradford White, Moen, or Kohler, their "find a contractor" directories provide powerful backlinks from high-authority domains.
 
@@ -135,19 +135,19 @@ The most significant shift: plumbing companies transitioning from paying per lea
 ## Supporting Content
 
 ### Planned Cluster Pages
-- [Plumber SEO Keywords](/industries/plumbing-seo/plumber-keywords/) — Keyword research guide covering emergency, service, and location terms for plumbing companies
-- [Plumber Google Business Profile](/industries/plumbing-seo/plumber-google-business-profile/) — Complete GBP optimization guide for plumbing companies
-- [Plumber Website Design](/industries/plumbing-seo/plumber-website-design/) — Website design best practices for plumbing companies that convert visitors into calls
-- [Plumber Review Generation](/industries/plumbing-seo/plumber-review-generation/) — Technician-driven review generation strategies for plumbing companies
+- [Plumber SEO Keywords](/industries/plumbing-seo/) — Keyword research guide covering emergency, service, and location terms for plumbing companies
+- [Plumber Google Business Profile](/industries/plumbing-seo/) — Complete GBP optimization guide for plumbing companies
+- [Plumber Website Design](/industries/plumbing-seo/) — Website design best practices for plumbing companies that convert visitors into calls
+- [Plumber Review Generation](/industries/plumbing-seo/) — Technician-driven review generation strategies for plumbing companies
 
 ### Related Industry Verticals
 - [Home Services SEO](/industries/home-services-seo/) — Comprehensive strategies for all home service companies
 - [HVAC SEO](/industries/hvac-seo/) — Specialized strategies for heating and cooling companies with similar service area and emergency challenges
 
 ### Related Blog Posts
-- [Local SEO Ranking Factors in 2026](/blog/local-seo-ranking-factors-2026/) — The signals that determine your local visibility
-- [Citation Building Guide](/blog/citation-building-guide/) — Complete guide to citation strategy
-- [Map Pack Ranking Guide](/blog/map-pack-ranking-guide/) — How to get your business into the top 3
+- [Local SEO Ranking Factors in 2026](/learn/local-seo-ranking-factors-2026/) — The signals that determine your local visibility
+- [Citation Building Guide](/learn/citation-building-guide/) — Complete guide to citation strategy
+- [Map Pack Ranking Guide](/learn/map-pack-ranking-guide/) — How to get your business into the top 3
 
 ## Frequently Asked Questions
 
@@ -177,4 +177,4 @@ Most plumbing companies see measurable improvements within 60-90 days. GBP optim
 
 ---
 
-*Ready to be the plumber homeowners call first? [Request your free plumbing SEO audit](/services/seo-audit/) and see exactly where you rank across your service area, where customers are finding your competitors, and where the biggest opportunities are waiting.*
+*Ready to be the plumber homeowners call first? [Order your plumbing SEO Audit](/services/seo-audit/) and see exactly where you rank across your service area, where customers are finding your competitors, and where the biggest opportunities are waiting.*

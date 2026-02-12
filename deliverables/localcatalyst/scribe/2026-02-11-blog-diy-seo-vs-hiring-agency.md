@@ -3,8 +3,8 @@
 **Deliverable:** Resource blog post
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/diy-seo-vs-hiring-agency/
-**Parent Hub:** /blog/
+**URL:** /learn/diy-seo-vs-hiring-agency/
+**Parent Hub:** /learn/
 **Primary Keyword:** DIY SEO vs hiring an agency
 **Secondary Keywords:** do your own SEO, hire SEO agency, SEO yourself or outsource, cost of DIY SEO, when to hire SEO agency, SEO agency benefits
 **Title Tag:** DIY SEO vs Hiring an Agency: Honest Comparison
@@ -89,23 +89,23 @@ Google also updates its algorithms regularly. What worked 18 months ago may be c
 
 ### Financial Investment
 
-Agency pricing varies widely based on scope, market size, and the agency's expertise. For local businesses, typical monthly retainers range from $750 to $3,000 per month. You can find a more detailed breakdown in our [SEO pricing guide](/blog/seo-pricing-guide/).
+Agency pricing varies widely based on scope, market size, and the agency's expertise. You can find a detailed breakdown in our [SEO pricing guide](/learn/seo-pricing-guide/).
 
 ### What You Get
 
 A competent agency brings a team of specialists rather than a single generalist. That typically includes a strategist, technical SEO specialist, content writer, and link builder. They also bring enterprise-grade tools (which they spread across many clients, reducing per-client cost) and experience from working across dozens or hundreds of similar businesses.
 
-Agencies should provide regular reporting, strategic recommendations, and a clear roadmap. Our guide on [what to expect from SEO services](/blog/what-to-expect-from-seo-services/) covers deliverables and timelines in detail.
+Agencies should provide regular reporting, strategic recommendations, and a clear roadmap. Our guide on [what to expect from SEO services](/learn/what-to-expect-from-seo-services/) covers deliverables and timelines in detail.
 
 ### Opportunity Cost Savings
 
-If your billable rate or revenue-generating value is $75/hour and you spend 12 hours per week on SEO, that is $900/week in opportunity cost, or roughly $3,600/month. For many business owners, hiring an agency at $1,500/month actually saves money when opportunity cost is factored in.
+If your billable rate or revenue-generating value is $75/hour and you spend 12 hours per week on SEO, that is $900/week in opportunity cost, or roughly $3,600/month. For many business owners, investing in professional SEO management actually saves money when opportunity cost is factored in.
 
 ## Side-by-Side Comparison
 
 | Factor | DIY SEO | Hiring an Agency |
 |---|---|---|
-| **Monthly cost** | $207-$397 (tools) + time | $750-$3,000+ |
+| **Monthly cost** | $207-$397 (tools) + time | Varies by scope and market |
 | **Time investment** | 10-16 hours/week | 1-2 hours/month (reviews and approvals) |
 | **Time to see results** | 6-12 months (includes learning) | 3-6 months |
 | **Skill breadth** | Limited to your abilities | Full team of specialists |
@@ -160,7 +160,7 @@ The best agencies function as strategic partners, not just task executors. They 
 
 There is a middle path that many businesses overlook. You can handle certain SEO tasks in-house while outsourcing the components that require specialized skills.
 
-For example, you might write your own blog content (since you know your industry best) while hiring an agency for [technical SEO audits](/services/technical-seo/) and link building. Or you might manage your Google Business Profile in-house while outsourcing [on-page optimization](/services/on-page-seo/) and content strategy.
+For example, you might write your own blog content (since you know your industry best) while hiring an agency for [technical SEO audits](/services/seo-audit/technical-seo-audit/) and link building. Or you might manage your Google Business Profile in-house while outsourcing [on-page optimization](/services/on-page-optimization/) and content strategy.
 
 This hybrid model lets you control costs while still benefiting from professional expertise in the areas that have the highest skill threshold.
 
@@ -183,7 +183,7 @@ Yes. Basic on-page optimization, Google Business Profile management, and consist
 
 ### How do I know if an SEO agency is actually doing good work?
 
-Ask for specific deliverables, transparent reporting tied to business outcomes (not just rankings), and references from current clients in similar industries. Our guide on [questions to ask an SEO company](/blog/questions-to-ask-seo-company/) covers this in detail.
+Ask for specific deliverables, transparent reporting tied to business outcomes (not just rankings), and references from current clients in similar industries. Our guide on [questions to ask an SEO company](/learn/questions-to-ask-seo-company/) covers this in detail.
 
 ### Is cheap SEO better than no SEO?
 
@@ -191,7 +191,7 @@ Not always. Low-cost SEO services that use black hat tactics, such as buying lin
 
 ### What is the minimum budget to hire a legitimate SEO agency?
 
-For a local business, expect to invest at least $750-$1,000 per month for a reputable agency providing meaningful work. Below that threshold, the scope is usually too narrow to produce compounding results. See our [SEO pricing guide](/blog/seo-pricing-guide/) for a full breakdown.
+For a local business, expect to invest at least $750-$1,000 per month for a reputable agency providing meaningful work. Below that threshold, the scope is usually too narrow to produce compounding results. See our [SEO pricing guide](/learn/seo-pricing-guide/) for a full breakdown.
 
 ---
 
@@ -199,6 +199,6 @@ For a local business, expect to invest at least $750-$1,000 per month for a repu
 
 Whether you handle SEO yourself or bring in professionals, the most important thing is making a deliberate choice based on your resources, goals, and honest self-assessment.
 
-If you want a professional evaluation of where your site stands before deciding, we offer a complimentary audit that identifies your highest-impact opportunities and gives you a clear picture of the work involved.
+If you want a professional evaluation of where your site stands before deciding, our [SEO Audit](/services/seo-audit/) identifies your highest-impact opportunities and gives you a clear picture of the work involved.
 
-**[Order Your SEO Audit](/services/seo-audit/)** and get a clear-eyed assessment with no pressure and no obligation.
+**[Order Your SEO Audit](/services/seo-audit/)** and get a clear-eyed assessment of where you stand.

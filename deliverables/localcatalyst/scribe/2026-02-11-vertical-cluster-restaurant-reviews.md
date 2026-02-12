@@ -16,7 +16,7 @@
 
 In the restaurant industry, online reviews are not supplementary marketing. They are the primary decision-making tool that determines whether a potential diner chooses your restaurant or the one listed next to you. As part of our [restaurant SEO program](/industries/restaurant-seo/), review management sits at the intersection of reputation building and search engine optimization. A strong review profile directly improves your visibility in local search results while simultaneously increasing the conversion rate of everyone who sees your listing.
 
-LocalCatalyst's [reputation management services](/reputation-management-services/) provide the systems, monitoring, and response frameworks that keep your restaurant's online reputation strong across every platform that matters.
+LocalCatalyst's reputation management services provide the systems, monitoring, and response frameworks that keep your restaurant's online reputation strong across every platform that matters.
 
 ## The Outsized Impact of Reviews on Restaurant Revenue
 
@@ -99,7 +99,7 @@ Google removes reviews that violate their policies, but the process can take day
 
 Google reviews are the most impactful for local search visibility. They directly influence your Map Pack ranking, appear prominently in search results, and carry the most weight with general consumers. Prioritize Google review generation above all other platforms.
 
-Your [Google Business Profile optimization](/industries/restaurant-seo/restaurant-google-business-profile/) should integrate review strategy seamlessly, using GBP posts and Q&A to create additional engagement that supports review activity.
+Your [Google Business Profile optimization](/industries/restaurant-seo/) should integrate review strategy seamlessly, using GBP posts and Q&A to create additional engagement that supports review activity.
 
 ### Yelp
 
@@ -139,7 +139,7 @@ Yes. Responding to 100 percent of reviews, positive and negative, demonstrates e
 
 ### How should restaurants handle a sudden influx of negative reviews?
 
-A sudden spike in negative reviews can indicate a legitimate service issue, a coordinated attack, or a viral social media incident. First, assess whether the complaints reflect real operational problems. If so, address the root cause immediately and respond to each review acknowledging the issue and the corrective action taken. If the reviews appear coordinated or fraudulent, document the pattern and report to the platform while maintaining professional responses. Contact us at [/contact/](/contact/) for emergency reputation management support.
+A sudden spike in negative reviews can indicate a legitimate service issue, a coordinated attack, or a viral social media incident. First, assess whether the complaints reflect real operational problems. If so, address the root cause immediately and respond to each review acknowledging the issue and the corrective action taken. If the reviews appear coordinated or fraudulent, document the pattern and report to the platform while maintaining professional responses. Contact us at [/managed/](/managed/) for emergency reputation management support.
 
 ---
 

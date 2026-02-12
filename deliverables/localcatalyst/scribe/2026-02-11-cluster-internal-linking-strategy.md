@@ -3,8 +3,8 @@
 **Deliverable:** Service sub-page (cluster)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /on-page-seo-services/internal-linking-strategy/
-**Parent Hub:** /on-page-seo-services/
+**URL:** /services/content-pages/internal-linking-strategy/
+**Parent Hub:** /services/content-pages/
 **Primary Keyword:** internal linking strategy
 **Secondary Keywords:** internal links SEO, internal linking best practices, hub and spoke SEO, silo architecture, anchor text optimization, orphan pages
 **Title Tag:** Internal Linking Strategy for Local SEO | LocalCatalyst.ai
@@ -14,11 +14,11 @@
 
 ---
 
-**Breadcrumbs:** [Home](/) > [On-Page SEO Services](/on-page-seo-services/) > Internal Linking Strategy
+**Breadcrumbs:** [Home](/) > [On-Page SEO Services](/services/on-page-optimization/) > Internal Linking Strategy
 
 ## The Most Underused Lever in On-Page SEO
 
-Internal linking is the most controllable and underutilized ranking factor available to local businesses. As a core component of our [on-page SEO services](/on-page-seo-services/), internal linking strategy transforms a collection of disconnected pages into a structured, authoritative website that search engines can efficiently crawl and confidently rank. Yet most websites we audit have no deliberate internal linking plan whatsoever.
+Internal linking is the most controllable and underutilized ranking factor available to local businesses. As a core component of our [on-page SEO services](/services/on-page-optimization/), internal linking strategy transforms a collection of disconnected pages into a structured, authoritative website that search engines can efficiently crawl and confidently rank. Yet most websites we audit have no deliberate internal linking plan whatsoever.
 
 Unlike backlinks, you have complete control over internal links. You decide the anchor text, the source page, the destination page, and the context. That level of control makes internal linking one of the highest-ROI activities in SEO — it costs nothing but time and delivers compounding results.
 
@@ -212,7 +212,7 @@ A link from Page A to Page B is good. Links between A and B (with relevant conte
 
 ## Connecting Internal Links to Your Broader SEO Strategy
 
-Internal linking amplifies every other on-page optimization you perform. Well-optimized [title tags](/on-page-seo-services/title-tag-optimization/) attract clicks, but internal links ensure that traffic flows deeper into your site. Strong [technical SEO foundations](/technical-seo-services/) ensure crawlers can follow your internal links efficiently, and [site speed optimization](/technical-seo-services/site-speed-optimization/) guarantees users actually stay long enough to follow them.
+Internal linking amplifies every other on-page optimization you perform. Well-optimized [title tags](/services/content-pages/title-tag-optimization/) attract clicks, but internal links ensure that traffic flows deeper into your site. Strong [technical SEO foundations](/services/seo-audit/technical-seo-audit/) ensure crawlers can follow your internal links efficiently, and [site speed optimization](/services/seo-audit/site-speed-optimization/) guarantees users actually stay long enough to follow them.
 
 At LocalCatalyst, our CATALYST methodology treats internal linking as architectural infrastructure — not an afterthought. We map, plan, and monitor internal link structures as part of every campaign.
 

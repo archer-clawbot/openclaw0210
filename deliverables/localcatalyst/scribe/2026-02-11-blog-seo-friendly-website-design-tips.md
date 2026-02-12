@@ -3,8 +3,8 @@
 **Deliverable:** Blog post (Website Design educational content)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/seo-friendly-website-design-tips/
-**Parent Hub:** /seo-website-design/
+**URL:** /learn/seo-friendly-website-design-tips/
+**Parent Hub:** /services/website-build/
 **Primary Keyword:** SEO-friendly website design tips
 **Secondary Keywords:** website design for SEO, SEO web design best practices, site structure SEO, mobile-first design SEO
 **Title Tag:** SEO-Friendly Website Design Tips | LocalCatalyst.ai
@@ -14,7 +14,7 @@
 
 ---
 
-A beautifully designed website that nobody can find is a monument to wasted potential. SEO and design are not opposing forces. The best websites are built from the ground up with both search engines and users in mind. When your [SEO website design](/seo-website-design/) gets the fundamentals right, your site earns more organic traffic, converts more visitors, and builds a sustainable competitive advantage.
+A beautifully designed website that nobody can find is a monument to wasted potential. SEO and design are not opposing forces. The best websites are built from the ground up with both search engines and users in mind. When your [SEO website design](/services/website-build/) gets the fundamentals right, your site earns more organic traffic, converts more visitors, and builds a sustainable competitive advantage.
 
 This guide covers the design principles, structural decisions, and technical foundations that make a website genuinely SEO-friendly. Whether you are building a new site or redesigning an existing one, these tips ensure your design works for both your visitors and Google's algorithms.
 
@@ -99,7 +99,7 @@ The hamburger menu is standard for mobile, but execution matters. Ensure that:
 
 ### Mobile Page Speed
 
-Mobile users are often on slower connections than desktop users. Mobile page speed is critical for both rankings and user experience. We cover this in depth in our guide on [website speed and conversion rates](/blog/website-speed-conversion-rates/).
+Mobile users are often on slower connections than desktop users. Mobile page speed is critical for both rankings and user experience. We cover this in depth in our guide on [website speed and conversion rates](/learn/website-speed-conversion-rates/).
 
 ## Page Speed: A Ranking Factor and UX Factor
 
@@ -161,7 +161,7 @@ Link to relevant pages from within your body content. A blog post about water he
 
 ### Anchor Text Best Practices
 
-Use descriptive anchor text that tells users and search engines what the linked page is about. "Learn about our [residential plumbing services](/services/residential-plumbing/)" is far more effective than "click [here](/services/residential-plumbing/) to learn more."
+Use descriptive anchor text that tells users and search engines what the linked page is about. "Learn about our [residential plumbing services](/services/content-pages/service-page-copywriting/)" is far more effective than "click [here](/services/content-pages/service-page-copywriting/) to learn more."
 
 Vary your anchor text naturally. Using the same exact-match anchor text for every link to a page can appear manipulative. Mix in partial-match, branded, and natural phrase anchors.
 
@@ -189,7 +189,7 @@ Search engines read text, not images. If important information (phone numbers, a
 
 ### Overlooking Schema Markup
 
-Structured data (schema markup) helps search engines understand your content and can generate rich snippets in search results. Local businesses should implement LocalBusiness schema, Service schema, FAQ schema, and Review schema at minimum. Work with your [SEO website design](/seo-website-design/) provider to implement comprehensive schema.
+Structured data (schema markup) helps search engines understand your content and can generate rich snippets in search results. Local businesses should implement LocalBusiness schema, Service schema, FAQ schema, and Review schema at minimum. Work with your [SEO website design](/services/website-build/) provider to implement comprehensive schema.
 
 ## Frequently Asked Questions
 
@@ -211,4 +211,10 @@ Redesigns can temporarily disrupt rankings if not handled correctly. The most co
 
 ## Build a Site That Works for Your Business
 
-Your website should be your hardest-working sales asset. If it is not generating organic traffic and converting visitors, the design is not serving your business goals. [Contact LocalCatalyst.ai](/contact/) for a comprehensive assessment of your site's design and SEO performance, and discover where the biggest opportunities are hiding.
+Your website should be your hardest-working sales asset. If it is not generating organic traffic and converting visitors, the design is not serving your business goals.
+
+---
+
+**Ready to build a site that ranks and converts?** [Browse Our Services](/services/)
+
+---

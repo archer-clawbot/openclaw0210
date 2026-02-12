@@ -3,8 +3,8 @@
 **Deliverable:** Service sub-page (cluster)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /technical-seo-services/site-speed-optimization/
-**Parent Hub:** /technical-seo-services/
+**URL:** /services/seo-audit/site-speed-optimization/
+**Parent Hub:** /services/seo-audit/
 **Primary Keyword:** site speed optimization
 **Secondary Keywords:** page speed optimization, website speed SEO, TTFB optimization, image optimization, WordPress speed optimization, CDN for SEO
 **Title Tag:** Site Speed Optimization for SEO & Conversions | LocalCatalyst.ai
@@ -14,11 +14,11 @@
 
 ---
 
-**Breadcrumbs:** [Home](/) > [Technical SEO Services](/technical-seo-services/) > Site Speed Optimization
+**Breadcrumbs:** [Home](/) > [Technical SEO Services](/services/seo-audit/technical-seo-audit/) > Site Speed Optimization
 
 ## Why Speed Is a Ranking Factor AND a Revenue Factor
 
-Site speed is one of the few SEO factors that directly impacts both search rankings and business revenue. As a critical component of our [technical SEO services](/technical-seo-services/), site speed optimization addresses the measurable relationship between load time and every metric that matters: rankings, traffic, conversions, and revenue. Google has confirmed page speed as a ranking signal since 2010 for desktop and 2018 for mobile — and its importance has only increased with the Page Experience update.
+Site speed is one of the few SEO factors that directly impacts both search rankings and business revenue. As a critical component of our [technical SEO services](/services/seo-audit/technical-seo-audit/), site speed optimization addresses the measurable relationship between load time and every metric that matters: rankings, traffic, conversions, and revenue. Google has confirmed page speed as a ranking signal since 2010 for desktop and 2018 for mobile — and its importance has only increased with the Page Experience update.
 
 The business case is equally compelling. Research consistently demonstrates that a 1-second delay in page load time reduces conversions by approximately 7%. For a local business generating $50,000/month through its website, that 1-second delay costs $3,500/month — $42,000/year. Speed optimization often delivers the highest ROI of any technical SEO investment.
 
@@ -226,9 +226,9 @@ These targets are achievable for any local business website. Our clients typical
 
 ## Speed and the Broader Technical SEO Picture
 
-Site speed optimization works in concert with [Core Web Vitals](/technical-seo-services/core-web-vitals/) — LCP is directly a speed metric, and both INP and CLS are influenced by how quickly and efficiently your page loads and renders. Likewise, [mobile optimization](/technical-seo-services/mobile-optimization/) depends on speed, since mobile users frequently connect over slower cellular networks where every kilobyte matters.
+Site speed optimization works in concert with [Core Web Vitals](/services/seo-audit/core-web-vitals/) — LCP is directly a speed metric, and both INP and CLS are influenced by how quickly and efficiently your page loads and renders. Likewise, [mobile optimization](/services/seo-audit/mobile-optimization/) depends on speed, since mobile users frequently connect over slower cellular networks where every kilobyte matters.
 
-Speed also amplifies on-page SEO efforts. Well-optimized [content](/on-page-seo-services/content-optimization/) that loads in 1.5 seconds will outperform identical content that loads in 5 seconds — both in rankings and conversions.
+Speed also amplifies on-page SEO efforts. Well-optimized [content](/services/content-pages/content-optimization/) that loads in 1.5 seconds will outperform identical content that loads in 5 seconds — both in rankings and conversions.
 
 ## Frequently Asked Questions
 

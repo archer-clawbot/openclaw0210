@@ -3,8 +3,8 @@
 **Deliverable:** Thought leadership blog post
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/ai-powered-seo/
-**Parent Hub:** /blog/
+**URL:** /learn/ai-powered-seo/
+**Parent Hub:** /learn/
 **Primary Keyword:** AI-powered SEO
 **Secondary Keywords:** AI SEO automation, AI site audits, AI content generation, CATALYST methodology, automated SEO workflows, AI-driven local SEO
 **Title Tag:** AI-Powered SEO: How Agents Replace Manual Workflows
@@ -55,7 +55,7 @@ Our approach treats AI content generation as a supervised pipeline, not a one-sh
 
 The output is content that was generated efficiently but reviewed carefully. The AI handles the labor-intensive parts — research synthesis, first-draft generation, structural optimization. The human handles the judgment-intensive parts — accuracy verification, brand voice calibration, strategic alignment.
 
-For [local SEO content](/services/local-seo/) specifically, this pipeline matters even more. Local content requires accurate geographic details, correct business information, and genuine local relevance. An AI agent writing about "the best HVAC service in Phoenix" needs human verification that the claims, neighborhoods, and local references are accurate. Fabricated local details are worse than generic content because they actively damage credibility.
+For [local SEO content](/services/) specifically, this pipeline matters even more. Local content requires accurate geographic details, correct business information, and genuine local relevance. An AI agent writing about "the best HVAC service in Phoenix" needs human verification that the claims, neighborhoods, and local references are accurate. Fabricated local details are worse than generic content because they actively damage credibility.
 
 ## AI for Technical Implementation: Automated Fixes With Human Approval
 
@@ -77,7 +77,7 @@ The constraint is implementation. AI agents can identify what needs to change an
 
 Traditional SEO reporting is a monthly ritual. An account manager logs into five different tools, exports data, builds charts in a slide deck, writes commentary, and sends it to the client. By the time the client reads it, the data is two weeks old.
 
-AI-powered reporting fundamentally changes this model. Our [reporting system](/services/seo-reporting/) uses agents that continuously track key metrics:
+AI-powered reporting fundamentally changes this model. Our [reporting system](/services/seo-audit/) uses agents that continuously track key metrics:
 
 - **Geo-grid rankings** — how your business ranks across a geographic grid of search points, not just from a single location. This matters for local SEO because rank 1 from your office does not mean rank 1 from across town.
 - **Share of Local Voice (SoLV)** — what percentage of local search visibility you own versus competitors across your target keyword set. This is a composite metric that tells you whether you are winning or losing the local search landscape overall.
@@ -133,4 +133,6 @@ AI replaces the manual, repetitive tasks that consume most of a strategist's tim
 
 ---
 
-**Ready to see what AI-powered SEO looks like for your business?** [Order an SEO Audit](/services/seo-audit/) and we will show you exactly what our agents find — plus a prioritized action plan built by a human strategist who understands your market.
+**Ready to see what AI-powered SEO looks like for your business?** [Order Your SEO Audit ($297)](/services/seo-audit/)
+
+---

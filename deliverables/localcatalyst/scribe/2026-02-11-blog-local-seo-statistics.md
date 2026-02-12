@@ -3,8 +3,8 @@
 **Deliverable:** Blog post (Hub 1 educational content)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/local-seo-statistics/
-**Parent Hub:** /local-seo-services/
+**URL:** /learn/local-seo-statistics/
+**Parent Hub:** /services/
 **Primary Keyword:** local SEO statistics
 **Secondary Keywords:** local search statistics, local SEO data, local SEO stats 2026, local search data, local SEO facts and figures
 **Title Tag:** 50+ Local SEO Statistics for 2026 | LocalCatalyst.ai
@@ -14,7 +14,7 @@
 
 ---
 
-Data tells the story that opinions cannot. When you are deciding whether to invest in [local SEO services](/local-seo-services/), evaluating your current strategy, or building a case for increased budget, hard numbers matter. This collection of local SEO statistics covers every dimension of local search — from consumer behavior and mobile search patterns to review impact and business outcomes. Every statistic is sourced.
+Data tells the story that opinions cannot. When you are deciding whether to invest in [local SEO services](/services/), evaluating your current strategy, or building a case for increased budget, hard numbers matter. This collection of local SEO statistics covers every dimension of local search — from consumer behavior and mobile search patterns to review impact and business outcomes. Every statistic is sourced.
 
 Use these numbers to inform your strategy, justify your investment, and understand the local search landscape your business operates in.
 
@@ -94,7 +94,7 @@ Reviews influence rankings, click-through rates, and purchasing decisions. The d
 
 30. **Review signals account for approximately 16% of local pack ranking factors.** Reviews are the second most influential factor category after GBP signals. (Source: Whitespark Local Search Ranking Factors)
 
-Understanding how to build and leverage reviews is central to effective [reputation management](/reputation-management/).
+Understanding how to build and leverage reviews is central to effective review management.
 
 ## Mobile Local Search Statistics
 
@@ -114,7 +114,7 @@ Mobile is the primary platform for local search. These numbers illustrate why mo
 
 37. **57% of local search queries are submitted using a mobile device or tablet.** More than half of local searches happen on handheld devices. (Source: ReviewTrackers)
 
-Making sure your website performs well on mobile is a core element of [technical SEO](/technical-seo/).
+Making sure your website performs well on mobile is a core element of [technical SEO](/services/seo-audit/technical-seo-audit/).
 
 ## Citation and NAP Statistics
 
@@ -126,7 +126,7 @@ Citations are the verification network that confirms your business's information
 
 40. **68% of consumers would stop using a local business if they found incorrect information in online directories.** Inaccurate citations actively drive customers away. (Source: BrightLocal)
 
-41. **The average local business has 70+ citations across the web.** Managing citation accuracy at this scale requires systematic auditing, which is a core part of [citation building services](/citation-building-services/). (Source: Moz)
+41. **The average local business has 70+ citations across the web.** Managing citation accuracy at this scale requires systematic auditing, which is a core part of [citation building services](/services/citation-building/). (Source: Moz)
 
 ## Link Building and Authority Statistics
 
@@ -140,7 +140,7 @@ Backlinks remain a foundational factor in both local and organic rankings.
 
 45. **91% of web pages get zero organic traffic from Google, largely because they have zero backlinks.** Content without links is content without visibility. (Source: Ahrefs)
 
-For strategies on earning high-quality local links, see our [link building services](/link-building-services/).
+For strategies on earning high-quality local links, see our [link building services](/managed/).
 
 ## Local SEO ROI and Business Impact Statistics
 
@@ -160,7 +160,7 @@ These statistics connect local SEO activities to measurable business outcomes.
 
 52. **Businesses investing in local SEO report an average 25% increase in revenue within the first year.** Consistent local SEO investment produces significant revenue growth within a realistic timeframe. (Source: BrightLocal Industry Survey)
 
-For a detailed framework on calculating returns, read our guide to [local SEO ROI](/blog/local-seo-roi/).
+For a detailed framework on calculating returns, read our guide to [local SEO ROI](/learn/local-seo-roi/).
 
 ## What These Numbers Mean for Your Business
 
@@ -189,6 +189,6 @@ The underlying trends — mobile growth, review influence, local pack dominance 
 
 ## Put the Data to Work
 
-Statistics inform strategy, but execution produces results. If these numbers have convinced you that local search deserves your attention, the next step is understanding exactly where your business stands. Our free audit measures your performance against the benchmarks these statistics represent — GBP optimization, review profile, citation accuracy, technical health, and competitive positioning.
+Statistics inform strategy, but execution produces results. If these numbers have convinced you that local search deserves your attention, the next step is understanding exactly where your business stands. Our [SEO Audit](/services/seo-audit/) measures your performance against the benchmarks these statistics represent — GBP optimization, review profile, citation accuracy, technical health, and competitive positioning.
 
 [Order Your SEO Audit](/services/seo-audit/) and see how your business measures up against the data.

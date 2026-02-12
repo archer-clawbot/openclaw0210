@@ -3,8 +3,8 @@
 **Deliverable:** Blog post (Citation Building educational content)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/do-citations-still-matter/
-**Parent Hub:** /citation-building-services/
+**URL:** /learn/do-citations-still-matter/
+**Parent Hub:** /services/citation-building/
 **Primary Keyword:** do citations still matter for SEO
 **Secondary Keywords:** are citations still important, citation value 2026, local SEO citations ranking factor, citation building worth it, do local citations help SEO
 **Title Tag:** Do Citations Still Matter for SEO in 2026? | LocalCatalyst.ai
@@ -14,7 +14,7 @@
 
 ---
 
-It is a question we hear regularly from business owners and marketing managers alike: do citations still matter for local SEO, or have they become a relic of an earlier era? The SEO landscape has changed dramatically over the past decade, and citation building has undeniably shifted from its position as a top-three local ranking factor to something more nuanced. Our [citation building services](/citation-building-services/) are calibrated to this reality, which means we can give you a straightforward, evidence-based answer rather than a sales pitch.
+It is a question we hear regularly from business owners and marketing managers alike: do citations still matter for local SEO, or have they become a relic of an earlier era? The SEO landscape has changed dramatically over the past decade, and citation building has undeniably shifted from its position as a top-three local ranking factor to something more nuanced. Our [citation building services](/services/citation-building/) are calibrated to this reality, which means we can give you a straightforward, evidence-based answer rather than a sales pitch.
 
 The short answer: yes, citations still matter, but not in the way they used to, and not equally for every business. Here is the complete picture.
 
@@ -62,7 +62,7 @@ In highly competitive local markets where the top businesses are closely matched
 
 If your business has moved, changed phone numbers, rebranded, or has a history of inconsistent data entry across directories, citations are not just important, they are urgent. Inconsistent NAP data actively suppresses your local rankings. Cleaning up citation inconsistencies is one of the highest-ROI activities in all of local SEO because it removes a penalty-like drag on your visibility.
 
-For guidance on fixing these issues, see our guide on [how to fix NAP inconsistencies](/blog/nap-inconsistency-fix/).
+For guidance on fixing these issues, see our guide on [how to fix NAP inconsistencies](/learn/nap-inconsistency-fix/).
 
 ### For Businesses in Less Digital Industries
 
@@ -110,7 +110,7 @@ The modern citation strategy is firmly quality-oriented. Here is how to think ab
 - Auto-generated listing sites with no editorial oversight
 - Directories that no longer appear in search results
 
-For a detailed list prioritized by value, see our guide to [top citation sources for local SEO](/blog/top-citation-sources/).
+For a detailed list prioritized by value, see our guide to [top citation sources for local SEO](/learn/top-citation-sources/).
 
 ## The Maintenance Imperative
 
@@ -124,7 +124,7 @@ Regular maintenance includes:
 - Monitoring for unauthorized third-party edits
 - Verifying that aggregator data remains correct
 
-Our [on-page SEO services](/on-page-seo-services/) integrate citation monitoring with broader local SEO management because citation health is inseparable from overall local search performance.
+Our [on-page SEO services](/services/on-page-optimization/) integrate citation monitoring with broader local SEO management because citation health is inseparable from overall local search performance.
 
 ## The Bottom Line
 

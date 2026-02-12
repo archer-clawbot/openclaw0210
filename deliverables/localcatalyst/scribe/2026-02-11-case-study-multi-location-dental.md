@@ -5,6 +5,10 @@
 **Agent:** Scribe
 **URL:** /case-studies/multi-location-dental/
 **Word Count Target:** 1,500
+**Title Tag:** Multi-Location Dental SEO Case Study | LocalCatalyst
+**Meta Description:** 4-location dental group achieved Map Pack rankings at all locations in 6 months. See the multi-location SEO strategy that delivered 156% growth.
+**H1:** Multi-Location Dental SEO: Map Pack Dominance Across 4 Locations
+**Primary Keyword:** dental SEO case study
 
 ---
 

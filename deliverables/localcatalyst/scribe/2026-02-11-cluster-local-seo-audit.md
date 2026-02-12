@@ -3,8 +3,8 @@
 **Deliverable:** Service sub-page (cluster)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /seo-audit-services/local-seo-audit/
-**Parent Hub:** /seo-audit-services/
+**URL:** /services/seo-audit/local-seo-audit/
+**Parent Hub:** /services/seo-audit/
 **Primary Keyword:** local SEO audit
 **Secondary Keywords:** local search audit, GBP audit, Google Business Profile audit, local ranking audit, citation audit, local SEO analysis
 **Title Tag:** Local SEO Audit — Complete Local Search Analysis | LocalCatalyst.ai
@@ -14,11 +14,11 @@
 
 ---
 
-**Breadcrumbs:** [Home](/) > [SEO Audit Services](/seo-audit-services/) > Local SEO Audit
+**Breadcrumbs:** [Home](/) > [SEO Audit Services](/services/seo-audit/) > Local SEO Audit
 
 ## A Local SEO Audit Is Not a Generic SEO Audit
 
-Most SEO audits are built for e-commerce or national brands — they analyze site speed, backlinks, and on-page factors that matter for organic rankings but miss the signals that actually determine local visibility. A local SEO audit is fundamentally different because local search is fundamentally different. As a specialized component of our comprehensive [SEO audit services](/seo-audit-services/), our local SEO audit examines every factor that determines whether your business appears in the Map Pack, local organic results, and AI-generated local recommendations.
+Most SEO audits are built for e-commerce or national brands — they analyze site speed, backlinks, and on-page factors that matter for organic rankings but miss the signals that actually determine local visibility. A local SEO audit is fundamentally different because local search is fundamentally different. As a specialized component of our comprehensive [SEO audit services](/services/seo-audit/), our local SEO audit examines every factor that determines whether your business appears in the Map Pack, local organic results, and AI-generated local recommendations.
 
 Google uses a distinct set of ranking factors for local results: proximity, relevance, and prominence. These are evaluated through signals that a standard audit does not touch — your Google Business Profile completeness, citation consistency across 50+ directories, review velocity and sentiment, geo-grid ranking patterns, and the local schema markup on your website.
 
@@ -108,7 +108,7 @@ Our review analysis within the GBP audit covers:
 - **Response quality** — personalization, keyword inclusion, professionalism
 - **Review content** — presence of service keywords and location mentions in review text
 
-This section connects directly to our [reputation management services](/reputation-management-services/) — if the audit reveals review gaps, we have a proven system to close them.
+If the audit reveals review gaps, reputation management is included in [managed SEO](/managed/) to close them systematically.
 
 ### Attributes and Features (4 points)
 
@@ -159,7 +159,7 @@ We check your NAP data across 50+ directories and data sources:
 
 Each inconsistency is documented with the specific directory, the incorrect data, and the correction needed. The output is a remediation plan prioritized by directory authority.
 
-For businesses that need ongoing citation management, our [citation building services](/citation-building-services/) handle both cleanup and new citation development.
+For businesses that need ongoing citation management, our [citation building services](/services/citation-building/) handle both cleanup and new citation development.
 
 ## Local Link Profile Analysis
 
@@ -173,7 +173,7 @@ We analyze:
 - **Anchor text distribution:** Natural and varied, or over-optimized?
 - **Opportunities:** Local sponsorship, charity, news, and partnership opportunities for link acquisition
 
-This analysis feeds directly into our [link building services](/link-building-services/) strategy — providing a prioritized list of local link acquisition opportunities specific to your market.
+This analysis feeds directly into our [link building services](/managed/) strategy — providing a prioritized list of local link acquisition opportunities specific to your market.
 
 ## Geo-Grid Ranking Baseline: SoLV and WVS Scores
 
@@ -207,7 +207,7 @@ Beyond the GBP-specific review scoring, our local SEO audit includes a comprehen
 - **Response rate and quality:** Across all platforms, not just Google
 - **Competitive benchmarking:** Your review profile vs. the top 3 ranking competitors on every metric
 
-The review analysis often reveals the fastest path to ranking improvement. A business with strong [technical SEO](/technical-seo-services/) and good GBP optimization that is still stuck behind competitors in the Map Pack almost always has a review gap — either in volume, velocity, or rating.
+The review analysis often reveals the fastest path to ranking improvement. A business with strong [technical SEO](/services/seo-audit/technical-seo-audit/) and good GBP optimization that is still stuck behind competitors in the Map Pack almost always has a review gap — either in volume, velocity, or rating.
 
 ## Local Competitor Analysis
 
@@ -255,11 +255,11 @@ You can check some basics — is your GBP information accurate, do your major ci
 
 ### What happens after the local SEO audit?
 
-You receive the full report and a strategy call to walk through every finding. From there, you can take the recommendations and implement them yourself, engage us for ongoing [local SEO services](/local-seo-services/) to execute the roadmap, or start with specific quick wins and expand as you see results. There is no obligation — the audit is a standalone deliverable that provides value regardless of whether you engage us for ongoing work.
+You receive the full report and a strategy call to walk through every finding. From there, you can take the recommendations and implement them yourself, engage us for ongoing [local SEO services](/services/) to execute the roadmap, or start with specific quick wins and expand as you see results. The audit is a standalone deliverable that provides value regardless of whether you engage us for ongoing work.
 
 ### How long does a local SEO audit take?
 
-Our free visibility scan is delivered within 2-3 business days. The comprehensive local SEO audit takes 5-7 business days, depending on the number of locations and the size of your competitive market. Multi-location audits (3+ locations) take 7-10 business days. The thoroughness of the analysis is what makes it valuable — we do not rush audits.
+Our Visibility Scan is delivered within 2-3 business days. The comprehensive local SEO audit takes 5-7 business days, depending on the number of locations and the size of your competitive market. Multi-location audits (3+ locations) take 7-10 business days. The thoroughness of the analysis is what makes it valuable — we do not rush audits.
 
 ---
 

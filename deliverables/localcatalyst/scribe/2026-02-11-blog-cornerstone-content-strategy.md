@@ -3,8 +3,8 @@
 **Deliverable:** Blog post (Hub 5 educational content)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/cornerstone-content-strategy/
-**Parent Hub:** /seo-content-strategy/
+**URL:** /learn/cornerstone-content-strategy/
+**Parent Hub:** /services/content-pages/
 **Primary Keyword:** cornerstone content strategy
 **Secondary Keywords:** cornerstone content SEO, pillar content strategy, cornerstone pages, cornerstone content examples, internal linking cornerstone
 **Title Tag:** Cornerstone Content Strategy for SEO | LocalCatalyst.ai
@@ -16,7 +16,7 @@
 
 Every website has pages that matter more than others. Your cornerstone content is the handful of pages that represent your most important topics, target your most valuable keywords, and serve as the foundation of your site's topical authority. A deliberate cornerstone content strategy ensures these critical pages receive the attention, optimization, and internal linking support they need to perform at their best.
 
-This guide covers what cornerstone content is, how to identify it on your site, and the specific strategies for optimizing, linking, and maintaining these essential pages as part of your broader [SEO content strategy](/seo-content-strategy/).
+This guide covers what cornerstone content is, how to identify it on your site, and the specific strategies for optimizing, linking, and maintaining these essential pages as part of your broader [SEO content strategy](/services/content-pages/).
 
 ## What Is Cornerstone Content?
 
@@ -58,7 +58,7 @@ List the 3 to 7 topics most central to your business. For a local SEO agency, th
 - Content Strategy
 - Technical SEO for Local Businesses
 
-Each core topic should have one cornerstone page, no more. If you have two comprehensive pages on the same core topic, that is a consolidation opportunity (see our guide on [content pruning](/blog/content-pruning-seo/)).
+Each core topic should have one cornerstone page, no more. If you have two comprehensive pages on the same core topic, that is a consolidation opportunity (see our guide on [content pruning](/learn/content-pruning-seo/)).
 
 ### Step 2: Audit Existing Content
 
@@ -84,7 +84,7 @@ Pages that already have strong signals (traffic, rankings, backlinks) are natura
 
 ### Step 4: Align with Business Goals
 
-Cornerstone content should align with your most important business objectives. If your primary service is [Google Business Profile optimization](/google-business-profile-optimization/), your cornerstone page on that topic should be your most developed, most optimized, and most internally linked content asset.
+Cornerstone content should align with your most important business objectives. If your primary service is [Google Business Profile optimization](/services/gbp-optimization/), your cornerstone page on that topic should be your most developed, most optimized, and most internally linked content asset.
 
 ## Optimizing Cornerstone Content
 
@@ -110,7 +110,7 @@ Once identified, cornerstone pages deserve your highest level of optimization ef
 
 **Schema markup.** Apply relevant structured data to your cornerstone pages: Article schema, FAQ schema, HowTo schema, or whatever is appropriate for the content type.
 
-**URL structure.** Cornerstone pages should have clean, descriptive URLs close to the root of your site. A cornerstone page at /local-seo/ is better positioned than one at /blog/2024/03/complete-guide-to-local-seo/.
+**URL structure.** Cornerstone pages should have clean, descriptive URLs close to the root of your site. A cornerstone page at /local-seo/ is better positioned than one at /learn/2024/03/complete-guide-to-local-seo/.
 
 ## Internal Linking to Cornerstone Content
 
@@ -164,7 +164,7 @@ Review cornerstone content on a quarterly basis at minimum. During each review:
 
 ### Responding to Algorithm Changes
 
-When Google releases major algorithm updates, prioritize reviewing your cornerstone content. These pages carry the most ranking weight and are the most impactful to protect. [Content gap analysis](/blog/content-gap-analysis/) against top-ranking competitors can reveal whether your cornerstone needs to evolve.
+When Google releases major algorithm updates, prioritize reviewing your cornerstone content. These pages carry the most ranking weight and are the most impactful to protect. [Content gap analysis](/learn/content-gap-analysis/) against top-ranking competitors can reveal whether your cornerstone needs to evolve.
 
 ### Incorporating New Supporting Content
 
@@ -190,7 +190,7 @@ Track these metrics specifically for cornerstone pages:
 
 **Misaligned with search intent.** If your cornerstone page targets a keyword but does not match the dominant search intent for that keyword, it will struggle to rank regardless of its quality. Regularly verify that your content format and approach align with what Google currently ranks for your target queries.
 
-**Ignoring [topical authority](/blog/how-to-build-topical-authority/).** A cornerstone page without supporting content is an island. Build out the full topic cluster with supporting content that reinforces the cornerstone's authority.
+**Ignoring [topical authority](/learn/how-to-build-topical-authority/).** A cornerstone page without supporting content is an island. Build out the full topic cluster with supporting content that reinforces the cornerstone's authority.
 
 ## Frequently Asked Questions
 
@@ -208,7 +208,7 @@ There is no magic number. Cornerstone content should be as long as it needs to b
 
 ### Should I use AI to create cornerstone content?
 
-Cornerstone content represents your most important pages, where quality is paramount. [AI can assist with drafting and research](/blog/ai-content-seo/), but cornerstone pages should be heavily shaped by human expertise and experience. The depth, nuance, and original insights that differentiate great cornerstone content from average content typically require human knowledge. Use AI as a starting point, not a finished product.
+Cornerstone content represents your most important pages, where quality is paramount. [AI can assist with drafting and research](/learn/ai-content-seo/), but cornerstone pages should be heavily shaped by human expertise and experience. The depth, nuance, and original insights that differentiate great cornerstone content from average content typically require human knowledge. Use AI as a starting point, not a finished product.
 
 ## Build Your Cornerstone Content Foundation
 

@@ -3,8 +3,8 @@
 **Deliverable:** Thought leadership blog post
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/google-ai-overviews-local-seo/
-**Parent Hub:** /blog/
+**URL:** /learn/google-ai-overviews-local-seo/
+**Parent Hub:** /learn/
 **Primary Keyword:** AI overviews and local SEO
 **Secondary Keywords:** Google AI Overviews local business, SGE local search, AI Overviews local pack, Google generative search local SEO, AI search results local businesses
 **Title Tag:** Google AI Overviews & Local SEO: What to Do Now
@@ -129,7 +129,7 @@ The businesses that build comprehensive, accurate, well-structured digital prese
 
 The work required to succeed in an AI Overview world is, fundamentally, the same work that has always defined good local SEO: be genuinely excellent at what you do, make sure the internet accurately reflects that excellence, and maintain that presence consistently over time. AI Overviews just raise the bar on how comprehensively and specifically you need to communicate your value.
 
-Our [local SEO service](/services/local-seo/) is built around this reality. We do not optimize for one search surface. We build the comprehensive digital presence that performs across local packs, organic results, AI Overviews, and whatever Google introduces next.
+Our [local SEO service](/services/) is built around this reality. We do not optimize for one search surface. We build the comprehensive digital presence that performs across local packs, organic results, AI Overviews, and whatever Google introduces next.
 
 ---
 
@@ -153,4 +153,4 @@ Yes. Google's current layout places ads above AI Overviews for most commercial q
 
 ---
 
-**Concerned about how AI Overviews are affecting your local search visibility?** [Request a free audit](/services/seo-audit/) and we will analyze your current positioning across all local search surfaces — including an assessment of your AI Overview readiness.
+**Concerned about how AI Overviews are affecting your local search visibility?** Start with our [SEO Audit](/services/seo-audit/) and we will analyze your current positioning across all local search surfaces — including an assessment of your AI Overview readiness.

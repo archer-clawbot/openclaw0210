@@ -14,13 +14,13 @@
 
 ---
 
-*Breadcrumbs: [Home](/) > [Industries](/industries/) > [Auto Repair SEO](/industries/auto-repair-seo/) > Auto Repair Keywords*
+*Breadcrumbs: [Home](/) > [Industries](/services/) > [Auto Repair SEO](/industries/auto-repair-seo/) > Auto Repair Keywords*
 
 ## Auto Repair SEO Keywords: The Searches That Fill Service Bays
 
 Every auto repair customer starts with a search. The check engine light comes on and they type "mechanic near me." The brakes start grinding and they search "brake repair [city]." The AC stops blowing cold and they look up "auto AC repair near me." These searches represent customers who need your services right now — and the shops that appear at the top of those results get the calls. As our [auto repair SEO guide](/industries/auto-repair-seo/) explains, understanding how automotive customers search is the foundation of every effective SEO strategy for shops and garages.
 
-Auto repair keyword research reveals a search landscape that is broader and more nuanced than most shop owners realize. Beyond the obvious "mechanic near me" terms, there are hundreds of service-specific, vehicle-specific, problem-specific, and price-specific keyword variations that collectively represent thousands of monthly searches in any given market. The shops that capture these searches systematically — by building content that targets each keyword category — generate a steady stream of customers without spending a dollar on paid advertising. Our [local keyword research](/local-seo-services/local-keyword-research/) services map the complete keyword landscape for your shop, trade, and market.
+Auto repair keyword research reveals a search landscape that is broader and more nuanced than most shop owners realize. Beyond the obvious "mechanic near me" terms, there are hundreds of service-specific, vehicle-specific, problem-specific, and price-specific keyword variations that collectively represent thousands of monthly searches in any given market. The shops that capture these searches systematically — by building content that targets each keyword category — generate a steady stream of customers without spending a dollar on paid advertising. Our [local keyword research](/services/local-keyword-research/) services map the complete keyword landscape for your shop, trade, and market.
 
 ## The Auto Repair Keyword Categories
 

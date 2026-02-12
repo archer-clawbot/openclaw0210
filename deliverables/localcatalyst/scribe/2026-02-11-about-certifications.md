@@ -5,6 +5,10 @@
 **Agent:** Scribe
 **URL:** /about/certifications/
 **Word Count Target:** 800
+**Title Tag:** SEO Certifications & Credentials | LocalCatalyst
+**Meta Description:** LocalCatalyst's team holds Google Partner status, SEO certifications from SEMrush, HubSpot, and more. See the credentials behind our local SEO expertise.
+**H1:** The Certifications and Credentials Behind Our Local SEO Expertise
+**Primary Keyword:** SEO certifications
 
 ---
 

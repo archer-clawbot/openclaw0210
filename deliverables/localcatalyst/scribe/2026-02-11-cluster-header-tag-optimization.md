@@ -3,8 +3,8 @@
 **Deliverable:** Service sub-page (cluster)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /on-page-seo-services/header-tag-optimization/
-**Parent Hub:** /on-page-seo-services/
+**URL:** /services/content-pages/header-tag-optimization/
+**Parent Hub:** /services/content-pages/
 **Primary Keyword:** header tag optimization
 **Secondary Keywords:** H1 tag optimization, header tag hierarchy, H1-H6 tags SEO, header tag best practices, heading structure SEO
 **Title Tag:** Header Tag Optimization for SEO Rankings | LocalCatalyst.ai
@@ -14,11 +14,11 @@
 
 ---
 
-*Breadcrumbs: [Home](/) > [On-Page SEO Services](/on-page-seo-services/) > Header Tag Optimization*
+*Breadcrumbs: [Home](/) > [On-Page SEO Services](/services/on-page-optimization/) > Header Tag Optimization*
 
 ## Header Tag Optimization: Structure Content for Rankings, Scannability, and Featured Snippets
 
-Header tags are the structural skeleton of your content. They tell search engines how your content is organized, what topics and subtopics it covers, and which concepts are most important. They tell human readers where to find specific information on the page, enabling the scanning behavior that defines how most people consume web content. As part of our [on-page SEO services](/on-page-seo-services/), header tag optimization transforms unstructured content into a logically organized hierarchy that both Google and your visitors can navigate efficiently.
+Header tags are the structural skeleton of your content. They tell search engines how your content is organized, what topics and subtopics it covers, and which concepts are most important. They tell human readers where to find specific information on the page, enabling the scanning behavior that defines how most people consume web content. As part of our [on-page SEO services](/services/on-page-optimization/), header tag optimization transforms unstructured content into a logically organized hierarchy that both Google and your visitors can navigate efficiently.
 
 Most local business websites treat headers as visual formatting tools — making text bigger or bolder for aesthetic purposes. That misses the point entirely. Headers create a semantic hierarchy that communicates meaning, not just appearance. A well-structured header hierarchy improves rankings, increases time on page, and qualifies your content for featured snippets that display directly in search results.
 
@@ -121,7 +121,7 @@ For "how to" queries, Google often displays numbered or bulleted list snippets. 
 
 For comparison queries, Google pulls table snippets. Using headers to introduce properly formatted HTML tables positions your content for table snippet selection.
 
-Pairing header tag optimization with [structured data implementation](/technical-seo-services/structured-data/) further increases featured snippet eligibility by providing Google with multiple reinforcing signals about your content structure.
+Pairing header tag optimization with [structured data implementation](/services/seo-audit/structured-data/) further increases featured snippet eligibility by providing Google with multiple reinforcing signals about your content structure.
 
 ## Common Header Tag Mistakes
 
@@ -171,7 +171,7 @@ Location pages need headers that combine service and geographic relevance:
 - H2s: Services offered, service area details, team, why this location
 - H3s: Individual services, specific neighborhoods served, staff profiles
 
-Consistent header structure across page types creates a site-wide content architecture that reinforces [topical authority](/seo-content-strategy/) and helps Google understand the relationships between pages.
+Consistent header structure across page types creates a site-wide content architecture that reinforces [topical authority](/services/content-pages/) and helps Google understand the relationships between pages.
 
 ## FAQ
 
@@ -185,7 +185,7 @@ There is no fixed number. A 500-word service page might have 3-4 H2s. A 3,000-wo
 
 ### Should I use H2 or H3 for FAQ questions?
 
-If the FAQ section is introduced by an H2 ("Frequently Asked Questions"), each individual question should be an H3. This maintains the proper hierarchy. Pair FAQ headers with [FAQPage schema markup](/technical-seo-services/structured-data/) to maximize visibility in search results.
+If the FAQ section is introduced by an H2 ("Frequently Asked Questions"), each individual question should be an H3. This maintains the proper hierarchy. Pair FAQ headers with [FAQPage schema markup](/services/seo-audit/structured-data/) to maximize visibility in search results.
 
 ### Do header tags matter more than body text for rankings?
 

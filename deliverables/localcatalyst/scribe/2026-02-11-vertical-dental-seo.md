@@ -22,7 +22,7 @@ The question is whether they find you or the practice down the street.
 
 Dental SEO is unlike most other local verticals because of the patient lifetime value at stake. A single new patient is not a one-time transaction — it is two cleanings per year, periodic X-rays, the occasional filling, and potentially $5,000-30,000 in cosmetic or restorative work over their lifetime. Multiply that by a family of four, and a single "dentist near me" search can represent $50,000-100,000 in lifetime revenue. When the math is that compelling, the gap between appearing in the Map Pack and being invisible on page two is not just a marketing problem — it is a business-defining one.
 
-At LocalCatalyst, dental SEO is one of our strongest verticals. We understand the specific competitive dynamics that dental practices face — competition from DSOs (Dental Service Organizations) with massive marketing budgets, aggregator platforms like Zocdoc and 1-800-DENTIST that insert themselves between you and your patients, and the challenge of differentiating a general practice in a market where there are three dentists on every block. Our [CATALYST methodology](/local-seo-services/) (Audit, Prioritize, Execute, Expand) gives dental practices a structured, data-driven path from invisibility to dominance in local search.
+At LocalCatalyst, dental SEO is one of our strongest verticals. We understand the specific competitive dynamics that dental practices face — competition from DSOs (Dental Service Organizations) with massive marketing budgets, aggregator platforms like Zocdoc and 1-800-DENTIST that insert themselves between you and your patients, and the challenge of differentiating a general practice in a market where there are three dentists on every block. Our [CATALYST methodology](/services/) (Audit, Prioritize, Execute, Expand) gives dental practices a structured, data-driven path from invisibility to dominance in local search.
 
 Want to know exactly where your practice stands right now? [Order an SEO Audit](/services/seo-audit/) and we will map your visibility across a geo-grid of your service area — showing you where you rank, where you are invisible, and where the biggest patient acquisition opportunities are hiding.
 
@@ -46,7 +46,7 @@ Dental searches fall into three distinct intent categories, each requiring diffe
 
 **Emergency searches** ("emergency dentist near me," "dentist open Saturday," "toothache dentist same day") carry extreme urgency. The patient will call the first practice they see that appears available. Ranking for emergency terms requires specific GBP configurations, dedicated landing pages, and visibility signals that communicate immediate availability.
 
-Our [local SEO services](/local-seo-services/) address all three intent categories with distinct strategies tailored to each.
+Our [local SEO services](/services/) address all three intent categories with distinct strategies tailored to each.
 
 ### Insurance Queries Are a Growing Segment
 
@@ -54,7 +54,7 @@ Our [local SEO services](/local-seo-services/) address all three intent categori
 
 ## Google Business Profile Optimization for Dental Practices
 
-Your Google Business Profile is where the majority of your new patients will form their first impression of your practice. For dental searches, the Map Pack dominates click distribution — often capturing over 60% of all clicks on the results page. Our [GBP management services](/google-business-profile-management/) for dental practices optimize every element that influences both visibility and conversion.
+Your Google Business Profile is where the majority of your new patients will form their first impression of your practice. For dental searches, the Map Pack dominates click distribution — often capturing over 60% of all clicks on the results page. Our [GBP management services](/services/gbp-optimization/) for dental practices optimize every element that influences both visibility and conversion.
 
 **Category and specialty configuration.** Your primary category should reflect your core practice type — "Dentist," "Cosmetic dentist," "Pediatric dentist," or "Orthodontist" depending on your positioning. Secondary categories capture additional specialties: "Dental implants provider," "Emergency dental service," "Teeth whitening service," "Oral surgeon." Correct category selection is one of the most impactful changes we make — practices with incomplete or incorrect categories are often invisible for the exact services they want to promote.
 
@@ -70,7 +70,7 @@ Your Google Business Profile is where the majority of your new patients will for
 
 ## Patient Review Generation for Dental Practices
 
-Reviews are the single most influential factor in a patient's decision to choose one dental practice over another. A practice with 200 reviews at 4.8 stars will consistently outperform a practice with 30 reviews at 4.9 stars — volume signals legitimacy and reduces the perceived risk of a bad experience. Our [reputation management services](/reputation-management-services/) build dental-specific review generation systems that produce consistent, sustainable review growth.
+Reviews are the single most influential factor in a patient's decision to choose one dental practice over another. A practice with 200 reviews at 4.8 stars will consistently outperform a practice with 30 reviews at 4.9 stars — volume signals legitimacy and reduces the perceived risk of a bad experience. Our reputation management services build dental-specific review generation systems that produce consistent, sustainable review growth.
 
 ### The Post-Visit Sequence
 
@@ -93,7 +93,7 @@ We craft review responses that acknowledge the patient's concern, demonstrate ge
 
 ## Content Strategy for Dental Practices
 
-Content is where dental practices build the authority that converts browsers into patients. Hospital systems produce generic health content. Aggregators produce listings. A dental practice that publishes detailed, authoritative, locally-relevant content about procedures, conditions, and patient concerns occupies a competitive niche that neither can match. Our [content strategy services](/seo-content-strategy/) for dental practices are built around patient conversion and search visibility.
+Content is where dental practices build the authority that converts browsers into patients. Hospital systems produce generic health content. Aggregators produce listings. A dental practice that publishes detailed, authoritative, locally-relevant content about procedures, conditions, and patient concerns occupies a competitive niche that neither can match. Our [content strategy services](/services/content-pages/) for dental practices are built around patient conversion and search visibility.
 
 ### Procedure Pages That Rank and Convert
 
@@ -138,19 +138,19 @@ The most significant shift we consistently see: dental practices transitioning f
 ## Supporting Content
 
 ### Planned Cluster Pages
-- [Dental SEO Keywords](/industries/dental-seo/dental-seo-keywords/) — Keyword research guide for dental practices covering every procedure and patient intent category
-- [Dental Website Design](/industries/dental-seo/dental-website-design/) — Website design best practices for dental practices that convert visitors into patients
-- [Dental Google Reviews](/industries/dental-seo/dental-google-reviews/) — Complete guide to review generation and reputation management for dentists
-- [Dental Content Marketing](/industries/dental-seo/dental-content-marketing/) — Content strategy for dental practices including procedure pages, blogs, and patient education
-- [Multi-Location Dental SEO](/industries/dental-seo/multi-location-dental-seo/) — SEO strategy for DSOs and multi-location dental groups
+- [Dental SEO Keywords](/industries/dental-seo/) — Keyword research guide for dental practices covering every procedure and patient intent category
+- [Dental Website Design](/industries/dental-seo/) — Website design best practices for dental practices that convert visitors into patients
+- [Dental Google Reviews](/industries/dental-seo/) — Complete guide to review generation and reputation management for dentists
+- [Dental Content Marketing](/industries/dental-seo/) — Content strategy for dental practices including procedure pages, blogs, and patient education
+- [Multi-Location Dental SEO](/industries/dental-seo/) — SEO strategy for DSOs and multi-location dental groups
 
 ### Related Industry Verticals
 - [SEO for Medical Practices](/industries/medical-practices/) — Specialized strategies for medical practices with similar YMYL and patient acquisition challenges
 
 ### Related Blog Posts
-- [Local SEO Ranking Factors in 2026](/blog/local-seo-ranking-factors-2026/) — The signals that determine your local visibility
-- [Google Business Profile Optimization Checklist](/blog/gbp-optimization-checklist/) — Step-by-step guide to GBP excellence
-- [Review Generation Strategy](/blog/google-reviews-generation-strategy/) — How to build a review generation engine
+- [Local SEO Ranking Factors in 2026](/learn/local-seo-ranking-factors-2026/) — The signals that determine your local visibility
+- [Google Business Profile Optimization Checklist](/learn/gbp-optimization-checklist/) — Step-by-step guide to GBP excellence
+- [Review Generation Strategy](/learn/google-reviews-generation-strategy/) — How to build a review generation engine
 
 ## Frequently Asked Questions
 
@@ -180,7 +180,7 @@ DSOs compete on brand recognition and marketing budget. Independent practices co
 
 ### How much does dental SEO cost?
 
-Pricing depends on your market's competitive intensity, the number of locations, the scope of services you want to promote, and the gap between your current visibility and your goals. We price to deliver clear ROI: if a new patient represents $2,000-5,000 in first-year revenue and $10,000-50,000 in lifetime value, generating even 10 additional patients per month from organic search delivers a substantial return. [Request a free audit](/services/seo-audit/) for a transparent proposal with projected outcomes.
+Pricing depends on your market's competitive intensity, the number of locations, the scope of services you want to promote, and the gap between your current visibility and your goals. We price to deliver clear ROI: if a new patient represents $2,000-5,000 in first-year revenue and $10,000-50,000 in lifetime value, generating even 10 additional patients per month from organic search delivers a substantial return. [Order an SEO Audit](/services/seo-audit/) for a transparent proposal with projected outcomes.
 
 ### What metrics do you track for dental SEO?
 
@@ -188,4 +188,4 @@ We track everything that ties to patient acquisition: geo-grid rankings across y
 
 ---
 
-*Ready to fill every chair in your practice? [Request your free dental SEO audit](/services/seo-audit/) and see exactly where your practice ranks, where patients are finding your competitors instead, and where the biggest growth opportunities lie.*
+*Ready to fill every chair in your practice? [Order your dental SEO Audit](/services/seo-audit/) and see exactly where your practice ranks, where patients are finding your competitors instead, and where the biggest growth opportunities lie.*

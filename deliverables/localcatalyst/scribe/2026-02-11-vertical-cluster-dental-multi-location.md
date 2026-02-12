@@ -16,7 +16,7 @@
 
 Running [dental SEO](/industries/dental-seo/) for a single location is straightforward compared to managing visibility across multiple offices. Every additional location introduces complexity: potential keyword cannibalization between your own pages, Google Business Profile management at scale, inconsistent NAP data across dozens of directories, and the organizational challenge of maintaining content quality across locations with different providers, services, and competitive landscapes.
 
-Whether you're a dental group with 3 offices, a DSO (Dental Service Organization) managing 20+ locations, or a practice expanding from one location to two, this guide covers the specific strategies that make multi-location dental SEO work. For the broader multi-location framework, see our [multi-location SEO](/local-seo-services/multi-location-seo/) service.
+Whether you're a dental group with 3 offices, a DSO (Dental Service Organization) managing 20+ locations, or a practice expanding from one location to two, this guide covers the specific strategies that make multi-location dental SEO work. For the broader multi-location framework, see our [multi-location SEO](/services/multi-location-seo/) service.
 
 ## The Core Challenge: Cannibalization
 

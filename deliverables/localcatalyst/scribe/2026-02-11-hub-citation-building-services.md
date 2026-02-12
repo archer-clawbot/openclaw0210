@@ -6,7 +6,7 @@
 **URL:** /citation-building-services/
 **Primary Keyword:** citation building services
 **Secondary Keywords:** local citations SEO, citation management, local business citations, NAP citations, citation cleanup
-**Title Tag:** Citation Building Services — Consistent Listings That Rank | LocalCatalyst.ai
+**Title Tag:** Citation Building — Listings That Rank | LocalCatalyst
 **Meta Description:** Professional citation building services that fix NAP inconsistencies and build authoritative listings. Strengthen your local rankings with LocalCatalyst.ai.
 **H1:** Citation Building & Management for Stronger Local Rankings
 **Word Count Target:** 2,000–2,500
@@ -17,7 +17,7 @@ Every local business has a digital footprint scattered across dozens — sometim
 
 At LocalCatalyst, we treat **citation building services** as foundational infrastructure. Before we optimize your Google Business Profile, before we build links, before we write content — we make sure the internet agrees on who you are, where you are, and how to reach you. Because if it doesn't, Google doesn't trust you. And if Google doesn't trust you, you don't rank.
 
-We've audited thousands of local businesses through our [CATALYST methodology](/local-seo-services/), and citation inconsistencies remain one of the most common — and most fixable — ranking suppressors we find. If you haven't had a professional citation audit in the past 12 months, you almost certainly have problems you don't know about. [Order Your SEO Audit](/services/seo-audit/) and we'll show you exactly where your citation profile stands.
+We've audited thousands of local businesses through our [CATALYST methodology](/services/), and citation inconsistencies remain one of the most common — and most fixable — ranking suppressors we find. If you haven't had a professional citation audit in the past 12 months, you almost certainly have problems you don't know about. [Order Your SEO Audit](/services/seo-audit/) and we'll show you exactly where your citation profile stands.
 
 ## What Are Local Citations and Why Do They Matter?
 
@@ -27,7 +27,7 @@ Citations matter because they serve as independent verification of your business
 
 According to multiple local search ranking factor studies, citations consistently rank among the top five factors influencing Map Pack visibility. They impact both your ability to rank and your ability to convert — a potential customer who finds conflicting addresses or phone numbers across different platforms is far less likely to trust your business.
 
-For our [GBP management](/google-business-profile-management/) clients, we've seen citation cleanup alone produce measurable ranking improvements within 60 to 90 days, before any other optimization work begins.
+For our [GBP management](/services/gbp-optimization/) clients, we've seen citation cleanup alone produce measurable ranking improvements within 60 to 90 days, before any other optimization work begins.
 
 ## Structured vs. Unstructured Citations Explained
 
@@ -45,7 +45,7 @@ Unstructured citations are mentions of your business information in flowing text
 
 Unstructured citations are harder to build and harder to audit, but they carry substantial trust signals because they typically come from editorial or organic sources rather than self-submitted directory entries. A local newspaper mentioning your business with a correct address carries weight that a directory listing cannot replicate.
 
-We cover this distinction in depth on our [Structured vs. Unstructured Citations](/citation-building-services/structured-unstructured-citations/) cluster page, including specific strategies for building both types.
+We cover this distinction in depth on our [Structured vs. Unstructured Citations](/services/citation-building/structured-unstructured-citations/) cluster page, including specific strategies for building both types.
 
 ## The NAP Consistency Problem
 
@@ -62,11 +62,11 @@ How does this happen? It accumulates over time:
 
 The compounding effect is severe. Data aggregators feed information to dozens of downstream sites. If Foursquare has your old address, that old address can appear on 50+ sites that pull from their data feed. One bad upstream source creates a cascade of inconsistencies.
 
-For a dental practice we audited last quarter, we found the business listed under three different phone numbers, two addresses (they had moved 18 months prior), and four name variations across 87 total citations. Their Map Pack rankings had steadily declined over that 18-month period despite active [GBP optimization](/google-business-profile-management/). The citation inconsistency was the primary cause.
+For a dental practice we audited last quarter, we found the business listed under three different phone numbers, two addresses (they had moved 18 months prior), and four name variations across 87 total citations. Their Map Pack rankings had steadily declined over that 18-month period despite active [GBP optimization](/services/gbp-optimization/). The citation inconsistency was the primary cause.
 
 ## Our Citation Building Process
 
-We follow a systematic four-phase approach that aligns with the CATALYST methodology we use across all [local SEO services](/local-seo-services/).
+We follow a systematic four-phase approach that aligns with the CATALYST methodology we use across all [local SEO services](/services/).
 
 ### Phase 1: Citation Audit (Audit)
 
@@ -78,7 +78,7 @@ Before we build anything, we need to understand what already exists. Our citatio
 - **Competitive benchmarking** — We analyze your top local competitors' citation profiles to identify quantity gaps and source gaps — directories where they're listed and you aren't.
 - **Authority scoring** — Not all directories carry equal weight. We assess each citation source by domain authority, relevance, and traffic to prioritize our efforts.
 
-This audit produces a clear, prioritized action plan. You'll know exactly how many citations you have, how many are inconsistent, and where the gaps are. [Start with a free audit](/services/seo-audit/) to get a snapshot of your citation health.
+This audit produces a clear, prioritized action plan. You'll know exactly how many citations you have, how many are inconsistent, and where the gaps are. [Start with our SEO Audit](/services/seo-audit/) to get a snapshot of your citation health.
 
 ### Phase 2: Citation Cleanup (Prioritize)
 
@@ -89,7 +89,7 @@ Before building new citations, we fix the existing ones. This phase includes:
 - **Removing duplicates** — We submit removal requests for duplicate listings and follow up until they're resolved.
 - **Suppressing outdated aggregator data** — We submit corrections to the four major data aggregators (Data Axle, Foursquare, Localeze/Neustar, and Factual) to stop bad data from propagating downstream.
 
-Our [citation cleanup](/citation-building-services/citation-cleanup/) cluster page details the specific process and timeline for each major platform. Some directories update within 48 hours; others take 4 to 8 weeks.
+Our [citation cleanup](/services/citation-building/citation-cleanup/) cluster page details the specific process and timeline for each major platform. Some directories update within 48 hours; others take 4 to 8 weeks.
 
 ### Phase 3: Citation Building (Execute)
 
@@ -121,7 +121,7 @@ These carry significant weight because they demonstrate relevance to your specif
 - **Veterinary:** VetRatingz, PetMD vet finder, AAHA hospital locator
 - **Salons/gyms:** Mindbody, ClassPass, StyleSeat, Vagaro
 
-We identify the most authoritative directories for your specific niche. Our [niche citations](/citation-building-services/niche-citations/) page catalogs the top sources across 15+ industries.
+We identify the most authoritative directories for your specific niche. Our [niche citations](/services/citation-building/niche-citations/) page catalogs the top sources across 15+ industries.
 
 **Tier 3 — Local and Niche Sources**
 
@@ -155,7 +155,7 @@ This is a critical distinction that many agencies gloss over. A one-time citatio
 3. **Your business information changes.** New phone number, new suite, extended hours, additional services — every change needs to propagate across your entire citation ecosystem.
 4. **Competitors are constantly building.** Citation quantity is a relative metric. If your competitors are actively building while you're static, your relative authority declines.
 
-Our citation management service treats your citation profile as a living asset that requires ongoing attention — the same way we approach [reputation management](/reputation-management-services/) and [link building](/link-building-services/).
+Our citation management service treats your citation profile as a living asset that requires ongoing attention — the same way we approach reputation management and [link building](/managed/).
 
 ## How We Track Citation Health and Ranking Impact
 
@@ -232,7 +232,7 @@ Most directories are indexed by Google within 2 to 4 weeks. However, the ranking
 
 ### Do citations still matter for local SEO in 2026?
 
-Yes. While citation weight relative to other factors like reviews and GBP signals has shifted over the years, NAP consistency remains a foundational trust signal. Google's AI systems, including the algorithms powering AI Overviews and local results, still cross-reference business data across sources. Inconsistent citations don't just hurt rankings — they erode trust with AI systems that are increasingly synthesizing business information from multiple sources. We cover this topic in detail in our blog post: [Do Citations Still Matter?](/blog/do-citations-still-matter/).
+Yes. While citation weight relative to other factors like reviews and GBP signals has shifted over the years, NAP consistency remains a foundational trust signal. Google's AI systems, including the algorithms powering AI Overviews and local results, still cross-reference business data across sources. Inconsistent citations don't just hurt rankings — they erode trust with AI systems that are increasingly synthesizing business information from multiple sources. We cover this topic in detail in our blog post: [Do Citations Still Matter?](/learn/do-citations-still-matter/).
 
 ### What's the difference between citation building and citation management?
 
@@ -240,7 +240,7 @@ Citation building is the act of creating new listings on directories and platfor
 
 ### Can I do citation building myself?
 
-You can, but it's extraordinarily time-consuming. Manually submitting to 100+ directories, each with different submission processes, verification methods, and formatting requirements, takes 40 to 60 hours. Then there's the ongoing monitoring and correction work. Most business owners find their time is better spent running their business while we handle the citation infrastructure. If you want to understand the process first, our [citation audit guide](/blog/citation-audit-guide/) walks through the fundamentals.
+You can, but it's extraordinarily time-consuming. Manually submitting to 100+ directories, each with different submission processes, verification methods, and formatting requirements, takes 40 to 60 hours. Then there's the ongoing monitoring and correction work. Most business owners find their time is better spent running their business while we handle the citation infrastructure. If you want to understand the process first, our [citation audit guide](/learn/citation-audit-guide/) walks through the fundamentals.
 
 ### What happens if I have duplicate listings?
 
@@ -248,7 +248,7 @@ Duplicate listings on the same platform create confusion for both search engines
 
 ### How do data aggregators affect my citations?
 
-Data aggregators (Data Axle, Foursquare, Localeze/Neustar, and Factual) are the upstream sources that feed business data to hundreds of downstream directories and platforms. If an aggregator has incorrect information, that bad data propagates across the entire ecosystem. This is why we always start citation work by correcting aggregator data — it's the most efficient way to fix inconsistencies at scale. For a deeper dive, read our guide on [fixing NAP inconsistencies](/blog/nap-inconsistency-fix/).
+Data aggregators (Data Axle, Foursquare, Localeze/Neustar, and Factual) are the upstream sources that feed business data to hundreds of downstream directories and platforms. If an aggregator has incorrect information, that bad data propagates across the entire ecosystem. This is why we always start citation work by correcting aggregator data — it's the most efficient way to fix inconsistencies at scale. For a deeper dive, read our guide on [fixing NAP inconsistencies](/learn/nap-inconsistency-fix/).
 
 ### How do you handle businesses with multiple locations?
 
@@ -259,19 +259,19 @@ Multi-location citation management requires a location-by-location approach. Eac
 This pillar page is supported by the following cluster content and blog posts:
 
 ### Cluster Pages
-- [Citation Cleanup Services](/citation-building-services/citation-cleanup/) — Our process for auditing, correcting, and deduplicating your existing citation profile
-- [Niche Citation Building](/citation-building-services/niche-citations/) — Industry-specific directory strategies for medical, legal, home services, and more
-- [Structured vs. Unstructured Citations](/citation-building-services/structured-unstructured-citations/) — Understanding the two types of citations and how to build both effectively
+- [Citation Cleanup Services](/services/citation-building/citation-cleanup/) — Our process for auditing, correcting, and deduplicating your existing citation profile
+- [Niche Citation Building](/services/citation-building/niche-citations/) — Industry-specific directory strategies for medical, legal, home services, and more
+- [Structured vs. Unstructured Citations](/services/citation-building/structured-unstructured-citations/) — Understanding the two types of citations and how to build both effectively
 
 ### Related Blog Posts
-- [What Are Local Citations?](/blog/what-are-local-citations/) — A comprehensive guide to citation fundamentals
-- [Top Citation Sources for Local Businesses](/blog/top-citation-sources/) — Our curated list of the most impactful directories by industry
-- [How to Run a Citation Audit](/blog/citation-audit-guide/) — Step-by-step guide to evaluating your citation health
-- [How to Fix NAP Inconsistencies](/blog/nap-inconsistency-fix/) — Practical guide to correcting inconsistent business data
-- [Do Citations Still Matter in 2026?](/blog/do-citations-still-matter/) — Analysis of citation signals in the current local search landscape
+- [What Are Local Citations?](/learn/what-are-local-citations/) — A comprehensive guide to citation fundamentals
+- [Top Citation Sources for Local Businesses](/learn/top-citation-sources/) — Our curated list of the most impactful directories by industry
+- [How to Run a Citation Audit](/learn/citation-audit-guide/) — Step-by-step guide to evaluating your citation health
+- [How to Fix NAP Inconsistencies](/learn/nap-inconsistency-fix/) — Practical guide to correcting inconsistent business data
+- [Do Citations Still Matter in 2026?](/learn/do-citations-still-matter/) — Analysis of citation signals in the current local search landscape
 
 ### Related Hub Pages
-- [Local SEO Services](/local-seo-services/) — Our comprehensive local SEO methodology
-- [Google Business Profile Management](/google-business-profile-management/) — GBP optimization that works hand-in-hand with citation authority
-- [Reputation Management Services](/reputation-management-services/) — Review management and online reputation strategy
-- [Link Building Services](/link-building-services/) — Local link acquisition to complement your citation profile
+- [Local SEO Services](/services/) — Our comprehensive local SEO methodology
+- [Google Business Profile Management](/services/gbp-optimization/) — GBP optimization that works hand-in-hand with citation authority
+- [Managed SEO](/managed/) — Includes reputation management, review generation, and online reputation strategy
+- [Link Building Services](/managed/) — Local link acquisition to complement your citation profile

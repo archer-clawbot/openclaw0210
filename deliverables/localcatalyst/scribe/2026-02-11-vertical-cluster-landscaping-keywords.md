@@ -14,7 +14,7 @@
 
 ---
 
-Every landscaping company competing for local customers needs a keyword strategy built on data, not guesswork. As part of our comprehensive [landscaping SEO](/industries/landscaping-seo/) vertical, this guide breaks down the exact keyword categories, search volumes, and targeting strategies that move landscapers from page three obscurity to Map Pack dominance. Pair this with a professional [local keyword research](/local-seo-services/local-keyword-research/) engagement and you have a repeatable system for capturing demand in every service area you operate in.
+Every landscaping company competing for local customers needs a keyword strategy built on data, not guesswork. As part of our comprehensive [landscaping SEO](/industries/landscaping-seo/) vertical, this guide breaks down the exact keyword categories, search volumes, and targeting strategies that move landscapers from page three obscurity to Map Pack dominance. Pair this with a professional [local keyword research](/services/local-keyword-research/) engagement and you have a repeatable system for capturing demand in every service area you operate in.
 
 ## Why Keyword Research Is the Foundation of Landscaping SEO
 

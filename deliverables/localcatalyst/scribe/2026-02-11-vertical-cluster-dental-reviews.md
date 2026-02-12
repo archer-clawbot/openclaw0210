@@ -16,7 +16,7 @@
 
 In [dental SEO](/industries/dental-seo/), Google reviews function as both a ranking signal and a conversion tool. The dental practices occupying the local 3-pack in competitive markets almost universally share two traits: high review volume and consistent review velocity. Patients deciding between two dentists overwhelmingly choose the one with more reviews and a higher rating. And Google's algorithm uses review signals as one of the strongest factors in local pack ranking.
 
-This guide covers how to systematically generate Google reviews for your dental practice, how to manage and respond to them, and how to turn your review profile into a competitive weapon. For broader reputation management strategy, see our [review generation](/reputation-management-services/review-generation/) service.
+This guide covers how to systematically generate Google reviews for your dental practice, how to manage and respond to them, and how to turn your review profile into a competitive weapon. For broader reputation management strategy, see our review generation service.
 
 ## The Review Metrics That Actually Affect Rankings
 

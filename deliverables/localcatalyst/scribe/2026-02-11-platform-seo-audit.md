@@ -17,7 +17,7 @@
 
 **From $297 | Delivered in 12-24 hours**
 
-[Order Your SEO Audit](/order/seo-audit/)
+[Order Your SEO Audit](/free-audit/)
 
 ---
 
@@ -64,8 +64,8 @@ Everything in Standard, plus:
 - Backlink profile analysis
 - Content gap analysis with keyword opportunities
 - Local citation audit (NAP consistency across directories)
-- Share of Local Voice (SoLV) baseline score
-- Weighted Visibility Score (WVS) for primary keyword set
+- Share of Local Voice (SoLV) baseline score — your percentage of total local search visibility compared to every competitor in your market
+- Weighted Visibility Score (WVS) — a composite score that weights rankings by search volume and commercial intent
 - Geo-grid ranking snapshot for your service area
 
 **Turnaround: 18-24 hours**
@@ -128,6 +128,18 @@ Your audit includes a CATALYST score from 1 to 10 that represents your overall l
 
 Most businesses we audit score between 3.5 and 5.5. That's normal. The score isn't meant to make you feel bad -- it's meant to show you where the biggest gains are waiting.
 
+### How Our Audit Compares
+
+| | LocalCatalyst | Free Online Tools | Agency Audit |
+|---|---|---|---|
+| **Price** | $297-$497 | Free | $500-2,000+ (or bundled in retainer) |
+| **Turnaround** | 12-24 hours | Instant | 1-3 weeks |
+| **Technical SEO** | 50+ checkpoints | Basic (10-15 checks) | Varies |
+| **GBP Analysis** | Full completeness audit | Not included | Sometimes |
+| **Competitive Analysis** | Top 5-10 competitors | Not included | Usually top 3 |
+| **Scored Action Plan** | Prioritized by impact | Generic recommendations | Varies |
+| **SoLV / WVS Metrics** | Comprehensive tier | Not available | Rarely |
+
 ---
 
 ## What You Provide
@@ -149,8 +161,8 @@ No. Screaming Frog is one of many data sources our system uses. The audit is gen
 **Will you fix the issues you find?**
 The audit identifies the issues and tells you what to do about them. You can hand the action plan to your developer, your marketing team, or use our other products to address specific areas. Need content? Order [content pages](/services/content-pages/). Need schema? Order [schema markup](/services/schema-markup/). Need GBP help? Order [GBP optimization](/services/gbp-optimization/).
 
-**How is this different from the free audit tools online?**
-Free audit tools check basic technical factors -- broken links, page speed, missing meta tags. They don't analyze your competitive landscape, score your GBP, identify content gaps, or create a prioritized action plan. The LocalCatalyst audit evaluates your site the way a senior SEO strategist would, across every factor that affects local rankings.
+**How is this different from automated audit tools online?**
+Basic audit tools check technical factors -- broken links, page speed, missing meta tags. They don't analyze your competitive landscape, score your GBP, identify content gaps, or create a prioritized action plan. The LocalCatalyst audit evaluates your site the way a senior SEO strategist would, across every factor that affects local rankings.
 
 **Can I use this to pitch a client?**
 Absolutely. The Comprehensive tier is designed for this. Agencies and freelancers use our audits as the foundation for proposals. The PDF is professionally formatted and white-label ready.
@@ -169,7 +181,7 @@ Find out what's broken. Get a plan to fix it.
 | Standard | $297 | 12-24 hours |
 | Comprehensive | $497 | 18-24 hours |
 
-[Order Standard Audit ($297)](/order/seo-audit/?tier=standard) | [Order Comprehensive Audit ($497)](/order/seo-audit/?tier=comprehensive)
+[Order Standard Audit ($297)](/free-audit/) | [Order Comprehensive Audit ($497)](/free-audit/)
 
 ---
 

@@ -4,20 +4,23 @@
 **Deliverable:** Service sub-page (cluster)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** `/link-building-services/broken-link-building/`
-**Parent Hub:** `/link-building-services/`
+**URL:** `/managed/broken-link-building/`
+**Parent Hub:** `/managed/`
+**Title Tag:** Broken Link Building — Earn Quality Backlinks | LocalCatalyst
+**Meta Description:** Turn dead links into live backlinks. Our broken link building service finds opportunities, creates assets, and earns high-authority placements.
+**H1:** Turning Dead Links Into Live Backlinks
 **Primary Keyword:** broken link building
 **Word Count Target:** 1,200
 
 ---
 
-> **Home > [Link Building Services](/link-building-services/) > Broken Link Building**
+> **Home > [Link Building Services](/managed/) > Broken Link Building**
 
 ## Turning Dead Links Into Live Backlinks
 
 Every day, websites go offline. Businesses close. Pages get deleted. URLs change without redirects. The result is millions of broken links scattered across the web — links that once pointed to useful content but now lead to 404 error pages. Broken link building turns this problem into an opportunity: you find the broken links, create better replacement content, and pitch the site owner on updating their dead link to point to your resource instead.
 
-This is one of the most effective and ethical strategies within our [link building services](/link-building-services/) because it solves a real problem for the site owner. Nobody wants broken links on their website. They degrade user experience, waste crawl budget, and signal poor maintenance to search engines. When you offer a replacement that is better than what the original link pointed to, you are doing the site owner a favor — and earning a backlink in the process.
+This is one of the most effective and ethical strategies within our [link building services](/managed/) because it solves a real problem for the site owner. Nobody wants broken links on their website. They degrade user experience, waste crawl budget, and signal poor maintenance to search engines. When you offer a replacement that is better than what the original link pointed to, you are doing the site owner a favor — and earning a backlink in the process.
 
 **[Order Your SEO Audit](/services/seo-audit/)** — We will audit your current backlink profile and identify broken link building opportunities in your industry and market.
 
@@ -48,7 +51,7 @@ This is where broken link building separates the amateurs from the strategists:
 - **Make the replacement genuinely useful** to the linking site's audience, not a thinly disguised sales page
 - **Match the format** — if the original was a guide, create a guide; if it was a tool, create a tool
 
-The content you create for broken link building also serves your [content strategy](/seo-content-strategy/) — these assets rank in their own right and continue attracting links long after the initial outreach campaign ends.
+The content you create for broken link building also serves your [content strategy](/services/content-pages/) — these assets rank in their own right and continue attracting links long after the initial outreach campaign ends.
 
 ### Step 3: Pitch the Site Owner
 
@@ -88,7 +91,7 @@ Local businesses have a distinct set of broken link opportunities that national 
 
 ### Local Community Pages With Dead Links
 
-Local chambers of commerce, community organizations, city government sites, and school district pages frequently contain broken outbound links. These organizations update their websites infrequently, and links to local businesses that have closed, moved, or changed URLs pile up. A local business that can offer a relevant replacement earns a link from a high-authority local domain — the most valuable type of backlink for [local link building](/link-building-services/local-link-building/).
+Local chambers of commerce, community organizations, city government sites, and school district pages frequently contain broken outbound links. These organizations update their websites infrequently, and links to local businesses that have closed, moved, or changed URLs pile up. A local business that can offer a relevant replacement earns a link from a high-authority local domain — the most valuable type of backlink for [local link building](/managed/local-link-building/).
 
 ### Defunct Local Business Links
 
@@ -98,7 +101,7 @@ When a local business closes, every site that linked to it now has a broken link
 
 State and regional organizations maintain resource pages that accumulate broken links over time. State contractor boards, regional healthcare directories, and area-specific business guides all contain dead links that local businesses can replace with their own high-quality content. These carry both the authority signal of an institutional link and the geographic relevance that strengthens local rankings.
 
-The geographic specificity of these opportunities means less competition for each placement compared to national broken link campaigns, where dozens of agencies may target the same opportunity simultaneously. This is one of the many advantages of an integrated approach that pairs broken link building with [resource page link building](/link-building-services/resource-link-building/) and [guest posting](/link-building-services/guest-posting/).
+The geographic specificity of these opportunities means less competition for each placement compared to national broken link campaigns, where dozens of agencies may target the same opportunity simultaneously. This is one of the many advantages of an integrated approach that pairs broken link building with [resource page link building](/managed/resource-link-building/) and [guest posting](/managed/guest-posting/).
 
 ---
 
@@ -118,7 +121,7 @@ Depending on the format and depth, 3-10 hours per asset. A comprehensive guide r
 
 ### Can broken link building work alongside other link building strategies?
 
-Absolutely — and it should. Broken link building is most powerful as one component of a diversified [link building strategy](/link-building-services/). The replacement content you create for broken link outreach also serves as linkable assets for resource page outreach, and the relationships you build with site owners during broken link campaigns can lead to [guest posting](/link-building-services/guest-posting/) and digital PR opportunities.
+Absolutely — and it should. Broken link building is most powerful as one component of a diversified [link building strategy](/managed/). The replacement content you create for broken link outreach also serves as linkable assets for resource page outreach, and the relationships you build with site owners during broken link campaigns can lead to [guest posting](/managed/guest-posting/) and digital PR opportunities.
 
 ---
 

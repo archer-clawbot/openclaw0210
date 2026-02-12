@@ -3,8 +3,8 @@
 **Deliverable:** Blog post (Hub 5 educational content)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/content-gap-analysis/
-**Parent Hub:** /seo-content-strategy/
+**URL:** /learn/content-gap-analysis/
+**Parent Hub:** /services/content-pages/
 **Primary Keyword:** content gap analysis
 **Secondary Keywords:** content gap analysis tools, competitor content analysis, keyword gap analysis, content opportunities, SEO content planning
 **Title Tag:** Content Gap Analysis: Find & Fill SEO Gaps | LocalCatalyst.ai
@@ -14,7 +14,7 @@
 
 ---
 
-Every website has blind spots. Pages you never thought to create, keywords your competitors rank for that you have never targeted, and search intents you are failing to address. A content gap analysis is the systematic process of finding those blind spots and turning them into opportunities, and it is one of the most valuable exercises within any [SEO content strategy](/seo-content-strategy/).
+Every website has blind spots. Pages you never thought to create, keywords your competitors rank for that you have never targeted, and search intents you are failing to address. A content gap analysis is the systematic process of finding those blind spots and turning them into opportunities, and it is one of the most valuable exercises within any [SEO content strategy](/services/content-pages/).
 
 This guide walks through the complete content gap analysis process, from competitor research to actionable content plans.
 
@@ -41,7 +41,7 @@ Keywords you technically rank for, but where your content does not match what th
 Without a structured gap analysis, content strategy becomes guesswork. You publish what feels right rather than what the data shows is needed. The consequences are predictable:
 
 - **Missed traffic opportunities.** Your competitors capture searches you could be winning.
-- **Incomplete topical authority.** Gaps in your coverage prevent Google from seeing you as a comprehensive resource on your subject. Building [topical authority](/blog/how-to-build-topical-authority/) requires covering a topic fully, and gap analysis shows you exactly where the holes are.
+- **Incomplete topical authority.** Gaps in your coverage prevent Google from seeing you as a comprehensive resource on your subject. Building [topical authority](/learn/how-to-build-topical-authority/) requires covering a topic fully, and gap analysis shows you exactly where the holes are.
 - **Wasted resources.** Without knowing where the gaps are, you risk creating content that duplicates what you already have instead of filling genuine needs.
 - **Poor conversion paths.** If potential customers cannot find content addressing their specific questions or concerns, they leave your site and find answers elsewhere.
 
@@ -164,7 +164,7 @@ Before publishing gap-filling content, plan how it will integrate into your exis
 - Be linked from at least 2 to 3 relevant existing pages
 - Fit within your hub-and-spoke structure if one exists for that topic
 
-This ensures new content contributes to your [cornerstone content strategy](/blog/cornerstone-content-strategy/) rather than existing as an isolated page.
+This ensures new content contributes to your [cornerstone content strategy](/learn/cornerstone-content-strategy/) rather than existing as an isolated page.
 
 ## When to Repeat the Analysis
 
@@ -175,7 +175,7 @@ Additionally, run a focused gap analysis whenever:
 - A competitor makes a major content push
 - You enter a new service area or market
 - Your rankings drop significantly for a topic cluster
-- You are planning a content refresh or [content pruning](/blog/content-pruning-seo/) initiative
+- You are planning a content refresh or [content pruning](/learn/content-pruning-seo/) initiative
 
 ## Frequently Asked Questions
 
@@ -199,6 +199,8 @@ Focus on gaps that sit at the intersection of high business relevance, high sear
 
 Most businesses are leaving significant organic traffic on the table simply because they have never systematically identified what is missing from their content. A thorough content gap analysis reveals those opportunities and provides a clear roadmap for capturing them.
 
-At LocalCatalyst.ai, our CATALYST Methodology includes competitive content gap analysis as a core component of every [content strategy](/seo-content-strategy/) engagement. We identify not just what you are missing, but exactly what to create, in what order, and how to structure it for maximum impact.
+---
 
-[Order Your SEO Audit](/services/seo-audit/) to see where your content gaps are costing you traffic and leads.
+**Ready to build content that ranks?** [Order SEO Content ($97/page)](/services/content-pages/)
+
+---

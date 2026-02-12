@@ -60,7 +60,7 @@ Visual ranking maps showing exactly where you rank for target keywords across ev
 When Google rolls out an update, you don't panic. We analyze the impact, identify what changed, and adjust strategy immediately. Our managed clients are insulated from the disruption that algorithm updates cause for unmanaged sites.
 
 ### Monthly Reporting
-Clear, actionable reports connecting SEO activity to business outcomes. Rankings, traffic, calls, form submissions, GBP actions, and revenue attribution where possible. No vanity metrics. No 40-page PDFs full of charts you won't read.
+Clear, actionable reports connecting SEO activity to business outcomes. Rankings, traffic, calls, form submissions, GBP actions, and revenue attribution where possible. Every report includes your Share of Local Voice (SoLV) — your percentage of total local search visibility — and Weighted Visibility Score (WVS), a composite metric that weights rankings by search volume and commercial intent. No vanity metrics. No 40-page PDFs full of charts you won't read.
 
 ### Dedicated Account Management
 A real person who knows your business, your market, and your goals. Monthly or bi-weekly strategy calls. Direct access when you need it. Not a ticket queue.
@@ -107,7 +107,7 @@ The call takes 30 minutes. You leave with a clear picture of where you stand and
 
 No commitment. No pressure. Just a data-driven conversation about your SEO.
 
-[Schedule a Call](/schedule/) | [Browse A La Carte Products](/services/)
+[Schedule a Call](#schedule) | [Browse A La Carte Products](/services/)
 
 ---
 
@@ -123,7 +123,7 @@ That is exactly what our [a la carte products](/services/) are designed for. Man
 Yes. On your strategy call, we will show you exactly what a monthly report looks like -- including geo-grid maps, ranking trends, and traffic analysis.
 
 **Do you work with agencies?**
-Yes. We offer white-label managed SEO for agencies that want to resell SEO services under their own brand. [Contact us](/contact/) to discuss agency partnerships.
+Yes. We offer white-label managed SEO for agencies that want to resell SEO services under their own brand. [Contact us](/managed/?ref=agency) to discuss agency partnerships.
 
 **How is this different from your a la carte products?**
 A la carte products are individual deliverables you order as needed. Managed SEO is an ongoing engagement where we own the entire strategy, execute across all channels, and report on results monthly. You get everything in the a la carte catalog, plus strategy, monitoring, and account management.

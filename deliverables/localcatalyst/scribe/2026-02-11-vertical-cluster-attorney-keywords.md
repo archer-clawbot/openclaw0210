@@ -16,7 +16,7 @@
 
 Every law firm competing for organic visibility faces the same fundamental question: which keywords actually translate into signed retainers? As part of our comprehensive [law firm SEO](/industries/law-firm-seo/) methodology, attorney keyword research demands a specialized approach that accounts for practice area economics, geographic competition, and the unique intent signals behind legal searches. Generic keyword tools miss the nuances that separate a high-converting legal query from a casual information seeker.
 
-At LocalCatalyst, our [local keyword research](/local-seo-services/local-keyword-research/) process for attorneys begins with the economic reality that makes organic search indispensable for law firms: cost-per-click rates that make paid search unsustainable as a primary acquisition channel.
+At LocalCatalyst, our [local keyword research](/services/local-keyword-research/) process for attorneys begins with the economic reality that makes organic search indispensable for law firms: cost-per-click rates that make paid search unsustainable as a primary acquisition channel.
 
 ## Why Attorney Keywords Carry the Highest CPCs in Local Search
 
@@ -85,7 +85,7 @@ For law firms, nearly every commercial keyword gains a geographic modifier. The 
 
 Effective attorney keyword research maps each practice area keyword against relevant geographic modifiers, then prioritizes based on search volume, competition, and the firm's actual service area.
 
-Google's local pack results add another dimension. Many attorney keywords trigger a local 3-pack above organic results, meaning keyword strategy must account for both traditional organic rankings and Google Business Profile optimization. Our [geo-grid tracking](/local-seo-services/) measures visibility across the entire service area, not just a single search location.
+Google's local pack results add another dimension. Many attorney keywords trigger a local 3-pack above organic results, meaning keyword strategy must account for both traditional organic rankings and Google Business Profile optimization. Our [geo-grid tracking](/services/) measures visibility across the entire service area, not just a single search location.
 
 ## Long-Tail Legal Queries and Question Keywords
 
@@ -162,4 +162,10 @@ No. Targeting keywords for practice areas a firm does not handle wastes resource
 
 Attorney keyword research is the foundation of every successful law firm SEO campaign. Without it, you are building content and optimizing pages based on assumptions rather than data. LocalCatalyst's CATALYST methodology begins with a thorough keyword audit that identifies your highest-value opportunities and maps them to a content strategy designed for measurable client acquisition.
 
-[Order an SEO Audit](/services/seo-audit/) to see exactly which attorney keywords represent the greatest ROI opportunity for your firm, or [contact our team](/contact/) to discuss a custom keyword strategy for your practice areas and market.
+---
+
+**Ready to discover your highest-value keyword opportunities?** [Get Your Law Firm SEO Audit ($297)](/services/seo-audit/)
+
+---
+
+**Ready to explore the full range of local SEO solutions?** [See All SEO Services](/services/)

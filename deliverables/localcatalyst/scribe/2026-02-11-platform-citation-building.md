@@ -115,12 +115,18 @@ Yes. GBP is one citation. Your local ranking is influenced by the consistency an
 
 ---
 
+## How We Compare
+
+Yext charges $499/year per location — and your listings disappear when you stop paying. BrightLocal runs $39-59/month for their citation management tools. Agencies charge $500-1,500/month and bundle citations into retainers. Our citations are manually submitted, permanently yours, and priced as a one-time deliverable from $197. No subscriptions. No recurring fees for work that's already done.
+
+---
+
 ## Pair With These Products
 
 - **[GBP Optimization](/services/gbp-optimization/)** — Your most visible citation deserves dedicated optimization, not just a listing.
 - **[SEO Audit](/services/seo-audit/)** — Find out exactly where your local SEO stands before investing in specific products.
-- **[Local Link Building](/services/link-building/)** — Citations build the foundation. Links build the authority.
+- **[Managed SEO](/managed/)** — Citations build the foundation. Managed SEO adds the link building, content, and ongoing strategy that builds authority on top.
 
 ---
 
-[Order Citation Building](/services/citation-building/order/) | [Browse All Products](/services/)
+[Order Citation Building](/free-audit/) | [Browse All Products](/services/)

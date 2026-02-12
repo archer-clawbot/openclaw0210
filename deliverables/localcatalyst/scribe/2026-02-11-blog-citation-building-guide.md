@@ -3,7 +3,10 @@
 **Deliverable:** Blog post content
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/citation-building-guide/
+**URL:** /learn/citation-building-guide/
+**Title Tag:** Citation Building Guide — Boost Local Rankings | LocalCatalyst
+**Meta Description:** Master citation building with our complete guide. Learn NAP consistency, top citation sources, audit process, and tools to dominate local search.
+**H1:** The Complete Citation Building Guide for Local Businesses
 **Primary Keyword:** citation building, local citations guide
 **Secondary Keywords:** NAP consistency, local business citations, citation sources, citation audit, structured citations, unstructured citations
 **Category:** local-seo
@@ -16,7 +19,7 @@ A local citation is any online mention of your business's Name, Address, and Pho
 
 For local search, citations serve two critical functions. First, they validate that your business exists at the location you claim. Second, they signal to Google that your business is established, legitimate, and relevant to a specific geographic area. According to research from BrightLocal, citations remain a consistent top-10 local ranking factor — and businesses with accurate, widespread citations outperform competitors with inconsistent or sparse listings.
 
-If you're building a [local SEO strategy](/services/local-seo/) from the ground up, citation building is foundational work that pays dividends for years.
+If you're building a [local SEO strategy](/services/) from the ground up, citation building is foundational work that pays dividends for years.
 
 ---
 
@@ -30,7 +33,7 @@ Structured citations appear on business directories and listing platforms where 
 
 Examples include:
 
-- **Google Business Profile** — The most important structured citation. Our [GBP Optimization service](/services/google-business-profile-optimization/) covers this in depth.
+- **Google Business Profile** — The most important structured citation. Our [GBP Optimization service](/services/gbp-optimization/) covers this in depth.
 - **Yelp** — High domain authority, strong consumer trust signal.
 - **Apple Maps** — Critical for iOS users and Siri-driven searches.
 - **Bing Places** — Often overlooked, but feeds data to Cortana and Microsoft Edge.
@@ -41,7 +44,7 @@ Examples include:
 
 Unstructured citations are mentions of your NAP in content that isn't formatted as a directory listing — blog posts, news articles, event pages, sponsorship mentions, and press releases. These are harder to build but carry strong relevance signals because they typically exist within contextual, editorial content.
 
-A local newspaper article mentioning your business name and address counts as an unstructured citation. So does a community event page listing your company as a sponsor. For strategies on earning these mentions, see our guide on [local link building strategies](/blog/local-link-building-strategies/).
+A local newspaper article mentioning your business name and address counts as an unstructured citation. So does a community event page listing your company as a sponsor. For strategies on earning these mentions, see our guide on [local link building strategies](/learn/local-link-building-strategies/).
 
 ---
 
@@ -118,7 +121,7 @@ Duplicate listings confuse both Google and consumers. Most platforms allow you t
 
 Maintain a spreadsheet tracking every citation source, login credentials, current NAP data, and last-verified date. Schedule quarterly audits to catch drift before it impacts rankings.
 
-This audit process is a core component of our [Local SEO service](/services/local-seo/) and the first phase of our CATALYST Methodology for every new client engagement.
+This audit process is a core component of our [Local SEO service](/services/) and the first phase of our CATALYST Methodology for every new client engagement.
 
 ---
 

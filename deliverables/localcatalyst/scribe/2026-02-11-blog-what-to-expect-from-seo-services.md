@@ -3,8 +3,8 @@
 **Deliverable:** Resource blog post
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/what-to-expect-from-seo-services/
-**Parent Hub:** /blog/
+**URL:** /learn/what-to-expect-from-seo-services/
+**Parent Hub:** /learn/
 **Primary Keyword:** what to expect from SEO services
 **Secondary Keywords:** SEO service deliverables, SEO timeline expectations, how long for SEO results, SEO reporting, what does an SEO agency do, monthly SEO services
 **Title Tag:** What to Expect from SEO Services | Timeline & Results
@@ -190,6 +190,6 @@ Expect to invest 1-2 hours per month reviewing reports, providing feedback on co
 
 Understanding what to expect is the first step. The second is getting a clear picture of where your business stands today and what specific opportunities exist in your market.
 
-Our [local SEO services](/services/local-seo/) are built on the transparency and communication standards outlined in this guide. Every engagement starts with a thorough audit and a documented strategy.
+Our [local SEO services](/services/) are built on the transparency and communication standards outlined in this guide. Every engagement starts with a thorough audit and a documented strategy.
 
 **[Order Your SEO Audit](/services/seo-audit/)** to see exactly where you stand and what realistic improvement looks like for your business.

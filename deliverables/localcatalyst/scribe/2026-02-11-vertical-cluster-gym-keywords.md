@@ -14,7 +14,7 @@
 
 ---
 
-The fitness industry generates massive local search volume, but most gym owners chase the wrong keywords. Broad terms like "gym near me" pit you against every planet-sized franchise within a 20-mile radius, while the specific, high-intent keywords that actually drive membership signups sit unclaimed. This guide is part of our [fitness and gym SEO](/industries/fitness-gym-seo/) hub and provides a structured keyword research framework for gyms, boutique studios, CrossFit boxes, and fitness centers of every size. For professional keyword research calibrated to your market, see our [local keyword research](/local-seo-services/local-keyword-research/) service.
+The fitness industry generates massive local search volume, but most gym owners chase the wrong keywords. Broad terms like "gym near me" pit you against every planet-sized franchise within a 20-mile radius, while the specific, high-intent keywords that actually drive membership signups sit unclaimed. This guide is part of our [fitness and gym SEO](/industries/fitness-gym-seo/) hub and provides a structured keyword research framework for gyms, boutique studios, CrossFit boxes, and fitness centers of every size. For professional keyword research calibrated to your market, see our [local keyword research](/services/local-keyword-research/) service.
 
 ## Why Keyword Strategy Is Different for Fitness Businesses
 

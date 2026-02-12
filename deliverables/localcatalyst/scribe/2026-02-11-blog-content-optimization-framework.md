@@ -3,7 +3,10 @@
 **Deliverable:** Blog post content
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/content-optimization-framework/
+**URL:** /learn/content-optimization-framework/
+**Title Tag:** Content Optimization Framework That Drives Growth | LocalCatalyst
+**Meta Description:** Drive organic growth with our proven content optimization framework. Intent mapping, topic clusters, semantic coverage, and E-E-A-T signals.
+**H1:** The Content Optimization Framework That Drives Real Organic Growth
 **Primary Keyword:** content optimization framework
 **Secondary Keywords:** content optimization for SEO, content optimization strategy, SEO content scoring, on-page content optimization, content refresh strategy, semantic SEO content
 
@@ -19,7 +22,7 @@ Content optimization is the process of improving a page's relevance, depth, and 
 
 Google's systems now evaluate topical coverage, entity relationships, experience signals, and engagement metrics. A page stuffed with a target keyword but missing the subtopics searchers expect will lose to a page that covers the full scope of the query, even if that competing page uses the exact-match keyword less frequently.
 
-The shift is structural: optimization is no longer about a single page element. It is about the entire content system, from the words on the page to the [internal linking architecture](/blog/internal-linking-strategy/) that supports it.
+The shift is structural: optimization is no longer about a single page element. It is about the entire content system, from the words on the page to the [internal linking architecture](/learn/internal-linking-strategy/) that supports it.
 
 ## The LocalCatalyst Content Optimization Framework
 
@@ -35,7 +38,7 @@ We audit the top ten SERP results for every target keyword and document the domi
 
 Individual pages do not rank in isolation. Google evaluates topical authority at the domain and subdirectory level. We group related keywords into clusters and map them to a hub-and-spoke content architecture.
 
-For example, a pillar page on [on-page optimization](/services/on-page-optimization/) connects to supporting posts on content optimization, [internal linking strategy](/blog/internal-linking-strategy/), [keyword research processes](/blog/keyword-research-process/), and meta tag best practices. Each supporting page links back to the pillar page and cross-links to siblings within the cluster.
+For example, a pillar page on [on-page optimization](/services/on-page-optimization/) connects to supporting posts on content optimization, [internal linking strategy](/learn/internal-linking-strategy/), [keyword research processes](/learn/keyword-research-process/), and meta tag best practices. Each supporting page links back to the pillar page and cross-links to siblings within the cluster.
 
 This structure signals comprehensive expertise to search engines and keeps users navigating deeper into the site instead of bouncing back to the SERP.
 
@@ -74,7 +77,7 @@ If you have pages already published that are not performing, run them through th
 
 Optimization without measurement is guesswork. We track four metrics for every optimized page:
 
-- **Keyword position movement** over 30, 60, and 90-day windows using rank tracking integrated with our [local SEO analytics](/services/local-seo/).
+- **Keyword position movement** over 30, 60, and 90-day windows using rank tracking integrated with our [local SEO analytics](/services/).
 - **Organic click-through rate (CTR)** from Google Search Console. A rising ranking with a flat CTR signals a title tag or meta description problem.
 - **Engagement depth** via scroll depth tracking and time-on-page metrics. Pages that lose readers before the midpoint need structural work.
 - **Conversion actions** tied to the page, whether that is a form submission, a phone call, or a click to a service page.
@@ -103,10 +106,14 @@ No. Content writing is the initial creation. Content optimization is the ongoing
 You can make meaningful improvements using free resources like Google Search Console, Google Trends, and manual SERP analysis. However, dedicated scoring tools like Clearscope and SurferSEO significantly accelerate the process and reduce guesswork.
 
 ### How long does it take to see results from content optimization?
-Most optimized pages show measurable ranking movement within 30 to 60 days. Significant position gains for competitive keywords typically materialize within 90 days, depending on the domain's overall authority and [technical SEO health](/services/technical-seo/).
+Most optimized pages show measurable ranking movement within 30 to 60 days. Significant position gains for competitive keywords typically materialize within 90 days, depending on the domain's overall authority and [technical SEO health](/services/seo-audit/technical-seo-audit/).
 
 ## Start Optimizing Strategically
 
 Content optimization is not a one-time project. It is a repeatable system that compounds over time. Every page you improve strengthens your topical authority, feeds your internal linking architecture, and captures search demand that your competitors are leaving on the table.
 
-If your content is underperforming and you want a data-driven framework applied to your entire site, [contact LocalCatalyst](/contact/) for a comprehensive content audit. We will identify your highest-impact optimization opportunities and build a prioritized action plan to capture them.
+---
+
+**Ready to build content that ranks?** [Order SEO Content ($97/page)](/services/content-pages/)
+
+---

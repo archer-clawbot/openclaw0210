@@ -3,8 +3,8 @@
 **Deliverable:** Hub blog post
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/link-building-mistakes/
-**Parent Hub:** /link-building-services/
+**URL:** /learn/link-building-mistakes/
+**Parent Hub:** /managed/
 **Primary Keyword:** link building mistakes to avoid
 **Secondary Keywords:** bad link building practices, link building errors, link penalties, common link building problems, link scheme risks
 **Title Tag:** Link Building Mistakes to Avoid in 2026
@@ -16,7 +16,7 @@
 
 ## Link Building Mistakes That Kill Rankings (And How to Avoid Them)
 
-Link building remains one of the most powerful ranking factors in SEO, but it is also one of the easiest to get wrong. The gap between effective link building and harmful link building is narrower than most businesses realize, and the consequences of crossing that line range from wasted budget to algorithmic penalties that take months to recover from. Any reputable provider of [link building services](/link-building-services/) will steer you away from these pitfalls, but understanding them yourself is your best defense.
+Link building remains one of the most powerful ranking factors in SEO, but it is also one of the easiest to get wrong. The gap between effective link building and harmful link building is narrower than most businesses realize, and the consequences of crossing that line range from wasted budget to algorithmic penalties that take months to recover from. Any reputable provider of [link building services](/managed/) will steer you away from these pitfalls, but understanding them yourself is your best defense.
 
 This guide documents the most damaging link building mistakes businesses make, explains why each one is harmful, and provides the corrective action for each.
 
@@ -52,7 +52,7 @@ Using exact-match keyword anchor text on every link is a pattern Google's Pengui
 
 Over-optimized anchor text triggers algorithmic filtering that suppresses rankings for the very keywords you are targeting. The irony is sharp: the more aggressively you optimize anchors for a keyword, the less likely that keyword is to rank.
 
-Recovery requires building enough new links with varied, natural anchors to dilute the over-optimized ratio. This takes months and significant effort. Learning proper [anchor text optimization](/blog/anchor-text-optimization/) before building links prevents this problem entirely.
+Recovery requires building enough new links with varied, natural anchors to dilute the over-optimized ratio. This takes months and significant effort. Learning proper [anchor text optimization](/learn/anchor-text-optimization/) before building links prevents this problem entirely.
 
 ### What to Do Instead
 
@@ -111,7 +111,7 @@ Audit your backlink profile quarterly. Identify broken links and take action:
 - **If the linking page was removed:** Reach out to the site owner and request they update the link or replace it.
 - **If the linking domain expired:** Note the loss and plan replacement link acquisition.
 
-A regular [SEO audit](/seo-audit-services/) catches these issues before they compound into significant ranking impact.
+A regular [SEO audit](/services/seo-audit/) catches these issues before they compound into significant ranking impact.
 
 ---
 
@@ -177,7 +177,7 @@ Set realistic timelines. Most link building campaigns show measurable ranking mo
 
 ### How do I know if my previous link building caused a penalty?
 
-Check Google Search Console for manual action notifications under the "Security & Manual Actions" section. For algorithmic suppression, look for sudden ranking drops that correlate with known Google algorithm updates, or a pattern where rankings are consistently lower than your content quality and on-page optimization would suggest. A professional [competitor backlink analysis](/blog/competitor-backlink-analysis/) can reveal whether your link profile is underperforming relative to your market.
+Check Google Search Console for manual action notifications under the "Security & Manual Actions" section. For algorithmic suppression, look for sudden ranking drops that correlate with known Google algorithm updates, or a pattern where rankings are consistently lower than your content quality and on-page optimization would suggest. A professional [competitor backlink analysis](/learn/competitor-backlink-analysis/) can reveal whether your link profile is underperforming relative to your market.
 
 ### Can I recover from a link building penalty?
 
@@ -189,7 +189,7 @@ No. Backlinks remain one of Google's top ranking factors. The solution is not to
 
 ### How much should link building cost?
 
-Legitimate link building costs vary widely based on approach and market competitiveness. Expect to invest $500-$3,000 per month for a quality local link building campaign. If a provider offers hundreds of links for under $100, the links are almost certainly low-quality or harmful. The cost reflects the genuine effort required to earn placements on real websites with real audiences.
+Legitimate link building costs vary widely based on approach and market competitiveness. If a provider offers hundreds of links for under $100, the links are almost certainly low-quality or harmful. The cost reflects the genuine effort required to earn placements on real websites with real audiences. For ongoing link building, [explore our managed plans](/managed/).
 
 ---
 

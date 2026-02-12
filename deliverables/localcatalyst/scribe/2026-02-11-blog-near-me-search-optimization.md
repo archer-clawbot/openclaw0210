@@ -3,8 +3,8 @@
 **Deliverable:** Blog post (Hub 1 educational content)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/near-me-search-optimization/
-**Parent Hub:** /local-seo-services/
+**URL:** /learn/near-me-search-optimization/
+**Parent Hub:** /services/
 **Primary Keyword:** near me search optimization
 **Secondary Keywords:** near me SEO, how to rank for near me searches, near me keywords, near me search ranking, optimize for near me queries
 **Title Tag:** Near Me Search Optimization: How to Rank | LocalCatalyst.ai
@@ -14,7 +14,7 @@
 
 ---
 
-"Near me" has become one of the most common search modifiers in the English language. "Restaurants near me," "plumber near me," "dentist near me" — these queries represent high-intent customers actively looking for a local business right now. Google reports that "near me" searches have grown more than 500% in recent years, and they continue to climb. For any business that serves a local market, understanding how these searches work and how to optimize for them is a critical component of your [local SEO services](/local-seo-services/) strategy.
+"Near me" has become one of the most common search modifiers in the English language. "Restaurants near me," "plumber near me," "dentist near me" — these queries represent high-intent customers actively looking for a local business right now. Google reports that "near me" searches have grown more than 500% in recent years, and they continue to climb. For any business that serves a local market, understanding how these searches work and how to optimize for them is a critical component of your [local SEO services](/services/) strategy.
 
 This guide explains the mechanics behind "near me" search results, the factors that determine which businesses appear, and the specific actions you can take to improve your visibility for these high-value queries.
 
@@ -71,7 +71,7 @@ While you cannot change your physical location, understanding proximity's domina
 Google must determine that your business is relevant to the type of business or service the user searched for. Key relevance signals include:
 
 - **GBP primary and secondary categories**: If someone searches "Italian restaurant near me" and your primary category is "Italian Restaurant," you have a direct relevance match. Poor category selection is one of the most common and most fixable local SEO errors.
-- **Business description and services**: Your [Google Business Profile](/google-business-profile-optimization/) description and services section help Google understand the full range of what you offer.
+- **Business description and services**: Your [Google Business Profile](/services/gbp-optimization/) description and services section help Google understand the full range of what you offer.
 - **Website content**: Service pages, your homepage, and location pages that clearly describe what you do reinforce relevance signals.
 
 ### 3. Prominence (Authority and Reputation)
@@ -108,7 +108,7 @@ Reviews influence both your ranking and your click-through rate when you do appe
 - Generate reviews consistently — velocity matters as much as volume
 - Diversify across platforms, but prioritize Google reviews
 
-Comprehensive review strategy falls under [reputation management](/reputation-management/) — a pillar of effective local SEO.
+Comprehensive review strategy is a pillar of effective local SEO.
 
 ### 3. Ensure Citation Accuracy and Consistency
 
@@ -120,7 +120,7 @@ Inconsistent NAP (name, address, phone number) information across the web confus
 - Submit to major data aggregators to propagate accurate information
 - Monitor for drift over time (directories sometimes revert to old data)
 
-Our [citation building services](/citation-building-services/) cover systematic citation management.
+Our [citation building services](/services/citation-building/) cover systematic citation management.
 
 ### 4. Optimize Your Website for Local Relevance
 
@@ -145,7 +145,7 @@ The vast majority of "near me" searches happen on mobile devices. A poor mobile 
 - Fix any Core Web Vitals issues flagged in Google Search Console
 - Eliminate intrusive interstitials (pop-ups) on mobile
 
-These mobile performance factors are a core part of [technical SEO](/technical-seo/).
+These mobile performance factors are a core part of [technical SEO](/services/seo-audit/technical-seo-audit/).
 
 ### 6. Do Not Stuff "Near Me" Into Your Content
 
@@ -186,6 +186,6 @@ Yes. Mobile "near me" searches use the device's GPS for highly precise location 
 
 ## Capture More "Near Me" Traffic
 
-"Near me" searches represent customers who are ready to act — right now, near you. Maximizing your visibility for these searches requires a coordinated approach across your GBP, reviews, citations, website, and mobile experience. Our free audit identifies exactly where your "near me" visibility is strong and where you are losing customers to competitors.
+"Near me" searches represent customers who are ready to act — right now, near you. Maximizing your visibility for these searches requires a coordinated approach across your GBP, reviews, citations, website, and mobile experience. Our [SEO Audit](/services/seo-audit/) identifies exactly where your "near me" visibility is strong and where you are losing customers to competitors.
 
 [Order Your SEO Audit](/services/seo-audit/) and see your "near me" ranking on a geo-grid map of your service area.

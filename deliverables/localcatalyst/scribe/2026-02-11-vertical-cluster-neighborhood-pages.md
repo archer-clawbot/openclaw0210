@@ -14,13 +14,13 @@
 
 ---
 
-*Breadcrumbs: [Home](/) > [Industries](/industries/) > [Real Estate SEO](/industries/real-estate-seo/) > Neighborhood Page SEO*
+*Breadcrumbs: [Home](/) > [Industries](/services/) > [Real Estate SEO](/industries/real-estate-seo/) > Neighborhood Page SEO*
 
 ## Neighborhood Page SEO: How Realtors Outrank Zillow at the Community Level
 
 Neighborhood pages are the most strategically important content on a real estate agent's website. They are also the pages where local agents hold the greatest competitive advantage over national portals — and the pages most agents execute poorly. As we explain in our [real estate SEO pillar guide](/industries/real-estate-seo/), the path to organic lead generation for agents is not about competing with Zillow for city-level terms. It is about owning the neighborhood-level searches that portals serve with auto-generated data and that other agents either ignore or fill with thin content.
 
-A well-built neighborhood page does three things simultaneously: it ranks for dozens of buyer and seller keyword variations tied to that community, it demonstrates genuine local expertise that builds trust before the first phone call, and it serves as the entry point to your broader content ecosystem. When executed within a strategic site architecture, a library of 20-40 neighborhood pages creates a topical authority signal that elevates your entire website's rankings across all real estate terms in your market. Our [location page content services](/seo-content-strategy/location-page-content/) apply this methodology to build neighborhood page libraries that generate leads at scale.
+A well-built neighborhood page does three things simultaneously: it ranks for dozens of buyer and seller keyword variations tied to that community, it demonstrates genuine local expertise that builds trust before the first phone call, and it serves as the entry point to your broader content ecosystem. When executed within a strategic site architecture, a library of 20-40 neighborhood pages creates a topical authority signal that elevates your entire website's rankings across all real estate terms in your market. Our [location page content services](/services/content-pages/location-page-content/) apply this methodology to build neighborhood page libraries that generate leads at scale.
 
 ## What Makes a Neighborhood Page Rank
 

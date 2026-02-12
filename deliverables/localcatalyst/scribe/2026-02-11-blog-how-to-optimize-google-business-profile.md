@@ -4,7 +4,7 @@
 **Date:** 2026-02-11  
 **Agent:** Scribe  
 **Category:** Local SEO  
-**URL:** /blog/how-to-optimize-google-business-profile/
+**URL:** /learn/how-to-optimize-google-business-profile/
 
 ---
 
@@ -393,22 +393,22 @@ Use this checklist to make sure you've optimized everything:
 
 GBP optimization is time-consuming and technical. If you'd rather have experts handle it, LocalCatalyst specializes in Google Business Profile optimization for local businesses.
 
-[Get a free GBP audit →](/contact/)
+[Get a GBP audit →](/services/gbp-optimization/)
 
 ---
 
 ## Internal Linking Strategy
 
 **Link to from GBP Optimization blog post:**
-- /services/google-business-profile-optimization/ (anchor: "GBP optimization service")
-- /blog/google-reviews-generation-strategy/ (anchor: "how to get more Google reviews")
-- /blog/gbp-posts-templates/ (anchor: "GBP post templates")
-- /blog/map-pack-ranking-guide/ (anchor: "how to rank in the Map Pack")
-- /contact/ (CTA)
+- /services/gbp-optimization/ (anchor: "GBP optimization service")
+- /learn/google-reviews-generation-strategy/ (anchor: "how to get more Google reviews")
+- /learn/gbp-posts-templates/ (anchor: "GBP post templates")
+- /learn/map-pack-ranking-guide/ (anchor: "how to rank in the Map Pack")
+- /services/gbp-optimization/ (CTA)
 
 **Link to GBP Optimization blog post from:**
 - Homepage blog section
-- /services/google-business-profile-optimization/
+- /services/gbp-optimization/
 - Other blog posts about local SEO
 
 ---

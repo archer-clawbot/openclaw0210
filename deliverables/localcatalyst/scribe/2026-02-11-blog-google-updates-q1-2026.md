@@ -3,8 +3,8 @@
 **Deliverable:** Hub blog post
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/google-updates-q1-2026/
-**Parent Hub:** /local-seo-services/
+**URL:** /learn/google-updates-q1-2026/
+**Parent Hub:** /services/
 **Primary Keyword:** Google update Q1 2026 recap
 **Secondary Keywords:** Google algorithm update 2026, Google search update January 2026, Google core update Q1 2026, local SEO algorithm changes 2026
 **Title Tag:** Google Updates Q1 2026: What Changed for Local SEO
@@ -14,7 +14,7 @@
 
 ---
 
-Google's algorithm updates in Q1 2026 have produced measurable shifts across local search results. For businesses that depend on [local SEO](/local-seo-services/) for customer acquisition, understanding these changes is not academic -- it directly informs where to invest time and resources.
+Google's algorithm updates in Q1 2026 have produced measurable shifts across local search results. For businesses that depend on [local SEO](/services/) for customer acquisition, understanding these changes is not academic -- it directly informs where to invest time and resources.
 
 This article covers the confirmed and observed updates from January and February 2026, their documented impact on local search rankings, and the strategic adjustments local businesses should consider in response.
 
@@ -63,7 +63,7 @@ This creates a feedback loop: businesses that generate strong engagement from th
 ### What to Do
 
 1. **Complete every field in your Google Business Profile.** Leave nothing blank. Use every available feature, including those that are newer or industry-specific.
-2. **Add recent photos.** Upload fresh photos monthly. Google timestamps photos, and recent visual content is a signal of an active, current business. Our guide on [Google Business Profile optimization](/google-business-profile-management/) covers photo strategy in detail.
+2. **Add recent photos.** Upload fresh photos monthly. Google timestamps photos, and recent visual content is a signal of an active, current business. Our guide on [Google Business Profile optimization](/services/gbp-optimization/) covers photo strategy in detail.
 3. **Optimize for GBP engagement.** Write a compelling business description, use all available attributes, maintain current hours, and ensure your contact information is accurate. Every GBP interaction counts as a ranking signal.
 
 ## Spam and Review Manipulation Enforcement
@@ -86,7 +86,7 @@ The removals affected businesses that had:
 
 1. **If you have purchased or incentivized reviews in the past,** stop immediately and prepare for potential review removal. Build legitimate review generation processes to replace lost reviews.
 2. **Report fake competitors.** If you compete against businesses with fake listings or keyword-stuffed names, use the GBP reporting tools to flag them. Google's enforcement is more responsive in 2026 than in previous years.
-3. **Maintain your [reputation management](/reputation-management-services/) practices.** Legitimate review generation through genuine customer requests is the only sustainable approach.
+3. **Maintain your reputation management practices.** Legitimate review generation through genuine customer requests is the only sustainable approach.
 
 ## Looking Ahead: What to Expect in Q2 2026
 
@@ -120,4 +120,6 @@ Google releases updates continuously, but confirmed named updates (core updates,
 
 ---
 
-**Wondering how the latest Google updates have affected your local rankings?** [Order an SEO Audit](/services/seo-audit/) for a complete analysis of your current position, including the impact of recent algorithm changes. Or [contact our team](/contact/) to discuss how to adapt your local SEO strategy to the latest search landscape.
+**Ready to adapt your strategy to the latest algorithm changes?** [Browse Our Services](/services/)
+
+---

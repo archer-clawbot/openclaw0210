@@ -3,8 +3,8 @@
 **Deliverable:** Service sub-page (cluster)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /on-page-seo-services/image-optimization/
-**Parent Hub:** /on-page-seo-services/
+**URL:** /services/content-pages/image-optimization/
+**Parent Hub:** /services/content-pages/
 **Primary Keyword:** image SEO optimization
 **Secondary Keywords:** image optimization for SEO, alt text SEO, image compression, WebP optimization, image search traffic, local image SEO
 **Title Tag:** Image SEO Optimization — Alt Text, Compression & More | LocalCatalyst.ai
@@ -14,11 +14,11 @@
 
 ---
 
-*Breadcrumbs: [Home](/) > [On-Page SEO Services](/on-page-seo-services/) > Image Optimization*
+*Breadcrumbs: [Home](/) > [On-Page SEO Services](/services/on-page-optimization/) > Image Optimization*
 
 ## Image SEO Optimization: Speed, Accessibility, and a Hidden Traffic Channel
 
-Images are typically the heaviest elements on a web page. Unoptimized images are the single most common cause of slow page load times, failed [Core Web Vitals assessments](/technical-seo-services/core-web-vitals/), and poor mobile experiences. They are also an untapped traffic source — Google Images accounts for over 20% of all web searches, and visual search is growing rapidly as Google Lens and similar tools become mainstream. Our [on-page SEO services](/on-page-seo-services/) include systematic image optimization because the performance and visibility gains are too significant to leave on the table.
+Images are typically the heaviest elements on a web page. Unoptimized images are the single most common cause of slow page load times, failed [Core Web Vitals assessments](/services/seo-audit/core-web-vitals/), and poor mobile experiences. They are also an untapped traffic source — Google Images accounts for over 20% of all web searches, and visual search is growing rapidly as Google Lens and similar tools become mainstream. Our [on-page SEO services](/services/on-page-optimization/) include systematic image optimization because the performance and visibility gains are too significant to leave on the table.
 
 Most local businesses treat images as decorative elements: upload a photo, maybe resize it, and move on. That approach ignores every optimization opportunity images present — from the alt text that makes your content accessible and keyword-relevant, to the file format choices that determine whether your page loads in 2 seconds or 8, to the metadata that connects your images to local search queries.
 
@@ -137,7 +137,7 @@ Image sitemap entries can include:
 - Title
 - License information
 
-For local businesses with photo galleries, portfolio pages, or product catalogs, image sitemaps can significantly increase the number of images indexed in Google Images. This is especially relevant for businesses where visual content drives customer decisions — contractors, restaurants, medical practices, and retail stores. Your [XML sitemap](/technical-seo-services/crawlability-indexation/) should include image references for all key pages.
+For local businesses with photo galleries, portfolio pages, or product catalogs, image sitemaps can significantly increase the number of images indexed in Google Images. This is especially relevant for businesses where visual content drives customer decisions — contractors, restaurants, medical practices, and retail stores. Your [XML sitemap](/services/seo-audit/crawlability-indexation/) should include image references for all key pages.
 
 ## Decorative vs. Informational Images
 
@@ -176,11 +176,11 @@ Include recognizable local elements in photographs when possible:
 - Service area photos that demonstrate your presence in specific communities
 - Project photos with identifiable local architecture or landscape features
 
-These visual cues reinforce local relevance for both users and search engines, complementing your [local keyword strategy](/local-seo-services/local-keyword-research/) at the visual level.
+These visual cues reinforce local relevance for both users and search engines, complementing your [local keyword strategy](/services/local-keyword-research/) at the visual level.
 
 ### Google Business Profile Photos
 
-Image optimization extends beyond your website to your [GBP photos and videos](/google-business-profile-management/gbp-photos-videos/). GBP photos influence Map Pack rankings, customer engagement, and conversion rates. Apply the same optimization principles — descriptive file names, appropriate compression, original photography — to every image you upload to your Google Business Profile.
+Image optimization extends beyond your website to your [GBP photos and videos](/services/gbp-optimization/gbp-photos-videos/). GBP photos influence Map Pack rankings, customer engagement, and conversion rates. Apply the same optimization principles — descriptive file names, appropriate compression, original photography — to every image you upload to your Google Business Profile.
 
 ## FAQ
 
@@ -194,7 +194,7 @@ Yes. Images typically account for 50-80% of a page's total file size. Compressin
 
 ### Should I use a CDN for images?
 
-For most local business websites, a CDN provides meaningful speed improvements for image delivery. CDNs serve images from geographically distributed servers, reducing latency. Many CDNs also offer automatic image optimization — resizing, format conversion, and compression on the fly — which simplifies ongoing image management. As part of [site speed optimization](/technical-seo-services/site-speed-optimization/), we evaluate CDN implementation for every client.
+For most local business websites, a CDN provides meaningful speed improvements for image delivery. CDNs serve images from geographically distributed servers, reducing latency. Many CDNs also offer automatic image optimization — resizing, format conversion, and compression on the fly — which simplifies ongoing image management. As part of [site speed optimization](/services/seo-audit/site-speed-optimization/), we evaluate CDN implementation for every client.
 
 ### What about AI-generated images?
 

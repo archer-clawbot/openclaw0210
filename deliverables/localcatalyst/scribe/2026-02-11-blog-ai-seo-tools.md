@@ -3,8 +3,8 @@
 **Deliverable:** Thought leadership blog post
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/ai-seo-tools/
-**Parent Hub:** /blog/
+**URL:** /learn/ai-seo-tools/
+**Parent Hub:** /learn/
 **Primary Keyword:** AI SEO tools
 **Secondary Keywords:** AI content tools, AI audit tools, AI keyword research tools, AI rank tracking, AI SEO reporting, AI link building tools
 **Title Tag:** AI SEO Tools: A Practitioner's Guide (2026)
@@ -122,7 +122,7 @@ AI tools for link building primarily help with prospect identification and outre
 
 The mistake most businesses and agencies make is evaluating AI SEO tools individually rather than as a system. A great content tool paired with a weak audit tool and no reporting integration produces fragmented results.
 
-Start with your workflow, not with tools. Map out your [SEO process](/services/local-seo/) from audit through execution and reporting, identify where the bottlenecks are, and evaluate tools against those specific bottlenecks. A tool that saves you 10 hours per month on content briefs is more valuable than a tool that shaves 30 minutes off rank checking if content briefs are your actual bottleneck.
+Start with your workflow, not with tools. Map out your [SEO process](/services/) from audit through execution and reporting, identify where the bottlenecks are, and evaluate tools against those specific bottlenecks. A tool that saves you 10 hours per month on content briefs is more valuable than a tool that shaves 30 minutes off rank checking if content briefs are your actual bottleneck.
 
 And be honest about the human layer. Every AI tool category described above has a "where the limitations are real" section because every category requires human judgment to produce real results. The tools that overpromise full automation are the ones most likely to underdeliver.
 
@@ -148,4 +148,6 @@ Ask what specific AI model or technique powers the feature. Legitimate AI tools 
 
 ---
 
-**Want to skip the tool evaluation process entirely?** [Talk to our team](/contact/) about a managed local SEO service where we bring the tools, the agents, and the strategy. You focus on running your business while we focus on making it visible.
+**Ready to put the right tools and strategy to work?** [Browse Our Services](/services/)
+
+---

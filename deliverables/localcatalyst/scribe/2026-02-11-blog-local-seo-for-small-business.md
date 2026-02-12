@@ -3,8 +3,8 @@
 **Deliverable:** Blog post (Hub 1 educational content)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/local-seo-for-small-business/
-**Parent Hub:** /local-seo-services/
+**URL:** /learn/local-seo-for-small-business/
+**Parent Hub:** /services/
 **Primary Keyword:** local SEO for small business
 **Secondary Keywords:** small business local SEO, local SEO tips for small businesses, local SEO on a budget, small business Google ranking, local search for small business
 **Title Tag:** Local SEO for Small Business: A Practical Guide | LocalCatalyst.ai
@@ -14,7 +14,7 @@
 
 ---
 
-Small businesses face a unique challenge with local SEO. You know it matters — when someone searches "plumber near me" or "best coffee shop in [your city]," you want to appear. But you are also working with a limited budget, limited time, and possibly limited technical knowledge. The good news: effective [local SEO services](/local-seo-services/) do not require enterprise-level budgets. The fundamentals that drive local rankings are accessible to every business willing to invest consistent effort.
+Small businesses face a unique challenge with local SEO. You know it matters — when someone searches "plumber near me" or "best coffee shop in [your city]," you want to appear. But you are also working with a limited budget, limited time, and possibly limited technical knowledge. The good news: effective [local SEO services](/services/) do not require enterprise-level budgets. The fundamentals that drive local rankings are accessible to every business willing to invest consistent effort.
 
 This guide is built specifically for small business owners. It covers what to prioritize first, where to spend (and not spend) your budget, the DIY vs. agency decision, and the common mistakes that quietly cost small businesses their local visibility.
 
@@ -57,7 +57,7 @@ Your Google Business Profile is the most important asset in local SEO, and optim
 
 This single asset influences roughly 32% of local pack ranking factors. No other element comes close to that ratio of effort-to-impact.
 
-For a detailed optimization walkthrough, see our guide to [Google Business Profile optimization](/google-business-profile-optimization/).
+For a detailed optimization walkthrough, see our guide to [Google Business Profile optimization](/services/gbp-optimization/).
 
 ### Priority 2: Reviews (Impact: Very High)
 
@@ -73,8 +73,6 @@ Reviews are simultaneously a ranking factor, a trust factor, and a conversion fa
 
 The math is compelling. If your competitors have 80 reviews and you have 15, that gap suppresses your local pack visibility. Close the gap and maintain momentum, and reviews become one of your strongest assets.
 
-Learn more about building a systematic approach through our [reputation management services](/reputation-management/).
-
 ### Priority 3: Citations (Impact: Moderate-High)
 
 Citations — your business name, address, and phone number listed across online directories — validate your business's existence and location to Google. Inconsistent citations (old phone numbers, wrong addresses, misspelled names) actively harm your rankings.
@@ -89,7 +87,7 @@ Citations — your business name, address, and phone number listed across online
 
 The critical rule: your NAP must be identical everywhere. "123 Main Street" and "123 Main St." are different in Google's eyes. Match your GBP exactly across every listing.
 
-Read our complete guide to [citation building](/citation-building-services/) for the full directory list.
+Read our complete guide to [citation building](/services/citation-building/) for the full directory list.
 
 ### Priority 4: Website Fundamentals (Impact: Moderate)
 
@@ -105,7 +103,7 @@ You do not need a $20,000 website to rank locally. You need a website that clear
 - SSL certificate (HTTPS, not HTTP)
 - Page load time under 3 seconds
 
-If your website is severely outdated, not mobile-friendly, or has significant technical issues, consider our [web design services](/web-design/) to get a solid foundation in place.
+If your website is severely outdated, not mobile-friendly, or has significant technical issues, consider our [web design services](/services/website-build/) to get a solid foundation in place.
 
 ### Priority 5: Content (Impact: Moderate, Long-Term)
 
@@ -121,7 +119,7 @@ Content is where organic SEO and local SEO intersect. Blog posts, guides, and re
 
 A small business blog with 30 high-quality, locally relevant posts outperforms a competitor blog with 200 thin, generic articles.
 
-Explore how to build this systematically through our [content strategy services](/content-strategy/).
+Explore how to build this systematically through our [content strategy services](/services/content-pages/).
 
 ## DIY vs. Agency: The Honest Trade-Off
 
@@ -181,7 +179,7 @@ A small business with one location cannot realistically rank across an entire me
 
 ### 7. Stopping Too Soon
 
-Local SEO compounds over time. Businesses that invest for 3-4 months, see modest improvements, and then stop are abandoning their investment right before it matures. The businesses that dominate local search are the ones that maintained consistent effort for 12+ months. Read our analysis of [how long local SEO takes](/blog/how-long-does-local-seo-take/) for realistic timelines.
+Local SEO compounds over time. Businesses that invest for 3-4 months, see modest improvements, and then stop are abandoning their investment right before it matures. The businesses that dominate local search are the ones that maintained consistent effort for 12+ months. Read our analysis of [how long local SEO takes](/learn/how-long-does-local-seo-take/) for realistic timelines.
 
 ## Budget Allocation for Small Businesses
 
@@ -211,6 +209,6 @@ Choose a provider with specific local SEO expertise and a demonstrated understan
 
 ## Your Next Step
 
-Every effective local SEO strategy starts with understanding where you are today. What is your Google Business Profile score? How consistent are your citations? Where do you rank on the geo-grid compared to your competitors? Our free audit answers all of these questions and provides a prioritized action plan built for your specific market and budget.
+Every effective local SEO strategy starts with understanding where you are today. What is your Google Business Profile score? How consistent are your citations? Where do you rank on the geo-grid compared to your competitors? Our [SEO Audit](/services/seo-audit/) answers all of these questions and provides a prioritized action plan built for your specific market and budget.
 
 [Order Your SEO Audit](/services/seo-audit/) and see exactly where your small business stands in local search.

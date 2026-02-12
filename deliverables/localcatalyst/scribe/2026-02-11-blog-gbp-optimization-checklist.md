@@ -3,7 +3,10 @@
 **Deliverable:** Blog post content
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/gbp-optimization-checklist/
+**URL:** /learn/gbp-optimization-checklist/
+**Title Tag:** GBP Optimization Checklist — Complete 2026 Guide | LocalCatalyst
+**Meta Description:** Complete Google Business Profile optimization checklist for 2026. Photos, reviews, posts, Q&A, and insights strategies to dominate local pack rankings.
+**H1:** The Complete Google Business Profile Optimization Checklist for 2026
 **Primary Keyword:** GBP optimization checklist
 **Secondary Keywords:** Google Business Profile checklist, GBP optimization, Google Business Profile optimization, local pack ranking, GBP best practices
 **Category:** google-business-profile
@@ -32,7 +35,7 @@ Google has explicitly stated that profile completeness influences local ranking.
 
 **Phone number:** Use a local phone number (not toll-free) as your primary number. Local numbers reinforce geographic relevance. Ensure this number matches your website and all directory citations. Call tracking numbers can be used but must be implemented carefully to avoid NAP inconsistencies.
 
-**Website URL:** Link to your homepage or a dedicated landing page optimized for [local SEO](/services/local-seo/). If you serve multiple locations, each GBP listing should link to its corresponding location page, not your generic homepage.
+**Website URL:** Link to your homepage or a dedicated landing page optimized for [local SEO](/services/). If you serve multiple locations, each GBP listing should link to its corresponding location page, not your generic homepage.
 
 **Business hours:** Set accurate regular hours, special hours for holidays, and "more hours" for specific services (like "delivery hours" or "drive-through hours"). Inaccurate hours are the number one cause of negative reviews related to GBP listings.
 
@@ -76,7 +79,7 @@ The Q&A section appears on your GBP and is publicly editable — anyone can ask 
 
 **Upvote your official answers.** Google displays the most-upvoted answer first. Have team members upvote your official answers to ensure they stay at the top.
 
-Consider aligning your Q&A with your website's FAQ content. Well-structured FAQ content with [schema markup](/blog/schema-markup-guide/) on your site complements your GBP Q&A and can capture featured snippet positions in organic search.
+Consider aligning your Q&A with your website's FAQ content. Well-structured FAQ content with [schema markup](/learn/schema-markup-guide/) on your site complements your GBP Q&A and can capture featured snippet positions in organic search.
 
 ## Google Posts Strategy
 
@@ -123,7 +126,7 @@ These features add structured information to your profile that directly influenc
 
 GBP Insights provides data on how customers find and interact with your profile. Monitor these metrics monthly:
 
-**Search queries:** The actual terms people use to find your profile. Use these to refine your [local SEO](/services/local-seo/) keyword strategy and identify new content opportunities.
+**Search queries:** The actual terms people use to find your profile. Use these to refine your [local SEO](/services/) keyword strategy and identify new content opportunities.
 
 **Profile views:** Track views over time. Dips may indicate increased competition, algorithm changes, or profile issues.
 
@@ -139,16 +142,22 @@ For advanced performance tracking, supplement GBP Insights with geo-grid trackin
 At minimum, review and update your GBP monthly. Post at least weekly, add new photos 2-3 times per month, respond to reviews within 48 hours, and check Q&A weekly. Update business hours, services, and descriptions whenever anything changes. Google rewards active, current profiles with higher local pack visibility.
 
 ### Can I optimize multiple GBP listings for different locations?
-Yes, but each listing must represent a distinct physical location or a distinct service-area configuration. Each location needs a unique phone number, unique landing page on your website, and unique content in its description and posts. Duplicate listings or listings for locations you do not physically occupy risk suspension. For multi-location management, see our [GBP optimization service](/services/google-business-profile-optimization/).
+Yes, but each listing must represent a distinct physical location or a distinct service-area configuration. Each location needs a unique phone number, unique landing page on your website, and unique content in its description and posts. Duplicate listings or listings for locations you do not physically occupy risk suspension. For multi-location management, see our [GBP optimization service](/services/gbp-optimization/).
 
 ### What are the most common reasons for GBP suspension?
 Keyword-stuffed business names, address violations (using virtual offices or PO boxes for brick-and-mortar categories), multiple listings for the same location, and review policy violations are the top suspension triggers. Reinstatement can take weeks and requires documentation proving compliance. Always follow Google's Business Profile guidelines exactly.
 
 ### How long does it take to see results from GBP optimization?
-Initial improvements in profile views and customer actions typically appear within 2-4 weeks. Local pack ranking improvements may take 4-8 weeks depending on competition level and the extent of optimization implemented. Consistent posting, review generation, and photo uploads create compounding improvements over 3-6 months. Pair your GBP optimization with [technical SEO](/services/technical-seo/) improvements on your website for the strongest combined impact.
+Initial improvements in profile views and customer actions typically appear within 2-4 weeks. Local pack ranking improvements may take 4-8 weeks depending on competition level and the extent of optimization implemented. Consistent posting, review generation, and photo uploads create compounding improvements over 3-6 months. Pair your GBP optimization with [technical SEO](/services/seo-audit/technical-seo-audit/) improvements on your website for the strongest combined impact.
 
 ## Your GBP Is a Living Asset — Treat It Like One
 
 A fully optimized Google Business Profile is not a one-time project. It is an ongoing competitive advantage that requires weekly attention. The businesses that dominate the local pack are the ones that treat their GBP as a living marketing channel — consistently posting, responding, uploading, and refining.
 
-Download this checklist, assign ownership, and work through it systematically. If you want expert guidance or a full GBP audit using our CATALYST Methodology with geo-grid tracking, [contact LocalCatalyst](/contact/) to schedule a consultation. We will show you exactly where your profile stands against local competitors and build a plan to close every gap.
+Download this checklist, assign ownership, and work through it systematically.
+
+---
+
+**Ready to dominate the local map pack?** [Order GBP Optimization ($297)](/services/gbp-optimization/)
+
+---

@@ -3,8 +3,8 @@
 **Deliverable:** Hub blog post
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/seo-audit-template/
-**Parent Hub:** /seo-audit-services/
+**URL:** /learn/seo-audit-template/
+**Parent Hub:** /services/seo-audit/
 **Primary Keyword:** SEO audit template
 **Secondary Keywords:** SEO audit checklist, site audit template, website audit framework, SEO audit spreadsheet, SEO audit process template
 **Title Tag:** SEO Audit Template: Full Checklist (2026)
@@ -16,7 +16,7 @@
 
 ## SEO Audit Template: A Complete Framework for Evaluating Any Website
 
-A structured template transforms an SEO audit from an overwhelming exercise into a systematic evaluation with clear, repeatable steps. Whether you are performing your first site review or standardizing the process across client engagements, having a documented framework ensures nothing important gets overlooked. This template mirrors the methodology used in professional [SEO audit services](/seo-audit-services/) and adapts to sites of any size.
+A structured template transforms an SEO audit from an overwhelming exercise into a systematic evaluation with clear, repeatable steps. Whether you are performing your first site review or standardizing the process across client engagements, having a documented framework ensures nothing important gets overlooked. This template mirrors the methodology used in professional [SEO audit services](/services/seo-audit/) and adapts to sites of any size.
 
 The template below is organized into four sections: Technical SEO, On-Page SEO, Off-Page SEO, and Competitive Analysis. Each section includes the specific items to check, the tools to use, and the benchmarks that distinguish acceptable performance from issues requiring action.
 
@@ -145,7 +145,7 @@ Off-page SEO evaluates external signals, primarily backlinks and brand presence,
 | Dofollow/nofollow ratio | Ahrefs / SEMrush | Balance of link types | 60-80% dofollow |
 | Link relevance | Manual review | Topical and geographic relevance of linking sites | Majority from relevant sources |
 
-Understanding [what makes a good backlink](/blog/what-makes-a-good-backlink/) helps you evaluate each link in your profile against quality benchmarks.
+Understanding [what makes a good backlink](/learn/what-makes-a-good-backlink/) helps you evaluate each link in your profile against quality benchmarks.
 
 ### 3.2 Local Citations (for Local Businesses)
 
@@ -242,7 +242,7 @@ This template can be adapted into several working formats:
 - **Spreadsheet:** Create a Google Sheets or Excel workbook with tabs for each section. Use conditional formatting to flag issues by severity.
 - **Project management tool:** Convert each check item into a task in Asana, Trello, or Monday.com with assignees and due dates.
 - **Audit report:** Use the findings as the structure for a client-facing report, adding screenshots, data, and specific recommendations for each issue.
-- **Recurring checklist:** For ongoing [SEO audit schedules](/blog/how-often-seo-audit/), use the template as a quarterly checklist that tracks improvements over time.
+- **Recurring checklist:** For ongoing [SEO audit schedules](/learn/how-often-seo-audit/), use the template as a quarterly checklist that tracks improvements over time.
 
 ---
 

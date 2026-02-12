@@ -16,7 +16,7 @@
 
 Your HVAC website is not a digital brochure. It is a 24/7 sales tool that either generates service calls or silently loses them to competitors with better sites. As part of our [HVAC SEO program](/industries/hvac-seo/), we have analyzed hundreds of HVAC contractor websites and identified the design patterns that separate high-converting sites from expensive digital dead weight.
 
-If you need a website built specifically for search performance and lead generation, our [SEO website design service](/seo-website-design/) builds sites with these principles baked in from day one.
+If you need a website built specifically for search performance and lead generation, our [SEO website design service](/services/website-build/) builds sites with these principles baked in from day one.
 
 ## The Page Structure Every HVAC Website Needs
 

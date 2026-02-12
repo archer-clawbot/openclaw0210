@@ -30,7 +30,7 @@
       "to": "channel:specs"
     },
     "sessionId": "a0f4148e-3848-482f-973c-92ff967e3b2c",
-    "updatedAt": 1770738589223,
+    "updatedAt": 1770784231867,
     "deliveryContext": {
       "channel": "slack"
     },
@@ -155,5 +155,27 @@
     "inputTokens": 7,
     "outputTokens": 770,
     "totalTokens": 25014
+  },
+  "agent:specs:main": {
+    "sessionId": "44dd6349-0dd1-4f5d-826e-231a04912ef9",
+    "updatedAt": 1770784267284,
+    "skillsSnapshot": {
+      "prompt": "",
+      "skills": [],
+      "resolvedSkills": [],
+      "version": 0
+    },
+    "deliveryContext": {
+      "channel": "whatsapp"
+    },
+    "lastChannel": "whatsapp",
+    "channel": "whatsapp",
+    "modelProvider": "anthropic",
+    "model": "claude-haiku-4-5",
+    "contextTokens": 200000,
+    "abortedLastRun": false,
+    "inputTokens": 8,
+    "outputTokens": 770,
+    "totalTokens": 138561
   }
 }

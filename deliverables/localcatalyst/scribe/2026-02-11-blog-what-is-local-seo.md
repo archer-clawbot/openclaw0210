@@ -3,8 +3,8 @@
 **Deliverable:** Blog post (Hub 1 educational content)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/what-is-local-seo/
-**Parent Hub:** /local-seo-services/
+**URL:** /learn/what-is-local-seo/
+**Parent Hub:** /services/
 **Primary Keyword:** what is local SEO
 **Secondary Keywords:** local search engine optimization, local search marketing, local SEO basics, how local SEO works, local SEO ranking factors
 **Title Tag:** What Is Local SEO? Beginner's Guide (2026) | LocalCatalyst.ai
@@ -14,7 +14,7 @@
 
 ---
 
-If you run a business that serves customers in a specific geographic area, local SEO is the single most important digital marketing investment you can make. Whether you are a plumber in Phoenix, a dentist in Denver, or a restaurant owner in Richmond, [local SEO services](/local-seo-services/) determine whether potential customers find you or your competitors when they search online. This guide explains exactly what local SEO is, how it works, and what you need to do to start ranking in your local market.
+If you run a business that serves customers in a specific geographic area, local SEO is the single most important digital marketing investment you can make. Whether you are a plumber in Phoenix, a dentist in Denver, or a restaurant owner in Richmond, [local SEO services](/services/) determine whether potential customers find you or your competitors when they search online. This guide explains exactly what local SEO is, how it works, and what you need to do to start ranking in your local market.
 
 ## What Is Local SEO?
 
@@ -40,7 +40,7 @@ The local pack is the most prominent local search feature. It appears as a boxed
 
 The local pack appears for an enormous range of queries. Google's own data indicates that 46% of all searches have local intent, and the local pack dominates above-the-fold real estate for most of them.
 
-Ranking in the local pack is driven primarily by your [Google Business Profile optimization](/google-business-profile-optimization/) — a completely separate set of factors from traditional organic rankings.
+Ranking in the local pack is driven primarily by your [Google Business Profile optimization](/services/gbp-optimization/) — a completely separate set of factors from traditional organic rankings.
 
 ### Local Organic Results
 
@@ -63,7 +63,7 @@ Relevance measures how well your business listing matches what the searcher is l
 You influence relevance through:
 - Selecting accurate primary and secondary categories in your Google Business Profile
 - Writing a detailed and keyword-rich business description
-- Creating [on-page content](/on-page-seo/) that clearly communicates your services
+- Creating [on-page content](/services/on-page-optimization/) that clearly communicates your services
 - Adding products and services to your Business Profile
 - Publishing Google Business Profile posts related to your offerings
 
@@ -99,23 +99,23 @@ Your website must communicate geographic relevance to search engines. This means
 
 ### Citation Building and Management
 
-Citations are online mentions of your business name, address, and phone number on directories, industry sites, and data aggregators. Consistent, accurate [citations](/citation-building-services/) across dozens of platforms reinforce your business's legitimacy and location to Google.
+Citations are online mentions of your business name, address, and phone number on directories, industry sites, and data aggregators. Consistent, accurate [citations](/services/citation-building/) across dozens of platforms reinforce your business's legitimacy and location to Google.
 
 ### Review Generation and Reputation Management
 
-Reviews are a top-three local ranking factor. Beyond rankings, they directly influence whether searchers click on your listing and whether they convert into customers. A systematic approach to [reputation management](/reputation-management/) — generating new reviews, responding to all reviews, and addressing negative feedback — is non-negotiable.
+Reviews are a top-three local ranking factor. Beyond rankings, they directly influence whether searchers click on your listing and whether they convert into customers. A systematic approach to review management — generating new reviews, responding to all reviews, and addressing negative feedback — is non-negotiable.
 
 ### Local Link Building
 
-Backlinks from locally relevant websites — chambers of commerce, local news outlets, community organizations, industry associations — carry significant weight in local search rankings. Local [link building](/link-building-services/) requires different strategies than traditional link acquisition.
+Backlinks from locally relevant websites — chambers of commerce, local news outlets, community organizations, industry associations — carry significant weight in local search rankings. Local [link building](/managed/) requires different strategies than traditional link acquisition.
 
 ### Technical SEO Foundations
 
-Slow page speed, missing SSL certificates, broken mobile experiences, and crawl errors undermine every other local SEO effort. [Technical SEO](/technical-seo/) ensures your website meets Google's baseline requirements so your local content and signals can perform as intended.
+Slow page speed, missing SSL certificates, broken mobile experiences, and crawl errors undermine every other local SEO effort. [Technical SEO](/services/seo-audit/technical-seo-audit/) ensures your website meets Google's baseline requirements so your local content and signals can perform as intended.
 
 ### Local Content Strategy
 
-Publishing content that addresses local topics, local customer questions, and local events builds topical and geographic authority. A strong [content strategy](/content-strategy/) creates assets that earn links, attract local traffic, and support your service page rankings.
+Publishing content that addresses local topics, local customer questions, and local events builds topical and geographic authority. A strong [content strategy](/services/content-pages/) creates assets that earn links, attract local traffic, and support your service page rankings.
 
 ## Why Local SEO Matters: The Numbers
 
@@ -145,7 +145,7 @@ Even businesses that serve customers remotely but target specific markets benefi
 
 Google Local Services Ads and Google Ads with location targeting offer immediate visibility in local search results. However, they stop producing results the moment you stop paying. Local SEO, by contrast, builds compounding organic visibility over time.
 
-The most effective local marketing strategies use both. Paid ads cover immediate visibility while local SEO builds the organic foundation that reduces long-term cost per acquisition. Understanding the [ROI of local SEO](/blog/local-seo-roi/) helps you allocate budget effectively between the two.
+The most effective local marketing strategies use both. Paid ads cover immediate visibility while local SEO builds the organic foundation that reduces long-term cost per acquisition. Understanding the [ROI of local SEO](/learn/local-seo-roi/) helps you allocate budget effectively between the two.
 
 ## How to Get Started With Local SEO
 
@@ -158,7 +158,7 @@ If you are starting from scratch, prioritize these steps in order:
 5. **Create location-specific content** — build out service-area pages and locally relevant blog content
 6. **Earn local backlinks** — join your chamber of commerce, sponsor local events, contribute to local publications
 
-Each of these steps is covered in detail in our [complete local SEO checklist](/blog/local-seo-checklist/).
+Each of these steps is covered in detail in our [complete local SEO checklist](/learn/local-seo-checklist/).
 
 ## Common Local SEO Mistakes to Avoid
 
@@ -178,16 +178,16 @@ New practitioners frequently make errors that slow progress or cause penalties:
 Local SEO focuses on ranking in geographically filtered results, including the local pack and local organic listings. It relies heavily on Google Business Profile optimization, citations, reviews, and proximity signals. Regular SEO focuses on ranking in standard organic results and emphasizes content quality, backlinks, and technical factors. Most local businesses need both, but local SEO has a more direct impact on driving foot traffic and local leads.
 
 **How much does local SEO cost?**
-Local SEO costs vary widely based on market competitiveness, number of locations, and scope of work. Small businesses in low-competition markets might invest $500-$1,500 per month. Businesses in competitive markets or with multiple locations typically invest $1,500-$5,000+ per month. The key is measuring ROI — a well-executed local SEO campaign should generate returns that far exceed the investment within 6-12 months.
+Local SEO costs vary widely based on market competitiveness, number of locations, and scope of work. The investment scales with market competitiveness and the number of locations you serve. The key is measuring ROI — a well-executed local SEO campaign should generate returns that far exceed the investment within 6-12 months.
 
 **Can I do local SEO myself?**
 Yes, many local SEO tasks are accessible to business owners. Claiming and optimizing your Google Business Profile, asking customers for reviews, and maintaining consistent business information across directories are all manageable without technical expertise. However, more advanced elements — technical SEO, link building, competitive analysis, and ongoing strategy — often benefit from professional support.
 
 **How long does it take to see results from local SEO?**
-Most businesses start seeing measurable improvements within 3-6 months, with significant results taking 6-12 months. Factors that influence timeline include your starting point, market competitiveness, the consistency of your optimization efforts, and the strength of your competitors. Read our detailed breakdown of [how long local SEO takes](/blog/how-long-does-local-seo-take/) for month-by-month expectations.
+Most businesses start seeing measurable improvements within 3-6 months, with significant results taking 6-12 months. Factors that influence timeline include your starting point, market competitiveness, the consistency of your optimization efforts, and the strength of your competitors. Read our detailed breakdown of [how long local SEO takes](/learn/how-long-does-local-seo-take/) for month-by-month expectations.
 
 ## Take the First Step
 
-Understanding what local SEO is represents the first step toward dominating your local market. The next step is understanding exactly where you stand today. Our free SEO audit analyzes your current local search performance, identifies gaps in your strategy, and provides a prioritized action plan based on the factors that will have the greatest impact on your visibility.
+Understanding what local SEO is represents the first step toward dominating your local market. The next step is understanding exactly where you stand today. Our [SEO Audit](/services/seo-audit/) analyzes your current local search performance, identifies gaps in your strategy, and provides a prioritized action plan based on the factors that will have the greatest impact on your visibility.
 
 [Order Your SEO Audit](/services/seo-audit/) and discover exactly what is holding your business back in local search.

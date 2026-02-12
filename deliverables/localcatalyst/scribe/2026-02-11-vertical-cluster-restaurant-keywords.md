@@ -16,7 +16,7 @@
 
 Restaurant keyword research is fundamentally different from keyword research in other local service industries. Diners search by cuisine type, meal occasion, dietary restriction, price range, ambiance, and neighborhood, creating a keyword landscape that is broader and more nuanced than most local businesses face. Within our [restaurant SEO program](/industries/restaurant-seo/), keyword research determines which of these thousands of potential search terms represent the highest-value opportunities for your specific restaurant concept and location.
 
-LocalCatalyst's [local keyword research service](/local-seo-services/local-keyword-research/) applies the CATALYST Methodology to identify, prioritize, and implement keyword strategies that match how real diners in your market search for restaurants like yours.
+LocalCatalyst's [local keyword research service](/services/local-keyword-research/) applies the CATALYST Methodology to identify, prioritize, and implement keyword strategies that match how real diners in your market search for restaurants like yours.
 
 ## How Restaurant Searches Differ From Other Local Searches
 
@@ -55,7 +55,7 @@ Individual dish searches are growing as diners search for specific cravings:
 - "Lobster roll [city]"
 - "Birria tacos near me"
 
-These dish-specific keywords can drive significant traffic, especially for restaurants known for a particular specialty. They connect directly to your [menu SEO strategy](/industries/restaurant-seo/restaurant-menu-seo/) where individual dishes become indexable, rankable content.
+These dish-specific keywords can drive significant traffic, especially for restaurants known for a particular specialty. They connect directly to your [menu SEO strategy](/industries/restaurant-seo/) where individual dishes become indexable, rankable content.
 
 ### Location Keywords
 
@@ -114,7 +114,7 @@ Avoid keyword cannibalization by ensuring each target keyword maps to one primar
 
 ### Google Business Profile Integration
 
-Your GBP listing should reflect your keyword priorities through categories, services, menu items, attributes, and post content. GBP optimization and keyword strategy must align. Refer to our [restaurant GBP guide](/industries/restaurant-seo/restaurant-google-business-profile/) for detailed implementation.
+Your GBP listing should reflect your keyword priorities through categories, services, menu items, attributes, and post content. GBP optimization and keyword strategy must align. Refer to our [restaurant GBP guide](/industries/restaurant-seo/) for detailed implementation.
 
 ### Content Calendar
 

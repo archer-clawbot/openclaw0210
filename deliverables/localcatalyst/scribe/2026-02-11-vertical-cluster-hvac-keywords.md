@@ -16,7 +16,7 @@
 
 Most HVAC contractors pour money into Google Ads without understanding which search terms their customers actually use. The difference between ranking for "HVAC repair" and "emergency AC repair near me" can be thousands of dollars in monthly revenue. This guide, part of our complete [HVAC SEO strategy](/industries/hvac-seo/), breaks down exactly which keywords HVAC companies should target, how to find them, and how to build a keyword architecture that converts searchers into booked service calls.
 
-If you want hands-on help building a keyword strategy tailored to your service area, our [local keyword research service](/local-seo-services/local-keyword-research/) handles the entire process.
+If you want hands-on help building a keyword strategy tailored to your service area, our [local keyword research service](/services/local-keyword-research/) handles the entire process.
 
 ## Why HVAC Keyword Research Is Different From General SEO
 
@@ -148,8 +148,8 @@ A keyword map assigns each target keyword to a specific page on your site. This 
 | Service page | AC installation [city] | /ac-installation/ |
 | Service page | Furnace installation [city] | /furnace-installation/ |
 | Service area page | HVAC contractor [nearby city] | /service-areas/[city]/ |
-| Blog post | How much does AC repair cost | /blog/ac-repair-cost/ |
-| Blog post | How often to service HVAC | /blog/hvac-maintenance-schedule/ |
+| Blog post | How much does AC repair cost | /learn/ac-repair-cost/ |
+| Blog post | How often to service HVAC | /learn/hvac-maintenance-schedule/ |
 
 **Critical rule:** One primary keyword per page. Every page should target one main keyword and 2-4 closely related secondary keywords. If two keywords have nearly identical search results (check by Googling both), they belong on the same page. If the results differ significantly, they need separate pages.
 

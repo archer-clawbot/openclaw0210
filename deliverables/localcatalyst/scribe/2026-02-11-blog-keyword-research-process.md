@@ -3,7 +3,10 @@
 **Deliverable:** Blog post content
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/keyword-research-process/
+**URL:** /learn/keyword-research-process/
+**Title Tag:** Keyword Research Process — Step-by-Step Framework | LocalCatalyst
+**Meta Description:** Master keyword research with our proven framework. Seed generation, intent classification, difficulty assessment, mapping, and local modifiers for rankings.
+**H1:** The Keyword Research Process: A Step-by-Step Framework for Local Businesses
 **Primary Keyword:** keyword research process
 **Secondary Keywords:** how to do keyword research, keyword research framework, keyword research for local SEO, search intent classification, keyword mapping, long-tail keyword strategy, keyword difficulty assessment
 
@@ -11,7 +14,7 @@
 
 Every effective SEO campaign starts with the same question: what are people actually searching for? Keyword research is the process of answering that question with data, then building a site architecture that captures that demand systematically.
 
-At LocalCatalyst, keyword research is the foundation of every [local SEO](/services/local-seo/) and [on-page optimization](/services/on-page-optimization/) engagement we deliver. We do not guess which terms to target. We follow a repeatable framework that surfaces the highest-value opportunities relative to a business's authority, competitive landscape, and conversion goals.
+At LocalCatalyst, keyword research is the foundation of every [local SEO](/services/) and [on-page optimization](/services/on-page-optimization/) engagement we deliver. We do not guess which terms to target. We follow a repeatable framework that surfaces the highest-value opportunities relative to a business's authority, competitive landscape, and conversion goals.
 
 This guide walks through that framework step by step.
 
@@ -25,7 +28,7 @@ Seed keywords are the starting terms that open the door to broader research. The
 - **Customer language.** Review inquiry emails, chat logs, and sales call notes. The exact phrases customers use to describe their problems are often different from industry jargon and frequently match real search queries.
 - **Competitor websites.** Visit five to ten competitor homepages and service pages. Note the terms they use in their headings, title tags, and page copy.
 - **Google autocomplete and related searches.** Type each seed into Google and document the autocomplete suggestions and "People Also Ask" questions. These are real user queries.
-- **Google Business Profile insights.** If you have GBP access, the search queries report shows the actual terms people used before clicking on your listing. This is first-party search demand data tied directly to your business. Our [GBP optimization service](/services/google-business-profile-optimization/) uses this data as a primary research input.
+- **Google Business Profile insights.** If you have GBP access, the search queries report shows the actual terms people used before clicking on your listing. This is first-party search demand data tied directly to your business. Our [GBP optimization service](/services/gbp-optimization/) uses this data as a primary research input.
 
 A solid seed list for a local business typically contains 30 to 80 terms before expansion.
 
@@ -72,7 +75,7 @@ Not every keyword is worth pursuing right now. Keyword difficulty estimates how 
 - **Domain authority of ranking pages.** If the top 10 is dominated by sites with DR 70+ and your domain is DR 25, that keyword is a long-term target, not a quick win.
 - **Content depth of ranking pages.** Thin, outdated content in the top 10 signals an easier opportunity, even if the domains are strong.
 - **SERP feature competition.** Keywords with featured snippets, AI overviews, or knowledge panels reduce the available organic real estate. Factor this into your difficulty assessment.
-- **Local pack presence.** For local businesses, keywords that trigger a local pack are often more accessible because [GBP optimization](/services/google-business-profile-optimization/) and proximity signals can overcome domain authority gaps.
+- **Local pack presence.** For local businesses, keywords that trigger a local pack are often more accessible because [GBP optimization](/services/gbp-optimization/) and proximity signals can overcome domain authority gaps.
 
 We categorize keywords into three tiers:
 
@@ -102,7 +105,7 @@ Keyword mapping assigns every target keyword to a specific page on your site. Th
 4. Ensure every page has one clear primary keyword and two to five supporting secondary keywords.
 5. Validate that intent matches: informational keywords map to blog posts, transactional keywords map to service pages.
 
-This map becomes the operational document that guides content creation, [internal linking strategy](/blog/internal-linking-strategy/), and [content optimization](/blog/content-optimization-framework/) priorities across the entire site.
+This map becomes the operational document that guides content creation, [internal linking strategy](/learn/internal-linking-strategy/), and [content optimization](/learn/content-optimization-framework/) priorities across the entire site.
 
 ## Local Keyword Modifiers: The Local Business Advantage
 
@@ -114,7 +117,7 @@ Local businesses have access to an entire class of keyword modifiers that nation
 - **Local landmarks and districts:** "coffee shop near Reunion Tower," "plumber Uptown Dallas"
 - **Service + location combinations:** "AC repair Frisco TX," "divorce attorney Collin County"
 
-These modifiers create hundreds of targetable variations from a handful of core service keywords. Combined with location-specific landing pages and [Google Business Profile optimization](/services/google-business-profile-optimization/), they form the backbone of local search domination.
+These modifiers create hundreds of targetable variations from a handful of core service keywords. Combined with location-specific landing pages and [Google Business Profile optimization](/services/gbp-optimization/), they form the backbone of local search domination.
 
 ## Frequently Asked Questions
 
@@ -134,4 +137,8 @@ Yes, selectively. Many long-tail and local keywords show "0" volume in third-par
 
 Keyword research is not an academic exercise. It is the strategic foundation that determines which pages you build, how you structure your content, and where you invest your optimization resources. Without it, every SEO activity is a guess.
 
-If you want a professionally researched keyword strategy tailored to your local market, competitive landscape, and business goals, [contact LocalCatalyst](/contact/) for a keyword research and mapping engagement. We will deliver a prioritized keyword map and content plan designed to capture the search demand your business deserves.
+---
+
+**Ready to build content that ranks?** [Order SEO Content ($97/page)](/services/content-pages/)
+
+---

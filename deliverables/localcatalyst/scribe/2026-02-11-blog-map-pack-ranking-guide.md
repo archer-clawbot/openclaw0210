@@ -3,7 +3,10 @@
 **Deliverable:** Blog post content
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/map-pack-ranking-guide/
+**URL:** /learn/map-pack-ranking-guide/
+**Title Tag:** Map Pack Ranking Guide — Rank in Google Local Pack | LocalCatalyst
+**Meta Description:** Master map pack ranking in 2026. Relevance, distance, prominence factors, GBP optimization, citations, reviews, and geo-grid tracking strategies.
+**H1:** Map Pack Ranking Guide: How to Rank in Google's Local 3-Pack in 2026
 **Primary Keyword:** map pack ranking, Google Maps ranking factors
 **Secondary Keywords:** local 3-pack, Google local pack, map pack SEO, local pack ranking factors, geo-grid tracking
 **Category:** google-business-profile
@@ -20,13 +23,13 @@ When a user searches for a local service — "plumber near me," "best Italian re
 
 The map pack includes the business name, star rating, review count, address, hours, phone number, and a link to the Google Business Profile. It appears for an estimated 93% of searches with local intent.
 
-The key distinction: map pack results are pulled from Google Business Profile data and ranked by a separate algorithm from organic results. A business can rank #1 organically and not appear in the map pack at all — and vice versa. This is why [local SEO](/services/local-seo/) requires a dedicated strategy that goes beyond traditional on-page optimization.
+The key distinction: map pack results are pulled from Google Business Profile data and ranked by a separate algorithm from organic results. A business can rank #1 organically and not appear in the map pack at all — and vice versa. This is why [local SEO](/services/) requires a dedicated strategy that goes beyond traditional on-page optimization.
 
 ## The Three Core Ranking Factors: Relevance, Distance, Prominence
 
 Google has publicly stated that map pack rankings are determined by three factors:
 
-**Relevance.** How well your business profile matches the searcher's query. This is influenced by your primary and secondary GBP categories, your business description, the services listed on your profile, and the keywords that appear naturally in your reviews. A comprehensive, accurately categorized [Google Business Profile](/services/google-business-profile-optimization/) is the foundation of relevance.
+**Relevance.** How well your business profile matches the searcher's query. This is influenced by your primary and secondary GBP categories, your business description, the services listed on your profile, and the keywords that appear naturally in your reviews. A comprehensive, accurately categorized [Google Business Profile](/services/gbp-optimization/) is the foundation of relevance.
 
 **Distance.** How close your business is to the searcher's location (or the location specified in the query). You cannot control where your business is physically located, but you can influence how broadly Google considers your service area through consistent NAP citations, service area settings, and local content relevance.
 
@@ -46,7 +49,7 @@ Your GBP is the single most important asset for map pack ranking. Every field ma
 
 **Photos and videos.** Profiles with 100+ photos receive 520% more calls and 2,717% more direction requests than average profiles, according to Google's own data. Upload original photos regularly — exterior, interior, team, work product, and before/after images.
 
-**Posts.** Regular [GBP posts](/blog/gbp-posts-templates/) keep your profile active and signal ongoing engagement to Google. Post at least weekly.
+**Posts.** Regular [GBP posts](/learn/gbp-posts-templates/) keep your profile active and signal ongoing engagement to Google. Post at least weekly.
 
 **Q&A.** Seed your Q&A section with common customer questions and detailed answers. These are indexable and contribute to relevance.
 
@@ -58,7 +61,7 @@ Inconsistencies — a different phone number on Yelp than on your GBP, an old ad
 
 Focus on the major data aggregators first (Data Axle, Neustar Localeze, Foursquare), then tier-one directories (Yelp, Facebook, Apple Maps, Bing Places), then industry-specific directories. Consistency across 40-50 high-authority citations creates a strong foundation.
 
-This is a critical component of [technical SEO](/services/technical-seo/) for local businesses that is often overlooked.
+This is a critical component of [technical SEO](/services/seo-audit/technical-seo-audit/) for local businesses that is often overlooked.
 
 ## Review Signals: Volume, Velocity, and Keywords
 
@@ -66,7 +69,7 @@ Reviews are the most heavily weighted prominence signal after GBP completeness. 
 
 **Review count.** More reviews signal more customer interactions and greater trust. You need to be competitive with the businesses currently in the map pack for your target queries.
 
-**Review velocity.** The rate of new reviews over time. A steady flow of 5-10 reviews per month outperforms 100 reviews received two years ago with nothing since. Read our full [Google reviews generation strategy](/blog/google-reviews-generation-strategy/) for tactics that build consistent velocity.
+**Review velocity.** The rate of new reviews over time. A steady flow of 5-10 reviews per month outperforms 100 reviews received two years ago with nothing since. Read our full [Google reviews generation strategy](/learn/google-reviews-generation-strategy/) for tactics that build consistent velocity.
 
 **Average rating.** Maintain a 4.0+ rating. Below 4.0, Google may filter you out of map pack results entirely for some queries. The sweet spot is 4.5-4.8 — high enough to build trust, realistic enough to appear authentic.
 
@@ -123,4 +126,10 @@ Treating the GBP as a set-it-and-forget-it listing. The businesses that dominate
 
 The map pack is where local customers find local businesses. If you are not visible in those three positions for your highest-value keywords, your competitors are capturing that demand.
 
-LocalCatalyst's CATALYST Methodology combines GBP optimization, citation management, review strategy, and geo-grid tracking into a unified system that expands your map pack visibility methodically. [Schedule a free map pack audit](/contact/) and see exactly where you rank — and where you are missing — across your entire service area.
+The map pack rewards businesses that invest consistently in their GBP, reviews, and local authority signals.
+
+---
+
+**Ready to dominate the local map pack?** [Order GBP Optimization ($297)](/services/gbp-optimization/)
+
+---

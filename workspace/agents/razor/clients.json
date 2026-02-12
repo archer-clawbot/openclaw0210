@@ -1,0 +1,31 @@
+{
+  "clients": [
+    {
+      "name": "Spectators Bar & Grill",
+      "slug": "spectators",
+      "url": "https://spectatorsbargrill.com",
+      "auto_deploy": false,
+      "ga4_property_id": "",
+      "gsc_property": "https://spectatorsbargrill.com",
+      "deploy_constraints": {
+        "max_changes_per_week": 3,
+        "allowed_change_types": [
+          "copy",
+          "cta",
+          "form-fields",
+          "trust-signals",
+          "image-optimization",
+          "schema"
+        ],
+        "forbidden_change_types": [
+          "pricing",
+          "navigation",
+          "checkout",
+          "legal"
+        ],
+        "min_confidence_score": 8,
+        "require_test_first": false
+      }
+    }
+  ]
+}

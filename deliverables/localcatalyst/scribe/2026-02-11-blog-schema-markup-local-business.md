@@ -3,8 +3,8 @@
 **Deliverable:** Blog post (On-Page SEO educational content)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/schema-markup-local-business/
-**Parent Hub:** /on-page-seo-services/
+**URL:** /learn/schema-markup-local-business/
+**Parent Hub:** /services/content-pages/
 **Primary Keyword:** schema markup for local business
 **Secondary Keywords:** local business structured data, schema types for local SEO, LocalBusiness schema, FAQ schema, JSON-LD for local business, rich results local SEO
 **Title Tag:** Schema Markup for Local Business: Full Guide | LocalCatalyst.ai
@@ -14,7 +14,7 @@
 
 ---
 
-Schema markup is one of the most underutilized tools in local SEO. While most businesses focus on content and backlinks, structured data quietly gives search engines a machine-readable layer of information about your business that can earn rich results, improve click-through rates, and strengthen your entity signals. Our [on-page SEO services](/on-page-seo-services/) include full schema implementation because we see firsthand how structured data separates local businesses that dominate SERPs from those that merely appear in them.
+Schema markup is one of the most underutilized tools in local SEO. While most businesses focus on content and backlinks, structured data quietly gives search engines a machine-readable layer of information about your business that can earn rich results, improve click-through rates, and strengthen your entity signals. Our [on-page SEO services](/services/on-page-optimization/) include full schema implementation because we see firsthand how structured data separates local businesses that dominate SERPs from those that merely appear in them.
 
 This guide covers the specific schema types that matter most for local businesses, provides implementation code you can adapt, and explains how to validate and maintain your structured data over time.
 
@@ -228,7 +228,7 @@ Review schema displays star ratings in search results, which is one of the most 
 - AggregateRating is safer and more commonly supported for local businesses than individual review markup.
 - Nest AggregateRating within your LocalBusiness schema for the cleanest implementation.
 
-For businesses focused on building their review profile, our [reputation management services](/reputation-management-services/) combine review generation strategy with proper schema implementation.
+For businesses focused on building their review profile, our [managed SEO service](/managed/) combines review generation strategy with proper schema implementation.
 
 ### 5. BreadcrumbList Schema
 
@@ -279,7 +279,7 @@ For your blog and educational content, Article or BlogPosting schema enables ric
   "@context": "https://schema.org",
   "@type": "BlogPosting",
   "headline": "How to Prevent Frozen Pipes in Austin Winters",
-  "image": "https://www.abcplumbing.com/blog/images/frozen-pipes-prevention.jpg",
+  "image": "https://www.abcplumbing.com/learn/images/frozen-pipes-prevention.jpg",
   "datePublished": "2026-01-20",
   "dateModified": "2026-02-01",
   "author": {
@@ -375,7 +375,7 @@ Yes. Incorrect schema, especially schema that marks up content not visible on th
 
 ### Do I need a developer to implement schema markup?
 
-For basic implementations, many CMS platforms and plugins can generate schema markup without custom development. WordPress plugins like Yoast SEO, Rank Math, and Schema Pro handle common schema types. However, for comprehensive local business implementations with multiple schema types and custom configurations, working with a developer or an SEO team that handles [technical SEO](/technical-seo-services/) ensures accuracy and completeness.
+For basic implementations, many CMS platforms and plugins can generate schema markup without custom development. WordPress plugins like Yoast SEO, Rank Math, and Schema Pro handle common schema types. However, for comprehensive local business implementations with multiple schema types and custom configurations, working with a developer or an SEO team that handles [technical SEO](/services/seo-audit/technical-seo-audit/) ensures accuracy and completeness.
 
 ---
 

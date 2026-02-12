@@ -21,6 +21,20 @@ Every product below is powered by our 18-agent CATALYST AI system -- the same sy
 
 ---
 
+## Why Businesses Order From LocalCatalyst
+
+| | Traditional Agency | Freelancer | LocalCatalyst |
+|---|---|---|---|
+| **Turnaround** | 2-4 weeks | 3-7 days | 2-48 hours |
+| **Pricing** | Monthly retainer ($1K+) | Per-project (variable) | Fixed per deliverable |
+| **Consistency** | Depends on who's assigned | Depends on availability | Same AI system every time |
+| **Commitment** | 3-12 month contract | None | None |
+| **Methodology** | Varies by agency | Varies by person | CATALYST framework, every order |
+
+Every deliverable follows the same research, execution, and quality-check pipeline. You get agency-grade output without the agency overhead, and freelancer flexibility without the freelancer inconsistency.
+
+---
+
 ## Our Products
 
 ### [Topical Map](/services/topical-map/)
@@ -76,16 +90,16 @@ Best for: Businesses that want to rank in the map pack.
 
 ---
 
-### Citation Building
+### [Citation Building](/services/citation-building/)
 **$197+ | Delivered in 5-7 days**
 
-Consistent NAP (Name, Address, Phone) listings across the directories that matter for your industry. Includes submission to 40+ general and niche-specific directories, plus cleanup of any existing inconsistencies.
+Consistent NAP (Name, Address, Phone) listings across the directories that matter for your industry. Includes submission to 25-100+ directories, plus cleanup of any existing inconsistencies.
 
 Best for: New businesses or businesses that have moved locations.
 
 ---
 
-### Monthly Content
+### [Monthly Content](/services/monthly-content/)
 **$297+/mo | Ongoing**
 
 A recurring content publishing plan. Blog posts, service pages, or location pages delivered on a schedule you choose. Each piece follows the same optimization standards as our one-time content pages. Builds topical authority over time.
@@ -123,4 +137,4 @@ You can start anywhere. But the topical map gives everything else a foundation.
 
 If you'd rather not manage deliverables yourself, our managed SEO service wraps everything into a single monthly engagement. Same CATALYST system, same AI agents, plus a dedicated strategist running the show.
 
-[Learn about Managed SEO](/managed/) | [Schedule a Strategy Call](/contact/)
+[Learn about Managed SEO](/managed/) | [Schedule a Strategy Call](/managed/)

@@ -234,9 +234,9 @@ SEO is ongoing. We track performance, refine strategy, and continuously optimize
 ### H2
 `Investment`
 
-**SEO Consulting Retainer: $1,500-$3,000/month**
+**SEO Consulting**
 
-Pricing depends on market competitiveness, number of locations, and scope of work. Includes:
+For ongoing SEO management, [explore our managed plans](/managed/). Pricing depends on market competitiveness, number of locations, and scope of work. Includes:
 - Dedicated SEO consultant
 - Google Business Profile optimization and management
 - Local SEO (service pages, location pages, content)
@@ -249,7 +249,7 @@ Pricing depends on market competitiveness, number of locations, and scope of wor
 
 Get a detailed local SEO audit with specific recommendations. Perfect if you want expert advice but plan to execute yourself.
 
-[Browse our services to discuss pricing →](/contact/)
+[Browse our services to discuss pricing →](/managed/)
 
 ---
 
@@ -292,7 +292,7 @@ A: Absolutely. Our consultants collaborate with in-house teams all the time. We 
 Let's talk about your business, your market, and how a LocalCatalyst SEO consultant can get you ranking locally.
 
 **CTA Button Text:** Browse our services  
-**CTA Button Link:** /contact/
+**CTA Button Link:** /managed/
 
 **Secondary Text Below Button:**  
 Or get a one-time SEO audit first → [Audit Link]
@@ -302,13 +302,13 @@ Or get a one-time SEO audit first → [Audit Link]
 ## Internal Linking Strategy
 
 **Link to from SEO Consultant page:**
-- /services/local-seo/ (anchor: "local SEO services")
-- /services/google-business-profile-optimization/ (anchor: "GBP optimization")
-- /services/technical-seo/ (anchor: "technical SEO")
+- /services/ (anchor: "local SEO services")
+- /services/gbp-optimization/ (anchor: "GBP optimization")
+- /services/seo-audit/technical-seo-audit/ (anchor: "technical SEO")
 - /local-seo-agency/ (anchor: "local SEO agency")
 - /case-studies/ (anchor: "case studies")
 - /about/ (anchor: "about our team")
-- /contact/ (multiple CTAs)
+- /managed/ (multiple CTAs)
 
 **Link to SEO Consultant page from:**
 - Homepage (main nav or footer)

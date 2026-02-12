@@ -14,7 +14,7 @@
 
 ---
 
-In the beauty industry, your reputation is your revenue. A salon's online reviews are not just social proof. They are the deciding factor for most new clients choosing where to book. One detailed five-star review describing a flawless color correction carries more persuasive power than any ad campaign. This guide is part of our [salon and spa SEO](/industries/salon-spa-seo/) vertical and provides the review management framework that drives real growth for beauty businesses. For full-service reputation management, explore our [reputation management services](/reputation-management-services/).
+In the beauty industry, your reputation is your revenue. A salon's online reviews are not just social proof. They are the deciding factor for most new clients choosing where to book. One detailed five-star review describing a flawless color correction carries more persuasive power than any ad campaign. This guide is part of our [salon and spa SEO](/industries/salon-spa-seo/) vertical and provides the review management framework that drives real growth for beauty businesses. For full-service reputation management, explore our reputation management services.
 
 ## The Outsized Impact of Reviews on Salon Revenue
 

@@ -3,8 +3,8 @@
 **Deliverable:** Blog post (Website Design educational content)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/ux-signals-seo/
-**Parent Hub:** /seo-website-design/
+**URL:** /learn/ux-signals-seo/
+**Parent Hub:** /services/website-build/
 **Primary Keyword:** UX signals and SEO
 **Secondary Keywords:** user experience SEO, bounce rate SEO, dwell time ranking factor, Core Web Vitals SEO, pogo-sticking SEO
 **Title Tag:** UX Signals and SEO Rankings Explained | LocalCatalyst.ai
@@ -14,7 +14,7 @@
 
 ---
 
-The line between user experience and search engine optimization has all but disappeared. Google's algorithm increasingly measures how real people interact with your website, and those interaction patterns directly influence where your pages rank. Understanding the relationship between UX signals and SEO is no longer optional for anyone serious about [SEO website design](/seo-website-design/). It is foundational.
+The line between user experience and search engine optimization has all but disappeared. Google's algorithm increasingly measures how real people interact with your website, and those interaction patterns directly influence where your pages rank. Understanding the relationship between UX signals and SEO is no longer optional for anyone serious about [SEO website design](/services/website-build/). It is foundational.
 
 This guide explains which UX metrics affect rankings, how Google measures and interprets user behavior, and what practical improvements you can make to satisfy both your visitors and the search algorithm.
 
@@ -67,7 +67,7 @@ Pogo-sticking occurs when a user clicks a search result, quickly returns to the 
 **How to reduce pogo-sticking:**
 - Ensure your content matches the search intent behind your target keywords
 - Place the most important information above the fold
-- Load your page quickly so users do not leave before content appears (see our [website speed guide](/blog/website-speed-conversion-rates/))
+- Load your page quickly so users do not leave before content appears (see our [website speed guide](/learn/website-speed-conversion-rates/))
 - Use a clean, professional design that builds immediate trust
 - Avoid interstitial pop-ups that block content access
 
@@ -189,7 +189,7 @@ Users make snap judgments about website credibility. Design elements that build 
 - Show professional certifications, awards, and affiliations
 - Secure your site with HTTPS (a confirmed ranking factor)
 
-Integrating these improvements into your overall [SEO website design](/seo-website-design/) ensures that every element of your site is working toward better user experience and stronger search performance simultaneously.
+Integrating these improvements into your overall [SEO website design](/services/website-build/) ensures that every element of your site is working toward better user experience and stronger search performance simultaneously.
 
 ## Frequently Asked Questions
 

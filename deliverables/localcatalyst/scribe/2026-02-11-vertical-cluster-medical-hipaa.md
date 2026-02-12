@@ -67,7 +67,7 @@ If your compliance team requires a BAA-covered analytics solution, several optio
 - **Piwik PRO** — self-hosted or cloud analytics with HIPAA compliance options and BAA availability.
 - **Fathom Analytics** — privacy-focused, doesn't collect personal data by design. Not healthcare-specific but compliant by architecture.
 
-For most medical practice SEO campaigns, properly configured GA4 (with PHI stripped at every collection point) is sufficient. But if your website integrates with patient portals, EHR systems, or online scheduling tools that pass identifiable data through the browser, a HIPAA-specific analytics layer is the safer choice. Our [technical SEO services](/technical-seo-services/) team audits analytics implementations for PHI exposure as part of every healthcare engagement.
+For most medical practice SEO campaigns, properly configured GA4 (with PHI stripped at every collection point) is sufficient. But if your website integrates with patient portals, EHR systems, or online scheduling tools that pass identifiable data through the browser, a HIPAA-specific analytics layer is the safer choice. Our [technical SEO services](/services/seo-audit/technical-seo-audit/) team audits analytics implementations for PHI exposure as part of every healthcare engagement.
 
 ## Content Marketing Within HIPAA Boundaries
 
@@ -106,7 +106,7 @@ Patient reviews create a unique HIPAA challenge: patients voluntarily disclose t
 
 The second response confirms the patient's diagnosis, treatment, and provider — all PHI. It doesn't matter that the patient shared this information publicly first. Your acknowledgment as a covered entity constitutes a disclosure.
 
-**Train one staff member** to write all review responses. Provide them with a response template library that is pre-approved by your compliance officer. The templates should be flexible enough to feel personal but structured enough to never cross into PHI territory. For comprehensive review strategy, see our [patient review management](/industries/medical-practices/patient-review-management/) guide.
+**Train one staff member** to write all review responses. Provide them with a response template library that is pre-approved by your compliance officer. The templates should be flexible enough to feel personal but structured enough to never cross into PHI territory. For comprehensive review strategy, see our [patient review management](/industries/medical-practices/) guide.
 
 ## Advertising Retargeting and Remarketing
 

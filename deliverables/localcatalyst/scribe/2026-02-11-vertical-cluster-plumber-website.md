@@ -16,7 +16,7 @@
 
 A plumbing website has one job: convert visitors into customers. Not impress your friends, not win design awards, not serve as an online brochure. Every design decision, from page structure to button placement, should be evaluated by whether it makes a homeowner more or less likely to call you or book online. This guide, part of our complete [plumbing SEO resource](/industries/plumbing-seo/), covers the website design principles that separate plumbing sites generating 50+ leads per month from those generating five.
 
-For plumbing companies ready to build or rebuild their website with conversion and SEO as the foundation, our [SEO website design service](/seo-website-design/) delivers sites engineered for performance from day one.
+For plumbing companies ready to build or rebuild their website with conversion and SEO as the foundation, our [SEO website design service](/services/website-build/) delivers sites engineered for performance from day one.
 
 ## Site Architecture: Pages You Need and Why
 

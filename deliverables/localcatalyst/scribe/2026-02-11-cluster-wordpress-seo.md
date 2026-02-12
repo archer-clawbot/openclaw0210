@@ -3,22 +3,22 @@
 **Deliverable:** Service sub-page (cluster)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /seo-website-design/wordpress-seo/
-**Parent Hub:** /seo-website-design/
+**URL:** /services/website-build/wordpress-seo/
+**Parent Hub:** /services/website-build/
 **Primary Keyword:** WordPress SEO services
 **Secondary Keywords:** WordPress SEO optimization, WordPress technical SEO, WordPress SEO plugins, WordPress site speed, WordPress local SEO
-**Title Tag:** WordPress SEO Services — Optimization That Actually Ranks | LocalCatalyst.ai
+**Title Tag:** WordPress SEO — Optimization That Ranks | LocalCatalyst
 **Meta Description:** WordPress SEO services that go beyond plugins. Technical optimization, speed engineering, and the right stack to turn WordPress into a ranking machine.
 **H1:** WordPress SEO: The Platform Built for Search Dominance
 **Word Count Target:** 1,800
 
 ---
 
-**Breadcrumbs:** [Home](/) > [SEO Website Design](/seo-website-design/) > WordPress SEO
+**Breadcrumbs:** [Home](/) > [SEO Website Design](/services/website-build/) > WordPress SEO
 
 ## Why WordPress Is the Best CMS for SEO
 
-There is a reason 43% of the web runs on WordPress — and a reason every serious [SEO website design](/seo-website-design/) engagement we take on uses it as the foundation. No other content management system gives you the combination of flexibility, plugin ecosystem, developer community, and raw technical control that SEO at scale demands.
+There is a reason 43% of the web runs on WordPress — and a reason every serious [SEO website design](/services/website-build/) engagement we take on uses it as the foundation. No other content management system gives you the combination of flexibility, plugin ecosystem, developer community, and raw technical control that SEO at scale demands.
 
 But here is the critical distinction: WordPress is the best CMS for SEO only when it is configured correctly. Out of the box, a default WordPress installation with a bloated theme and 30 plugins will underperform a clean Squarespace site. The platform is not magic. It is potential — potential that requires deliberate engineering to unlock.
 
@@ -65,14 +65,14 @@ For a dental practice we manage, ShortPixel reduced total image payload from 12M
 
 ## WordPress-Specific Technical SEO
 
-Beyond the stack, WordPress has configuration requirements that most developers and site owners get wrong. These are the [technical SEO](/technical-seo-services/) fundamentals specific to the platform.
+Beyond the stack, WordPress has configuration requirements that most developers and site owners get wrong. These are the [technical SEO](/services/seo-audit/technical-seo-audit/) fundamentals specific to the platform.
 
 ### Permalink Structure
 
 WordPress defaults to plain permalinks (`?p=123`), which are useless for SEO. We configure custom structures that include the post name and, where appropriate, the category hierarchy:
 
 - **Service pages:** `/services/service-name/`
-- **Blog posts:** `/blog/post-title/`
+- **Blog posts:** `/learn/post-title/`
 - **Location pages:** `/service-areas/city-name/`
 
 Clean, descriptive URLs that include target keywords and reflect site hierarchy. No dates in URLs (they age content unnecessarily). No random numbers. No excessive nesting.
@@ -195,7 +195,7 @@ For businesses operating across multiple locations — franchises, regional serv
 - **Shared theme and plugin stack** across all locations (one update, all sites updated)
 - **Location-specific content** — each location has its own service pages, location pages, and blog content
 - **Centralized analytics and SEO management** with per-location reporting
-- **Individual [Google Business Profile](/google-business-profile-management/) integration** per location
+- **Individual [Google Business Profile](/services/gbp-optimization/) integration** per location
 - **Unified branding** with location-specific customization (phone numbers, addresses, team photos, reviews)
 
 We have deployed WordPress Multisite networks for businesses with 3-25 locations, using subdirectories (example.com/phoenix/, example.com/scottsdale/) to keep all link equity consolidated under a single domain while targeting location-specific keywords on dedicated pages.
@@ -204,12 +204,12 @@ We have deployed WordPress Multisite networks for businesses with 3-25 locations
 
 This is where WordPress intersects with the AI-powered approach that defines LocalCatalyst. The WordPress REST API enables programmatic content management — creating, updating, and publishing content through authenticated API calls rather than manual dashboard interaction.
 
-For clients on our ongoing [content strategy](/seo-content-strategy/) engagements, this means:
+For clients on our ongoing [content strategy](/services/content-pages/) engagements, this means:
 
 - Content drafts can be created and staged programmatically based on keyword research and content calendars
 - Schema markup and meta data can be applied consistently at scale
 - Content performance data can be pulled and analyzed automatically
-- [Internal linking](/on-page-seo-services/) can be audited and updated across large content libraries efficiently
+- [Internal linking](/services/content-pages/) can be audited and updated across large content libraries efficiently
 
 The REST API transforms WordPress from a content management system into a content platform — one that integrates with the automation and intelligence capabilities that power our CATALYST methodology.
 
@@ -233,7 +233,7 @@ Security updates should be applied within 72 hours of release. Major version upd
 
 ### Can you optimize my existing WordPress site without a full rebuild?
 
-In many cases, yes. If your site runs on a lightweight theme (GeneratePress, Astra, Kadence) with a manageable plugin stack, we can optimize the existing installation — cleaning the database, configuring caching, implementing schema, fixing technical issues, and restructuring content. But if your site is built on a heavy page builder with 30+ plugins, a rebuild on our performance stack will be faster, cheaper, and produce better results than trying to optimize around architectural limitations. Our [free SEO audit](/services/seo-audit/) will tell you which approach makes sense for your situation.
+In many cases, yes. If your site runs on a lightweight theme (GeneratePress, Astra, Kadence) with a manageable plugin stack, we can optimize the existing installation — cleaning the database, configuring caching, implementing schema, fixing technical issues, and restructuring content. But if your site is built on a heavy page builder with 30+ plugins, a rebuild on our performance stack will be faster, cheaper, and produce better results than trying to optimize around architectural limitations. Our [SEO Audit](/services/seo-audit/) will tell you which approach makes sense for your situation.
 
 ---
 

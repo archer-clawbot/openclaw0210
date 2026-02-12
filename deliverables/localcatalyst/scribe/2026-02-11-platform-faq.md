@@ -21,7 +21,7 @@
 
 # Frequently Asked Questions
 
-Organized by topic. If your question is not here, [contact us](/contact/) directly.
+Organized by topic. If your question is not here, [contact us](/services/contact/) directly.
 
 ---
 
@@ -57,7 +57,7 @@ It depends on the product. Audits are delivered as branded PDF reports. Content 
 
 ### Can I see a sample before I order?
 
-Yes. [Contact us](/contact/) and tell us which product you are considering. We will send you a sample deliverable so you can evaluate the quality before you spend anything.
+Yes. [Contact us](/services/contact/) and tell us which product you are considering. We will send you a sample deliverable so you can evaluate the quality before you spend anything.
 
 ### Do you offer white label deliverables?
 
@@ -73,7 +73,7 @@ Because the work is executed by AI agents, not a queue of human freelancers. Whe
 
 ### Is AI-generated content as good as human-written?
 
-For SEO content, our system consistently produces work that matches or exceeds what most agencies deliver. Here is why: our agents are not writing from scratch with a blank prompt. They are executing structured workflows built on keyword research, competitive analysis, and the CATALYST content framework. Every page has proper header structure, keyword placement, internal linking, FAQ sections, and E-E-A-T signals. The output is purpose-built for search performance. That said, if you have very specific brand voice requirements or need thought leadership content, [let us know](/contact/) -- we can discuss a hybrid approach.
+For SEO content, our system consistently produces work that matches or exceeds what most agencies deliver. Here is why: our agents are not writing from scratch with a blank prompt. They are executing structured workflows built on keyword research, competitive analysis, and the CATALYST content framework. Every page has proper header structure, keyword placement, internal linking, FAQ sections, and E-E-A-T signals. The output is purpose-built for search performance. That said, if you have very specific brand voice requirements or need thought leadership content, [let us know](/services/contact/) -- we can discuss a hybrid approach.
 
 ### What if I am not happy with the deliverable?
 
@@ -93,18 +93,18 @@ No. The price listed on each [product page](/services/) is the price you pay. Th
 
 ### Do you offer bulk discounts?
 
-Yes. Content pages drop to $69/page at volume (10+ pages per order). Other products have volume pricing available -- [contact us](/contact/) with your scope and we will quote it. Agencies placing regular orders can set up an account with preferred pricing.
+Yes. Content pages drop to $69/page at volume (10+ pages per order). Other products have volume pricing available -- [contact us](/services/contact/) with your scope and we will quote it. Agencies placing regular orders can set up an account with preferred pricing.
 
 ### How does managed SEO pricing work?
 
-Managed SEO is custom-scoped based on your competitive landscape, number of locations, current SEO health, and goals. There is no public price list because the scope varies significantly between a single-location business in a small market and a 10-location franchise in a competitive metro. [Schedule a free strategy call](/schedule/) to get a quote tailored to your situation.
+Managed SEO is custom-scoped based on your competitive landscape, number of locations, current SEO health, and goals. There is no public price list because the scope varies significantly between a single-location business in a small market and a 10-location franchise in a competitive metro. [Schedule a free strategy call](/free-audit/) to get a quote tailored to your situation.
 
 ### Can agencies resell these deliverables?
 
-Yes. Many agencies use LocalCatalyst as their execution layer -- ordering audits, content, topical maps, and schema under white label and delivering them to their own clients. We offer agency pricing for volume orders and can discuss partnership arrangements for ongoing work. [Contact us](/contact/) to set up an agency account.
+Yes. Many agencies use LocalCatalyst as their execution layer -- ordering audits, content, topical maps, and schema under white label and delivering them to their own clients. We offer agency pricing for volume orders and can discuss partnership arrangements for ongoing work. [Contact us](/services/contact/) to set up an agency account.
 
 ---
 
 ## Still Have a Question?
 
-[Contact us](/contact/) -- we respond within 24 hours. Or start with a [free SEO audit](/free-seo-audit/) and see the platform in action.
+[Contact us](/services/contact/) -- we respond within 24 hours. Or start with an [SEO Audit](/services/seo-audit/) and see the platform in action.

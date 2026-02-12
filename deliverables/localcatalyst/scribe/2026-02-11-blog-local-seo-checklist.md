@@ -3,8 +3,8 @@
 **Deliverable:** Blog post (Hub 1 educational content)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/local-seo-checklist/
-**Parent Hub:** /local-seo-services/
+**URL:** /learn/local-seo-checklist/
+**Parent Hub:** /services/
 **Primary Keyword:** local SEO checklist
 **Secondary Keywords:** local SEO checklist 2026, local search optimization checklist, local SEO audit checklist, local SEO steps, local SEO to-do list
 **Title Tag:** Local SEO Checklist: 50+ Steps for 2026 | LocalCatalyst.ai
@@ -14,7 +14,7 @@
 
 ---
 
-Ranking in local search requires getting dozens of individual elements right simultaneously. Miss one critical factor — an incomplete Google Business Profile, inconsistent citations, a missing piece of schema markup — and your entire [local SEO strategy](/local-seo-services/) underperforms. This checklist covers every element you need to address, organized by priority so you can focus on what moves the needle fastest.
+Ranking in local search requires getting dozens of individual elements right simultaneously. Miss one critical factor — an incomplete Google Business Profile, inconsistent citations, a missing piece of schema markup — and your entire [local SEO strategy](/services/) underperforms. This checklist covers every element you need to address, organized by priority so you can focus on what moves the needle fastest.
 
 Use this as a working document. Check off items as you complete them, and revisit quarterly to catch anything that has fallen out of alignment.
 
@@ -61,7 +61,7 @@ Your Google Business Profile (GBP) is the single most influential ranking factor
 - [ ] Monitor your GBP Insights for performance trends monthly
 - [ ] Check for and report any unauthorized edits to your listing
 
-For a deeper dive on profile optimization, see our complete guide to [Google Business Profile optimization](/google-business-profile-optimization/).
+For a deeper dive on profile optimization, see our complete guide to [Google Business Profile optimization](/services/gbp-optimization/).
 
 ## Priority 2: On-Page SEO for Local Relevance
 
@@ -100,7 +100,7 @@ Your website must clearly communicate what you do, where you do it, and why you 
 - [ ] Add location-specific testimonials, team member profiles, or project examples
 - [ ] Link location pages from your main navigation or a prominent locations hub
 
-For detailed guidance on optimizing individual pages, see our [on-page SEO services](/on-page-seo/).
+For detailed guidance on optimizing individual pages, see our [on-page SEO services](/services/on-page-optimization/).
 
 ## Priority 3: Technical SEO Foundations
 
@@ -133,7 +133,7 @@ Technical issues are silent killers. They do not announce themselves, but they u
 - [ ] Ensure your site uses HTTPS throughout (no mixed content warnings)
 - [ ] Set up and monitor Google Search Console for crawl errors and indexing issues
 
-For a comprehensive technical audit, explore our [technical SEO services](/technical-seo/).
+For a comprehensive technical audit, explore our [technical SEO services](/services/seo-audit/technical-seo-audit/).
 
 ## Priority 4: Citation Building and Management
 
@@ -161,7 +161,7 @@ Citations reinforce your business's existence, legitimacy, and location across t
 - [ ] Update all citations immediately if your business name, address, phone number, or website URL changes
 - [ ] Monitor for unauthorized changes or new duplicate listings
 
-See our full guide to [citation building services](/citation-building-services/) for a complete directory list and submission strategy.
+See our full guide to [citation building services](/services/citation-building/) for a complete directory list and submission strategy.
 
 ## Priority 5: Review Generation and Management
 
@@ -185,8 +185,6 @@ Reviews influence rankings, click-through rates, and conversion rates. A consist
 - [ ] Flag and report clearly fake or spam reviews through Google's review reporting tool
 - [ ] Monitor review velocity — sudden drops may indicate a process breakdown
 
-For comprehensive review strategy, visit our [reputation management services](/reputation-management/).
-
 ## Priority 6: Link Building for Local Authority
 
 Backlinks remain one of the most powerful ranking signals. Local links carry special weight for local search rankings.
@@ -209,7 +207,7 @@ Backlinks remain one of the most powerful ranking signals. Local links carry spe
 - [ ] Seek out unlinked brand mentions and request links
 - [ ] Build relationships with local bloggers and influencers in your industry
 
-Learn more about local authority building through our [link building services](/link-building-services/).
+Learn more about local authority building through our [link building services](/managed/).
 
 ## Priority 7: Content Strategy for Local Relevance
 
@@ -231,7 +229,7 @@ Ongoing content creation builds topical authority, attracts local backlinks, and
 - [ ] Add FAQ sections with schema markup where relevant
 - [ ] Promote new content through your Google Business Profile posts and social channels
 
-Explore our full approach to [local content strategy](/content-strategy/).
+Explore our full approach to [local content strategy](/services/content-pages/).
 
 ## Quarterly Audit Checkpoints
 

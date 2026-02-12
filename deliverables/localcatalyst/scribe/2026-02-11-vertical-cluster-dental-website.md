@@ -16,7 +16,7 @@
 
 Most dental websites look great and perform terribly. They showcase the practice with polished photography and a modern color palette — then bury the phone number, load in 6 seconds on mobile, and have three total pages that can rank in Google. The gap between a dental website that looks professional and one that actually generates patients is entirely structural.
 
-If you're investing in [dental SEO](/industries/dental-seo/), your website is either an accelerator or a bottleneck. This guide covers the architectural, technical, and content decisions that determine which one it is. For a broader look at SEO-driven site design, see our [SEO website design](/seo-website-design/) service.
+If you're investing in [dental SEO](/industries/dental-seo/), your website is either an accelerator or a bottleneck. This guide covers the architectural, technical, and content decisions that determine which one it is. For a broader look at SEO-driven site design, see our [SEO website design](/services/website-build/) service.
 
 ## Site Architecture: The Pages Your Dental Website Needs
 

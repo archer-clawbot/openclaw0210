@@ -6,18 +6,21 @@
 **Agent:** Scribe
 **URL:** `/reputation-management-services/review-monitoring/`
 **Parent Hub:** `/reputation-management-services/`
+**Title Tag:** Review Monitoring Service — Real-Time Alerts | LocalCatalyst
+**Meta Description:** Monitor every review across all platforms with real-time alerts, sentiment analysis, and competitor tracking. Never miss a review again.
+**H1:** You Cannot Manage What You Cannot See
 **Primary Keyword:** review monitoring service
 **Word Count Target:** 1,200
 
 ---
 
-**Breadcrumbs:** [Home](/) > [Reputation Management Services](/reputation-management-services/) > Review Monitoring
+**Breadcrumbs:** [Home](/) > Reputation Management Services > Review Monitoring
 
 ## You Cannot Manage What You Cannot See
 
 New reviews about your business are being posted right now — on Google, Yelp, Facebook, and industry-specific platforms you may not even be checking. Some are positive. Some are negative. Some are from customers you served this morning. Some are fake reviews posted by competitors or disgruntled non-customers. And if you are not monitoring all of them in real time, you are losing control of the narrative that determines whether new customers choose you or your competitor.
 
-As a core service within our [reputation management services](/reputation-management-services/), review monitoring ensures that no review goes unseen, unanalyzed, or unresponded to — across every platform that matters for your business and your rankings. This is not a "set it and forget it" alert system. It is systematic, multi-platform surveillance of every signal that shapes your online reputation.
+As a core service within our reputation management services, review monitoring ensures that no review goes unseen, unanalyzed, or unresponded to — across every platform that matters for your business and your rankings. This is not a "set it and forget it" alert system. It is systematic, multi-platform surveillance of every signal that shapes your online reputation.
 
 **[Order Your SEO Audit](/services/seo-audit/)** — We include a complete review profile snapshot across all platforms, showing exactly where your reputation stands today.
 
@@ -37,7 +40,7 @@ The damage from a negative review compounds with every hour it sits unaddressed.
 
 A negative review with no response reads as: "This business does not care." A negative review with a thoughtful, professional response reads as: "This business takes customer satisfaction seriously." The difference in conversion impact is measurable — and it starts with knowing the review exists within hours, not weeks.
 
-This pairs directly with our [negative review management](/reputation-management-services/negative-review-management/) and [review response](/reputation-management-services/review-response/) services. Monitoring is the detection layer. Response strategy is what turns detection into reputation protection.
+This pairs directly with our negative review management and review response services. Monitoring is the detection layer. Response strategy is what turns detection into reputation protection.
 
 ---
 
@@ -86,7 +89,7 @@ Individual reviews tell a story. Patterns across reviews tell the truth. Our mon
 
 - **Sentiment scoring** — Each review is classified as positive, neutral, or negative, with subcategory tagging (service quality, wait time, pricing, staff, cleanliness, etc.)
 - **Trend analysis** — We track sentiment trends over time to identify emerging issues before they become crises. If "wait time" complaints increase 40% over two months, that is a signal worth acting on — even if individual reviews are only mildly negative.
-- **Keyword extraction** — We identify the words and phrases customers use most frequently, which informs both your service improvements and your [SEO content strategy](/seo-content-strategy/) (matching real customer language in your content).
+- **Keyword extraction** — We identify the words and phrases customers use most frequently, which informs both your service improvements and your [SEO content strategy](/services/content-pages/) (matching real customer language in your content).
 
 ### Competitor Review Monitoring
 
@@ -97,7 +100,7 @@ Your reputation exists relative to your competitors. A 4.5-star rating is excell
 - **Competitor sentiment patterns** — What are their customers complaining about? That is your differentiation opportunity.
 - **Competitor response behavior** — Are they responding to reviews? How quickly? How well?
 
-This competitive intelligence shapes both your [review generation](/reputation-management-services/review-generation/) targets and your overall reputation strategy.
+This competitive intelligence shapes both your review generation targets and your overall reputation strategy.
 
 ---
 
@@ -111,7 +114,7 @@ Every month, we deliver a comprehensive review performance report that includes:
 - **Response metrics** — Average response time, response rate, and response quality scoring
 - **Competitor benchmarking** — Your review metrics compared to your top competitors
 - **Platform-specific insights** — Notable changes in platform behavior (Yelp filtering, Google review removal, etc.)
-- **Recommendations** — Specific actions to take based on review data (service improvements, response strategy adjustments, [review generation](/reputation-management-services/review-generation/) campaign modifications)
+- **Recommendations** — Specific actions to take based on review data (service improvements, response strategy adjustments, review generation campaign modifications)
 
 ---
 
@@ -124,7 +127,7 @@ Not all negative reviews require the same response. Our monitoring system includ
 - **Tier 3 (Fake or policy-violating reviews):** Immediate flagging for removal through the platform's dispute process. Documentation prepared for escalation to platform support.
 - **Tier 4 (Crisis-level):** Multiple negative reviews in a short period, viral negative content, or reviews alleging legal or ethical violations. Immediate escalation to your team with a coordinated response strategy.
 
-This structured approach ensures that the most damaging reviews receive the fastest, most strategic responses — protecting your reputation and your [local SEO rankings](/local-seo-services/) simultaneously.
+This structured approach ensures that the most damaging reviews receive the fastest, most strategic responses — protecting your reputation and your [local SEO rankings](/services/) simultaneously.
 
 ---
 
@@ -144,7 +147,7 @@ We document the review, flag it for removal through the platform's official disp
 
 ### Does review monitoring replace responding to reviews myself?
 
-It depends on your preference. Some businesses want us to handle all review responses through our [review response management](/reputation-management-services/review-response/) service. Others prefer to respond themselves but want us to handle monitoring, alerting, and escalation. We support both models and can adjust as your needs evolve.
+It depends on your preference. Some businesses want us to handle all review responses through our review response management service. Others prefer to respond themselves but want us to handle monitoring, alerting, and escalation. We support both models and can adjust as your needs evolve.
 
 ---
 

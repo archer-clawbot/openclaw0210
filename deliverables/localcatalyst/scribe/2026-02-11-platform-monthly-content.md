@@ -32,6 +32,8 @@ We built our monthly content plans so you never have to think about it. Every we
 
 Each post is 1,200-1,800 words, fully optimized with target keywords, header structure, internal links, meta tags, and FAQ sections. Topics are selected based on keyword research and aligned to your topical authority strategy.
 
+At $297/month, that's under $75 per optimized post — less than half what most freelancers charge for SEO content, and a fraction of what agencies bill. Each post is built from keyword research, structured for rankings, and aligned to a topical authority strategy. You're not paying for words. You're paying for a system that compounds.
+
 **Best for:** Businesses that need a steady publishing cadence to build organic traffic and topical authority. You handle your own GBP and social channels -- you just need the blog content.
 
 ---
@@ -50,7 +52,7 @@ Everything in Starter, plus 8 GBP posts (2 per week) written to drive engagement
 
 Double the blog output, three GBP posts per week, and two new landing pages (service pages, location pages, or comparison pages) each month. This tier is designed for businesses in competitive markets that need to build content velocity fast -- or agencies white-labeling content for multiple clients.
 
-**Best for:** Multi-location businesses building out city pages, competitive verticals where topical authority is the deciding factor, and agencies reselling content at scale.
+**Best for:** Multi-location businesses building out city pages, competitive verticals where topical authority is the deciding factor, and agencies reselling content at scale. Agency clients ordering Authority plans for 3+ clients receive priority turnaround and dedicated account coordination.
 
 ---
 
@@ -120,6 +122,6 @@ Yes. The Authority tier is popular with agencies who resell content to their own
 
 Pick a plan. Tell us your business details. Receive your first content calendar within 48 hours.
 
-[Get Started -- $297/mo](/order/monthly-content-starter/) | [Growth -- $497/mo](/order/monthly-content-growth/) | [Authority -- $697/mo](/order/monthly-content-authority/)
+[Get Started -- $297/mo](/free-audit/) | [Growth -- $497/mo](/free-audit/) | [Authority -- $697/mo](/free-audit/)
 
-Need something custom? [Contact us](/contact/) and we'll build a plan around your content needs.
+Need something custom? [Talk to us about custom plans](/managed/) and we'll build a plan around your content needs.

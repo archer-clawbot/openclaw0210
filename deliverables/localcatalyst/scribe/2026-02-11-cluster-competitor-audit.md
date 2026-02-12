@@ -4,20 +4,23 @@
 **Deliverable:** Service sub-page (cluster)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** `/seo-audit-services/competitor-audit/`
-**Parent Hub:** `/seo-audit-services/`
+**URL:** `/services/seo-audit/competitor-audit/`
+**Parent Hub:** `/services/seo-audit/`
+**Title Tag:** SEO Competitor Audit — Uncover Ranking Gaps | LocalCatalyst
+**Meta Description:** Discover why competitors outrank you with our comprehensive SEO competitor audit. Get actionable insights into content, links, and technical gaps.
+**H1:** The Businesses Ranking Above You Are Not Smarter. They Are Better Informed.
 **Primary Keyword:** SEO competitor audit
 **Word Count Target:** 1,500
 
 ---
 
-**Breadcrumbs:** [Home](/) > [SEO Audit Services](/seo-audit-services/) > Competitor Audit
+**Breadcrumbs:** [Home](/) > [SEO Audit Services](/services/seo-audit/) > Competitor Audit
 
 ## The Businesses Ranking Above You Are Not Smarter. They Are Better Informed.
 
 You know who your business competitors are. But do you know who your SEO competitors are? They are not always the same. Your biggest business rival may have zero organic visibility, while a company you have never heard of dominates the search results for every keyword that should be bringing you customers.
 
-As a strategic component of our [SEO audit services](/seo-audit-services/), our competitor audit identifies your true SEO competitors — the businesses that actually rank for the keywords you need to win — and deconstructs exactly why they rank where they do. This is not a surface-level comparison. It is a systematic analysis of every ranking factor across every competitor, producing a competitive intelligence document that tells you precisely what you need to do to overtake them.
+As a strategic component of our [SEO audit services](/services/seo-audit/), our competitor audit identifies your true SEO competitors — the businesses that actually rank for the keywords you need to win — and deconstructs exactly why they rank where they do. This is not a surface-level comparison. It is a systematic analysis of every ranking factor across every competitor, producing a competitive intelligence document that tells you precisely what you need to do to overtake them.
 
 You cannot outrank what you do not understand. And most businesses are competing blind — investing in SEO tactics without knowing whether those tactics address the actual competitive gaps in their market.
 
@@ -70,7 +73,7 @@ We crawl each competitor's website and evaluate:
 - **Schema markup** — What structured data are they implementing that you are not?
 - **Site architecture** — How is their content organized, and how does it compare to your internal linking structure?
 
-Competitors with superior technical foundations will outrank you even if your content is better. This analysis identifies the technical gaps you need to close. It aligns directly with our [technical SEO audit](/seo-audit-services/technical-seo-audit/) findings for your own site.
+Competitors with superior technical foundations will outrank you even if your content is better. This analysis identifies the technical gaps you need to close. It aligns directly with our [technical SEO audit](/services/seo-audit/technical-seo-audit/) findings for your own site.
 
 ### 2. Content Strategy Analysis
 
@@ -82,7 +85,7 @@ Content is where the biggest competitive gaps typically emerge:
 - **Content freshness** — How frequently do they publish new content and update existing pages?
 - **Content types** — Do they use formats you do not (video, tools, calculators, infographics, podcasts)?
 
-For every content gap we identify, we document the opportunity: the keyword, the competitor ranking for it, the search volume, and what it would take to create competing content. This feeds directly into the [content strategy](/seo-content-strategy/) we build for your business.
+For every content gap we identify, we document the opportunity: the keyword, the competitor ranking for it, the search volume, and what it would take to create competing content. This feeds directly into the [content strategy](/services/content-pages/) we build for your business.
 
 ### 3. Backlink Profile Comparison
 
@@ -94,7 +97,7 @@ Backlinks remain the primary authority signal in Google's algorithm. We compare:
 - **Link sources** — Which specific sites link to them that do not link to you? Each one is a potential link building target.
 - **Anchor text patterns** — What anchor text distribution are they using, and how does it compare to yours?
 
-This analysis produces the link gap report that drives our [link building services](/link-building-services/) strategy. Every domain that links to a competitor but not to you is a proven link opportunity.
+This analysis produces the link gap report that drives our [link building services](/managed/) strategy. Every domain that links to a competitor but not to you is a proven link opportunity.
 
 ### 4. Google Business Profile Comparison
 
@@ -107,7 +110,7 @@ For local businesses, GBP optimization can make or break Map Pack rankings:
 - **Q&A section** — Are they actively managing their Q&A while yours sits empty?
 - **Service and product listings** — How complete is their GBP content relative to yours?
 
-GBP competitive gaps are often the fastest to close and produce the quickest ranking impact — which is why our [reputation management services](/reputation-management-services/) and GBP optimization always incorporate competitive benchmarking.
+GBP competitive gaps are often the fastest to close and produce the quickest ranking impact — which is why our [GBP optimization](/services/gbp-optimization/) and [managed SEO](/managed/) always incorporate competitive benchmarking.
 
 ### 5. Review Profile Strength
 
@@ -119,7 +122,7 @@ Reviews are both a ranking factor and a conversion factor. We compare:
 - **Review sentiment** — What are customers praising and complaining about?
 - **Review response rate** — Are competitors responding to reviews? How quickly?
 
-A competitor with 400 Google reviews averaging 4.8 stars has a structural advantage that cannot be overcome with technical SEO or content alone. Understanding the review landscape determines how aggressively we prioritize [review generation](/reputation-management-services/review-generation/) in your strategy.
+A competitor with 400 Google reviews averaging 4.8 stars has a structural advantage that cannot be overcome with technical SEO or content alone. Understanding the review landscape determines how aggressively we prioritize review generation in your strategy.
 
 ### 6. Competitive Gap Scoring
 
@@ -143,9 +146,9 @@ This scoring framework makes competitive positioning concrete and measurable. It
 Data without action is trivia. Every finding in our competitor audit maps to a specific strategic recommendation:
 
 - **Competitor outranks you for "emergency plumber Phoenix" because they have a dedicated emergency services page with 2,200 words, FAQ schema, and 14 backlinks.** Action: Create a competing page, implement schema, target the linking domains.
-- **Competitor dominates the Map Pack because they have 340 Google reviews at 4.9 stars while you have 85 at 4.4.** Action: Implement aggressive [review generation](/reputation-management-services/review-generation/) campaign targeting 15+ reviews per month.
-- **Competitor ranks for 45 informational keywords you do not target.** Action: Develop content strategy covering those topics through [blog content](/seo-content-strategy/blog-writing-services/) and resource pages.
-- **Competitor has backlinks from 12 local media outlets and community organizations that do not link to you.** Action: Target those exact sources through [local link building](/link-building-services/local-link-building/) and [digital PR](/link-building-services/digital-pr/).
+- **Competitor dominates the Map Pack because they have 340 Google reviews at 4.9 stars while you have 85 at 4.4.** Action: Implement aggressive review generation campaign targeting 15+ reviews per month.
+- **Competitor ranks for 45 informational keywords you do not target.** Action: Develop content strategy covering those topics through [blog content](/services/content-pages/blog-writing-services/) and resource pages.
+- **Competitor has backlinks from 12 local media outlets and community organizations that do not link to you.** Action: Target those exact sources through [local link building](/managed/local-link-building/) and [digital PR](/managed/digital-pr/).
 
 Every recommendation is prioritized by impact and effort, producing a roadmap that addresses the most significant competitive gaps first.
 
@@ -179,7 +182,7 @@ Absolutely. If you have specific competitors you want analyzed, we include them.
 
 ### How often should we re-audit competitors?
 
-We recommend a full competitor audit annually, with quarterly tracking reviews that monitor key metrics. The competitive landscape shifts continuously — new content, new links, review growth — and your strategy needs to adapt accordingly. The [backlink audit](/seo-audit-services/backlink-audit/) we conduct for your own profile includes competitor comparison data that keeps this intelligence current.
+We recommend a full competitor audit annually, with quarterly tracking reviews that monitor key metrics. The competitive landscape shifts continuously — new content, new links, review growth — and your strategy needs to adapt accordingly. The [backlink audit](/services/seo-audit/backlink-audit/) we conduct for your own profile includes competitor comparison data that keeps this intelligence current.
 
 ### What if our competitors are significantly ahead?
 

@@ -14,13 +14,13 @@
 
 ---
 
-*Breadcrumbs: [Home](/) > [Industries](/industries/) > [Home Services SEO](/industries/home-services-seo/) > Home Services Review Strategy*
+*Breadcrumbs: [Home](/) > [Industries](/services/) > [Home Services SEO](/industries/home-services-seo/) > Home Services Review Strategy*
 
 ## Review Strategy for Home Services: Turn Every Job Into a Ranking Signal
 
 Reviews are the most powerful trust signal in home services — and one of the top three ranking factors for Map Pack visibility. A homeowner choosing between three plumbers in their Google search results will almost always pick the one with more reviews, a higher rating, and recent review activity. As our [home services SEO guide](/industries/home-services-seo/) details, the businesses that dominate local search in competitive trades are the ones that have built systematic review generation into their standard operating procedures.
 
-Home service businesses have a unique advantage in review generation that most other industries lack: your technician is standing in the customer's home immediately after delivering a visible result. A cleared drain, a working furnace, a repaired roof — the customer is experiencing relief and satisfaction at the exact moment when a review request is most effective. The companies that capitalize on this advantage build review profiles that competitors cannot match. Our [reputation management services](/reputation-management-services/) help home service businesses build, manage, and leverage reviews as a strategic asset.
+Home service businesses have a unique advantage in review generation that most other industries lack: your technician is standing in the customer's home immediately after delivering a visible result. A cleared drain, a working furnace, a repaired roof — the customer is experiencing relief and satisfaction at the exact moment when a review request is most effective. The companies that capitalize on this advantage build review profiles that competitors cannot match. Our reputation management services help home service businesses build, manage, and leverage reviews as a strategic asset.
 
 ## Why Reviews Matter More in Home Services
 

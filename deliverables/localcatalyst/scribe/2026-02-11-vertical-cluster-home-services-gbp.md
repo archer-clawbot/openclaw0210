@@ -14,13 +14,13 @@
 
 ---
 
-*Breadcrumbs: [Home](/) > [Industries](/industries/) > [Home Services SEO](/industries/home-services-seo/) > Home Services Google Business Profile*
+*Breadcrumbs: [Home](/) > [Industries](/services/) > [Home Services SEO](/industries/home-services-seo/) > Home Services Google Business Profile*
 
 ## Google Business Profile for Home Services: Dominate the Map Pack
 
 For home service businesses, the Google Map Pack is where the money is. When a homeowner searches "plumber near me" or "AC repair [city]," they are looking at the three businesses Google surfaces in the map results — and choosing one. The business with the strongest Google Business Profile wins that click, which often becomes a $300-15,000 service call. As our [home services SEO guide](/industries/home-services-seo/) explains, no single asset influences local search performance more than your GBP, and for service area businesses that travel to customers, optimizing it correctly requires understanding Google's specific policies and best practices for SABs.
 
-Home service GBP optimization involves unique challenges that other industries do not face. You likely hide your address because customers do not visit your location. You serve multiple cities and need to appear across all of them. Your services span multiple trade categories. And your competitors are aggressively gaming the system with fake addresses and keyword-stuffed business names. This guide covers how to set up, optimize, and manage your GBP to maximize Map Pack visibility legitimately and sustainably. For a comprehensive look at GBP management across all verticals, visit our [Google Business Profile management](/google-business-profile-management/) service page.
+Home service GBP optimization involves unique challenges that other industries do not face. You likely hide your address because customers do not visit your location. You serve multiple cities and need to appear across all of them. Your services span multiple trade categories. And your competitors are aggressively gaming the system with fake addresses and keyword-stuffed business names. This guide covers how to set up, optimize, and manage your GBP to maximize Map Pack visibility legitimately and sustainably. For a comprehensive look at GBP management across all verticals, visit our [Google Business Profile management](/services/gbp-optimization/) service page.
 
 ## Service Area Business (SAB) Setup
 

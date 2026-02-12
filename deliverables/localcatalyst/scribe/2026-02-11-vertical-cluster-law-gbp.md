@@ -16,7 +16,7 @@
 
 For law firms competing in local search, the Google Business Profile is often the single most visible asset in search results. The local 3-pack appears above organic listings for most attorney-related queries, and the firms that earn those positions capture a disproportionate share of phone calls and direction requests. Within our [law firm SEO](/industries/law-firm-seo/) framework, GBP optimization is a foundational element that compounds the impact of every other SEO investment.
 
-LocalCatalyst's [Google Business Profile management](/google-business-profile-management/) approach for law firms addresses the specific challenges attorneys face: complex category selection, multi-attorney profile management, ethical review generation, and content strategies that resonate with legal consumers.
+LocalCatalyst's [Google Business Profile management](/services/gbp-optimization/) approach for law firms addresses the specific challenges attorneys face: complex category selection, multi-attorney profile management, ethical review generation, and content strategies that resonate with legal consumers.
 
 ## Category Selection for Law Firms
 
@@ -151,4 +151,4 @@ Reviews are a significant local ranking factor. Both review quantity and average
 
 Your Google Business Profile is often the first impression potential clients have of your firm. A well-optimized profile with strong reviews, accurate categories, and regular engagement can mean the difference between appearing in the local 3-pack and being invisible in your own market.
 
-[Order an SEO Audit](/services/seo-audit/) to see how your Google Business Profile performance compares to competing firms in your area, or [contact LocalCatalyst](/contact/) to discuss a comprehensive local visibility strategy for your practice.
+[Order an SEO Audit](/services/seo-audit/) to see how your Google Business Profile performance compares to competing firms in your area, or [contact LocalCatalyst](/managed/) to discuss a comprehensive local visibility strategy for your practice.

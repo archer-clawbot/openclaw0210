@@ -3,8 +3,8 @@
 **Deliverable:** Blog post (Citation Building educational content)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/top-citation-sources/
-**Parent Hub:** /citation-building-services/
+**URL:** /learn/top-citation-sources/
+**Parent Hub:** /services/citation-building/
 **Primary Keyword:** top citation sources for local SEO
 **Secondary Keywords:** best citation sites, local SEO directories, citation building sources, business directories for SEO, where to list your business online
 **Title Tag:** Top Citation Sources for Local SEO (2026) | LocalCatalyst.ai
@@ -14,7 +14,7 @@
 
 ---
 
-Building a citation profile is only as effective as the sources you submit to. Not all directories are created equal. Some carry significant authority and directly influence local rankings, while others provide minimal value or are ignored by search engines entirely. Our [citation building services](/citation-building-services/) are built around a curated, prioritized list of citation sources that we update continuously based on performance data.
+Building a citation profile is only as effective as the sources you submit to. Not all directories are created equal. Some carry significant authority and directly influence local rankings, while others provide minimal value or are ignored by search engines entirely. Our [citation building services](/services/citation-building/) are built around a curated, prioritized list of citation sources that we update continuously based on performance data.
 
 This guide provides a comprehensive, ranked list of the best citation sources for local businesses in 2026, organized by category. Use it as your roadmap for building a citation profile that maximizes local search visibility.
 
@@ -267,14 +267,14 @@ Do not attempt to build all citations simultaneously. Follow this prioritized se
 **Month 3: Specialization**
 - Submit to all relevant Tier 5 industry-specific directories
 - Build Tier 6 local and community citations
-- Begin first [citation audit](/blog/citation-audit-guide/) to verify consistency across all submissions
+- Begin first [citation audit](/learn/citation-audit-guide/) to verify consistency across all submissions
 
 **Ongoing:**
 - Monitor and maintain existing citations quarterly
 - Pursue unstructured citation opportunities through PR, sponsorships, and community involvement
 - Audit for new inconsistencies introduced by aggregator updates or platform changes
 
-Our [on-page SEO services](/on-page-seo-services/) ensure that the on-site signals your website sends reinforce the citation profile you are building externally.
+Our [on-page SEO services](/services/on-page-optimization/) ensure that the on-site signals your website sends reinforce the citation profile you are building externally.
 
 ## Frequently Asked Questions
 

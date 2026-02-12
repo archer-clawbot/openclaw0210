@@ -3,8 +3,8 @@
 **Deliverable:** Service sub-page (cluster)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /technical-seo-services/mobile-optimization/
-**Parent Hub:** /technical-seo-services/
+**URL:** /services/seo-audit/mobile-optimization/
+**Parent Hub:** /services/seo-audit/
 **Primary Keyword:** mobile SEO optimization
 **Secondary Keywords:** mobile-first indexing, mobile usability, responsive design SEO, mobile page speed, mobile UX local business, mobile conversion optimization
 **Title Tag:** Mobile SEO Optimization for Local Businesses | LocalCatalyst.ai
@@ -14,11 +14,11 @@
 
 ---
 
-**Breadcrumbs:** [Home](/) > [Technical SEO Services](/technical-seo-services/) > Mobile Optimization
+**Breadcrumbs:** [Home](/) > [Technical SEO Services](/services/seo-audit/technical-seo-audit/) > Mobile Optimization
 
 ## Mobile-First Indexing: Your Mobile Site IS Your Site
 
-Google completed its transition to mobile-first indexing, which means the mobile version of your website is the primary version Google crawls, indexes, and uses for ranking decisions. As a fundamental component of our [technical SEO services](/technical-seo-services/), mobile optimization isn't a secondary consideration — it's the foundation. If your site delivers a poor mobile experience, every other SEO investment is built on unstable ground.
+Google completed its transition to mobile-first indexing, which means the mobile version of your website is the primary version Google crawls, indexes, and uses for ranking decisions. As a fundamental component of our [technical SEO services](/services/seo-audit/technical-seo-audit/), mobile optimization isn't a secondary consideration — it's the foundation. If your site delivers a poor mobile experience, every other SEO investment is built on unstable ground.
 
 The data reinforces this reality. Over 60% of all Google searches now occur on mobile devices, and for local searches — the lifeblood of local businesses — that number exceeds 76%. When someone searches "plumber near me" or "emergency AC repair," they're almost certainly on their phone. They're high-intent, they're ready to act, and they'll choose the first business that delivers a fast, frictionless mobile experience.
 
@@ -105,7 +105,7 @@ While 5G coverage is expanding, a significant portion of mobile traffic still oc
 
 ### Mobile-Specific Speed Optimizations
 
-Beyond the general strategies covered in our [site speed optimization guide](/technical-seo-services/site-speed-optimization/), mobile-specific priorities include:
+Beyond the general strategies covered in our [site speed optimization guide](/services/seo-audit/site-speed-optimization/), mobile-specific priorities include:
 
 - **Aggressive image optimization:** Serve smaller image dimensions for mobile viewports using `srcset`
 - **Reduce third-party scripts:** Each third-party script adds DNS lookups and connection overhead that disproportionately impact mobile
@@ -224,7 +224,7 @@ Compare mobile and desktop conversion rates. If mobile traffic converts at less 
 
 ## Mobile Optimization and Core Web Vitals
 
-Mobile CWV metrics are typically worse than desktop metrics for the same page due to slower processors and connections. Google evaluates mobile and desktop CWV separately, and since mobile-first indexing means your mobile experience determines rankings, passing mobile [Core Web Vitals thresholds](/technical-seo-services/core-web-vitals/) is the priority.
+Mobile CWV metrics are typically worse than desktop metrics for the same page due to slower processors and connections. Google evaluates mobile and desktop CWV separately, and since mobile-first indexing means your mobile experience determines rankings, passing mobile [Core Web Vitals thresholds](/services/seo-audit/core-web-vitals/) is the priority.
 
 Common mobile-specific CWV issues:
 - **LCP:** Hero images that aren't optimized for mobile dimensions, slow server response on first visit (no cache)

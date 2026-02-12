@@ -112,14 +112,14 @@ These attributes appear as filters in Google's search interface. Patients active
 
 ## Step 7: Build and Respond to Reviews
 
-Reviews are covered in depth in our [patient review management](/industries/medical-practices/patient-review-management/) guide, but the GBP-specific points matter here.
+Reviews are covered in depth in our [patient review management](/industries/medical-practices/) guide, but the GBP-specific points matter here.
 
 **For GBP ranking purposes:**
 - Review velocity (how frequently you receive new reviews) matters more than total count
 - Reviews containing keywords ("great dermatologist," "best pediatrician in [city]") boost rankings for those terms
 - Owner responses to reviews signal engagement to Google's algorithm — respond to every review within 48 hours
 
-Your [Google Business Profile management](/google-business-profile-management/) strategy should integrate review generation as a core weekly activity, not an afterthought.
+Your [Google Business Profile management](/services/gbp-optimization/) strategy should integrate review generation as a core weekly activity, not an afterthought.
 
 ## Step 8: Track Performance With the Right Metrics
 

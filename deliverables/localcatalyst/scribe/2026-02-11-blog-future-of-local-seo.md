@@ -3,8 +3,8 @@
 **Deliverable:** Thought leadership blog post
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/future-of-local-seo/
-**Parent Hub:** /blog/
+**URL:** /learn/future-of-local-seo/
+**Parent Hub:** /learn/
 **Primary Keyword:** future of local SEO
 **Secondary Keywords:** local search trends, AI Overviews local search, voice search local SEO, zero-click searches, entity-based SEO, hyperlocal targeting, multi-platform local discovery
 **Title Tag:** Future of Local SEO: 8 Shifts Defining 2026-2029
@@ -28,7 +28,7 @@ For local businesses, this means the search results page itself is becoming the 
 
 The response is not to fight AI Overviews. It is to become the source they pull from. This means structured data, authoritative content, consistent business information, and — critically — being mentioned across multiple trusted sources so the AI system has redundant signals confirming your relevance and quality.
 
-We cover this in much more depth in our piece on [AI Overviews and local SEO](/blog/google-ai-overviews-local-seo/), but the fundamental point is this: AI Overviews reward businesses that have built genuine authority across the web, not just those that have optimized a single website page.
+We cover this in much more depth in our piece on [AI Overviews and local SEO](/learn/google-ai-overviews-local-seo/), but the fundamental point is this: AI Overviews reward businesses that have built genuine authority across the web, not just those that have optimized a single website page.
 
 ## 2. Entity-Based SEO Will Replace Keyword-Based Local Targeting
 
@@ -62,7 +62,7 @@ Google still dominates local search. But the next generation of consumers is dis
 
 TikTok's search functionality is primitive compared to Google, but for certain categories — restaurants, bars, retail, salons, fitness studios — young consumers search TikTok first. Instagram's Map feature surfaces businesses tagged in posts and stories. Reddit threads rank prominently in Google results for comparison and recommendation queries.
 
-This does not mean every local business needs a TikTok strategy. It means the definition of "local search optimization" is expanding beyond Google. A [comprehensive local SEO strategy](/services/local-seo/) in 2026 and beyond needs to account for where your specific audience discovers businesses, not just where the largest aggregate search volume exists.
+This does not mean every local business needs a TikTok strategy. It means the definition of "local search optimization" is expanding beyond Google. A [comprehensive local SEO strategy](/services/) in 2026 and beyond needs to account for where your specific audience discovers businesses, not just where the largest aggregate search volume exists.
 
 The data signal here is clear: businesses that appear consistently across multiple platforms send stronger authority signals to Google as well. Multi-platform presence is not just about reaching users on those platforms — it reinforces your entity profile in Google's understanding of your business.
 
@@ -128,4 +128,4 @@ Quarterly strategic reviews are a reasonable minimum. The local search landscape
 
 ---
 
-**Want to know where your business stands in the shifting local search landscape?** [Get a free SEO audit](/services/seo-audit/) that includes geo-grid ranking analysis, entity profile evaluation, and a prioritized roadmap built for where local SEO is heading — not where it has been.
+**Want to know where your business stands in the shifting local search landscape?** Our [SEO Audit](/services/seo-audit/) includes geo-grid ranking analysis, entity profile evaluation, and a prioritized roadmap built for where local SEO is heading — not where it has been.

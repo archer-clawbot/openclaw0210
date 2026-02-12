@@ -39,7 +39,7 @@ We don't run a single tool and hand you a PDF. Our comprehensive audit examines 
 
 ### Pillar 1: Technical SEO Audit
 
-Your website's technical foundation determines whether Google can even find, crawl, render, and index your content. A technically broken site will never rank, no matter how good your content is. Our [technical SEO audit](/seo-audit-services/technical-seo-audit/) examines every layer of your site's infrastructure.
+Your website's technical foundation determines whether Google can even find, crawl, render, and index your content. A technically broken site will never rank, no matter how good your content is. Our [technical SEO audit](/services/seo-audit/technical-seo-audit/) examines every layer of your site's infrastructure.
 
 **Crawlability Analysis**
 
@@ -79,7 +79,7 @@ We test every page template against Google's performance thresholds — not just
 - Structured data validation (schema markup errors and warnings)
 - JavaScript rendering issues (content that requires JS to be visible to Googlebot)
 
-For businesses with significant technical debt, our [technical SEO services](/technical-seo-services/) address everything the audit uncovers.
+For businesses with significant technical debt, our [technical SEO services](/services/seo-audit/technical-seo-audit/) address everything the audit uncovers.
 
 ---
 
@@ -124,13 +124,13 @@ Internal links are how you tell Google which pages matter most. We map your enti
 - Missing width/height attributes causing CLS
 - Opportunities for WebP/AVIF format conversion
 
-For deeper reading on on-page factors, see our [on-page SEO services](/on-page-seo-services/) hub page.
+For deeper reading on on-page factors, see our [on-page SEO services](/services/on-page-optimization/) hub page.
 
 ---
 
 ### Pillar 3: Local SEO and Google Business Profile Audit
 
-For local businesses, your Google Business Profile and local search signals are often more important than your website for Map Pack visibility. Our [local SEO audit](/seo-audit-services/local-seo-audit/) goes deep on every local ranking factor.
+For local businesses, your Google Business Profile and local search signals are often more important than your website for Map Pack visibility. Our [local SEO audit](/services/seo-audit/local-seo-audit/) goes deep on every local ranking factor.
 
 **Google Business Profile Completeness**
 
@@ -179,13 +179,13 @@ Reviews influence both rankings and conversion rates. We analyze:
 - Response rate and response quality
 - Negative review patterns (recurring complaints = operational issues)
 
-For comprehensive GBP optimization, see our [Google Business Profile management](/google-business-profile-optimization/) services.
+For comprehensive GBP optimization, see our [Google Business Profile management](/services/gbp-optimization/) services.
 
 ---
 
 ### Pillar 4: Backlink Profile Audit
 
-Your backlink profile is one of the strongest ranking signals in Google's algorithm. But not all links are created equal, and bad links can actively hurt you. Our [backlink audit](/seo-audit-services/backlink-audit/) evaluates the quality, quantity, and health of your link profile.
+Your backlink profile is one of the strongest ranking signals in Google's algorithm. But not all links are created equal, and bad links can actively hurt you. Our [backlink audit](/services/seo-audit/backlink-audit/) evaluates the quality, quantity, and health of your link profile.
 
 **Link Quality Assessment**
 
@@ -218,13 +218,13 @@ We pull the backlink profiles of your top 5 local competitors and identify:
 - The link velocity needed to be competitive in your market
 - High-value link opportunities specific to your industry and location
 
-For ongoing link acquisition, see our [link building services](/link-building-services/) hub page.
+For ongoing link acquisition, see our [link building services](/managed/) hub page.
 
 ---
 
 ### Pillar 5: Competitive Landscape Audit
 
-You don't rank in a vacuum. Your rankings are relative to every other business competing for the same keywords in your market. Our [competitor audit](/seo-audit-services/competitor-audit/) reverse-engineers what's working for the businesses that are outranking you.
+You don't rank in a vacuum. Your rankings are relative to every other business competing for the same keywords in your market. Our [competitor audit](/services/seo-audit/competitor-audit/) reverse-engineers what's working for the businesses that are outranking you.
 
 **Competitor Identification**
 
@@ -258,13 +258,13 @@ The goal isn't to copy competitors — it's to find the gaps and advantages. We 
 
 ---
 
-## Free Audit vs. Comprehensive Audit: What's the Difference?
+## Visibility Scan vs. Comprehensive Audit: What's the Difference?
 
 We offer two levels of SEO analysis, and it's important to understand what each delivers.
 
-### Free SEO Audit (Visibility Scan)
+### SEO Visibility Scan
 
-Our **[free SEO audit](/services/seo-audit/)** is a high-level visibility scan designed to show you where you stand and identify the most obvious issues. It includes:
+Our **[SEO Visibility Scan](/services/seo-audit/)** is a high-level analysis designed to show you where you stand and identify the most obvious issues. It includes:
 
 - Geo-grid ranking snapshot for your top 3 keywords
 - GBP completeness score
@@ -273,12 +273,12 @@ Our **[free SEO audit](/services/seo-audit/)** is a high-level visibility scan d
 - High-level opportunity assessment
 
 **Turnaround:** 2–3 business days
-**Cost:** Free, no obligation
+**Cost:** $297
 **Best for:** Businesses that want to understand their current position before committing to anything
 
 ### Comprehensive SEO Audit (Deep Analysis)
 
-The comprehensive audit is the full five-pillar analysis described above. It includes everything in the free audit plus:
+The comprehensive audit is the full five-pillar analysis described above. It includes everything in the Visibility Scan plus:
 
 - Full site crawl (every URL analyzed)
 - Complete Core Web Vitals audit across all page templates
@@ -293,7 +293,7 @@ The comprehensive audit is the full five-pillar analysis described above. It inc
 **Turnaround:** 5–7 business days
 **Best for:** Businesses ready to invest in a data-driven SEO strategy
 
-The free audit answers the question: *"How visible am I?"* The comprehensive audit answers: *"Why am I where I am, and exactly what do I do about it?"*
+The Visibility Scan answers the question: *"How visible am I?"* The comprehensive audit answers: *"Why am I where I am, and exactly what do I do about it?"*
 
 ---
 
@@ -367,7 +367,7 @@ The audit itself doesn't move rankings — but it arms you with the intelligence
 
 ## What's Included
 
-### Free SEO Audit
+### SEO Visibility Scan
 
 - Geo-grid ranking snapshot (3 keywords)
 - GBP completeness assessment
@@ -425,31 +425,31 @@ If you're ready to see what's holding your rankings back, **[order your SEO audi
 
 ### How long does a comprehensive SEO audit take?
 
-Our free visibility scan is delivered within 2–3 business days. A comprehensive Standard audit takes 5–7 business days, and the Enterprise audit takes 7–10 business days. The timeline depends on the size of your website, the number of locations, and the complexity of your competitive landscape. We don't rush audits — thoroughness is the entire point.
+Our Visibility Scan is delivered within 2–3 business days. A comprehensive Standard audit takes 5–7 business days, and the Enterprise audit takes 7–10 business days. The timeline depends on the size of your website, the number of locations, and the complexity of your competitive landscape. We don't rush audits — thoroughness is the entire point.
 
 ### How much does an SEO audit cost?
 
-Our free audit is exactly that — free, with no strings attached. The comprehensive Standard audit is a one-time investment that varies based on site size and market complexity. The Enterprise audit is priced for multi-location businesses and includes ongoing quarterly re-audits. We provide exact pricing after a brief discovery call where we assess the scope of your site and competitive landscape. Contact us for a quote.
+The Visibility Scan is an affordable starting point. The comprehensive Standard audit is a one-time investment that varies based on site size and market complexity. The Enterprise audit is priced for multi-location businesses and includes ongoing quarterly re-audits. We provide exact pricing after a brief discovery call where we assess the scope of your site and competitive landscape. [Browse Our Services](/services/) to see all available options and pricing tiers.
 
-### How is your free audit different from the tools I can run myself?
+### How is your audit different from the tools I can run myself?
 
-Tools like Screaming Frog, SEMrush, and Ahrefs generate raw data. Our free audit interprets that data in the context of your specific market and competition. We show you your geo-grid rankings (which no free tool provides), compare your GBP optimization against actual local competitors, and identify the issues that specifically matter for your market. The difference is context and prioritization — knowing which of the 200 issues actually matters.
+Tools like Screaming Frog, SEMrush, and Ahrefs generate raw data. Our audit interprets that data in the context of your specific market and competition. We show you your geo-grid rankings (which no free tool provides), compare your GBP optimization against actual local competitors, and identify the issues that specifically matter for your market. The difference is context and prioritization — knowing which of the 200 issues actually matters.
 
 ### Do I need an audit if I'm already working with an SEO company?
 
-Especially then. We audit dozens of businesses each quarter that are paying $1,000–$3,000/month for SEO with no measurable results. The audit reveals whether your current provider is actually doing what they claim. We've uncovered cases where agencies hadn't touched a client's GBP in 6 months, never built a single citation, or were generating "reports" from automated tools without any actual optimization work. Think of it as a second opinion — and it costs you nothing.
+Especially then. We audit dozens of businesses each quarter that are paying for SEO with no measurable results. The audit reveals whether your current provider is actually doing what they claim. We've uncovered cases where agencies hadn't touched a client's GBP in 6 months, never built a single citation, or were generating "reports" from automated tools without any actual optimization work. Think of it as a second opinion.
 
 ### What happens after the audit?
 
-You receive a comprehensive report with prioritized findings and a strategy call to walk through everything. From there, you have three options: (1) Take the findings and execute them yourself or with your current provider. We don't hold anything hostage. (2) Hire us to execute the roadmap through our ongoing [local SEO services](/local-seo-services/). (3) Start with the quick wins and expand the engagement as you see results. There's no pressure and no obligation. The audit stands on its own as a valuable deliverable.
+You receive a comprehensive report with prioritized findings and a strategy call to walk through everything. From there, you have three options: (1) Take the findings and execute them yourself or with your current provider. We don't hold anything hostage. (2) Engage us to execute the roadmap through our ongoing [local SEO services](/services/). (3) Start with the quick wins and expand the engagement as you see results. The audit stands on its own as a valuable deliverable.
 
 ### How often should I get an SEO audit?
 
-We recommend a comprehensive audit annually at minimum, with quarterly check-ins on key metrics. SEO is a moving target — Google's algorithm changes, competitors adjust their strategies, and your own site evolves with new content and technical changes. Our Enterprise audit tier includes quarterly re-audits specifically for this reason. For a deeper dive on audit frequency, read our guide on [how often you need an SEO audit](/blog/how-often-seo-audit/).
+We recommend a comprehensive audit annually at minimum, with quarterly check-ins on key metrics. SEO is a moving target — Google's algorithm changes, competitors adjust their strategies, and your own site evolves with new content and technical changes. Our Enterprise audit tier includes quarterly re-audits specifically for this reason. For a deeper dive on audit frequency, read our guide on [how often you need an SEO audit](/learn/how-often-seo-audit/).
 
 ### Can you audit my competitors too?
 
-Absolutely — competitive analysis is one of the five pillars of our audit. We analyze your top competitors' technical SEO, content strategy, backlink profiles, GBP optimization, and review profiles. This isn't just to see what they're doing — it's to find the specific gaps and opportunities you can exploit. The [competitor audit](/seo-audit-services/competitor-audit/) component often reveals the highest-ROI opportunities in the entire analysis.
+Absolutely — competitive analysis is one of the five pillars of our audit. We analyze your top competitors' technical SEO, content strategy, backlink profiles, GBP optimization, and review profiles. This isn't just to see what they're doing — it's to find the specific gaps and opportunities you can exploit. The [competitor audit](/services/seo-audit/competitor-audit/) component often reveals the highest-ROI opportunities in the entire analysis.
 
 ### What tools do you use for the audit?
 
@@ -462,23 +462,23 @@ We use a combination of enterprise-grade tools including Screaming Frog for craw
 This hub page is supported by the following in-depth resources:
 
 ### Cluster Pages
-- [Local SEO Audit: Complete Guide to Local Search Analysis](/seo-audit-services/local-seo-audit/)
-- [Technical SEO Audit: Infrastructure and Performance Analysis](/seo-audit-services/technical-seo-audit/)
-- [Content Audit: Finding Gaps, Redundancies, and Opportunities](/seo-audit-services/content-audit/)
-- [Backlink Audit: Link Quality and Toxic Link Analysis](/seo-audit-services/backlink-audit/)
-- [Competitor Audit: Reverse-Engineering What's Working](/seo-audit-services/competitor-audit/)
+- [Local SEO Audit: Complete Guide to Local Search Analysis](/services/seo-audit/local-seo-audit/)
+- [Technical SEO Audit: Infrastructure and Performance Analysis](/services/seo-audit/technical-seo-audit/)
+- [Content Audit: Finding Gaps, Redundancies, and Opportunities](/services/seo-audit/content-audit/)
+- [Backlink Audit: Link Quality and Toxic Link Analysis](/services/seo-audit/backlink-audit/)
+- [Competitor Audit: Reverse-Engineering What's Working](/services/seo-audit/competitor-audit/)
 
 ### Related Blog Posts
-- [What Is an SEO Audit? Everything You Need to Know](/blog/what-is-an-seo-audit/)
-- [The SEO Audit Template We Use for Every Client](/blog/seo-audit-template/)
-- [How Often Should You Run an SEO Audit?](/blog/how-often-seo-audit/)
-- [DIY SEO Audit Guide: What You Can Check Yourself](/blog/diy-seo-audit-guide/)
+- [What Is an SEO Audit? Everything You Need to Know](/learn/what-is-an-seo-audit/)
+- [The SEO Audit Template We Use for Every Client](/learn/seo-audit-template/)
+- [How Often Should You Run an SEO Audit?](/learn/how-often-seo-audit/)
+- [DIY SEO Audit Guide: What You Can Check Yourself](/learn/diy-seo-audit-guide/)
 
 ### Related Hub Pages
-- [Technical SEO Services](/technical-seo-services/) — Deep technical optimization for crawlability, speed, and indexation
-- [Local SEO Services](/local-seo-services/) — Comprehensive local search strategy beyond the audit
-- [Link Building Services](/link-building-services/) — Ongoing authority building informed by backlink audit findings
-- [On-Page SEO Services](/on-page-seo-services/) — Content and on-page optimization execution
-- [SEO Content Strategy](/seo-content-strategy/) — Content planning to fill the gaps the audit reveals
-- [Google Business Profile Management](/google-business-profile-optimization/) — Full GBP optimization and ongoing management
-- [SEO Website Design](/seo-website-design/) — When the audit reveals it's time for a rebuild
+- [Technical SEO Services](/services/seo-audit/technical-seo-audit/) — Deep technical optimization for crawlability, speed, and indexation
+- [Local SEO Services](/services/) — Comprehensive local search strategy beyond the audit
+- [Link Building Services](/managed/) — Ongoing authority building informed by backlink audit findings
+- [On-Page SEO Services](/services/on-page-optimization/) — Content and on-page optimization execution
+- [SEO Content Strategy](/services/content-pages/) — Content planning to fill the gaps the audit reveals
+- [Google Business Profile Management](/services/gbp-optimization/) — Full GBP optimization and ongoing management
+- [SEO Website Design](/services/website-build/) — When the audit reveals it's time for a rebuild

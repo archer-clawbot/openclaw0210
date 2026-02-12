@@ -4,7 +4,7 @@
 **Date:** 2026-02-11
 **Agent:** Scribe
 **URL:** /learn/how-to-build-topical-authority/
-**Parent Hub:** /learn/seo-content-strategy/
+**Parent Hub:** /learn/services/content-pages/
 **Primary Keyword:** how to build topical authority
 **Secondary Keywords:** topical authority SEO, hub and spoke content model, content depth vs breadth, internal linking for authority, topical relevance
 **Title Tag:** How to Build Topical Authority for SEO | LocalCatalyst.ai
@@ -14,7 +14,7 @@
 
 ---
 
-If your website publishes content on a dozen unrelated topics, Google has no reason to consider you an authority on any of them. Topical authority is the foundational principle behind every successful [SEO content strategy](/learn/seo-content-strategy/) in 2026, and understanding how to build it systematically is what separates sites that dominate search results from those buried on page five.
+If your website publishes content on a dozen unrelated topics, Google has no reason to consider you an authority on any of them. Topical authority is the foundational principle behind every successful [SEO content strategy](/services/content-pages/) in 2026, and understanding how to build it systematically is what separates sites that dominate search results from those buried on page five.
 
 This guide breaks down exactly what topical authority is, how Google evaluates it, and the specific steps you can take to establish your site as the definitive resource in your niche.
 

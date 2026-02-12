@@ -122,4 +122,4 @@ The best way to understand the system is to use it.
 
 Or [browse all products](/services/) and pick the deliverable that matches what you need right now.
 
-Want the full-service experience? [Schedule a managed SEO call](/schedule/) and we will scope a custom engagement.
+Want the full-service experience? [Schedule a managed SEO call](/free-audit/) and we will scope a custom engagement.

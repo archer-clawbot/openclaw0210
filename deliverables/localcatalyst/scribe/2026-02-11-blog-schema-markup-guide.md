@@ -3,7 +3,10 @@
 **Deliverable:** Blog post content
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/schema-markup-guide/
+**URL:** /learn/schema-markup-guide/
+**Title Tag:** Schema Markup Guide — Complete Local Business Guide | LocalCatalyst
+**Meta Description:** Complete schema markup guide for local businesses. JSON-LD implementation, LocalBusiness, FAQPage, Service, testing, and rich results strategies.
+**H1:** The Complete Schema Markup Guide for Local Businesses
 **Primary Keyword:** schema markup guide
 **Secondary Keywords:** structured data SEO, local business schema, rich results, JSON-LD, schema types for local SEO
 **Category:** technical-seo
@@ -38,10 +41,10 @@ Complements `LocalBusiness` by establishing your brand entity. Include your logo
 Wrapping your FAQ content in `FAQPage` schema makes it eligible for expandable FAQ rich results directly in search. These accordion-style results can double your listing's visual footprint. Each question-answer pair is a separate `Question` entity nested inside the `FAQPage`.
 
 **4. Service**
-Define each service you offer with its own `Service` schema, including the service type, area served, description, and provider. This helps Google associate specific queries with specific service pages — critical for [local SEO](/services/local-seo/) targeting.
+Define each service you offer with its own `Service` schema, including the service type, area served, description, and provider. This helps Google associate specific queries with specific service pages — critical for [local SEO](/services/) targeting.
 
 **5. BreadcrumbList**
-Breadcrumb schema replaces your raw URL in search results with a clean, clickable navigation path (Home > Services > Plumbing). This improves both user experience and crawl efficiency by reinforcing your [site architecture](/services/technical-seo/).
+Breadcrumb schema replaces your raw URL in search results with a clean, clickable navigation path (Home > Services > Plumbing). This improves both user experience and crawl efficiency by reinforcing your [site architecture](/services/seo-audit/).
 
 **6. Article**
 For your blog content, `Article` or `BlogPosting` schema establishes authorship, publication date, and content structure. This supports freshness signals and can qualify your content for Top Stories and other editorial placements.
@@ -60,7 +63,7 @@ Implementation follows a consistent pattern regardless of the schema type:
 
 **Step 5: Validate and deploy.** Test before pushing live. Fix all errors and as many warnings as possible.
 
-For businesses running JavaScript-heavy frameworks, ensure your structured data is present in the server-rendered HTML, not injected client-side. See our guide on [JavaScript SEO best practices](/blog/javascript-seo-best-practices/) for rendering considerations.
+For businesses running JavaScript-heavy frameworks, ensure your structured data is present in the server-rendered HTML, not injected client-side. See our guide on [JavaScript SEO best practices](/learn/javascript-seo-best-practices/) for rendering considerations.
 
 ## Testing and Validating Your Structured Data
 
@@ -79,7 +82,7 @@ A page can pass validation and still not generate rich results. Eligibility depe
 The measurable impact of proper schema implementation on local search performance is well-documented:
 
 - **Rich results CTR**: Pages with rich results average 58% of all clicks on the SERP, compared to 41% for standard results (Search Engine Journal, 2025).
-- **Local pack influence**: While schema alone does not determine local pack rankings, `LocalBusiness` schema reinforces the NAP consistency signals that our [GBP optimization](/services/google-business-profile-optimization/) strategies rely on.
+- **Local pack influence**: While schema alone does not determine local pack rankings, `LocalBusiness` schema reinforces the NAP consistency signals that our [GBP optimization](/services/gbp-optimization/) strategies rely on.
 - **FAQ visibility**: `FAQPage` schema can generate 2-4 additional lines of content directly in search results, displacing competitor listings below the fold.
 - **Voice search**: Structured data is a primary source for voice assistant answers. `FAQPage` and `HowTo` schema are particularly effective for capturing featured snippets that voice devices read aloud.
 
@@ -87,7 +90,7 @@ The compound effect matters most. Implementing all relevant schema types across 
 
 ## Common Schema Markup Mistakes That Kill Rich Results
 
-These are the errors we see most frequently during [technical SEO audits](/services/technical-seo/):
+These are the errors we see most frequently during [technical SEO audits](/services/seo-audit/technical-seo-audit/):
 
 **Mismatched NAP data.** Your schema's business name, address, and phone number must exactly match your Google Business Profile and all other citations. Even minor discrepancies — "St." vs "Street" — can create conflicting entity signals.
 
@@ -105,7 +108,7 @@ These are the errors we see most frequently during [technical SEO audits](/servi
 Schema markup is not a direct ranking factor. However, it enables rich results that significantly improve click-through rates, and higher CTR is a user engagement signal that can indirectly influence rankings over time. The primary value is enhanced SERP visibility.
 
 ### How long does it take for rich results to appear after adding schema?
-Typically 2-4 weeks after Google recrawls and reindexes the page. You can accelerate this by requesting indexing through Google Search Console's URL Inspection tool. Monitor the Enhancements reports for confirmation. For tips on ensuring efficient crawling, read our [crawl budget optimization guide](/blog/crawl-budget-optimization/).
+Typically 2-4 weeks after Google recrawls and reindexes the page. You can accelerate this by requesting indexing through Google Search Console's URL Inspection tool. Monitor the Enhancements reports for confirmation. For tips on ensuring efficient crawling, read our [crawl budget optimization guide](/learn/crawl-budget-optimization/).
 
 ### Can I add multiple schema types to a single page?
 Yes. In fact, most pages should have multiple schema types. A service page might include `LocalBusiness`, `Service`, `BreadcrumbList`, and `FAQPage` schema simultaneously. Use separate JSON-LD blocks or nest them appropriately.
@@ -117,4 +120,8 @@ Absolutely. Your GBP and your website's structured data serve complementary purp
 
 Schema markup is one of the highest-ROI technical SEO tasks available to local businesses. It requires no ongoing ad spend, takes effect within weeks, and compounds in value as you add more schema types across your site.
 
-If structured data implementation feels overwhelming, or if you want an expert audit of your existing schema, [contact LocalCatalyst](/contact/) for a technical SEO assessment. We will identify every structured data opportunity your site is missing and build an implementation plan that drives measurable rich result gains.
+---
+
+**Ready to unlock rich results for your business?** [Get Schema Markup ($197)](/services/schema-markup/)
+
+---

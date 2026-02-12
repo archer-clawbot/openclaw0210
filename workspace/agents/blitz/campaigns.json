@@ -1,0 +1,32 @@
+{
+  "campaigns": [
+    {
+      "name": "Example Campaign",
+      "slug": "example-campaign",
+      "client": "Example Client",
+      "platform": "meta",
+      "campaign_id": "",
+      "auto_optimize": false,
+      "optimization_constraints": {
+        "max_budget_increase_per_week": 0.20,
+        "max_budget_decrease_per_week": 0.30,
+        "min_conversions_before_pause": 0,
+        "min_spend_before_pause": 50,
+        "allowed_actions": [
+          "pause-ads",
+          "scale-budget",
+          "adjust-bids",
+          "add-negative-keywords",
+          "duplicate-winners"
+        ],
+        "forbidden_actions": [
+          "change-targeting",
+          "change-landing-page",
+          "pause-campaign",
+          "budget-increase-50-percent-plus"
+        ],
+        "min_confidence_score": 7
+      }
+    }
+  ]
+}

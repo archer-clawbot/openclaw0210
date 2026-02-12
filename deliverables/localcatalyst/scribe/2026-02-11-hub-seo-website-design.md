@@ -29,7 +29,7 @@ At LocalCatalyst, we don't build websites and then optimize them. We engineer th
 
 If your current site isn't generating organic leads, it's not a marketing problem — it's a foundation problem. And no amount of SEO layered on top of a broken foundation will fix it.
 
-**[Start with a free SEO audit](/services/seo-audit/)** to see exactly what your current website is costing you in lost rankings and revenue.
+**[Start with our SEO Audit](/services/seo-audit/)** to see exactly what your current website is costing you in lost rankings and revenue.
 
 ---
 
@@ -45,7 +45,7 @@ A genuinely SEO-engineered website addresses **every layer** of how search engin
 
 Search engines can't rank what they can't find. We build sites with clean crawl paths, logical URL structures, properly configured robots.txt directives, and XML sitemaps that reflect your actual site hierarchy. No orphan pages. No crawl traps. No infinite parameter URLs bleeding your crawl budget.
 
-This matters even more in 2026 as Google's crawl budget allocation has tightened. Sites that waste Googlebot's time on low-value pages see their important content crawled less frequently. We've seen [technical SEO](/technical-seo-services/) issues like these tank rankings for businesses that had otherwise strong content.
+This matters even more in 2026 as Google's crawl budget allocation has tightened. Sites that waste Googlebot's time on low-value pages see their important content crawled less frequently. We've seen [technical SEO](/services/seo-audit/technical-seo-audit/) issues like these tank rankings for businesses that had otherwise strong content.
 
 ### Site Speed and Core Web Vitals
 
@@ -81,7 +81,7 @@ We don't start with a theme and customize it. We start with your business goals,
 
 ### The CATALYST Methodology Applied to Web Design
 
-Our [CATALYST framework](/seo-audit-services/) (Audit, Prioritize, Execute, Expand) drives every engagement, including website builds:
+Our [CATALYST framework](/services/seo-audit/) (Audit, Prioritize, Execute, Expand) drives every engagement, including website builds:
 
 1. **Audit:** We analyze your current site's technical health, your competitors' site architectures, and your keyword opportunity landscape
 2. **Prioritize:** We map your highest-value service keywords to a site architecture that maximizes topical authority
@@ -102,7 +102,7 @@ We've tested dozens of platforms, themes, and hosting configurations. Our standa
 
 Because they generate bloated code, limit technical SEO control, and create performance ceilings you can never break through. A Squarespace site will never load as fast as a properly built WordPress site. An Elementor page will never have as clean a DOM as a GeneratePress template. These aren't opinions — they're measurable, testable facts.
 
-For deeper WordPress optimization strategies, see our guide on [WordPress SEO](/seo-website-design/wordpress-seo/).
+For deeper WordPress optimization strategies, see our guide on [WordPress SEO](/services/website-build/wordpress-seo/).
 
 ---
 
@@ -120,13 +120,13 @@ Speed isn't a feature we add at the end. It's an engineering constraint we desig
 
 **Database Optimization:** Clean post revisions, optimized autoload data, efficient queries. WordPress database bloat is a silent performance killer — we prevent it from day one.
 
-The result: sites that load in under 2 seconds on mobile, score 90+ on Google PageSpeed Insights, and pass all Core Web Vitals thresholds. For context on why speed matters beyond rankings, see our analysis of [website speed and conversion rates](/blog/website-speed-conversion-rates/).
+The result: sites that load in under 2 seconds on mobile, score 90+ on Google PageSpeed Insights, and pass all Core Web Vitals thresholds. For context on why speed matters beyond rankings, see our analysis of [website speed and conversion rates](/learn/website-speed-conversion-rates/).
 
 ---
 
 ## Site Architecture for SEO: Hub-and-Spoke Structure
 
-Site architecture is where web design meets [SEO content strategy](/seo-content-strategy/). A flat site with 15 pages all hanging off the homepage doesn't build topical authority. A deeply nested site with pages buried four clicks deep doesn't distribute link equity.
+Site architecture is where web design meets [SEO content strategy](/services/content-pages/). A flat site with 15 pages all hanging off the homepage doesn't build topical authority. A deeply nested site with pages buried four clicks deep doesn't distribute link equity.
 
 We build **hub-and-spoke architectures** (also called silo structures) that organize your content into thematic clusters:
 
@@ -142,7 +142,7 @@ We build **hub-and-spoke architectures** (also called silo structures) that orga
 
 Each hub page links down to its spokes. Each spoke links back up to its hub and laterally to related spokes. Breadcrumb navigation reinforces the hierarchy. The result is a site that Google understands topically, users navigate intuitively, and link equity flows efficiently to your money pages.
 
-This architecture also maps perfectly to [on-page SEO](/on-page-seo-services/) best practices — each page targets a specific keyword cluster without cannibalizing sibling pages.
+This architecture also maps perfectly to [on-page SEO](/services/on-page-optimization/) best practices — each page targets a specific keyword cluster without cannibalizing sibling pages.
 
 ---
 
@@ -166,7 +166,7 @@ Strategically placed review excerpts, star ratings, certification badges, and be
 
 For local businesses, phone calls and direction requests are primary conversion events. Tap-to-call buttons, click-to-text options, and embedded Google Maps with directions — all engineered for the mobile user who's ready to act now.
 
-For businesses that want to go deeper on conversion optimization, we offer dedicated [CRO services](/seo-website-design/conversion-rate-optimization/) as an ongoing engagement.
+For businesses that want to go deeper on conversion optimization, we offer dedicated [CRO services](/services/website-build/conversion-rate-optimization/) as an ongoing engagement.
 
 ---
 
@@ -174,7 +174,7 @@ For businesses that want to go deeper on conversion optimization, we offer dedic
 
 If you already have an established website with some organic traffic, a redesign is high-risk if handled poorly. We've rescued businesses that lost 60%+ of their organic traffic after a redesign by a designer who didn't understand SEO.
 
-Our [website redesign process](/seo-website-design/website-redesign-seo/) includes:
+Our [website redesign process](/services/website-build/website-redesign-seo/) includes:
 
 - **Full crawl and content audit** of the existing site before any changes
 - **URL mapping document** — every old URL mapped to its new destination
@@ -189,7 +189,7 @@ Our [website redesign process](/seo-website-design/website-redesign-seo/) includ
 
 ## Landing Page Design for Paid Campaigns
 
-Organic SEO pages and paid campaign landing pages serve different purposes and require different architectures. We build dedicated [landing pages](/seo-website-design/landing-page-design/) for PPC, LSA, and social ad campaigns:
+Organic SEO pages and paid campaign landing pages serve different purposes and require different architectures. We build dedicated [landing pages](/services/website-build/landing-page-design/) for PPC, LSA, and social ad campaigns:
 
 - **Focused messaging** — one service, one audience, one action
 - **No navigation distractions** — these pages exist to convert, not to browse
@@ -197,7 +197,7 @@ Organic SEO pages and paid campaign landing pages serve different purposes and r
 - **Fast load times** — every second of load time costs you conversions (and increases CPC)
 - **Conversion tracking** — proper event tracking so you know exactly what's working
 
-We build landing pages that work with your [paid campaigns](/ppc-management/) while your organic pages build long-term authority.
+We build landing pages that work with your [paid campaigns](/services/) while your organic pages build long-term authority.
 
 ---
 
@@ -268,7 +268,7 @@ We don't promise page one rankings overnight. We build websites that earn them t
 
 Most web designers don't understand SEO. Most SEO agencies don't build websites. We do both — and we do them together, because separating design from search strategy is how businesses end up with beautiful sites that nobody finds.
 
-We're not a design agency that bolted on SEO services. We're an [SEO agency](/seo-agency/) that builds websites as a natural extension of our search optimization expertise. Every design decision is informed by keyword data, competitive analysis, and technical SEO requirements.
+We're not a design agency that bolted on SEO services. We're an [SEO agency](/services/seo-agency/) that builds websites as a natural extension of our search optimization expertise. Every design decision is informed by keyword data, competitive analysis, and technical SEO requirements.
 
 **No templates.** No page builder bloat. No "we'll optimize it later." Your site is engineered for performance from the first commit.
 
@@ -294,15 +294,15 @@ WordPress gives us complete control over technical SEO — custom schema, server
 
 ### Do I need ongoing SEO after my website launches?
 
-A well-built website gives you a massive head start, but SEO is an ongoing process. Your competitors are creating content, earning links, and optimizing their profiles. We recommend pairing your website build with ongoing [local SEO services](/local-seo-services/) to maintain and grow your rankings. The website is the foundation — ongoing SEO is what builds on it.
+A well-built website gives you a massive head start, but SEO is an ongoing process. Your competitors are creating content, earning links, and optimizing their profiles. We recommend pairing your website build with ongoing [local SEO services](/services/) to maintain and grow your rankings. The website is the foundation — ongoing SEO is what builds on it.
 
 ### What if I already have a WordPress site — can you optimize it?
 
-In many cases, yes. If your current site is on a lightweight theme with a clean codebase, we can optimize it without a full rebuild. But if it's running on a bloated page builder (Elementor, Divi, Avada) with 40+ plugins, a rebuild on our performance stack will be more cost-effective than trying to optimize around architectural limitations. We'll assess this during your [free SEO audit](/services/seo-audit/).
+In many cases, yes. If your current site is on a lightweight theme with a clean codebase, we can optimize it without a full rebuild. But if it's running on a bloated page builder (Elementor, Divi, Avada) with 40+ plugins, a rebuild on our performance stack will be more cost-effective than trying to optimize around architectural limitations. We'll assess this during your [SEO Audit](/services/seo-audit/).
 
 ### Do you write the website content too?
 
-Yes. Every website build includes SEO-optimized content for all pages. We research your target keywords, analyze competitor content, and write conversion-focused copy that targets the terms your customers actually search for. We don't use generic filler content — every paragraph serves a ranking and conversion purpose. For ongoing content needs, see our [SEO content strategy](/seo-content-strategy/) services.
+Yes. Every website build includes SEO-optimized content for all pages. We research your target keywords, analyze competitor content, and write conversion-focused copy that targets the terms your customers actually search for. We don't use generic filler content — every paragraph serves a ranking and conversion purpose. For ongoing content needs, see our [SEO content strategy](/services/content-pages/) services.
 
 ### Will my website work for AI Overviews and LLM results?
 
@@ -315,19 +315,19 @@ We build with 2026 search in mind. That means structured data, clear content hie
 This hub page is supported by the following in-depth resources:
 
 ### Cluster Pages
-- [WordPress SEO: The Complete Optimization Guide](/seo-website-design/wordpress-seo/)
-- [Landing Page Design for Local Businesses](/seo-website-design/landing-page-design/)
-- [Website Redesign Without Losing SEO Rankings](/seo-website-design/website-redesign-seo/)
-- [Conversion Rate Optimization for Local Business Websites](/seo-website-design/conversion-rate-optimization/)
+- [WordPress SEO: The Complete Optimization Guide](/services/website-build/wordpress-seo/)
+- [Landing Page Design for Local Businesses](/services/website-build/landing-page-design/)
+- [Website Redesign Without Losing SEO Rankings](/services/website-build/website-redesign-seo/)
+- [Conversion Rate Optimization for Local Business Websites](/services/website-build/conversion-rate-optimization/)
 
 ### Related Blog Posts
-- [SEO-Friendly Website Design: 15 Non-Negotiable Elements](/blog/seo-friendly-website-design-tips/)
-- [How Website Speed Directly Impacts Your Conversion Rates](/blog/website-speed-conversion-rates/)
-- [The Best WordPress SEO Plugins (And the Ones to Avoid)](/blog/best-wordpress-seo-plugins/)
-- [UX Signals and SEO: How User Behavior Affects Your Rankings](/blog/ux-signals-seo/)
+- [SEO-Friendly Website Design: 15 Non-Negotiable Elements](/learn/seo-friendly-website-design-tips/)
+- [How Website Speed Directly Impacts Your Conversion Rates](/learn/website-speed-conversion-rates/)
+- [The Best WordPress SEO Plugins (And the Ones to Avoid)](/learn/best-wordpress-seo-plugins/)
+- [UX Signals and SEO: How User Behavior Affects Your Rankings](/learn/ux-signals-seo/)
 
 ### Related Hub Pages
-- [Technical SEO Services](/technical-seo-services/) — The deep technical optimization that goes beyond what's built into the site
-- [On-Page SEO Services](/on-page-seo-services/) — Ongoing on-page optimization for content and conversion
-- [SEO Content Strategy](/seo-content-strategy/) — Content planning that builds topical authority over time
-- [SEO Audit Services](/seo-audit-services/) — Where every engagement starts
+- [Technical SEO Services](/services/seo-audit/technical-seo-audit/) — The deep technical optimization that goes beyond what's built into the site
+- [On-Page SEO Services](/services/on-page-optimization/) — Ongoing on-page optimization for content and conversion
+- [SEO Content Strategy](/services/content-pages/) — Content planning that builds topical authority over time
+- [SEO Audit Services](/services/seo-audit/) — Where every engagement starts

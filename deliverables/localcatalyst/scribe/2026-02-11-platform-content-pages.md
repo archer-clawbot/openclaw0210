@@ -17,7 +17,7 @@
 
 **$97/page | As low as $69/page at volume | Delivered in 2-4 hours per page**
 
-[Order Content Pages](/order/content-pages/)
+[Order Content Pages](/free-audit/)
 
 ---
 
@@ -51,7 +51,10 @@ That's the difference. And it takes our system 2-4 hours to produce.
 |---|---|---|
 | 1-9 pages | $97/page | 5 pages = $485 |
 | 10-24 pages | $79/page | 15 pages = $1,185 |
-| 25+ pages | $69/page | 30 pages = $2,070 |
+| 25-49 pages | $69/page | 30 pages = $2,070 |
+| 50+ pages | $59/page | 50 pages = $2,950 |
+
+Pages over 2,000 words are priced at 1.5x the standard rate.
 
 Pricing applies to a single order. The more pages you order at once, the lower the per-page cost.
 
@@ -146,7 +149,7 @@ Currently we support English only. Spanish content is coming soon.
 | 10-24 pages | $79 | 48-72 hours total |
 | 25+ pages | $69 | 48-72 hours total |
 
-[Order Content Pages](/order/content-pages/)
+[Order Content Pages](/free-audit/)
 
 ---
 

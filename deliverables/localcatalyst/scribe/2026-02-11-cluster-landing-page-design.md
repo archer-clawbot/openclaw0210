@@ -3,8 +3,8 @@
 **Deliverable:** Service sub-page (cluster)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /seo-website-design/landing-page-design/
-**Parent Hub:** /seo-website-design/
+**URL:** /services/website-build/landing-page-design/
+**Parent Hub:** /services/website-build/
 **Primary Keyword:** SEO landing page design
 **Secondary Keywords:** landing page design services, local business landing pages, location landing pages, PPC landing pages, service area landing pages
 **Title Tag:** SEO Landing Page Design for Local Businesses | LocalCatalyst.ai
@@ -14,11 +14,11 @@
 
 ---
 
-**Breadcrumbs:** [Home](/) > [SEO Website Design](/seo-website-design/) > Landing Page Design
+**Breadcrumbs:** [Home](/) > [SEO Website Design](/services/website-build/) > Landing Page Design
 
 ## What Makes a Landing Page Different
 
-A landing page is not just another page on your website. It is a page engineered for a single, specific action — designed as part of our [SEO website design](/seo-website-design/) methodology to eliminate distractions and channel every visitor toward one conversion goal. While your standard service pages serve multiple purposes (informing, building authority, linking to related content), a landing page has one job: convert.
+A landing page is not just another page on your website. It is a page engineered for a single, specific action — designed as part of our [SEO website design](/services/website-build/) methodology to eliminate distractions and channel every visitor toward one conversion goal. While your standard service pages serve multiple purposes (informing, building authority, linking to related content), a landing page has one job: convert.
 
 The distinction matters because different contexts demand different architectures. A visitor arriving from a Google Ads campaign for "emergency AC repair" needs a different experience than someone browsing your full HVAC services section. The organic visitor is exploring. The paid visitor has already decided they need help — they need to decide they need you, and they need to decide right now.
 
@@ -34,7 +34,7 @@ Dedicated pages targeting a single service with focused conversion architecture.
 
 Each service-specific landing page targets a distinct keyword cluster, addresses the unique concerns of that service's buyer, and provides a conversion path tailored to the service type. The customer considering a $50,000 kitchen remodel has different questions, objections, and trust requirements than the customer needing a $3,000 deck repair.
 
-These pages form the backbone of your [on-page SEO](/on-page-seo-services/) strategy — each one targeting a specific keyword that your ideal customers are searching for.
+These pages form the backbone of your [on-page SEO](/services/on-page-optimization/) strategy — each one targeting a specific keyword that your ideal customers are searching for.
 
 ### Location-Specific Landing Pages
 
@@ -48,7 +48,7 @@ Effective location landing pages are not the same template with the city name sw
 - **Unique photos** of work completed in that area
 - **Local competitor context** (what makes your service different in this specific market)
 
-For multi-location businesses, location landing pages integrate with your [Google Business Profile management](/google-business-profile-management/) strategy — each page supports the corresponding GBP listing and strengthens local signals for that area.
+For multi-location businesses, location landing pages integrate with your [Google Business Profile management](/services/gbp-optimization/) strategy — each page supports the corresponding GBP listing and strengthens local signals for that area.
 
 ### Campaign-Specific Landing Pages
 
@@ -131,7 +131,7 @@ SEO-friendly landing pages balance ranking requirements with conversion architec
 
 **Content depth:** 800-1,500 words of genuine, valuable content that targets the primary keyword and related terms. Not thin doorway pages — substantive content that demonstrates expertise and answers the visitor's questions.
 
-**Internal links:** Strategic links to the parent hub and 1-2 related service pages, placed in the content body or a related services section below the primary CTA. These distribute link equity and support the [content strategy](/seo-content-strategy/) hierarchy without distracting from the conversion goal.
+**Internal links:** Strategic links to the parent hub and 1-2 related service pages, placed in the content body or a related services section below the primary CTA. These distribute link equity and support the [content strategy](/services/content-pages/) hierarchy without distracting from the conversion goal.
 
 **Schema markup:** LocalBusiness, Service, FAQ, and BreadcrumbList schema that helps Google understand the page's purpose and earn rich results.
 
@@ -165,7 +165,7 @@ Every landing page we build includes conversion tracking from day one:
 - **Form abandonment rate:** For form-based CTAs, the percentage who start but do not complete the form
 - **Cost per conversion:** For PPC landing pages, the ad spend divided by conversions generated
 
-We review these metrics monthly and use them to guide [conversion rate optimization](/seo-website-design/conversion-rate-optimization/) testing — iterating on headlines, CTAs, trust signals, and content to continuously improve performance.
+We review these metrics monthly and use them to guide [conversion rate optimization](/services/website-build/conversion-rate-optimization/) testing — iterating on headlines, CTAs, trust signals, and content to continuously improve performance.
 
 ## Frequently Asked Questions
 

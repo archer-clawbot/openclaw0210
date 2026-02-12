@@ -53,7 +53,7 @@ Consistent reviews don't happen by accident. You need a system that makes it eas
 - Post fake reviews — Google's detection is sophisticated and penalties include listing suspension
 - Ask patients to mention specific keywords — the language must be entirely the patient's own
 
-For full-service review generation and monitoring, see our [reputation management services](/reputation-management-services/).
+For full-service review generation and monitoring, see our reputation management services.
 
 ## Responding to Reviews Without Violating HIPAA
 

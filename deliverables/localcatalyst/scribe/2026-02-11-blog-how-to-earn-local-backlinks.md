@@ -3,8 +3,8 @@
 **Deliverable:** Hub blog post
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/how-to-earn-local-backlinks/
-**Parent Hub:** /link-building-services/
+**URL:** /learn/how-to-earn-local-backlinks/
+**Parent Hub:** /managed/
 **Primary Keyword:** how to get local backlinks
 **Secondary Keywords:** earn local backlinks, local backlink sources, community link building, local SEO links, neighborhood backlinks, regional link acquisition
 **Title Tag:** How to Earn Local Backlinks: Proven Methods
@@ -16,7 +16,7 @@
 
 ## How to Earn Local Backlinks That Strengthen Your Rankings
 
-Local backlinks carry a unique advantage. They signal to Google that your business is recognized and trusted within a specific geographic area, directly influencing your visibility in local search results and the map pack. Earning these links requires a different playbook than general link building, one rooted in community relationships rather than mass outreach. If you are considering professional [link building services](/link-building-services/), understanding these tactics helps you evaluate whether a provider truly understands local link acquisition.
+Local backlinks carry a unique advantage. They signal to Google that your business is recognized and trusted within a specific geographic area, directly influencing your visibility in local search results and the map pack. Earning these links requires a different playbook than general link building, one rooted in community relationships rather than mass outreach. If you are considering professional [link building services](/managed/), understanding these tactics helps you evaluate whether a provider truly understands local link acquisition.
 
 This guide covers practical, tested methods for earning backlinks from locally relevant sources, organized from easiest to most advanced.
 
@@ -224,7 +224,7 @@ Monitor these metrics to evaluate your local backlink acquisition efforts:
 
 Use Ahrefs, Moz, or SEMrush to track referring domains and anchor text distribution. Cross-reference with Google Search Console data for a complete picture.
 
-If your link building efforts are not producing expected results after 3-6 months, a comprehensive [SEO audit](/seo-audit-services/) can identify whether technical issues, content gaps, or competitive factors are limiting your progress.
+If your link building efforts are not producing expected results after 3-6 months, a comprehensive [SEO audit](/services/seo-audit/) can identify whether technical issues, content gaps, or competitive factors are limiting your progress.
 
 ---
 
@@ -253,7 +253,7 @@ Both. Local backlinks contribute to your overall domain authority, which influen
 
 ### What is the best local backlink source for a new business?
 
-Start with Chamber of Commerce membership, core directory listings, and one or two community sponsorships. These are accessible, cost-effective, and establish your initial local link foundation quickly. As your business grows, layer on content-driven tactics, media outreach, and partnership strategies. Avoid the [common link building mistakes](/blog/link-building-mistakes/) that new businesses frequently make in their eagerness to build authority quickly.
+Start with Chamber of Commerce membership, core directory listings, and one or two community sponsorships. These are accessible, cost-effective, and establish your initial local link foundation quickly. As your business grows, layer on content-driven tactics, media outreach, and partnership strategies. Avoid the [common link building mistakes](/learn/link-building-mistakes/) that new businesses frequently make in their eagerness to build authority quickly.
 
 ### Can I earn local backlinks without spending money?
 

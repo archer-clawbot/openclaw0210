@@ -3,8 +3,8 @@
 **Deliverable:** Service sub-page (cluster)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /google-business-profile-management/gbp-posts/
-**Parent Hub:** /google-business-profile-management/
+**URL:** /services/gbp-optimization/gbp-posts/
+**Parent Hub:** /services/gbp-optimization/
 **Primary Keyword:** Google Business Profile posts
 **Secondary Keywords:** GBP posts, Google My Business posts, GBP posting strategy, Google Business posts best practices, GBP post templates
 **Title Tag:** Google Business Profile Posts Strategy | LocalCatalyst.ai
@@ -14,11 +14,11 @@
 
 ---
 
-*Breadcrumbs: [Home](/) > [Google Business Profile Management](/google-business-profile-management/) > GBP Posts*
+*Breadcrumbs: [Home](/) > [Google Business Profile Management](/services/gbp-optimization/) > GBP Posts*
 
 ## Google Business Profile Posts: How to Use Posting to Boost Visibility and Engagement
 
-Google Business Profile posts are one of the most underutilized features in local SEO. While most businesses focus on reviews and basic profile setup, posting represents a direct channel for communicating with potential customers within Google Search and Maps — and it sends active engagement signals that contribute to your local ranking authority. Our [Google Business Profile management services](/google-business-profile-management/) include strategic posting as a core component because the data consistently shows that active profiles outperform passive ones.
+Google Business Profile posts are one of the most underutilized features in local SEO. While most businesses focus on reviews and basic profile setup, posting represents a direct channel for communicating with potential customers within Google Search and Maps — and it sends active engagement signals that contribute to your local ranking authority. Our [Google Business Profile management services](/services/gbp-optimization/) include strategic posting as a core component because the data consistently shows that active profiles outperform passive ones.
 
 A weekly posting cadence is the minimum standard for competitive local SEO in 2026. Yet the majority of local businesses either never post or post sporadically without strategy. This represents an opportunity for businesses willing to commit to consistent, optimized posting.
 
@@ -90,7 +90,7 @@ Every post should include an image. Posts with images receive significantly high
 - File size: Under 5 MB (optimize for fast loading)
 - Content: Original photos of your business, team, work, or products — never stock photography
 
-Use bright, well-lit, high-contrast images. The post thumbnail in search results is small, so images need to be immediately recognizable and visually compelling even at reduced size. For more on visual content strategy, see our [GBP photos and videos guide](/google-business-profile-management/gbp-photos-videos/).
+Use bright, well-lit, high-contrast images. The post thumbnail in search results is small, so images need to be immediately recognizable and visually compelling even at reduced size. For more on visual content strategy, see our [GBP photos and videos guide](/services/gbp-optimization/gbp-photos-videos/).
 
 ### Call-to-Action Buttons
 
@@ -112,7 +112,7 @@ GBP posts are indexed by Google and contribute to relevance signals. Including t
 **Effective keyword integration:**
 - Include your primary service keyword in the first sentence when natural
 - Mention your city or service area in posts about local topics
-- Reference specific services using the same terminology as your [local keyword research](/local-seo-services/local-keyword-research/) targets
+- Reference specific services using the same terminology as your [local keyword research](/services/local-keyword-research/) targets
 - Avoid keyword stuffing — posts should read naturally and provide genuine value
 
 ### Character Limits and Formatting
@@ -196,7 +196,7 @@ For businesses that struggle to maintain a consistent posting schedule, several 
 - **Content batching** — Write 4-8 posts in a single session, then schedule them for publication over the coming weeks.
 - **Scheduling tools** — Third-party tools (Publer, Sendible, SocialPilot) allow you to schedule GBP posts in advance. Google's native scheduling is limited, but these tools integrate through the GBP API.
 - **Template rotation** — Build a library of post templates that can be refreshed with new details each cycle. The templates above provide starting points.
-- **Agency management** — Our [GBP management services](/google-business-profile-management/) include weekly posting as a standard deliverable, with posts written and optimized by our team based on your [GBP optimization strategy](/google-business-profile-management/gbp-optimization/).
+- **Agency management** — Our [GBP management services](/services/gbp-optimization/) include weekly posting as a standard deliverable, with posts written and optimized by our team based on your [GBP optimization strategy](/services/gbp-optimization/).
 
 The key is finding a system that is sustainable for your business. An imperfect posting cadence maintained consistently is far more valuable than a perfect posting strategy that gets abandoned after two months.
 
@@ -208,7 +208,7 @@ Update posts remain visible on your profile for six months. Event and offer post
 
 ### Do GBP posts help with Google Maps rankings?
 
-Yes. GBP posts contribute to the engagement and relevance signals that influence Google Maps rankings. The keyword content in posts creates relevance associations, and the act of consistent posting signals an active, legitimate business. While posts alone will not propel a poorly optimized profile into the [Map Pack](/local-seo-services/google-maps-ranking/), they are a meaningful contributing factor within a comprehensive optimization strategy.
+Yes. GBP posts contribute to the engagement and relevance signals that influence Google Maps rankings. The keyword content in posts creates relevance associations, and the act of consistent posting signals an active, legitimate business. While posts alone will not propel a poorly optimized profile into the [Map Pack](/services/google-maps-ranking/), they are a meaningful contributing factor within a comprehensive optimization strategy.
 
 ### Can I include links in my GBP posts?
 
@@ -224,4 +224,4 @@ You can repurpose themes and topics, but we recommend customizing content for ea
 
 ---
 
-**Need help building a consistent GBP posting strategy?** Our [free SEO audit](/services/seo-audit/) evaluates your current posting activity, compares it to your top local competitors, and recommends a posting cadence and content strategy tailored to your industry and market. Let us turn your GBP into an active marketing channel.
+**Need help building a consistent GBP posting strategy?** Our [SEO Audit](/services/seo-audit/) evaluates your current posting activity, compares it to your top local competitors, and recommends a posting cadence and content strategy tailored to your industry and market. Let us turn your GBP into an active marketing channel.

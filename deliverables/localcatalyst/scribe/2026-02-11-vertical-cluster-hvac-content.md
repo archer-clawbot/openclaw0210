@@ -16,7 +16,7 @@
 
 Content marketing for HVAC companies is not about publishing blog posts and hoping something sticks. It is about building a library of pages that systematically capture search traffic at every stage of the customer journey, from the homeowner Googling "why is my AC making a clicking noise" to the one comparing furnace replacement costs. This guide, part of our [HVAC SEO resource center](/industries/hvac-seo/), lays out a content strategy built specifically for the HVAC industry's seasonal rhythms and customer behavior patterns.
 
-For HVAC companies that want a managed content program, our [SEO content strategy service](/seo-content-strategy/) builds and executes editorial calendars designed around your services and service area.
+For HVAC companies that want a managed content program, our [SEO content strategy service](/services/content-pages/) builds and executes editorial calendars designed around your services and service area.
 
 ## Why Content Marketing Matters More for HVAC Than Most Industries
 

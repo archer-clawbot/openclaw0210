@@ -3,8 +3,8 @@
 **Deliverable:** Service sub-page (cluster)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /google-business-profile-management/gbp-qa-management/
-**Parent Hub:** /google-business-profile-management/
+**URL:** /services/gbp-optimization/gbp-qa-management/
+**Parent Hub:** /services/gbp-optimization/
 **Primary Keyword:** Google Business Profile Q&A
 **Secondary Keywords:** GBP Q&A management, Google Business Q&A, GBP question and answer, Google Maps Q&A, GBP Q&A strategy
 **Title Tag:** Google Business Profile Q&A Management Guide | LocalCatalyst.ai
@@ -14,11 +14,11 @@
 
 ---
 
-*Breadcrumbs: [Home](/) > [Google Business Profile Management](/google-business-profile-management/) > GBP Q&A Management*
+*Breadcrumbs: [Home](/) > [Google Business Profile Management](/services/gbp-optimization/) > GBP Q&A Management*
 
 ## Google Business Profile Q&A: The Overlooked Feature That Shapes Customer Decisions
 
-The Q&A section on your Google Business Profile is visible to every person who finds your business in Google Search or Google Maps. Questions and answers appear directly on your listing — above the fold on mobile, alongside your reviews, photos, and business details. Yet the vast majority of local businesses have never posted a single answer, let alone proactively managed this section. Our [Google Business Profile management services](/google-business-profile-management/) include Q&A management because this public-facing feature directly influences whether a potential customer contacts you or moves on to a competitor.
+The Q&A section on your Google Business Profile is visible to every person who finds your business in Google Search or Google Maps. Questions and answers appear directly on your listing — above the fold on mobile, alongside your reviews, photos, and business details. Yet the vast majority of local businesses have never posted a single answer, let alone proactively managed this section. Our [Google Business Profile management services](/services/gbp-optimization/) include Q&A management because this public-facing feature directly influences whether a potential customer contacts you or moves on to a competitor.
 
 Here is the critical detail most businesses miss: anyone can ask a question on your GBP, and anyone can answer it — including competitors, disgruntled customers, or people who have never interacted with your business. If you are not actively managing your Q&A section, strangers are shaping the narrative about your business in one of the most visible locations on the internet.
 
@@ -106,11 +106,11 @@ Google's notification system for Q&A is unreliable — you may or may not receiv
 
 - Daily GBP dashboard checks across all managed profiles
 - Third-party monitoring tools that alert on new Q&A activity
-- Weekly Q&A audit as part of regular [GBP management](/google-business-profile-management/gbp-optimization/) workflows
+- Weekly Q&A audit as part of regular [GBP management](/services/gbp-optimization/) workflows
 
 ### Response Time Standards
 
-Speed matters in Q&A just as it does in [review management](/reputation-management-services/). An unanswered question sits visibly on your profile, signaling neglect to every prospective customer who views your listing. Our response targets:
+Speed matters in Q&A just as it does in review management. An unanswered question sits visibly on your profile, signaling neglect to every prospective customer who views your listing. Our response targets:
 
 - **New questions answered within 24 hours** during business days
 - **Business-owner answers prioritized** — Google labels answers from the business owner, which carry more credibility than community answers

@@ -3,8 +3,8 @@
 **Deliverable:** Blog post (GBP Management educational content)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/gbp-insights-analytics/
-**Parent Hub:** /google-business-profile-management/
+**URL:** /learn/gbp-insights-analytics/
+**Parent Hub:** /services/gbp-optimization/
 **Primary Keyword:** GBP insights and analytics
 **Secondary Keywords:** Google Business Profile performance metrics, GBP search queries report, GBP customer actions, local search analytics
 **Title Tag:** GBP Insights & Analytics Explained | LocalCatalyst.ai
@@ -14,7 +14,7 @@
 
 ---
 
-Your Google Business Profile generates a wealth of performance data that most business owners never fully utilize. GBP insights and analytics tell you exactly how customers find your listing, what they do when they get there, and how your profile compares to competitors. Turning this data into action is a critical part of effective [Google Business Profile management](/google-business-profile-management/).
+Your Google Business Profile generates a wealth of performance data that most business owners never fully utilize. GBP insights and analytics tell you exactly how customers find your listing, what they do when they get there, and how your profile compares to competitors. Turning this data into action is a critical part of effective [Google Business Profile management](/services/gbp-optimization/).
 
 This guide walks through every metric available in GBP analytics, explains what each one means for your business, and shows you how to use the data to make smarter optimization decisions.
 
@@ -45,7 +45,7 @@ The search queries report shows you the actual terms people used on Google befor
 - **Unexpected queries.** Sometimes your listing appears for searches you did not anticipate. These can reveal opportunities, such as services customers associate with your business that you are not actively marketing, or problems, such as irrelevant queries indicating a category mismatch.
 
 **Action items from search query data:**
-- If discovery queries are low relative to branded queries, your [GBP optimization](/blog/google-business-profile-checklist/) needs work
+- If discovery queries are low relative to branded queries, your [GBP optimization](/learn/google-business-profile-checklist/) needs work
 - If you appear for irrelevant queries, review your categories and business description
 - If high-value queries are not appearing, check whether your categories and services sections address those terms
 
@@ -130,7 +130,7 @@ Data without action is just numbers. Here is how to turn GBP analytics into opti
 If branded searches dominate your query report, your listing is not visible enough for non-branded queries.
 
 **Actions to take:**
-- Review and optimize your [GBP categories](/blog/google-business-profile-categories/) to ensure they match high-value search terms
+- Review and optimize your [GBP categories](/learn/google-business-profile-categories/) to ensure they match high-value search terms
 - Expand your services section with detailed descriptions
 - Add relevant attributes to your profile
 - Build citations and local links to improve domain authority
@@ -144,7 +144,7 @@ If people see your listing but do not take action, your listing is not compellin
 - Add more high-quality photos (aim for 2x the competitor average)
 - Improve your business description with clear value propositions
 - Ensure your hours, phone number, and website link are accurate
-- Increase your review count and rating through a systematic [review strategy](/blog/google-business-profile-review-strategy/)
+- Increase your review count and rating through a systematic [review strategy](/learn/google-business-profile-review-strategy/)
 - Add products and services with descriptions and pricing
 
 ### Declining Phone Calls
@@ -162,7 +162,7 @@ If call volume is dropping while views remain stable, something about your listi
 If all metrics are flat over 3+ months, your listing has plateaued and needs fresh optimization.
 
 **Actions to take:**
-- Conduct a complete listing audit using a comprehensive [optimization checklist](/blog/google-business-profile-checklist/)
+- Conduct a complete listing audit using a comprehensive [optimization checklist](/learn/google-business-profile-checklist/)
 - Post weekly Google Posts to signal activity
 - Upload new photos monthly
 - Pursue new reviews to maintain velocity

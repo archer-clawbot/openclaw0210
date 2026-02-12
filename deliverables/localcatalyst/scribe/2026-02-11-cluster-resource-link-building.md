@@ -4,18 +4,21 @@
 **Deliverable:** Service sub-page (cluster)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** `/link-building-services/resource-link-building/`
-**Parent Hub:** `/link-building-services/`
+**URL:** `/managed/resource-link-building/`
+**Parent Hub:** `/managed/`
+**Title Tag:** Resource Link Building — Curated Placements | LocalCatalyst
+**Meta Description:** Get your content on resource pages that curate the best tools and guides. Our resource link building earns editorial backlinks at scale.
+**H1:** Getting Your Content on the Pages That Curate the Best Resources
 **Primary Keyword:** resource page link building
 **Word Count Target:** 1,500
 
 ---
 
-> **Home > [Link Building Services](/link-building-services/) > Resource Page Link Building**
+> **Home > [Link Building Services](/managed/) > Resource Page Link Building**
 
 ## Getting Your Content on the Pages That Curate the Best Resources
 
-Resource page link building is one of the most reliable, scalable, and white-hat link building strategies available. The premise is straightforward: thousands of websites maintain curated resource pages — lists of the best tools, guides, checklists, and references on a given topic — and if you create content worth including, you can earn a link by asking to be added. As part of our [link building services](/link-building-services/), resource page link building produces consistently high-quality, editorially placed backlinks that Google values because they represent genuine editorial endorsements.
+Resource page link building is one of the most reliable, scalable, and white-hat link building strategies available. The premise is straightforward: thousands of websites maintain curated resource pages — lists of the best tools, guides, checklists, and references on a given topic — and if you create content worth including, you can earn a link by asking to be added. As part of our [link building services](/managed/), resource page link building produces consistently high-quality, editorially placed backlinks that Google values because they represent genuine editorial endorsements.
 
 Unlike tactics that ask for links without offering value, resource link building works because both sides benefit. The resource page owner gets a better list for their audience. You get an authoritative, contextually relevant backlink. Google rewards this because the link was placed for the reader's benefit, not manufactured for ranking manipulation.
 
@@ -68,7 +71,7 @@ This means you need **linkable assets** — content specifically created to serv
 | **Local data reports** | Original research specific to your market | "2026 Home Services Cost Report: Phoenix Metro" |
 | **Template libraries** | Practical resources people bookmark and share | "Review Response Templates for Local Businesses" |
 
-The investment in creating these assets is what separates successful resource link building from the agencies that send 500 outreach emails and earn zero links. You need something genuinely worth linking to. This asset creation process ties directly into the broader [content strategy](/seo-content-strategy/) we build for every client — your linkable assets serve double duty as ranking content and link magnets.
+The investment in creating these assets is what separates successful resource link building from the agencies that send 500 outreach emails and earn zero links. You need something genuinely worth linking to. This asset creation process ties directly into the broader [content strategy](/services/content-pages/) we build for every client — your linkable assets serve double duty as ranking content and link magnets.
 
 ### Stage 3: Outreach to Resource Page Owners
 
@@ -114,7 +117,7 @@ Local businesses have a unique advantage in resource link building that most do 
 - **School and university pages** — .edu resource pages linking to local service providers (dentists near campus, recommended tutors, local moving companies).
 - **Real estate and relocation resources** — Real estate agencies and relocation guides maintain extensive local resource pages for new residents.
 
-These local resource pages produce backlinks with both authority signals and geographic relevance signals — a combination that is particularly powerful for local search rankings. This complements the [local link building](/link-building-services/local-link-building/) and [digital PR](/link-building-services/digital-pr/) strategies we deploy as part of a comprehensive link earning program.
+These local resource pages produce backlinks with both authority signals and geographic relevance signals — a combination that is particularly powerful for local search rankings. This complements the [local link building](/managed/local-link-building/) and [digital PR](/managed/digital-pr/) strategies we deploy as part of a comprehensive link earning program.
 
 ---
 
@@ -134,7 +137,7 @@ The long-term value is significant: a link from a quality resource page typicall
 
 ### How is resource link building different from guest posting?
 
-[Guest posting](/link-building-services/guest-posting/) involves creating new content for someone else's site. Resource link building involves getting your existing content added to curated lists. Guest posting produces one link per article. A single linkable asset can earn dozens of resource page links over time. Both strategies are complementary — we typically deploy them together.
+[Guest posting](/managed/guest-posting/) involves creating new content for someone else's site. Resource link building involves getting your existing content added to curated lists. Guest posting produces one link per article. A single linkable asset can earn dozens of resource page links over time. Both strategies are complementary — we typically deploy them together.
 
 ### What types of businesses benefit most from resource link building?
 

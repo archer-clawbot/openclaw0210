@@ -16,7 +16,7 @@
 
 Link building for law firms requires a fundamentally different approach than link building in most other industries. Attorneys face ethical obligations that prohibit certain promotional tactics, Google holds legal websites to heightened scrutiny under its YMYL guidelines, and the competitive landscape for high-value legal keywords demands links from genuinely authoritative sources. As part of our [law firm SEO](/industries/law-firm-seo/) methodology, link building focuses on sustainable, white-hat strategies that build real domain authority while maintaining full compliance with bar advertising rules.
 
-LocalCatalyst's [link building services](/link-building-services/) for attorneys prioritize quality, relevance, and ethical alignment over volume. In legal SEO, a single link from a state bar association or respected legal publication outweighs dozens of links from irrelevant directories.
+LocalCatalyst's [link building services](/managed/) for attorneys prioritize quality, relevance, and ethical alignment over volume. In legal SEO, a single link from a state bar association or respected legal publication outweighs dozens of links from irrelevant directories.
 
 ## Legal Directories: The Foundation of Attorney Link Profiles
 

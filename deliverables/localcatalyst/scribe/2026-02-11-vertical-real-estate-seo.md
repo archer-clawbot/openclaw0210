@@ -6,7 +6,7 @@
 **URL:** /industries/real-estate-seo/
 **Primary Keyword:** real estate SEO
 **Secondary Keywords:** realtor SEO, real estate agent SEO, SEO for realtors, real estate marketing SEO
-**Title Tag:** Real Estate SEO That Generates Leads Without Cold Calling | LocalCatalyst.ai
+**Title Tag:** Real Estate SEO That Generates Leads | LocalCatalyst
 **Meta Description:** Real estate SEO strategies that generate buyer and seller leads through local search. Neighborhood pages, market authority, and Google Maps visibility for agents and brokerages.
 **H1:** Real Estate SEO That Generates Leads Without Cold Calling
 **Word Count Target:** 2,200
@@ -22,7 +22,7 @@ Meanwhile, there is a lead source that is free, exclusive, and positions you as 
 
 When a homebuyer searches "homes for sale in [neighborhood]" or "best neighborhoods in [city] for families" or a seller searches "home values in [neighborhood]" or "how to sell my house in [city]," the agent whose content answers that search earns something no paid lead source can provide — the perception of local authority. The buyer reading your neighborhood guide thinks of you as the expert in that area. The seller reading your market analysis sees you as the agent who knows the numbers. By the time they reach out, you are not competing with four other agents for their attention. You are their first choice.
 
-At LocalCatalyst, we build real estate SEO strategies designed for the unique competitive dynamics of this industry — competing with Zillow, Redfin, and Realtor.com for search visibility, creating hyperlocal content at the neighborhood level, navigating the individual agent vs. brokerage SEO distinction, and building the kind of local market authority that generates inbound leads month after month. Our [CATALYST methodology](/local-seo-services/) (Audit, Prioritize, Execute, Expand) gives real estate professionals a structured path from lead-dependent to authority-driven client acquisition.
+At LocalCatalyst, we build real estate SEO strategies designed for the unique competitive dynamics of this industry — competing with Zillow, Redfin, and Realtor.com for search visibility, creating hyperlocal content at the neighborhood level, navigating the individual agent vs. brokerage SEO distinction, and building the kind of local market authority that generates inbound leads month after month. Our [CATALYST methodology](/services/) (Audit, Prioritize, Execute, Expand) gives real estate professionals a structured path from lead-dependent to authority-driven client acquisition.
 
 Want to see where you stand in local search right now? [Order an SEO Audit](/services/seo-audit/) and we will map your visibility across every neighborhood and real estate search term in your market.
 
@@ -64,7 +64,7 @@ An effective real estate neighborhood page is not a paragraph of generic text ab
 - **Development and future outlook** — planned developments, zoning changes, infrastructure projects, and how the neighborhood is evolving. This signals insider knowledge that no portal can provide.
 - **Pros and considerations** — honest assessment of both the advantages and potential drawbacks. This authenticity builds trust.
 
-Our [content strategy services](/seo-content-strategy/) build neighborhood content libraries that cover every community in your target market, each page a genuine resource that serves buyers and establishes your local authority.
+Our [content strategy services](/services/content-pages/) build neighborhood content libraries that cover every community in your target market, each page a genuine resource that serves buyers and establishes your local authority.
 
 ### Scaling Neighborhood Content
 
@@ -75,11 +75,11 @@ A typical real estate market has 20-50+ neighborhoods, subdivisions, and communi
 - **Update regularly** — market data, new developments, and community changes require quarterly updates. Stale neighborhood pages lose rankings and credibility.
 - **Internal linking architecture** — neighborhood pages link to each other (nearby communities), to your city-level market page, and to relevant listings. This creates a content hub structure that builds topical authority.
 
-Our [on-page SEO services](/on-page-seo-services/) ensure every neighborhood page is technically optimized with proper title tags, header structure, schema markup, internal links, and the on-page signals that drive rankings.
+Our [on-page SEO services](/services/on-page-optimization/) ensure every neighborhood page is technically optimized with proper title tags, header structure, schema markup, internal links, and the on-page signals that drive rankings.
 
 ## Google Business Profile for Real Estate
 
-Your GBP is essential for Map Pack visibility, and real estate has specific considerations. Our [GBP management services](/google-business-profile-management/) address the unique aspects of real estate GBP optimization.
+Your GBP is essential for Map Pack visibility, and real estate has specific considerations. Our [GBP management services](/services/gbp-optimization/) address the unique aspects of real estate GBP optimization.
 
 **Agent vs. team vs. brokerage profiles.** Google allows both individual agent profiles and brokerage profiles. For individual agents, a personal GBP builds your name recognition and collects reviews tied specifically to you. For teams, the team leader's profile typically carries the most weight. For brokerages with multiple agents, a coordinated approach prevents internal competition while maximizing total Map Pack visibility.
 
@@ -93,7 +93,7 @@ Your GBP is essential for Map Pack visibility, and real estate has specific cons
 
 ## Content Strategy for Real Estate Professionals
 
-Beyond neighborhood pages, a comprehensive real estate content strategy captures searches across the entire buyer and seller journey. Our [content strategy services](/seo-content-strategy/) build editorial calendars that systematically expand your organic visibility.
+Beyond neighborhood pages, a comprehensive real estate content strategy captures searches across the entire buyer and seller journey. Our [content strategy services](/services/content-pages/) build editorial calendars that systematically expand your organic visibility.
 
 ### Market Reports and Data Content
 
@@ -146,18 +146,18 @@ The most significant shift: real estate professionals moving from lead-dependent
 ## Supporting Content
 
 ### Planned Cluster Pages
-- [Real Estate SEO Keywords](/industries/real-estate-seo/real-estate-keywords/) — Keyword research guide covering neighborhood, buyer, seller, and investment search terms for real estate professionals
-- [Realtor Google Business Profile](/industries/real-estate-seo/realtor-google-business-profile/) — GBP optimization guide for individual agents, teams, and brokerages
-- [Real Estate Content Marketing](/industries/real-estate-seo/real-estate-content-marketing/) — Content strategy for real estate professionals including neighborhood pages, market reports, and buyer/seller guides
-- [Neighborhood Page SEO](/industries/real-estate-seo/neighborhood-page-seo/) — Complete guide to building neighborhood pages that outrank Zillow
+- [Real Estate SEO Keywords](/industries/real-estate-seo/) — Keyword research guide covering neighborhood, buyer, seller, and investment search terms for real estate professionals
+- [Realtor Google Business Profile](/industries/real-estate-seo/) — GBP optimization guide for individual agents, teams, and brokerages
+- [Real Estate Content Marketing](/industries/real-estate-seo/) — Content strategy for real estate professionals including neighborhood pages, market reports, and buyer/seller guides
+- [Neighborhood Page SEO](/industries/real-estate-seo/) — Complete guide to building neighborhood pages that outrank Zillow
 
 ### Related Industry Verticals
 No directly related industry verticals.
 
 ### Related Blog Posts
-- [Local SEO Ranking Factors in 2026](/blog/local-seo-ranking-factors-2026/) — The signals that determine your local visibility
-- [Content Optimization Framework](/blog/content-optimization-framework/) — How to build content that ranks and converts
-- [Google Business Profile Optimization Checklist](/blog/gbp-optimization-checklist/) — Step-by-step guide to GBP excellence
+- [Local SEO Ranking Factors in 2026](/learn/local-seo-ranking-factors-2026/) — The signals that determine your local visibility
+- [Content Optimization Framework](/learn/content-optimization-framework/) — How to build content that ranks and converts
+- [Google Business Profile Optimization Checklist](/learn/gbp-optimization-checklist/) — Step-by-step guide to GBP excellence
 
 ## Frequently Asked Questions
 
@@ -191,4 +191,4 @@ Start with neighborhood pages for your top 5-10 target communities — the areas
 
 ---
 
-*Ready to stop renting leads and start building organic visibility that makes you the recognized expert in your market? [Request your free real estate SEO audit](/services/seo-audit/) and see exactly where you rank for every neighborhood and search term that matters.*
+*Ready to stop renting leads and start building organic visibility that makes you the recognized expert in your market? [Order your real estate SEO Audit](/services/seo-audit/) and see exactly where you rank for every neighborhood and search term that matters.*

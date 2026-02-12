@@ -3,8 +3,8 @@
 **Deliverable:** Blog post (Website Design educational content)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/website-speed-conversion-rates/
-**Parent Hub:** /seo-website-design/
+**URL:** /learn/website-speed-conversion-rates/
+**Parent Hub:** /services/website-build/
 **Primary Keyword:** website speed and conversion rates
 **Secondary Keywords:** page speed conversion impact, site speed optimization, website load time conversions, Core Web Vitals conversions
 **Title Tag:** Website Speed & Conversion Rates Data | LocalCatalyst.ai
@@ -16,7 +16,7 @@
 
 Every second your website takes to load costs you money. This is not hyperbole. It is a measurable, documented relationship backed by data from Google, Amazon, Walmart, and thousands of independent studies. Speed is the invisible factor that shapes whether your visitors become customers or bounce to a competitor.
 
-If you are investing in [SEO website design](/seo-website-design/) and traffic generation, ignoring load time is like pouring water into a leaky bucket. This guide lays out the data, the benchmarks, the measurement tools, and the quick wins that will help you keep more of the visitors you are already earning.
+If you are investing in [SEO website design](/services/website-build/) and traffic generation, ignoring load time is like pouring water into a leaky bucket. This guide lays out the data, the benchmarks, the measurement tools, and the quick wins that will help you keep more of the visitors you are already earning.
 
 ## The Data: Speed and Conversions by the Numbers
 
@@ -157,7 +157,7 @@ A fast site benefits from a virtuous cycle: better speed leads to better user ex
 
 A slow site suffers the inverse: poor speed increases bounces, suppresses rankings, reduces traffic, and starves your pipeline.
 
-The relationship between [UX signals and SEO](/blog/ux-signals-seo/) goes deep, and speed is the foundation that makes every other UX improvement possible.
+The relationship between [UX signals and SEO](/learn/ux-signals-seo/) goes deep, and speed is the foundation that makes every other UX improvement possible.
 
 ## Frequently Asked Questions
 

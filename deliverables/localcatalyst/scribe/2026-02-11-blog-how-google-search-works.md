@@ -3,8 +3,8 @@
 **Deliverable:** Resource blog post
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/how-google-search-works/
-**Parent Hub:** /blog/
+**URL:** /learn/how-google-search-works/
+**Parent Hub:** /learn/
 **Primary Keyword:** how Google search works
 **Secondary Keywords:** how Google ranks websites, Google crawling and indexing, how Google search algorithm works, Google search process, how local search results work
 **Title Tag:** How Google Search Works: Crawling, Indexing & Ranking
@@ -168,7 +168,7 @@ Map Pack rankings are determined by three primary factors, as stated in [Google'
 
 ### Local Ranking Factors Beyond GBP
 
-While your [Google Business Profile](/services/google-business-profile-optimization/) is the centerpiece of local SEO, local rankings also consider:
+While your [Google Business Profile](/services/gbp-optimization/) is the centerpiece of local SEO, local rankings also consider:
 
 - **Website content.** Localized content on your website (service area pages, local blog posts) reinforces geographic relevance.
 - **Citations.** Consistent name, address, and phone number (NAP) across directories and platforms validate your business information.
@@ -178,7 +178,7 @@ While your [Google Business Profile](/services/google-business-profile-optimizat
 
 ### Local Organic vs. Map Pack
 
-Local searches return two types of organic results: the Map Pack and the standard organic listings below it. A business can appear in both, and the ranking factors for each overlap but are not identical. The Map Pack relies more heavily on GBP signals and proximity, while the organic results below rely more on traditional website SEO factors like content depth, backlinks, and [technical SEO](/services/technical-seo/).
+Local searches return two types of organic results: the Map Pack and the standard organic listings below it. A business can appear in both, and the ranking factors for each overlap but are not identical. The Map Pack relies more heavily on GBP signals and proximity, while the organic results below rely more on traditional website SEO factors like content depth, backlinks, and [technical SEO](/services/seo-audit/technical-seo-audit/).
 
 ---
 
@@ -198,7 +198,7 @@ No. Organic rankings cannot be purchased. Google Ads allows you to pay for place
 
 ### How often does Google's algorithm change?
 
-Google makes thousands of changes to its algorithm each year, most of them minor. Several times per year, Google rolls out broad core updates that can significantly shift rankings. Google also releases targeted updates addressing specific issues like spam, product reviews, or helpful content. See our [guide to Google algorithm updates](/blog/google-algorithm-updates/) for a full history.
+Google makes thousands of changes to its algorithm each year, most of them minor. Several times per year, Google rolls out broad core updates that can significantly shift rankings. Google also releases targeted updates addressing specific issues like spam, product reviews, or helpful content. See our [guide to Google algorithm updates](/learn/google-algorithm-updates/) for a full history.
 
 ---
 

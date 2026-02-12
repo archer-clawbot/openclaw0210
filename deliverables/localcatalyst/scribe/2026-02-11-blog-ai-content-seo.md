@@ -3,8 +3,8 @@
 **Deliverable:** Blog post (Hub 5 educational content)
 **Date:** 2026-02-11
 **Agent:** Scribe
-**URL:** /blog/ai-content-seo/
-**Parent Hub:** /seo-content-strategy/
+**URL:** /learn/ai-content-seo/
+**Parent Hub:** /services/content-pages/
 **Primary Keyword:** AI content and SEO
 **Secondary Keywords:** AI generated content SEO, Google AI content policy, AI writing tools SEO, AI content best practices, human oversight AI content
 **Title Tag:** AI Content and SEO: What Actually Works in 2026 | LocalCatalyst.ai
@@ -14,7 +14,7 @@
 
 ---
 
-The question is no longer whether AI can write content. It can. The real question is whether AI-generated content can rank in search engines and, more importantly, whether it should be part of your [SEO content strategy](/seo-content-strategy/). The answer is nuanced, and getting it wrong can damage your site's performance for months or longer.
+The question is no longer whether AI can write content. It can. The real question is whether AI-generated content can rank in search engines and, more importantly, whether it should be part of your [SEO content strategy](/services/content-pages/). The answer is nuanced, and getting it wrong can damage your site's performance for months or longer.
 
 This guide cuts through the hype and the fear to explain Google's actual stance on AI content, where AI-assisted content succeeds and fails, and the best practices for using AI tools responsibly in your content production.
 
@@ -64,7 +64,7 @@ AI-generated content fails when it attempts to replace, rather than augment, hum
 
 **Fully automated, unreviewed content at scale.** Sites that use AI to generate hundreds of pages with minimal human oversight consistently underperform. This content tends to be generic, repetitive, and indistinguishable from what already exists online. Google's Helpful Content System is specifically designed to identify and devalue this pattern.
 
-**Content that lacks first-hand experience.** AI cannot have experiences. It cannot visit a restaurant, use a product, or perform a service. For topics where [E-E-A-T](/blog/eeat-content-guidelines/) signals, particularly the Experience component, are important, purely AI-generated content will always fall short.
+**Content that lacks first-hand experience.** AI cannot have experiences. It cannot visit a restaurant, use a product, or perform a service. For topics where [E-E-A-T](/learn/eeat-content-guidelines/) signals, particularly the Experience component, are important, purely AI-generated content will always fall short.
 
 **Content on YMYL topics without expert review.** AI can generate plausible-sounding content about medical, legal, and financial topics that is factually wrong or dangerously misleading. Publishing YMYL content without expert review is reckless regardless of the production method, but AI makes it easier to produce high volumes of this risky content.
 
@@ -76,7 +76,7 @@ AI-generated content fails when it attempts to replace, rather than augment, hum
 
 One of the most damaging patterns is using AI to dramatically increase publishing volume. A site that previously published 4 quality articles per month starts publishing 40 AI-generated articles per month, believing that volume will drive results.
 
-The opposite usually happens. The flood of average-quality content dilutes the site's quality signals, triggers the Helpful Content System's site-level evaluation, and results in ranking declines across the entire domain. Recovery requires not just removing the low-quality content but demonstrating sustained quality improvement, which can take months through regular [content pruning](/blog/content-pruning-seo/) and quality upgrades.
+The opposite usually happens. The flood of average-quality content dilutes the site's quality signals, triggers the Helpful Content System's site-level evaluation, and results in ranking declines across the entire domain. Recovery requires not just removing the low-quality content but demonstrating sustained quality improvement, which can take months through regular [content pruning](/learn/content-pruning-seo/) and quality upgrades.
 
 ## E-E-A-T Implications of AI Content
 
@@ -154,6 +154,10 @@ AI content tools can be valuable investments when used correctly. They reduce pr
 
 The path forward with AI content is not about choosing between AI and human. It is about combining them intelligently. AI handles the mechanical work. Humans provide the expertise, experience, and editorial judgment that Google and your audience demand.
 
-At LocalCatalyst.ai, we use AI tools as part of our CATALYST Methodology, always with rigorous human oversight and subject matter expertise driving the final product. Every piece of content we produce is reviewed by specialists who bring real experience in [local SEO](/local-seo-services/) and digital marketing.
+At LocalCatalyst.ai, we use AI tools as part of our CATALYST Methodology, always with rigorous human oversight and subject matter expertise driving the final product. Every piece of content we produce is reviewed by specialists who bring real experience in [local SEO](/services/) and digital marketing.
 
-[Contact our team](/contact/) to discuss how AI-enhanced content strategy can work for your business without putting your search performance at risk.
+---
+
+**Ready to build a content strategy that ranks?** [Browse Our Services](/services/)
+
+---
