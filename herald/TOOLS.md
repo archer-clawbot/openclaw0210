@@ -39,12 +39,9 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 
 ## WordPress Sites
 
-### Chicago's Electrician
-- **URL:** https://www.chicagoselectrician.com
-- **Username:** archer
-- **App Password:** 4mod nfgt vfPk 9wjS YhEF cYrc
-- **API Base:** https://www.chicagoselectrician.com/wp-json/wp/v2
-- **Auth:** Basic Auth (username + app password, no spaces)
+Credentials are injected at runtime by the dispatcher when you receive a task.
+Do not store or reference hardcoded credentials.
+If you need WordPress API access during an interactive session, ask the operator.
 
 ---
 

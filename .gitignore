@@ -42,6 +42,9 @@ Thumbs.db
 *.swp
 .claude/
 
+# Client configs (contain credentials and admin URLs)
+cron/clients/
+
 # Runtime data (modules 3-10)
 cron/data/
 cron/breaker-state.json

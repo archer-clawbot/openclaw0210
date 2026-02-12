@@ -294,8 +294,8 @@ function sendAlert(agentId, level, data) {
   _lastAlert[key] = now;
 
   const botToken = process.env.TELEGRAM_BOT_TOKEN_ARCHER;
-  const chatId = process.env.TELEGRAM_CHAT_ID || '7302669335';
-  if (!botToken) return; // gracefully skip if not configured
+  const chatId = process.env.TELEGRAM_CHAT_ID;
+  if (!botToken || !chatId) return; // gracefully skip if not configured
 
   const emoji = level === 'tripped' ? '\u{1F6A8}' : level === 'critical' ? '\u26A0\uFE0F' : '\u{1F4A1}';
   let text;
