@@ -186,6 +186,35 @@ function trip(agentId, reason, existingState) {
   sendAlert(agentId, 'tripped', { reason });
 }
 
+/**
+ * Report the result of a HALF_OPEN probe dispatch.
+ * Call this after dispatching a task when check() returned HALF_OPEN.
+ * @param {string} agentId
+ * @param {boolean} success — true if the probe task succeeded, false if it failed
+ * @param {Function} log
+ */
+function probeResult(agentId, success, log = () => {}) {
+  const state = loadState();
+  const agentState = state.agents[agentId];
+  if (!agentState || agentState.state !== 'HALF_OPEN') return;
+
+  if (success) {
+    agentState.state = 'CLOSED';
+    agentState.trippedAt = null;
+    agentState.reason = null;
+    state.agents[agentId] = agentState;
+    saveState(state);
+    log(`  [breaker] ${agentId}: HALF_OPEN → CLOSED (probe succeeded)`);
+  } else {
+    agentState.state = 'OPEN';
+    agentState.trippedAt = Date.now();
+    agentState.reason = 'probe failed — re-tripped';
+    state.agents[agentId] = agentState;
+    saveState(state);
+    log(`  [breaker] ${agentId}: HALF_OPEN → OPEN (probe failed, re-tripped)`);
+  }
+}
+
 function reset(agentId) {
   const state = loadState();
   if (state.agents[agentId]) {
@@ -322,6 +351,7 @@ function sendAlert(agentId, level, data) {
 
 module.exports = {
   check,
+  probeResult,
   trip,
   reset,
   resetAll,

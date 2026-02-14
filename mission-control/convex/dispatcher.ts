@@ -231,3 +231,27 @@ export const promote = mutation({
 		return { promoted: toPromote.length };
 	},
 });
+
+// Retry a blocked task: reset attempts, remove "blocked" tag, move back to assigned.
+export const retryBlocked = mutation({
+	args: {
+		taskId: v.id("tasks"),
+		tenantId: v.string(),
+	},
+	handler: async (ctx, args) => {
+		const task = await ctx.db.get(args.taskId);
+		if (!task || task.tenantId !== args.tenantId) {
+			throw new Error("Task not found");
+		}
+		if (task.status !== "review" || !(task.tags || []).includes("blocked")) {
+			return { ok: false, reason: "Task is not in blocked-review state" };
+		}
+		await ctx.db.patch(args.taskId, {
+			status: "assigned" as const,
+			attempts: 0,
+			lastError: undefined,
+			tags: (task.tags || []).filter((t: string) => t !== "blocked"),
+		});
+		return { ok: true };
+	},
+});

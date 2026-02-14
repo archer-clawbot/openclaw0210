@@ -133,7 +133,7 @@ function buildTaskMessage(task, client, chainContext) {
     );
   }
 
-  lines.push(`Save deliverables to: ${deliverables}\\`);
+  lines.push(`Save deliverables to: ${deliverables}${path.sep}`);
 
   // Awareness injection — append relevant skill/training docs based on task content
   const taskText = `${task.title} ${task.description || ''}`;
@@ -319,7 +319,8 @@ async function pollClient(gw, client, dryRun) {
   }
 
   // 2. Backfill: if in_progress < max, promote from assigned
-  const activeCount = inProgressTasks.length - completed;
+  // Account for tasks completed this cycle AND tasks dispatched (newly promoted)
+  const activeCount = inProgressTasks.length - completed + dispatched;
   if (activeCount < maxConcurrent) {
     const toPromote = maxConcurrent - activeCount;
     if (dryRun) {

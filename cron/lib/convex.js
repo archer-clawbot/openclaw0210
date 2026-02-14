@@ -14,6 +14,9 @@ if (!CONVEX_API_TOKEN) {
   console.warn('[convex] WARNING: CONVEX_API_TOKEN not set — dispatcher auth will fail');
 }
 
+const MAX_RETRIES = 3;
+const BASE_DELAY_MS = 500;
+
 async function convexFetch(path, body) {
   const url = `${CONVEX_SITE_URL}${path}`;
   const headers = { 'Content-Type': 'application/json' };
@@ -22,34 +25,56 @@ async function convexFetch(path, body) {
     headers['Authorization'] = `Bearer ${CONVEX_API_TOKEN}`;
   }
 
-  const res = await fetch(url, {
-    method: 'POST',
-    headers,
-    body: JSON.stringify(body),
-    signal: AbortSignal.timeout(15_000),
-  });
+  let lastError;
+  for (let attempt = 0; attempt < MAX_RETRIES; attempt++) {
+    try {
+      const res = await fetch(url, {
+        method: 'POST',
+        headers,
+        body: JSON.stringify(body),
+        signal: AbortSignal.timeout(15_000),
+      });
 
-  // Get response text first for better error diagnostics
-  const text = await res.text();
+      // Get response text first for better error diagnostics
+      const text = await res.text();
 
-  if (!res.ok) {
-    throw new Error(`Convex POST ${path} → ${res.status}: ${text}`);
+      // 4xx = client error, don't retry (except 429)
+      if (res.status >= 400 && res.status < 500 && res.status !== 429) {
+        throw new Error(`Convex POST ${path} → ${res.status}: ${text}`);
+      }
+
+      // 5xx or 429 = transient, retry
+      if (!res.ok) {
+        throw Object.assign(
+          new Error(`Convex POST ${path} → ${res.status}: ${text}`),
+          { retryable: true },
+        );
+      }
+
+      // Parse JSON and detect Convex error responses
+      let result;
+      try {
+        result = JSON.parse(text);
+      } catch (parseErr) {
+        throw new Error(`Convex POST ${path} → invalid JSON: ${text.slice(0, 200)}`);
+      }
+
+      // Convex sometimes returns {error: ...} with 200 status
+      if (result && typeof result === 'object' && result.error) {
+        throw new Error(`Convex POST ${path} → backend error: ${result.error}`);
+      }
+
+      return result;
+    } catch (err) {
+      lastError = err;
+      const isRetryable = err.retryable || err.name === 'TimeoutError' || err.name === 'AbortError';
+      if (!isRetryable || attempt >= MAX_RETRIES - 1) throw err;
+
+      const delayMs = BASE_DELAY_MS * Math.pow(2, attempt) + Math.random() * 200;
+      await new Promise(r => setTimeout(r, delayMs));
+    }
   }
-
-  // Parse JSON and detect Convex error responses
-  let result;
-  try {
-    result = JSON.parse(text);
-  } catch (parseErr) {
-    throw new Error(`Convex POST ${path} → invalid JSON: ${text.slice(0, 200)}`);
-  }
-
-  // Convex sometimes returns {error: ...} with 200 status
-  if (result && typeof result === 'object' && result.error) {
-    throw new Error(`Convex POST ${path} → backend error: ${result.error}`);
-  }
-
-  return result;
+  throw lastError;
 }
 
 /** Fetch tasks by tenant + status. Returns array of task objects. */
