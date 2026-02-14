@@ -2,28 +2,40 @@ require('dotenv').config({ path: require('path').resolve(__dirname, '../..', '.e
 
 // Convex HTTP client — wraps Mission Control dispatcher routes.
 // Replaces trello.js as the task state backend.
+// All requests are authenticated with a Bearer API token (IMPL-003).
 
 const CONVEX_SITE_URL = process.env.CONVEX_SITE_URL;
+const CONVEX_API_TOKEN = process.env.CONVEX_API_TOKEN;
 
 if (!CONVEX_SITE_URL) {
   console.warn('[convex] WARNING: CONVEX_SITE_URL not set — dispatcher will fail');
 }
 
+if (!CONVEX_API_TOKEN) {
+  console.warn('[convex] WARNING: CONVEX_API_TOKEN not set — dispatcher auth will fail');
+}
+
 async function convexFetch(path, body) {
   const url = `${CONVEX_SITE_URL}${path}`;
+  const headers = { 'Content-Type': 'application/json' };
+
+  if (CONVEX_API_TOKEN) {
+    headers['Authorization'] = `Bearer ${CONVEX_API_TOKEN}`;
+  }
+
   const res = await fetch(url, {
     method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
+    headers,
     body: JSON.stringify(body),
   });
-  
+
   // Get response text first for better error diagnostics
   const text = await res.text();
-  
+
   if (!res.ok) {
     throw new Error(`Convex POST ${path} → ${res.status}: ${text}`);
   }
-  
+
   // Parse JSON and detect Convex error responses
   let result;
   try {
@@ -31,12 +43,12 @@ async function convexFetch(path, body) {
   } catch (parseErr) {
     throw new Error(`Convex POST ${path} → invalid JSON: ${text.slice(0, 200)}`);
   }
-  
+
   // Convex sometimes returns {error: ...} with 200 status
   if (result && typeof result === 'object' && result.error) {
     throw new Error(`Convex POST ${path} → backend error: ${result.error}`);
   }
-  
+
   return result;
 }
 

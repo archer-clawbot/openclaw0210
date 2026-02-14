@@ -26,11 +26,11 @@
     "sessionFile": "C:\\Users\\spart\\.openclaw\\agents\\forge\\sessions\\7b773bf2-1db4-419f-9283-2db869ee499e.jsonl"
   },
   "agent:forge:cron:forge-nightly": {
-    "sessionId": "31e5c6ca-b8c0-4ad0-b99c-7c573f04e24e",
-    "updatedAt": 1770883500026,
+    "sessionId": "8adfd348-dead-4cc0-a0e1-0693337c5b7b",
+    "updatedAt": 1770969900035,
     "systemSent": true,
     "model": "claude-opus-4-5",
-    "contextTokens": 200000,
+    "contextTokens": 180000,
     "skillsSnapshot": {
       "prompt": "",
       "skills": [],
@@ -39,7 +39,7 @@
     },
     "modelProvider": "anthropic",
     "inputTokens": 8,
-    "outputTokens": 308,
-    "totalTokens": 89937
+    "outputTokens": 416,
+    "totalTokens": 15859
   }
 }

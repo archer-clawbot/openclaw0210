@@ -177,5 +177,25 @@
     "inputTokens": 8,
     "outputTokens": 770,
     "totalTokens": 138561
+  },
+  "agent:specs:slack:channel:c0ae9nh0q7k": {
+    "chatType": "channel",
+    "channel": "slack",
+    "groupId": "c0ae9nh0q7k",
+    "displayName": "slack:g-c0ae9nh0q7k",
+    "origin": {
+      "label": "slack:channel:c0ae9nh0q7k",
+      "provider": "slack",
+      "surface": "slack",
+      "chatType": "channel",
+      "from": "slack:channel:c0ae9nh0q7k",
+      "to": "channel:c0ae9nh0q7k"
+    },
+    "sessionId": "2510e54c-6d65-4c5c-85f2-a4f1407d31eb",
+    "updatedAt": 1770949136602,
+    "deliveryContext": {
+      "channel": "slack"
+    },
+    "lastChannel": "slack"
   }
 }

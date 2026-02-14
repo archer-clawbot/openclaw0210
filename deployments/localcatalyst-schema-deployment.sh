@@ -5,12 +5,12 @@
 
 set -e
 
-# Configuration
-DOMAIN="https://darkgreen-moose-683278.hostingersite.com"
+# Configuration — credentials loaded from environment variables
+DOMAIN="${WP_DOMAIN:-https://darkgreen-moose-683278.hostingersite.com}"
 API_BASE="${DOMAIN}/wp-json/rankmath/v1"
 WP_API_BASE="${DOMAIN}/wp-json/wp/v2"
-USERNAME="cody@spartandigital.co"
-PASSWORD="yQ4A eDDO n5TD EooW ytnr jYZr"
+USERNAME="${WP_USERNAME:?ERROR: Set WP_USERNAME environment variable}"
+PASSWORD="${WP_APP_PASSWORD:?ERROR: Set WP_APP_PASSWORD environment variable}"
 
 # Create Basic Auth header
 CREDENTIALS=$(echo -n "${USERNAME}:${PASSWORD}" | base64)

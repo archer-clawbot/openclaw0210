@@ -6,14 +6,22 @@ Injects JSON-LD schema directly into page content
 
 import json
 import base64
+import os
 import requests
 import re
+import sys
 
-# Configuration
-DOMAIN = "https://darkgreen-moose-683278.hostingersite.com"
+# Configuration — credentials loaded from environment variables
+DOMAIN = os.environ.get("WP_DOMAIN", "https://darkgreen-moose-683278.hostingersite.com")
 WP_API_BASE = f"{DOMAIN}/wp-json/wp/v2"
-USERNAME = "cody@spartandigital.co"
-PASSWORD = "yQ4A eDDO n5TD EooW ytnr jYZr"
+USERNAME = os.environ.get("WP_USERNAME", "")
+PASSWORD = os.environ.get("WP_APP_PASSWORD", "")
+
+if not USERNAME or not PASSWORD:
+    print("ERROR: Set WP_USERNAME and WP_APP_PASSWORD environment variables before running.")
+    print("  $env:WP_USERNAME = 'your-email'")
+    print("  $env:WP_APP_PASSWORD = 'your-app-password'")
+    sys.exit(1)
 
 # Create Basic Auth header
 credentials = base64.b64encode(f"{USERNAME}:{PASSWORD}".encode()).decode()

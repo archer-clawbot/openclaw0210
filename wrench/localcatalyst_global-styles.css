@@ -1,0 +1,957 @@
+/* ============================================
+   LocalCatalyst.ai — Global Styles
+   GeneratePress Additional CSS (after tokens)
+   ============================================ */
+
+/* ---- Reset / Base ---- */
+body {
+  font-family: var(--lc-font-body);
+  color: var(--lc-text);
+  background: var(--lc-white);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ---- Google Fonts Import ---- */
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700&family=Space+Mono:wght@400;700&display=swap');
+
+
+/* ===========================================
+   ANIMATIONS
+   =========================================== */
+
+@keyframes lc-fadeUp {
+  from { opacity: 0; transform: translateY(30px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes lc-pulse {
+  0%, 100% { opacity: 0.4; }
+  50%      { opacity: 0.7; }
+}
+
+@keyframes lc-fadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+/* Scroll-triggered fade-in (applied via JS IntersectionObserver) */
+.lc-fade-in {
+  opacity: 0;
+  transform: translateY(24px);
+  transition: opacity 0.6s ease, transform 0.6s ease;
+}
+.lc-fade-in.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Stagger delays */
+.lc-delay-1 { transition-delay: 0.05s; }
+.lc-delay-2 { transition-delay: 0.1s; }
+.lc-delay-3 { transition-delay: 0.15s; }
+.lc-delay-4 { transition-delay: 0.2s; }
+.lc-delay-5 { transition-delay: 0.25s; }
+.lc-delay-6 { transition-delay: 0.3s; }
+
+
+/* ===========================================
+   NAVIGATION
+   =========================================== */
+
+.lc-nav {
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  z-index: 100;
+  padding: 0 48px;
+  height: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: transparent;
+  border-bottom: 1px solid transparent;
+  transition: var(--lc-transition-fast);
+}
+
+.lc-nav.scrolled {
+  background: rgba(11, 17, 32, 0.95);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border-bottom-color: rgba(255, 255, 255, 0.06);
+}
+
+.lc-nav-logo {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  text-decoration: none;
+}
+
+.lc-nav-logo-icon {
+  width: 30px; height: 30px;
+  border-radius: 8px;
+  background: linear-gradient(135deg, var(--lc-emerald), var(--lc-emerald-dark));
+  padding: 4px;
+  filter: brightness(0) invert(1);
+  object-fit: contain;
+}
+
+.lc-nav-logo-text {
+  font-size: 17px; font-weight: 700;
+  color: var(--lc-hero-text);
+}
+.lc-nav-logo-text span { color: var(--lc-emerald); }
+
+.lc-nav-links {
+  display: flex;
+  gap: 28px;
+  align-items: center;
+}
+
+.lc-nav-link {
+  color: var(--lc-hero-muted);
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 500;
+  transition: color 0.2s;
+}
+.lc-nav-link:hover,
+.lc-nav-link.active { color: var(--lc-hero-text); }
+.lc-nav-link.current { color: var(--lc-emerald); }
+
+
+/* ===========================================
+   BUTTONS
+   =========================================== */
+
+.lc-btn {
+  display: inline-block;
+  font-family: var(--lc-font-body);
+  font-weight: 700;
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+  letter-spacing: 0.3px;
+  transition: var(--lc-transition-fast);
+}
+
+.lc-btn-primary {
+  background: var(--lc-emerald);
+  color: var(--lc-navy);
+  padding: 16px 36px;
+  border-radius: var(--lc-radius-md);
+  font-size: 16px;
+  box-shadow: var(--lc-shadow-glow);
+}
+.lc-btn-primary:hover {
+  background: var(--lc-emerald-hover);
+  transform: translateY(-1px);
+  box-shadow: var(--lc-shadow-glow-lg);
+}
+
+.lc-btn-primary-sm {
+  background: var(--lc-emerald);
+  color: var(--lc-navy);
+  padding: 9px 22px;
+  border-radius: 8px;
+  font-size: 13px;
+}
+
+.lc-btn-ghost {
+  background: transparent;
+  color: var(--lc-hero-text);
+  border: 1.5px solid rgba(255, 255, 255, 0.15);
+  padding: 14px 30px;
+  border-radius: 8px;
+  font-size: 15px;
+}
+.lc-btn-ghost:hover {
+  border-color: rgba(255, 255, 255, 0.3);
+}
+
+.lc-btn-ghost-light {
+  background: transparent;
+  color: var(--lc-primary);
+  border: 1.5px solid var(--lc-card-border);
+  padding: 14px 30px;
+  border-radius: var(--lc-radius-md);
+  font-size: 15px;
+}
+
+/* Fix: GP global a:hover overrides button text color */
+.lc-btn-primary,
+.lc-btn-primary:hover,
+.lc-btn-primary:focus,
+.lc-btn-primary:active,
+.lc-btn-primary:visited {
+  color: var(--lc-navy) !important;
+}
+
+.lc-btn-primary-sm,
+.lc-btn-primary-sm:hover,
+.lc-btn-primary-sm:focus,
+.lc-btn-primary-sm:active,
+.lc-btn-primary-sm:visited {
+  color: var(--lc-navy) !important;
+}
+
+.lc-btn-ghost,
+.lc-btn-ghost:hover,
+.lc-btn-ghost:focus,
+.lc-btn-ghost:visited {
+  color: var(--lc-hero-text) !important;
+}
+
+.lc-btn-ghost-light,
+.lc-btn-ghost-light:hover,
+.lc-btn-ghost-light:focus,
+.lc-btn-ghost-light:visited {
+  color: var(--lc-primary) !important;
+}
+
+
+/* ===========================================
+   SECTION LABELS
+   =========================================== */
+
+.lc-section-label {
+  font-family: var(--lc-font-mono);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: var(--lc-emerald);
+  margin-bottom: 16px;
+}
+
+
+/* ===========================================
+   BADGES
+   =========================================== */
+
+/* Turnaround / stat badges — Space Mono */
+.lc-badge-stat {
+  font-family: var(--lc-font-mono);
+  font-size: 10px;
+  font-weight: 600;
+  padding: 4px 10px;
+  border-radius: var(--lc-radius-sm);
+  letter-spacing: 0.5px;
+  display: inline-block;
+}
+.lc-badge-stat-emerald {
+  background: var(--lc-emerald-dim);
+  color: var(--lc-emerald);
+  border: 1px solid var(--lc-emerald-border);
+}
+.lc-badge-stat-dark {
+  background: rgba(255, 255, 255, 0.06);
+  color: var(--lc-hero-muted);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+.lc-badge-stat-light {
+  background: var(--lc-off-white);
+  color: var(--lc-text-muted);
+  border: 1px solid var(--lc-card-border);
+}
+
+/* Category / tag badges — DM Sans */
+.lc-badge-cat {
+  font-family: var(--lc-font-body);
+  font-size: 11px;
+  font-weight: 700;
+  padding: 4px 10px;
+  border-radius: var(--lc-radius-sm);
+  letter-spacing: 0.5px;
+  display: inline-block;
+}
+.lc-badge-cat-strategy { background: rgba(16,185,129,0.08); color: #10b981; border: 1px solid rgba(16,185,129,0.15); }
+.lc-badge-cat-technical { background: rgba(59,130,246,0.08); color: #3b82f6; border: 1px solid rgba(59,130,246,0.15); }
+.lc-badge-cat-content { background: rgba(139,92,246,0.08); color: #8b5cf6; border: 1px solid rgba(139,92,246,0.15); }
+.lc-badge-cat-local { background: rgba(245,158,11,0.08); color: #f59e0b; border: 1px solid rgba(245,158,11,0.15); }
+.lc-badge-cat-link { background: rgba(239,68,68,0.08); color: #ef4444; border: 1px solid rgba(239,68,68,0.15); }
+
+/* Read time badge — DM Sans */
+.lc-badge-readtime {
+  font-family: var(--lc-font-body);
+  font-size: 11px;
+  font-weight: 600;
+  padding: 4px 10px;
+  border-radius: var(--lc-radius-sm);
+  background: var(--lc-off-white);
+  color: var(--lc-text-light);
+  border: 1px solid var(--lc-card-border);
+}
+
+
+/* ===========================================
+   CARDS
+   =========================================== */
+
+.lc-card {
+  background: var(--lc-white);
+  border: 1px solid var(--lc-card-border);
+  border-radius: var(--lc-radius-lg);
+  padding: 28px;
+  transition: var(--lc-transition);
+}
+.lc-card:hover {
+  border-color: var(--lc-emerald);
+  transform: translateY(-4px);
+  box-shadow: var(--lc-shadow-hover);
+}
+
+.lc-card-dark {
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: var(--lc-radius-lg);
+  padding: 28px;
+}
+
+.lc-card-static {
+  background: var(--lc-white);
+  border: 1px solid var(--lc-card-border);
+  border-radius: var(--lc-radius-lg);
+  padding: 28px;
+}
+
+
+/* ===========================================
+   PRICING
+   =========================================== */
+
+.lc-price {
+  font-family: var(--lc-font-mono);
+  font-weight: 700;
+}
+.lc-price-dollar {
+  font-size: 14px;
+  color: var(--lc-emerald);
+}
+.lc-price-amount {
+  font-size: 30px;
+  color: var(--lc-primary);
+}
+.lc-price-amount-lg {
+  font-size: 48px;
+}
+.lc-price-unit {
+  font-size: 13px;
+  color: var(--lc-text-light);
+  font-family: var(--lc-font-body);
+}
+.lc-price-tier {
+  font-size: 11px;
+  color: var(--lc-text-light);
+  font-family: var(--lc-font-mono);
+  display: block;
+  margin-bottom: 2px;
+}
+
+
+/* ===========================================
+   TABLES
+   =========================================== */
+
+.lc-table {
+  border-radius: var(--lc-radius-lg);
+  border: 1px solid var(--lc-card-border);
+  overflow: hidden;
+  background: var(--lc-white);
+}
+
+.lc-table-header {
+  display: grid;
+  background: var(--lc-primary);
+  color: var(--lc-hero-text);
+  padding: 16px 24px;
+  font-family: var(--lc-font-mono);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+.lc-table-row {
+  display: grid;
+  padding: 14px 24px;
+  font-size: 14px;
+  border-top: 1px solid var(--lc-card-border);
+}
+.lc-table-row:nth-child(odd) { background: var(--lc-white); }
+.lc-table-row:nth-child(even) { background: var(--lc-off-white); }
+
+.lc-table-cell-mono {
+  font-family: var(--lc-font-mono);
+  font-size: 13px;
+}
+
+
+/* ===========================================
+   DARK HERO SECTIONS
+   =========================================== */
+
+.lc-hero {
+  background: var(--lc-navy);
+  color: var(--lc-hero-text);
+  position: relative;
+  overflow: hidden;
+  padding: 130px 48px 80px;
+}
+
+.lc-hero-glow {
+  position: absolute;
+  width: 450px; height: 450px;
+  background: radial-gradient(circle, var(--lc-emerald-glow) 0%, transparent 70%);
+  filter: blur(80px);
+  animation: lc-pulse 6s ease-in-out infinite;
+}
+
+.lc-hero-grid {
+  position: absolute;
+  inset: 0;
+  opacity: 0.02;
+  background-image:
+    linear-gradient(rgba(255,255,255,0.5) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255,255,255,0.5) 1px, transparent 1px);
+  background-size: 64px 64px;
+}
+
+.lc-gradient-transition {
+  height: 60px;
+  background: var(--lc-navy);
+  clip-path: polygon(0 0, 100% 0, 100% 0%, 0 100%);
+  margin-top: -1px;
+}
+.lc-gradient-transition-short {
+  height: 40px;
+  background: var(--lc-navy);
+  clip-path: polygon(0 0, 100% 0, 100% 0%, 0 100%);
+  margin-top: -1px;
+}
+
+
+/* ===========================================
+   BREADCRUMBS
+   =========================================== */
+
+.lc-breadcrumb {
+  font-size: 13px;
+  color: var(--lc-hero-muted);
+  margin-bottom: 24px;
+}
+.lc-breadcrumb a {
+  color: var(--lc-hero-muted);
+  text-decoration: none;
+}
+.lc-breadcrumb a:hover { color: var(--lc-hero-text); }
+.lc-breadcrumb .sep {
+  margin: 0 8px;
+  opacity: 0.4;
+}
+.lc-breadcrumb .current {
+  color: var(--lc-emerald);
+}
+
+
+/* ===========================================
+   FAQ ACCORDION
+   =========================================== */
+
+.lc-faq-item {
+  border-bottom: 1px solid var(--lc-card-border);
+}
+
+.lc-faq-trigger {
+  width: 100%;
+  background: none;
+  border: none;
+  padding: 20px 0;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: left;
+  font-family: var(--lc-font-body);
+  transition: color 0.2s ease;
+}
+.lc-faq-trigger:hover,
+.lc-faq-trigger:focus {
+  background: transparent;
+  color: inherit;
+}
+
+.lc-faq-question {
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--lc-primary);
+  padding-right: 24px;
+}
+
+.lc-faq-icon {
+  font-size: 22px;
+  color: var(--lc-text-light);
+  flex-shrink: 0;
+  transition: transform 0.25s;
+}
+.lc-faq-item.open .lc-faq-icon {
+  transform: rotate(45deg);
+}
+
+.lc-faq-answer {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease;
+}
+.lc-faq-item.open .lc-faq-answer {
+  max-height: 300px;
+}
+.lc-faq-answer p {
+  font-size: 15px;
+  color: var(--lc-text-muted);
+  line-height: 1.7;
+  padding-bottom: 20px;
+}
+
+
+/* ===========================================
+   CALLOUTS
+   =========================================== */
+
+.lc-callout {
+  padding: 24px 28px;
+  border-radius: 12px;
+  margin-bottom: 28px;
+}
+.lc-callout-tip {
+  background: var(--lc-emerald-dim);
+  border-left: 3px solid var(--lc-emerald);
+}
+.lc-callout-info {
+  background: var(--lc-off-white);
+  border-left: 3px solid var(--lc-card-border);
+}
+
+
+/* ===========================================
+   ARTICLE STYLES
+   =========================================== */
+
+.lc-article h2 {
+  font-size: 28px;
+  font-weight: 700;
+  color: var(--lc-primary);
+  margin-top: 56px;
+  margin-bottom: 18px;
+  letter-spacing: -0.5px;
+  line-height: 1.25;
+  scroll-margin-top: 100px;
+}
+
+.lc-article h3 {
+  font-size: 20px;
+  font-weight: 700;
+  color: var(--lc-primary);
+  margin-top: 36px;
+  margin-bottom: 12px;
+  line-height: 1.3;
+}
+
+.lc-article p {
+  font-size: 17px;
+  color: var(--lc-text);
+  line-height: 1.8;
+  margin-bottom: 24px;
+}
+
+/* Reading progress bar */
+.lc-progress-bar {
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  height: 3px;
+  z-index: 200;
+  background: transparent;
+}
+.lc-progress-bar-fill {
+  height: 100%;
+  background: var(--lc-emerald);
+  width: 0%;
+  transition: width 0.1s linear;
+}
+
+/* Sticky TOC sidebar */
+.lc-toc {
+  position: sticky;
+  top: 90px;
+}
+.lc-toc-link {
+  display: block;
+  padding: 8px 14px;
+  border-left: 2px solid transparent;
+  font-size: 13px;
+  color: var(--lc-text-muted);
+  text-decoration: none;
+  transition: var(--lc-transition-fast);
+  line-height: 1.4;
+}
+.lc-toc-link:hover { color: var(--lc-text); }
+.lc-toc-link.active {
+  border-left-color: var(--lc-emerald);
+  color: var(--lc-emerald);
+  font-weight: 600;
+}
+
+
+/* ===========================================
+   FILTER PILLS
+   =========================================== */
+
+.lc-filter-btn {
+  border: none;
+  padding: 8px 18px;
+  border-radius: var(--lc-radius-pill);
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: var(--lc-transition-fast);
+  font-family: var(--lc-font-body);
+  background: var(--lc-off-white);
+  color: var(--lc-text-muted);
+  border: 1px solid var(--lc-card-border);
+}
+.lc-filter-btn.active,
+.lc-filter-btn:hover {
+  background: var(--lc-emerald);
+  color: var(--lc-navy);
+  border-color: var(--lc-emerald);
+}
+
+
+/* ===========================================
+   INDUSTRY VERTICAL TAGS
+   =========================================== */
+
+.lc-vertical-tag {
+  display: inline-block;
+  padding: 9px 18px;
+  border-radius: var(--lc-radius-pill);
+  background: var(--lc-white);
+  border: 1px solid var(--lc-card-border);
+  font-size: 13px;
+  color: var(--lc-text-muted);
+  transition: var(--lc-transition-fast);
+  cursor: pointer;
+  font-weight: 500;
+  text-decoration: none;
+}
+.lc-vertical-tag:hover {
+  border-color: var(--lc-emerald);
+  color: var(--lc-emerald);
+  background: var(--lc-emerald-dim);
+}
+
+
+/* ===========================================
+   FOOTER
+   =========================================== */
+
+.lc-footer {
+  padding: 64px 48px 40px;
+  border-top: 1px solid rgba(255, 255, 255, 0.06);
+  background: var(--lc-primary);
+  color: var(--lc-hero-text);
+}
+
+.lc-footer-col-title {
+  font-family: var(--lc-font-mono);
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--lc-hero-muted);
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  margin-bottom: 18px;
+}
+
+.lc-footer-link {
+  display: block;
+  margin-bottom: 11px;
+  color: var(--lc-hero-muted);
+  font-size: 13px;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+.lc-footer-link:hover { color: var(--lc-hero-text); }
+
+.lc-footer-bottom {
+  border-top: 1px solid rgba(255, 255, 255, 0.06);
+  padding-top: 24px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+/* ===========================================
+   UTILITIES
+   =========================================== */
+
+.lc-container {
+  max-width: var(--lc-container-max);
+  margin: 0 auto;
+  width: 100%;
+}
+
+.lc-mono { font-family: var(--lc-font-mono); }
+.lc-emerald { color: var(--lc-emerald); }
+.lc-muted { color: var(--lc-text-muted); }
+.lc-light { color: var(--lc-text-light); }
+
+.lc-section-dark { background: var(--lc-navy); color: var(--lc-hero-text); }
+.lc-section-primary { background: var(--lc-primary); color: var(--lc-hero-text); }
+.lc-section-light { background: var(--lc-white); color: var(--lc-text); }
+.lc-section-alt { background: var(--lc-off-white); color: var(--lc-text); }
+
+
+/* ===========================================
+   GP OVERRIDES
+   =========================================== */
+
+/* Fix: GP adds margin-bottom to article.page, creating white bar above footer */
+article.page,
+.post-type-archive article,
+article.type-page {
+  margin-bottom: 0 !important;
+}
+
+/* Fix: Kill GP's background-color transition on ALL links — prevents ghost hover */
+a, button, input {
+  transition: color 0.2s ease !important;
+}
+
+/* Fix: Force transparent background on links everywhere (GP adds gray on hover) */
+#article-body a,
+#article-body a:hover,
+#article-body a:focus,
+#article-body a:active,
+.lc-fade-in a,
+.lc-fade-in a:hover,
+.lc-fade-in a:focus,
+.lc-fade-in a:active,
+.lc-hero a,
+.lc-hero a:hover {
+  background-color: transparent !important;
+}
+
+/* Restore explicit backgrounds on elements that need them (inline bg attrs) */
+#article-body a[style*="background"],
+#article-body a[style*="background"]:hover,
+.lc-hero a[style*="background"],
+.lc-hero a[style*="background"]:hover {
+  background-color: unset !important;
+}
+
+/* Cards: always white, never dark gray */
+.lc-card,
+a.lc-card,
+a.lc-card:hover,
+a.lc-card:focus,
+a.lc-card:active,
+a.lc-card:visited {
+  background: #ffffff !important;
+  background-color: #ffffff !important;
+}
+.lc-card:hover {
+  border-color: var(--lc-emerald) !important;
+  transform: translateY(-4px);
+  box-shadow: var(--lc-shadow-hover);
+}
+
+/* lc-fade-in wrappers: transparent, no background ever */
+.lc-fade-in,
+.lc-fade-in:hover,
+.lc-fade-in.is-visible,
+.lc-fade-in.is-visible:hover {
+  background-color: transparent !important;
+  background: transparent !important;
+}
+
+/* Fix: Article template padding — prevent content touching viewport edges */
+#article-body .lc-article-layout {
+  padding-left: 48px !important;
+  padding-right: 48px !important;
+}
+#article-body + section {
+  padding-left: 48px !important;
+  padding-right: 48px !important;
+}
+.lc-hero {
+  padding-left: 48px !important;
+  padding-right: 48px !important;
+}
+
+/* Fix: GP right-sidebar layout leaking into article template */
+.one-container.right-sidebar #article-body,
+.one-container.right-sidebar #article-body ~ section {
+  width: 100% !important;
+  max-width: 100% !important;
+  margin-right: 0 !important;
+  margin-left: 0 !important;
+}
+
+
+/* ===========================================
+   RESPONSIVE
+   =========================================== */
+
+@media (max-width: 1024px) {
+  .lc-nav { padding: 0 24px; }
+  :root {
+    --lc-section-pad: 64px 24px;
+    --lc-section-pad-sm: 48px 24px;
+  }
+}
+
+@media (max-width: 768px) {
+  .lc-nav-links { display: none; } /* Replace with mobile menu */
+
+  .lc-hero h1 { font-size: 32px !important; }
+
+  /* Stack grids to single column */
+  .lc-grid-3 { grid-template-columns: 1fr !important; }
+  .lc-grid-2 { grid-template-columns: 1fr !important; }
+
+  /* Hide sidebar on mobile */
+  .lc-article-layout { grid-template-columns: 1fr !important; }
+  .lc-sidebar-desktop { display: none; }
+}
+
+/* ===========================================
+   MOBILE: Table horizontal scroll
+   =========================================== */
+
+@media (max-width: 768px) {
+  .lc-table {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+  .lc-table-header,
+  .lc-table-row {
+    min-width: 480px;
+  }
+}
+
+/* ===========================================
+   MOBILE: Footer responsive
+   =========================================== */
+
+@media (max-width: 768px) {
+  .lc-footer > div > div:first-child {
+    grid-template-columns: 1fr 1fr !important;
+    gap: 32px !important;
+  }
+  .lc-footer .lc-footer-bottom {
+    flex-direction: column;
+    gap: 12px;
+    text-align: center;
+  }
+}
+@media (max-width: 480px) {
+  .lc-footer > div > div:first-child {
+    grid-template-columns: 1fr !important;
+  }
+}
+
+/* ===========================================
+   MOBILE: Hero + CTA button stacking
+   =========================================== */
+
+@media (max-width: 768px) {
+  .lc-hero {
+    padding: 100px 24px 60px !important;
+  }
+  section {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  }
+  #article-body .lc-article-layout {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  }
+  /* Stack CTA buttons vertically */
+  .lc-hero div[style*="display: flex"][style*="gap"] {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  .lc-hero .lc-btn,
+  .lc-hero a[class*="lc-btn"] {
+    text-align: center;
+    width: 100%;
+  }
+}
+
+/* ===========================================
+   MOBILE: Hamburger menu
+   =========================================== */
+
+.lc-nav-hamburger {
+  display: none;
+  background: none;
+  border: none;
+  color: var(--lc-hero-text);
+  font-size: 24px;
+  cursor: pointer;
+  padding: 8px;
+  line-height: 1;
+}
+
+@media (max-width: 768px) {
+  .lc-nav-hamburger {
+    display: block;
+  }
+  .lc-nav-links {
+    display: none !important;
+  }
+  .lc-nav-links.mobile-open {
+    display: flex !important;
+    flex-direction: column;
+    position: absolute;
+    top: 64px;
+    right: 20px;
+    background: rgba(11, 17, 32, 0.98);
+    padding: 16px 24px;
+    border-radius: 12px;
+    gap: 16px;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    z-index: 101;
+  }
+}
+
+
+/* ===========================================
+   GP FULL-WIDTH PAGE FIXES
+   =========================================== */
+
+/* Fix: Kill GP inside-article padding for full-width pages */
+.full-width-content .inside-article { padding: 0 !important; }
+.full-width-content .entry-content { padding: 0 !important; margin: 0 !important; }
+
+/* Defensive: hide empty <p> tags from residual wpautop */
+.entry-content > p:empty { display: none; margin: 0; padding: 0; }
+
+/* Fix: Button contrast on primary (dark navy) sections */
+.lc-section-primary .lc-btn-primary,
+.lc-section-primary .lc-btn-primary:hover,
+.lc-section-primary .lc-btn-primary:focus,
+.lc-section-primary .lc-btn-primary:visited {
+  background: var(--lc-emerald) !important;
+  color: var(--lc-navy) !important;
+  border: none !important;
+}
+.lc-section-primary .lc-btn-ghost,
+.lc-section-primary .lc-btn-ghost:hover,
+.lc-section-primary .lc-btn-ghost:focus,
+.lc-section-primary .lc-btn-ghost:visited {
+  color: var(--lc-hero-text) !important;
+  border-color: rgba(255, 255, 255, 0.2) !important;
+}

@@ -1,5 +1,7 @@
 # Trello Task Management
 
+> **STATUS: NOT YET DEPLOYED.** The Trello skill server (`http://127.0.0.1:8001`) is not running. The `create-website-template.js` script does not exist yet. Do NOT attempt to call Trello endpoints or reference these scripts until the skill is deployed. This document is the specification for future implementation.
+
 You manage task boards via the **Trello skill** (FastAPI server on `http://127.0.0.1:8001`). Use the skill's HTTP endpoints to create, move, and update cards as agents complete work.
 
 ## Board Structure

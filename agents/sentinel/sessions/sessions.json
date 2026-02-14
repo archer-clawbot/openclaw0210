@@ -1,10 +1,10 @@
 {
   "agent:sentinel:cron:b8890acc-185c-4739-8248-988d0660ca46": {
-    "sessionId": "c88146a4-7fd6-4c63-aaa1-36658c43bab4",
-    "updatedAt": 1770883200029,
+    "sessionId": "8f47100f-673d-4100-b79d-8fec8db702bd",
+    "updatedAt": 1770969600026,
     "systemSent": true,
     "model": "claude-haiku-4-5",
-    "contextTokens": 200000,
+    "contextTokens": 180000,
     "skillsSnapshot": {
       "prompt": "",
       "skills": [],
@@ -12,9 +12,9 @@
       "version": 0
     },
     "modelProvider": "anthropic",
-    "inputTokens": 6,
-    "outputTokens": 636,
-    "totalTokens": 36743
+    "inputTokens": 13,
+    "outputTokens": 1017,
+    "totalTokens": 83528
   },
   "agent:sentinel:slack:channel:c0adup40414": {
     "chatType": "channel",
@@ -51,7 +51,7 @@
       "to": "channel:sentinel"
     },
     "sessionId": "8e17ff50-c96f-446c-a08a-6b92699ec078",
-    "updatedAt": 1770883325040,
+    "updatedAt": 1770969637365,
     "deliveryContext": {
       "channel": "slack"
     },
@@ -72,7 +72,7 @@
       "to": "channel:archer"
     },
     "sessionId": "d9bd1c85-c711-4298-a505-2becaf666481",
-    "updatedAt": 1770883325322,
+    "updatedAt": 1770969637745,
     "deliveryContext": {
       "channel": "slack"
     },
