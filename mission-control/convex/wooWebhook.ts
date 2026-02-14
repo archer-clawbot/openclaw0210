@@ -100,7 +100,7 @@ export const handleWebhook = httpAction(async (ctx, request) => {
 	const bodyText = await request.text();
 	const signature = request.headers.get("X-WC-Webhook-Signature");
 	const topic = request.headers.get("X-WC-Webhook-Topic");
-	const resource = request.headers.get("X-WC-Webhook-Resource");
+	const _resource = request.headers.get("X-WC-Webhook-Resource");
 
 	// Verify signature
 	const valid = await verifyWebhookSignature(bodyText, signature);
