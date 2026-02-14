@@ -41,7 +41,6 @@ export default function PackageDetailPage() {
 	const updateConfig = useMutation(api.wooPackages.updatePackageConfig);
 	const deleteConfig = useMutation(api.wooPackages.deletePackageConfig);
 	const addItem = useMutation(api.wooPackages.addPackageItem);
-	const _updateItem = useMutation(api.wooPackages.updatePackageItem);
 	const deleteItem = useMutation(api.wooPackages.deletePackageItem);
 	const generateDeliverables = useMutation(
 		api.wooDeliverables.generateForPackage,
