@@ -11,4 +11,11 @@ crons.interval(
 	{ fullResync: false },
 );
 
+// Run deliverable generation daily at 6 AM UTC (midnight CST)
+crons.daily(
+	"woo-generate-deliverables",
+	{ hourUTC: 6, minuteUTC: 0 },
+	api.wooDeliverables.generateCycleDeliverables,
+);
+
 export default crons;

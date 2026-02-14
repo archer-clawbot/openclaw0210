@@ -7,6 +7,10 @@ import RoleRedirect from "./guards/RoleRedirect";
 import AdminGuard from "./guards/AdminGuard";
 import CustomerGuard from "./guards/CustomerGuard";
 import MissionControlApp from "./pages/admin/MissionControlApp";
+import PackagesPage from "./pages/admin/PackagesPage";
+import PackageDetailPage from "./pages/admin/PackageDetailPage";
+import AdminDeliverablesPage from "./pages/admin/AdminDeliverablesPage";
+import AdminDeliverableDetailPage from "./pages/admin/AdminDeliverableDetailPage";
 import PortalLayout from "./layouts/PortalLayout";
 import PortalHome from "./pages/portal/PortalHome";
 import OrdersPage from "./pages/portal/OrdersPage";
@@ -28,6 +32,38 @@ export default function App() {
 						element={
 							<AdminGuard>
 								<MissionControlApp />
+							</AdminGuard>
+						}
+					/>
+					<Route
+						path="/admin/packages"
+						element={
+							<AdminGuard>
+								<PackagesPage />
+							</AdminGuard>
+						}
+					/>
+					<Route
+						path="/admin/packages/:configId"
+						element={
+							<AdminGuard>
+								<PackageDetailPage />
+							</AdminGuard>
+						}
+					/>
+					<Route
+						path="/admin/deliverables"
+						element={
+							<AdminGuard>
+								<AdminDeliverablesPage />
+							</AdminGuard>
+						}
+					/>
+					<Route
+						path="/admin/deliverables/:id"
+						element={
+							<AdminGuard>
+								<AdminDeliverableDetailPage />
 							</AdminGuard>
 						}
 					/>

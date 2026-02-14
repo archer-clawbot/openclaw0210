@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import { Link } from "react-router";
 import SignOutButton from "./Signout";
 import { useQuery } from "convex/react";
 import { api } from "../../convex/_generated/api";
@@ -65,6 +66,20 @@ const Header: React.FC<HeaderProps> = ({ onOpenAgents, onOpenLiveFeed }) => {
 				</div>
 				<div className="hidden sm:block text-xs text-muted-foreground bg-muted px-3 py-1 rounded-full font-medium">
 					SiteName
+				</div>
+				<div className="hidden lg:flex items-center gap-1 ml-2">
+					<Link
+						to="/admin/packages"
+						className="text-[11px] font-semibold tracking-wider uppercase text-muted-foreground hover:text-foreground bg-muted hover:bg-accent px-3 py-1.5 rounded-lg transition-colors"
+					>
+						Packages
+					</Link>
+					<Link
+						to="/admin/deliverables"
+						className="text-[11px] font-semibold tracking-wider uppercase text-muted-foreground hover:text-foreground bg-muted hover:bg-accent px-3 py-1.5 rounded-lg transition-colors"
+					>
+						Deliverables
+					</Link>
 				</div>
 			</div>
 
