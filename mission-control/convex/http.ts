@@ -2,10 +2,18 @@ import { httpRouter } from "convex/server";
 import { httpAction } from "./_generated/server";
 import { api } from "./_generated/api";
 import { auth } from "./auth";
+import { handleWebhook } from "./wooWebhook";
 
 const http = httpRouter();
 
 auth.addHttpRoutes(http);
+
+// ── WooCommerce webhook endpoint ─────────────────────────────────
+http.route({
+	path: "/woo/webhook",
+	method: "POST",
+	handler: handleWebhook,
+});
 
 // ── OpenClaw webhook endpoint ─────────────────────────────────────
 http.route({

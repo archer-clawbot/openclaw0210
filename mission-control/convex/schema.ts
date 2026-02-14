@@ -60,6 +60,8 @@ export default defineSchema({
 		dispatchedAt: v.optional(v.number()),
 		completedAt: v.optional(v.number()),
 		chainFrom: v.optional(v.id("tasks")),
+		// WooCommerce deliverable link
+		deliverableId: v.optional(v.id("wooDeliverables")),
 		// Cost observatory fields
 		inputTokens: v.optional(v.number()),
 		outputTokens: v.optional(v.number()),
@@ -139,4 +141,145 @@ export default defineSchema({
 		windowStartMs: v.number(),
 		count: v.number(),
 	}).index("by_tenant", ["tenantId"]),
+
+	// ── WooCommerce Integration ──────────────────────────────────────
+
+	wooCustomers: defineTable({
+		wcCustomerId: v.number(),
+		email: v.string(),
+		firstName: v.string(),
+		lastName: v.string(),
+		company: v.optional(v.string()),
+		phone: v.optional(v.string()),
+		avatarUrl: v.optional(v.string()),
+		wcDateCreated: v.string(),
+		wcMeta: v.optional(v.string()),
+		tenantId: v.optional(v.string()),
+		lastSyncedAt: v.number(),
+	})
+		.index("by_tenant", ["tenantId"])
+		.index("by_wcCustomerId", ["wcCustomerId"])
+		.index("by_email", ["email"]),
+
+	wooOrders: defineTable({
+		wcOrderId: v.number(),
+		wcCustomerId: v.number(),
+		customerId: v.optional(v.id("wooCustomers")),
+		status: v.string(),
+		total: v.string(),
+		currency: v.string(),
+		paymentMethod: v.string(),
+		wcDateCreated: v.string(),
+		wcDatePaid: v.optional(v.string()),
+		lineItems: v.string(),
+		billingAddress: v.optional(v.string()),
+		shippingAddress: v.optional(v.string()),
+		tenantId: v.optional(v.string()),
+		lastSyncedAt: v.number(),
+	})
+		.index("by_tenant", ["tenantId"])
+		.index("by_wcOrderId", ["wcOrderId"])
+		.index("by_customerId", ["customerId"])
+		.index("by_tenant_status", ["tenantId", "status"]),
+
+	wooProducts: defineTable({
+		wcProductId: v.number(),
+		name: v.string(),
+		slug: v.string(),
+		type: v.string(),
+		status: v.string(),
+		price: v.string(),
+		regularPrice: v.string(),
+		description: v.optional(v.string()),
+		shortDescription: v.optional(v.string()),
+		imageUrl: v.optional(v.string()),
+		categories: v.string(),
+		tenantId: v.optional(v.string()),
+		lastSyncedAt: v.number(),
+	})
+		.index("by_tenant", ["tenantId"])
+		.index("by_wcProductId", ["wcProductId"]),
+
+	wooSyncState: defineTable({
+		entityType: v.string(),
+		lastSyncedAt: v.number(),
+		lastWcModified: v.optional(v.string()),
+		cursor: v.optional(v.number()),
+		status: v.string(),
+		errorMessage: v.optional(v.string()),
+		tenantId: v.optional(v.string()),
+	}).index("by_tenant_entity", ["tenantId", "entityType"]),
+
+	// ── Package Configuration ────────────────────────────────────────
+
+	wooPackageConfigs: defineTable({
+		customerId: v.id("wooCustomers"),
+		wcOrderId: v.number(),
+		name: v.string(),
+		status: v.string(),
+		billingCycleDay: v.number(),
+		startDate: v.string(),
+		currentCycleNumber: v.number(),
+		tenantId: v.optional(v.string()),
+		notes: v.optional(v.string()),
+		lastGeneratedCycle: v.optional(v.number()),
+	})
+		.index("by_customerId", ["customerId"])
+		.index("by_tenant", ["tenantId"])
+		.index("by_status", ["status"]),
+
+	wooPackageItems: defineTable({
+		packageConfigId: v.id("wooPackageConfigs"),
+		wcProductId: v.optional(v.number()),
+		itemType: v.string(),
+		label: v.string(),
+		frequency: v.string(),
+		quantity: v.number(),
+		quantityUnit: v.optional(v.string()),
+		completedCycles: v.optional(v.string()),
+		tenantId: v.optional(v.string()),
+		notes: v.optional(v.string()),
+	})
+		.index("by_packageConfigId", ["packageConfigId"])
+		.index("by_tenant", ["tenantId"]),
+
+	wooDeliverables: defineTable({
+		packageConfigId: v.optional(v.id("wooPackageConfigs")),
+		packageItemId: v.optional(v.id("wooPackageItems")),
+		orderId: v.optional(v.id("wooOrders")),
+		customerId: v.id("wooCustomers"),
+		wcOrderId: v.optional(v.number()),
+		wcProductId: v.optional(v.number()),
+		cycleNumber: v.optional(v.number()),
+		title: v.string(),
+		itemType: v.string(),
+		status: v.string(),
+		quantity: v.optional(v.number()),
+		quantityDelivered: v.optional(v.number()),
+		deliveredAt: v.optional(v.number()),
+		dueDate: v.optional(v.string()),
+		documentIds: v.optional(v.string()),
+		downloadUrls: v.optional(v.string()),
+		notes: v.optional(v.string()),
+		emailSentAt: v.optional(v.number()),
+		tenantId: v.optional(v.string()),
+	})
+		.index("by_customerId", ["customerId"])
+		.index("by_packageConfigId", ["packageConfigId"])
+		.index("by_tenant_status", ["tenantId", "status"])
+		.index("by_customerId_cycleNumber", ["customerId", "cycleNumber"])
+		.index("by_itemType", ["itemType"]),
+
+	// ── Customer Portal Auth ─────────────────────────────────────────
+
+	customerPortalUsers: defineTable({
+		userId: v.string(),
+		customerId: v.id("wooCustomers"),
+		wcCustomerId: v.number(),
+		role: v.string(),
+		tenantId: v.optional(v.string()),
+	})
+		.index("by_userId", ["userId"])
+		.index("by_customerId", ["customerId"])
+		.index("by_wcCustomerId", ["wcCustomerId"]),
 });
