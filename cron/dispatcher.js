@@ -292,6 +292,9 @@ async function pollClient(gw, client, dryRun) {
         await convex.markCompleted(task._id, tenantId, needsReview);
         log(`  [${slug}] completed: ${task.title} → ${needsReview ? 'REVIEW' : 'DONE'}`);
 
+        // Circuit breaker: report successful probe (no-op if not HALF_OPEN)
+        breakers.probeResult(task.agentId, true, log);
+
         // Record cost data from session JSONL
         try {
           const usage = observatory.getTaskCost(task.agentId, task.openclawRunId);
@@ -308,6 +311,10 @@ async function pollClient(gw, client, dryRun) {
       } else if (result.status === 'error') {
         await convex.markFailed(task._id, tenantId, result.error || 'agent error');
         log(`  [${slug}] failed: ${task.title} (attempt ${task.attempts}/${MAX_ATTEMPTS})`);
+
+        // Circuit breaker: report failed probe (no-op if not HALF_OPEN)
+        breakers.probeResult(task.agentId, false, log);
+
         errors++;
       } else {
         // timeout — still running, skip

@@ -8,6 +8,7 @@ const crypto = require('crypto');
 const GATEWAY_URL = 'ws://127.0.0.1:18789';
 const AUTH_TOKEN = process.env.GATEWAY_AUTH_TOKEN;
 const RECONNECT_DELAY = 5000;
+const RECONNECT_MAX_DELAY = 60_000;
 const GW_REQUEST_TIMEOUT_MS = 30_000;
 
 function uuid() {
@@ -21,6 +22,7 @@ class GatewayClient {
     this._connected = false;
     this._pendingRequests = new Map();   // id → { resolve, reject, responses[] }
     this._reconnectTimer = null;
+    this._reconnectDelay = RECONNECT_DELAY;
     this._closing = false;
   }
 
@@ -207,13 +209,21 @@ class GatewayClient {
 
   _scheduleReconnect() {
     if (this._reconnectTimer) return;
-    this._log(`[gw] reconnecting in ${RECONNECT_DELAY / 1000}s…`);
+    const delaySec = (this._reconnectDelay / 1000).toFixed(1);
+    this._log(`[gw] reconnecting in ${delaySec}s…`);
     this._reconnectTimer = setTimeout(() => {
       this._reconnectTimer = null;
-      this.connect().catch((err) => {
-        this._log(`[gw] reconnect failed: ${err.message}`);
-      });
-    }, RECONNECT_DELAY);
+      this.connect()
+        .then(() => {
+          // Reset backoff on successful reconnect
+          this._reconnectDelay = RECONNECT_DELAY;
+        })
+        .catch((err) => {
+          this._log(`[gw] reconnect failed: ${err.message}`);
+          // Exponential backoff capped at RECONNECT_MAX_DELAY
+          this._reconnectDelay = Math.min(this._reconnectDelay * 2, RECONNECT_MAX_DELAY);
+        });
+    }, this._reconnectDelay);
   }
 }
 
