@@ -26,6 +26,11 @@ cron/state/
 agents/*/sessions/*.jsonl
 agents/*/sessions/*.jsonl.deleted.*
 agents/*/sessions/*.jsonl.lock
+agents/*/sessions/_archived/
+
+# Temp scripts (one-off utilities — never commit)
+temp_*.py
+temp_*.ps1
 
 # Backups & archives
 *.zip

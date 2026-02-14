@@ -132,7 +132,7 @@ add_action( 'wp_head', function() {
 ## Current Status & Blockers
 
 ❌ **Authentication Failed**
-- Found app password: `yQ4A eDDO n5TD EooW ytnr jYZr` (WP_LOCALCATALYST_APP_PASSWORD)
+- Found app password: `[REDACTED]` (WP_LOCALCATALYST_APP_PASSWORD)
 - Cannot locate the associated WordPress username/email
 - Tested: admin, administrator, root, catalyst, localcatalyst, user, wp-admin, webmaster
 - All authentication attempts returned HTTP 401

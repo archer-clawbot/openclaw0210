@@ -473,11 +473,11 @@ WordPress Application Passwords:
 - Must remove spaces when using programmatically
 
 ```python
-# ✅ CORRECT
-app_password = 'lGHAdJtpiiFO8Morr8whCyZe'  # No spaces
+# ✅ CORRECT — remove spaces from the app password
+app_password = os.environ['WP_APP_PASSWORD'].replace(' ', '')
 
-# ❌ WRONG (spaces from WordPress UI)
-app_password = 'lGHA dJtp iiFO 8Mor r8wh CyZe'
+# ❌ WRONG (spaces from WordPress UI left in)
+app_password = 'xxxx xxxx xxxx xxxx xxxx xxxx'  # raw from WP — strip spaces first
 ```
 
 ### 2. Comments Aren't Always Disabled
