@@ -148,6 +148,12 @@ export const fail = mutation({
 	},
 });
 
+const VALID_STATUSES = ["inbox", "assigned", "in_progress", "review", "done", "archived"] as const;
+const VALID_PRIORITIES = ["low", "medium", "high", "urgent"] as const;
+const MAX_TITLE_LENGTH = 500;
+const MAX_DESCRIPTION_LENGTH = 50_000;
+const MAX_ATTEMPTS_LIMIT = 10;
+
 export const createTask = mutation({
 	args: {
 		tenantId: v.string(),
@@ -164,10 +170,29 @@ export const createTask = mutation({
 		deliverableId: v.optional(v.id("wooDeliverables")),
 	},
 	handler: async (ctx, args) => {
+		// Input validation
+		if (args.title.length > MAX_TITLE_LENGTH) {
+			throw new Error(`Title exceeds ${MAX_TITLE_LENGTH} characters`);
+		}
+		if (args.description.length > MAX_DESCRIPTION_LENGTH) {
+			throw new Error(`Description exceeds ${MAX_DESCRIPTION_LENGTH} characters`);
+		}
+		const status = args.status ?? "assigned";
+		if (!VALID_STATUSES.includes(status as any)) {
+			throw new Error(`Invalid status: ${status}`);
+		}
+		if (args.priority && !VALID_PRIORITIES.includes(args.priority as any)) {
+			throw new Error(`Invalid priority: ${args.priority}`);
+		}
+		const maxAttempts = args.maxAttempts ?? 3;
+		if (maxAttempts < 1 || maxAttempts > MAX_ATTEMPTS_LIMIT) {
+			throw new Error(`maxAttempts must be between 1 and ${MAX_ATTEMPTS_LIMIT}`);
+		}
+
 		const taskId = await ctx.db.insert("tasks", {
 			title: args.title,
 			description: args.description,
-			status: (args.status ?? "assigned") as any,
+			status: status as any,
 			assigneeIds: [],
 			tags: args.tags ?? [],
 			tenantId: args.tenantId,
@@ -176,7 +201,7 @@ export const createTask = mutation({
 			priority: args.priority as any,
 			phase: args.phase,
 			chainFrom: args.chainFrom,
-			maxAttempts: args.maxAttempts ?? 3,
+			maxAttempts,
 			attempts: 0,
 			deliverableId: args.deliverableId,
 		});
@@ -195,6 +220,13 @@ export const recordUsage = mutation({
 		totalCost: v.number(),
 	},
 	handler: async (ctx, args) => {
+		// Validate non-negative values
+		if (args.inputTokens < 0) throw new Error("inputTokens must be non-negative");
+		if (args.outputTokens < 0) throw new Error("outputTokens must be non-negative");
+		if (args.totalCost < 0) throw new Error("totalCost must be non-negative");
+		if (args.cacheReadTokens != null && args.cacheReadTokens < 0) throw new Error("cacheReadTokens must be non-negative");
+		if (args.cacheWriteTokens != null && args.cacheWriteTokens < 0) throw new Error("cacheWriteTokens must be non-negative");
+
 		const task = await ctx.db.get(args.taskId);
 		if (!task || task.tenantId !== args.tenantId) {
 			throw new Error("Task not found");
@@ -218,6 +250,17 @@ export const promote = mutation({
 		limit: v.optional(v.number()),
 	},
 	handler: async (ctx, args) => {
+		// Validate statuses
+		if (!VALID_STATUSES.includes(args.fromStatus as any)) {
+			throw new Error(`Invalid fromStatus: ${args.fromStatus}`);
+		}
+		if (!VALID_STATUSES.includes(args.toStatus as any)) {
+			throw new Error(`Invalid toStatus: ${args.toStatus}`);
+		}
+		if (args.limit != null && args.limit < 1) {
+			throw new Error("limit must be at least 1");
+		}
+
 		const tasks = await ctx.db
 			.query("tasks")
 			.withIndex("by_tenant_status", (q) =>

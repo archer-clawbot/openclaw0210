@@ -8,6 +8,7 @@ const crypto = require('crypto');
 const GATEWAY_URL = 'ws://127.0.0.1:18789';
 const AUTH_TOKEN = process.env.GATEWAY_AUTH_TOKEN;
 const RECONNECT_DELAY = 5000;
+const GW_REQUEST_TIMEOUT_MS = 30_000;
 
 function uuid() {
   return crypto.randomUUID();
@@ -153,7 +154,7 @@ class GatewayClient {
     ws.send(JSON.stringify(frame));
   }
 
-  _request(id, frame, { expectFinal = false, timeoutMs = 30_000 } = {}) {
+  _request(id, frame, { expectFinal = false, timeoutMs = GW_REQUEST_TIMEOUT_MS } = {}) {
     return new Promise((resolve, reject) => {
       const timer = setTimeout(() => {
         this._pendingRequests.delete(id);

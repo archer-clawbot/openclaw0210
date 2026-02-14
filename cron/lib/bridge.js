@@ -7,6 +7,7 @@ require('dotenv').config({ path: require('path').resolve(__dirname, '../..', '.e
 const crypto = require('crypto');
 
 const BRIDGE_SECRET = process.env.OPENCLAW_BRIDGE_SECRET;
+const HTTP_TIMEOUT_MS = 15_000;
 
 if (!BRIDGE_SECRET) {
   console.warn('[bridge] WARNING: OPENCLAW_BRIDGE_SECRET not set — bridge requests will fail');
@@ -56,7 +57,7 @@ async function bridgeRequest(baseUrl, method, path, body = null, queryParams = {
     fetchOpts.body = bodyStr;
   }
 
-  fetchOpts.signal = AbortSignal.timeout(15_000);
+  fetchOpts.signal = AbortSignal.timeout(HTTP_TIMEOUT_MS);
   const res = await fetch(url.toString(), fetchOpts);
 
   if (!res.ok) {

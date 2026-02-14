@@ -16,6 +16,7 @@ if (!CONVEX_API_TOKEN) {
 
 const MAX_RETRIES = 3;
 const BASE_DELAY_MS = 500;
+const HTTP_TIMEOUT_MS = 15_000;
 
 async function convexFetch(path, body) {
   const url = `${CONVEX_SITE_URL}${path}`;
@@ -32,7 +33,7 @@ async function convexFetch(path, body) {
         method: 'POST',
         headers,
         body: JSON.stringify(body),
-        signal: AbortSignal.timeout(15_000),
+        signal: AbortSignal.timeout(HTTP_TIMEOUT_MS),
       });
 
       // Get response text first for better error diagnostics

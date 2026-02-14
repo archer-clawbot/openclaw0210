@@ -36,6 +36,26 @@ function slugify(name) {
     .replace(/^-+|-+$/g, '');
 }
 
+/** Validate required fields on a client config. Returns array of errors (empty = valid). */
+function validate(config, slug) {
+  const errors = [];
+  const required = ['name', 'domain', 'tenantId', 'status'];
+  for (const key of required) {
+    if (!config[key]) errors.push(`missing required field "${key}"`);
+  }
+  if (config.access?.wordpress) {
+    const wp = config.access.wordpress;
+    const wpRequired = ['url', 'restApi', 'user', 'appPassword'];
+    for (const key of wpRequired) {
+      if (!wp[key]) errors.push(`access.wordpress missing "${key}"`);
+    }
+  }
+  if (config.maxConcurrent != null && (typeof config.maxConcurrent !== 'number' || config.maxConcurrent < 1)) {
+    errors.push('maxConcurrent must be a positive number');
+  }
+  return errors;
+}
+
 /** Read a single client config. Returns null if not found. */
 function load(slug) {
   const file = path.join(CLIENTS_DIR, `${slug}.json`);
@@ -75,7 +95,7 @@ function register(config) {
   return full;
 }
 
-/** Return all client configs with status:"active". */
+/** Return all client configs with status:"active". Warns on invalid configs. */
 function listActive() {
   ensureDir();
   const files = fs.readdirSync(CLIENTS_DIR).filter(f => f.endsWith('.json'));
@@ -83,12 +103,18 @@ function listActive() {
   for (const f of files) {
     try {
       const data = resolveEnvVars(JSON.parse(fs.readFileSync(path.join(CLIENTS_DIR, f), 'utf8')));
-      if (data.status === 'active') clients.push(data);
+      if (data.status !== 'active') continue;
+      const errors = validate(data, f);
+      if (errors.length > 0) {
+        console.warn(`[clients] WARNING: ${f} has config errors: ${errors.join('; ')} — skipping`);
+        continue;
+      }
+      clients.push(data);
     } catch {
-      // skip malformed
+      // skip malformed JSON
     }
   }
   return clients;
 }
 
-module.exports = { slugify, load, save, register, listActive, CLIENTS_DIR };
+module.exports = { slugify, load, save, register, listActive, validate, CLIENTS_DIR };

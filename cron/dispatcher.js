@@ -410,9 +410,26 @@ async function showStatus(filterSlug) {
   }
 }
 
+// ── Startup Validation ────────────────────────────────────────────────
+
+function validateEnv() {
+  const required = [
+    'CONVEX_SITE_URL',
+    'CONVEX_API_TOKEN',
+    'GATEWAY_AUTH_TOKEN',
+  ];
+  const missing = required.filter(k => !process.env[k]);
+  if (missing.length > 0) {
+    console.error(`FATAL: Missing required env vars: ${missing.join(', ')}`);
+    console.error('Ensure .env is populated. Dispatcher cannot start.');
+    process.exit(1);
+  }
+}
+
 // ── CLI ───────────────────────────────────────────────────────────────
 
 async function main() {
+  validateEnv();
   const args = process.argv.slice(2);
 
   // --memory

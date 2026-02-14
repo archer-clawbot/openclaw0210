@@ -185,4 +185,15 @@ http.route({
 	}),
 });
 
+http.route({
+	path: "/dispatcher/tasks/retry-blocked",
+	method: "POST",
+	handler: authedHandler(async (ctx, body) => {
+		return await ctx.runMutation(api.dispatcher.retryBlocked, {
+			taskId: body.taskId,
+			tenantId: body.tenantId,
+		});
+	}),
+});
+
 export default http;
