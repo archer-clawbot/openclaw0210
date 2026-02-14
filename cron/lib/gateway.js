@@ -153,9 +153,19 @@ class GatewayClient {
     ws.send(JSON.stringify(frame));
   }
 
-  _request(id, frame, { expectFinal = false } = {}) {
+  _request(id, frame, { expectFinal = false, timeoutMs = 30_000 } = {}) {
     return new Promise((resolve, reject) => {
-      this._pendingRequests.set(id, { resolve, reject, responses: [], expectFinal });
+      const timer = setTimeout(() => {
+        this._pendingRequests.delete(id);
+        reject(new Error(`Gateway request ${id} timed out after ${timeoutMs}ms`));
+      }, timeoutMs);
+
+      this._pendingRequests.set(id, {
+        resolve: (val) => { clearTimeout(timer); resolve(val); },
+        reject: (err) => { clearTimeout(timer); reject(err); },
+        responses: [],
+        expectFinal,
+      });
       this._sendRaw(this._ws, frame);
     });
   }

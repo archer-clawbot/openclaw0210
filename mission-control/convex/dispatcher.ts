@@ -1,5 +1,6 @@
 import { v } from "convex/values";
 import { mutation, query } from "./_generated/server";
+import { api } from "./_generated/api";
 
 // ── Queries ─────────────────────────────────────────────────────────
 
@@ -65,6 +66,61 @@ export const complete = mutation({
 			status,
 			completedAt: Date.now(),
 		});
+
+		// 5A: If this task is linked to a deliverable, update progress.
+		// Convex OCC guarantees this read-increment-write is atomic within
+		// a single mutation — concurrent mutations on the same deliverable
+		// will be serialized (one retries automatically).
+		if (status === "done" && task.deliverableId) {
+			const deliverable = await ctx.db.get(task.deliverableId);
+			if (deliverable && deliverable.status !== "delivered") {
+				const newQty = (deliverable.quantityDelivered ?? 0) + 1;
+				const targetQty = deliverable.quantity ?? 1;
+				const isComplete = newQty >= targetQty;
+
+				if (isComplete) {
+					await ctx.db.patch(task.deliverableId, {
+						quantityDelivered: newQty,
+						status: "delivered" as const,
+						deliveredAt: Date.now(),
+					});
+				} else {
+					await ctx.db.patch(task.deliverableId, {
+						quantityDelivered: newQty,
+					});
+				}
+
+				// Send notification email if auto-delivered
+				if (isComplete) {
+					const customer = await ctx.db.get(deliverable.customerId);
+					if (customer) {
+						await ctx.scheduler.runAfter(
+							0,
+							api.email.sendDeliverableReadyEmail,
+							{
+								toEmail: customer.email,
+								firstName: customer.firstName,
+								deliverableTitle: deliverable.title,
+								deliverableId: task.deliverableId,
+							},
+						);
+
+						// 5B: Check if all deliverables in this cycle are now complete
+						if (deliverable.cycleNumber != null) {
+							await ctx.scheduler.runAfter(
+								0,
+								api.wooDeliverables.checkCycleComplete,
+								{
+									customerId: deliverable.customerId,
+									cycleNumber: deliverable.cycleNumber,
+								},
+							);
+						}
+					}
+				}
+			}
+		}
+
 		return { ok: true, status };
 	},
 });
@@ -105,6 +161,7 @@ export const createTask = mutation({
 		phase: v.optional(v.string()),
 		chainFrom: v.optional(v.id("tasks")),
 		maxAttempts: v.optional(v.number()),
+		deliverableId: v.optional(v.id("wooDeliverables")),
 	},
 	handler: async (ctx, args) => {
 		const taskId = await ctx.db.insert("tasks", {
@@ -121,6 +178,7 @@ export const createTask = mutation({
 			chainFrom: args.chainFrom,
 			maxAttempts: args.maxAttempts ?? 3,
 			attempts: 0,
+			deliverableId: args.deliverableId,
 		});
 		return taskId;
 	},

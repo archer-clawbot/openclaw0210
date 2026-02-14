@@ -9,8 +9,8 @@ async function verifyWebhookSignature(
 ): Promise<boolean> {
 	const secret = process.env.WC_WEBHOOK_SECRET;
 	if (!secret) {
-		console.warn("WC_WEBHOOK_SECRET not set — skipping signature check");
-		return true; // Allow during development; remove in production
+		console.error("WC_WEBHOOK_SECRET not set — rejecting webhook");
+		return false;
 	}
 	if (!signature) return false;
 

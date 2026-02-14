@@ -1,7 +1,6 @@
 require('dotenv').config({ path: require('path').resolve(__dirname, '../..', '.env') });
 
 // Convex HTTP client — wraps Mission Control dispatcher routes.
-// Replaces trello.js as the task state backend.
 // All requests are authenticated with a Bearer API token (IMPL-003).
 
 const CONVEX_SITE_URL = process.env.CONVEX_SITE_URL;
@@ -27,6 +26,7 @@ async function convexFetch(path, body) {
     method: 'POST',
     headers,
     body: JSON.stringify(body),
+    signal: AbortSignal.timeout(15_000),
   });
 
   // Get response text first for better error diagnostics

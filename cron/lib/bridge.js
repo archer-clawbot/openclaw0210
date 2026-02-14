@@ -56,6 +56,7 @@ async function bridgeRequest(baseUrl, method, path, body = null, queryParams = {
     fetchOpts.body = bodyStr;
   }
 
+  fetchOpts.signal = AbortSignal.timeout(15_000);
   const res = await fetch(url.toString(), fetchOpts);
 
   if (!res.ok) {

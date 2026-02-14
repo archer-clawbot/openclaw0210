@@ -24,7 +24,7 @@ const compressor = require('./lib/compressor');
 const MAX_ATTEMPTS = 3;
 const POLL_INTERVAL = 30_000;
 const POLL_MAX_INTERVAL = 120_000;
-const WAIT_TIMEOUT = 3_000;
+const WAIT_TIMEOUT = 10_000;
 const CLIENT_PAUSE = 50; // ms between client polls (rate limit)
 
 
