@@ -58,23 +58,23 @@ export default function PackagesPage() {
 	});
 
 	return (
-		<div className="min-h-screen bg-zinc-950 text-zinc-100">
-			{/* Header */}
-			<div className="border-b border-zinc-800 px-8 py-5 flex items-center justify-between">
+		<>
+			{/* Page header */}
+			<div className="border-b border-border px-8 py-5 flex items-center justify-between">
 				<div>
 					<div className="flex items-center gap-3 mb-1">
 						<Link
 							to="/admin"
-							className="text-zinc-500 hover:text-zinc-300 text-sm transition-colors"
+							className="text-muted-foreground hover:text-foreground text-sm transition-colors"
 						>
 							← Ops
 						</Link>
-						<span className="text-zinc-700">/</span>
+						<span className="text-muted-foreground/40">/</span>
 						<h1 className="text-lg font-bold tracking-wider uppercase">
 							Packages
 						</h1>
 					</div>
-					<p className="text-xs text-zinc-500">
+					<p className="text-xs text-muted-foreground">
 						{enriched.length} client package
 						{enriched.length !== 1 ? "s" : ""} configured
 					</p>
@@ -90,13 +90,13 @@ export default function PackagesPage() {
 			<div className="p-8 max-w-6xl">
 				{/* Create form */}
 				{showCreate && (
-					<div className="bg-zinc-900 border border-zinc-800 rounded-xl p-6 mb-8">
-						<h2 className="text-sm font-bold tracking-wider uppercase text-zinc-400 mb-4">
+					<div className="bg-card border border-border rounded-xl p-6 mb-8">
+						<h2 className="text-sm font-bold tracking-wider uppercase text-muted-foreground mb-4">
 							New Package Configuration
 						</h2>
 						<div className="grid grid-cols-2 gap-4 mb-4">
 							<div>
-								<label className="block text-xs text-zinc-500 mb-1.5">
+								<label className="block text-xs text-muted-foreground mb-1.5">
 									Customer
 								</label>
 								<select
@@ -104,7 +104,7 @@ export default function PackagesPage() {
 									onChange={(e) =>
 										setForm({ ...form, customerId: e.target.value })
 									}
-									className="w-full bg-zinc-800 border border-zinc-700 rounded-lg px-3 py-2 text-sm text-zinc-100 focus:outline-none focus:border-orange-500"
+									className="w-full bg-input border border-border rounded-lg px-3 py-2 text-sm text-foreground focus:outline-none focus:border-primary"
 								>
 									<option value="">Select customer...</option>
 									{(customers ?? []).map((c) => (
@@ -116,7 +116,7 @@ export default function PackagesPage() {
 								</select>
 							</div>
 							<div>
-								<label className="block text-xs text-zinc-500 mb-1.5">
+								<label className="block text-xs text-muted-foreground mb-1.5">
 									Package Name
 								</label>
 								<input
@@ -124,11 +124,11 @@ export default function PackagesPage() {
 									value={form.name}
 									onChange={(e) => setForm({ ...form, name: e.target.value })}
 									placeholder="Acme Corp - Monthly SEO Package"
-									className="w-full bg-zinc-800 border border-zinc-700 rounded-lg px-3 py-2 text-sm text-zinc-100 placeholder-zinc-600 focus:outline-none focus:border-orange-500"
+									className="w-full bg-input border border-border rounded-lg px-3 py-2 text-sm text-foreground placeholder-muted-foreground/50 focus:outline-none focus:border-primary"
 								/>
 							</div>
 							<div>
-								<label className="block text-xs text-zinc-500 mb-1.5">
+								<label className="block text-xs text-muted-foreground mb-1.5">
 									WC Order ID
 								</label>
 								<input
@@ -138,11 +138,11 @@ export default function PackagesPage() {
 										setForm({ ...form, wcOrderId: e.target.value })
 									}
 									placeholder="0"
-									className="w-full bg-zinc-800 border border-zinc-700 rounded-lg px-3 py-2 text-sm text-zinc-100 placeholder-zinc-600 focus:outline-none focus:border-orange-500"
+									className="w-full bg-input border border-border rounded-lg px-3 py-2 text-sm text-foreground placeholder-muted-foreground/50 focus:outline-none focus:border-primary"
 								/>
 							</div>
 							<div>
-								<label className="block text-xs text-zinc-500 mb-1.5">
+								<label className="block text-xs text-muted-foreground mb-1.5">
 									Billing Cycle Day (1-28)
 								</label>
 								<input
@@ -153,11 +153,11 @@ export default function PackagesPage() {
 									onChange={(e) =>
 										setForm({ ...form, billingCycleDay: e.target.value })
 									}
-									className="w-full bg-zinc-800 border border-zinc-700 rounded-lg px-3 py-2 text-sm text-zinc-100 focus:outline-none focus:border-orange-500"
+									className="w-full bg-input border border-border rounded-lg px-3 py-2 text-sm text-foreground focus:outline-none focus:border-primary"
 								/>
 							</div>
 							<div>
-								<label className="block text-xs text-zinc-500 mb-1.5">
+								<label className="block text-xs text-muted-foreground mb-1.5">
 									Start Date
 								</label>
 								<input
@@ -166,11 +166,11 @@ export default function PackagesPage() {
 									onChange={(e) =>
 										setForm({ ...form, startDate: e.target.value })
 									}
-									className="w-full bg-zinc-800 border border-zinc-700 rounded-lg px-3 py-2 text-sm text-zinc-100 focus:outline-none focus:border-orange-500"
+									className="w-full bg-input border border-border rounded-lg px-3 py-2 text-sm text-foreground focus:outline-none focus:border-primary"
 								/>
 							</div>
 							<div>
-								<label className="block text-xs text-zinc-500 mb-1.5">
+								<label className="block text-xs text-muted-foreground mb-1.5">
 									Notes (optional)
 								</label>
 								<input
@@ -178,7 +178,7 @@ export default function PackagesPage() {
 									value={form.notes}
 									onChange={(e) => setForm({ ...form, notes: e.target.value })}
 									placeholder="Internal notes..."
-									className="w-full bg-zinc-800 border border-zinc-700 rounded-lg px-3 py-2 text-sm text-zinc-100 placeholder-zinc-600 focus:outline-none focus:border-orange-500"
+									className="w-full bg-input border border-border rounded-lg px-3 py-2 text-sm text-foreground placeholder-muted-foreground/50 focus:outline-none focus:border-primary"
 								/>
 							</div>
 						</div>
@@ -192,7 +192,7 @@ export default function PackagesPage() {
 							</button>
 							<button
 								onClick={() => setShowCreate(false)}
-								className="px-4 py-2 bg-zinc-800 hover:bg-zinc-700 text-zinc-300 text-xs font-bold tracking-wider uppercase rounded-lg transition-colors cursor-pointer"
+								className="px-4 py-2 bg-muted hover:bg-accent text-muted-foreground text-xs font-bold tracking-wider uppercase rounded-lg transition-colors cursor-pointer"
 							>
 								Cancel
 							</button>
@@ -202,13 +202,13 @@ export default function PackagesPage() {
 
 				{/* Packages list */}
 				{packages === undefined ? (
-					<div className="text-zinc-500 text-sm animate-pulse">
+					<div className="text-muted-foreground text-sm animate-pulse">
 						Loading packages...
 					</div>
 				) : enriched.length === 0 ? (
-					<div className="bg-zinc-900 border border-zinc-800 rounded-xl p-12 text-center">
-						<p className="text-zinc-400 text-lg mb-2">No packages configured</p>
-						<p className="text-zinc-600 text-sm">
+					<div className="bg-card border border-border rounded-xl p-12 text-center">
+						<p className="text-muted-foreground text-lg mb-2">No packages configured</p>
+						<p className="text-muted-foreground/60 text-sm">
 							Create your first package to start managing client deliverables.
 						</p>
 					</div>
@@ -221,7 +221,7 @@ export default function PackagesPage() {
 								<Link
 									key={pkg._id}
 									to={`/admin/packages/${pkg._id}`}
-									className="block bg-zinc-900 border border-zinc-800 rounded-xl p-5 hover:border-zinc-700 transition-colors"
+									className="block bg-card border border-border rounded-xl p-5 hover:border-border transition-colors"
 								>
 									<div className="flex items-center justify-between mb-2">
 										<h3 className="font-semibold text-sm">{pkg.name}</h3>
@@ -231,7 +231,7 @@ export default function PackagesPage() {
 											{style.label}
 										</span>
 									</div>
-									<div className="flex items-center gap-6 text-xs text-zinc-500">
+									<div className="flex items-center gap-6 text-xs text-muted-foreground">
 										<span>{pkg.customerName}</span>
 										<span>Cycle {pkg.currentCycleNumber}</span>
 										<span>Bills on day {pkg.billingCycleDay}</span>
@@ -240,7 +240,7 @@ export default function PackagesPage() {
 										</span>
 									</div>
 									{pkg.notes && (
-										<p className="text-xs text-zinc-600 mt-2 italic">
+										<p className="text-xs text-muted-foreground/60 mt-2 italic">
 											{pkg.notes}
 										</p>
 									)}
@@ -250,6 +250,6 @@ export default function PackagesPage() {
 					</div>
 				)}
 			</div>
-		</div>
+		</>
 	);
 }

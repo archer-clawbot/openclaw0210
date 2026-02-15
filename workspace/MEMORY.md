@@ -50,3 +50,37 @@
 - JS-rendered pages don't work with simple fetch
 - Browser automation needed for extracting file info
 - Large video files need cloud transcription (can't download locally)
+
+### Routing Execution Protocol (CRITICAL)
+**MANDATORY POST-SPAWN VERIFICATION:**
+1. Call `sessions_spawn` with full task details
+2. Immediately capture the returned `childSessionKey` from the response
+3. Confirm to the user with the sessionKey: "Wrench is working on this [session: xyz]"
+4. ONLY THEN update notes/status to "in progress"
+5. NEVER narrate intent ("I'm sending this to...") without executing the tool call in the same response
+6. Phantom routing bug (Feb 14, 2026): Said "cart/checkout styling in progress" but never spawned the task — led to operator discovering the gap
+
+**Proof required. Intent ≠ Execution.**
+
+### Agent Infrastructure Build (Feb 14, 2026)
+**Inspired by Marcelo's 25-agent system + Cody Sanchez government funding playbook:**
+- Built complete workspace documentation for 8 core agents
+- Implemented self-documentation system (SKILL.md, LOGGING.md, MEMORY.md)
+- Each agent now builds institutional knowledge over time (client voice, tech quirks, patterns)
+- Created weekly standup automation (Silas, Lookout, Ledger report trends every Sunday)
+- Documented multi-agent coordination workflows (INTEGRATION.md)
+- Established deliverables naming conventions and handoff protocols
+- Created onboarding checklist for future agent deployment (ONBOARDING.md)
+- Mapped Telegram bot routing strategy (Archer-centric, optional direct bots)
+- Designed cron job framework for proactive monitoring (Lookout, Ledger, Sentinel, Forge)
+
+**Key Innovation:**
+- Agents update MEMORY.md after every task → learns client preferences, recurring issues, tech patterns
+- Example: Scribe learns Spectators' voice ("game day," casual tone) → future content auto-matches without manual guidance
+- Example: Wrench logs site quirks ("WP Rocket caching breaks schema") → prevents breaking things
+
+**Result:**
+- System gets smarter over time instead of repeating same mistakes
+- Reduced manual handoff overhead (agents read each other's deliverables)
+- Proactive monitoring (weekly standups, anomaly detection)
+- Complete documentation for 10 operational agents (8 core + Razor + Blitz)

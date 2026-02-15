@@ -5,7 +5,7 @@ import { Link } from "react-router";
 import type { Id } from "../../../convex/_generated/dataModel";
 
 const STATUS_STYLES: Record<string, { label: string; color: string }> = {
-	pending: { label: "Pending", color: "bg-zinc-700 text-zinc-300" },
+	pending: { label: "Pending", color: "bg-muted text-muted-foreground" },
 	in_progress: { label: "In Progress", color: "bg-blue-900/50 text-blue-400" },
 	delivered: { label: "Delivered", color: "bg-emerald-900/50 text-emerald-400" },
 	revision: { label: "Revision", color: "bg-amber-900/50 text-amber-400" },
@@ -74,23 +74,23 @@ export default function AdminDeliverablesPage() {
 	};
 
 	return (
-		<div className="min-h-screen bg-zinc-950 text-zinc-100">
-			{/* Header */}
-			<div className="border-b border-zinc-800 px-8 py-5 flex items-center justify-between">
+		<>
+			{/* Page header */}
+			<div className="border-b border-border px-8 py-5 flex items-center justify-between">
 				<div>
 					<div className="flex items-center gap-3 mb-1">
 						<Link
 							to="/admin"
-							className="text-zinc-500 hover:text-zinc-300 text-sm transition-colors"
+							className="text-muted-foreground hover:text-foreground text-sm transition-colors"
 						>
 							← Ops
 						</Link>
-						<span className="text-zinc-700">/</span>
+						<span className="text-muted-foreground/40">/</span>
 						<h1 className="text-lg font-bold tracking-wider uppercase">
 							Deliverables
 						</h1>
 					</div>
-					<p className="text-xs text-zinc-500">
+					<p className="text-xs text-muted-foreground">
 						All client deliverables across packages
 					</p>
 				</div>
@@ -108,13 +108,13 @@ export default function AdminDeliverablesPage() {
 				<div className="grid grid-cols-4 gap-4 mb-6">
 					<button
 						onClick={() => setStatusFilter("")}
-						className={`bg-zinc-900 border rounded-xl p-4 text-left transition-colors cursor-pointer ${
+						className={`bg-card border rounded-xl p-4 text-left transition-colors cursor-pointer ${
 							statusFilter === ""
 								? "border-orange-500/50"
-								: "border-zinc-800 hover:border-zinc-700"
+								: "border-border hover:border-border"
 						}`}
 					>
-						<p className="text-[10px] text-zinc-500 uppercase tracking-widest mb-0.5">
+						<p className="text-[10px] text-muted-foreground uppercase tracking-widest mb-0.5">
 							Total
 						</p>
 						<p className="text-2xl font-bold">{stats.total}</p>
@@ -123,16 +123,16 @@ export default function AdminDeliverablesPage() {
 						onClick={() =>
 							setStatusFilter(statusFilter === "pending" ? "" : "pending")
 						}
-						className={`bg-zinc-900 border rounded-xl p-4 text-left transition-colors cursor-pointer ${
+						className={`bg-card border rounded-xl p-4 text-left transition-colors cursor-pointer ${
 							statusFilter === "pending"
 								? "border-orange-500/50"
-								: "border-zinc-800 hover:border-zinc-700"
+								: "border-border hover:border-border"
 						}`}
 					>
-						<p className="text-[10px] text-zinc-500 uppercase tracking-widest mb-0.5">
+						<p className="text-[10px] text-muted-foreground uppercase tracking-widest mb-0.5">
 							Pending
 						</p>
-						<p className="text-2xl font-bold text-zinc-400">{stats.pending}</p>
+						<p className="text-2xl font-bold text-muted-foreground">{stats.pending}</p>
 					</button>
 					<button
 						onClick={() =>
@@ -140,13 +140,13 @@ export default function AdminDeliverablesPage() {
 								statusFilter === "in_progress" ? "" : "in_progress",
 							)
 						}
-						className={`bg-zinc-900 border rounded-xl p-4 text-left transition-colors cursor-pointer ${
+						className={`bg-card border rounded-xl p-4 text-left transition-colors cursor-pointer ${
 							statusFilter === "in_progress"
 								? "border-orange-500/50"
-								: "border-zinc-800 hover:border-zinc-700"
+								: "border-border hover:border-border"
 						}`}
 					>
-						<p className="text-[10px] text-zinc-500 uppercase tracking-widest mb-0.5">
+						<p className="text-[10px] text-muted-foreground uppercase tracking-widest mb-0.5">
 							In Progress
 						</p>
 						<p className="text-2xl font-bold text-blue-400">
@@ -159,13 +159,13 @@ export default function AdminDeliverablesPage() {
 								statusFilter === "delivered" ? "" : "delivered",
 							)
 						}
-						className={`bg-zinc-900 border rounded-xl p-4 text-left transition-colors cursor-pointer ${
+						className={`bg-card border rounded-xl p-4 text-left transition-colors cursor-pointer ${
 							statusFilter === "delivered"
 								? "border-orange-500/50"
-								: "border-zinc-800 hover:border-zinc-700"
+								: "border-border hover:border-border"
 						}`}
 					>
-						<p className="text-[10px] text-zinc-500 uppercase tracking-widest mb-0.5">
+						<p className="text-[10px] text-muted-foreground uppercase tracking-widest mb-0.5">
 							Delivered
 						</p>
 						<p className="text-2xl font-bold text-emerald-400">
@@ -177,13 +177,13 @@ export default function AdminDeliverablesPage() {
 				{/* Type filter */}
 				{itemTypes.length > 0 && (
 					<div className="flex items-center gap-2 mb-4">
-						<span className="text-xs text-zinc-500">Filter by type:</span>
+						<span className="text-xs text-muted-foreground">Filter by type:</span>
 						<button
 							onClick={() => setTypeFilter("")}
 							className={`px-2.5 py-1 text-[11px] rounded-full transition-colors cursor-pointer ${
 								typeFilter === ""
 									? "bg-orange-600 text-white"
-									: "bg-zinc-800 text-zinc-400 hover:text-zinc-200"
+									: "bg-muted text-muted-foreground hover:text-foreground"
 							}`}
 						>
 							All
@@ -197,7 +197,7 @@ export default function AdminDeliverablesPage() {
 								className={`px-2.5 py-1 text-[11px] rounded-full transition-colors cursor-pointer ${
 									typeFilter === type
 										? "bg-orange-600 text-white"
-										: "bg-zinc-800 text-zinc-400 hover:text-zinc-200"
+										: "bg-muted text-muted-foreground hover:text-foreground"
 								}`}
 							>
 								{ITEM_TYPE_LABELS[type] ?? type}
@@ -208,17 +208,17 @@ export default function AdminDeliverablesPage() {
 
 				{/* Deliverables list */}
 				{allDeliverables === undefined ? (
-					<div className="text-zinc-500 text-sm animate-pulse">
+					<div className="text-muted-foreground text-sm animate-pulse">
 						Loading deliverables...
 					</div>
 				) : filtered.length === 0 ? (
-					<div className="bg-zinc-900 border border-zinc-800 rounded-xl p-12 text-center">
-						<p className="text-zinc-400 text-lg mb-2">
+					<div className="bg-card border border-border rounded-xl p-12 text-center">
+						<p className="text-muted-foreground text-lg mb-2">
 							{statusFilter || typeFilter
 								? "No deliverables match filters"
 								: "No deliverables yet"}
 						</p>
-						<p className="text-zinc-600 text-sm">
+						<p className="text-muted-foreground/60 text-sm">
 							{statusFilter || typeFilter
 								? "Try adjusting your filters."
 								: "Configure packages and run the generation engine."}
@@ -232,7 +232,7 @@ export default function AdminDeliverablesPage() {
 							return (
 								<div
 									key={d._id}
-									className="bg-zinc-900 border border-zinc-800 rounded-xl p-4 flex items-center gap-4 hover:border-zinc-700 transition-colors"
+									className="bg-card border border-border rounded-xl p-4 flex items-center gap-4 hover:border-border transition-colors"
 								>
 									<div className="flex-1 min-w-0">
 										<div className="flex items-center gap-3 mb-1">
@@ -248,7 +248,7 @@ export default function AdminDeliverablesPage() {
 												{style.label}
 											</span>
 										</div>
-										<div className="flex items-center gap-4 text-xs text-zinc-500">
+										<div className="flex items-center gap-4 text-xs text-muted-foreground">
 											<span>{d.customerName}</span>
 											<span>
 												{ITEM_TYPE_LABELS[d.itemType] ?? d.itemType}
@@ -285,7 +285,7 @@ export default function AdminDeliverablesPage() {
 											</Link>
 										)}
 										{d.status === "delivered" && d.deliveredAt && (
-											<span className="text-[10px] text-zinc-600">
+											<span className="text-[10px] text-muted-foreground/60">
 												{new Date(d.deliveredAt).toLocaleDateString()}
 											</span>
 										)}
@@ -296,6 +296,6 @@ export default function AdminDeliverablesPage() {
 					</div>
 				)}
 			</div>
-		</div>
+		</>
 	);
 }

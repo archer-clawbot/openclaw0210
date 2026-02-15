@@ -37,6 +37,24 @@ add_action('wp_enqueue_scripts', function () {
     // Child theme
     wp_enqueue_style('localcatalyst', get_stylesheet_uri(), ['generatepress'], '1.0.0');
 
+    // Global component styles
+    wp_enqueue_style(
+        'localcatalyst-global',
+        get_stylesheet_directory_uri() . '/css/localcatalyst_global-styles.css',
+        ['localcatalyst'],
+        '1.0.1'
+    );
+
+    // WooCommerce overrides (loaded only on WC pages for performance)
+    if (class_exists('WooCommerce')) {
+        wp_enqueue_style(
+            'localcatalyst-woocommerce',
+            get_stylesheet_directory_uri() . '/css/localcatalyst_woocommerce.css',
+            ['localcatalyst-global', 'woocommerce-general'],
+            '1.0.0'
+        );
+    }
+
     // Google Fonts
     wp_enqueue_style(
         'localcatalyst-fonts',
@@ -264,7 +282,7 @@ add_action('generate_before_header', function () {
             <a class="lc-nav-link" href="/learn/">Learn</a>
             <a class="lc-nav-link" href="/industries/">Industries</a>
             <a class="lc-nav-link" href="/case-studies/">Case Studies</a>
-            <a class="lc-btn lc-btn-primary-sm" href="/services/topical-map/">Get Started</a>
+            <a class="lc-btn lc-btn-primary-sm" href="/contact/">Get Started</a>
         </div>
     </div>
     <?php

@@ -61,8 +61,8 @@ export default function PackageDetailPage() {
 
 	if (packageData === undefined) {
 		return (
-			<div className="min-h-screen bg-zinc-950 text-zinc-100 flex items-center justify-center">
-				<div className="animate-pulse text-zinc-500 text-sm tracking-widest uppercase">
+			<div className="flex items-center justify-center py-32">
+				<div className="animate-pulse text-muted-foreground text-sm tracking-widest uppercase">
 					Loading...
 				</div>
 			</div>
@@ -71,8 +71,8 @@ export default function PackageDetailPage() {
 
 	if (!packageData) {
 		return (
-			<div className="min-h-screen bg-zinc-950 text-zinc-100 p-8">
-				<p className="text-zinc-400">Package not found.</p>
+			<div className="p-8">
+				<p className="text-muted-foreground">Package not found.</p>
 				<Link to="/admin/packages" className="text-orange-400 text-sm mt-2 inline-block">
 					← Back to Packages
 				</Link>
@@ -155,25 +155,25 @@ export default function PackageDetailPage() {
 	};
 
 	return (
-		<div className="min-h-screen bg-zinc-950 text-zinc-100">
-			{/* Header */}
-			<div className="border-b border-zinc-800 px-8 py-5">
+		<>
+			{/* Page header */}
+			<div className="border-b border-border px-8 py-5">
 				<div className="flex items-center gap-3 mb-1 text-sm">
-					<Link to="/admin" className="text-zinc-500 hover:text-zinc-300 transition-colors">
+					<Link to="/admin" className="text-muted-foreground hover:text-foreground transition-colors">
 						Ops
 					</Link>
-					<span className="text-zinc-700">/</span>
-					<Link to="/admin/packages" className="text-zinc-500 hover:text-zinc-300 transition-colors">
+					<span className="text-muted-foreground/40">/</span>
+					<Link to="/admin/packages" className="text-muted-foreground hover:text-foreground transition-colors">
 						Packages
 					</Link>
-					<span className="text-zinc-700">/</span>
-					<span className="text-zinc-300">{packageData.name}</span>
+					<span className="text-muted-foreground/40">/</span>
+					<span className="text-foreground/80">{packageData.name}</span>
 				</div>
 			</div>
 
 			<div className="p-8 max-w-5xl">
 				{/* Package info card */}
-				<div className="bg-zinc-900 border border-zinc-800 rounded-xl p-6 mb-6">
+				<div className="bg-card border border-border rounded-xl p-6 mb-6">
 					<div className="flex items-start justify-between mb-4">
 						<div>
 							{editingConfig ? (
@@ -183,12 +183,12 @@ export default function PackageDetailPage() {
 									onChange={(e) =>
 										setConfigForm({ ...configForm, name: e.target.value })
 									}
-									className="text-xl font-bold bg-zinc-800 border border-zinc-700 rounded-lg px-3 py-1.5 text-zinc-100 focus:outline-none focus:border-orange-500"
+									className="text-xl font-bold bg-input border border-border rounded-lg px-3 py-1.5 text-foreground focus:outline-none focus:border-primary"
 								/>
 							) : (
 								<h2 className="text-xl font-bold">{packageData.name}</h2>
 							)}
-							<p className="text-sm text-zinc-500 mt-1">
+							<p className="text-sm text-muted-foreground mt-1">
 								{packageData.customerName} — {packageData.customerEmail}
 							</p>
 						</div>
@@ -200,14 +200,14 @@ export default function PackageDetailPage() {
 					</div>
 
 					<div className="grid grid-cols-4 gap-4 mb-4">
-						<div className="bg-zinc-800/50 rounded-lg p-3">
-							<p className="text-[10px] text-zinc-500 uppercase tracking-widest mb-0.5">
+						<div className="bg-muted rounded-lg p-3">
+							<p className="text-[10px] text-muted-foreground uppercase tracking-widest mb-0.5">
 								Current Cycle
 							</p>
 							<p className="text-lg font-bold">{packageData.currentCycleNumber}</p>
 						</div>
-						<div className="bg-zinc-800/50 rounded-lg p-3">
-							<p className="text-[10px] text-zinc-500 uppercase tracking-widest mb-0.5">
+						<div className="bg-muted rounded-lg p-3">
+							<p className="text-[10px] text-muted-foreground uppercase tracking-widest mb-0.5">
 								Billing Day
 							</p>
 							{editingConfig ? (
@@ -219,20 +219,20 @@ export default function PackageDetailPage() {
 									onChange={(e) =>
 										setConfigForm({ ...configForm, billingCycleDay: e.target.value })
 									}
-									className="text-lg font-bold bg-zinc-800 border border-zinc-700 rounded px-2 py-0.5 w-16 text-zinc-100 focus:outline-none focus:border-orange-500"
+									className="text-lg font-bold bg-input border border-border rounded px-2 py-0.5 w-16 text-foreground focus:outline-none focus:border-primary"
 								/>
 							) : (
 								<p className="text-lg font-bold">{packageData.billingCycleDay}</p>
 							)}
 						</div>
-						<div className="bg-zinc-800/50 rounded-lg p-3">
-							<p className="text-[10px] text-zinc-500 uppercase tracking-widest mb-0.5">
+						<div className="bg-muted rounded-lg p-3">
+							<p className="text-[10px] text-muted-foreground uppercase tracking-widest mb-0.5">
 								Start Date
 							</p>
 							<p className="text-lg font-bold">{packageData.startDate}</p>
 						</div>
-						<div className="bg-zinc-800/50 rounded-lg p-3">
-							<p className="text-[10px] text-zinc-500 uppercase tracking-widest mb-0.5">
+						<div className="bg-muted rounded-lg p-3">
+							<p className="text-[10px] text-muted-foreground uppercase tracking-widest mb-0.5">
 								Items
 							</p>
 							<p className="text-lg font-bold">{packageData.items.length}</p>
@@ -241,32 +241,32 @@ export default function PackageDetailPage() {
 
 					{editingConfig && (
 						<div className="mb-4">
-							<label className="block text-xs text-zinc-500 mb-1">Notes</label>
+							<label className="block text-xs text-muted-foreground mb-1">Notes</label>
 							<input
 								type="text"
 								value={configForm.notes}
 								onChange={(e) =>
 									setConfigForm({ ...configForm, notes: e.target.value })
 								}
-								className="w-full bg-zinc-800 border border-zinc-700 rounded-lg px-3 py-2 text-sm text-zinc-100 focus:outline-none focus:border-orange-500"
+								className="w-full bg-input border border-border rounded-lg px-3 py-2 text-sm text-foreground focus:outline-none focus:border-primary"
 							/>
 						</div>
 					)}
 
 					{/* Action buttons */}
-					<div className="flex items-center gap-2 pt-2 border-t border-zinc-800">
+					<div className="flex items-center gap-2 pt-2 border-t border-border">
 						{editingConfig ? (
 							<>
 								<button onClick={handleSaveConfig} className="px-3 py-1.5 bg-emerald-600 hover:bg-emerald-500 text-white text-xs font-bold tracking-wider uppercase rounded-lg transition-colors cursor-pointer">
 									Save
 								</button>
-								<button onClick={() => setEditingConfig(false)} className="px-3 py-1.5 bg-zinc-800 hover:bg-zinc-700 text-zinc-300 text-xs font-bold tracking-wider uppercase rounded-lg transition-colors cursor-pointer">
+								<button onClick={() => setEditingConfig(false)} className="px-3 py-1.5 bg-muted hover:bg-accent text-muted-foreground text-xs font-bold tracking-wider uppercase rounded-lg transition-colors cursor-pointer">
 									Cancel
 								</button>
 							</>
 						) : (
 							<>
-								<button onClick={handleEditConfig} className="px-3 py-1.5 bg-zinc-800 hover:bg-zinc-700 text-zinc-300 text-xs font-bold tracking-wider uppercase rounded-lg transition-colors cursor-pointer">
+								<button onClick={handleEditConfig} className="px-3 py-1.5 bg-muted hover:bg-accent text-muted-foreground text-xs font-bold tracking-wider uppercase rounded-lg transition-colors cursor-pointer">
 									Edit
 								</button>
 								<button
@@ -296,7 +296,7 @@ export default function PackageDetailPage() {
 
 				{/* Package items */}
 				<div className="flex items-center justify-between mb-4">
-					<h3 className="text-sm font-bold tracking-wider uppercase text-zinc-400">
+					<h3 className="text-sm font-bold tracking-wider uppercase text-muted-foreground">
 						Package Items
 					</h3>
 					<button
@@ -309,16 +309,16 @@ export default function PackageDetailPage() {
 
 				{/* Add item form */}
 				{showAddItem && (
-					<div className="bg-zinc-900 border border-zinc-800 rounded-xl p-5 mb-4">
+					<div className="bg-card border border-border rounded-xl p-5 mb-4">
 						<div className="grid grid-cols-3 gap-4 mb-4">
 							<div>
-								<label className="block text-xs text-zinc-500 mb-1.5">Type</label>
+								<label className="block text-xs text-muted-foreground mb-1.5">Type</label>
 								<select
 									value={itemForm.itemType}
 									onChange={(e) =>
 										setItemForm({ ...itemForm, itemType: e.target.value })
 									}
-									className="w-full bg-zinc-800 border border-zinc-700 rounded-lg px-3 py-2 text-sm text-zinc-100 focus:outline-none focus:border-orange-500"
+									className="w-full bg-input border border-border rounded-lg px-3 py-2 text-sm text-foreground focus:outline-none focus:border-primary"
 								>
 									{ITEM_TYPES.map((t) => (
 										<option key={t.value} value={t.value}>{t.label}</option>
@@ -326,7 +326,7 @@ export default function PackageDetailPage() {
 								</select>
 							</div>
 							<div>
-								<label className="block text-xs text-zinc-500 mb-1.5">Label</label>
+								<label className="block text-xs text-muted-foreground mb-1.5">Label</label>
 								<input
 									type="text"
 									value={itemForm.label}
@@ -334,17 +334,17 @@ export default function PackageDetailPage() {
 										setItemForm({ ...itemForm, label: e.target.value })
 									}
 									placeholder="Blog Content Pages"
-									className="w-full bg-zinc-800 border border-zinc-700 rounded-lg px-3 py-2 text-sm text-zinc-100 placeholder-zinc-600 focus:outline-none focus:border-orange-500"
+									className="w-full bg-input border border-border rounded-lg px-3 py-2 text-sm text-foreground placeholder-muted-foreground/50 focus:outline-none focus:border-primary"
 								/>
 							</div>
 							<div>
-								<label className="block text-xs text-zinc-500 mb-1.5">Frequency</label>
+								<label className="block text-xs text-muted-foreground mb-1.5">Frequency</label>
 								<select
 									value={itemForm.frequency}
 									onChange={(e) =>
 										setItemForm({ ...itemForm, frequency: e.target.value })
 									}
-									className="w-full bg-zinc-800 border border-zinc-700 rounded-lg px-3 py-2 text-sm text-zinc-100 focus:outline-none focus:border-orange-500"
+									className="w-full bg-input border border-border rounded-lg px-3 py-2 text-sm text-foreground focus:outline-none focus:border-primary"
 								>
 									{FREQUENCIES.map((f) => (
 										<option key={f.value} value={f.value}>{f.label}</option>
@@ -352,7 +352,7 @@ export default function PackageDetailPage() {
 								</select>
 							</div>
 							<div>
-								<label className="block text-xs text-zinc-500 mb-1.5">Quantity</label>
+								<label className="block text-xs text-muted-foreground mb-1.5">Quantity</label>
 								<input
 									type="number"
 									min={1}
@@ -360,11 +360,11 @@ export default function PackageDetailPage() {
 									onChange={(e) =>
 										setItemForm({ ...itemForm, quantity: e.target.value })
 									}
-									className="w-full bg-zinc-800 border border-zinc-700 rounded-lg px-3 py-2 text-sm text-zinc-100 focus:outline-none focus:border-orange-500"
+									className="w-full bg-input border border-border rounded-lg px-3 py-2 text-sm text-foreground focus:outline-none focus:border-primary"
 								/>
 							</div>
 							<div>
-								<label className="block text-xs text-zinc-500 mb-1.5">Unit</label>
+								<label className="block text-xs text-muted-foreground mb-1.5">Unit</label>
 								<input
 									type="text"
 									value={itemForm.quantityUnit}
@@ -372,11 +372,11 @@ export default function PackageDetailPage() {
 										setItemForm({ ...itemForm, quantityUnit: e.target.value })
 									}
 									placeholder="pages, citations, links..."
-									className="w-full bg-zinc-800 border border-zinc-700 rounded-lg px-3 py-2 text-sm text-zinc-100 placeholder-zinc-600 focus:outline-none focus:border-orange-500"
+									className="w-full bg-input border border-border rounded-lg px-3 py-2 text-sm text-foreground placeholder-muted-foreground/50 focus:outline-none focus:border-primary"
 								/>
 							</div>
 							<div>
-								<label className="block text-xs text-zinc-500 mb-1.5">Notes</label>
+								<label className="block text-xs text-muted-foreground mb-1.5">Notes</label>
 								<input
 									type="text"
 									value={itemForm.notes}
@@ -384,7 +384,7 @@ export default function PackageDetailPage() {
 										setItemForm({ ...itemForm, notes: e.target.value })
 									}
 									placeholder="Optional notes..."
-									className="w-full bg-zinc-800 border border-zinc-700 rounded-lg px-3 py-2 text-sm text-zinc-100 placeholder-zinc-600 focus:outline-none focus:border-orange-500"
+									className="w-full bg-input border border-border rounded-lg px-3 py-2 text-sm text-foreground placeholder-muted-foreground/50 focus:outline-none focus:border-primary"
 								/>
 							</div>
 						</div>
@@ -398,7 +398,7 @@ export default function PackageDetailPage() {
 							</button>
 							<button
 								onClick={() => setShowAddItem(false)}
-								className="px-4 py-2 bg-zinc-800 hover:bg-zinc-700 text-zinc-300 text-xs font-bold tracking-wider uppercase rounded-lg transition-colors cursor-pointer"
+								className="px-4 py-2 bg-muted hover:bg-accent text-muted-foreground text-xs font-bold tracking-wider uppercase rounded-lg transition-colors cursor-pointer"
 							>
 								Cancel
 							</button>
@@ -408,9 +408,9 @@ export default function PackageDetailPage() {
 
 				{/* Items list */}
 				{packageData.items.length === 0 ? (
-					<div className="bg-zinc-900 border border-zinc-800 rounded-xl p-8 text-center">
-						<p className="text-zinc-400 mb-1">No items configured</p>
-						<p className="text-xs text-zinc-600">
+					<div className="bg-card border border-border rounded-xl p-8 text-center">
+						<p className="text-muted-foreground mb-1">No items configured</p>
+						<p className="text-xs text-muted-foreground/60">
 							Add deliverable items to define what this client receives each cycle.
 						</p>
 					</div>
@@ -424,16 +424,16 @@ export default function PackageDetailPage() {
 							return (
 								<div
 									key={item._id}
-									className="bg-zinc-900 border border-zinc-800 rounded-xl p-4 flex items-center justify-between"
+									className="bg-card border border-border rounded-xl p-4 flex items-center justify-between"
 								>
 									<div className="flex-1">
 										<div className="flex items-center gap-3 mb-1">
 											<p className="text-sm font-semibold">{item.label}</p>
-											<span className="text-[10px] text-zinc-500 bg-zinc-800 px-2 py-0.5 rounded-full">
+											<span className="text-[10px] text-muted-foreground bg-muted px-2 py-0.5 rounded-full">
 												{typeLabel}
 											</span>
 										</div>
-										<div className="flex items-center gap-4 text-xs text-zinc-500">
+										<div className="flex items-center gap-4 text-xs text-muted-foreground">
 											<span>{item.quantity} {item.quantityUnit ?? "units"} / {freqLabel.toLowerCase()}</span>
 											{completed.length > 0 && (
 												<span className="text-emerald-500">
@@ -441,7 +441,7 @@ export default function PackageDetailPage() {
 												</span>
 											)}
 											{item.notes && (
-												<span className="italic text-zinc-600">{item.notes}</span>
+												<span className="italic text-muted-foreground/60">{item.notes}</span>
 											)}
 										</div>
 									</div>
@@ -457,6 +457,6 @@ export default function PackageDetailPage() {
 					</div>
 				)}
 			</div>
-		</div>
+		</>
 	);
 }

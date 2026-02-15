@@ -5,7 +5,7 @@ import { api } from "../../../convex/_generated/api";
 import type { Id } from "../../../convex/_generated/dataModel";
 
 const STATUS_OPTIONS = [
-	{ value: "pending", label: "Pending", color: "bg-zinc-700 text-zinc-300" },
+	{ value: "pending", label: "Pending", color: "bg-muted text-muted-foreground" },
 	{
 		value: "in_progress",
 		label: "In Progress",
@@ -44,6 +44,11 @@ export default function AdminDeliverableDetailPage() {
 		id ? { id: id as Id<"wooDeliverables"> } : "skip",
 	);
 
+	const linkedTasks = useQuery(
+		api.wooQueries.listTasksByDeliverable,
+		id ? { deliverableId: id as Id<"wooDeliverables"> } : "skip",
+	);
+
 	const updateDeliverable = useMutation(api.wooDeliverables.updateDeliverable);
 	const markDelivered = useMutation(api.wooDeliverables.markDelivered);
 	const deleteDeliverable = useMutation(api.wooDeliverables.deleteDeliverable);
@@ -80,8 +85,8 @@ export default function AdminDeliverableDetailPage() {
 
 	if (deliverable === undefined) {
 		return (
-			<div className="min-h-screen bg-zinc-950 text-zinc-100 flex items-center justify-center">
-				<div className="animate-pulse text-zinc-500 text-sm tracking-widest uppercase">
+			<div className="flex items-center justify-center py-32">
+				<div className="animate-pulse text-muted-foreground text-sm tracking-widest uppercase">
 					Loading...
 				</div>
 			</div>
@@ -90,8 +95,8 @@ export default function AdminDeliverableDetailPage() {
 
 	if (!deliverable) {
 		return (
-			<div className="min-h-screen bg-zinc-950 text-zinc-100 p-8">
-				<p className="text-zinc-400">Deliverable not found.</p>
+			<div className="p-8">
+				<p className="text-muted-foreground">Deliverable not found.</p>
 				<Link
 					to="/admin/deliverables"
 					className="text-orange-400 text-sm mt-2 inline-block"
@@ -164,25 +169,25 @@ export default function AdminDeliverableDetailPage() {
 		: [];
 
 	return (
-		<div className="min-h-screen bg-zinc-950 text-zinc-100">
-			{/* Header */}
-			<div className="border-b border-zinc-800 px-8 py-5">
+		<>
+			{/* Page header */}
+			<div className="border-b border-border px-8 py-5">
 				<div className="flex items-center gap-3 mb-1 text-sm">
 					<Link
 						to="/admin"
-						className="text-zinc-500 hover:text-zinc-300 transition-colors"
+						className="text-muted-foreground hover:text-foreground transition-colors"
 					>
 						Ops
 					</Link>
-					<span className="text-zinc-700">/</span>
+					<span className="text-muted-foreground/40">/</span>
 					<Link
 						to="/admin/deliverables"
-						className="text-zinc-500 hover:text-zinc-300 transition-colors"
+						className="text-muted-foreground hover:text-foreground transition-colors"
 					>
 						Deliverables
 					</Link>
-					<span className="text-zinc-700">/</span>
-					<span className="text-zinc-300 truncate max-w-sm">
+					<span className="text-muted-foreground/40">/</span>
+					<span className="text-foreground/80 truncate max-w-sm">
 						{deliverable.title}
 					</span>
 				</div>
@@ -190,7 +195,7 @@ export default function AdminDeliverableDetailPage() {
 
 			<div className="p-8 max-w-4xl">
 				{/* Main card */}
-				<div className="bg-zinc-900 border border-zinc-800 rounded-xl p-6 mb-6">
+				<div className="bg-card border border-border rounded-xl p-6 mb-6">
 					<div className="flex items-start justify-between mb-6">
 						<div className="flex-1">
 							{editing ? (
@@ -200,12 +205,12 @@ export default function AdminDeliverableDetailPage() {
 									onChange={(e) =>
 										setForm({ ...form, title: e.target.value })
 									}
-									className="text-xl font-bold bg-zinc-800 border border-zinc-700 rounded-lg px-3 py-1.5 text-zinc-100 w-full focus:outline-none focus:border-orange-500"
+									className="text-xl font-bold bg-input border border-border rounded-lg px-3 py-1.5 text-foreground w-full focus:outline-none focus:border-primary"
 								/>
 							) : (
 								<h2 className="text-xl font-bold">{deliverable.title}</h2>
 							)}
-							<div className="flex items-center gap-4 text-sm text-zinc-500 mt-2">
+							<div className="flex items-center gap-4 text-sm text-muted-foreground mt-2">
 								<span>{deliverable.customerName}</span>
 								<span>{deliverable.customerEmail}</span>
 								{deliverable.packageName && (
@@ -234,8 +239,8 @@ export default function AdminDeliverableDetailPage() {
 
 					{/* Info grid */}
 					<div className="grid grid-cols-4 gap-4 mb-6">
-						<div className="bg-zinc-800/50 rounded-lg p-3">
-							<p className="text-[10px] text-zinc-500 uppercase tracking-widest mb-0.5">
+						<div className="bg-muted rounded-lg p-3">
+							<p className="text-[10px] text-muted-foreground uppercase tracking-widest mb-0.5">
 								Type
 							</p>
 							<p className="text-sm font-medium">
@@ -243,16 +248,16 @@ export default function AdminDeliverableDetailPage() {
 									deliverable.itemType}
 							</p>
 						</div>
-						<div className="bg-zinc-800/50 rounded-lg p-3">
-							<p className="text-[10px] text-zinc-500 uppercase tracking-widest mb-0.5">
+						<div className="bg-muted rounded-lg p-3">
+							<p className="text-[10px] text-muted-foreground uppercase tracking-widest mb-0.5">
 								Cycle
 							</p>
 							<p className="text-sm font-medium">
 								{deliverable.cycleNumber ?? "—"}
 							</p>
 						</div>
-						<div className="bg-zinc-800/50 rounded-lg p-3">
-							<p className="text-[10px] text-zinc-500 uppercase tracking-widest mb-0.5">
+						<div className="bg-muted rounded-lg p-3">
+							<p className="text-[10px] text-muted-foreground uppercase tracking-widest mb-0.5">
 								Progress
 							</p>
 							{editing ? (
@@ -267,9 +272,9 @@ export default function AdminDeliverableDetailPage() {
 												quantityDelivered: e.target.value,
 											})
 										}
-										className="w-12 text-sm font-medium bg-zinc-800 border border-zinc-700 rounded px-1.5 py-0.5 text-zinc-100 focus:outline-none focus:border-orange-500"
+										className="w-12 text-sm font-medium bg-input border border-border rounded px-1.5 py-0.5 text-foreground focus:outline-none focus:border-primary"
 									/>
-									<span className="text-zinc-500">/</span>
+									<span className="text-muted-foreground">/</span>
 									<input
 										type="number"
 										min={0}
@@ -277,7 +282,7 @@ export default function AdminDeliverableDetailPage() {
 										onChange={(e) =>
 											setForm({ ...form, quantity: e.target.value })
 										}
-										className="w-12 text-sm font-medium bg-zinc-800 border border-zinc-700 rounded px-1.5 py-0.5 text-zinc-100 focus:outline-none focus:border-orange-500"
+										className="w-12 text-sm font-medium bg-input border border-border rounded px-1.5 py-0.5 text-foreground focus:outline-none focus:border-primary"
 									/>
 								</div>
 							) : (
@@ -287,8 +292,8 @@ export default function AdminDeliverableDetailPage() {
 								</p>
 							)}
 						</div>
-						<div className="bg-zinc-800/50 rounded-lg p-3">
-							<p className="text-[10px] text-zinc-500 uppercase tracking-widest mb-0.5">
+						<div className="bg-muted rounded-lg p-3">
+							<p className="text-[10px] text-muted-foreground uppercase tracking-widest mb-0.5">
 								Due Date
 							</p>
 							{editing ? (
@@ -298,7 +303,7 @@ export default function AdminDeliverableDetailPage() {
 									onChange={(e) =>
 										setForm({ ...form, dueDate: e.target.value })
 									}
-									className="text-sm font-medium bg-zinc-800 border border-zinc-700 rounded px-1.5 py-0.5 text-zinc-100 focus:outline-none focus:border-orange-500"
+									className="text-sm font-medium bg-input border border-border rounded px-1.5 py-0.5 text-foreground focus:outline-none focus:border-primary"
 								/>
 							) : (
 								<p className="text-sm font-medium">
@@ -309,7 +314,7 @@ export default function AdminDeliverableDetailPage() {
 					</div>
 
 					{/* Timestamps */}
-					<div className="flex items-center gap-6 text-xs text-zinc-600 mb-6">
+					<div className="flex items-center gap-6 text-xs text-muted-foreground/60 mb-6">
 						<span>
 							Created{" "}
 							{new Date(deliverable._creationTime).toLocaleDateString()}
@@ -331,7 +336,7 @@ export default function AdminDeliverableDetailPage() {
 					{/* Status selector (edit mode) */}
 					{editing && (
 						<div className="mb-4">
-							<label className="block text-xs text-zinc-500 mb-1.5">
+							<label className="block text-xs text-muted-foreground mb-1.5">
 								Status
 							</label>
 							<select
@@ -339,7 +344,7 @@ export default function AdminDeliverableDetailPage() {
 								onChange={(e) =>
 									setForm({ ...form, status: e.target.value })
 								}
-								className="bg-zinc-800 border border-zinc-700 rounded-lg px-3 py-2 text-sm text-zinc-100 focus:outline-none focus:border-orange-500"
+								className="bg-input border border-border rounded-lg px-3 py-2 text-sm text-foreground focus:outline-none focus:border-primary"
 							>
 								{STATUS_OPTIONS.map((s) => (
 									<option key={s.value} value={s.value}>
@@ -351,7 +356,7 @@ export default function AdminDeliverableDetailPage() {
 					)}
 
 					{/* Action bar */}
-					<div className="flex items-center gap-2 pt-4 border-t border-zinc-800">
+					<div className="flex items-center gap-2 pt-4 border-t border-border">
 						{editing ? (
 							<>
 								<button
@@ -362,7 +367,7 @@ export default function AdminDeliverableDetailPage() {
 								</button>
 								<button
 									onClick={() => setEditing(false)}
-									className="px-3 py-1.5 bg-zinc-800 hover:bg-zinc-700 text-zinc-300 text-xs font-bold tracking-wider uppercase rounded-lg transition-colors cursor-pointer"
+									className="px-3 py-1.5 bg-muted hover:bg-accent text-muted-foreground text-xs font-bold tracking-wider uppercase rounded-lg transition-colors cursor-pointer"
 								>
 									Cancel
 								</button>
@@ -371,7 +376,7 @@ export default function AdminDeliverableDetailPage() {
 							<>
 								<button
 									onClick={() => setEditing(true)}
-									className="px-3 py-1.5 bg-zinc-800 hover:bg-zinc-700 text-zinc-300 text-xs font-bold tracking-wider uppercase rounded-lg transition-colors cursor-pointer"
+									className="px-3 py-1.5 bg-muted hover:bg-accent text-muted-foreground text-xs font-bold tracking-wider uppercase rounded-lg transition-colors cursor-pointer"
 								>
 									Edit
 								</button>
@@ -398,14 +403,14 @@ export default function AdminDeliverableDetailPage() {
 				</div>
 
 				{/* Download URLs / Files */}
-				<div className="bg-zinc-900 border border-zinc-800 rounded-xl p-6 mb-6">
-					<h3 className="text-sm font-bold tracking-wider uppercase text-zinc-400 mb-4">
+				<div className="bg-card border border-border rounded-xl p-6 mb-6">
+					<h3 className="text-sm font-bold tracking-wider uppercase text-muted-foreground mb-4">
 						Files & Downloads
 					</h3>
 
 					{editing ? (
 						<div>
-							<label className="block text-xs text-zinc-500 mb-1.5">
+							<label className="block text-xs text-muted-foreground mb-1.5">
 								Download URLs (one per line)
 							</label>
 							<textarea
@@ -415,7 +420,7 @@ export default function AdminDeliverableDetailPage() {
 								}
 								rows={5}
 								placeholder="https://drive.google.com/file/d/xxx&#10;https://docs.google.com/document/d/xxx"
-								className="w-full bg-zinc-800 border border-zinc-700 rounded-lg px-3 py-2 text-sm text-zinc-100 placeholder-zinc-600 font-mono focus:outline-none focus:border-orange-500 resize-y"
+								className="w-full bg-input border border-border rounded-lg px-3 py-2 text-sm text-foreground placeholder-muted-foreground/50 font-mono focus:outline-none focus:border-primary resize-y"
 							/>
 						</div>
 					) : downloadUrls.length > 0 ? (
@@ -434,15 +439,15 @@ export default function AdminDeliverableDetailPage() {
 							))}
 						</div>
 					) : (
-						<p className="text-zinc-600 text-sm">
+						<p className="text-muted-foreground/60 text-sm">
 							No files attached yet. Edit to add download URLs.
 						</p>
 					)}
 				</div>
 
 				{/* Notes */}
-				<div className="bg-zinc-900 border border-zinc-800 rounded-xl p-6">
-					<h3 className="text-sm font-bold tracking-wider uppercase text-zinc-400 mb-4">
+				<div className="bg-card border border-border rounded-xl p-6">
+					<h3 className="text-sm font-bold tracking-wider uppercase text-muted-foreground mb-4">
 						Notes
 					</h3>
 					{editing ? (
@@ -453,17 +458,68 @@ export default function AdminDeliverableDetailPage() {
 							}
 							rows={4}
 							placeholder="Internal or client-facing notes about this deliverable..."
-							className="w-full bg-zinc-800 border border-zinc-700 rounded-lg px-3 py-2 text-sm text-zinc-100 placeholder-zinc-600 focus:outline-none focus:border-orange-500 resize-y"
+							className="w-full bg-input border border-border rounded-lg px-3 py-2 text-sm text-foreground placeholder-muted-foreground/50 focus:outline-none focus:border-primary resize-y"
 						/>
 					) : deliverable.notes ? (
-						<p className="text-sm text-zinc-300 whitespace-pre-wrap">
+						<p className="text-sm text-muted-foreground whitespace-pre-wrap">
 							{deliverable.notes}
 						</p>
 					) : (
-						<p className="text-zinc-600 text-sm">No notes.</p>
+						<p className="text-muted-foreground/60 text-sm">No notes.</p>
+					)}
+				</div>
+
+				{/* Linked Tasks */}
+				<div className="bg-card border border-border rounded-xl p-6">
+					<h3 className="text-sm font-bold tracking-wider uppercase text-muted-foreground mb-4">
+						Linked Tasks
+					</h3>
+					{linkedTasks === undefined ? (
+						<p className="text-muted-foreground/60 text-sm animate-pulse">Loading...</p>
+					) : linkedTasks.length > 0 ? (
+						<div className="space-y-2">
+							{linkedTasks.map((task) => (
+								<div
+									key={task._id}
+									className="flex items-center justify-between bg-muted rounded-lg px-4 py-3"
+								>
+									<div className="flex items-center gap-3 min-w-0">
+										<span
+											className={`w-2 h-2 rounded-full shrink-0 ${
+												task.status === "done"
+													? "bg-emerald-500"
+													: task.status === "in_progress"
+														? "bg-blue-500"
+														: task.status === "review"
+															? "bg-amber-500"
+															: "bg-muted-foreground"
+											}`}
+										/>
+										<span className="text-sm text-foreground/80 truncate">
+											{task.title}
+										</span>
+									</div>
+									<div className="flex items-center gap-3 shrink-0 text-xs text-muted-foreground">
+										{task.agentId && (
+											<span className="font-mono">{task.agentId}</span>
+										)}
+										<span className="capitalize">{task.status}</span>
+										{task.completedAt && (
+											<span className="text-emerald-600">
+												{new Date(task.completedAt).toLocaleDateString()}
+											</span>
+										)}
+									</div>
+								</div>
+							))}
+						</div>
+					) : (
+						<p className="text-muted-foreground/60 text-sm">
+							No tasks linked to this deliverable yet.
+						</p>
 					)}
 				</div>
 			</div>
-		</div>
+		</>
 	);
 }

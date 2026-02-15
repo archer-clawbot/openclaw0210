@@ -71,7 +71,8 @@ export default defineSchema({
 	})
 		.index("by_tenant", ["tenantId"])
 		.index("by_tenant_status", ["tenantId", "status"])
-		.index("by_tenant_agent", ["tenantId", "agentId"]),
+		.index("by_tenant_agent", ["tenantId", "agentId"])
+		.index("by_deliverableId", ["deliverableId"]),
 	messages: defineTable({
 		taskId: v.id("tasks"),
 		fromAgentId: v.id("agents"),

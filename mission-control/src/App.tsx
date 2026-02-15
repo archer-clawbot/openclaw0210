@@ -11,6 +11,7 @@ import PackagesPage from "./pages/admin/PackagesPage";
 import PackageDetailPage from "./pages/admin/PackageDetailPage";
 import AdminDeliverablesPage from "./pages/admin/AdminDeliverablesPage";
 import AdminDeliverableDetailPage from "./pages/admin/AdminDeliverableDetailPage";
+import AdminShellLayout from "./layouts/AdminShellLayout";
 import PortalLayout from "./layouts/PortalLayout";
 import PortalHome from "./pages/portal/PortalHome";
 import OrdersPage from "./pages/portal/OrdersPage";
@@ -26,7 +27,7 @@ export default function App() {
 					{/* Root — redirect based on role */}
 					<Route path="/" element={<RoleRedirect />} />
 
-					{/* Admin routes — existing ops dashboard */}
+					{/* Admin routes — Mission Control keeps its own full layout */}
 					<Route
 						path="/admin"
 						element={
@@ -35,38 +36,20 @@ export default function App() {
 							</AdminGuard>
 						}
 					/>
+
+					{/* Admin sub-pages share the lightweight shell layout */}
 					<Route
-						path="/admin/packages"
 						element={
 							<AdminGuard>
-								<PackagesPage />
+								<AdminShellLayout />
 							</AdminGuard>
 						}
-					/>
-					<Route
-						path="/admin/packages/:configId"
-						element={
-							<AdminGuard>
-								<PackageDetailPage />
-							</AdminGuard>
-						}
-					/>
-					<Route
-						path="/admin/deliverables"
-						element={
-							<AdminGuard>
-								<AdminDeliverablesPage />
-							</AdminGuard>
-						}
-					/>
-					<Route
-						path="/admin/deliverables/:id"
-						element={
-							<AdminGuard>
-								<AdminDeliverableDetailPage />
-							</AdminGuard>
-						}
-					/>
+					>
+						<Route path="/admin/packages" element={<PackagesPage />} />
+						<Route path="/admin/packages/:configId" element={<PackageDetailPage />} />
+						<Route path="/admin/deliverables" element={<AdminDeliverablesPage />} />
+						<Route path="/admin/deliverables/:id" element={<AdminDeliverableDetailPage />} />
+					</Route>
 
 					{/* Customer portal routes */}
 					<Route

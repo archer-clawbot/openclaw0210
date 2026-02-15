@@ -148,7 +148,51 @@ export const markDelivered = mutation({
 			});
 		}
 
+		// 5B: Check if all deliverables in this cycle are now complete
+		if (deliverable.cycleNumber != null) {
+			await ctx.scheduler.runAfter(0, api.wooDeliverables.checkCycleComplete, {
+				customerId: deliverable.customerId,
+				cycleNumber: deliverable.cycleNumber,
+			});
+		}
+
 		return args.id;
+	},
+});
+
+// ── Cycle Completion Check ──────────────────────────────────────────
+
+export const checkCycleComplete = mutation({
+	args: {
+		customerId: v.id("wooCustomers"),
+		cycleNumber: v.number(),
+	},
+	handler: async (ctx, args) => {
+		const deliverables = await ctx.db
+			.query("wooDeliverables")
+			.withIndex("by_customerId_cycleNumber", (q) =>
+				q.eq("customerId", args.customerId).eq("cycleNumber", args.cycleNumber),
+			)
+			.collect();
+
+		if (deliverables.length === 0) return { cycleComplete: false };
+
+		const allDelivered = deliverables.every((d) => d.status === "delivered");
+		if (!allDelivered) return { cycleComplete: false };
+
+		// All deliverables in this cycle are delivered — fire cycle-complete email
+		const customer = await ctx.db.get(args.customerId);
+		if (customer) {
+			const cycleName = `Cycle ${args.cycleNumber}`;
+			await ctx.scheduler.runAfter(0, api.email.sendCycleCompleteEmail, {
+				toEmail: customer.email,
+				firstName: customer.firstName,
+				cycleName,
+				deliverableCount: deliverables.length,
+			});
+		}
+
+		return { cycleComplete: true, deliverableCount: deliverables.length };
 	},
 });
 

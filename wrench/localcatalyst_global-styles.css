@@ -939,19 +939,35 @@ a.lc-card:visited {
 /* Defensive: hide empty <p> tags from residual wpautop */
 .entry-content > p:empty { display: none; margin: 0; padding: 0; }
 
-/* Fix: Button contrast on primary (dark navy) sections */
+/* Fix: Button contrast on dark sections (hero, primary, dark) */
+.lc-hero .lc-btn-primary,
+.lc-hero .lc-btn-primary:hover,
+.lc-hero .lc-btn-primary:focus,
+.lc-hero .lc-btn-primary:visited,
 .lc-section-primary .lc-btn-primary,
 .lc-section-primary .lc-btn-primary:hover,
 .lc-section-primary .lc-btn-primary:focus,
-.lc-section-primary .lc-btn-primary:visited {
+.lc-section-primary .lc-btn-primary:visited,
+.lc-section-dark .lc-btn-primary,
+.lc-section-dark .lc-btn-primary:hover,
+.lc-section-dark .lc-btn-primary:focus,
+.lc-section-dark .lc-btn-primary:visited {
   background: var(--lc-emerald) !important;
   color: var(--lc-navy) !important;
   border: none !important;
 }
+.lc-hero .lc-btn-ghost,
+.lc-hero .lc-btn-ghost:hover,
+.lc-hero .lc-btn-ghost:focus,
+.lc-hero .lc-btn-ghost:visited,
 .lc-section-primary .lc-btn-ghost,
 .lc-section-primary .lc-btn-ghost:hover,
 .lc-section-primary .lc-btn-ghost:focus,
-.lc-section-primary .lc-btn-ghost:visited {
+.lc-section-primary .lc-btn-ghost:visited,
+.lc-section-dark .lc-btn-ghost,
+.lc-section-dark .lc-btn-ghost:hover,
+.lc-section-dark .lc-btn-ghost:focus,
+.lc-section-dark .lc-btn-ghost:visited {
   color: var(--lc-hero-text) !important;
   border-color: rgba(255, 255, 255, 0.2) !important;
 }

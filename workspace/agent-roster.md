@@ -51,7 +51,7 @@ Cody (Telegram / GHL)
 **Archer knows about:**
 - All 13 agents and their capabilities
 - All operational workflows (onboarding, approval, payment, ad-hoc, website builds)
-- Task management (Trello boards)
+- Task management (Mission Control / Convex)
 - Client communication (GHL automations)
 - Scheduling (what runs daily, weekly, monthly)
 
@@ -359,7 +359,7 @@ These workflows define how agents coordinate for specific scenarios:
 | Workflow | File | Key Agents Involved |
 |----------|------|-------------------|
 | Client onboarding | ghl-openclaw-workflow.md | Archer, Silas, Scout |
-| Task management | task-management-system.md | Archer (Trello), all execution agents |
+| Task management | task-management-system.md | Archer (Mission Control), all execution agents |
 | Client approval (48hr) | client-approval-workflow.md | Archer, GHL |
 | Service agreement | agreement-signing-system.md | Archer, GHL, PandaDoc, Stripe |
 | Failed payment recovery | failed-payment-workflow.md | Archer, GHL, Stripe |

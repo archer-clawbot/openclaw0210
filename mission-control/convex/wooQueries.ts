@@ -285,6 +285,23 @@ export const getPackageConfig = query({
 	},
 });
 
+// ── Linked Tasks Queries ────────────────────────────────────────────
+
+export const listTasksByDeliverable = query({
+	args: { deliverableId: v.id("wooDeliverables") },
+	handler: async (ctx, args) => {
+		const tasks = await ctx.db
+			.query("tasks")
+			.withIndex("by_deliverableId", (q) =>
+				q.eq("deliverableId", args.deliverableId),
+			)
+			.collect();
+
+		tasks.sort((a, b) => b._creationTime - a._creationTime);
+		return tasks;
+	},
+});
+
 // ── Sync State Queries ──────────────────────────────────────────────
 
 export const listSyncStates = query({
