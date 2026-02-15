@@ -1,7 +1,7 @@
 {
   "agent:mozi:main": {
     "sessionId": "a1bbe165-4ed9-46d5-903a-5a5251bcf2a4",
-    "updatedAt": 1770779640994,
+    "updatedAt": 1771109235472,
     "systemSent": true,
     "skillsSnapshot": {
       "prompt": "",
@@ -16,14 +16,7 @@
     },
     "lastChannel": "telegram",
     "lastTo": "telegram:7302669335",
-    "lastAccountId": "mozi",
-    "modelProvider": "anthropic",
-    "model": "claude-sonnet-4-5",
-    "contextTokens": 1000000,
-    "abortedLastRun": false,
-    "inputTokens": 9,
-    "outputTokens": 389,
-    "totalTokens": 39712
+    "lastAccountId": "mozi"
   },
   "agent:mozi:dispatch:698a12c7f1c021a63837aa8d": {
     "sessionId": "5134edc4-e226-4ca5-9d7a-442b60ab6631",

@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+# Disallow access to WordPress admin and sensitive areas
+Disallow: /wp-admin/
+Disallow: /wp-login.php
+Disallow: /wp-includes/
+Disallow: /*?s=
+Disallow: /*?p=*&cpage
+Disallow: /feed/
+Disallow: /trackback/
+Disallow: /xmlrpc.php
+
+# Allow sitemap
+Sitemap: https://darkgreen-moose-683278.hostingersite.com/sitemap.xml

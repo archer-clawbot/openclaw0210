@@ -1,7 +1,7 @@
 {
   "agent:scout:main": {
     "sessionId": "54df3e1b-262e-42c4-ae94-66df69e1c8ba",
-    "updatedAt": 1770779897419,
+    "updatedAt": 1771109384743,
     "systemSent": true,
     "skillsSnapshot": {
       "prompt": "",
@@ -20,11 +20,11 @@
     "channel": "whatsapp",
     "modelProvider": "anthropic",
     "model": "claude-haiku-4-5",
-    "contextTokens": 200000,
+    "contextTokens": 180000,
     "abortedLastRun": false,
-    "inputTokens": 12,
-    "outputTokens": 376,
-    "totalTokens": 47847
+    "inputTokens": 10,
+    "outputTokens": 646,
+    "totalTokens": 49243
   },
   "agent:scout:dispatch:698a12c5d51bff12dbb29540": {
     "sessionId": "f3b2ddb9-fd0b-4eb8-807e-79abba683e16",

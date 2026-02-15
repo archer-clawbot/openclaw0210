@@ -1,0 +1,36 @@
+{
+  "agents": {
+    "list": [
+      {
+        "id": "sentinel",
+        "name": "Sentinel",
+        "workspace": "C:\\Users\\YOUR_USERNAME\\.openclaw\\sentinel",
+        "agentDir": "C:\\Users\\YOUR_USERNAME\\.openclaw\\agents\\sentinel\\agent",
+        "model": "anthropic/claude-haiku-4-5"
+      },
+      {
+        "id": "forge",
+        "name": "Forge",
+        "workspace": "C:\\Users\\YOUR_USERNAME\\.openclaw\\forge",
+        "agentDir": "C:\\Users\\YOUR_USERNAME\\.openclaw\\agents\\forge\\agent",
+        "model": "anthropic/claude-opus-4-5"
+      }
+    ]
+  },
+  "bindings": [
+    {
+      "agentId": "sentinel",
+      "match": {
+        "channel": "telegram",
+        "accountId": "sentinel"
+      }
+    },
+    {
+      "agentId": "forge",
+      "match": {
+        "channel": "telegram",
+        "accountId": "forge"
+      }
+    }
+  ]
+}

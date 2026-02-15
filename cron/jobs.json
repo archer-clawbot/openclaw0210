@@ -29,7 +29,7 @@
       "name": "Sentinel Nightly Health Check",
       "enabled": true,
       "createdAtMs": 1770661140897,
-      "updatedAtMs": 1770969600000,
+      "updatedAtMs": 1771142400013,
       "schedule": {
         "kind": "cron",
         "expr": "0 2 * * *",
@@ -39,16 +39,17 @@
       "wakeMode": "next-heartbeat",
       "payload": {
         "kind": "agentTurn",
-        "message": "Run your nightly health check now. Execute all 7 checks as defined in your AGENTS.md brain prompt, compile the report, and deliver it to Slack #sentinel. If status is CRITICAL, also alert #archer.",
+        "message": "Run your nightly health check now. Execute all 7 checks as defined in your AGENTS.md brain prompt, compile the report, and deliver it to Cody via Telegram. If status is CRITICAL, flag it prominently.",
         "deliver": true,
-        "channel": "slack",
-        "to": "#sentinel"
+        "channel": "telegram",
+        "to": "7302669335"
       },
       "state": {
-        "nextRunAtMs": 1771056000000,
-        "lastRunAtMs": 1770969600000,
-        "lastStatus": "ok",
-        "lastDurationMs": 68574
+        "nextRunAtMs": 1771228800000,
+        "lastRunAtMs": 1771142400014,
+        "lastStatus": "error",
+        "lastDurationMs": 92415,
+        "lastError": "Error: Slack bot token missing for account \"default\" (set channels.slack.accounts.default.botToken or SLACK_BOT_TOKEN for default)."
       }
     },
     {
@@ -79,7 +80,7 @@
       "name": "Night Forge — Overnight Improvement Cycle",
       "enabled": true,
       "createdAtMs": 1739232000000,
-      "updatedAtMs": 1770969900011,
+      "updatedAtMs": 1771142700010,
       "schedule": {
         "kind": "cron",
         "expr": "5 2 * * *",
@@ -95,10 +96,10 @@
         "to": "7302669335"
       },
       "state": {
-        "nextRunAtMs": 1771056300000,
-        "lastRunAtMs": 1770969900011,
+        "nextRunAtMs": 1771229100000,
+        "lastRunAtMs": 1771142700011,
         "lastStatus": "ok",
-        "lastDurationMs": 21482
+        "lastDurationMs": 212686
       }
     },
     {
@@ -107,7 +108,7 @@
       "name": "Razor Weekly CRO Trigger",
       "enabled": true,
       "createdAtMs": 1770877325705,
-      "updatedAtMs": 1770877325705,
+      "updatedAtMs": 1771167600003,
       "schedule": {
         "kind": "cron",
         "expr": "0 9 * * 0",
@@ -120,7 +121,10 @@
         "text": "⏰ Weekly CRO Auto-Deploy Check: Spawn Razor to run weekly CRO workflow for auto-deploy enabled clients."
       },
       "state": {
-        "nextRunAtMs": 1771167600000
+        "nextRunAtMs": 1771772400000,
+        "lastRunAtMs": 1771167600003,
+        "lastStatus": "ok",
+        "lastDurationMs": 16
       }
     },
     {
@@ -143,6 +147,31 @@
       },
       "state": {
         "nextRunAtMs": 1771254000000
+      }
+    },
+    {
+      "id": "b088fc20-5137-424a-b6b0-59028d9a88a7",
+      "agentId": "main",
+      "name": "Weekly Agent Standup",
+      "enabled": true,
+      "createdAtMs": 1771107880421,
+      "updatedAtMs": 1771167600003,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 9 * * 0",
+        "tz": "America/Chicago"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "next-heartbeat",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "WEEKLY STANDUP TRIGGER: Orchestrate the Sunday standup. Spawn Silas (SEO patterns/audits this week), Lookout (rank tracking anomalies/trends), and Ledger (API spend/profitability trends). Collect their reports, synthesize into a unified weekly rollup, and deliver to Cody. Include: what shipped, what's blocked, what needs attention, cross-agent insights."
+      },
+      "state": {
+        "nextRunAtMs": 1771772400000,
+        "lastRunAtMs": 1771167600023,
+        "lastStatus": "ok",
+        "lastDurationMs": 103615
       }
     }
   ]

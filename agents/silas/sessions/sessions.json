@@ -56,7 +56,7 @@
   },
   "agent:silas:main": {
     "sessionId": "27d15a8f-8c87-478c-aa61-1c02dcd48a6d",
-    "updatedAt": 1770781011651,
+    "updatedAt": 1771109511489,
     "skillsSnapshot": {
       "prompt": "",
       "skills": [],
@@ -65,10 +65,10 @@
     },
     "modelProvider": "anthropic",
     "model": "claude-sonnet-4-5",
-    "contextTokens": 1000000,
+    "contextTokens": 180000,
     "abortedLastRun": false,
     "inputTokens": 12,
-    "outputTokens": 729,
-    "totalTokens": 103792
+    "outputTokens": 1121,
+    "totalTokens": 124800
   }
 }

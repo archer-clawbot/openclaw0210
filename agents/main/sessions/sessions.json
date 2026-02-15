@@ -1,7 +1,7 @@
 {
   "agent:main:main": {
-    "sessionId": "1ea6640a-0eff-42c3-8ce7-b80970922f71",
-    "updatedAt": 1771029053469,
+    "sessionId": "30bbc4d5-2d58-4787-b7f4-bd0c6a05d507",
+    "updatedAt": 1771168123881,
     "systemSent": true,
     "skillsSnapshot": {
       "prompt": "\n\nThe following skills provide specialized instructions for specific tasks.\nUse the read tool to load a skill's file when the task matches its description.\nWhen a skill file references a relative path, resolve it against the skill directory (parent of SKILL.md / dirname of the path) and use that absolute path in tool commands.\n\n<available_skills>\n  <skill>\n    <name>local-places</name>\n    <description>Search for places (restaurants, cafes, etc.) via Google Places API proxy on localhost.</description>\n    <location>C:\\Users\\spart\\.openclaw\\workspace\\skills\\local-places\\SKILL.md</location>\n  </skill>\n  <skill>\n    <name>wordpress-pro</name>\n    <description>Use when developing WordPress themes, plugins, customizing Gutenberg blocks, implementing WooCommerce features, or optimizing WordPress performance and security.</description>\n    <location>C:\\Users\\spart\\.openclaw\\workspace\\skills\\wordpress-pro\\SKILL.md</location>\n  </skill>\n</available_skills>",
@@ -31,7 +31,7 @@
           "disableModelInvocation": false
         }
       ],
-      "version": 1770948290113
+      "version": 1771111531319
     },
     "deliveryContext": {
       "channel": "telegram",
@@ -41,14 +41,14 @@
     "lastChannel": "telegram",
     "lastTo": "telegram:7302669335",
     "lastAccountId": "default",
-    "channel": "slack",
+    "channel": "telegram",
     "modelProvider": "anthropic",
     "model": "claude-sonnet-4-5",
     "contextTokens": 180000,
     "abortedLastRun": false,
-    "inputTokens": 10,
-    "outputTokens": 4544,
-    "totalTokens": 103795,
+    "inputTokens": 14,
+    "outputTokens": 817,
+    "totalTokens": 91220,
     "origin": {
       "label": "cryptosys (@CryptosysX) id:7302669335",
       "provider": "telegram",
@@ -59,14 +59,14 @@
       "accountId": "default"
     },
     "chatType": "direct",
-    "sessionFile": "C:\\Users\\spart\\.openclaw\\agents\\main\\sessions\\1ea6640a-0eff-42c3-8ce7-b80970922f71.jsonl",
+    "sessionFile": "C:\\Users\\spart\\.openclaw\\agents\\main\\sessions\\30bbc4d5-2d58-4787-b7f4-bd0c6a05d507.jsonl",
     "authProfileOverride": "anthropic:anthropic",
     "authProfileOverrideSource": "auto",
-    "authProfileOverrideCompactionCount": 0,
+    "authProfileOverrideCompactionCount": 2,
     "systemPromptReport": {
       "source": "run",
-      "generatedAt": 1771028953150,
-      "sessionId": "1ea6640a-0eff-42c3-8ce7-b80970922f71",
+      "generatedAt": 1771168090185,
+      "sessionId": "30bbc4d5-2d58-4787-b7f4-bd0c6a05d507",
       "sessionKey": "agent:main:main",
       "provider": "anthropic",
       "model": "claude-sonnet-4-5",
@@ -77,8 +77,8 @@
         "sandboxed": false
       },
       "systemPrompt": {
-        "chars": 28986,
-        "projectContextChars": 19173,
+        "chars": 36167,
+        "projectContextChars": 26354,
         "nonProjectContextChars": 9813
       },
       "injectedWorkspaceFiles": [
@@ -86,8 +86,8 @@
           "name": "AGENTS.md",
           "path": "C:\\Users\\spart\\.openclaw\\workspace\\AGENTS.md",
           "missing": false,
-          "rawChars": 11284,
-          "injectedChars": 11284,
+          "rawChars": 16374,
+          "injectedChars": 16374,
           "truncated": false
         },
         {
@@ -142,8 +142,8 @@
           "name": "MEMORY.md",
           "path": "C:\\Users\\spart\\.openclaw\\workspace\\MEMORY.md",
           "missing": false,
-          "rawChars": 1741,
-          "injectedChars": 1741,
+          "rawChars": 3832,
+          "injectedChars": 3832,
           "truncated": false
         }
       ],
@@ -162,7 +162,7 @@
       },
       "tools": {
         "listChars": 2021,
-        "schemaChars": 14135,
+        "schemaChars": 14063,
         "entries": [
           {
             "name": "read",
@@ -221,7 +221,7 @@
           {
             "name": "message",
             "summaryChars": 118,
-            "schemaChars": 3294,
+            "schemaChars": 3222,
             "propertiesCount": 79
           },
           {
@@ -304,7 +304,8 @@
           }
         ]
       }
-    }
+    },
+    "compactionCount": 2
   },
   "agent:main:slack:channel:c0ae9nh0q7k": {
     "sessionId": "6bdca65d-9084-4f00-9dd9-59e1385b1e46",
@@ -2874,5 +2875,52 @@
     "inputTokens": 10,
     "outputTokens": 221,
     "totalTokens": 16160
+  },
+  "agent:main:cron:b088fc20-5137-424a-b6b0-59028d9a88a7": {
+    "sessionId": "232bab60-3110-4359-80b8-5d3e5c676458",
+    "updatedAt": 1771167724600,
+    "systemSent": true,
+    "skillsSnapshot": {
+      "prompt": "\n\nThe following skills provide specialized instructions for specific tasks.\nUse the read tool to load a skill's file when the task matches its description.\nWhen a skill file references a relative path, resolve it against the skill directory (parent of SKILL.md / dirname of the path) and use that absolute path in tool commands.\n\n<available_skills>\n  <skill>\n    <name>local-places</name>\n    <description>Search for places (restaurants, cafes, etc.) via Google Places API proxy on localhost.</description>\n    <location>C:\\Users\\spart\\.openclaw\\workspace\\skills\\local-places\\SKILL.md</location>\n  </skill>\n  <skill>\n    <name>wordpress-pro</name>\n    <description>Use when developing WordPress themes, plugins, customizing Gutenberg blocks, implementing WooCommerce features, or optimizing WordPress performance and security.</description>\n    <location>C:\\Users\\spart\\.openclaw\\workspace\\skills\\wordpress-pro\\SKILL.md</location>\n  </skill>\n</available_skills>",
+      "skills": [
+        {
+          "name": "local-places"
+        },
+        {
+          "name": "wordpress-pro"
+        }
+      ],
+      "resolvedSkills": [
+        {
+          "name": "local-places",
+          "description": "Search for places (restaurants, cafes, etc.) via Google Places API proxy on localhost.",
+          "filePath": "C:\\Users\\spart\\.openclaw\\workspace\\skills\\local-places\\SKILL.md",
+          "baseDir": "C:\\Users\\spart\\.openclaw\\workspace\\skills\\local-places",
+          "source": "openclaw-workspace",
+          "disableModelInvocation": false
+        },
+        {
+          "name": "wordpress-pro",
+          "description": "Use when developing WordPress themes, plugins, customizing Gutenberg blocks, implementing WooCommerce features, or optimizing WordPress performance and security.",
+          "filePath": "C:\\Users\\spart\\.openclaw\\workspace\\skills\\wordpress-pro\\SKILL.md",
+          "baseDir": "C:\\Users\\spart\\.openclaw\\workspace\\skills\\wordpress-pro",
+          "source": "openclaw-workspace",
+          "disableModelInvocation": false
+        }
+      ],
+      "version": 1771111531319
+    },
+    "deliveryContext": {
+      "channel": "telegram"
+    },
+    "lastChannel": "telegram",
+    "channel": "telegram",
+    "modelProvider": "anthropic",
+    "model": "claude-sonnet-4-5",
+    "contextTokens": 180000,
+    "abortedLastRun": false,
+    "inputTokens": 10,
+    "outputTokens": 330,
+    "totalTokens": 98640
   }
 }

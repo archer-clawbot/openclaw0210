@@ -158,7 +158,7 @@
   },
   "agent:specs:main": {
     "sessionId": "44dd6349-0dd1-4f5d-826e-231a04912ef9",
-    "updatedAt": 1770784267284,
+    "updatedAt": 1771109727514,
     "skillsSnapshot": {
       "prompt": "",
       "skills": [],
@@ -172,11 +172,11 @@
     "channel": "whatsapp",
     "modelProvider": "anthropic",
     "model": "claude-haiku-4-5",
-    "contextTokens": 200000,
+    "contextTokens": 180000,
     "abortedLastRun": false,
-    "inputTokens": 8,
-    "outputTokens": 770,
-    "totalTokens": 138561
+    "inputTokens": 11,
+    "outputTokens": 784,
+    "totalTokens": 78694
   },
   "agent:specs:slack:channel:c0ae9nh0q7k": {
     "chatType": "channel",

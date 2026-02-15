@@ -107,11 +107,11 @@
       "agents": ["main"]
     },
     {
-      "docId": "archer_trello",
-      "filepath": "workspace/skills/trello-task-management.md",
-      "triggers": ["Trello", "board", "card", "task board", "dispatch", "dispatcher", "client setup", "90-day playbook"],
+      "docId": "archer_mission_control",
+      "filepath": "workspace/skills/mission-control.md",
+      "triggers": ["mission control", "task board", "dispatch", "dispatcher", "client setup", "90-day playbook", "Convex", "tenant"],
       "priority": 8,
-      "description": "Archer Trello/Mission Control task management skill",
+      "description": "Archer Mission Control (Convex) task management skill",
       "tokenEstimate": 2000,
       "agents": ["main"]
     }

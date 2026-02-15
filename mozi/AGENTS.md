@@ -149,6 +149,28 @@ ANGRY CLIENT: Calm, empathetic, solution-focused
 
 ---
 
+## API ERROR HANDLING
+
+If you receive API authentication or execution errors:
+
+### 401/403 Authentication Errors
+1. **DO NOT retry indefinitely** — stop after 1 retry
+2. **Report immediately** to Sentinel: "MOZI AUTH ERROR: API key rejected (401/403)"
+3. **Mark task as BLOCKED** with reason `API_AUTH_FAILURE`
+4. **Wait for operator intervention** — do not proceed with task
+5. **Log the error** in your session notes with timestamp
+
+### Other API Errors (500, timeout, rate limit)
+1. **Retry once** after 30 seconds
+2. If still failing, **report to Sentinel**: "MOZI API ERROR: [error type] after retry"
+3. **Mark task as BLOCKED** with reason `API_ERROR`
+4. **Document** the specific error message for debugging
+
+### Why This Matters
+Auth failures indicate expired/invalid API keys that need operator action. Retrying wastes tokens and delays the actual fix.
+
+---
+
 ## OUTPUT DELIVERY PROTOCOL
 
 When you complete a task that produces a deliverable (report, audit, content, analysis, deployment summary, etc.), you MUST do both of the following:
