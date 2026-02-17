@@ -36,14 +36,35 @@ Scout will crawl every page, parse the HTML, and return a structured report with
 
 If Scout's crawl is incomplete or fails on certain pages, mark those specific items as "LIMITED DATA — crawl incomplete" rather than "UNKNOWN."
 
-## Steps 1-7: Write the Audit
+## Steps 1-7: Write the Audit (Phased Skill Loading)
 
-1. **Read the template first:** Load `CATALYST-AUDIT-TEMPLATE.md` from your workspace directory using the `read` tool before writing any audit content.
-2. **Follow every section.** The template has 13 numbered sections. All 13 are required. If you cannot obtain data for a section, mark it "DATA UNAVAILABLE — requires [tool/access]" rather than omitting it.
-3. **Use the Master Scorecard format** (load `skills/scoring-framework.md`) with 0-10 scoring per SPEC item, route averages, and the weighted overall formula: Route 1 (25%) + Route 2 (30%) + Route 4 (25%) + Route 5 (10%) + AI/XP (10%).
-4. **Every score needs a 1-sentence justification.** No naked numbers.
-5. **Use the Priority Matrix** with Impact × (6 - Effort) scoring, not just priority labels.
-6. **End with the Agent Dispatch Queue** using the standardized handoff format for Archer.
-7. **Never freestyle the format.** The template exists so every audit is consistent, comparable, and client-ready.
+1. **Determine methodology first.** Use the METHODOLOGY ROUTING logic in AGENTS.md to select APEX (local) or CATALYST-N (national).
+2. **Read the correct template:** Load `APEX-AUDIT-TEMPLATE.md` or `CATALYST-N-AUDIT-TEMPLATE.md` from your workspace directory using the `read` tool before writing any audit content.
+3. **Follow every section.** All numbered sections in the selected template are required. If you cannot obtain data for a section, mark it "DATA UNAVAILABLE — requires [tool/access]" rather than omitting it.
+4. **Use the correct Master Scorecard format** (load `skills/scoring-framework.md`) with 0-10 scoring per SPEC/NSPEC item, route averages, and the methodology-specific weighted formula:
+   - **APEX:** Route 1/GBP (25%) + Route 2/Website (30%) + Route 4/Off-Site (25%) + Route 5/Tracking (10%) + AI/XP (10%)
+   - **CATALYST-N:** Route 1/Topical Authority (25%) + Route 2/Technical (25%) + Route 3/Content Quality (20%) + Route 4/Off-Site Authority (20%) + Route 5/Tracking (5%) + AI/XP (5%)
+5. **Every score needs a 1-sentence justification.** No naked numbers.
+6. **Use the Priority Matrix** with Impact × (6 - Effort) scoring, not just priority labels.
+7. **End with the Agent Dispatch Queue** using the standardized handoff format for Archer.
+8. **Never freestyle the format.** The templates exist so every audit is consistent, comparable, and client-ready.
+9. **Never cross-contaminate methodologies.** Do not score GBP signals in a CATALYST-N audit. Do not score topical authority clusters in an APEX audit.
 
-If the template file is not found in your workspace, alert the operator that `CATALYST-AUDIT-TEMPLATE.md` is missing and needs to be restored before you can produce a compliant audit.
+### Phased Skill Loading for Enhanced Audits
+
+Load cseo-* skills on demand as you write each audit section. Do NOT load all skills at once — this preserves context window for audit output.
+
+| Audit Section | Load Skill | Purpose |
+|---------------|-----------|---------|
+| Section 5 (Technical) | `cseo-technical` | 8-category technical audit with proper CWV thresholds |
+| Section 5.3 (Schema) | `cseo-schema-validator` | Schema detection, deprecation awareness, NAP check |
+| Section 5 (Sitemap row) | `cseo-sitemap` | Sitemap validation if issues detected |
+| Section 6 (On-Page) | `cseo-content-quality` | E-E-A-T scorecard (Section 6.3) |
+| Section 6.2 (Images) | `cseo-images` | Enhanced image audit with format/lazy/responsive checks |
+| Section 8 (AI Visibility) | `cseo-geo` | GEO composite score across AI platforms |
+
+**Context management:** After writing each section, the skill's output is captured in the audit. You don't need to retain the full skill in context for subsequent sections. Move on to the next skill.
+
+**If context ceiling approaches:** Split the audit into two sequential tasks via Convex dispatcher: Sections 1-7 (first task), then Sections 8-13 (second task using the first task's output as input).
+
+If a template file is not found in your workspace, alert the operator that the template (`APEX-AUDIT-TEMPLATE.md` or `CATALYST-N-AUDIT-TEMPLATE.md`) is missing and needs to be restored before you can produce a compliant audit.

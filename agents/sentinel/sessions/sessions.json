@@ -1,7 +1,7 @@
 {
   "agent:sentinel:cron:b8890acc-185c-4739-8248-988d0660ca46": {
-    "sessionId": "3f40ac60-3de2-4a54-a5de-e8f6003da0f8",
-    "updatedAt": 1771142400044,
+    "sessionId": "63b4e78b-649b-46e8-b02a-bd06dc65e73c",
+    "updatedAt": 1771315200038,
     "systemSent": true,
     "model": "claude-haiku-4-5",
     "contextTokens": 180000,
@@ -12,9 +12,9 @@
       "version": 0
     },
     "modelProvider": "anthropic",
-    "inputTokens": 10,
-    "outputTokens": 311,
-    "totalTokens": 50168
+    "inputTokens": 12,
+    "outputTokens": 898,
+    "totalTokens": 43744
   },
   "agent:sentinel:slack:channel:c0adup40414": {
     "chatType": "channel",
@@ -30,7 +30,7 @@
       "to": "channel:C0ADUP40414"
     },
     "sessionId": "fa338015-36ba-4dcc-8170-03a3d39e1977",
-    "updatedAt": 1770661312233,
+    "updatedAt": 1771228858783,
     "deliveryContext": {
       "channel": "slack"
     },
@@ -51,7 +51,7 @@
       "to": "channel:sentinel"
     },
     "sessionId": "8e17ff50-c96f-446c-a08a-6b92699ec078",
-    "updatedAt": 1771142467929,
+    "updatedAt": 1771315302535,
     "deliveryContext": {
       "channel": "slack"
     },
@@ -72,7 +72,7 @@
       "to": "channel:archer"
     },
     "sessionId": "d9bd1c85-c711-4298-a505-2becaf666481",
-    "updatedAt": 1770969637745,
+    "updatedAt": 1771315302575,
     "deliveryContext": {
       "channel": "slack"
     },
@@ -80,7 +80,7 @@
     "sessionFile": "C:\\Users\\spart\\.openclaw\\agents\\sentinel\\sessions\\d9bd1c85-c711-4298-a505-2becaf666481.jsonl"
   },
   "agent:sentinel:main": {
-    "updatedAt": 1771142488514,
+    "updatedAt": 1771228864342,
     "deliveryContext": {
       "channel": "telegram",
       "to": "telegram:7302669335",
@@ -343,5 +343,25 @@
         ]
       }
     }
+  },
+  "agent:sentinel:slack:channel:c0ae9nh0q7k": {
+    "chatType": "channel",
+    "channel": "slack",
+    "groupId": "c0ae9nh0q7k",
+    "displayName": "slack:g-c0ae9nh0q7k",
+    "origin": {
+      "label": "slack:channel:C0AE9NH0Q7K",
+      "provider": "slack",
+      "surface": "slack",
+      "chatType": "channel",
+      "from": "slack:channel:C0AE9NH0Q7K",
+      "to": "channel:C0AE9NH0Q7K"
+    },
+    "sessionId": "5c6507e1-dceb-45b9-91cf-428f0118b884",
+    "updatedAt": 1771228858819,
+    "deliveryContext": {
+      "channel": "slack"
+    },
+    "lastChannel": "slack"
   }
 }

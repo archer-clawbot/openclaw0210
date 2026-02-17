@@ -180,15 +180,23 @@ Use web_search to find GBP listing. Search: "[business name]", "[business name] 
 
 ### 5.3 Schema Markup (SPEC-008)
 
-| Schema Type | Present? | Valid? | Notes |
-|------------|----------|--------|-------|
-| LocalBusiness | [Yes/No] | [Yes/No] | [completeness] |
-| FAQPage | [Yes/No] | [Yes/No] | |
-| BreadcrumbList | [Yes/No] | [Yes/No] | |
-| AggregateRating | [Yes/No] | [Yes/No] | |
-| Service | [Yes/No] | [Yes/No] | |
-| Article (blog) | [Yes/No] | [Yes/No] | |
-| GeoCoordinates | [Yes/No] | [Yes/No] | |
+*Enhanced by cseo-schema-validator. See `ref:schema-deprecations` for rich result eligibility.*
+
+| Schema Type | Present? | Valid? | Rich Result Eligible? | Notes |
+|------------|----------|--------|----------------------|-------|
+| LocalBusiness | [Yes/No] | [Yes/No] | Yes (Knowledge Panel) | [completeness + subtype used] |
+| FAQPage | [Yes/No] | [Yes/No] | No (restricted Aug 2023) | [still useful for AI signal] |
+| BreadcrumbList | [Yes/No] | [Yes/No] | Yes | |
+| AggregateRating | [Yes/No] | [Yes/No] | Yes (stars) | |
+| Service | [Yes/No] | [Yes/No] | No (semantic only) | |
+| VideoObject | [Yes/No] | [Yes/No] | Yes (video carousel) | |
+| Article (blog) | [Yes/No] | [Yes/No] | Conditional | |
+| GeoCoordinates | [Yes/No] | [Yes/No] | No (embedded) | |
+| HowTo | [Yes/No] | [Yes/No] | No (removed Sept 2023) | [AI signal only] |
+
+**Schema health:** [X/9 required types present]
+**NAP consistency in schema:** [Consistent / Mismatch — details]
+**Deprecated schema flags:** [None / list with notes]
 
 ### 5.4 Site Architecture
 
@@ -225,7 +233,27 @@ Use web_search to find GBP listing. Search: "[business name]", "[business name] 
 | Image Compression | [assessment] | |
 | WebP/AVIF Usage | [Yes/No] | |
 
-### 6.3 Content Quality Signals
+### 6.3 E-E-A-T Assessment
+
+*Enhanced by cseo-content-quality. See `ref:eeat-rubric` for scoring criteria.*
+
+```
+Experience (E1):      [X/10] × 0.20 = [weighted]
+Expertise (E2):       [X/10] × 0.25 = [weighted]
+Authoritativeness (A): [X/10] × 0.25 = [weighted]
+Trustworthiness (T):  [X/10] × 0.30 = [weighted]
+──────────────────────────────────────
+Composite E-E-A-T Score:  [X.X/10]
+```
+
+**Top 3 E-E-A-T gaps:**
+1. [Gap + recommended action + spec reference]
+2. [Gap + recommended action + spec reference]
+3. [Gap + recommended action + spec reference]
+
+**AI content risk:** [None/Low/Medium/High] — [1-sentence rationale]
+
+### 6.4 Content Quality Signals
 
 | Signal | Status | Notes |
 |--------|--------|-------|
@@ -306,6 +334,29 @@ Test with web_search: ask "[service] in [city]" phrased as a question to see if 
 | "[service] in [city]" AI Overview | [Yes/No] | [who is cited instead] |
 | "[service] near [city]" AI Overview | [Yes/No] | |
 | "Best [service] [city]" AI Overview | [Yes/No] | |
+
+### 8.1 GEO Assessment (Generative Engine Optimization)
+
+*Enhanced by cseo-geo. Structured scoring across AI search platforms.*
+
+**Test queries:**
+1. "Who is the best [service] in [city]?"
+2. "Recommend a [service provider] in [city]"
+3. "How much does [service] cost in [city]?"
+4. "Tell me about [Business Name]"
+5. "[Business Name] reviews"
+
+| Platform | Q1 | Q2 | Q3 | Q4 | Q5 | Raw (/25) | Weighted |
+|----------|----|----|----|----|----|----|---------|
+| Google AI Overview | [0-5] | [0-5] | [0-5] | [0-5] | [0-5] | [/25] | x 0.35 |
+| ChatGPT | [0-5] | [0-5] | [0-5] | [0-5] | [0-5] | [/25] | x 0.25 |
+| Perplexity | [0-5] | [0-5] | [0-5] | [0-5] | [0-5] | [/25] | x 0.20 |
+| Copilot | [0-5] | [0-5] | [0-5] | [0-5] | [0-5] | [/25] | x 0.10 |
+| Siri/Apple | [0-5] | [0-5] | [0-5] | [0-5] | [0-5] | [/25] | x 0.10 |
+
+**GEO Composite Score: [X.X/10]**
+
+*Note: If direct platform testing unavailable, score based on optimization signals and mark "ESTIMATED — verify with LLM testing." See `ref:data-sources` for current access methods.*
 
 ---
 

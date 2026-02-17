@@ -3,6 +3,18 @@ import { httpAction } from "./_generated/server";
 import { api } from "./_generated/api";
 import { auth } from "./auth";
 import { handleWebhook } from "./wooWebhook";
+import {
+	createDeliverable as pipelineCreate,
+	updateStatus as pipelineUpdateStatus,
+	updateDeliverable as pipelineUpdate,
+	retryDeliverable as pipelineRetry,
+	addLog as pipelineAddLog,
+	getCatalog as pipelineGetCatalog,
+	getStats as pipelineGetStats,
+	getReauditsDue as pipelineGetReaudits,
+	getUploadUrl as pipelineGetUploadUrl,
+	linkFile as pipelineLinkFile,
+} from "./pipelineHttp";
 
 const http = httpRouter();
 
@@ -195,5 +207,23 @@ http.route({
 		});
 	}),
 });
+
+// ── Pipeline API Routes (X-LC-API-Key auth) ──────────────────
+
+// Deliverable CRUD
+http.route({ path: "/pipeline/deliverables", method: "POST", handler: pipelineCreate });
+http.route({ path: "/pipeline/deliverables/update-status", method: "POST", handler: pipelineUpdateStatus });
+http.route({ path: "/pipeline/deliverables/update", method: "POST", handler: pipelineUpdate });
+http.route({ path: "/pipeline/deliverables/retry", method: "POST", handler: pipelineRetry });
+http.route({ path: "/pipeline/deliverables/add-log", method: "POST", handler: pipelineAddLog });
+
+// File upload
+http.route({ path: "/pipeline/upload-url", method: "POST", handler: pipelineGetUploadUrl });
+http.route({ path: "/pipeline/deliverables/link-file", method: "POST", handler: pipelineLinkFile });
+
+// Read-only endpoints
+http.route({ path: "/pipeline/catalog", method: "GET", handler: pipelineGetCatalog });
+http.route({ path: "/pipeline/stats", method: "GET", handler: pipelineGetStats });
+http.route({ path: "/pipeline/reaudits/due", method: "GET", handler: pipelineGetReaudits });
 
 export default http;

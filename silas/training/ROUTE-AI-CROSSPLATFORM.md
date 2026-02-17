@@ -214,6 +214,8 @@ When auditing a client's AI/cross-platform presence:
 ☐ Platform presence audit (check all target platforms)
 ☐ NAP consistency check across platforms
 ☐ LLM visibility baseline (test queries across all LLMs)
+    → Load cseo-geo for structured GEO scoring across 5 AI platforms
+    → Produces GEO Composite Score (0-10) for audit Section 8.1
 ☐ Competitive LLM benchmarking (who do LLMs recommend?)
 ☐ Score both areas (SPEC-017 and 018)
 ☐ Generate deliverables in priority order:
@@ -225,3 +227,6 @@ When auditing a client's AI/cross-platform presence:
   6. Parasite SEO deployment (Medium, LinkedIn Articles)
   7. LLM monitoring system activation
 ```
+
+### Enhanced Skills Available
+- **cseo-geo** — Generative Engine Optimization scoring. Provides structured 5-platform, 5-query assessment with weighted composite score. Replaces the basic AI Overview check table with a comprehensive GEO assessment. Loaded on demand by the awareness engine when task mentions AI visibility, GEO, or SPEC-017.

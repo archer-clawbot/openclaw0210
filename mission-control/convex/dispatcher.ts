@@ -91,7 +91,7 @@ export const complete = mutation({
 				}
 
 				// Send notification email if auto-delivered
-				if (isComplete) {
+				if (isComplete && deliverable.customerId) {
 					const customer = await ctx.db.get(deliverable.customerId);
 					if (customer) {
 						await ctx.scheduler.runAfter(

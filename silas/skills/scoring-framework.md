@@ -87,3 +87,60 @@ Effort:
 - If reviews < 50 or rating < 4.0: elevate SPEC-012 to Tier 1
 - If Core Web Vitals failing: elevate SPEC-009 to Tier 1 (blocking issue)
 - If competitor link gap > 50 DR: elevate SPEC-013/014 to Tier 2
+
+---
+
+## SUPPLEMENTARY SEO HEALTH SCORE (Optional)
+
+An optional 0-100 composite score that can be produced alongside the CATALYST 0-10 score for clients who want a granular technical SEO benchmark. This does NOT replace the CATALYST score — it supplements it.
+
+### Formula
+
+```
+SEO Health Score (0-100) = sum of category scores:
+
+Technical Health (30 points max):
+├── CWV all Good:           10 pts (Partial: 5, All Poor: 0)
+├── HTTPS + security:        5 pts
+├── Mobile optimization:     5 pts
+├── Crawlability:            5 pts
+└── Site structure:           5 pts
+
+Content Health (25 points max):
+├── E-E-A-T composite >= 7:  10 pts (5-7: 5 pts, < 5: 0)
+├── Content uniqueness:       5 pts
+├── Alt text coverage > 90%:  5 pts
+└── Schema completeness:      5 pts
+
+Authority Health (25 points max):
+├── Reviews (100+, 4.5+):    10 pts (50-100: 5 pts, < 50: 0)
+├── Citations (30+, NAP ok):  10 pts
+└── Backlink profile:          5 pts
+
+Visibility Health (20 points max):
+├── GEO composite >= 5:      10 pts (3-5: 5 pts, < 3: 0)
+├── GBP optimization:         5 pts
+└── Multi-platform presence:   5 pts
+```
+
+### Score Interpretation
+
+| SEO Health Score | Label | Action |
+|-----------------|-------|--------|
+| 80-100 | Excellent | Maintenance mode — focus on freshness |
+| 60-79 | Good | Fine-tuning — address specific gaps |
+| 40-59 | Needs Work | Active optimization — follow Priority Matrix |
+| 20-39 | Poor | Foundation building — Tier 1 tasks first |
+| 0-19 | Critical | Emergency — technical/trust issues blocking progress |
+
+### Mapping to CATALYST Score
+
+| CATALYST Score (0-10) | Expected SEO Health Range |
+|----------------------|--------------------------|
+| 9-10 | 85-100 |
+| 7-8 | 65-84 |
+| 5-6 | 40-64 |
+| 3-4 | 20-39 |
+| 0-2 | 0-19 |
+
+**Usage:** Include in audit Section 2 after the CATALYST score if the client or task requests a detailed SEO health benchmark. Otherwise omit to keep the report concise.

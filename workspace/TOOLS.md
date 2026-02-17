@@ -45,33 +45,34 @@ If you need WordPress API access during an interactive session, ask the operator
 
 ---
 
-## Shell Environment — CRITICAL
+## Shell Environment — CRITICAL (Updated 2026-02-16 by Forge)
 
-This system runs on **Windows 11 with PowerShell**. The `exec` tool executes commands in PowerShell, NOT bash.
+The `exec` tool runs in **bash (Git Bash on Windows)**, NOT PowerShell.
 
-**You MUST use PowerShell syntax for all shell commands. Never use bash/CMD syntax.**
+**Use Unix/bash commands. PowerShell cmdlets will fail.**
 
-| Bash/CMD (WRONG) | PowerShell (CORRECT) |
+| PowerShell (WRONG) | Bash (CORRECT) |
 |---|---|
-| `curl -s URL` | `Invoke-RestMethod URL` |
-| `curl -X POST -H "..." -d "..."` | `Invoke-RestMethod -Method Post -Headers @{...} -Body "..." URL` |
-| `cmd1 && cmd2` | `cmd1; cmd2` (or use `-and` for conditional) |
-| `cmd1 \|\| cmd2` | Use `try { cmd1 } catch { cmd2 }` |
-| `dir /b /s *.md` | `Get-ChildItem -Recurse -Filter *.md` |
-| `if not exist dir mkdir dir` | `if (-not (Test-Path dir)) { New-Item -ItemType Directory dir }` |
-| `cat file.txt` | `Get-Content file.txt` |
-| `grep "pattern" file` | `Select-String -Pattern "pattern" file` |
-| `echo "text" > file` | `Set-Content -Path file -Value "text"` |
-| `rm -rf dir` | `Remove-Item -Recurse -Force dir` |
-| `export VAR=value` | `$env:VAR = "value"` |
+| `Get-ChildItem -Recurse` | `find . -type f` or `ls -la` |
+| `Get-Content file.txt` | `cat file.txt` |
+| `Select-String -Pattern "x"` | `grep "x" file.txt` |
+| `Test-Path dir` | `[ -d dir ]` or `ls dir 2>/dev/null` |
+| `New-Item -ItemType Directory` | `mkdir -p dir` |
+| `Remove-Item -Recurse -Force` | `rm -rf dir` |
+| `Invoke-RestMethod URL` | `curl -s URL` |
+| `$env:VAR = 'value'` | `export VAR=value` |
 
 **Key rules:**
-- Use `Invoke-RestMethod` instead of `curl` — PowerShell aliases `curl` to `Invoke-WebRequest` which has different flags
-- Use semicolons `;` to chain commands, not `&&`
-- Use PowerShell path separators: backslash `\` not forward slash `/`
-- Wrap multi-step operations in PowerShell scripts if complex
-- For Python scripts: `python script.py` works fine in PowerShell
-- Variables use `$` prefix: `$result = Get-Content file.txt`
+- Use **forward slashes** in paths: `~/.openclaw/` not `C:\Users\...`
+- Use `&&` to chain commands: `cmd1 && cmd2`
+- Use `||` for fallback: `cmd1 || echo "failed"`
+- Prefer the **`read` tool** for reading files (avoids shell quoting issues)
+- Python works: `python script.py`
+- Node works: `node script.js`
+
+**Path shortcuts:**
+- `~/.openclaw/` → User's OpenClaw directory
+- Use relative paths when possible
 
 ---
 

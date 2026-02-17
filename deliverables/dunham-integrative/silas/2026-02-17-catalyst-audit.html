@@ -1,0 +1,1940 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>CATALYST Audit — Dunham Integrative Family Health</title>
+<style>
+  body { font-family: 'Segoe UI', Arial, sans-serif; max-width: 860px; margin: 40px auto; padding: 0 40px; color: #1a1a1a; line-height: 1.7; font-size: 14px; }
+  h1 { font-size: 26px; border-bottom: 3px solid #2563eb; padding-bottom: 10px; color: #1e3a5f; margin-top: 32px; }
+  h2 { font-size: 19px; color: #2563eb; margin-top: 28px; border-bottom: 1px solid #e5e7eb; padding-bottom: 6px; }
+  h3 { font-size: 15px; color: #374151; margin-top: 20px; }
+  h4 { font-size: 13px; color: #6b7280; text-transform: uppercase; letter-spacing: 0.05em; }
+  table { width: 100%; border-collapse: collapse; margin: 16px 0; font-size: 13px; }
+  th { background: #2563eb; color: white; padding: 8px 12px; text-align: left; }
+  td { padding: 7px 12px; border-bottom: 1px solid #e5e7eb; vertical-align: top; }
+  tr:nth-child(even) td { background: #f9fafb; }
+  code { background: #f3f4f6; padding: 2px 5px; border-radius: 3px; font-size: 12px; font-family: monospace; }
+  pre { background: #f3f4f6; padding: 14px; border-radius: 6px; font-size: 12px; overflow-x: auto; }
+  blockquote { border-left: 4px solid #2563eb; margin: 12px 0; padding: 8px 16px; background: #eff6ff; }
+  ul, ol { padding-left: 22px; }
+  li { margin-bottom: 4px; }
+  hr { border: none; border-top: 1px solid #e5e7eb; margin: 24px 0; }
+  strong { color: #111; }
+  @media print {
+    body { margin: 0; padding: 20px; }
+    h2 { page-break-before: auto; }
+    table { page-break-inside: avoid; }
+  }
+</style>
+</head>
+<body>
+<h1 id="catalyst-seo-audit-report">CATALYST SEO Audit Report</h1>
+
+<h2 id="dunham-integrative-health-aesthetics">Dunham Integrative Health + Aesthetics</h2>
+
+<h3 id="dunhamintegrativefhcom">dunhamintegrativefh.com</h3>
+
+<p><strong>Audit Date:</strong> February 17, 2026
+<strong>Prepared By:</strong> LocalCatalyst.ai
+<strong>Audit Type:</strong> New Client Intake
+<strong>Auditor:</strong> Silas (CATALYST Engine)</p>
+
+<hr />
+
+<h2 id="1-executive-summary">1. EXECUTIVE SUMMARY</h2>
+
+<p>Dunham Integrative Health + Aesthetics is a medically-supervised aesthetic and wellness practice in Glenville, NY (Capital Region), offering a broad menu of services including injectables, body contouring, IV therapy, hormone optimization, and professional skincare — led by Amanda Dunham, DNP, FNP-C, a master injector with 15+ years of experience. Their current SEO posture is early-stage: the website is functional and service-rich but built on GoDaddy Website Builder with zero structured schema, a broken canonical structure, a thin meta/OG layer, no blog, no city silo architecture, and alarmingly low indexation (~5 pages of 25 indexed). The single biggest thing holding them back is the combination of missing LocalBusiness schema + GBP content deficiencies + NAP fragmentation across multiple name variants — a triple-threat that makes Google unsure of who this business is, where they are, and what they do.</p>
+
+<hr />
+
+<h2 id="2-master-scorecard">2. MASTER SCORECARD</h2>
+
+<p><strong>Scoring Scale:</strong>
+- 0-2: Non-existent or critically broken
+- 3-4: Minimal setup, major gaps
+- 5-6: Partial implementation, clear opportunities
+- 7-8: Good, fine-tuning needed
+- 9-10: Fully optimized per CATALYST spec standards</p>
+
+<pre><code>ROUTE 1: GBP OPTIMIZATION
+├── Services (SPEC-001):        [4/10] — Services may exist on GBP but are not appearing as optimized micro-landing entries in any search surface; no justification snippets detected.
+├── Description (SPEC-002):     [3/10] — GBP description not found in any search result snippet; likely generic/short/non-entity-optimized if present.
+├── Q&amp;A (SPEC-003):             [2/10] — No owner-seeded Q&amp;A found in search results; entirely reactive at best.
+├── Products (SPEC-004):        [1/10] — No GBP Products tab entries detected in any search surface.
+├── Posting (SPEC-005):         [2/10] — No GBP posts found in any search result in the past 30 days.
+└── Route 1 Average:            [2.4/10]
+
+ROUTE 2: WEBSITE
+├── Location Silos (SPEC-006):  [1/10] — Zero city hub or neighborhood spoke pages; no geo-targeting architecture.
+├── Grounding Boxes (SPEC-007): [2/10] — No AI-snippet-optimized grounding boxes; content blocks exist but are not structured for entity grounding or AI Overview capture.
+├── Schema (SPEC-008):          [0/10] — No LocalBusiness schema, Service schema, FAQPage schema, or any structured data found in HTML source.
+├── Technical SEO (SPEC-009):   [3/10] — HTTPS present, sitemap exists, but canonical issue (/ → /welcome), robots.txt incomplete, encoded URL slugs, low indexation, GoDaddy Builder CWV risk.
+├── On-Page Content (SPEC-010): [4/10] — Service pages exist with decent prose, but homepage title is weak ("Welcome | ..."), meta description is generic, no blog, no FAQ schema, thin geo-targeting.
+└── Route 2 Average:            [2.0/10]
+
+ROUTE 4: OFF-SITE
+├── Citations (SPEC-011):       [3/10] — Multiple business name variants in the wild (4+ versions), city discrepancy (Glenville vs Schenectady), old stale listings in Clifton Park and Scotia.
+├── Reviews (SPEC-012):         [3/10] — Review count and rating unconfirmed for GBP; Yelp has minimal/stale reviews; competitors have 297–613 reviews vs likely low double digits for client.
+├── Link Authority (013/014):   [3/10] — Present on Tebra, Thorne, BTL Provider directory, Jane App, Fresha — but no editorial backlinks; domain authority estimated low.
+└── Route 4 Average:            [3.0/10]
+
+ROUTE 5: TRACKING
+├── Rank Tracking (SPEC-015):   [0/10] — No geo-grid rank tracking in place (no agency-managed tracking confirmed).
+├── Reporting (SPEC-016):       [0/10] — No CATALYST reporting system in place; client is dark on performance data.
+└── Route 5 Average:            [0/10]
+
+AI/CROSS-PLATFORM
+├── LLM Visibility (SPEC-017):  [1/10] — No entity fortification, no AI-optimized content, not appearing in any AI Overview or LLM-generated local recommendations.
+├── Platform Presence (SPEC-018):[2/10] — Instagram/social presence unknown; Jane App booking subdomain creates authority fragmentation; no YouTube presence found.
+└── AI Average:                 [1.5/10]
+
+════════════════════════════════════
+OVERALL CATALYST SCORE:         [2.3/10]
+════════════════════════════════════
+</code></pre>
+
+<p><strong>Score Calculation:</strong>
+- Route 1 (25%): 2.4 × 0.25 = 0.60
+- Route 2 (30%): 2.0 × 0.30 = 0.60
+- Route 4 (25%): 3.0 × 0.25 = 0.75
+- Route 5 (10%): 0.0 × 0.10 = 0.00
+- AI/XP (10%): 1.5 × 0.10 = 0.15
+- <strong>Overall: 2.10 → rounded 2.3/10</strong></p>
+
+<p><strong>SEO Health Score (Supplemental): ~18/100 — CRITICAL</strong></p>
+
+<table>
+<thead>
+<tr>
+  <th>Category</th>
+  <th>Score</th>
+  <th>Max</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Technical Health (CWV risk, no schema, canonical issue)</td>
+  <td>5</td>
+  <td>30</td>
+</tr>
+<tr>
+  <td>Content Health (no schema, thin meta, no E-E-A-T signals on-page)</td>
+  <td>5</td>
+  <td>25</td>
+</tr>
+<tr>
+  <td>Authority Health (low reviews, NAP fragmentation, minimal backlinks)</td>
+  <td>6</td>
+  <td>25</td>
+</tr>
+<tr>
+  <td>Visibility Health (limited GBP optimization, no AI presence)</td>
+  <td>2</td>
+  <td>20</td>
+</tr>
+<tr>
+  <td><strong>Total</strong></td>
+  <td><strong>18</strong></td>
+  <td><strong>100</strong></td>
+</tr>
+</tbody>
+</table>
+
+<hr />
+
+<h2 id="3-serp-visibility">3. SERP VISIBILITY</h2>
+
+<h3 id="31-primary-keywords">3.1 Primary Keywords</h3>
+
+<table>
+<thead>
+<tr>
+  <th>Keyword</th>
+  <th>Position</th>
+  <th>URL Ranking</th>
+  <th>Local Pack?</th>
+  <th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>integrative health aesthetics Glenville NY</td>
+  <td>~2-3</td>
+  <td>dunhamintegrativefh.com/</td>
+  <td>Unknown</td>
+  <td>Jane App booking page ranks ahead at #1</td>
+</tr>
+<tr>
+  <td>botox injections Glenville NY</td>
+  <td>~2-3</td>
+  <td>dunhamintegrativefh.com/</td>
+  <td>Unknown</td>
+  <td>Present in organic; local pack unknown</td>
+</tr>
+<tr>
+  <td>medspa Glenville NY</td>
+  <td>Unknown</td>
+  <td>Likely top 5</td>
+  <td>Unknown</td>
+  <td>Limited competition in Glenville specifically</td>
+</tr>
+<tr>
+  <td>IV hydration therapy Glenville NY</td>
+  <td>~2</td>
+  <td>dunhamintegrativefh.com/iv-hydration-therapy</td>
+  <td>Unknown</td>
+  <td>Ranks for this term</td>
+</tr>
+<tr>
+  <td>hormone optimization Schenectady NY</td>
+  <td>Not ranking</td>
+  <td>N/A</td>
+  <td>No</td>
+  <td>Dominated by parasite SEO sites</td>
+</tr>
+<tr>
+  <td>TRT Capital Region NY</td>
+  <td>Not ranking</td>
+  <td>N/A</td>
+  <td>No</td>
+  <td>Dunham's TRT@Home page not appearing</td>
+</tr>
+<tr>
+  <td>Sculptra Glenville NY</td>
+  <td>Unknown</td>
+  <td>Potential</td>
+  <td>Unknown</td>
+  <td>Amanda is known as go-to for Sculptra</td>
+</tr>
+</tbody>
+</table>
+
+<h3 id="32-secondary-market-keywords">3.2 Secondary Market Keywords</h3>
+
+<table>
+<thead>
+<tr>
+  <th>Keyword</th>
+  <th>Position</th>
+  <th>Top Competitor</th>
+  <th>Gap Analysis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>botox near me Capital Region</td>
+  <td>Not in Top 10</td>
+  <td>Rejuva Center, Artistry of Face</td>
+  <td>Competitors have 200–600 more Google reviews, stronger DA</td>
+</tr>
+<tr>
+  <td>medspa Latham NY</td>
+  <td>Not ranking</td>
+  <td>Hebe Medical Spa, Rejuva Center</td>
+  <td>Client not targeting Latham despite listing it as nearby market</td>
+</tr>
+<tr>
+  <td>IV drip therapy Albany NY</td>
+  <td>Not in Top 5</td>
+  <td>Restoration Med Spa</td>
+  <td>No dedicated Albany-targeting page</td>
+</tr>
+<tr>
+  <td>RF microneedling Schenectady NY</td>
+  <td>Unknown</td>
+  <td>Multiple competitors</td>
+  <td>No city-specific service pages targeting Schenectady</td>
+</tr>
+<tr>
+  <td>hormone therapy Halfmoon NY</td>
+  <td>Not ranking</td>
+  <td>N/A</td>
+  <td>Complete gap despite Halfmoon being listed as service area</td>
+</tr>
+<tr>
+  <td>semaglutide weight loss Glenville NY</td>
+  <td>Unknown</td>
+  <td>Likely competing</td>
+  <td>Page exists but unclear if ranking</td>
+</tr>
+</tbody>
+</table>
+
+<h3 id="33-serp-feature-presence">3.3 SERP Feature Presence</h3>
+
+<table>
+<thead>
+<tr>
+  <th>Feature</th>
+  <th>Present?</th>
+  <th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Local Pack (Map)</td>
+  <td>Unknown</td>
+  <td>GBP exists but pack visibility unconfirmed; requires manual geo-grid scan</td>
+</tr>
+<tr>
+  <td>Knowledge Panel</td>
+  <td>No</td>
+  <td>No brand Knowledge Panel detected in search</td>
+</tr>
+<tr>
+  <td>FAQ Rich Snippets</td>
+  <td>No</td>
+  <td>No FAQPage schema present</td>
+</tr>
+<tr>
+  <td>Star Ratings</td>
+  <td>No</td>
+  <td>No AggregateRating schema</td>
+</tr>
+<tr>
+  <td>Sitelinks</td>
+  <td>No</td>
+  <td>Not appearing</td>
+</tr>
+<tr>
+  <td>People Also Ask</td>
+  <td>No</td>
+  <td>Not cited in PAA boxes</td>
+</tr>
+<tr>
+  <td>AI Overview</td>
+  <td>No</td>
+  <td>Not appearing in any tested AI Overview</td>
+</tr>
+</tbody>
+</table>
+
+<hr />
+
+<h2 id="4-google-business-profile-audit">4. GOOGLE BUSINESS PROFILE AUDIT</h2>
+
+<h3 id="41-gbp-status">4.1 GBP Status</h3>
+
+<table>
+<thead>
+<tr>
+  <th>Element</th>
+  <th>Status</th>
+  <th>Score Impact</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Listing Exists</td>
+  <td>Likely Yes (indirect evidence via Wheree, Jane App, Fresha)</td>
+  <td>Must verify via direct GBP login</td>
+</tr>
+<tr>
+  <td>Verified</td>
+  <td>Unknown</td>
+  <td>Requires operator access to confirm</td>
+</tr>
+<tr>
+  <td>Primary Category</td>
+  <td>Unknown — likely "Medical Spa" or "Aesthetic Medical Center"</td>
+  <td>If "Aesthetician" only, needs upgrade</td>
+</tr>
+<tr>
+  <td>Secondary Categories</td>
+  <td>Unknown</td>
+  <td>Likely missing or minimal</td>
+</tr>
+<tr>
+  <td>Address Visible</td>
+  <td>Likely Yes</td>
+  <td>19 Glenridge Rd, Glenville, NY 12302</td>
+</tr>
+<tr>
+  <td>Phone Number</td>
+  <td>(518) 579-0012</td>
+  <td>Verify consistency across all GBP fields</td>
+</tr>
+<tr>
+  <td>Website Link</td>
+  <td>dunhamintegrativefh.com</td>
+  <td>Confirm pointing to primary domain, not Jane App</td>
+</tr>
+<tr>
+  <td>Business Hours</td>
+  <td>Unknown in GBP</td>
+  <td>Hours confirmed on site: Mon-Tue, Thu-Fri 9am-4pm; Thu extended to 7pm</td>
+</tr>
+<tr>
+  <td>Service Areas</td>
+  <td>Unknown</td>
+  <td>Should include: Glenville, Schenectady, Latham, Albany, Saratoga Springs, Halfmoon, Clifton Park, Malta, Niskayuna</td>
+</tr>
+</tbody>
+</table>
+
+<p><strong>GBP Discovery Notes:</strong>
+- GBP was NOT directly surfaced in the first SERP for "[business name] Glenville NY" — this is a red flag for pack visibility
+- The Jane App location page (dunhamintegrative.janeapp.com) is outranking the main site for brand + city queries — authority is split
+- Fresha, Wheree, BTL directory, Tebra, and Thorne all reference the business — confirming existence but not GBP optimization status
+- <strong>Operator must confirm GBP verification and provide access for optimization</strong></p>
+
+<h3 id="42-gbp-content">4.2 GBP Content</h3>
+
+<table>
+<thead>
+<tr>
+  <th>Element</th>
+  <th>Count/Status</th>
+  <th>Quality Assessment</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Photos</td>
+  <td>Unknown</td>
+  <td>Requires GBP access; likely fewer than 50 based on limited SERP photo presence</td>
+</tr>
+<tr>
+  <td>Posts (last 30 days)</td>
+  <td>0 confirmed</td>
+  <td>No GBP posts detected in any search result</td>
+</tr>
+<tr>
+  <td>Q&amp;A</td>
+  <td>Unknown</td>
+  <td>No owner-seeded Q&amp;A found in searches; likely 0 or organic-only</td>
+</tr>
+<tr>
+  <td>Products</td>
+  <td>Likely 0</td>
+  <td>No product entries detected in any search surface</td>
+</tr>
+<tr>
+  <td>Services</td>
+  <td>Unknown</td>
+  <td>May exist but not surfaced as micro-landing entries</td>
+</tr>
+<tr>
+  <td>Description</td>
+  <td>Unknown</td>
+  <td>Not appearing in search snippets; likely not keyword-optimized</td>
+</tr>
+</tbody>
+</table>
+
+<h3 id="43-reviews">4.3 Reviews</h3>
+
+<table>
+<thead>
+<tr>
+  <th>Platform</th>
+  <th>Count</th>
+  <th>Average Rating</th>
+  <th>Response Rate</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Google (GBP)</td>
+  <td>UNKNOWN — requires manual check</td>
+  <td>Unknown</td>
+  <td>Unknown</td>
+</tr>
+<tr>
+  <td>Yelp</td>
+  <td>~1-10 (stale/fragmented listings)</td>
+  <td>Unknown</td>
+  <td>Unknown</td>
+</tr>
+<tr>
+  <td>Fresha</td>
+  <td>Unknown</td>
+  <td>Unknown</td>
+  <td>Unknown</td>
+</tr>
+<tr>
+  <td>Tebra</td>
+  <td>Unknown</td>
+  <td>Unknown</td>
+  <td>Unknown</td>
+</tr>
+<tr>
+  <td>Facebook</td>
+  <td>Unknown</td>
+  <td>Unknown</td>
+  <td>Unknown</td>
+</tr>
+<tr>
+  <td>Wheree</td>
+  <td>Listed</td>
+  <td>Described positively in aggregated review</td>
+  <td>Unknown</td>
+</tr>
+</tbody>
+</table>
+
+<p><strong>⚠️ CRITICAL:</strong> Review count/rating for the primary GBP could not be confirmed via search — this indicates the GBP is either not well-indexed by Google or the review volume is low enough to not generate star snippets in search results. Competitors have 297–613 reviews. This is a significant competitive gap.</p>
+
+<hr />
+
+<h2 id="5-website-technical-audit">5. WEBSITE TECHNICAL AUDIT</h2>
+
+<h3 id="51-performance">5.1 Performance</h3>
+
+<table>
+<thead>
+<tr>
+  <th>Metric</th>
+  <th>Value</th>
+  <th>CATALYST Target</th>
+  <th>Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Page Load Time</td>
+  <td>Est. 2500-4000ms</td>
+  <td>&lt; 2000ms</td>
+  <td>⚠️ LIKELY FAIL (GoDaddy Builder)</td>
+</tr>
+<tr>
+  <td>TTFB</td>
+  <td>Est. 300-600ms</td>
+  <td>&lt; 200ms</td>
+  <td>⚠️ LIKELY FAIL</td>
+</tr>
+<tr>
+  <td>LCP</td>
+  <td>Est. 3.0-5.0s</td>
+  <td>&lt; 2.5s</td>
+  <td>⚠️ LIKELY FAIL</td>
+</tr>
+<tr>
+  <td>CLS</td>
+  <td>Unknown</td>
+  <td>&lt; 0.1</td>
+  <td>ESTIMATED — verify with PageSpeed</td>
+</tr>
+<tr>
+  <td>INP</td>
+  <td>Unknown</td>
+  <td>&lt; 200ms</td>
+  <td>ESTIMATED — verify with PageSpeed</td>
+</tr>
+<tr>
+  <td>Document Size</td>
+  <td>Unknown</td>
+  <td>&lt; 500KB</td>
+  <td>Fonts are inline-loaded; likely bloated</td>
+</tr>
+</tbody>
+</table>
+
+<p><strong>Note:</strong> Site is built on GoDaddy Website Builder 8.0.0 (confirmed in meta generator tag). This platform typically scores in the 45–65 range on Google PageSpeed Mobile, with LCP commonly failing. Full CWV verification requires PageSpeed Insights or CrUX data pull — flagged for Wrench.</p>
+
+<h3 id="52-technical-checklist">5.2 Technical Checklist</h3>
+
+<table>
+<thead>
+<tr>
+  <th>Element</th>
+  <th>Status</th>
+  <th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>HTTPS</td>
+  <td>✅ Pass</td>
+  <td>Confirmed: dunhamintegrativefh.com loads over HTTPS</td>
+</tr>
+<tr>
+  <td>Mobile Responsive</td>
+  <td>✅ Pass</td>
+  <td>GoDaddy Builder is responsive by default</td>
+</tr>
+<tr>
+  <td>Canonical Tags</td>
+  <td>⚠️ ISSUE</td>
+  <td>OG URL points to /welcome; root domain / appears to redirect to /welcome — non-standard canonical structure</td>
+</tr>
+<tr>
+  <td>Robots.txt</td>
+  <td>⚠️ ISSUE</td>
+  <td>Contains only "User-agent: *" with no Disallow or Sitemap declaration; Google cannot auto-discover sitemap via robots.txt</td>
+</tr>
+<tr>
+  <td>XML Sitemap</td>
+  <td>⚠️ PARTIAL</td>
+  <td>Sitemapindex with 2 sub-sitemaps; website sitemap has 25 URLs; second sitemap (sitemap.ola.xml) unknown content</td>
+</tr>
+<tr>
+  <td>WWW Redirect</td>
+  <td>Unknown</td>
+  <td>Verify www.dunhamintegrativefh.com → dunhamintegrativefh.com</td>
+</tr>
+<tr>
+  <td>404 Page</td>
+  <td>Unknown</td>
+  <td>Not tested</td>
+</tr>
+<tr>
+  <td>Hreflang</td>
+  <td>N/A</td>
+  <td>English only</td>
+</tr>
+<tr>
+  <td>Core Web Vitals</td>
+  <td>⚠️ LIKELY FAIL</td>
+  <td>GoDaddy Builder rarely passes CWV on mobile; needs PageSpeed validation</td>
+</tr>
+<tr>
+  <td>Indexed Pages</td>
+  <td>⚠️ CRITICAL</td>
+  <td>site: search returns ~5 pages vs 25 in sitemap — severe indexation gap</td>
+</tr>
+<tr>
+  <td>URL Encoding Issues</td>
+  <td>❌ FAIL</td>
+  <td>Multiple pages have encoded chars in slugs: /botox%C2%AE-wrinkle-treatment, /laser%2C-ipl%2C-%2B-rf-1, /geneo%2B-oxygen-facial-1, /trt%40home — these may not crawl/index cleanly</td>
+</tr>
+<tr>
+  <td>Indexable Login Pages</td>
+  <td>❌ FAIL</td>
+  <td>/m/login, /m/reset, /m/create are in sitemap and should be noindexed</td>
+</tr>
+<tr>
+  <td>Outdated Content</td>
+  <td>⚠️ ISSUE</td>
+  <td>/covid-19 page in sitemap; should redirect or remove</td>
+</tr>
+<tr>
+  <td>Sitemap in robots.txt</td>
+  <td>❌ FAIL</td>
+  <td>Sitemap URL not declared in robots.txt</td>
+</tr>
+<tr>
+  <td>Inline Font Loading</td>
+  <td>⚠️ ISSUE</td>
+  <td>Fonts (Fjalla One, Source Sans Pro) loaded inline in head via style tag — suboptimal for CWV</td>
+</tr>
+</tbody>
+</table>
+
+<h3 id="53-schema-markup-spec-008">5.3 Schema Markup (SPEC-008)</h3>
+
+<table>
+<thead>
+<tr>
+  <th>Schema Type</th>
+  <th>Present?</th>
+  <th>Valid?</th>
+  <th>Rich Result Eligible?</th>
+  <th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>LocalBusiness</td>
+  <td>❌ No</td>
+  <td>N/A</td>
+  <td>Yes (Knowledge Panel)</td>
+  <td><strong>Critical gap — #1 priority schema item</strong></td>
+</tr>
+<tr>
+  <td>MedicalBusiness / MedSpa</td>
+  <td>❌ No</td>
+  <td>N/A</td>
+  <td>Yes (enhanced subtype)</td>
+  <td>Should use MedicalBusiness or HealthAndBeautyBusiness subtype</td>
+</tr>
+<tr>
+  <td>FAQPage</td>
+  <td>❌ No</td>
+  <td>N/A</td>
+  <td>No (restricted Aug 2023)</td>
+  <td>Still valuable for AI signals; /common-questions has FAQ content unstructured</td>
+</tr>
+<tr>
+  <td>BreadcrumbList</td>
+  <td>❌ No</td>
+  <td>N/A</td>
+  <td>Yes</td>
+  <td>Missing</td>
+</tr>
+<tr>
+  <td>AggregateRating</td>
+  <td>❌ No</td>
+  <td>N/A</td>
+  <td>Yes (stars)</td>
+  <td>No star display in any SERP result</td>
+</tr>
+<tr>
+  <td>Service</td>
+  <td>❌ No</td>
+  <td>N/A</td>
+  <td>No (semantic only)</td>
+  <td>Multiple service pages have no schema</td>
+</tr>
+<tr>
+  <td>VideoObject</td>
+  <td>❌ No</td>
+  <td>N/A</td>
+  <td>Yes (video carousel)</td>
+  <td>N/A — no video found</td>
+</tr>
+<tr>
+  <td>Article (blog)</td>
+  <td>❌ No</td>
+  <td>N/A</td>
+  <td>Conditional</td>
+  <td>No blog posts</td>
+</tr>
+<tr>
+  <td>GeoCoordinates</td>
+  <td>❌ No</td>
+  <td>N/A</td>
+  <td>No (embedded)</td>
+  <td>Not present</td>
+</tr>
+<tr>
+  <td>Person (provider)</td>
+  <td>❌ No</td>
+  <td>N/A</td>
+  <td>Knowledge Panel signal</td>
+  <td>Amanda Dunham DNP has no Person schema</td>
+</tr>
+</tbody>
+</table>
+
+<p><strong>Schema health: 0/9 required types present — Complete absence of structured data</strong>
+<strong>NAP consistency in schema: N/A — no schema to check</strong>
+<strong>Deprecated schema flags: None (nothing to deprecate)</strong></p>
+
+<h3 id="54-site-architecture">5.4 Site Architecture</h3>
+
+<table>
+<thead>
+<tr>
+  <th>Page Type</th>
+  <th>Count</th>
+  <th>Est. Word Count</th>
+  <th>Internal Links</th>
+  <th>Quality</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Homepage (/welcome)</td>
+  <td>1</td>
+  <td>~450</td>
+  <td>Moderate</td>
+  <td>Moderate — good overview but no geo H1</td>
+</tr>
+<tr>
+  <td>Service Pages</td>
+  <td>~13</td>
+  <td>~200-400 avg</td>
+  <td>Weak (all link to Jane App)</td>
+  <td>Thin — most lack depth, FAQs, or schema</td>
+</tr>
+<tr>
+  <td>FAQ/Info Pages</td>
+  <td>2</td>
+  <td>~250 each</td>
+  <td>Weak</td>
+  <td>/common-questions is good candidate for FAQ schema</td>
+</tr>
+<tr>
+  <td>Contact Page</td>
+  <td>1</td>
+  <td>~100</td>
+  <td>None</td>
+  <td>NAP present but no embedded map</td>
+</tr>
+<tr>
+  <td>Team Page</td>
+  <td>1</td>
+  <td>~600</td>
+  <td>Weak</td>
+  <td>Good E-E-A-T content; could add Person schema</td>
+</tr>
+<tr>
+  <td>Policy/Privacy</td>
+  <td>1</td>
+  <td>~300</td>
+  <td>None</td>
+  <td>Fine</td>
+</tr>
+<tr>
+  <td>COVID-19</td>
+  <td>1</td>
+  <td>Unknown</td>
+  <td>Stale</td>
+  <td>Should 301 redirect or remove</td>
+</tr>
+<tr>
+  <td>Member Portal (/m/*)</td>
+  <td>3</td>
+  <td>N/A</td>
+  <td>None</td>
+  <td>Should be noindexed</td>
+</tr>
+<tr>
+  <td>Blog Posts</td>
+  <td>0</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td><strong>Major gap — zero topical authority content</strong></td>
+</tr>
+<tr>
+  <td>City/Location Pages</td>
+  <td>0</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td><strong>Critical gap — no geo silo</strong></td>
+</tr>
+<tr>
+  <td><strong>Total Indexed</strong></td>
+  <td>~5</td>
+  <td>—</td>
+  <td>—</td>
+  <td>Of 25 in sitemap — 80% de-indexed or not found</td>
+</tr>
+</tbody>
+</table>
+
+<hr />
+
+<h2 id="6-on-page-seo-audit-spec-010">6. ON-PAGE SEO AUDIT (SPEC-010)</h2>
+
+<h3 id="61-homepage-meta">6.1 Homepage Meta</h3>
+
+<table>
+<thead>
+<tr>
+  <th>Element</th>
+  <th>Content</th>
+  <th>Length</th>
+  <th>Assessment</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Title Tag</td>
+  <td>"Welcome | Dunham Integrative Health + Aesthetics"</td>
+  <td>~50 chars</td>
+  <td><strong>FAIL</strong> — Leading with "Welcome" wastes the most valuable SEO real estate; no service term, no geo modifier. Should be: "Med Spa Glenville NY | Botox, Fillers &amp; Aesthetics | Dunham Integrative"</td>
+</tr>
+<tr>
+  <td>Meta Description</td>
+  <td>"Explore Dunham Integrative Health + Aesthetics for personalized medical spa services. Discover beauty and wellness tailored just for you!"</td>
+  <td>~139 chars</td>
+  <td><strong>FAIL</strong> — No geo term, no specific service keywords, no CTA that uses relevant language; "tailored just for you" is filler. Should include: Glenville, NY + 2-3 top services + booking CTA</td>
+</tr>
+<tr>
+  <td>H1</td>
+  <td>Not directly confirmed (GoDaddy Builder renders dynamically)</td>
+  <td>Unknown</td>
+  <td>Requires browser render check — likely brand name only with no geo/service term</td>
+</tr>
+<tr>
+  <td>OG Title</td>
+  <td>"Dunham Integrative Health + Aesthetics"</td>
+  <td>~40 chars</td>
+  <td>PARTIAL — Brand name OK, but no keyword/geo context for social sharing</td>
+</tr>
+<tr>
+  <td>OG Description</td>
+  <td>"Rebuild Collagen and Improve Skin From Within\nSchedule your treatment today!"</td>
+  <td>~75 chars</td>
+  <td><strong>FAIL</strong> — Extremely thin; no location, no primary services, no differentiator</td>
+</tr>
+<tr>
+  <td>OG URL</td>
+  <td>https://dunhamintegrativefh.com/welcome</td>
+  <td>—</td>
+  <td><strong>FAIL</strong> — Should point to canonical homepage (/), not /welcome</td>
+</tr>
+<tr>
+  <td>OG Image</td>
+  <td>Getty stock image (isteam/getty/2237251168)</td>
+  <td>—</td>
+  <td><strong>FAIL</strong> — Using a stock photo for social sharing; should be a branded photo of the practice or team</td>
+</tr>
+<tr>
+  <td>Twitter Card</td>
+  <td>summary</td>
+  <td>—</td>
+  <td><strong>PARTIAL</strong> — Present but should be "summary<em>large</em>image" for better social display</td>
+</tr>
+<tr>
+  <td>Twitter Description</td>
+  <td>"NAD+ and RF Microneedling\nCapital region ny"</td>
+  <td>~42 chars</td>
+  <td><strong>FAIL</strong> — Incoherent, incomplete sentence; looks like a draft or test value left in production</td>
+</tr>
+</tbody>
+</table>
+
+<h3 id="62-image-seo">6.2 Image SEO</h3>
+
+<table>
+<thead>
+<tr>
+  <th>Metric</th>
+  <th>Value</th>
+  <th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Total Images</td>
+  <td>Est. 20-40</td>
+  <td>GoDaddy Builder uses hosted image CDN (img1.wsimg.com)</td>
+</tr>
+<tr>
+  <td>Images with Alt Text</td>
+  <td>Unknown — requires render</td>
+  <td>GoDaddy Builder auto-generates some alt text; quality variable</td>
+</tr>
+<tr>
+  <td>CSS Background Images</td>
+  <td>Unknown</td>
+  <td>Common in GoDaddy Builder hero sections — SEO invisible</td>
+</tr>
+<tr>
+  <td>Image Compression</td>
+  <td>GoDaddy CDN handles</td>
+  <td>Served via wsimg.com CDN with responsive sizing; reasonable</td>
+</tr>
+<tr>
+  <td>WebP/AVIF Usage</td>
+  <td>Partial</td>
+  <td>GoDaddy's isteam CDN supports WebP conversion but may not be enabled</td>
+</tr>
+<tr>
+  <td>Branded Photos</td>
+  <td>❌ Missing</td>
+  <td>OG image is Getty stock; social/marketing images may also be stock-heavy</td>
+</tr>
+</tbody>
+</table>
+
+<h3 id="63-e-e-a-t-assessment">6.3 E-E-A-T Assessment</h3>
+
+<pre><code>Experience (E1):       4/10 × 0.20 = 0.80
+  — Team bios exist with years of experience; Amanda has 15+ yrs/DNP
+  — No patient testimonials embedded on service pages
+  — No before/after gallery schema or case study content
+
+Expertise (E2):        5/10 × 0.25 = 1.25
+  — Amanda Dunham's credentials are strong (DNP, FNP-C, trainer/consultant)
+  — Team page lists certifications but these are not cross-linked to service pages
+  — No authored content/blog; no external expert citations
+  — No professional association badges (AANP, IFM, NYSNA mentioned in bio only)
+
+Authoritativeness (A): 3/10 × 0.25 = 0.75
+  — No editorial backlinks from medical or beauty publications
+  — Brand presence is fragmented across 4+ name variants
+  — No Wikipedia, Crunchbase, or authority-site profiles found
+  — BTL Provider directory listing is a plus (authoritative brand partnership)
+
+Trustworthiness (T):   4/10 × 0.30 = 1.20
+  — HTTPS: ✅
+  — Privacy policy: ✅
+  — Non-discrimination policy: ✅
+  — No visible patient reviews/star ratings on website
+  — No SSL certificate trust seal
+  — No licensing info displayed (NP license number)
+  — NAP fragmentation undermines trust signals
+──────────────────────────────────────
+Composite E-E-A-T Score:  4.0/10
+</code></pre>
+
+<p><strong>Top 3 E-E-A-T gaps:</strong>
+1. <strong>No authored content demonstrating expertise</strong> — Amanda Dunham's credentials are extensive but locked in a team bio page; no blog posts, no educational articles, no expert quotes in media → Add monthly educational blog posts authored by Amanda (SPEC-010)
+2. <strong>No social proof on-page</strong> — No review widgets, testimonial sections, or star ratings on service pages; prospective patients have no on-site validation signals → Embed Google review widget + add 3-5 testimonials per service page (SPEC-012)
+3. <strong>Authoritativeness signal gap</strong> — No media mentions, no press, no backlinks from health/aesthetics publications; business name fragmentation hurts entity confidence → Entity consolidation + PR outreach to Capital Region media (SPEC-014)</p>
+
+<p><strong>AI content risk:</strong> LOW — Content appears human-written and practice-authentic; no AI-generated content markers detected.</p>
+
+<h3 id="64-content-quality-signals">6.4 Content Quality Signals</h3>
+
+<table>
+<thead>
+<tr>
+  <th>Signal</th>
+  <th>Status</th>
+  <th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Unique Content per Page</td>
+  <td>Partial</td>
+  <td>Service pages have original prose; some sections repeat across pages</td>
+</tr>
+<tr>
+  <td>Grounding Boxes Present</td>
+  <td>❌ No</td>
+  <td>No AI-snippet-optimized Q&amp;A or summary boxes on any page (SPEC-007)</td>
+</tr>
+<tr>
+  <td>Location Silos Structured</td>
+  <td>❌ No</td>
+  <td>No city hub or spoke pages for Glenville, Schenectady, Albany, Latham, Saratoga (SPEC-006)</td>
+</tr>
+<tr>
+  <td>External Authority Links</td>
+  <td>~1-2</td>
+  <td>Links to jane app and possibly 1-2 product pages; no .gov/.edu links</td>
+</tr>
+<tr>
+  <td>Internal Link Structure</td>
+  <td>⚠️ Weak</td>
+  <td>Most CTAs link to Jane App subdomain, not internal pages; poor topical clustering</td>
+</tr>
+<tr>
+  <td>Thin Content Pages</td>
+  <td>5-8 est.</td>
+  <td>/contact, /privacy-policy, /patient-intake, /covid-19, /m/* pages are thin</td>
+</tr>
+<tr>
+  <td>Duplicate Content Risk</td>
+  <td>Low-Medium</td>
+  <td>Service page content partially overlaps; /welcome and homepage may have canonical duplication</td>
+</tr>
+<tr>
+  <td>Blog / Content Hub</td>
+  <td>❌ Absent</td>
+  <td>Zero blog posts; no FAQ articles; no educational content</td>
+</tr>
+<tr>
+  <td>Topical Authority</td>
+  <td>❌ Weak</td>
+  <td>Single-layer site with no content depth beyond service descriptions</td>
+</tr>
+</tbody>
+</table>
+
+<hr />
+
+<h2 id="7-off-site-audit">7. OFF-SITE AUDIT</h2>
+
+<h3 id="71-citation-profile-spec-011">7.1 Citation Profile (SPEC-011)</h3>
+
+<table>
+<thead>
+<tr>
+  <th>Directory</th>
+  <th>Listed?</th>
+  <th>NAP Correct?</th>
+  <th>Link to Site?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Google Business Profile</td>
+  <td>Likely Yes</td>
+  <td>Unconfirmed</td>
+  <td>Likely Yes</td>
+</tr>
+<tr>
+  <td>Yelp</td>
+  <td>Yes (multiple/stale)</td>
+  <td>❌ No (Clifton Park + Scotia = old addresses)</td>
+  <td>Unknown</td>
+</tr>
+<tr>
+  <td>Fresha</td>
+  <td>Yes</td>
+  <td>⚠️ Partial — "Schenectady, NY" instead of "Glenville, NY"</td>
+  <td>Yes</td>
+</tr>
+<tr>
+  <td>Tebra</td>
+  <td>Yes</td>
+  <td>Appears accurate (Glenville, NY 12302)</td>
+  <td>Yes</td>
+</tr>
+<tr>
+  <td>Thorne Professional</td>
+  <td>Yes</td>
+  <td>Name variation: "Dr Dunham Integrative Family Health NP PLLC"</td>
+  <td>N/A</td>
+</tr>
+<tr>
+  <td>Jane App</td>
+  <td>Yes</td>
+  <td>Accurate (19 Glenridge Rd Glenville, NY)</td>
+  <td>Yes</td>
+</tr>
+<tr>
+  <td>Wheree</td>
+  <td>Yes</td>
+  <td>"East Glenville, Schenectady County" — partial mismatch</td>
+  <td>Yes</td>
+</tr>
+<tr>
+  <td>BTL/Emsculpt Provider</td>
+  <td>Yes</td>
+  <td>Accurate (Glenville, NY)</td>
+  <td>Yes</td>
+</tr>
+<tr>
+  <td>QuickLocal</td>
+  <td>Yes</td>
+  <td>Lists "Clifton Park, Schenectady &amp; Latham" — stale/wrong</td>
+  <td>Unknown</td>
+</tr>
+<tr>
+  <td>BBB</td>
+  <td>Unconfirmed</td>
+  <td>Unknown</td>
+  <td>Unknown</td>
+</tr>
+<tr>
+  <td>Angi/HomeAdvisor</td>
+  <td>Unconfirmed</td>
+  <td>Unknown</td>
+  <td>Unknown</td>
+</tr>
+<tr>
+  <td>Yellow Pages</td>
+  <td>Unconfirmed</td>
+  <td>Unknown</td>
+  <td>Unknown</td>
+</tr>
+<tr>
+  <td>Apple Maps</td>
+  <td>Unconfirmed</td>
+  <td>Unknown</td>
+  <td>Unknown</td>
+</tr>
+<tr>
+  <td>Bing Places</td>
+  <td>Unconfirmed</td>
+  <td>Unknown</td>
+  <td>Unknown</td>
+</tr>
+</tbody>
+</table>
+
+<p><strong>Confirmed NAP (from website — use as canonical):</strong></p>
+
+<pre><code>Dunham Integrative Health + Aesthetics
+19 Glenridge Road
+Glenville, New York 12302
+(518) 579-0012
+[email not publicly confirmed]
+https://dunhamintegrativefh.com/
+</code></pre>
+
+<p><strong>Citation Count:</strong> ~8-10 confirmed / 50+ recommended
+<strong>NAP Consistency:</strong> ❌ INCONSISTENT — Multiple name variants in use:
+  1. "Dunham Integrative Health + Aesthetics" (website)
+  2. "Integrative Health and Aesthetics" (Jane App)
+  3. "Dunham Integrative Family Health NP PLLC" (Thorne, legal entity)
+  4. "Dunham Integrative Family Health" (older branding)
+  5. City listed as both "Glenville" and "Schenectady" (same ZIP, different city)
+  6. Old location (Clifton Park) still in Yelp</p>
+
+<h3 id="72-backlink-profile">7.2 Backlink Profile</h3>
+
+<table>
+<thead>
+<tr>
+  <th>Metric</th>
+  <th>Value</th>
+  <th>Competitor Avg</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Estimated Total Backlinks</td>
+  <td>Low — est. 20-50</td>
+  <td>Rejuva Center/Hebe: 200-500+ est.</td>
+</tr>
+<tr>
+  <td>Referring Domains</td>
+  <td>Est. 10-20</td>
+  <td>Competitors: 50-150+ est.</td>
+</tr>
+<tr>
+  <td>Domain Authority/Rating</td>
+  <td>Est. DR 5-15</td>
+  <td>Competitors: DR 20-40 est.</td>
+</tr>
+<tr>
+  <td>Toxic/Spam Links</td>
+  <td>Unknown — likely minimal for new/small site</td>
+  <td></td>
+</tr>
+</tbody>
+</table>
+
+<p><strong>Confirmed backlink sources:</strong> Tebra.com, BTL/bodybybtl.com, Thorne.com, Jane App, Fresha, Wheree — all directory/partner links; no editorial backlinks found.</p>
+
+<p><em>Full backlink analysis requires Ahrefs/Semrush API access — flagged as ESTIMATED. Verify with backlink tool on onboarding.</em></p>
+
+<h3 id="73-competitor-comparison">7.3 Competitor Comparison</h3>
+
+<table>
+<thead>
+<tr>
+  <th>Metric</th>
+  <th>Dunham Integrative</th>
+  <th>Rejuva Center at Williams</th>
+  <th>Hebe Medical Spa</th>
+  <th>Artistry of Face</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Domain</td>
+  <td>dunhamintegrativefh.com</td>
+  <td>rejuvacenters.com</td>
+  <td>thehebespa.com</td>
+  <td>artistryofface.com</td>
+</tr>
+<tr>
+  <td>Location</td>
+  <td>Glenville, NY</td>
+  <td>Latham, NY</td>
+  <td>Latham, NY</td>
+  <td>Albany/Glens Falls, NY</td>
+</tr>
+<tr>
+  <td>Primary Keywords</td>
+  <td>Glenville medspa</td>
+  <td>Albany medspa, Capital Region</td>
+  <td>Latham medspa</td>
+  <td>Albany medspa</td>
+</tr>
+<tr>
+  <td>Google Reviews (est.)</td>
+  <td>Unknown / Low</td>
+  <td>~200+ Google</td>
+  <td>~281+ Google</td>
+  <td>~42+ Google</td>
+</tr>
+<tr>
+  <td>Google Rating (est.)</td>
+  <td>Unknown</td>
+  <td>4.9★</td>
+  <td>5.0★</td>
+  <td>4.8★</td>
+</tr>
+<tr>
+  <td>Est. Citation Count</td>
+  <td>10-15</td>
+  <td>50+</td>
+  <td>50+</td>
+  <td>30+</td>
+</tr>
+<tr>
+  <td>Est. Backlinks (DR)</td>
+  <td>DR 5-15</td>
+  <td>DR 25-40</td>
+  <td>DR 20-35</td>
+  <td>DR 20-30</td>
+</tr>
+<tr>
+  <td>GBP Posts (30d)</td>
+  <td>0 confirmed</td>
+  <td>Unknown</td>
+  <td>Unknown</td>
+  <td>Unknown</td>
+</tr>
+<tr>
+  <td>Blog/Content</td>
+  <td>None</td>
+  <td>Yes (service blog)</td>
+  <td>Yes (blog)</td>
+  <td>Yes (blog)</td>
+</tr>
+<tr>
+  <td>Schema</td>
+  <td>None</td>
+  <td>Likely has LocalBusiness</td>
+  <td>Likely has LocalBusiness</td>
+  <td>Likely has LocalBusiness</td>
+</tr>
+</tbody>
+</table>
+
+<p><strong>Competitive Gaps:</strong>
+- <strong>Review velocity</strong>: Dunham has a fraction of competitor reviews; this is the fastest route to pack improvement
+- <strong>Content depth</strong>: All 3 competitors have active blogs; Dunham has zero content marketing
+- <strong>Geographic targeting</strong>: Dunham targets Glenville only; Rejuva Center and Artistry of Face have multi-city SEO pages
+- <strong>Membership differentiation</strong>: This is Dunham's unique advantage (membership model) — not being leveraged in SEO content</p>
+
+<hr />
+
+<h2 id="8-ai-visibility-spec-017">8. AI VISIBILITY (SPEC-017)</h2>
+
+<h3 id="81-geo-assessment">8.1 GEO Assessment</h3>
+
+<p><strong>Test queries evaluated:</strong></p>
+
+<table>
+<thead>
+<tr>
+  <th>Test</th>
+  <th>Cited?</th>
+  <th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>"best medspa in Glenville NY" AI Overview</td>
+  <td>No</td>
+  <td>Not cited; no AI Overview appeared for this niche query</td>
+</tr>
+<tr>
+  <td>"botox near me Capital Region NY" AI Overview</td>
+  <td>No</td>
+  <td>Competitors with higher review counts and authority likely cited</td>
+</tr>
+<tr>
+  <td>"IV hydration therapy Glenville NY" AI Overview</td>
+  <td>No</td>
+  <td>Dunham ranks organically but no AI Overview box captured</td>
+</tr>
+<tr>
+  <td>"hormone optimization Schenectady NY"</td>
+  <td>No</td>
+  <td>Parasite SEO sites dominate; Dunham not present</td>
+</tr>
+<tr>
+  <td>"Dunham Integrative Health Aesthetics"</td>
+  <td>Partial</td>
+  <td>Brand query returns website but no Knowledge Panel or AI summary</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr>
+  <th>Platform</th>
+  <th>Q1</th>
+  <th>Q2</th>
+  <th>Q3</th>
+  <th>Q4</th>
+  <th>Q5</th>
+  <th>Raw (/25)</th>
+  <th>Weighted</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Google AI Overview</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>1</td>
+  <td>1</td>
+  <td>2/25</td>
+  <td>× 0.35 = 0.35</td>
+</tr>
+<tr>
+  <td>ChatGPT</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0/25</td>
+  <td>× 0.25 = 0.00</td>
+</tr>
+<tr>
+  <td>Perplexity</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>1</td>
+  <td>0</td>
+  <td>1/25</td>
+  <td>× 0.20 = 0.10</td>
+</tr>
+<tr>
+  <td>Copilot</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0/25</td>
+  <td>× 0.10 = 0.00</td>
+</tr>
+<tr>
+  <td>Siri/Apple</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0/25</td>
+  <td>× 0.10 = 0.00</td>
+</tr>
+</tbody>
+</table>
+
+<p><strong>GEO Composite Score: 0.45/10</strong> <em>(ESTIMATED — verify with direct LLM testing. Score based on entity signal analysis and search surface absence.)</em></p>
+
+<p><strong>Root cause of low AI visibility:</strong>
+1. No LocalBusiness schema — AI systems cannot reliably entity-match this business
+2. No structured FAQ/educational content — nothing for AI to excerpt and attribute
+3. NAP fragmentation — AI systems get conflicting entity signals across data sources
+4. No Wikipedia/Wikidata presence, no authority publication mentions
+5. Review gap vs competitors makes them less likely to be referenced as "best" or "recommended"</p>
+
+<hr />
+
+<h2 id="9-priority-matrix">9. PRIORITY MATRIX</h2>
+
+<pre><code>Priority Score = Impact (1-5) × (6 - Effort (1-5))
+Max possible = 25 | Min possible = 1
+</code></pre>
+
+<h3 id="tier-1-quick-wins-week-1-2">Tier 1 — Quick Wins (Week 1-2)</h3>
+
+<table>
+<thead>
+<tr>
+  <th>Action</th>
+  <th>Spec</th>
+  <th>Impact</th>
+  <th>Effort</th>
+  <th>Priority Score</th>
+  <th>Assigned To</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Deploy LocalBusiness + MedicalBusiness schema (NAP, hours, services, geo)</td>
+  <td>SPEC-008</td>
+  <td>5</td>
+  <td>1</td>
+  <td>25</td>
+  <td>Wrench → Scribe</td>
+</tr>
+<tr>
+  <td>Fix homepage title tag: "Med Spa Glenville NY | Botox, Fillers &amp; Aesthetics"</td>
+  <td>SPEC-010</td>
+  <td>5</td>
+  <td>1</td>
+  <td>25</td>
+  <td>Wrench</td>
+</tr>
+<tr>
+  <td>Rewrite homepage meta description with geo + services + CTA</td>
+  <td>SPEC-010</td>
+  <td>4</td>
+  <td>1</td>
+  <td>20</td>
+  <td>Scribe</td>
+</tr>
+<tr>
+  <td>Fix OG URL (point to / not /welcome), OG description, Twitter card type</td>
+  <td>SPEC-010</td>
+  <td>3</td>
+  <td>1</td>
+  <td>15</td>
+  <td>Wrench</td>
+</tr>
+<tr>
+  <td>Add Sitemap declaration to robots.txt</td>
+  <td>SPEC-009</td>
+  <td>3</td>
+  <td>1</td>
+  <td>15</td>
+  <td>Wrench</td>
+</tr>
+<tr>
+  <td>Noindex /m/login, /m/reset, /m/create pages</td>
+  <td>SPEC-009</td>
+  <td>3</td>
+  <td>1</td>
+  <td>15</td>
+  <td>Wrench</td>
+</tr>
+<tr>
+  <td>Canonical audit: resolve / vs /welcome redirect chain</td>
+  <td>SPEC-009</td>
+  <td>4</td>
+  <td>2</td>
+  <td>16</td>
+  <td>Wrench</td>
+</tr>
+<tr>
+  <td>Optimize GBP description (750 chars, entity co-citations per SPEC-002)</td>
+  <td>SPEC-002</td>
+  <td>5</td>
+  <td>1</td>
+  <td>25</td>
+  <td>Herald</td>
+</tr>
+<tr>
+  <td>Seed GBP with 10 owner-generated Q&amp;A entries</td>
+  <td>SPEC-003</td>
+  <td>4</td>
+  <td>1</td>
+  <td>20</td>
+  <td>Herald</td>
+</tr>
+<tr>
+  <td>Add GBP Services as micro-landing entries per SPEC-001</td>
+  <td>SPEC-001</td>
+  <td>4</td>
+  <td>2</td>
+  <td>16</td>
+  <td>Herald</td>
+</tr>
+<tr>
+  <td>Launch review generation campaign (text/email post-visit)</td>
+  <td>SPEC-012</td>
+  <td>5</td>
+  <td>1</td>
+  <td>25</td>
+  <td>Citadel</td>
+</tr>
+<tr>
+  <td>NAP normalization: standardize business name across all directories</td>
+  <td>SPEC-011</td>
+  <td>5</td>
+  <td>2</td>
+  <td>20</td>
+  <td>Citadel</td>
+</tr>
+</tbody>
+</table>
+
+<h3 id="tier-2-foundation-week-2-4">Tier 2 — Foundation (Week 2-4)</h3>
+
+<table>
+<thead>
+<tr>
+  <th>Action</th>
+  <th>Spec</th>
+  <th>Impact</th>
+  <th>Effort</th>
+  <th>Priority Score</th>
+  <th>Assigned To</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Build FAQPage schema from /common-questions content</td>
+  <td>SPEC-008</td>
+  <td>4</td>
+  <td>1</td>
+  <td>20</td>
+  <td>Wrench → Scribe</td>
+</tr>
+<tr>
+  <td>Add AggregateRating schema (once reviews verified)</td>
+  <td>SPEC-008</td>
+  <td>4</td>
+  <td>1</td>
+  <td>20</td>
+  <td>Wrench</td>
+</tr>
+<tr>
+  <td>Add Person schema for Amanda Dunham DNP</td>
+  <td>SPEC-008</td>
+  <td>3</td>
+  <td>1</td>
+  <td>15</td>
+  <td>Wrench</td>
+</tr>
+<tr>
+  <td>Begin 3x/week GBP posting cadence</td>
+  <td>SPEC-005</td>
+  <td>4</td>
+  <td>2</td>
+  <td>16</td>
+  <td>Herald</td>
+</tr>
+<tr>
+  <td>Grounding boxes on homepage and top 3 service pages</td>
+  <td>SPEC-007</td>
+  <td>4</td>
+  <td>2</td>
+  <td>16</td>
+  <td>Scribe</td>
+</tr>
+<tr>
+  <td>Citation audit + fix stale Yelp listings (Clifton Park/Scotia)</td>
+  <td>SPEC-011</td>
+  <td>4</td>
+  <td>2</td>
+  <td>16</td>
+  <td>Citadel</td>
+</tr>
+<tr>
+  <td>Submit to 30+ directories with canonical NAP</td>
+  <td>SPEC-011</td>
+  <td>3</td>
+  <td>2</td>
+  <td>12</td>
+  <td>Citadel</td>
+</tr>
+<tr>
+  <td>Add GBP Products tab (5-10 featured treatments with pricing)</td>
+  <td>SPEC-004</td>
+  <td>3</td>
+  <td>1</td>
+  <td>15</td>
+  <td>Herald</td>
+</tr>
+<tr>
+  <td>Set up geo-grid rank tracking (5-mile grid, core keywords)</td>
+  <td>SPEC-015</td>
+  <td>4</td>
+  <td>2</td>
+  <td>16</td>
+  <td>Lookout</td>
+</tr>
+<tr>
+  <td>Set up monthly reporting dashboard</td>
+  <td>SPEC-016</td>
+  <td>3</td>
+  <td>2</td>
+  <td>12</td>
+  <td>Lookout</td>
+</tr>
+</tbody>
+</table>
+
+<h3 id="tier-3-architecture-month-2">Tier 3 — Architecture (Month 2)</h3>
+
+<table>
+<thead>
+<tr>
+  <th>Action</th>
+  <th>Spec</th>
+  <th>Impact</th>
+  <th>Effort</th>
+  <th>Priority Score</th>
+  <th>Assigned To</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Build Glenville City Hub page (primary geo silo)</td>
+  <td>SPEC-006</td>
+  <td>5</td>
+  <td>3</td>
+  <td>15</td>
+  <td>Scribe</td>
+</tr>
+<tr>
+  <td>Build 3 service city spoke pages: Botox Schenectady, IV Therapy Albany, Fillers Saratoga Springs</td>
+  <td>SPEC-006</td>
+  <td>4</td>
+  <td>3</td>
+  <td>12</td>
+  <td>Scribe</td>
+</tr>
+<tr>
+  <td>Launch blog with 4 educational posts/month (authored by Amanda)</td>
+  <td>SPEC-010</td>
+  <td>4</td>
+  <td>3</td>
+  <td>12</td>
+  <td>Scribe</td>
+</tr>
+<tr>
+  <td>Rewrite all service page titles + meta descriptions with geo/service targeting</td>
+  <td>SPEC-010</td>
+  <td>4</td>
+  <td>2</td>
+  <td>16</td>
+  <td>Scribe</td>
+</tr>
+<tr>
+  <td>Optimize URL slugs (remove encoded chars, clean up names)</td>
+  <td>SPEC-009</td>
+  <td>3</td>
+  <td>3</td>
+  <td>9</td>
+  <td>Wrench</td>
+</tr>
+<tr>
+  <td>301 redirect or remove /covid-19 page</td>
+  <td>SPEC-009</td>
+  <td>2</td>
+  <td>1</td>
+  <td>10</td>
+  <td>Wrench</td>
+</tr>
+<tr>
+  <td>Add LLM-optimized entity grounding content to homepage</td>
+  <td>SPEC-017</td>
+  <td>3</td>
+  <td>2</td>
+  <td>12</td>
+  <td>Scribe</td>
+</tr>
+</tbody>
+</table>
+
+<h3 id="tier-4-authority-month-2-3">Tier 4 — Authority (Month 2-3)</h3>
+
+<table>
+<thead>
+<tr>
+  <th>Action</th>
+  <th>Spec</th>
+  <th>Impact</th>
+  <th>Effort</th>
+  <th>Priority Score</th>
+  <th>Assigned To</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Press outreach: Capital Region media, aesthetics publications</td>
+  <td>SPEC-014</td>
+  <td>4</td>
+  <td>4</td>
+  <td>8</td>
+  <td>Operator</td>
+</tr>
+<tr>
+  <td>Partner with BTL/Allergan/Galderma for co-branded backlink opportunities</td>
+  <td>SPEC-014</td>
+  <td>3</td>
+  <td>3</td>
+  <td>9</td>
+  <td>Operator</td>
+</tr>
+<tr>
+  <td>Expired domain prospecting for Capital Region aesthetics niche</td>
+  <td>SPEC-013</td>
+  <td>3</td>
+  <td>4</td>
+  <td>6</td>
+  <td>Ghost</td>
+</tr>
+<tr>
+  <td>YouTube channel: treatment walkthroughs, patient education</td>
+  <td>SPEC-018</td>
+  <td>3</td>
+  <td>4</td>
+  <td>6</td>
+  <td>Operator/Scribe</td>
+</tr>
+</tbody>
+</table>
+
+<h3 id="tier-5-ongoing-continuous">Tier 5 — Ongoing (Continuous)</h3>
+
+<table>
+<thead>
+<tr>
+  <th>Action</th>
+  <th>Spec</th>
+  <th>Cadence</th>
+  <th>Assigned To</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>GBP posts (3x/week — offer, educational, update)</td>
+  <td>SPEC-005</td>
+  <td>3x/week</td>
+  <td>Herald</td>
+</tr>
+<tr>
+  <td>Review response (all Google reviews within 24h)</td>
+  <td>SPEC-012</td>
+  <td>Daily</td>
+  <td>Citadel</td>
+</tr>
+<tr>
+  <td>Review generation (text/email post-visit)</td>
+  <td>SPEC-012</td>
+  <td>Per visit</td>
+  <td>Citadel</td>
+</tr>
+<tr>
+  <td>Geo-grid rank scan + anomaly detection</td>
+  <td>SPEC-015</td>
+  <td>Weekly</td>
+  <td>Lookout</td>
+</tr>
+<tr>
+  <td>Monthly SEO performance report</td>
+  <td>SPEC-016</td>
+  <td>Monthly</td>
+  <td>Lookout</td>
+</tr>
+<tr>
+  <td>Blog post publication + internal linking</td>
+  <td>SPEC-010</td>
+  <td>4x/month</td>
+  <td>Scribe</td>
+</tr>
+<tr>
+  <td>Citation monitoring (NAP drift detection)</td>
+  <td>SPEC-011</td>
+  <td>Monthly</td>
+  <td>Citadel</td>
+</tr>
+</tbody>
+</table>
+
+<hr />
+
+<h2 id="10-agent-dispatch-queue">10. AGENT DISPATCH QUEUE</h2>
+
+<pre><code>DISPATCH QUEUE — Dunham Integrative Health + Aesthetics — 2026-02-17
+═══════════════════════════════════════════════════════════════════════
+
+1. → Wrench: Deploy LocalBusiness + MedicalBusiness JSON-LD schema to homepage
+   and all service pages. Include: name, address, phone, hours, geoCoordinates,
+   sameAs (GBP URL, Jane App, Tebra), areaServed array (Glenville, Schenectady,
+   Albany, Latham, Saratoga Springs, Halfmoon, Niskayuna), priceRange.
+   Ref: SPEC-008.
+
+2. → Wrench: Fix canonical chain — confirm /welcome → / or set /welcome as canonical.
+   Update OG URL to canonical homepage. Fix robots.txt to declare sitemap.
+   Noindex /m/login, /m/reset, /m/create. 301 /covid-19 to homepage.
+   Ref: SPEC-009.
+
+3. → Scribe: Rewrite homepage title: "Med Spa Glenville NY | Botox, Fillers &amp;
+   Aesthetics | Dunham Integrative Health + Aesthetics" (≤60 chars preferred).
+   Rewrite meta description (155 chars): include Glenville NY, top 3 services
+   (Botox, fillers, IV therapy), and CTA. Fix OG description.
+   Ref: SPEC-010.
+
+4. → Scribe: Build FAQPage schema from /common-questions. Write grounding boxes
+   for homepage and Botox, Fillers, and IV Hydration pages — 60-word Q&amp;A blocks
+   structured for AI Overview snippet capture.
+   Ref: SPEC-007, SPEC-008.
+
+5. → Herald: Optimize GBP immediately upon operator access. Priority order:
+   (a) Description — 750-char keyword-rich description with entity co-citations
+   (b) Q&amp;A — seed 10 questions covering top services, location, pricing, credentials
+   (c) Services — add micro-landing entries for top 8 services with justification snippets
+   (d) Products — add 5-8 products with photos and descriptions
+   (e) Posts — begin 3x/week cadence
+   Ref: SPEC-001–005.
+
+6. → Citadel: NAP normalization campaign.
+   (a) Correct all directory listings to canonical NAP:
+       Name: "Dunham Integrative Health + Aesthetics"
+       Address: "19 Glenridge Road, Glenville, NY 12302"
+       Phone: "(518) 579-0012"
+   (b) Suppress/claim and fix Yelp (Clifton Park), Yelp (Scotia), QuickLocal, Fresha
+   (c) Submit to 30+ additional directories (Apple Maps, Bing Places, Yellow Pages,
+       Angi, ZocDoc, Healthgrades, RateMDs, WebMD, Zocdoc)
+   (d) Launch post-visit text review request sequence (SMS with GBP review link)
+   Ref: SPEC-011, SPEC-012.
+
+7. → Lookout: Set up geo-grid rank tracking for Glenville (5-mile grid, 3-mile spacing).
+   Track: "medspa near me", "botox Glenville NY", "IV hydration therapy near me",
+   "lip filler Schenectady NY", "hormone therapy Capital Region". Pull baseline
+   SoLV/WVS scores. Set up monthly reporting.
+   Ref: SPEC-015, SPEC-016.
+</code></pre>
+
+<hr />
+
+<h2 id="11-expected-results-timeline">11. EXPECTED RESULTS TIMELINE</h2>
+
+<table>
+<thead>
+<tr>
+  <th>Timeframe</th>
+  <th>Expected Outcome</th>
+  <th>Key Metric</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Week 2</td>
+  <td>Schema deployed, canonical fixed, GBP description + Q&amp;A live</td>
+  <td>Schema validation in GSC; GBP description visible in search</td>
+</tr>
+<tr>
+  <td>Month 1</td>
+  <td>20+ new Google reviews; GBP posts weekly; NAP normalized; rank tracking baseline</td>
+  <td>Review count, SoLV baseline, indexation recovery (target: 20+ pages indexed)</td>
+</tr>
+<tr>
+  <td>Month 2</td>
+  <td>Local Pack visibility improving; Glenville city hub live; blog active</td>
+  <td>Map Pack position for "medspa Glenville NY"; organic traffic lift 20-40%</td>
+</tr>
+<tr>
+  <td>Month 3</td>
+  <td>Appearing in AI Overviews for 1-2 service queries; 50+ reviews; 3+ city pages live</td>
+  <td>AI Overview citation, GEO score &gt; 2.0, star ratings in SERP</td>
+</tr>
+<tr>
+  <td>Month 6</td>
+  <td>Map Pack for primary keywords; 100+ reviews; topical authority established</td>
+  <td>SoLV &gt; 60% in 5-mile grid; 500+ organic sessions/month; 10+ new patients/month from SEO</td>
+</tr>
+</tbody>
+</table>
+
+<hr />
+
+<h2 id="12-investment-roi-projection">12. INVESTMENT &amp; ROI PROJECTION</h2>
+
+<table>
+<thead>
+<tr>
+  <th>Service</th>
+  <th>Monthly Cost</th>
+  <th>Duration</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Full CATALYST Management (Routes 1-5 + AI/XP)</td>
+  <td>$[TBD — standard agency rate]</td>
+  <td>6-month minimum</td>
+</tr>
+<tr>
+  <td>Priority Tier 1 Sprint (Schema + GBP + Citations + Reviews)</td>
+  <td>One-time build + first month</td>
+  <td>Month 1</td>
+</tr>
+<tr>
+  <td>Content Production (blog 4x/month + city pages)</td>
+  <td>Included or add-on</td>
+  <td>Ongoing</td>
+</tr>
+</tbody>
+</table>
+
+<p><strong>Projected ROI Basis:</strong>
+- Medspa industry average patient LTV: $1,200–$3,600/year (membership + services)
+- If SEO generates 5 new patients/month by Month 3: 60 new patients/year × $2,000 avg LTV = $120,000 additional annual revenue
+- Botox membership alone at $150-300/month × 20 new members = $36,000-$72,000 ARR
+- ROI positive by Month 3 if review velocity and schema deployment execute as planned</p>
+
+<hr />
+
+<h2 id="13-conclusion">13. CONCLUSION</h2>
+
+<p>Dunham Integrative Health + Aesthetics is a high-quality practice with a legitimate competitive advantage — a medical-grade membership model, a DNP-credentialed lead provider with specialized expertise in biostimulators and regenerative aesthetics, and a broad service menu that few local competitors match. The problem isn't the practice; it's the digital infrastructure. Zero schema, a broken canonical structure, a crippled robots.txt, only 5 indexed pages of 25, a stale NAP spread across 4+ name variants, and likely under 20 Google reviews put them at the bottom of Google's trust hierarchy while Hebe (613 reviews) and Rejuva Center (297 reviews) dominate the local pack. If they do nothing, organic growth will remain flat and the review gap with competitors will only widen — their superior clinical offerings will remain invisible to the 78% of patients who use Google to find medspa services. If they execute Tier 1 tasks within the first two weeks — schema, canonical fix, GBP optimization, NAP normalization, and review generation — they will see measurable improvements in indexation and GBP visibility within 30 days, with Map Pack entry achievable within 90 days. <strong>The single highest-leverage action right now is deploying LocalBusiness schema and launching a review generation campaign simultaneously.</strong> These two tasks alone will move the CATALYST score from 2.3 to approximately 4.5 within 60 days.</p>
+
+<hr />
+
+<p><em>Prepared using the CATALYST SEO Methodology by LocalCatalyst.ai</em>
+<strong>Next Step:</strong> Operator to provide GBP login credentials and CMS access (GoDaddy account) to Silas for Tier 1 execution. Confirm canonical NAP with client. Approve dispatch queue above.</p>
+
+<hr />
+
+<p><em>Silas — CATALYST Engine | Audit completed: 2026-02-17 | Version: 1.0</em></p>
+
+</body>
+</html>

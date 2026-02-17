@@ -51,6 +51,15 @@
 - Browser automation needed for extracting file info
 - Large video files need cloud transcription (can't download locally)
 
+### Rate Limit Retry Protocol (CRITICAL — Updated Feb 16 2026)
+**Neither `exec sleep` nor cron systemEvents reliably trigger autonomous retries.**
+- `exec sleep`: completes silently, no action triggered (Feb 16 21:04 incident — 30 min lost)
+- cron systemEvent: fires correctly but idle session doesn't process it autonomously (Feb 16 21:53 incident — 30 min lost again)
+- **Root cause:** systemEvents appear in conversation log but don't trigger a response unless session is actively processing a user message
+- **Real fix:** Notify user + manually retry in same response. Don't rely on deferred automation for retries.
+- **Protocol:** Rate limit hit → tell user "hit rate limit, retrying in 60s" → exec sleep 60 in foreground (blocking) → spawn immediately after → confirm with sessionKey
+- **Note:** Cron is still useful for scheduled tasks (weekly standups, heartbeats) but NOT for reactive retries
+
 ### Routing Execution Protocol (CRITICAL)
 **MANDATORY POST-SPAWN VERIFICATION:**
 1. Call `sessions_spawn` with full task details

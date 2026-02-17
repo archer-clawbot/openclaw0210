@@ -180,7 +180,9 @@ export const getDeliverable = query({
 		if (!deliverable) return null;
 
 		// Join with customer
-		const customer = await ctx.db.get(deliverable.customerId);
+		const customer = deliverable.customerId
+			? await ctx.db.get(deliverable.customerId)
+			: null;
 
 		// Join with package config if present
 		const packageConfig = deliverable.packageConfigId
@@ -191,8 +193,8 @@ export const getDeliverable = query({
 			...deliverable,
 			customerName: customer
 				? `${customer.firstName} ${customer.lastName}`.trim()
-				: "Unknown",
-			customerEmail: customer?.email ?? null,
+				: deliverable.customerName ?? "Unknown",
+			customerEmail: customer?.email ?? deliverable.customerEmail ?? null,
 			packageName: packageConfig?.name ?? null,
 		};
 	},
@@ -225,13 +227,15 @@ export const listAllDeliverables = query({
 		// Join with customer info
 		return await Promise.all(
 			deliverables.map(async (d) => {
-				const customer = await ctx.db.get(d.customerId);
+				const customer = d.customerId
+					? await ctx.db.get(d.customerId)
+					: null;
 				return {
 					...d,
 					customerName: customer
 						? `${customer.firstName} ${customer.lastName}`.trim()
-						: "Unknown",
-					customerEmail: customer?.email ?? null,
+						: d.customerName ?? "Unknown",
+					customerEmail: customer?.email ?? d.customerEmail ?? null,
 				};
 			}),
 		);

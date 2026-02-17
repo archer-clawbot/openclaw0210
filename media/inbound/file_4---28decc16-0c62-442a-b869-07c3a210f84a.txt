@@ -1,0 +1,3928 @@
+This is OpenClaw, also known as Clawbot,
+
+
+and it's the most popular AI agent of
+
+
+all time. You give it access to its own
+
+
+computer, and it can do basically
+
+
+anything from sending emails to managing
+
+
+your calendar, booking restaurants,
+
+
+building software, and even running your
+
+
+business. Yeah, Open Claw is insane, but
+
+
+most people have a really basic setup.
+
+
+In this video, I'll show you how to
+
+
+build the most powerful Open Claw setup
+
+
+possible, even if you're a complete
+
+
+beginner. Now, the first decision you
+
+
+have to make when using Open Claw is
+
+
+whether you're going to set it up on a
+
+
+Mac Mini or on a VPS. Now, each has
+
+
+their pros and cons, but the biggest
+
+
+difference is that for a Mac Mini, you
+
+
+have to spend at least $600 to buy it.
+
+
+VPS is much more affordable and you can
+
+
+manage it from anywhere. So, this is
+
+
+what I'm going to show you in this
+
+
+video. And by the way, this is the main
+
+
+idea that makes OpenClaw so goddamn
+
+
+strong. You give a full computer,
+
+
+whether it's a Mac Mini or a VPS, to an
+
+
+AI agent, and it can do anything on that
+
+
+computer. So if you think David this
+
+
+might be an overkill why not just do
+
+
+chbttt you're just missing the point.
+
+
+This is what makes open call powerful
+
+
+and it's worth it spending 10 15 minutes
+
+
+actually setting this up because if you
+
+
+do you will have an incredible advantage
+
+
+in 2026 over everyone else that doesn't.
+
+
+And by the way if you're wondering David
+
+
+what are you using for their VPS? Well
+
+
+I'm using hostinger and the main reason
+
+
+is that they quickly added their open
+
+
+claw setup which makes it super easy to
+
+
+deploy open claw. So this is their new
+
+
+landing page and I'm going to link it
+
+
+below. Just go to the right and click on
+
+
+deploy. And this will take you to the
+
+
+Hostinger card here. Make sure to select
+
+
+the period 24 months. As you can see,
+
+
+they have a very nice promotion going
+
+
+on. Will save you $260. But if you want
+
+
+to save another 10%, go to the right and
+
+
+type in code David to save additional
+
+
+10% on top of their already nice sale.
+
+
+Then here you'll see that it will auto
+
+
+deploy OpenClaw saving us a bunch of
+
+
+time. And then her all that remains is
+
+
+scrolling down, selecting our server
+
+
+location. Let's do something in Europe
+
+
+like Lithuania. And then click continue,
+
+
+which will take you to the checkout. And
+
+
+here just fill out your first name, last
+
+
+name, and complete the purchase. Now, as
+
+
+you can see, Hostinger makes the
+
+
+OpenClaw setup so easy. It gives you
+
+
+this nice interface where you can just
+
+
+paste in any API keys you want to use
+
+
+inside of OpenClaw, and you don't have
+
+
+to be a DevOps expert at all. This is by
+
+
+far the easiest way to set up OpenClaw.
+
+
+Oh, by the way, this OpenClaw gateway
+
+
+token, make sure to copy that and save
+
+
+it somewhere. We're going to need it
+
+
+later. Now, we need to decide which AI
+
+
+model are we using. Enthropic, OpenAI,
+
+
+Gemini, XAI. Right now, Opus 4.6 from
+
+
+Enthropic is really, really good. So we
+
+
+need to get our API key from the
+
+
+enthropic platform. So just go to
+
+
+console entropic type that into Google
+
+
+and we need to find the enthropic API
+
+
+key. So we can use either Sonet or Opus
+
+
+models. All right. So here go to the
+
+
+left and scroll down to API keys and
+
+
+then top right click on create key.
+
+
+Select your workspace. I'm going to
+
+
+select my vector one. I'm do open claw
+
+
+VPS. Add a key. Copy it. Now do not
+
+
+share API keys with anybody. I'm going
+
+
+to delete mine before uploading this
+
+
+video. All right. So we're adding the
+
+
+anthropic one. And then we can continue.
+
+
+And now Hostinger is deploying our VPS.
+
+
+All right, there it is. Project
+
+
+deployed. That was fast. It was like 1
+
+
+minute or something. Now once the VPS
+
+
+finishes deploying, just click on this
+
+
+link right here and it will take you to
+
+
+the open claw login. We need the gateway
+
+
+token. So hopefully you copied that
+
+
+earlier, but if you haven't, don't
+
+
+worry. I'm going to show you how to
+
+
+recover it. So inside of your VPS right
+
+
+here, click on terminal. This will open
+
+
+the terminal with a bunch of stuff. Just
+
+
+type in clear and here paste in this
+
+
+command right here. Boom. This will
+
+
+reveal your open cloud gateway token.
+
+
+Again, do not share this publicly. Make
+
+
+sure to keep this private. So, I'm going
+
+
+to copy that. Go back here and paste it
+
+
+in and log in. And there we go. This is
+
+
+our OpenClaw gateway dashboard. This
+
+
+makes interacting with OpenClaw much
+
+
+easier. And from here, you can manage
+
+
+basically anything. So, first off, let's
+
+
+see if OpenClaw works. Did our enthropic
+
+
+API connect successfully? So, it's
+
+
+responding. That's good. Okay, we can
+
+
+see that it's using cloth set 4.5, which
+
+
+is a good model, but we want to improve
+
+
+that to Opus. So I'm going to say browse
+
+
+the web to find the official enthropic
+
+
+API name for Opus 4.6 and then update
+
+
+your model config to make this the
+
+
+primary model. Enter. The beauty of Open
+
+
+Claw is that it can update itself.
+
+
+Right? You don't need to be sitting in
+
+
+this terminal and doing changes. You can
+
+
+just tell it swap the default model or
+
+
+restart the gateway. any command you'd
+
+
+want even like implementing WhatsApp,
+
+
+implementing telegram, implementing
+
+
+Google calendar, some of which I'm going
+
+
+to show you later in the video, you can
+
+
+easily do by just talking to it in plain
+
+
+English, right? So, perfect founded the
+
+
+official entropic API name for Opus 4.6
+
+
+is clo-opus-4-6.
+
+
+This is important because inside of open
+
+
+router, for example, it's a dot instead
+
+
+of dash and if you have the incorrect
+
+
+name, it will not work, right? So, let's
+
+
+see. Disconnected from gateway. It's
+
+
+restarting right now. Missing Brave
+
+
+search API key. It's not a problem.
+
+
+We're going to switch to Perplexity Pro
+
+
+in a second. It's much more powerful
+
+
+than Brave Search. See, done. Upload
+
+
+your config to use Opus as a primary
+
+
+model. Okay. Test. I'm going to do a
+
+
+test message. There we go. Cloud Opus
+
+
+4.6. Now, obviously, Opus is more
+
+
+expensive. So, if you want to save cost,
+
+
+you can stick to Sonet already a great
+
+
+model. Or you can even connect your CHBD
+
+
+subscription if you're paying 20 bucks a
+
+
+month for CHBD Plus or $200 a month for
+
+
+CHBD Pro. Later in the video, I'll show
+
+
+you how you can use that to power
+
+
+OpenClaw for free because you're already
+
+
+paying for those subscriptions. Now,
+
+
+first off, before I show you some of the
+
+
+more advanced use cases, let me take you
+
+
+through the OpenClaw gateway dashboard.
+
+
+So, on the left you have the chat. This
+
+
+is where we are. Then you have the
+
+
+overview. Here we can see the gateway
+
+
+access token. Again, keep this private
+
+
+please don't be sloppy. On the left you
+
+
+have the different channels. Here you
+
+
+can see whether WhatsApp is configured.
+
+
+Obviously, we haven't configured any of
+
+
+these right now. Here we have the
+
+
+different instances of OpenClaw. Here we
+
+
+have the sessions. any active chrome
+
+
+jobs. This is amazing. This basically
+
+
+replaces NA10 for a lot of the use
+
+
+cases. And again, I'm going to dive
+
+
+deeper into chrome jobs in a bit. Then
+
+
+we have also agents. You can create sub
+
+
+agents, but this is the main agent. You
+
+
+can see the primary model, identity,
+
+
+stuff like that. Skills. Skills are kind
+
+
+of the new tools. This is what's
+
+
+replacing tools, right? In 2025, we were
+
+
+talking about giving your agent tools.
+
+
+In 2026, we give them skills because
+
+
+it's basically instructions on how to
+
+
+use certain tools. Anyways, there's a
+
+
+bunch more in the dashboard, but these
+
+
+are the main things. So, let's go back
+
+
+to chat. And one of the first things you
+
+
+should learn is the slash compact
+
+
+command. This compacts your context
+
+
+window so that you save cost, right?
+
+
+Especially when using an expensive model
+
+
+like Opus. As you can see, we're already
+
+
+at 30,000 input tokens, which is not
+
+
+that much because Opus 4.6 can go up to
+
+
+1 million tokens of input, but the more
+
+
+tokens, the more you're spending, right?
+
+
+So, slash compact is essential command
+
+
+that'll compact your message history
+
+
+inside of OpenClaw to save tokens. As
+
+
+you can see, we went from 30,000 to
+
+
+12,000, which is basically 1/3. By the
+
+
+way, here you have some useful buttons.
+
+
+This one is for refreshing chat data.
+
+
+This one is to toggle the thinking,
+
+
+right? So, you can see now it's more
+
+
+concise. Here you can see a bit more
+
+
+details on what's happening. Now, one of
+
+
+the main ideas is that open claw has
+
+
+access to the full VPS. It has its own
+
+
+server, meaning it can store files
+
+
+securely on that server and you don't
+
+
+have to worry about it messing up
+
+
+something on your main computer. So what
+
+
+you can say is like list out all files
+
+
+in the workspace folder. You can see
+
+
+what's in there right now. Here are the
+
+
+files in the workspace. Agents.md,
+
+
+boot.md, bootstrap, heartbeat, identity,
+
+
+memory, soul, tools, user. These nine
+
+
+files are the most important files you
+
+
+have to understand. Each one has a
+
+
+different purpose, but all of them get
+
+
+loaded into every single message of open
+
+
+claw. And this is how you do context
+
+
+engineering with the markdown files. Now
+
+
+what I would recommend you to do is I
+
+
+would recommend you to create two
+
+
+folders. creates two folders, one named
+
+
+personal and one named business in which
+
+
+we will create our own markdown files.
+
+
+So this is how you manage files inside
+
+
+of OpenClaw. You have it create folders
+
+
+and you have it create markdown files in
+
+
+those folders with useful info about
+
+
+your life, your business, your
+
+
+playbooks, SOPs, your preferences,
+
+
+anything that you can verbalize. Any
+
+
+action, any task, there is a way to do
+
+
+it. There's how you want to get it done,
+
+
+what it means for it to get done. All of
+
+
+these you have to verbalize. This is
+
+
+going to be the most valuable skill in
+
+
+2026. How well you can verbalize your
+
+
+thoughts, your preferences, your
+
+
+judgment and turn them into clear
+
+
+markdown files that we give to the
+
+
+computer, aka to agents like openclaw or
+
+
+agent zero. Because if you cannot
+
+
+verbalize your preferences, you cannot
+
+
+start automating a lot of these tasks
+
+
+and workflows in your life. Now the way
+
+
+you work with openclaw is that you
+
+
+constantly keep improving the context in
+
+
+these files. For example, I can say,
+
+
+"Show me the contents of user.MD." Since
+
+
+we started this, it's obviously going to
+
+
+be empty, but then you ask it, okay, ask
+
+
+me five questions to get to know about
+
+
+me more. Here it is. Still a blank
+
+
+template. Want to fill it in? I just
+
+
+need the basics. So, it ask me four
+
+
+things. My name is David. You should
+
+
+call me David. My time zone is Dubai,
+
+
+aka Gulf time zone. And I'm currently
+
+
+working on a YouTube video about open
+
+
+claw. Boom. Super basic context. Took me
+
+
+like 7 seconds to speak out. and it's
+
+
+already going to be much better than
+
+
+before, right? So, as you work with
+
+
+OpenClaw, you not only improve these
+
+
+nine default files, but you keep adding
+
+
+files into the personal and business
+
+
+folders and building out a file
+
+
+structure. And this is, by the way, what
+
+
+I call a living file. And again, I'm
+
+
+going to get into that bit more later in
+
+
+the video. But if you're currently
+
+
+storing all your files on Google Drive
+
+
+or Microsoft Suite or just locally on
+
+
+your computer using Obsidian, those are
+
+
+dead files. And what I mean by that is
+
+
+that they cannot be accessed by powerful
+
+
+AI agents and they cannot be modified by
+
+
+the agents. improved by agents or used
+
+
+as context. So, this is a completely
+
+
+different way of thinking about files
+
+
+and managing documents in 2026 and
+
+
+beyond than in the past. So, if you're
+
+
+not used to this, you're going to want
+
+
+to pay attention because soon enough all
+
+
+of us will have different VPS servers
+
+
+running different AI agents, mix of open
+
+
+cloths, mix of agent zeros, maybe some
+
+
+cloth codes, whatever that agent is
+
+
+doing. And each of the VPS will have its
+
+
+own files, its own context, its own
+
+
+connectors, whether it's Google
+
+
+calendar, whether it's 11 laps, whether
+
+
+it's Appify, whether it's Nabana Pro.
+
+
+This is already happening. And each
+
+
+connection, each improvement you make to
+
+
+your Open Claw pays off dividends
+
+
+forever. This is what you have to
+
+
+understand, right? You might say, "Okay,
+
+
+David, but you just gave it, you know, a
+
+
+prompt, a bit more info about you.
+
+
+What's the big deal?" The big deal is
+
+
+that it has it stored forever on the
+
+
+VPS. It's on the hosting VPS. It's not
+
+
+lost inside of your CH GP history. this
+
+
+improvement is going to be there
+
+
+forever. So every hour you put into
+
+
+improving your open claw and making it
+
+
+more powerful, that hour will pay off
+
+
+dividends forever. So if you really are
+
+
+serious about AI, make sure to watch
+
+
+this full video and sit down for 1 hour
+
+
+or 2 hours and actually set up a
+
+
+powerful open claw that's going to be
+
+
+saving you many hours every single week
+
+
+because again the technology is here.
+
+
+Now another useful command you should
+
+
+know is / status. This will give you the
+
+
+status of your open claw. It will tell
+
+
+you the version, the current model that
+
+
+you're using, tokens, the context window
+
+
+status, and a bunch of other stuff. You
+
+
+can also do /hel if you forget the
+
+
+available commands. This will list them
+
+
+all out. So for the session, you can do
+
+
+/ new/reset/compact
+
+
+even with instructions on what to focus
+
+
+on in the compact or sltop. Then you
+
+
+have options such as slashthink, how
+
+
+much of the thinking or reasoning effort
+
+
+the model gives. Then which LLM you're
+
+
+using, how verbose it is, then obviously
+
+
+SL status, who am I slashcontext. All
+
+
+right, so let's do / new to the new
+
+
+session. Now, the first thing I like to
+
+
+do when setting up any new open claw is
+
+
+to upgrade the web search model because
+
+
+if we ask it check the VPS and check
+
+
+your config and tell me what is the
+
+
+current API or current tool that you're
+
+
+using for web search. It will tell you
+
+
+by default it's the Brave search API
+
+
+which by the way isn't BAF, right? Like
+
+
+I'm using Brave as my main browser, but
+
+
+it's not the best. It's not a gentic
+
+
+search. So there we go. Brave search API
+
+
+is the built-in one. What we're going to
+
+
+do is we're going to upgrade to
+
+
+Perplexity Pro. Now, many of you know
+
+
+Perplexity as a website, right? Like a
+
+
+tool you go to ask questions and it's
+
+
+optimized from web search. But guess
+
+
+what? Perplexity is also available on
+
+
+open router. And all of these models are
+
+
+here. So you can literally use the
+
+
+Proplexity Pro models even when you're
+
+
+not paying 20 bucks a month for
+
+
+Perplexity Pro. You can just use them
+
+
+right here and give them to your open
+
+
+clause so that anytime it does web
+
+
+search, it uses a very powerful AI web
+
+
+search tool, which is what we're going
+
+
+to do right now. So in here inside of
+
+
+open router there's two models you need
+
+
+to know about. Most people use Soner
+
+
+right this is the default peroxis search
+
+
+but this is this one is pretty bad. If
+
+
+you're a more advanced user you might be
+
+
+using Soner Pro. This one is solid but
+
+
+there's actually a better option for the
+
+
+quick web search. Sonar Pro search. This
+
+
+is the one you should be using now for
+
+
+your deep research. Perplexi also has an
+
+
+endpoint for that. This one Soner deep
+
+
+research. We're going to connect DB
+
+
+research and pro search so that our open
+
+
+claw can use the latest and greatest AI
+
+
+web search tools for any web search that
+
+
+it does. And actually this is a good
+
+
+opportunity to show you the
+
+
+selfupgrading nature of open clause. So
+
+
+we're going to have it change itself,
+
+
+right? I'm not going to be going into
+
+
+the terminal and doing some fancy stuff.
+
+
+No, I'm going to speak to it in plain
+
+
+English and I'm going to tell it to
+
+
+change that model itself. So let's start
+
+
+with the normal search. So in the pro
+
+
+search, let's copy this model name
+
+
+inside of open router. Go back to open
+
+
+claw and say I want to change the
+
+
+default web search model to boom
+
+
+endpoint on open router. Your task is to
+
+
+figure out how to do this then update
+
+
+your own config so that you swap it so
+
+
+that the default web search is not using
+
+
+the brave search API but rather this
+
+
+endpoint of perplexity cylinder pro
+
+
+search from the open router API. Once
+
+
+you do so restart the gateway. Actually
+
+
+one more thing we need to give it is an
+
+
+API key right because we're using
+
+
+enthropic API for the model and this is
+
+
+a model on open router so go to top
+
+
+right click on keys here I'm going to
+
+
+create a new API key I'm going to name
+
+
+it subscribe if you're watching this and
+
+
+if you want to see more videos like this
+
+
+then make sure to subscribe it takes two
+
+
+seconds it's completely free and it
+
+
+helps out a lot so please go below the
+
+
+video and click subscribe appreciate it
+
+
+let's give it a limit $20 or something
+
+
+boom copy back to open claw I Okay, use
+
+
+this API key. Boom.
+
+
+Again, this is not the best practice. Do
+
+
+not share API keys with chatbots
+
+
+carelessly. I'm just trying to speed it
+
+
+up for the sake of this video. There we
+
+
+go. So, it changed the schema of the
+
+
+config. And then it restarted the
+
+
+gateway. Found exact config path. The
+
+
+schema supports tools web search
+
+
+provider perplexity with proplexity
+
+
+subobject for API keybased URL. Applying
+
+
+now done. Here's what I changed. Web
+
+
+search provider brave into perplexity
+
+
+via open router. Base model open router
+
+
+v1 endpoint cylinder pro search. So
+
+
+let's do a test. Browse the web about
+
+
+the new SpaceX acquisition. Then we're
+
+
+going to go into open router into
+
+
+activity and let's see whether we get a
+
+
+new endpoint for this. Right. So it
+
+
+should be using the sonar pro search and
+
+
+it needs to be using it through open
+
+
+router which means we should see a new
+
+
+API call here for that model. Okay, it's
+
+
+answering. So let's reload and there we
+
+
+go. Soner pro search from open claw. It
+
+
+cost us 2 cents. Amazing. So we've
+
+
+upgraded the default web search to be
+
+
+using sonar pro search which is
+
+
+perplexity's new agentic search system.
+
+
+And again this is already a massive
+
+
+improvement that most people never do in
+
+
+surf open claw. But we're going to take
+
+
+it a step further. We're going to go
+
+
+back to open router and type in deep
+
+
+research. This perplexity cylinder pro
+
+
+deep research. And now I'm going to say
+
+
+now anytime the user says deep research,
+
+
+make sure to hit this model on open
+
+
+router. Boom. But again, do not do this
+
+
+for normal web search. Only do that when
+
+
+the user explicitly mentions deep
+
+
+research. Make sure to update both
+
+
+tools.m MD and memory.m MD files to
+
+
+clearly and properly document this. Now
+
+
+notice what I did. I started context
+
+
+engineering openclaw. I told it which of
+
+
+the nine original files namely tools.mmd
+
+
+and memory.md it should update so that
+
+
+it remembers these instructions. And
+
+
+this is a clear example of how you keep
+
+
+improving your open claw as you work
+
+
+with it and you figure out okay it's
+
+
+doing this incorrectly. You update some
+
+
+of the nine original files. Then you
+
+
+create new files on documentation of
+
+
+what to do, what not to do. Right? Okay.
+
+
+So here you can see the tool calls done
+
+
+by open claw. First it read these files
+
+
+tools. MD and memory MD to figure out
+
+
+what's the current state and then it did
+
+
+a right tool call to change these files
+
+
+to document how to do this. So if I say
+
+
+browse the web, tell me information
+
+
+about this new latest AI model, it will
+
+
+use the normal web search. where I say
+
+
+do a deep research on how this
+
+
+supplement affects your sleep blah blah
+
+
+blah it will use the deep research
+
+
+endpoint. So now we're using two of the
+
+
+best endpoints that perplexity has to
+
+
+offer inside of our open claw and it
+
+
+took us couple minutes to upgrade it and
+
+
+it's improved forever. I'm going to get
+
+
+the benefits of this literally every
+
+
+single day for the rest of time. So if
+
+
+you're watching this be very careful
+
+
+what you use as your web search tool
+
+
+because you want to be using the best
+
+
+tool out there. Now I'm going to say
+
+
+create a new /docs folder in our file
+
+
+system and then I'm going to say browse
+
+
+the web to figure out how to set up
+
+
+multiple different
+
+
+AI models inside of openclaw config. So
+
+
+I can easily do /opus switch between
+
+
+them. We are using entropic API as the
+
+
+provider. Boom. So we're going to
+
+
+instantly take benefit from the change
+
+
+we just did and we're going to use the
+
+
+web search to figure out how to do this.
+
+
+And then we're going to save the results
+
+
+as a marker file. Right? So it created
+
+
+workspace and I'm going to tell it save
+
+
+the results of this web search as a new
+
+
+MD file in /doccks. So now it's giving
+
+
+me I could have included in the previous
+
+
+prompt to be honest. And again this is
+
+
+very important knowing when to ask for
+
+
+web search because a lot of these things
+
+
+are super new right open claw nobody was
+
+
+talking about it even a month ago but
+
+
+now everyone is you know it used to be
+
+
+called cloudbot but it doesn't matter AI
+
+
+field is changing super fast so doing
+
+
+web search is essential for these latest
+
+
+tools if you're talking about like
+
+
+python 3 that has been out for a long
+
+
+time but if you're talking about new
+
+
+things like agent zero open claw opus
+
+
+4.6
+
+
+GPT 5.3 codex things that have been
+
+
+recent that there's not much info about
+
+
+them in a training data. You have to do
+
+
+web search. So boom, I'm going to send
+
+
+the next prompt. Save the results as a
+
+
+new marground file so that this is
+
+
+forever included in a FL system. We we
+
+
+never have to repeat this same web
+
+
+search ever again. If it needs to find
+
+
+this, it can find this and it can
+
+
+reference this. Right? And now I'm going
+
+
+to tell it to actually update that. Now
+
+
+actually execute the setup mentioned
+
+
+above so that I can just type /sonet to
+
+
+switch easily to set 4.5 and then type
+
+
+/opus to easily switch back to opus 4.5.
+
+
+Once you do restart the gateway anytime
+
+
+you make changes to the config or any
+
+
+setup you should restart the gateway so
+
+
+that the changes actually are applied.
+
+
+As you can see, it saved the results of
+
+
+the web search to open claw model
+
+
+setup.mmd clean structured reference
+
+
+doc. Amazing. This is how you need to
+
+
+think instead of launching a db search
+
+
+inside of chatgbt and then it lives in
+
+
+your chbd history and you never check
+
+
+it. Why not do it on your open cloud
+
+
+that's running on your own vps, right?
+
+
+That's your own virtual private server
+
+
+and tell it to save it as a markdown
+
+
+file and then you have the results of
+
+
+that DB research there forever. This is
+
+
+a complete shift in mindset you have to
+
+
+realize going forward.
+
+
+This is how files need to be structured
+
+
+so that they can be accessed by our own
+
+
+personal AI agents instead of just
+
+
+laying dormant inside of your perplexity
+
+
+chat history or your chat GBD chat
+
+
+history. And let's be honest, half of
+
+
+the deep researches I launch within
+
+
+perexity or chat GBD. I forget to check
+
+
+the results which again that doesn't
+
+
+matter if you're using open claw because
+
+
+you can just tell it save the result as
+
+
+an empty file and then in the future
+
+
+when you're talking about the same topic
+
+
+it is there. The result is there and you
+
+
+don't have to rerun the same deep
+
+
+research. So uh it did this config
+
+
+again. I'm I'm speaking to it in plain
+
+
+English and it's changing the
+
+
+configuration of the VPS. This is the
+
+
+power of a self-upgrading AI agent. So
+
+
+now we should be able to just do a /mod
+
+
+sonet to switch the model /model sonet.
+
+
+Boom. There it is. Model set to set an
+
+
+entropic son 44.5. So let's do a test
+
+
+message. And again we're going back into
+
+
+logs and we should see a new message for
+
+
+sonet because so far I've been using
+
+
+opus. Let's see if that the case. Let's
+
+
+wait for the response. There it is. The
+
+
+response is here. Let's go back to the
+
+
+logs. refresh and there we go cloth onet
+
+
+4.5. So as you can see all the previous
+
+
+messages were opus but now if you want
+
+
+to save cost and easily switch the model
+
+
+you can do that and we can obviously do
+
+
+/mod opus to switch back to opus. Now
+
+
+you might be wondering okay David when
+
+
+do you use what when should I use opus
+
+
+when to use sonet when to use GPD 5.3
+
+
+codex
+
+
+opus is very expensive so I would use it
+
+
+only for the most like creative and
+
+
+important tasks right so maybe at the
+
+
+start of the day if you're creating
+
+
+priorities for that day or if you're
+
+
+figuring out how to solve a important
+
+
+business problem then I would use opus
+
+
+otherwise sonet 4.5 is basically a
+
+
+cheaper opus the beauty of using GBD 5.3
+
+
+codex is that it's really good at
+
+
+coding. It's really good at debugging
+
+
+and deep technical problems, but also
+
+
+you can connect it with your CHBD
+
+
+subscription and you don't have to pay
+
+
+for you know API calls like I'm doing
+
+
+with enforopic API or with open router.
+
+
+You can use your existing subscriptions
+
+
+to power openclaw and that is also
+
+
+amazing thing. This is an open source
+
+
+project so it doesn't cost you anything
+
+
+to set it up. All you need is your own
+
+
+VPS and you could just give it full
+
+
+access to the server and can do anything
+
+
+on that server and then you just
+
+
+communicate with it and it's a very
+
+
+powerful AI agent with a full access to
+
+
+its own server and you just keep making
+
+
+it more powerful. Keep giving it more
+
+
+context about your personal life and
+
+
+your business. And again, security
+
+
+first, right? Don't be stupid. Don't
+
+
+leak your API keys. Don't connect it to
+
+
+mold book or these public forums where
+
+
+it can leak your data and it can get
+
+
+prompt injected. Make sure to properly
+
+
+secure VPS. In fact, you what you can do
+
+
+is let's do SL new. So, I send this
+
+
+prompt. Browse the web to figure out the
+
+
+biggest security mistakes people make
+
+
+with OpenClaw when running it on their
+
+
+own VPS. And then save the results as a
+
+
+new markdown file into the docs folder.
+
+
+Once you do give me a super concise
+
+
+TLDDR in here. So again, anytime you do
+
+
+a web search or deep research, if the
+
+
+results are useful and you know, you
+
+
+might want to reuse them in the future,
+
+
+just save them as a markdown file and
+
+
+have OpenClaw manage these folders and
+
+
+organize your file system. It's this is
+
+
+so obvious in the future and it's kind
+
+
+of crazy how most people don't see this.
+
+
+Top three mistakes, exposing gateway to
+
+
+public internet. As I mentioned, don't
+
+
+do that. weak SSH password off enabled
+
+
+on port 22. All right, so I'm gonna say
+
+
+now analyze our VPS and tell me how
+
+
+exposed we are. Be concise. So again,
+
+
+you can use open claw to secure your VPS
+
+
+and to make your own open claw instance
+
+
+more secure. And this is really the idea
+
+
+of giving an agent full computer. It can
+
+
+do anything. And as you can see, I'm not
+
+
+approving commands. This is the biggest
+
+
+difference between using claw code, open
+
+
+code. These agents are running on your
+
+
+computer. you have to constantly approve
+
+
+them, monitor them, making sure that
+
+
+they don't mess stuff up. Open Claw is
+
+
+in its own VPS, right? I haven't
+
+
+approved a single thing. It just does
+
+
+whatever it wants to do. And this really
+
+
+gets more and more powerful as AI models
+
+
+get more and more powerful because they
+
+
+are faster than humans. They're more
+
+
+competent than humans at a lot of
+
+
+different things soon enough on
+
+
+everything. And us humans would just be
+
+
+slowing them down if you have to approve
+
+
+everything, right? So, let's see. Again,
+
+
+this is a fresh VPS, so I don't expect
+
+
+it to be fully secured, but let's see
+
+
+what it said. It ran a bunch of caramel
+
+
+commands. Basically acting like a cyber
+
+
+security expert, analyzing my whole VPS
+
+
+to see what's exposed and what's good.
+
+
+Look at how many things it did. Here's
+
+
+the answer.
+
+
+Security status, moderate risk, good
+
+
+gateway, low cost only, running as node
+
+
+user, version patch. By the way, this is
+
+
+uh the benefit of using Hostinger. They
+
+
+did a lot of this securing for us,
+
+
+right? So I didn't do this. It just came
+
+
+with the hosting pre-installed instance.
+
+
+Critical issue. Alo secure off truth
+
+
+allows token only off over HTTP without
+
+
+device identity. Okay. So here are some
+
+
+things we should probably address. But
+
+
+yeah, the more data you give it, right?
+
+
+If you give it personal data, sensitive
+
+
+information about your personal life,
+
+
+about your business, if you give it
+
+
+access to your WhatsApp, your email or
+
+
+calendar with each level of permission,
+
+
+spend 30 minutes making it more secure.
+
+
+Right? Once a week, if you just time
+
+
+block 30 to 60 minutes to improving the
+
+
+security of your VPS and your open claw,
+
+
+you're going to be fine because most
+
+
+people completely ignore it. They are
+
+
+not careful about their environment
+
+
+variables, about their gateway tokens,
+
+
+and they're just being reckless about
+
+
+it. So, don't connect your open claw to
+
+
+mold book. Don't do any of this dumb
+
+
+stuff. Just take it seriously, right? Be
+
+
+a professional, especially if you give
+
+
+it access to your personal and
+
+
+professional life. Now, this leads me to
+
+
+my living false theory. This is my own
+
+
+theory that I would put on the same
+
+
+importance as the theory of evolution
+
+
+from Charles Darwin. And basically this
+
+
+is the future of how files and documents
+
+
+will be handled. What I mean by living
+
+
+files is files that live on a VPS that a
+
+
+powerful AI agent can access. Right? So
+
+
+if you have some file or document that's
+
+
+sitting on your MacBook, it's dead file.
+
+
+Unless you the human are looking at it
+
+
+and working with it, the file is dead.
+
+
+It's useless. It doesn't do anything. It
+
+
+doesn't serve as context. It can be
+
+
+improved. It cannot be included in a web
+
+
+search. Nothing. It cannot be shared to
+
+
+others. It's just sitting on your
+
+
+computer, right? And again, maybe
+
+
+something better is Google Drive where
+
+
+you can share files to others. But
+
+
+again, if you or your teammates or
+
+
+somebody else isn't looking at that file
+
+
+and it's just sitting inside of your
+
+
+Google Drive, it's also a dead file.
+
+
+This is the old way. From now on, with
+
+
+the rise of agent zero, with the rise of
+
+
+open claw and these very powerful
+
+
+agents, we're going to see the living
+
+
+files theory. Every single file becomes
+
+
+exponentially more valuable if it's on a
+
+
+VPS accessible with a powerful AI agent
+
+
+that can modify it, that can use it as
+
+
+context, that can share it, that can
+
+
+build upon it, that can make decisions
+
+
+from it, right? If you give it enough
+
+
+context on your business and the issues,
+
+
+like maybe you're struggling with
+
+
+marketing, maybe you don't know how to
+
+
+get more leads, right? If you describe
+
+
+all of that and this is why I mentioned
+
+
+being able to verbalize your thoughts,
+
+
+your problems, your taste, the situation
+
+
+that's happening clearly describing that
+
+
+in plain English into this agents is
+
+
+going to be one of the most valuable
+
+
+skills in the future. If you do that and
+
+
+if you put these into files, that's the
+
+
+difference between AI being like, ah,
+
+
+cool. is a nice tool, you know, oh, I
+
+
+can oneshot this website. That's very
+
+
+nice to like, oh my god, I'm saving 10,
+
+
+20 hours per week with these powerful AI
+
+
+agents because you give them context,
+
+
+context and tools, right? If you do
+
+
+don't give them access to anything, then
+
+
+it's not that powerful. But if you give
+
+
+them access to WhatsApp, Slack, Google
+
+
+Calendar, 11 Labs, Twilio, suddenly it
+
+
+can make calls to restaurants, web
+
+
+search, perplexity research. If you keep
+
+
+giving them access and you connect them
+
+
+to other agents, right? you set up your
+
+
+whole team which again this is second
+
+
+part of my living fast theory you are
+
+
+going to get insane the difference isn't
+
+
+like 2x better right beginner with a
+
+
+free chbd subscription and an advanced
+
+
+user that's running multiple open cloths
+
+
+what you have to realize is that the
+
+
+difference between the beginner and the
+
+
+power user has never been greater the
+
+
+person with a free ch subscription that
+
+
+thinks oh I'm using AI every day is
+
+
+completely delusional and they're not
+
+
+even using the best models right versus
+
+
+the person that has multiple AI agents
+
+
+powered by the latest and greatest AI
+
+
+models talking to each other with
+
+
+advanced context engineering, you know,
+
+
+described file system, you know, list
+
+
+out all files on our VPS. This
+
+
+everything verbalized into clean
+
+
+step-by-step markdown files that can be
+
+
+shared, that can be improved, that can
+
+
+be built upon. The difference is never
+
+
+greater. We're really going to see
+
+
+people who as a single person can build
+
+
+multi-million dollar companies, if not
+
+
+billion dollar companies. We're going to
+
+
+see that this year or next year's latest
+
+
+versus the beginner that uses ChBT the
+
+
+same way as Google, right? When was John
+
+
+Deeafer born? Like, that's not a use
+
+
+case. The use case is sending a voice
+
+
+note on WhatsApp when you're in the
+
+
+middle of a gym in between sets so that
+
+
+it books a restaurant for you and your
+
+
+girl at 7:00 p.m. in your favorite spot
+
+
+and it knows your favorite spot. It uses
+
+
+11 laps to do a human realistic voice to
+
+
+call that restaurant because your
+
+
+booking system doesn't work. That is a
+
+
+real use case that otherwise you would
+
+
+need a personal assistant for paying two
+
+
+three $4,000 a month and even then that
+
+
+personal assistant would be slower than
+
+
+open claw way more expensive less
+
+
+reliable all that stuff right so the
+
+
+difference has never been greater and
+
+
+really if you're not taking these things
+
+
+seriously and not building these swarms
+
+
+of hyper powerful AI agents with tons of
+
+
+markdown files aka the living files
+
+
+given it enough context about your
+
+
+personal life your personal goals your
+
+
+business life your business goals your
+
+
+team structure your operations your
+
+
+goals your standard operating training
+
+
+procedures, playbooks, systems, all of
+
+
+that stuff, you're simply falling behind
+
+
+because there are people who are
+
+
+spending six, seven, eight hours every
+
+
+single day improving their open claw,
+
+
+deploying multiple different open claws
+
+
+in their company, in their team, and
+
+
+they are getting ahead and they are
+
+
+getting ahead fast. Now, when it comes
+
+
+to team structure, it's very obvious,
+
+
+right? So, this is the agentic company
+
+
+structure. This is what companies that
+
+
+understand this will look like, right?
+
+
+So, first of all, let's say you have a
+
+
+company with five people. Boom.
+
+
+Five different people at this company.
+
+
+One, two, three, four, five. Let's say
+
+
+we have a company with five people. This
+
+
+is what the company looks like right
+
+
+now. You know, five humans and that's
+
+
+it. Most most of your companies are like
+
+
+this. Well, step one is deploying open
+
+
+claw to all employees, right? So maybe
+
+
+you have one person in the company who's
+
+
+logged in, who's paying attention to AI,
+
+
+has their open claw, right? It's better
+
+
+than nothing, but it doesn't really
+
+
+compound. There is no compounding effect
+
+
+in here. What you need to do is you need
+
+
+to force everybody on your team to
+
+
+deploy OpenClaw, right? Just sit down,
+
+
+do a 60-minute call with everybody and
+
+
+show them how to set it up on Hostinger.
+
+
+Make sure that nobody gets stuck. And
+
+
+really, in 60 minutes, you can set it up
+
+
+for your whole team. But we're only
+
+
+getting started because the next step is
+
+
+taking one open claw and making it your
+
+
+team one, right? So, you do another VPS
+
+
+and you do a team open claw that
+
+
+everybody can access. And this guy has
+
+
+access to everything. You give him
+
+
+access to your company documents,
+
+
+company spreadsheets, access to
+
+
+financial data, clear description of the
+
+
+team and who's responsible for what,
+
+
+company goals and objectives, the
+
+
+current biggest roadblocks and problems
+
+
+in a company. Anything that a CEO or
+
+
+like somebody on the leadership team
+
+
+would have access to, right? The most
+
+
+important data about a company. And then
+
+
+guess what? This is the company open
+
+
+claw. And then every person with their
+
+
+own personal open claw has access to
+
+
+this guy. So let's say John over here
+
+
+has his own personal open claw that
+
+
+knows about him and his personal life.
+
+
+But if John needs to do some business
+
+
+task, his open claw can hit up the team
+
+
+one, get the necessary context which
+
+
+again will be stored in a nice file
+
+
+system in what I call the living files
+
+
+and then John's open claw can do the
+
+
+task for John, right? And this really is
+
+
+the future because then what can happen
+
+
+is that John's open claw can communicate
+
+
+to Michael's open claw, get some data
+
+
+from him, maybe something that isn't in
+
+
+the main one. Or Michael's open claw can
+
+
+ask Sebastian's open claw and this one,
+
+
+you know, has the data and it's
+
+
+something that should be in the company,
+
+
+so it's sent to the main guy and he
+
+
+saves it into the files. You get the
+
+
+point. This is going to be insane. I'm
+
+
+building this in my own team within the
+
+
+next two to four weeks. It's that
+
+
+important. And every single company that
+
+
+is serious about AI and AI agents will
+
+
+look like this by the half of the year.
+
+
+This is not 12 months, 18 months. This
+
+
+is like couple months away. The
+
+
+technology is already here. What matters
+
+
+is just building this process, right?
+
+
+And giving enough context to these AI
+
+
+Asians so that they're actually useful.
+
+
+So this is what I think an agentic
+
+
+company structure will look like. And
+
+
+yeah, it's only a matter of time before
+
+
+every company looks like this because
+
+
+it's just so obvious. Now, since the
+
+
+context engineering of OpenClaw is so
+
+
+essential, let me break down each of
+
+
+these nine files and what you should put
+
+
+into each of them. First of all,
+
+
+agents.mmd. This is kind of the general
+
+
+standard. If you just go to agents.mmd,
+
+
+you'll see what this means, right? This
+
+
+is a general system prompt that's
+
+
+adopted by more and more agents. Devin,
+
+
+codex, air, goose, gemini cli, many many
+
+
+companies are adopting the standard.
+
+
+It's basically the main file telling the
+
+
+agents how to behave. So for open claw
+
+
+you should put here any operating rules,
+
+
+workflows, any safety or permissions
+
+
+boundaries like what files not to touch
+
+
+or not to modify and communication
+
+
+rules. Next up we have soul.md. This is
+
+
+like the personality of your open claw
+
+
+agent, right? So what tone it should
+
+
+have, what character and personality it
+
+
+should have, what values it should have,
+
+
+should it be pro-ch Christian, should it
+
+
+be outgoing, should be verbose, stuff
+
+
+like that. And any other behavior
+
+
+defaults that you want it to do. Another
+
+
+essential file and this this one might
+
+
+be the most important actually is
+
+
+user.md. This is info about yourself
+
+
+right about the human your identity
+
+
+context preferences essential life and
+
+
+work context. Obviously you don't have
+
+
+to go into super detail here because
+
+
+again ideally you build out these
+
+
+folders business and personal and you
+
+
+fill them out. So for example inside of
+
+
+a business and personal folder fill out
+
+
+create a new goals.mmd file in both of
+
+
+these folders. And then for my business
+
+
+goals, say that I want to reach $1
+
+
+million per month. For my personal
+
+
+goals, say I want to win Mr. Olympia and
+
+
+create a step-by-step guide for each of
+
+
+these and save them into the markdown
+
+
+files. Then after you do all of these
+
+
+steps, show me the file system again. So
+
+
+that's an example of how you would fill
+
+
+out these folders, right? We just
+
+
+created them. They're empty now, but you
+
+
+put in essential stuff. Your goals, your
+
+
+current problems, any research you do,
+
+
+any context, like maybe, you know, for
+
+
+business, you're tracking revenues and
+
+
+you can put spreadsheets of your
+
+
+accounting, stuff like that. any
+
+
+essential context which basically is
+
+
+anything to be honest, right? Maybe
+
+
+except for like some crazy government
+
+
+secrets or like some personal you know
+
+
+like if if you commit some serious crime
+
+
+probably don't tell that to open claw
+
+
+but other than that the more context you
+
+
+give it the better. The next essential
+
+
+file inside of OpenClaw that's built in
+
+
+and again these nine files that we're
+
+
+covering these are built in. Every
+
+
+single person has them inside of Open
+
+
+Claw. This is what makes them super
+
+
+important. You need to customize them.
+
+
+Is memory MD. This is the long-term
+
+
+memory. So anything that should be
+
+
+remembered, right? Durable facts,
+
+
+canonical ids, references, like if
+
+
+you're using some APIs, maybe there's
+
+
+certain IDs to projects or tasks or
+
+
+whatever. Lessons learned. If it makes a
+
+
+mistake and you don't want it to repeat
+
+
+that same mistake again, you can send it
+
+
+to memory.mmd. Basically anything that
+
+
+you wanted to remember that doesn't fit
+
+
+into the other files, memory MD is the
+
+
+place for it. Then we have tools.mmd
+
+
+also very important. This is for any API
+
+
+tools anything that like calls
+
+
+externally right. So maybe I would have
+
+
+like we connected perplexity deep
+
+
+research how to use that how to prompt
+
+
+it stuff like that. If you connect
+
+
+ampify which actor to use, how to
+
+
+optimize the cost of web scraping or any
+
+
+API documentation for any of the
+
+
+connected tools, right? any gotchas, any
+
+
+weirded documentation or you know
+
+
+there's APIs that literally have a
+
+
+inverted order than the UI. So there is
+
+
+stuff like that tools. MD you would put
+
+
+it to know how to use these APIs. Maybe
+
+
+only do save readonly operations or
+
+
+maybe do this amount of limits you know
+
+
+don't call this API is expensive only
+
+
+call it once a day. Next up we have
+
+
+identity MD. This is similar to the soul
+
+
+but more practical right what's the name
+
+
+of the agent? What role it has? Maybe
+
+
+you just do one open claw for marketing,
+
+
+one open claw for recruiting, one open
+
+
+claw for product, for coding, you know,
+
+
+and your open claw is just a senior
+
+
+developer and it's only handling coding
+
+
+stuff like that, right? Remember the
+
+
+team organizations, this is still very
+
+
+basic. You can have multiple open claws
+
+
+that are in the team, each one handling
+
+
+different role. And that's probably what
+
+
+we're going to be building towards the
+
+
+end of 2026. This is just the obvious
+
+
+thing. This is like what every company
+
+
+should have, one central open claw. And
+
+
+again, I'm trying to simplify this for
+
+
+you guys, right? Because setting up like
+
+
+20 different open claws, it's not only
+
+
+costly, it's also timeconuming and you
+
+
+have to manage the context all of them,
+
+
+right? So for starters, every single
+
+
+person should have their own personal
+
+
+open claw. That's a no-brainer. And then
+
+
+just create one for the business. That's
+
+
+it. That's very obvious. But towards the
+
+
+end of the year, we'll have specialized
+
+
+open claws that handle specific roles
+
+
+just like you have people. So literally,
+
+
+companies are going to be like 50%
+
+
+human, 50% agent. Like for every you
+
+
+know marketing manager you're going to
+
+
+have a marketing agent for every
+
+
+programmer you're going to have five
+
+
+programming agents right so this is
+
+
+where identity MD comes into place you
+
+
+describe the role of this agent okay
+
+
+next one is kind of exciting
+
+
+heartbeat.mmd and actually before I
+
+
+explain this let me show you some trick
+
+
+so go to openclaw and uhuh you can see
+
+
+that now it updated the business and we
+
+
+have the goals here we have the files
+
+
+here and this is how you keep building
+
+
+right you keep giving it context same
+
+
+area as markdown files keep improving
+
+
+it. But I'm going to do slash new to do
+
+
+a new chat and I'm going to ask analyze
+
+
+your config and tell me how often the
+
+
+heartbeat checks. This is by default
+
+
+configured to every 30 minutes. And the
+
+
+heartbeat is basically what makes open
+
+
+claw proactive. It checks again every 30
+
+
+minutes by default to see if there's
+
+
+something that needs to be done. You
+
+
+know, some files need to be updated.
+
+
+Maybe it's the weekend and you said on
+
+
+weekend message me the travel plans for
+
+
+my family. You know, obviously for some
+
+
+things a chron job is better, but the
+
+
+heartbeat is what keeps it proactive.
+
+
+It's like a ping that checks every x
+
+
+minutes if it's 30 if there's something
+
+
+that it needs to do. So the way to
+
+
+understand the heartbeat is this. It's a
+
+
+timer that makes open claw proactive as
+
+
+I said and every x minutes the gateway
+
+
+wakes up the agent, right? So we we have
+
+
+the gateway, we have the agents right
+
+
+here and the agent reads this
+
+
+heartbeat.md file. This is why this file
+
+
+is also very important. It's checked
+
+
+every x minutes programmatically and it
+
+
+reads the contents of this file such as
+
+
+check my email inbox, review my
+
+
+calendar. Right? So maybe somebody added
+
+
+a new event in your calendar and the
+
+
+heartbeat checks it is like oh I haven't
+
+
+prepared my human my user for this event
+
+
+yet. Let me do a quick web search
+
+
+prepare him save it as mark file and
+
+
+send him a notification on WhatsApp
+
+
+right that could easily be written
+
+
+inside of the heartbeat.mmd file as
+
+
+instructions and then anytime the
+
+
+heartbeat runs it actually does these
+
+
+things. So if there's nothing to report,
+
+
+open claw just responds heartbeat. Okay.
+
+
+And you never see it. If something
+
+
+matters, it will message you on your
+
+
+channel that you set up or it will take
+
+
+some action. So you can see where to
+
+
+configure it and it's by default 30
+
+
+minutes say like make it every 15
+
+
+minutes. Done. Harb interval is now
+
+
+every 15 minutes. So it did a bunch of
+
+
+changes. You know again you don't have
+
+
+to even worry about it. You can tell
+
+
+open claw to improve itself to change
+
+
+itself. And now it will check every 15
+
+
+minutes. And this is a simple change
+
+
+that makes it more proactive than
+
+
+otherwise. But the caveat is that it's
+
+
+using some AI model, right? So if you're
+
+
+using Opus, it's very expensive to do a
+
+
+heartbeat every 15 minutes. So you need
+
+
+to know how to change it. So say change
+
+
+the model for the heartbeat to be haiku
+
+
+4.5 instead. This is much cheaper, much
+
+
+faster than Opus. And we don't need a
+
+
+super powerful model checking every 15
+
+
+minutes heartbeat.mmd file. So you can
+
+
+see this is what it looks like.
+
+
+heartbeat every 15m haiku 4.5 and now it
+
+
+will use haik coup which is much more
+
+
+cost efficient much faster to check the
+
+
+heartbeat and again all it does is read
+
+
+the heartbeat file to see if conditions
+
+
+have been met we don't need a super
+
+
+powerful model to do that haiku 4.5 is
+
+
+more than enough or a great alternative
+
+
+is gemini 3.0 Flash. Now before I
+
+
+explain the chrome jobs and what makes
+
+
+this very powerful and how to use it,
+
+
+let me explain another concept which is
+
+
+how you can use open claw for free by
+
+
+utilizing your existing subscription. So
+
+
+basically nearly everybody has a chat
+
+
+GBD subscription, right? Whether it's
+
+
+$20 a month or 200 a month doesn't
+
+
+matter. Well, guess what? If you're not
+
+
+hitting your limit and if you want to
+
+
+use it inside of OpenClaw, you can
+
+
+easily do that. These are the steps.
+
+
+Yesterday I was uh spend like 60 minutes
+
+
+to figure this out, but I turned it into
+
+
+these steps so it's much easier for you.
+
+
+First you do openclaw onboard-off choice
+
+
+openacc. This will give you a URL. You
+
+
+just need to open it in your browser.
+
+
+Then it will ask you to sign in with
+
+
+your chbd account and you paste in the
+
+
+URL back into the terminal. So when it
+
+
+says terminal, it means like the
+
+
+terminal of the VSSL, right? Or a better
+
+
+approach would be opening up the
+
+
+terminal on your MacBook and then
+
+
+copying the command for SSH and
+
+
+connecting into your VPS this way. So
+
+
+once you get the URL, you paste it back
+
+
+into the terminal. Doesn't matter which
+
+
+one it is. And the default model will be
+
+
+GBD 5.3 Codex which again you can use
+
+
+that with your CI GBD subscription for
+
+
+no other API call. And then you can set
+
+
+up the aliases like we did earlier for
+
+
+set and opus. You can have codex, opus,
+
+
+sonet, you can add ki as many models as
+
+
+you want. And you can see that these
+
+
+providers this is the provider name and
+
+
+then the model name. Right? So open
+
+
+router is the provider and then
+
+
+enthropic opus 455. Openi codex that's
+
+
+the provider name and then we have GBD
+
+
+5. Codex. So that's how it's structured
+
+
+in the JSON. But again, you don't have
+
+
+to know any of this. You just tell in
+
+
+plain English to open claw what it
+
+
+should do and it will do it. So inside
+
+
+of the dashboard, if you go to the left,
+
+
+we can set up chron jobs or you can just
+
+
+talk to it in plain English and say
+
+
+create a new chrome job that runs every
+
+
+day at 11 p.m. Dubai time reminding me
+
+
+to go to sleep. Boom. You can literally
+
+
+create chrome jobs from plain English.
+
+
+You can create one for checking the
+
+
+latest trends in your industry, right?
+
+
+every 24 hours, every 48 hours, once a
+
+
+week, whatever. You can create one that
+
+
+runs every morning that tells you latest
+
+
+priorities and gives you preparation for
+
+
+your meetings, right? If you connect
+
+
+Google calendar, you can read the
+
+
+calendar events, maybe read your email
+
+
+as well and tell you, okay, you have
+
+
+five meetings for today. Here's two
+
+
+sentences about each of them. You can
+
+
+create a chron job tracking your wife's
+
+
+period. I mean, imagination is the
+
+
+limit. Literally, it's whatever you
+
+
+want. So, sleeper mind is scheduled. And
+
+
+then if we go to crown jobs, we should
+
+
+see it. There we go. scheduler. We have
+
+
+one job right here and this is a sleep
+
+
+reminder. We can see the instance of it,
+
+
+the setup of it, right? And all I did is
+
+
+I spoke to it in plain English. I didn't
+
+
+have to know anything about the chrome
+
+
+syntax. None of that. Open claw created
+
+
+it. It knows how to manage the chrome
+
+
+jobs and it will run every single day at
+
+
+11 p.m. Dubai time. Now create another
+
+
+chrome job that runs every 7 days and
+
+
+checks what is currently the best AI
+
+
+model and if there is a new one make
+
+
+sure to upgrade your config to that AI
+
+
+model. Boom. And now you just automate
+
+
+it open close so that it's
+
+
+self-improving to the latest model that
+
+
+comes out. As I said imagination is the
+
+
+limit. Chrome jobs is basically any
+
+
+replacement. In the past we used to
+
+
+build these automations by hand. Then
+
+
+anytime came and introduced a powerful
+
+
+AI agent that you could add and it can
+
+
+make decisions inside of your
+
+
+automation. But open claw takes this to
+
+
+the next level. You can just tell it
+
+
+like ah here is what I would want, you
+
+
+know, figure it out and it sets up the
+
+
+automation and the timing by itself and
+
+
+you never have to worry about it. If you
+
+
+want you can go to chronops and inspect
+
+
+it. But most of the times I just trust
+
+
+it because it just works. This is the
+
+
+power of using models like sonet 4.5 or
+
+
+opus 4.6. These cutting edge AI models
+
+
+they just work. They know what to do if
+
+
+you give it enough context. They're
+
+
+super reliable and they work. And you
+
+
+can see the next run. You can see the
+
+
+prompt. And yeah, basically you can use
+
+
+these chrome jobs to automate any part
+
+
+of your life and business. And here you
+
+
+can start seeing the value of adding
+
+
+more integrations and more tools and
+
+
+more APIs to your open claw. If you give
+
+
+it calendar, it can create calendar
+
+
+automations forever. You connect the
+
+
+calendar once, it can forever create
+
+
+automations using your calendar. Same
+
+
+thing with Gmail. Same thing with Plexi
+
+
+web search. Same thing with any type of
+
+
+tool software that exists. If you give
+
+
+OpenClaw access, it can suddenly create
+
+
+automations with all these softwares
+
+
+combined in any complex way. And again,
+
+
+all you have to do is talk to it in
+
+
+plain English. So, I think you're
+
+
+starting to see what I meant when I said
+
+
+that learning how to verbalize your
+
+
+thoughts and your goals and things is
+
+
+going to be a skill that's one of the
+
+
+most valuable skills in the coming
+
+
+years. And if you're wondering, okay,
+
+
+David, how can I practice that? It's by
+
+
+writing. you know, writing with your
+
+
+hands on a keyboard, writing manually
+
+
+with a pen and paper, just writing,
+
+
+speaking, trying to articulate yourself
+
+
+better, that is going to be such a
+
+
+valuable skill and so few people
+
+
+realize. So hopefully you guys
+
+
+understand why this is a big moment in
+
+
+the AI space and hopefully you found
+
+
+this video valuable. Once again, thank
+
+
+you Hostingers for sponsoring it. The
+
+
+link to that is going to be below the
+
+
+video. Have a nice rested

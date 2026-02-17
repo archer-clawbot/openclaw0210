@@ -245,10 +245,11 @@ export default defineSchema({
 		.index("by_tenant", ["tenantId"]),
 
 	wooDeliverables: defineTable({
+		// ── Package system fields (existing) ──
 		packageConfigId: v.optional(v.id("wooPackageConfigs")),
 		packageItemId: v.optional(v.id("wooPackageItems")),
 		orderId: v.optional(v.id("wooOrders")),
-		customerId: v.id("wooCustomers"),
+		customerId: v.optional(v.id("wooCustomers")),
 		wcOrderId: v.optional(v.number()),
 		wcProductId: v.optional(v.number()),
 		cycleNumber: v.optional(v.number()),
@@ -264,12 +265,135 @@ export default defineSchema({
 		notes: v.optional(v.string()),
 		emailSentAt: v.optional(v.number()),
 		tenantId: v.optional(v.string()),
+
+		// ── Pipeline: source tracking ──
+		source: v.optional(v.union(
+			v.literal("package"),
+			v.literal("purchase"),
+			v.literal("prospecting"),
+			v.literal("manual"),
+			v.literal("system"),
+		)),
+		deliverableDisplayId: v.optional(v.string()),
+
+		// ── Pipeline: product catalog reference ──
+		sku: v.optional(v.string()),
+		price: v.optional(v.number()),
+		wcOrderNumber: v.optional(v.string()),
+
+		// ── Pipeline: business/target info ──
+		customerName: v.optional(v.string()),
+		customerEmail: v.optional(v.string()),
+		domain: v.optional(v.string()),
+		vertical: v.optional(v.string()),
+		metro: v.optional(v.string()),
+
+		// ── Pipeline: tracking ──
+		pipelinePhase: v.optional(v.string()),
+		assignedAgent: v.optional(v.string()),
+		modelTier: v.optional(v.string()),
+
+		// ── Pipeline: audit-specific ──
+		healthScore: v.optional(v.number()),
+		actionItemsCount: v.optional(v.number()),
+
+		// ── Pipeline: file management ──
+		filePath: v.optional(v.string()),
+		fileUrl: v.optional(v.string()),
+		fileSizeBytes: v.optional(v.number()),
+		fileType: v.optional(v.string()),
+		fileStorageId: v.optional(v.id("_storage")),
+
+		// ── Pipeline: request context ──
+		requestNotes: v.optional(v.string()),
+		requestChannel: v.optional(v.union(
+			v.literal("woocommerce"),
+			v.literal("slack"),
+			v.literal("telegram"),
+			v.literal("api"),
+			v.literal("system"),
+		)),
+
+		// ── Pipeline: error handling ──
+		errorMessage: v.optional(v.string()),
+		retryCount: v.optional(v.number()),
+		maxRetries: v.optional(v.number()),
+
+		// ── Pipeline: timestamps ──
+		createdAt: v.optional(v.number()),
+		startedAt: v.optional(v.number()),
+		completedAt: v.optional(v.number()),
+		failedAt: v.optional(v.number()),
+		nextReauditAt: v.optional(v.number()),
+
+		// ── Pipeline: flexible metadata ──
+		meta: v.optional(v.any()),
 	})
 		.index("by_customerId", ["customerId"])
 		.index("by_packageConfigId", ["packageConfigId"])
 		.index("by_tenant_status", ["tenantId", "status"])
 		.index("by_customerId_cycleNumber", ["customerId", "cycleNumber"])
-		.index("by_itemType", ["itemType"]),
+		.index("by_itemType", ["itemType"])
+		.index("by_source", ["source"])
+		.index("by_sku", ["sku"])
+		.index("by_domain", ["domain"])
+		.index("by_status_source", ["status", "source"])
+		.index("by_nextReauditAt", ["nextReauditAt"])
+		.index("by_deliverableDisplayId", ["deliverableDisplayId"]),
+
+	// ── Pipeline Product Catalog ─────────────────────────────────────
+
+	pipelineProductCatalog: defineTable({
+		sku: v.string(),
+		name: v.string(),
+		description: v.optional(v.string()),
+		defaultPrice: v.number(),
+		fulfillmentAgent: v.string(),
+		turnaroundHours: v.number(),
+		modelTier: v.string(),
+		specRef: v.optional(v.string()),
+		active: v.boolean(),
+		tenantId: v.string(),
+	})
+		.index("by_sku", ["sku"])
+		.index("by_active", ["active"])
+		.index("by_tenantId", ["tenantId"]),
+
+	// ── Pipeline Deliverable Log ─────────────────────────────────────
+
+	pipelineDeliverableLog: defineTable({
+		deliverableId: v.id("wooDeliverables"),
+		eventType: v.union(
+			v.literal("created"),
+			v.literal("status_change"),
+			v.literal("retry"),
+			v.literal("file_uploaded"),
+			v.literal("delivered"),
+			v.literal("error"),
+			v.literal("note"),
+			v.literal("reaudit_scheduled"),
+		),
+		oldValue: v.optional(v.string()),
+		newValue: v.optional(v.string()),
+		message: v.optional(v.string()),
+		actor: v.optional(v.string()),
+		tenantId: v.string(),
+	})
+		.index("by_deliverableId", ["deliverableId"])
+		.index("by_eventType", ["eventType"]),
+
+	// ── Pipeline Stats Cache ─────────────────────────────────────────
+
+	pipelineStats: defineTable({
+		period: v.string(),
+		computedAt: v.number(),
+		deliverables: v.any(),
+		revenue: v.any(),
+		performance: v.any(),
+		pipeline: v.any(),
+		tenantId: v.string(),
+	})
+		.index("by_period", ["period", "tenantId"]),
 
 	// ── Customer Portal Auth ─────────────────────────────────────────
 

@@ -289,6 +289,51 @@ add_action('generate_before_header', function () {
 });
 
 /**
+ * Inject dark hero banner on WooCommerce utility pages
+ * (shop, cart, checkout, my account — excludes single products)
+ */
+add_action('generate_after_header', function () {
+    if (!class_exists('WooCommerce')) return;
+    if (is_singular('product')) return;
+    if (!is_shop() && !is_product_category() && !is_product_tag() && !is_cart() && !is_checkout() && !is_account_page()) return;
+
+    if (is_shop() || is_product_category() || is_product_tag()) {
+        $title = woocommerce_page_title(false);
+    } else {
+        $title = get_the_title();
+    }
+
+    // Build breadcrumb trail
+    $shop_url = get_permalink(wc_get_page_id('shop'));
+    $crumbs = '<a href="/">Home</a><span class="sep">/</span>';
+
+    if (is_shop()) {
+        $crumbs .= '<span class="current">Shop</span>';
+    } elseif (is_product_category() || is_product_tag()) {
+        $crumbs .= '<a href="' . esc_url($shop_url) . '">Shop</a><span class="sep">/</span>';
+        $crumbs .= '<span class="current">' . esc_html($title) . '</span>';
+    } elseif (is_cart()) {
+        $crumbs .= '<a href="' . esc_url($shop_url) . '">Shop</a><span class="sep">/</span>';
+        $crumbs .= '<span class="current">Cart</span>';
+    } elseif (is_checkout()) {
+        $crumbs .= '<a href="' . esc_url($shop_url) . '">Shop</a><span class="sep">/</span>';
+        $crumbs .= '<span class="current">Checkout</span>';
+    } elseif (is_account_page()) {
+        $crumbs .= '<span class="current">My Account</span>';
+    }
+    ?>
+    <div class="lc-hero lc-hero-mini">
+        <div class="lc-hero-grid"></div>
+        <div style="max-width: var(--lc-container-max); margin: 0 auto; position: relative; z-index: 1;">
+            <div class="lc-breadcrumb"><?php echo $crumbs; ?></div>
+            <h1 style="font-size: 36px; font-weight: 700; margin: 0;"><?php echo esc_html($title); ?></h1>
+        </div>
+    </div>
+    <div class="lc-gradient-transition-short"></div>
+    <?php
+});
+
+/**
  * Inject site-wide footer via generate_after_main_content hook
  * Falls back to wp_footer if GP hook unavailable
  */

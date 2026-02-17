@@ -162,6 +162,29 @@ sessions_spawn:
 
 **CRITICAL: Always include `agentId`.** Without it, the subagent inherits YOUR workspace and brain instead of their own.
 
+### RATE LIMIT PROTOCOL
+
+When any agent hits Anthropic API rate limit (429 error):
+
+1. READ the `retry-after` response header — this is the authoritative wait time
+2. If header missing, use exponential backoff: 30s → 60s → 120s → 300s
+3. Add random jitter (0-10% of wait time) to prevent synchronized retries
+4. Max 5 retry attempts before giving up and notifying the user
+5. Between multi-batch jobs, enforce 15s minimum cooldown (60s if previous batch was rate-limited)
+6. Before spawning a batch, check `anthropic-ratelimit-tokens-remaining` — if < 20K, wait for reset
+7. Log all rate limit events with: timestamp, agent, wait duration, attempt number, outcome
+
+DO NOT:
+- Use hardcoded sleep values without checking headers first
+- Spawn new sessions immediately after a rate limit clears
+- Use cron jobs for reactive retries (they don't trigger autonomous action)
+- Use `exec sleep` for retries (completes silently, no action triggered)
+- Silently fail — always notify the user if retries are exhausted
+
+**Note:** The dispatcher (`cron/dispatcher.js`) handles rate limit retries automatically with exponential backoff and batch pacing. When dispatching manually via `sessions_spawn`, follow steps 1-7 above. Tell the user the wait duration and retry in the same response flow.
+
+---
+
 ### ROUTING EXECUTION RULE (MANDATORY)
 
 **NEVER claim a task is routed unless you are ACTIVELY executing `sessions_spawn` in the same response.**
@@ -336,3 +359,114 @@ agents/silas/
 Load these from `skills/` only when the task requires them:
 - `skills/workflows.md` — Multi-agent workflow definitions W-001 through W-008 (load for onboarding, complex multi-agent tasks)
 - `skills/mission-control.md` — Mission Control (Convex) task management, dispatcher operations, client setup
+
+---
+
+### Keyword Research Tasks → Scout
+
+**Trigger phrases:**
+- "keyword research for [client]"
+- "find keywords for [niche/service/topic]"
+- "what should [client] rank for"
+- "what keywords should we target for [client]"
+- "competitor keyword analysis for [client]"
+- "keyword gap for [client] vs [competitor]"
+- "expand keywords around [topic]"
+- "content opportunities for [client]"
+- "what are people searching for in [industry/niche]"
+
+**Route to:** Scout
+
+**Depth selection:**
+| Operator says | Depth |
+|---------------|-------|
+| "quick keyword check" / "rough idea" / no depth specified for simple request | quick |
+| "keyword research" (default) / "find keywords" / "content opportunities" | standard |
+| "full keyword research" / "deep dive" / "comprehensive" / "with competitor analysis" | full |
+
+**Context you MUST include when routing to Scout:**
+
+Pull from the client file. If any field is missing, ask the operator before routing.
+
+```
+Execute keyword_research task:
+Client: {client_name}
+Domain: {client_domain}
+Seeds: {seed_keywords — extract from operator request, or pull from client's existing target keywords}
+Competitors: {competitor domains — pull from client file, or ask operator}
+Location: {primary city, state}
+Service Areas: {list of cities from client file}
+Industry: {client's industry vertical}
+Depth: {quick|standard|full}
+```
+
+**If operator doesn't specify seeds:** Use the client's primary services as seeds. Example: for a dental client, seeds = ["dental implants", "cosmetic dentistry", "emergency dentist", "teeth whitening"]. Pull from the client's service list or existing content.
+
+**If operator doesn't specify competitors:** Pull from client file. If no competitors on file, tell Scout to run competitor discovery first (use SE Ranking domain analysis to find top organic competitors for the seed keywords).
+
+---
+
+### Post-Research Distribution
+
+When Scout returns keyword research results, you receive 4 outputs. Distribute them:
+
+```
+1. FULL REPORT
+   → Store in client folder
+   → Notify operator: "Keyword research for {client} complete.
+     {X} keywords across {Y} clusters. Top opportunity: {cluster}.
+     Full report stored. Routing to Silas."
+
+2. SILAS STRATEGY SLICE
+   → Route to Silas immediately
+   → Message: "Scout completed keyword research for {client}.
+     Review clusters and set content priorities. Return your
+     prioritized list so I can brief Scribe."
+
+3. SCRIBE CONTENT BRIEFS
+   → HOLD — do NOT route to Scribe yet
+   → Wait for Silas to return prioritized list
+   → After Silas approves/reorders, route only the approved
+     briefs to Scribe
+
+4. LOOKOUT TRACKING LIST
+   → Route to Lookout immediately
+   → Message: "Scout completed keyword research for {client}.
+     Set up rank tracking for these keywords. Priority keywords
+     track daily, others weekly."
+```
+
+**Silas → Scribe handoff chain:**
+
+When Silas returns his prioritized strategy:
+1. Take Silas's priority ordering
+2. Match priorities to Scout's content briefs
+3. Route to Scribe in priority order:
+   ```
+   Scribe: Create content for {client}.
+   Priority: P1
+   Content type: {service_page|blog_post|etc}
+   Brief: {Scout's brief for this cluster}
+   Silas notes: {any strategic notes Silas added}
+   ```
+
+**Error handling:**
+- If Scout reports credit exhaustion → notify operator, suggest upgrading SE Ranking plan or waiting for credit refresh
+- If Scout reports API errors → check SE Ranking status, retry in 1 hour
+- If Scout returns fewer clusters than expected → ask Scout to expand seed list or lower volume filters
+
+---
+
+### Keyword Research Scheduling
+
+**Proactive triggers (Heartbeat/Cron):**
+- New client onboarded → auto-trigger "standard" depth research within first 48 hours
+- Every 90 days per client → auto-trigger "quick" depth refresh to catch new opportunities
+- Algorithm update detected (from Scout's monitoring) → trigger "quick" depth check for affected clients
+
+**On-demand triggers:**
+- Operator requests research for any client
+- Silas requests deeper research for a specific cluster or topic
+- Scribe requests keyword data for a content piece not covered by existing research
+
+When Silas or Scribe request research, route to Scout with context and route results back to the requesting agent (skip the full distribution chain).

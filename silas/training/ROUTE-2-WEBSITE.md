@@ -310,11 +310,26 @@ When auditing a client's website:
 ```
 ☐ Score each of the 5 areas (SPEC-006–010)
 ☐ Run technical audit first (SPEC-009) — blocking issues before content work
+    → Load cseo-technical for 8-category deep audit (CWV with INP, crawlability, security, JS rendering)
+    → Load cseo-images for image format, alt text, responsive, lazy loading audit
+☐ Audit schema completeness (SPEC-008)
+    → Load cseo-schema-validator for deprecation-aware schema check + JSON-LD generation
+    → Load cseo-sitemap if sitemap issues detected during crawlability check
 ☐ Audit existing content inventory (what pages exist, what's missing)
+    → Load cseo-content-quality for E-E-A-T scorecard (Section 6.3)
 ☐ Generate deliverables in priority order:
   1. Technical fixes (critical issues first)
-  2. Schema markup (can deploy immediately)
+  2. Schema markup (can deploy immediately — use ref:schema-templates)
   3. On-page optimization (existing pages)
   4. Grounding boxes (add to existing service pages)
   5. Location silo architecture (new pages — biggest effort)
 ```
+
+### Enhanced Skills Available
+- **cseo-technical** — 8-category technical audit framework. Use for SPEC-009 deep analysis.
+- **cseo-images** — Image optimization audit. Use for Section 6.2 enhanced output.
+- **cseo-schema-validator** — Schema validation with deprecation awareness. Use for SPEC-008.
+- **cseo-content-quality** — E-E-A-T evaluation. Use for content quality assessment.
+- **cseo-sitemap** — Sitemap validation. Use when crawlability issues involve sitemaps.
+
+These skills are loaded on demand by the awareness engine — no need to request them manually.

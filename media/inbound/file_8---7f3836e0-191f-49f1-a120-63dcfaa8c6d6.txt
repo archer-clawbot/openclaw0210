@@ -1,0 +1,1126 @@
+I built a tool that helps me source
+
+
+deals from all of my LinkedIn
+
+
+connections, all of my Gmails, all my
+
+
+calendars. It scans the entire thing,
+
+
+all of the sales calls that we've had as
+
+
+a company in the past, all my CRM
+
+
+details, everything. And the best part
+
+
+about this, I even know how to code. And
+
+
+I built this in less than an hour. So,
+
+
+by the end of this video, I'm going to
+
+
+show you how you can do this. And
+
+
+depending on the size of your network,
+
+
+depending on the stage of your business,
+
+
+this could add millions, tens of
+
+
+millions of dollars, probably even more
+
+
+than that because this is the deal
+
+
+sourcer that you've always wanted, but
+
+
+you've never had.
+
+
+Let me give you a story around this. So,
+
+
+I was talking to one of my friends over
+
+
+the weekend and he told me that he has a
+
+
+nine figure deal on the table right now.
+
+
+And the way he got this 9 figure deal
+
+
+was that he's always sending an email
+
+
+out every single day. He's always
+
+
+thinking about the connections that he
+
+
+has, who he should be hitting up. But
+
+
+he's doing that all very manually cuz I
+
+
+was telling him about how cloud code is
+
+
+extremely powerful and it's going to
+
+
+help him with his business. And he said,
+
+
+"You know what, Eric, that's nice, but
+
+
+you know, I have higher leverage things
+
+
+that I can be working on." I just
+
+
+thought to myself, I said, "Well, all
+
+
+the work that you spend figuring out who
+
+
+to message, what the angle is exactly
+
+
+who you're connected to, these things,
+
+
+these this web of information is very
+
+
+hard to keep up on. Imagine if you build
+
+
+a deal sourcer like this. What else you
+
+
+can build to it? Can you retarget these
+
+
+people after you hit these people up?
+
+
+Can you have personalized messages? Can
+
+
+you figure out just how you can continue
+
+
+to add value to these people and bring
+
+
+more goodwill to them? Let me just give
+
+
+you a sense for how this this deal
+
+
+sourcer works. Right? So I I just asked,
+
+
+hey, what are the top 100 or top 10
+
+
+companies I should be going after based
+
+
+on a strategic analysis? So based on my
+
+
+LinkedIn connections, 13,000, my
+
+
+calendar history of two years and
+
+
+company goals, you know, Amazon network
+
+
+score over here, I've done 21 meetings,
+
+
+maybe deal size potential 50 to 100
+
+
+grand a month. Honestly, these are
+
+
+probably more on this side over here.
+
+
+But the the value here is who am I
+
+
+connected with? I'm connected with their
+
+
+head of paid media, global head of SEO.
+
+
+HubSpot, you know, they used uh Carrot
+
+
+before. There's a deep relationship.
+
+
+Seamrush, I'm connected with the CMO,
+
+
+direct competitor, HRES. HS I'm friends
+
+
+with uh Tim Solo, this the CMO, and I'm
+
+
+actually friends with a couple people
+
+
+there. Clay Ser, I'm connected with the
+
+
+head of marketing. And then here's the
+
+
+meetings over here. And let's just mess
+
+
+around with Amazon. Okay, the angle it's
+
+
+giving me is the SEO company that grew
+
+
+Amazon uh business and Amazon business
+
+
+to 5 million. Okay, you know, the angle
+
+
+here is saying that they have a lot of
+
+
+different business units that are
+
+
+decentralized and to go after a bunch of
+
+
+these different ones, right? And funny
+
+
+enough, we're actually talking, we've
+
+
+been talking to one of their business
+
+
+units that that's doing fairly well. I
+
+
+think they're this this business doing,
+
+
+you know, multiple eight figures a year
+
+
+already for this this um Amazon business
+
+
+and then they actually are interested in
+
+
+SEO. So, this angle is actually spot on.
+
+
+Okay, so estimated ROI 20 to1 on this or
+
+
+the HubSpot one over here. Hey, we've
+
+
+been in the orbit for years. Let's do
+
+
+something bigger. So let's say you know
+
+
+they've been using carrot single gram
+
+
+has helped you know Uber, Amazon, sales
+
+
+for or we can say hey we worked with
+
+
+like you know XCRM you know this CRM
+
+
+over here but I am actually connected
+
+
+with these um these hubs people over
+
+
+here and so my point of saying all this
+
+
+is that you can think about a bunch of
+
+
+different angles. It can be speaking at
+
+
+conferences. You can think about
+
+
+partnerships or business deals. You can
+
+
+think about just podcast collaborations
+
+
+things like that sponsorships. All these
+
+
+different things that are applicable to
+
+
+your business. These are now available
+
+
+for you to to go after. Right. I think
+
+
+we don't spend enough time thinking
+
+
+about how we can make the most of our
+
+
+networks. We build all these
+
+
+relationships, but we don't think about
+
+
+how to maximize them. So, let me show
+
+
+you how all this stuff works real quick.
+
+
+If you want to acquire customers faster
+
+
+and more efficiently this year with the
+
+
+latest strategies and tactics, then
+
+
+check out singlerain.com. That is my ad
+
+
+agency again, www.singlegrain.com.
+
+
+Check it out and if it seems like a fit,
+
+
+we'll get in touch and help you with a
+
+
+free marketing plan. I'm going to give
+
+
+you the gist of this and then I'm going
+
+
+to show you how how it kind of works.
+
+
+I'm going to walk through a couple of
+
+
+questions that I asked it, but keep in
+
+
+mind I use natural language to build
+
+
+this. I use cloud code to do it. I'm
+
+
+sitting inside of cursor and these are
+
+
+things I guarantee you like there are
+
+
+other videos that I have on this channel
+
+
+that you can check out on how to
+
+
+actually use cloud code or the business
+
+
+implications behind it. But you should
+
+
+it's going to take you a little bit
+
+
+there's a little bit of a learning curve
+
+
+to get it going. But once you have it
+
+
+going, boom, you're off into the races.
+
+
+Okay, let's take a look at this. It says
+
+
+deal manufacturing platform. Okay, so
+
+
+research targets, find warm intros,
+
+
+generate positioning for big deals,
+
+
+quick start natural language via cloud
+
+
+code. So, I'm not going to read through
+
+
+all this um text over here, but
+
+
+basically what I'm doing is I'm just
+
+
+asking it whenever I'm I have questions.
+
+
+I'm just like, "Hey, like who are the
+
+
+best deals I should be reaching out to?"
+
+
+Okay, some of the features with this,
+
+
+okay, you have real-time triggers. So,
+
+
+basically, we're looking at funding
+
+
+news, hiring news. And so, if this
+
+
+company just raised $100 million or so,
+
+
+okay, they're looking to push. If they
+
+
+just hired a CMO, they're looking to
+
+
+push, or maybe they made a change on the
+
+
+CEO side. So what we use over here is
+
+
+ampify over here called API and we use
+
+
+that to kind of scan the news in terms
+
+
+of who's a fit for ICP. Now what's also
+
+
+important to understand is that you have
+
+
+a cloudMD file and um if you're using
+
+
+cloud code and that's kind of the the
+
+
+global file that it'll look at and that
+
+
+for me it includes our company goals, my
+
+
+individual goals for the next one year,
+
+
+two year, three years or so. So it's
+
+
+going to tie in what it knows
+
+
+understands our goals to be and what our
+
+
+ICP is and then it's going to look at
+
+
+real-time triggers, look at the news and
+
+
+see what's exactly happening. So, we're
+
+
+scanning the internet for news. Okay.
+
+
+The other piece is competitive dynamics.
+
+
+And so, maybe there are clients that
+
+
+you've won in the past. So, look at your
+
+
+CRM and look at maybe look alikes that
+
+
+you should be targeting and look at uh
+
+
+news that's surrounding these look
+
+
+alikes. Maybe you're not working with
+
+
+that client anymore. Maybe you can work
+
+
+with some of the competitors and you
+
+
+have experience there. So, you should be
+
+
+able to do better, right? That's that's
+
+
+a nice angle. Conference opportunities.
+
+
+For me, I speak at a lot of conferences
+
+
+around the world. So, speak at HubSpots
+
+
+inbound conference or like the HR
+
+
+conference like the these types of
+
+
+things. um I'll speak at these things
+
+
+and I'm often looking for not just any
+
+
+speaking opportunities but more focus on
+
+
+opportunities that will actually drive
+
+
+leads and and and business for for for
+
+
+me. Okay. So conference opportunities
+
+
+would be another one. Service offerings,
+
+
+you know, is there an angle where we can
+
+
+angle in our services or maybe uh tech
+
+
+enabled services like uh the software
+
+
+that we have. Is there an angle where
+
+
+maybe we work with them before where we
+
+
+can maybe if we have they they they
+
+
+bought our software before maybe we can
+
+
+angle in uh the managed services
+
+
+component, right? And then a big thing
+
+
+here is that I've actually done a
+
+
+complete download of my LinkedIn
+
+
+connections and then I've I've kind of
+
+
+uh connected it with this. Right? So I I
+
+
+think give or take I have about 13,000
+
+
+LinkedIn connections or so. Um, I'm also
+
+
+looking at my my Google um calendar. So,
+
+
+my Google uh meeting history. Um, and
+
+
+then also this thing will help me draft
+
+
+it also it'll help me figure out the
+
+
+angle, but it'll draft messages for me
+
+
+to send via LinkedIn or send via email.
+
+
+So, all this stuff is being done. And
+
+
+and by the way, like I I did this in
+
+
+less than an hour to get this working.
+
+
+And there's a couple things that you're
+
+
+going to have to connect with inside of
+
+
+cursor and say, "Oh, do you want to do
+
+
+like a Google off over here? Do you want
+
+
+to do this over here?" Once you get over
+
+
+the hump, you're you're going to be in a
+
+
+lot better spot. And by the way, leave
+
+
+it in the comments if you want like a
+
+
+video with me doing like a complete
+
+
+setup or walking through the setup.
+
+
+That's maybe something I can consider
+
+
+doing. But I just want to the reason I'm
+
+
+doing these types of videos right now is
+
+
+to really give you a sense of of what's
+
+
+possible because once you get an idea
+
+
+for me, you it might go off and spawn
+
+
+another idea that might be more useful
+
+
+for for you, right? And so so what I've
+
+
+done here is I've imported my LinkedIn
+
+
+connections. You can just, you know,
+
+
+it'll tell you exactly what to do. Go to
+
+
+um you know, data privacy, get a copy of
+
+
+your data. I just got the
+
+
+connections.csv. And then um you know
+
+
+unique companies that I'm connected
+
+
+with, total connections I have and then
+
+
+top companies I'm connected with.
+
+
+Apparently I have 127 connections with
+
+
+Google and 89 at Microsoft and 67 at
+
+
+Meta. And then there's all this stuff
+
+
+that that happens here, right? And so
+
+
+you know I'm putting in my my different
+
+
+credentials
+
+
+for different set um things that I have
+
+
+like you know Google credentials. Uh
+
+
+Gmail like I said is connected to my my
+
+
+Gmail to look through emails. Enthropic
+
+
+as well. So so this is an example. So
+
+
+deal brief Enthropic. So this is 85 out
+
+
+of 100. It's good for you because they
+
+
+just raised, you know, 2 billion at a
+
+
+$60 billion valuation. That's January
+
+
+25. They've actually raised a lot more
+
+
+since then. But so let's say I have 15
+
+
+connections at Enthropic, eight meetings
+
+
+in the past two years. Here's my intro
+
+
+paths and then uh ready to send message
+
+
+to your connection. And then here's a
+
+
+draft. Okay. So this is cool. And I I
+
+
+look at all the other stuff it's built
+
+
+over here. So like LinkedIn importer,
+
+
+relationship scanner, all these things
+
+
+to to see how it works. So look, now
+
+
+we're we're we're kind of, you know,
+
+
+going a little deeper like SEMrush for
+
+
+example. We work with 20 different SEO
+
+
+tools. We know what's working in the
+
+
+space. HS is winning specific content
+
+
+battles. But the whole idea here is that
+
+
+it's giving you ideas on who to reach
+
+
+out to and what the angles are. I'm not
+
+
+saying whatever angles or people that
+
+
+they're pitching to you are the right
+
+
+people necessarily, but you know, I'll
+
+
+give you another one like a Google deal
+
+
+brief over here. So Jen, actually this
+
+
+guy went to my high school and so I I do
+
+
+as a matter of fact know these people
+
+
+over here. And then here's a draft
+
+
+outreach. Okay. Hey, I hope you're um
+
+
+Hey, I think it's fee you're doing hope
+
+
+you're doing well. I know you manage
+
+
+agency partnerships at Google. I run
+
+
+single rank and we work with Amazon Uber
+
+
+Salesforce on their gross marketing.
+
+
+would love to learn more about how
+
+
+Google work with the agency. Any
+
+
+interest in a quick chat? So, I might
+
+
+flip this over and say, "Hey, we've
+
+
+we've actually got this software over
+
+
+here or we've got this podcast marketing
+
+
+school that has good reach. Hey, what
+
+
+are you pushing right now? What can we
+
+
+push on Marketing School so we can
+
+
+develop a a deeper relationship here,
+
+
+right? Or what kind of events can we
+
+
+throw at at Google, for example?" So, so
+
+
+look, I'm showing you more connections
+
+
+over here, but I I really want to just
+
+
+bring your attention to anything that
+
+
+you you're going to have to that you
+
+
+want to do with people. Let's say you
+
+
+want to hire an you want to hire amazing
+
+
+people. Okay, use this deal sourcer to
+
+
+help you recruit people that you need or
+
+
+use your deal sourcer and say, "Hey,
+
+
+based on my goals, what do you think I
+
+
+should be doing with this deal sourcer
+
+
+based on the connections that I have?
+
+
+Take a look at all my connections."
+
+
+Okay, who should we be partnering up
+
+
+with on the podcast side? Like, who can
+
+
+you do a scan to see who's actually
+
+
+running podcast ads? Um, whose companies
+
+
+are running podcast ads that I'm
+
+
+actually connected to and maybe they can
+
+
+make a connection for me. Okay, they
+
+
+really like to say that they really say
+
+
+that your your net worth is your
+
+
+network. And I believe that's true. And
+
+
+this type of stuff has never been
+
+
+possible before. And I think this is
+
+
+just going to get more and more complex
+
+
+over time because as you reach out to
+
+
+these people, you might have automatic
+
+
+retargeting turned on like I told you
+
+
+earlier or you might automatically also
+
+
+DM them on on Instagram for example or
+
+
+LinkedIn or you might have a different
+
+
+sequence that that AI will actually help
+
+
+implement for you. And then over time
+
+
+you're kind of seeing what they're
+
+
+interested in and then maybe if it's
+
+
+someone you're trying to recruit, you're
+
+
+just staying in touch with them every 3
+
+
+to four months or so. Um maybe they like
+
+
+the you know the Dallas Cowboys or
+
+
+something like that and you you get them
+
+
+a jersey. I don't know. there just I
+
+
+think you're you're going to be able to
+
+
+scale out a lot of goodwill and you're
+
+
+going to be able to help others and
+
+
+eventually as long as you help others
+
+
+get what they want eventually it's all
+
+
+going to come back to you [music]
+
+
+ultimately you're looking to play the
+
+
+long game here right and um there's just
+
+
+so much you can pull from here like what
+
+
+I'm looking to do next is okay maybe my
+
+
+my Gmail's connected what else can I
+
+
+connect can I connect my my gong calls I
+
+
+want to make sure those are all
+
+
+connected here granola like then this
+
+
+thing will figure will figure out all
+
+
+the things that I've been talking about
+
+
+recently as it relates to my goals and
+
+
+[music] it's going to constantly look at
+
+
+my relationships and figure out what
+
+
+else we can do to attack and continue to
+
+
+grow the company. So, that being said, I
+
+
+hope you enjoyed this video. What I want
+
+
+you to do now is you can check out this
+
+
+next video over here on how cloud code
+
+
+is absolutely insane for businesses. You
+
+
+got to check it out over here. And we'll
+
+
+see you in that video.

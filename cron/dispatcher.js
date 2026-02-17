@@ -27,6 +27,15 @@ const POLL_MAX_INTERVAL = 120_000;
 const WAIT_TIMEOUT = 10_000;
 const CLIENT_PAUSE = 50; // ms between client polls (rate limit)
 
+// Rate limit retry
+const RL_BASE_DELAY_MS = 30_000;       // 30s initial retry delay
+const RL_MAX_ATTEMPTS = 5;             // give up after 5 retries
+const BATCH_COOLDOWN_MS = 15_000;      // 15s between dispatches
+const BATCH_RL_COOLDOWN_MS = 60_000;   // 60s cooldown after rate limit
+
+// Global rate limit state (shared across all clients in this process)
+const rlState = { lastHitAt: 0, lastDispatchAt: 0 };
+
 
 const LOG_FILE = path.join(__dirname, 'dispatcher.log');
 const LOG_MAX_BYTES = 1_048_576; // 1 MB
@@ -147,6 +156,29 @@ function buildTaskMessage(task, client, chainContext) {
 
 const delay = ms => new Promise(r => setTimeout(r, ms));
 
+// ── Rate Limit Helpers ────────────────────────────────────────────────
+
+function isRateLimitError(err) {
+  const msg = (err.message || '').toLowerCase();
+  return msg.includes('429') || msg.includes('rate limit') || msg.includes('rate_limit') || msg.includes('too many requests');
+}
+
+function parseRetryAfterMs(err) {
+  const msg = err.message || '';
+  // Match "retry-after: <seconds>" or "retry_after: <seconds>" in error text
+  const match = msg.match(/retry[_-]after:?\s*(\d+)/i);
+  return match ? parseInt(match[1]) * 1000 : null;
+}
+
+function rlBackoffMs(attempt, retryAfterMs) {
+  // Attempt 0: use retry-after header if available, else base delay
+  if (attempt === 0 && retryAfterMs) return retryAfterMs + Math.random() * 5000;
+  // Exponential: 30s, 60s, 120s, 300s
+  const expDelay = Math.min(RL_BASE_DELAY_MS * Math.pow(2, attempt), 300_000);
+  const jitter = Math.random() * (attempt + 1) * 5000;
+  return expDelay + jitter;
+}
+
 // ── Auto-Chain: Analysis → Execution ─────────────────────────────────
 
 async function maybeChainTask(client, task, dryRun) {
@@ -261,17 +293,47 @@ async function pollClient(gw, client, dryRun) {
         const taskText = `${cleanTask.title} ${cleanTask.description || ''}`;
         const routing = router.route(task.agentId, taskText);
 
-        const result = await gw.dispatchAgent({
-          agentId: task.agentId,
-          message,
-          taskId: task._id,
-        });
+        // Batch pacing — enforce cooldown between dispatches
+        const now = Date.now();
+        const sinceLastDispatch = now - rlState.lastDispatchAt;
+        const cooldown = (now - rlState.lastHitAt < 120_000) ? BATCH_RL_COOLDOWN_MS : BATCH_COOLDOWN_MS;
+        if (rlState.lastDispatchAt > 0 && sinceLastDispatch < cooldown) {
+          const waitMs = cooldown - sinceLastDispatch;
+          log(`  [${slug}] batch pacing: waiting ${(waitMs / 1000).toFixed(1)}s before dispatch`);
+          await delay(waitMs);
+        }
 
+        // Dispatch with rate limit retry
+        let result;
+        for (let rlAttempt = 0; rlAttempt < RL_MAX_ATTEMPTS; rlAttempt++) {
+          try {
+            result = await gw.dispatchAgent({
+              agentId: task.agentId,
+              message,
+              taskId: task._id,
+            });
+            break; // success
+          } catch (dispatchErr) {
+            if (isRateLimitError(dispatchErr) && rlAttempt < RL_MAX_ATTEMPTS - 1) {
+              rlState.lastHitAt = Date.now();
+              const retryAfterMs = parseRetryAfterMs(dispatchErr);
+              const waitMs = rlBackoffMs(rlAttempt, retryAfterMs);
+              log(`  [${slug}] rate limited dispatching ${task.agentId} (attempt ${rlAttempt + 1}/${RL_MAX_ATTEMPTS}): waiting ${(waitMs / 1000).toFixed(1)}s` +
+                  (retryAfterMs ? ` (retry-after: ${retryAfterMs / 1000}s)` : ' (backoff)'));
+              await delay(waitMs);
+              continue;
+            }
+            throw dispatchErr; // non-rate-limit error or exhausted retries
+          }
+        }
+
+        rlState.lastDispatchAt = Date.now();
         await convex.markDispatched(task._id, tenantId, result.runId);
         log(`  [${slug}] dispatched: ${task.agentId} ← "${task.title}" [${routing.model}] (runId: ${result.runId})`);
         dispatched++;
       } catch (err) {
-        log(`  [${slug}] dispatch error for ${task.title}: ${err.message}`);
+        const rlExhausted = isRateLimitError(err);
+        log(`  [${slug}] dispatch ${rlExhausted ? 'RATE LIMIT EXHAUSTED' : 'error'} for ${task.title}: ${err.message}`);
         await convex.markFailed(task._id, tenantId, err.message).catch(() => {});
         errors++;
       }

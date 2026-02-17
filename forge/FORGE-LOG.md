@@ -10,6 +10,98 @@ Forge reads this at the start of each nightly cycle to:
 
 <!-- Entries will be appended below by Forge during nightly cycles -->
 
+## 2026-02-17
+
+### Problems Found
+- [P-COST] Severity: 3×2=6 | main agent at 84% of daily spend ($26.66/$31.76) — Sentinel flagged as FAIL (threshold: 60%)
+- [P-TOOL] Severity: 4×1=4 | Mozi received 401 API auth error — same issue from Feb 15, still unresolved
+- [P-TOOL] Severity: 2×3=6 | 75 tool errors detected by Sentinel (up from 30 yesterday) — forge: 26, main: 49
+
+### Root Cause Analysis
+**P-COST:** main's spend is high but appears legitimate — operator-requested work including Weekly Standup sub-agent spawning. Sentinel's Check 9 correctly flagged this. Cost concentration is not a runaway loop.
+
+**P-TOOL (Mozi 401):** Third night with this issue. Mozi's API key is still invalid. No tasks can be dispatched to Mozi until operator regenerates the key.
+
+**P-TOOL (75 errors):** Error count increased from 30. Breakdown unclear from Sentinel report, but forge (26) and main (49) are the primary sources. May be transient tool execution issues or related to shell syntax residue.
+
+### Changes Applied
+- [NONE] No new patches tonight — previous fixes from Feb 16 (shell docs) are holding
+- Mozi error handling was added Feb 15 — the agent now properly reports auth failures
+- Sentinel cost monitoring (Check 9) working as designed — correctly flagged main at 84%
+
+### Pending Operator Action
+⚠️ **Mozi API Key — NIGHT 3 (ESCALATING)**
+- Error: 401 invalid x-api-key from Anthropic
+- First seen: Feb 15
+- Action required: Verify/regenerate Mozi's API credentials
+- Location: Check openclaw.json or .env for mozi's API key config
+
+### Tracked (No Action)
+- Dispatcher: HEALTHY — polling 2 clients every 2 min ✅
+- Circuit breaker: CLOSED (healthy) ✅
+- Gateway: Healthy on port 18789 ✅
+- Workspace integrity: PASS (all 18 agents have required files) ✅
+- Telegram bots: All 18 responding ✅
+- Cron jobs: 5/7 enabled, healthy ✅
+- Slack token: Still missing (blocking Sentinel channel delivery — low priority)
+
+### Metrics
+- Fleet 24h cost: $31.76 (main: $26.66, forge: $4.96, sentinel: $0.14)
+- Session errors: 75 (up from 30 — investigating)
+- Tasks dispatched: 0 (overnight — normal, queue empty)
+- Streak: Night 3 with system stable (no new patches needed)
+
+---
+
+## 2026-02-16
+
+### Problems Found
+- [P-PROMPT] Severity: 4×5=20 | **Shell documentation mismatch** — TOOLS.md files stated "PowerShell" but exec runs bash. Caused 17+ syntax errors across main, forge, scout.
+- [P-COST] Severity: 3×2=6 | main agent at 76% of daily spend ($14.05/$18.58) — Sentinel flagged, but caused by legitimate operator requests
+- [P-TOOL] Severity: 2×3=6 | 30 tool errors (down from prior days) — mix of shell syntax, ENOENT, and web fetch 403s
+
+### Root Cause Analysis
+**P-PROMPT (Critical):** Multiple agent TOOLS.md files contained incorrect documentation stating the exec tool uses PowerShell. Actual behavior: exec runs in bash (Git Bash on Windows). Agents following the documentation used `Get-ChildItem`, `Test-Path`, `Invoke-RestMethod` and other PowerShell cmdlets, which failed with "command not found" errors.
+
+**P-COST:** main's spend is legitimate — operator-requested work, not runaway loops. Sentinel's new Check 9 (cost anomaly detection) correctly flagged the concentration but no fix needed.
+
+**P-TOOL breakdown:**
+- Shell syntax errors: 17 (now fixed via TOOLS.md update)
+- ENOENT file not found: 5 (files genuinely don't exist — SKILL.md, old paths)
+- Web fetch 403: 5 (Cloudflare blocks — normal for web scraping)
+- EISDIR: 2 (agents tried to read directories as files — training issue)
+
+### Changes Applied
+- [AUTO] forge/TOOLS.md — PATCHED — Corrected shell environment docs (bash not PowerShell)
+  Rollback: `cp ~/.openclaw/forge/backups/2026-02-16/forge__TOOLS.md ~/.openclaw/forge/TOOLS.md`
+- [AUTO] workspace/TOOLS.md — PATCHED — Corrected shell environment docs for Archer
+  Rollback: `cp ~/.openclaw/forge/backups/2026-02-16/workspace__TOOLS.md ~/.openclaw/workspace/TOOLS.md`
+- [AUTO] main/TOOLS.md — PATCHED — Corrected shell environment docs
+  Rollback: `cp ~/.openclaw/forge/backups/2026-02-16/main__TOOLS.md ~/.openclaw/main/TOOLS.md`
+- [AUTO] scout/TOOLS.md — PATCHED — Corrected shell environment docs
+  Rollback: `cp ~/.openclaw/forge/backups/2026-02-16/scout__TOOLS.md ~/.openclaw/scout/TOOLS.md`
+- [SKIPPED] sentinel/TOOLS.md — Already had correct bash documentation
+
+### Pending Operator Action
+None. Previous night's Mozi API key issue still requires verification if not yet resolved.
+
+### Tracked (No Action)
+- Session errors: 30 (down from 254 on Feb 12 — 88% improvement) ✅
+- Dispatcher: HEALTHY — polling 2 clients every 2 min, 0 tasks queued overnight ✅
+- Circuit breaker: CLOSED (healthy) ✅
+- Gateway: Healthy on port 18789 ✅
+- Workspace integrity: PASS ✅
+- Cron jobs: 5/7 enabled, healthy ✅
+- Sentinel cost check: Correctly flagged main at 76% (new Check 9 working) ✅
+
+### Metrics
+- Fleet 24h cost: $18.58 (main: $14.05, forge: $4.06, scout: $0.33, sentinel: $0.14)
+- Session errors: 30 (continued decline from 254 → 13 → 30, pattern suggests shell fixes will reduce further)
+- Tasks dispatched: 0 (overnight — normal)
+- Streak: Night 2 with improvements (shell documentation fixed)
+
+---
+
 ## 2026-02-15
 
 ### Problems Found

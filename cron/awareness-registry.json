@@ -98,6 +98,60 @@
       "agents": ["silas", "scout"]
     },
     {
+      "docId": "cseo_schema_validator",
+      "filepath": "silas/skills/cseo-schema-validator.md",
+      "triggers": ["schema validation", "schema audit", "JSON-LD", "structured data", "schema deprecation", "rich results", "schema markup"],
+      "priority": 7,
+      "description": "Claude SEO schema validator — detection, validation, deprecation awareness, JSON-LD generation",
+      "tokenEstimate": 1200,
+      "agents": ["silas"]
+    },
+    {
+      "docId": "cseo_content_quality",
+      "filepath": "silas/skills/cseo-content-quality.md",
+      "triggers": ["E-E-A-T", "EEAT", "content quality", "trust signals", "expertise", "authoritativeness", "AI content detection"],
+      "priority": 7,
+      "description": "Claude SEO content quality — E-E-A-T evaluation, AI content signals",
+      "tokenEstimate": 1100,
+      "agents": ["silas"]
+    },
+    {
+      "docId": "cseo_technical",
+      "filepath": "silas/skills/cseo-technical.md",
+      "triggers": ["Core Web Vitals", "CWV", "INP", "LCP", "CLS", "technical SEO audit", "crawlability", "JS rendering", "page speed"],
+      "priority": 7,
+      "description": "Claude SEO technical — 8-category technical audit with CWV, crawlability, security",
+      "tokenEstimate": 1500,
+      "agents": ["silas"]
+    },
+    {
+      "docId": "cseo_geo",
+      "filepath": "silas/skills/cseo-geo.md",
+      "triggers": ["GEO", "generative engine optimization", "AI search optimization", "AI Overviews", "Perplexity", "ChatGPT visibility", "Copilot"],
+      "priority": 6,
+      "description": "Claude SEO GEO — generative engine optimization scoring for AI search platforms",
+      "tokenEstimate": 1000,
+      "agents": ["silas"]
+    },
+    {
+      "docId": "cseo_images",
+      "filepath": "silas/skills/cseo-images.md",
+      "triggers": ["image optimization", "alt text", "WebP", "AVIF", "lazy loading", "responsive images", "image compression", "image SEO"],
+      "priority": 5,
+      "description": "Claude SEO images — alt text audit, modern formats, responsive images, lazy loading",
+      "tokenEstimate": 800,
+      "agents": ["silas"]
+    },
+    {
+      "docId": "cseo_sitemap",
+      "filepath": "silas/skills/cseo-sitemap.md",
+      "triggers": ["sitemap", "XML sitemap", "sitemap validation", "sitemap generation", "sitemap.xml"],
+      "priority": 5,
+      "description": "Claude SEO sitemap — XML sitemap validation, completeness check, generation guidance",
+      "tokenEstimate": 700,
+      "agents": ["silas"]
+    },
+    {
       "docId": "archer_workflows",
       "filepath": "workspace/skills/workflows.md",
       "triggers": ["workflow", "W-001", "W-002", "W-003", "W-004", "W-005", "W-006", "W-007", "W-008", "onboarding workflow", "multi-agent workflow"],

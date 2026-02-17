@@ -1,0 +1,2242 @@
+OpenClaw is the most powerful AI
+
+
+assistant that exists right now. But if
+
+
+you haven't done these five things after
+
+
+installing it, you're really only going
+
+
+to be utilizing maybe just 10% of its
+
+
+powers. Most people are going to install
+
+
+this on their VPS or their Mac Mini.
+
+
+They're going to connect it to Telegram
+
+
+or WhatsApp, send a few messages
+
+
+backwards and forwards and be like,
+
+
+"This just feels like I'm chatting to
+
+
+Claude." Which is kind of true. Now, the
+
+
+difference between Open Claw being just
+
+
+a chatbot and an actual AI employee
+
+
+comes down to what I'm about to show you
+
+
+in this video. And if you stick to the
+
+
+end, I'm going to show you a way to save
+
+
+70% on your API costs when using
+
+
+OpenClaw. So, with that being said,
+
+
+let's get over to my laptop and get
+
+
+started. So, before we get into the meat
+
+
+of today's video, you will need an
+
+
+OpenClaw installation. Now, there are
+
+
+different ways you can go about doing
+
+
+this. Some people spend hundreds of
+
+
+dollars on a brand new Mac Mini. Other
+
+
+people just go the VPS route. And for
+
+
+speed and lower cost and just ease of
+
+
+access, you can go ahead and get a VPS
+
+
+here with Hostinger starting at just
+
+
+$4.99 a month for their basic plan. I
+
+
+use a KVM2. It's perfectly capable for
+
+
+my use cases right now, and it's only
+
+
+$6.99 a month. And that gives you two
+
+
+CPU cores, 8 gigs of RAM, a bunch of
+
+
+disk space, and if you want a bit more
+
+
+higher performance, you can go up to the
+
+
+KVMA, and it's only 20 bucks a month.
+
+
+So, thanks for Hostinger for sponsoring
+
+
+this video. And the cool thing about
+
+
+Hostinger is they have a one-click
+
+
+installation. So, once you sign up, you
+
+
+can just come into your account here.
+
+
+And what I do is I came into the
+
+
+projects and go into the catalog, sorry.
+
+
+And you can just search open claw and
+
+
+you can come in here and you can deploy
+
+
+and obviously put in your API tokens and
+
+
+you can deploy this in literally one
+
+
+click. Now the caveat is this is not
+
+
+going to be fully secure and that's
+
+
+where the tutorial comes in that I put
+
+
+together on my channel on how to set up
+
+
+openclaw on a VPS securely. So that
+
+
+video will be linked somewhere on the
+
+
+screen and definitely in the description
+
+
+if you want to go through that process
+
+
+to secure your connection which I think
+
+
+is absolutely compulsory. I wouldn't
+
+
+install Open Chlorin VPS without going
+
+
+through that training. Anyhow, let's
+
+
+crack on with the video. Thanks again
+
+
+for Hostinger for sponsoring this video.
+
+
+And if you use my discount code growth
+
+
+lab, you're going to get yourself a nice
+
+
+10% off. So with that being said, let's
+
+
+get into the first thing that you can do
+
+
+with open claw and that is to understand
+
+
+the MD files that you have access to
+
+
+that gives context to your various
+
+
+different bots that you can create here.
+
+
+It's also going to give it a
+
+
+personality. It's going to give it
+
+
+memory. So I'm going to look at all of
+
+
+the files that you can edit here in
+
+
+Quadbot. So, one of the things that you
+
+
+can do to check out those files, you can
+
+
+just ask. I mean, I'm going to voice
+
+
+note in here because I use Whisper Flow.
+
+
+What MD files you have access to,
+
+
+including the agents MD, the soul MD,
+
+
+and all of those. Can you just list
+
+
+those for me and show me what's inside
+
+
+of those documents?
+
+
+So, if you've not created any of those,
+
+
+there probably will be some templates
+
+
+set up, but to give your individual
+
+
+agents a role, essentially, you're going
+
+
+to need to fill out these documents.
+
+
+Now, it's important to figure out and
+
+
+think for yourself what is the goal of
+
+
+my agents because I have three here.
+
+
+I've got an image creator, I've got a
+
+
+content writer, and then I've got master
+
+
+orchestrator is what we've got here in
+
+
+this chat. So, once it's loaded
+
+
+everything here, the cool thing is it's
+
+
+going to tell you exactly everything you
+
+
+need to know about these files and how
+
+
+to use them, how to edit them, and how
+
+
+to update them. And you can literally do
+
+
+everything from this chat, which is the
+
+
+best thing. Now, if you want to access
+
+
+your files like in a Finder window, for
+
+
+example, like I have here, I've
+
+
+installed this tool called Mountain
+
+
+Duck. Now, maybe some of you will have
+
+
+heard of Cyberduck. It's a spin-off
+
+
+company from that that allows you to
+
+
+connect to remote servers, and you can
+
+
+ask Claude. That's what I did. Um, you
+
+
+will need to connect your Tailscale
+
+
+account and authenticate the connection
+
+
+that you're going to make with Mountain
+
+
+Duck. But once you've done that, you'll
+
+
+have the IP address here and you'll just
+
+
+connect using I mean I I'll just show
+
+
+you real quick. So when you open
+
+
+Mountain Duck, you'll have options to
+
+
+open a connection and what you'll simply
+
+
+need to do is head over to the SFTTP
+
+
+and you pop in the URL that you've got
+
+
+from Tailcale that you've authorized and
+
+
+then the folder path. What I found I've
+
+
+just copied I did this var. Docker
+
+
+volumes. If you've installed it through
+
+
+Docker with the VPS with the method that
+
+
+I showed you, then you'll just pop that
+
+
+in. You'll put root and then you'll
+
+
+click connect. If you're on Mac, it will
+
+
+ask you to go to your system settings to
+
+
+authenticate. And then you'll have
+
+
+access to all of the files. As you can
+
+
+see here, there's the config and then
+
+
+there's the workspace. And if I drop
+
+
+these down, you're going to see all the
+
+
+different files inside of here. So yeah,
+
+
+you can see my agents. We've got these
+
+
+clawbot JSONs. We've got the sub agents.
+
+
+Okay. Okay. So when I SSH using Mountain
+
+
+Duck into this folder that I showed you
+
+
+on Claude the uh just this path here
+
+
+when I do that what I'm able to see is
+
+
+these two files here. We've got the
+
+
+config and the workspace. If you just
+
+
+open these go in and you can see got the
+
+
+agents. If I click into here does take a
+
+
+second for everything to load. You can
+
+
+see in my agents folder I've got the
+
+
+content writer. I've got the image
+
+
+creator and I've got the main. And if we
+
+
+drop these down, you can see models,
+
+
+some sessions, image. You can explore
+
+
+these these files and see what's in
+
+
+here. These are not the ones that I
+
+
+wanted to show you into here. We can see
+
+
+we've got the agents MD file. We've got
+
+
+the heartbeat MD file, the identity MD
+
+
+file, memory, soul, tools, and user. So
+
+
+these are all files that are going to
+
+
+give your agent context. So in my
+
+
+agents.mmd file when you're in a chat
+
+
+you can ask claot to add information to
+
+
+this file and this is essentially a
+
+
+process you know every session before
+
+
+doing anything read the working memory
+
+
+read the soul.md read the user.md all of
+
+
+this stuff right so you can tell it and
+
+
+give it instructions of what to add to
+
+
+your agents.md file this is kind of like
+
+
+the master file that gives a process and
+
+
+some structure to your agents you can
+
+
+also add in your GitHub repo and things
+
+
+like this Right? A memory.md file. It's
+
+
+going to give your agent some memory
+
+
+about the things that you're working on.
+
+
+Soul, what it says on the tin. It's
+
+
+giving your agent some kind of
+
+
+character, some kind of flavor, some
+
+
+personality, the vibe, the boundaries,
+
+
+the core truths. Okay? And this is
+
+
+something that you'll update as you move
+
+
+forward and create some different use
+
+
+cases and agents tools, what it's kind
+
+
+of got access to, and some of the files
+
+
+and the user MD file. This is all the
+
+
+information that it stores about me, the
+
+
+human that it's working with. So, if you
+
+
+don't have access to Mountain Duck and
+
+
+you just want to do everything here in
+
+
+the chat, it's totally fine. And you can
+
+
+see here from my previous request
+
+
+earlier in the video, you see got them
+
+
+agents MD file. This is essentially
+
+
+workplace instructions, how the agent
+
+
+operates, how the heartbeat behaves,
+
+
+etc., etc. Memory MD. This is longerterm
+
+
+memory. Like I mentioned, we got some
+
+
+group chats. So to add something to
+
+
+memory, you want to say remember this
+
+
+and it's going to update one of the
+
+
+relevant files here. It does also have
+
+
+files for different days, which is super
+
+
+useful. So the skills that you install
+
+
+are going to be the tools that your
+
+
+agent has access to. We're going to get
+
+
+into that in just a second because this
+
+
+is where things get really, really
+
+
+powerful. Now, I don't have heartbeat.
+
+
+MD set up. This is basically having your
+
+
+agent checking in on you. You know, some
+
+
+people do it every half an hour, every
+
+
+hour, this kind of thing. So, if you
+
+
+have stuff that you're working on that
+
+
+you can just set off and work along with
+
+
+your agents in the background, this is
+
+
+great for that. But if you have like
+
+
+one-off tasks that you just do and it
+
+
+gets completed and that's it, then they
+
+
+might not be super useful for you in
+
+
+this case. So, during your heartbeats,
+
+
+there is memory maintenance. So, it's
+
+
+going to read through the recent memory
+
+
+files, identify any significant events,
+
+
+lessons, or insights worth keeping, and
+
+
+then it's going to update your actual
+
+
+memory file with those distilled
+
+
+learnings. The memory from your
+
+
+day-to-day is stored in a different
+
+
+file. Just to be clear, the soul file
+
+
+here is just the personality and the
+
+
+core principles. You can add some real
+
+
+character here if you want to go for
+
+
+that. Identity.md is the who I am. So
+
+
+the name, the vibe, and the role. So
+
+
+this is going to be different for each
+
+
+of your uh sessions here. And on that
+
+
+note, like how do you create different
+
+
+agents? And it comes down to your
+
+
+sessions, right? And you can actually
+
+
+create a new agent just by talking to
+
+
+your main agent in the chat. It's that
+
+
+simple. Now, the Bootstrap MD, I've not
+
+
+used this. It's missing. It says here,
+
+
+"This would be my birth certificate for
+
+
+the first run setup. I didn't go through
+
+
+any setup process here. I just went
+
+
+through the security that I've done and
+
+
+shared in my previous video." So, that's
+
+
+the basics of the files that your agent
+
+
+has access to. So, an easy way to get
+
+
+started on editing these is just to ask
+
+
+your agent to interview you based on the
+
+
+tasks you want to complete, the kind of
+
+
+personality you want to give it. Just
+
+
+ask it to interview you. so that you can
+
+
+fill out these documents, these MD files
+
+
+with, you know, some initial concepts,
+
+
+some ideas, some placeholders and some
+
+
+information. Yeah, it's going to
+
+
+interview about yourself, maybe some of
+
+
+the skills that you want to add, your
+
+
+identity, and also what's in the soul.md
+
+
+file. So, speaking of skills, that's how
+
+
+you take your Clawbot to the next level.
+
+
+It's going to give you your Clawbot,
+
+
+let's say, superpowers in a way, but
+
+
+it's also where you need to be very
+
+
+careful. So, this is clawhub.ai.
+
+
+This is where you're going to find
+
+
+skills to include and install for your
+
+
+Claudebot. Now, I will also say that
+
+
+your Clawed skills that you may have
+
+
+installed previously, you can also move
+
+
+them over to your VPS and give access to
+
+
+your bot. You can give access to those
+
+
+skills you've already got created. All
+
+
+right, but in this case, what we're
+
+
+going to do is just we're going to add
+
+
+the installation here, the npx. We're
+
+
+going to come over to our account into
+
+
+my Docker Manager into my terminal. I'm
+
+
+going to run this command and this is
+
+
+going to add the methodology that we're
+
+
+going to use, the tool that we're going
+
+
+to use to install these skills. That's
+
+
+done. So now we should be able to
+
+
+oneshot install any skill on clawhub.
+
+
+Now you got to be careful cuz there has
+
+
+been some malicious skills created and
+
+
+uploaded here. Now, the cool thing is I
+
+
+found this one called Super Memory, and
+
+
+this is going to be huge, and we'll get
+
+
+into it in just a second, but you can
+
+
+see we've got the security scan. Okay,
+
+
+so now we have some visibility on the
+
+
+safety of these skills before we install
+
+
+them. The other thing to look at is to
+
+
+check out on GitHub if we can find the
+
+
+git link. You know, we can click view
+
+
+report here. If you want to take a look
+
+
+at what's inside the reports, you can
+
+
+see everything looks green. details
+
+
+community perhaps nothing on that okay
+
+
+boom I've installed super memory and it
+
+
+was super simple I literally just asked
+
+
+in the chat can you install super memory
+
+
+he said ah like super memory is just an
+
+
+API and let's see I can build you a
+
+
+custom skill I'm like oh hold on let's
+
+
+just grab it from here so I basically
+
+
+just copied the link put it in and
+
+
+installed it no problem now you will
+
+
+need to get an API key from super memory
+
+
+this is the platform form here. And
+
+
+essentially what this is going to do is
+
+
+going to give permanent memory to your
+
+
+agent. So you'll simply just log in. I
+
+
+could do continue with GitHub in my case
+
+
+and I already have an account. I spoke
+
+
+about super memory last year when it was
+
+
+first released and got a pretty huge
+
+
+response for it. So you can go to your
+
+
+API keys, slot in one of your API keys
+
+
+into your config file, put it here in
+
+
+the chat if you want, if you really want
+
+
+to do it. There is a way around it which
+
+
+I'm not going to get into in too much
+
+
+detail right now, but you can SSH
+
+
+basically use the terminal to going to
+
+
+your ENV file and essentially you put
+
+
+store all your secrets in your env file
+
+
+point to a placeholder and then that
+
+
+placeholder is then used in your bot
+
+
+here without exposing your API keys in
+
+
+the chat. It's just bad practice. Now,
+
+
+you've already secured your instance
+
+
+here, so I wouldn't be super worried
+
+
+about that, but it'll do it for you in
+
+
+any case. If you want to add your API
+
+
+key here in the chat, it'll add it to
+
+
+your Cladbot config. All right, so
+
+
+that's one of the skills that you can
+
+
+add in here. If you want to learn more
+
+
+about super memory, you can definitely
+
+
+check out the documentation, but that's
+
+
+going to make your agents on top of the
+
+
+memory files that you've already got
+
+
+access to with Claudebot. It's going to
+
+
+give um a lot more context and also
+
+
+reduce the the amount of tokens needed
+
+
+to recall this memory as well. Now,
+
+
+those of you who have uh eagle eyes,
+
+
+you'll have seen there is a skills
+
+
+section here on the dashboard. And yeah,
+
+
+I've imported all of my Claude skills
+
+
+into here. In any case, but you can
+
+
+scroll down. You see there's a few
+
+
+different there's GitHub, Himalaya,
+
+
+which to be fair, I've already
+
+
+installed. Not sure why it says blocked,
+
+
+Nanabani. Pop in your API key here, but
+
+
+I find it's just a lot lot easier and
+
+
+more straightforward. But if you find
+
+
+something on cloud hub like let's say
+
+
+this perplexity search grab the URL and
+
+
+say hey can you install this perlexity
+
+
+skill and it should go off install it
+
+
+and then let you know what it needs uh
+
+
+to run this. So you can start adding in
+
+
+skills. Let's think about it from like
+
+
+what would be most useful. Do you want
+
+
+to give access to your emails? Do you
+
+
+want to give access to your calendar? Do
+
+
+you want to give access to like nano
+
+
+banana for image creation? Etc. etc. So,
+
+
+can you see how it just responded here?
+
+
+It's like no browser available in its
+
+
+container, but I can build a perplexity
+
+
+skill from scratch, which is something
+
+
+we're going to get on to later in this
+
+
+video. But it can basically create its
+
+
+own skills. It also suggested why don't
+
+
+we just grab it from the claw hub and
+
+
+just copy and paste a skill MD file in
+
+
+here. Also a valid option. So, you can
+
+
+download the zip file in my browser
+
+
+here. I mean, it's just a super basic
+
+
+skill file which you could probably get
+
+
+created in the chat anyway. you know,
+
+
+you can just copy and paste that in and
+
+
+and it'll it'll create its own skill
+
+
+file. So, in any case, you'll want to
+
+
+create and create skills or add skills
+
+
+that are going to give you access to the
+
+
+tools that you use and the services that
+
+
+you might need access to. So, the other
+
+
+thing that I haven't got fully set up on
+
+
+my account yet is the heartbeat. So, a
+
+
+cool use case for this would be email
+
+
+management. If you want to have your AI
+
+
+scan your inbox, find out the most
+
+
+important emails, let's say for the day,
+
+
+or you run that maybe twice a day, you
+
+
+could get your agent to do that, like
+
+
+what needs your attention right now, and
+
+
+then it can send you the links to those
+
+
+emails or give you a summary. Or you can
+
+
+just voice note back into Telegram or
+
+
+type in the response that you want to
+
+
+send back and it will write the email
+
+
+and send it for you, which I think is
+
+
+pretty insane. So, how would we create
+
+
+the heartbeats.mmd file? Well, hey,
+
+
+could you help create the heartbeats MD
+
+
+file? I want you to check my emails
+
+
+three times a day and I want you to send
+
+
+me a summary of the emails that need my
+
+
+personal response and give me those
+
+
+summaries that I can then respond to
+
+
+myself whether I send you a message back
+
+
+on Telegram.
+
+
+So now it's going to add this to my
+
+
+heartbeatd file. Okay, you can see it's
+
+
+just asking me for some tools here that
+
+
+I might need to install to set up this
+
+
+heartbeat. So I'm going to go ahead and
+
+
+ask give me the setup for one. So I'm
+
+
+going to set up Himalaya uh real quick
+
+
+and integrate this so it can actually
+
+
+set up this heartbeat for me right now.
+
+
+So it's asking me to add my app password
+
+
+which is what you would create to give
+
+
+access to your Gmail. And I need to add
+
+
+it to my config. So this is how you
+
+
+would get access to the config in your
+
+
+terminal. So I will just show you that
+
+
+real quick. And this is where you would
+
+
+add some of these these secrets. So you
+
+
+can see here I'd want to just add my
+
+
+secret into here and I will then save
+
+
+it. And now Cordbot will have access to
+
+
+that. Okay. Boom. So we've got all that
+
+
+set up. It sent me my email summaries to
+
+
+my Telegram here which is great. So
+
+
+that's the heartbeat. You can set it up
+
+
+for whatever process you want. Thing is
+
+
+it's going to use tokens every single
+
+
+time it spins up. So that's just
+
+
+something to keep in the back of your
+
+
+mind. It's very easy to spend a lot of
+
+
+money on these. But I do have something
+
+
+that's going to have a huge impact on
+
+
+your token usage. It's going to reduce
+
+
+it by 70% and it's going to allow you to
+
+
+switch dynamically between different
+
+
+models. So you're not using the most
+
+
+expensive model just for the most basic
+
+
+of tasks. So we're going to get into
+
+
+that in just a second. But there is a
+
+
+prompt that we're going to drop in now.
+
+
+Uh I think this is the fifth sort of tip
+
+
+that I've got here for you. And this is
+
+
+the figure it out directive. So, I found
+
+
+this on X somewhere, bookmarked it, and
+
+
+we're just going to paste it in here.
+
+
+I'll show you what this looks like. So,
+
+
+you have unrestricted internet access,
+
+
+browser automation, and shell execution.
+
+
+When given a task, I can't is not in
+
+
+your vocabulary. If you don't know how
+
+
+to do it, search for it. Read the
+
+
+documentation, find tutorials, reverse
+
+
+engineer it. I don't know how means I
+
+
+haven't learned yet. So, learn. Before
+
+
+saying something is impossible, you must
+
+
+search for at least three different
+
+
+approaches. Try at least two of them and
+
+
+document why each failed with specific
+
+
+errors. Your job is to deliver results,
+
+
+not excuses. If plan A fails, try plan
+
+
+B. I think this is pretty good. You're
+
+
+not a help desk. You're an operator
+
+
+operator ship. So, I'm going to Can you
+
+
+add this to my agents MD file? So, this
+
+
+is kind of the thing that you want in
+
+
+your agents.md file. Um, I think this is
+
+
+pretty cool. So, I'm just adding this
+
+
+in. So, here we have claw router. This
+
+
+is going to save you a ton of money in
+
+
+the long run. Now, people have been
+
+
+figuring out how to set this up. This is
+
+
+just one way of doing it. I'm not saying
+
+
+it's the best way. It's just the most
+
+
+recent thing that I've seen. Now, just
+
+
+bear in mind it's quite a new project.
+
+
+It's got 1.2K stars here on GitHub. So,
+
+
+that's pretty damn good. What you could
+
+
+do is you could ask, "Hey, can you
+
+
+install this
+
+
+and we'll see how it processes that
+
+
+request while we take a look at the
+
+
+readme. And this will give you
+
+
+instructions on, you know, why bother
+
+
+using this in the first place. So, it's
+
+
+100% local routting, so zero external
+
+
+calls, no API calls for routting
+
+
+decisions ever. Uh, it's going to choose
+
+
+from 30 different models. Um, and it
+
+
+uses micro payments using USDC on base.
+
+
+So, that is a a crypto network. You
+
+
+don't need to put a ton of money on
+
+
+there. Like a few dollars is fine. And
+
+
+it's open source, fully open source. Um,
+
+
+and you can even ask open core how claw
+
+
+router actually is going to save you
+
+
+money. So it does have an installation
+
+
+guide here. Now I would hope that
+
+
+clawbot is going to pull out of the
+
+
+installation and give us uh step by step
+
+
+on how to install it. There is something
+
+
+else that you can also install that's
+
+
+going to reduce token usage and this is
+
+
+the QMD skill. This essentially is gives
+
+
+your corebot quick markdown search. So
+
+
+if you have a ton of files in context,
+
+
+right, as as an MD file, a markdown
+
+
+file, this is going to allow the
+
+
+searching of those files to be much
+
+
+quicker using less tokens. So again, we
+
+
+could just copy this and say, can you
+
+
+install this skill? And we'll see how it
+
+
+does.
+
+
+Now, it's already in process, so I'm not
+
+
+going to interrupt this right now, but I
+
+
+am just going to add it to the queue.
+
+
+that it can process in just a moment.
+
+
+So, real quick, just how this claw
+
+
+router actually works. Um, you can get
+
+
+it to install it by giving it the link,
+
+
+but you will need to use this wallet
+
+
+address that it will spin up for you
+
+
+that you can fund with some USDC. Now,
+
+
+you can just send five bucks or $10 or
+
+
+whatever. You will need to send that
+
+
+from a wallet or an exchange. If you're
+
+
+not in the cryptosphere, then that's
+
+
+probably something you may have to
+
+
+experiment with or wait for alternative
+
+
+solutions to this problem of not wanting
+
+
+to use Opus 4.5 and now Opus 4.6, which
+
+
+is even more expensive for the most
+
+
+basic of tasks, right? So, this way
+
+
+we're able to optimize our expenses.
+
+
+Now, it's fine if you, you know, you
+
+
+don't mind spending hundreds of dollars
+
+
+day if you use those high-end models,
+
+
+which is easily done if you're just
+
+
+spending a few hours a day chatting
+
+
+about back and forth with your clawbot,
+
+
+getting it to run agents on multiple
+
+
+tasks, having your heartbeat running
+
+
+every 30 minutes, which I think is
+
+
+excessive, but some people use it. So,
+
+
+it just depends on kind of the return
+
+
+that you're going to get from the work
+
+
+that it's doing. That's essentially the
+
+
+equation that you've got to spell out
+
+
+for yourself and and figure out. Okay,
+
+
+so the issue I've just ran into is that
+
+
+I installed this with the Maltbot
+
+
+oneclick installation. Now, it does say
+
+
+at the top here, Claudebot. Now, the
+
+
+issue I had was it added the plugin to
+
+
+my config file. Great. And then
+
+
+everything crashed and my Docker image
+
+
+was restarting and crashing and
+
+
+restarting and crashing. So with the
+
+
+help of Claude here was able to drop
+
+
+into the correct file in my terminal
+
+
+here and was able to remove the
+
+
+information. And the issue that it seems
+
+
+here is that claw router was built for
+
+
+openclaw right and obviously open claw
+
+
+is the final version here of all these
+
+
+different names basically for the same
+
+
+thing. So it's a bit weird that doesn't
+
+
+work or is not compatible with the
+
+
+version that I'm running. So, in any
+
+
+case, it's giving me some options here,
+
+
+right? Fork and adapt. So, it could
+
+
+clone the repo and add the right
+
+
+manifest file, which is what I've told
+
+
+it to go ahead and do. So, I'm going to
+
+
+wait until that's done and we'll see how
+
+
+that works out. But, in any case, you
+
+
+could create your own skill. You could
+
+
+create your own process in the
+
+
+agents.mmd file of when to use the more
+
+
+complex models and when to use something
+
+
+simpler, right? and making sure that you
+
+
+give the API keys and access to those
+
+
+other models. Okay, so while we're
+
+
+waiting for this to finalize, I just
+
+
+wanted to come over to my sessions here
+
+
+and just show you what going on here cuz
+
+
+I've got the image creator main, right?
+
+
+And what I've done is I've handed over
+
+
+the process for image creation for this
+
+
+agent. And this is what you're going to
+
+
+spend probably most of your time doing
+
+
+is creating these these separate agents
+
+
+and giving them their own role and
+
+
+responsibilities and personality agents
+
+
+MD file that's different for each of
+
+
+these. So I am going to ask in the chat
+
+
+here what's your agent MMD file. So
+
+
+there's no memory all working files and
+
+
+that's intentional because this is all
+
+
+just project based. So when I come in
+
+
+and use this uh we don't need to
+
+
+remember anything. We just need to use
+
+
+what's in the agent's file. You can see
+
+
+this is his operational manual. All
+
+
+right. So great news was able to fork
+
+
+the uh repository and install it and
+
+
+it's not crashed yet. So I think we're
+
+
+good to go. So if you are running an
+
+
+older version like Claudebot, you may
+
+
+want to go through this process. So it's
+
+
+pretty cool how it was able to just come
+
+
+up with that solution. I'm not going to
+
+
+run it right now, but it will give you a
+
+
+wallet address that you can transfer
+
+
+crypto in and you can try it out. Um,
+
+
+one of the thing that I wanted to get
+
+
+into real quick is the configuration of
+
+
+your individual agents here. Right? So,
+
+
+if I come into this content writer agent
+
+
+and I ask it, hey, can you show me your
+
+
+agent.mmd file, your soul.md file, and
+
+
+these are the instructions I've given
+
+
+you um, for this project and all the the
+
+
+context files. So, with my content
+
+
+writer here, we do have an identity,
+
+
+right? the name Quill content writing
+
+
+specialist and it's got access to some
+
+
+content writing skills that I've
+
+
+uploaded into here. There is not
+
+
+actually much else in the solder MD file
+
+
+which definitely needs updating. When
+
+
+you're speaking to your agent and you're
+
+
+developing something like this, making
+
+
+sure to commit stuff to your sold MD
+
+
+file specifically for this agent as
+
+
+well. And that goes for your agent.mmd
+
+
+file. It goes for your memory and all of
+
+
+that good stuff. All right. So finally,
+
+
+one of the other really cool things you
+
+
+can do here is you can create your own
+
+
+skill, right? Does no need to actually
+
+
+go over to Clawhub and download and
+
+
+search for something that you want here.
+
+
+If you have a process that you do over
+
+
+and over again, whether it's a creative
+
+
+process, whether you're accessing a
+
+
+certain API and doing image creation in
+
+
+in my case, well, you can just come in
+
+
+and say, "Hey, this is my process." Or
+
+
+you could go through the whole process
+
+
+in one of these chats and say everything
+
+
+that we've done today, can you turn it
+
+
+into a chord skill and it will go ahead
+
+
+and and just create the skill. It will
+
+
+write the skill MD file and then any of
+
+
+the accompanying MD files that you might
+
+
+need to help run that skill. It's
+
+
+essentially something that if you do it
+
+
+over and over again, maybe you do the
+
+
+same thing every day, it's definitely
+
+
+worth creating a skill around. And in
+
+
+this folder, this is typically what a
+
+
+skill would look like. You would have
+
+
+the initial skill.md file which gives it
+
+
+a name and description and kind of
+
+
+what's in this skill. So this is like a
+
+
+contents of your book giving the LLM
+
+
+access of like what is inside of this
+
+
+book instead of actually reading the
+
+
+whole book. It's just going to read this
+
+
+summary and point to the chapters or in
+
+
+this case the MD files of these
+
+
+different in this case copyrighting
+
+
+principles. We've got templates etc. And
+
+
+then these are the files, right? So it's
+
+
+not loading all these files at once.
+
+
+It's loading the skill first,
+
+
+determining what to use from that skill
+
+
+for your specific request. And you can
+
+
+create a skill like this around almost
+
+
+anything. And you could have scripts in
+
+
+here. You could have API calls. You
+
+
+could have whatever you want that's
+
+
+going to help you with your specific
+
+
+process. So that's what I mean by
+
+
+creating the skill. You can just do that
+
+
+here in the chat. Um, and you can also
+
+
+do it in Claude desktop version as well.
+
+
+and you can sort of add it and transfer
+
+
+it over here to your VPS. But I would
+
+
+just set everything up in here. I think
+
+
+it's a lot smoother, a lot easier to do.
+
+
+And the cool thing is it's just going to
+
+
+be able to add it to your files here
+
+
+without doing any like copying from your
+
+
+desktop and uploading and all of that
+
+
+stuff. All right. So now I've given you
+
+
+the tools that's going to enable you to
+
+
+unlock the true potential of OpenClaw.
+
+
+So you could turn it into your 24/7 AI
+
+
+employee that runs tasks on its own and
+
+
+keeps improving itself. Now if you do
+
+
+need a VPS to run OpenC claw, then I
+
+
+would recommend Hostinger. It's the
+
+
+company that I use. I think they're one
+
+
+of the best VPS providers out there. And
+
+
+you can get 10% off by clicking the link
+
+
+in the description below and use the
+
+
+code growth lab. If you want to learn
+
+
+how to build productionready AI systems,
+
+
+and you want to figure out whether
+
+
+Claudebot and any of these new releases,
+
+
+these new tools, software are actually
+
+
+more than just hype. That's what we talk
+
+
+about and we discuss inside of my
+
+
+mentorship and certification program.
+
+
+I'll show you how to become invaluable
+
+
+and irreplaceable at your company and
+
+
+take you on a journey from zero to AI
+
+
+operator inside of 16 weeks. So, if you
+
+
+do want to apply and see if you're a
+
+
+good fit, there is a link below in the
+
+
+description to do that. Now, if you want
+
+
+to watch the next video on the screen
+
+
+right now, I'm going to show you how I
+
+
+use AI to get over 13,500 followers on
+
+
+LinkedIn and generate over a million
+
+
+impressions. So, I will see you there.

@@ -1,62 +1,14 @@
 {
-  "agent:silas:dispatch:698a12c8216e79c89db7844d": {
-    "sessionId": "26b73d28-7ec1-4ffa-b683-32eb6a4e5cdd",
-    "updatedAt": 1770679320639,
-    "skillsSnapshot": {
-      "prompt": "",
-      "skills": [],
-      "resolvedSkills": [],
-      "version": 0
-    },
-    "modelProvider": "anthropic",
-    "model": "claude-sonnet-4-5",
-    "contextTokens": 1000000,
-    "abortedLastRun": false,
-    "inputTokens": 4,
-    "outputTokens": 968,
-    "totalTokens": 168218
-  },
-  "agent:silas:slack:channel:silas": {
-    "chatType": "channel",
-    "channel": "slack",
-    "groupId": "silas",
-    "displayName": "slack:g-silas",
-    "origin": {
-      "label": "slack:channel:silas",
-      "provider": "slack",
-      "surface": "slack",
-      "chatType": "channel",
-      "from": "slack:channel:silas",
-      "to": "channel:silas"
-    },
-    "sessionId": "7bb5ce79-9d7c-4a99-a5db-0a6b97fea4a5",
-    "updatedAt": 1770780993960,
+  "agent:silas:subagent:33be0a45-8ef5-49b6-90a9-230ef8479eab": {
+    "sessionId": "5b06afed-e3f1-460a-a7ba-317567655a99",
+    "updatedAt": 1771346115791,
     "deliveryContext": {
-      "channel": "slack"
+      "channel": "telegram"
     },
-    "lastChannel": "slack",
-    "sessionFile": "C:\\Users\\spart\\.openclaw\\agents\\silas\\sessions\\7bb5ce79-9d7c-4a99-a5db-0a6b97fea4a5.jsonl"
-  },
-  "agent:silas:dispatch:698b4072a87252221209fc7d": {
-    "sessionId": "dc3fe6ea-a000-49e1-8d1a-c64654e0547d",
-    "updatedAt": 1770738535246,
-    "skillsSnapshot": {
-      "prompt": "",
-      "skills": [],
-      "resolvedSkills": [],
-      "version": 0
-    },
-    "modelProvider": "anthropic",
-    "model": "claude-sonnet-4-5",
-    "contextTokens": 1000000,
-    "abortedLastRun": false,
-    "inputTokens": 14,
-    "outputTokens": 623,
-    "totalTokens": 37393
-  },
-  "agent:silas:main": {
-    "sessionId": "27d15a8f-8c87-478c-aa61-1c02dcd48a6d",
-    "updatedAt": 1771109511489,
+    "lastChannel": "telegram",
+    "label": "silas",
+    "spawnedBy": "agent:main:main",
+    "channel": "telegram",
     "skillsSnapshot": {
       "prompt": "",
       "skills": [],
@@ -67,8 +19,56 @@
     "model": "claude-sonnet-4-5",
     "contextTokens": 180000,
     "abortedLastRun": false,
-    "inputTokens": 12,
-    "outputTokens": 1121,
-    "totalTokens": 124800
+    "inputTokens": 1,
+    "outputTokens": 510,
+    "totalTokens": 65865
+  },
+  "agent:silas:subagent:c794ca46-d315-48b9-8fe4-2b1476d6d75a": {
+    "sessionId": "8bf0bf2f-130b-4de3-88b5-c334b0c04402",
+    "updatedAt": 1771346977812,
+    "deliveryContext": {
+      "channel": "telegram"
+    },
+    "lastChannel": "telegram",
+    "label": "silas",
+    "spawnedBy": "agent:main:main",
+    "channel": "telegram",
+    "skillsSnapshot": {
+      "prompt": "",
+      "skills": [],
+      "resolvedSkills": [],
+      "version": 0
+    },
+    "modelProvider": "anthropic",
+    "model": "claude-sonnet-4-5",
+    "contextTokens": 180000,
+    "abortedLastRun": false,
+    "inputTokens": 1,
+    "outputTokens": 601,
+    "totalTokens": 58353
+  },
+  "agent:silas:subagent:4e338f92-c9e6-42b6-a069-67387f161e65": {
+    "sessionId": "236bc276-9d34-481c-9f87-a43d2e4f28d1",
+    "updatedAt": 1771347861967,
+    "deliveryContext": {
+      "channel": "telegram"
+    },
+    "lastChannel": "telegram",
+    "label": "silas",
+    "spawnedBy": "agent:main:main",
+    "channel": "telegram",
+    "skillsSnapshot": {
+      "prompt": "",
+      "skills": [],
+      "resolvedSkills": [],
+      "version": 0
+    },
+    "modelProvider": "anthropic",
+    "model": "claude-sonnet-4-5",
+    "contextTokens": 180000,
+    "abortedLastRun": false,
+    "inputTokens": 1,
+    "outputTokens": 674,
+    "totalTokens": 72941
   }
 }

@@ -1,0 +1,1174 @@
+$46,000
+
+
+Versel bill. How does that possibly
+
+
+happen? This was the creators of Jmail.
+
+
+They've taken every single one of the
+
+
+Epstein emails and built this like Gmail
+
+
+interface so you can sort of click
+
+
+through and read them and load them and
+
+
+filter them by different people. It's a
+
+
+really sick website, but they've racked
+
+
+up a $46,000 Versel bill. I have large
+
+
+sites running on Verscell, Cloudflare,
+
+
+and VPS. And I did some quick back of
+
+
+the napkin math and I think I know where
+
+
+most of this bill went to and we're
+
+
+going to break it down so hopefully it
+
+
+doesn't happen to you as well. Let's
+
+
+break it down into four sort of
+
+
+categories. You got compute, bandwidth,
+
+
+requests, and like special add-on
+
+
+services, right? So compute is is when
+
+
+your application actually needs to run
+
+
+some processes, right? Whether it's it's
+
+
+fetching data from the database or
+
+
+looping over arrays, um whether it's
+
+
+handling a URL and routing it to
+
+
+wherever you go. That is when your
+
+
+server actually needs to do work. And
+
+
+almost all of the content on this
+
+
+website actually is fairly static
+
+
+content, right? If you if you go ahead
+
+
+and look at a lot of these requests that
+
+
+are coming in, you'll see that it's it's
+
+
+just JSON that's that's coming in,
+
+
+right? So, it's it's just text. Text can
+
+
+be cached very heavily. The stuff on
+
+
+here is not changing very often. The
+
+
+guy's dead, right? He's not sending any
+
+
+more emails. Well, I guess that's maybe
+
+
+up for debate, but uh there's a lot of
+
+
+stuff that can be be cashed on here. So,
+
+
+I don't know. It it certainly is
+
+
+probably a big expense here, but
+
+
+probably not the biggest one because
+
+
+they're not doing things like um they're
+
+
+not OCRing on demand. They're they're
+
+
+not doing any really heavy intensive
+
+
+stuff. They are simply just rendering
+
+
+out React elements on a page and then
+
+
+caching those heavily. So, the next one
+
+
+is bandwidth. And this is probably a big
+
+
+one, but not what you might think,
+
+
+right? You think like, oh, images and
+
+
+and whatnot. So, if you go to one of the
+
+
+images that are on this website, you'll
+
+
+see that they are hosted on a totally
+
+
+separate domain name. And this this URL
+
+
+here and and the header looking at the
+
+
+headers tells me they're using
+
+
+Cloudflare image transformations to
+
+
+resize them. So, they're they're not as
+
+
+big to load on on page load and and
+
+
+they're not um using up as much
+
+
+bandwidth. Most of the images on here
+
+
+are probably are not even part of that
+
+
+Versel bill because they're they're
+
+
+hosted totally separately. But if we go
+
+
+let's go to this homepage here, do a
+
+
+hard refresh and then sort them by size,
+
+
+you'll see there are some things that
+
+
+are being hosted on this. This biggest
+
+
+one right here is over half a meg for a
+
+
+little uh icon that's being loaded here.
+
+
+If we open that up in a new tab, it's
+
+
+just a little Facebook icon, not
+
+
+compressed at all and probably way
+
+
+larger than it needs to be and probably
+
+
+could be in SVG. So, serving that up.
+
+
+Plus, there are several other like uh
+
+
+images that are being loaded in here and
+
+
+adding adding all those up, it's it's
+
+
+about a meg plus you're looking at all
+
+
+of the JavaScript and CSS bundles that
+
+
+are being loaded up. That's probably
+
+
+close to another meg as well. So every
+
+
+single person visiting the website fresh
+
+
+cache you're they're using two megs of
+
+
+bandwidth which is is is quite a bit.
+
+
+Then the other part of the bandwidth
+
+
+here is this aggressive preloading. Um
+
+
+so if I go to my dev tools I'm going to
+
+
+filter for XHR and then as I simply just
+
+
+scroll you'll see that there's like tons
+
+
+of requests being being fired off. Now,
+
+
+I have my cache disabled here, so they
+
+
+are loading from my disc cache. But the
+
+
+first time that you hover over top of
+
+
+those, you'll see it's just a bunch of
+
+
+JSON being loaded, but they are
+
+
+aggressively loading them all in. Now,
+
+
+that is a very high trade-off. And I did
+
+
+a video about how McMaster car does this
+
+
+as well. Um, because now when you when
+
+
+you click on some of these, they load
+
+
+extremely fast. Quite honestly, it's
+
+
+faster than Gmail. This is a very good
+
+
+experience. So you are you have a bit of
+
+
+a trade-off where yeah I will
+
+
+aggressively preload everything in even
+
+
+though we might not use that but you are
+
+
+giving them a really nice experience but
+
+
+that's not free sending all of this JSON
+
+
+over the wire still use quite a bit of
+
+
+bandwidth. Now you're probably screaming
+
+
+right now mean like that's just text.
+
+
+That's static text that probably does
+
+
+not change very often. You can cash the
+
+
+crap out of that. And that's exactly
+
+
+what they're doing. I don't know if this
+
+
+happened before or after the $46,000
+
+
+bill, but you'll see here they did throw
+
+
+Cloudflare in front of Verscell, which
+
+
+Verscell doesn't really like you doing,
+
+
+but uh you can see that there is a cache
+
+
+status of hit here, meaning that that
+
+
+should now not go past Cloudflare and
+
+
+then send the request to Verscell, which
+
+
+which would then incur them bandwidth as
+
+
+well as which we'll talk about next is
+
+
+request. I think that that was added
+
+
+after, but you'll see there is a pretty
+
+
+aggressive 30-day and 7-day stalewhile
+
+
+validate. So, that brings me to the next
+
+
+one, which is simply just paying for
+
+
+requests. So, the way that a lot of
+
+
+these serverless platforms work is that
+
+
+they will charge you for how much um
+
+
+time you are using um in compute, but
+
+
+then they will also charge you based on
+
+
+how many requests you are sending them.
+
+
+And because you you load the page up
+
+
+here, you get I don't know 50 requests
+
+
+to different parts of it. you know,
+
+
+you're you're loading in JavaScript and
+
+
+CSS and then there's um some React
+
+
+server components that need to load in
+
+
+different requests. And then of course
+
+
+once you start hovering over all of
+
+
+these things that just fires up the
+
+
+amount of requests. So you spend a
+
+
+minute or so kind of just looking
+
+
+around, hovering over things, clicking
+
+
+on different emails, you get up to 500
+
+
+requests fairly quickly. And in this
+
+
+case, it's just over a meg. If you load
+
+
+a couple emails, I was able to get it up
+
+
+to about about three megs worth of it.
+
+
+So, if you're doing some some quick math
+
+
+on that, you know, 500 requests, three
+
+
+and a half megs um for an average
+
+
+visitor just visiting for a minute or
+
+
+so, um Versel's ondemand bandwidth is is
+
+
+15 cents per gig here. Um and then it
+
+
+also is $2 per 1 million edge requests.
+
+
+So, if you're looking at me doing, I
+
+
+don't know, 500 requests, three and a
+
+
+half megs, um, that would cost them a
+
+
+tenth of a penny. That's not much,
+
+
+right? A tenth of a penny. That that's
+
+
+that's almost nothing. But remember what
+
+
+they're doing here. 650
+
+
+million page views. That's a lot of page
+
+
+views. Um, that will add up. My math
+
+
+shows me that like without any sort of
+
+
+cashing or anything in front of it, that
+
+
+could be hundreds of thousands of
+
+
+dollars. Obviously, the bill wasn't
+
+
+hundreds of thousands of dollars because
+
+
+of the what they've done to implement
+
+
+the cash there, but that simply will add
+
+
+up. Those tenth of a pennies add up.
+
+
+Now, the next one, which is like
+
+
+add-ons. So, they actually Versel
+
+
+stepped up and said, "Yeah, like we'll
+
+
+cover the bill." Which was really cool
+
+
+of them. Um, and then they went through
+
+
+it and said like, "Yeah, like we're
+
+
+going to figure out how to how to get
+
+
+this thing as cheap as possible." And it
+
+
+turns out 36% of the bill was simply
+
+
+from web analytics. Um so what pages do
+
+
+people visit? Uh like where are they
+
+
+coming from? What browser? You know, you
+
+
+know, all of that stuff that you get in
+
+
+analytics. But the thing that sort of
+
+
+killed them here is that they were I
+
+
+guess the analytics double dip on the
+
+
+request. So, you're paying for
+
+
+analytics, but then you're also paying
+
+
+for those requests, um, those edge
+
+
+requests that are going in there. And if
+
+
+you take a look here, remember $2 per 1
+
+
+million. And if you're logging all kinds
+
+
+of of data being sent over here, that
+
+
+that adds up very quickly. So, GMO goes
+
+
+on to mention that like sampling is
+
+
+probably a good approach here. Um, and
+
+
+this is exactly what Sentry does as well
+
+
+is if if you were you can send every
+
+
+single every error that happens on your
+
+
+website to Sentry. But if you have
+
+
+enough traffic, that's likely too much
+
+
+and it's you don't necessarily need all
+
+
+of that data at super high volume. So
+
+
+what you can do is just sample those and
+
+
+you still get all of the information
+
+
+that you're looking for. You don't need
+
+
+to know that what 50,000 people had like
+
+
+a a missing undefined variable on there.
+
+
+um simply 50% of that or 25% of that
+
+
+will be enough. Processing and storing
+
+
+data is is not cheap. My personal
+
+
+opinion, 17 grand for analytics seems
+
+
+extremely high, but I think we all got
+
+
+used to to using Google Analytics as a
+
+
+as a free product. We didn't realize how
+
+
+expensive holding, processing, storing
+
+
+all of that data actually is. Now, the
+
+
+question is is would Cloudflare be
+
+
+cheaper? Right? So we sort of know what
+
+
+the big costs were here, right? There
+
+
+was bandwidth, there was requests, and
+
+
+then there was those those analytics
+
+
+being added on here. So let's go through
+
+
+it. So Versell and Cloudflare both have
+
+
+the ability to charge based on what's
+
+
+called CPU time. You have an 800 se 800
+
+
+millisecond serverless function that's
+
+
+running, but maybe you're only using 50
+
+
+milliseconds, 30 milliseconds of that to
+
+
+do actual compute. You're looping over
+
+
+an array. You're creating objects. You
+
+
+have classes. things like that is is
+
+
+actual compute. Whereas like if you send
+
+
+off a fetch request and you're waiting
+
+
+200 milliseconds for like an AI to
+
+
+respond, you don't have to pay for that
+
+
+time, which is is really cool. That's
+
+
+different from traditional serverless
+
+
+where you're simply just paying for the
+
+
+time that that thing is running. So
+
+
+Cloudflare calls that wall time um
+
+
+versus CPU time and Versell calls that
+
+
+fluid compute. Next one is bandwidth.
+
+
+Cloudflare is mostly free. Everybody
+
+
+likes to say Cloudflare is the bandwidth
+
+
+is free and and that is is mostly true.
+
+
+But um for the images that they're
+
+
+they're hosting on Cloudflare here, you
+
+
+certainly pay for for that product and
+
+
+you pay to hold those images. You pay
+
+
+based on number of transformations that
+
+
+you use, the number of requests that
+
+
+that go to that. But things like um your
+
+
+CSS, your your JavaScript um those sort
+
+
+of static assets that can be cached, you
+
+
+don't pay for for bandwidth on those
+
+
+types of things, which is is really
+
+
+really nice. So that would have
+
+
+significantly decreased their bill,
+
+
+especially for their um 650k
+
+
+little logo that they have here. Next
+
+
+one is request. So, this is kind of a
+
+
+kind of a weird one because if you put
+
+
+Cloudflare in front of an existing
+
+
+website, maybe you host it on like a VPS
+
+
+or maybe you host it on Verscell and you
+
+
+throw this cache control header and the
+
+
+CDN cache control header on there. What
+
+
+that will do with Cloudflare is
+
+
+Cloudflare will simply just serve up the
+
+
+cache version. However, if you are
+
+
+programmatically doing your cache as
+
+
+part of your worker um or if you are
+
+
+hosting your entire website on a worker,
+
+
+you it still hits your worker on
+
+
+Cloudflare and you still pay for that
+
+
+request to Cloudflare even if you simply
+
+
+are um serving up. I I hit this with my
+
+
+own personal websites like that seems
+
+
+higher. I was trying to cache entire
+
+
+HTML pages, but because my entire site
+
+
+was inside of a worker, even though I
+
+
+was serving up the cache version of that
+
+
+HTML, I still paid for that request to
+
+
+there. But let's talk about the actual
+
+
+prices of this thing. So requests on
+
+
+Cloudflare are
+
+
+um you get 10 million a month and then
+
+
+30 cents per million and then your CPU
+
+
+time, you get 30 million CPU
+
+
+milliseconds. Essentially, this works
+
+
+out to being 7.2 cents per hour. Um,
+
+
+that's not like you don't take 7.2 cents
+
+
+and multiply by 24. That's just
+
+
+basically how much time those processes
+
+
+are running. Taking a look at Versell,
+
+
+um, we we saw this already, $2 per 1
+
+
+million requests versus 30 cents um, on
+
+
+Cloudflare. And then CPU time is about
+
+
+12 cents uh, 13 cents an hour. So
+
+
+between those three things,
+
+
+significantly cheaper CPU time, um
+
+
+significantly cheaper bandwidth or or
+
+
+free bandwidth in in many cases, um and
+
+
+then also significantly cheaper
+
+
+requests. You probably would have been a
+
+
+lot lower. There's a lot to be said for
+
+
+Cloudflare here. Um and the reason why
+
+
+not absolutely everybody is on
+
+
+Cloudflare is because the Versel DX is
+
+
+the best. Um and I say this as someone
+
+
+who absolutely loves Cloudflare. I've
+
+
+got many gripes with it. Like the other
+
+
+day we couldn't get logs for a preview
+
+
+of URLs. You can't get custom domains
+
+
+for preview URLs. Having like staging in
+
+
+production is a pain in the butt.
+
+
+There's lots of things which on Verscell
+
+
+sharing um I couldn't share a worker
+
+
+with somebody. The the solution to was
+
+
+move the entire domain and worker to a
+
+
+different Cloudflare account and then
+
+
+you can share that entire account with
+
+
+somebody else. So the tooling on
+
+
+Verscell is significantly better. But a
+
+
+lot of people will simply just say um
+
+
+I'm I'm okay with with a little bit of
+
+
+pain or figuring out these oddities on
+
+
+Cloudflare for the price. Now analytics.
+
+
+Cloudflare has free web analytics. As
+
+
+far as I can tell, they are at feature
+
+
+parody and I don't think that they count
+
+
+towards your actual requests and you
+
+
+don't have to pay for them. So that that
+
+
+again $17,000 that that would have been
+
+
+saved. Now, what about a VPS? Could you
+
+
+have done this on a $5 a month uh like
+
+
+digital ocean? Could you host it in your
+
+
+grandma's basement? That type of thing
+
+
+maybe with you would certainly have to
+
+
+put an aggressive cache in front of it.
+
+
+And you would have to set up
+
+
+autoscaling, load balancing, all of that
+
+
+type of stuff. So, um I don't know like
+
+
+render railway, these types of things.
+
+
+they for $46,000 you can let those
+
+
+things scale up to 7 8 n 10 different
+
+
+instances for for quite a bit cheaper
+
+
+than than 46k. But the thing that people
+
+
+aren't talking about with these VPS's is
+
+
+that like you still need a CDN in front
+
+
+of these things that will handle all of
+
+
+your caching because bandwidth coming
+
+
+from a VPS is is extremely expensive.
+
+
+So, my thoughts here, one, this bill
+
+
+would not have been nearly as large on
+
+
+Cloudflare. Two, this site would have
+
+
+definitely have crashed on a VPS um or
+
+
+have had a hug of death from it, right?
+
+
+There's always that thing like, should
+
+
+you go down or should you pay more when
+
+
+you get these crazy spikes in traffic?
+
+
+And then third, this site and many other
+
+
+people's hobby projects may not have
+
+
+launched if it wasn't for Versel. Versel
+
+
+has made this stuff super easy to sort
+
+
+of just publish and out there. However,
+
+
+we hear these stories all the time where
+
+
+something gets popular and somebody
+
+
+goes, "Shoot, I this thing is costing
+
+
+way more than I thought it would."
+
+
+Everything in life is a trade-off.
+
+
+There's Open Nex where you can host Next
+
+
+Nex.js on Cloudflare. Not perfect. I
+
+
+tried it myself for quite a while and I
+
+
+ended up just scrapping Nex entirely,
+
+
+moving to Wacku. But build on tech that
+
+
+can be moved absolutely anywhere. So
+
+
+that if something like this happens to
+
+
+you and you have the fortune of having
+
+
+an extremely popular website, hopefully
+
+
+it's not going to cost you an arm and a

@@ -15,6 +15,8 @@
     { "agent": "main", "keywords": ["onboard", "workflow", "strategy", "plan"], "model": "sonnet", "reason": "Complex orchestration" },
 
     { "agent": "silas", "keywords": ["audit", "strategy", "analysis", "optimize", "recommendations"], "model": "sonnet", "reason": "Deep SEO analysis" },
+    { "agent": "silas", "keywords": ["Core Web Vitals", "CWV", "E-E-A-T", "EEAT", "GEO", "content quality", "technical SEO"], "model": "sonnet", "reason": "Deep SEO analysis requires reasoning" },
+    { "agent": "silas", "keywords": ["schema validation", "sitemap validation", "alt text audit", "image audit"], "model": "haiku", "reason": "Structured checks are procedural" },
     { "agent": "silas", "keywords": ["citation check", "NAP check", "format", "spreadsheet", "list"], "model": "haiku", "reason": "Routine data tasks" },
     { "agent": "silas", "keywords": ["scorecard", "report", "monthly report", "QBR"], "model": "sonnet", "reason": "Report generation needs quality" },
 

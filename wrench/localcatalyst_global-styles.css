@@ -3,6 +3,62 @@
    GeneratePress Additional CSS (after tokens)
    ============================================ */
 
+/* ===========================================
+   DESIGN TOKENS
+   =========================================== */
+
+:root {
+  /* ---- Colors ---- */
+  --lc-white: #ffffff;
+  --lc-off-white: #f8fafc;
+  --lc-navy: #0f172a;
+  --lc-primary: #0f172a;
+  --lc-text: #1e293b;
+  --lc-text-muted: #64748b;
+  --lc-text-light: #94a3b8;
+  --lc-hero-text: #f1f5f9;
+  --lc-hero-muted: #94a3b8;
+  --lc-card-border: #e2e8f0;
+
+  /* ---- Emerald accent ---- */
+  --lc-emerald: #10b981;
+  --lc-emerald-dark: #059669;
+  --lc-emerald-hover: #34d399;
+  --lc-emerald-dim: rgba(16, 185, 129, 0.08);
+  --lc-emerald-border: rgba(16, 185, 129, 0.15);
+  --lc-emerald-glow: rgba(16, 185, 129, 0.25);
+
+  /* ---- Semantic colors ---- */
+  --lc-red: #ef4444;
+  --lc-amber: #f59e0b;
+  --lc-blue: #3b82f6;
+
+  /* ---- Typography ---- */
+  --lc-font-body: 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --lc-font-mono: 'Space Mono', 'Courier New', monospace;
+
+  /* ---- Spacing ---- */
+  --lc-container-max: 1200px;
+  --lc-section-pad: 80px 48px;
+  --lc-section-pad-sm: 60px 48px;
+
+  /* ---- Radius ---- */
+  --lc-radius-sm: 6px;
+  --lc-radius-md: 10px;
+  --lc-radius-lg: 16px;
+  --lc-radius-pill: 999px;
+
+  /* ---- Shadows ---- */
+  --lc-shadow-hover: 0 8px 30px rgba(0, 0, 0, 0.08);
+  --lc-shadow-glow: 0 0 20px rgba(16, 185, 129, 0.2);
+  --lc-shadow-glow-lg: 0 0 30px rgba(16, 185, 129, 0.3);
+
+  /* ---- Transitions ---- */
+  --lc-transition: all 0.3s ease;
+  --lc-transition-fast: all 0.2s ease;
+}
+
+
 /* ---- Reset / Base ---- */
 body {
   font-family: var(--lc-font-body);
@@ -924,6 +980,29 @@ a.lc-card:visited {
     backdrop-filter: blur(16px);
     -webkit-backdrop-filter: blur(16px);
     z-index: 101;
+  }
+}
+
+
+/* ===========================================
+   GP MOBILE NAV OVERRIDE (hide GP's hamburger)
+   =========================================== */
+
+/* Hide GeneratePress default mobile menu toggle — we use .lc-nav-hamburger instead */
+.menu-toggle,
+button.menu-toggle,
+.main-navigation .menu-toggle,
+.sidebar-nav-mobile:not(#sticky-placeholder) {
+  display: none !important;
+}
+
+/* Also hide GP's default mobile nav container if it leaks through */
+.main-navigation:not(.toggled) .main-nav > ul {
+  display: none;
+}
+@media (min-width: 769px) {
+  .main-navigation:not(.toggled) .main-nav > ul {
+    display: flex;
   }
 }
 

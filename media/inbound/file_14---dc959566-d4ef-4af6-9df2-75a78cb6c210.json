@@ -1,0 +1,561 @@
+{
+  "pipeline_id": "localcatalyst-scaling-engine-v1",
+  "pipeline_name": "LocalCatalyst.ai Automated Prospecting-to-Revenue Engine",
+  "version": "1.0.0",
+  "created": "2026-02-15",
+  "owner": "Cody Schuldt",
+  "orchestrator": "Archer",
+  "description": "End-to-end automated pipeline: Scout finds targets, Silas audits them, Scribe generates reports and outreach, platform converts visitors to purchasers, fulfillment runs through agent system. No retainers. No manual fulfillment. À la carte deliverables only.",
+
+  "global_config": {
+    "cost_routing": {
+      "high_reasoning": "claude-sonnet-4-20250514",
+      "bulk_processing": "gpt-4o-mini",
+      "local_fallback": "threadripper-local-llm",
+      "routing_rules": [
+        "Scout prospecting tasks → bulk_processing or local_fallback",
+        "Silas audit generation → high_reasoning",
+        "Scribe report formatting → bulk_processing",
+        "Scribe email content → bulk_processing",
+        "Archer orchestration logic → high_reasoning",
+        "Builder mockups (high-value only) → high_reasoning"
+      ]
+    },
+    "notification_channel": "telegram_bot",
+    "admin_dashboard": "https://dashboard.localcatalyst.ai",
+    "platform_url": "https://localcatalyst.ai",
+    "outreach_domain": "reports.localcatalyst.ai",
+    "max_daily_outreach_emails": 50,
+    "escalation_contact": "cody_telegram"
+  },
+
+  "pipeline_phases": [
+
+    {
+      "phase_id": "P1",
+      "phase_name": "Automated Prospecting",
+      "assigned_agent": "Scout",
+      "model_tier": "bulk_processing",
+      "trigger": "cron_daily_0600",
+      "description": "Identify and qualify local businesses with demonstrable SEO weaknesses matching the LocalCatalyst deliverable catalog.",
+
+      "tasks": [
+        {
+          "task_id": "P1-T1",
+          "task_name": "Google Maps Target Scan",
+          "description": "Scan specified verticals in target metros for businesses with incomplete GBP, few reviews, no website, or weak technical SEO. Prioritize businesses running Google Ads with poor organic presence.",
+          "inputs": {
+            "verticals": ["healthcare", "legal", "home_services", "real_estate", "restaurants", "dental", "hvac", "plumbing", "roofing"],
+            "metros": ["houston_tx", "albany_ny"],
+            "max_targets_per_scan": 100
+          },
+          "outputs": {
+            "format": "json_array",
+            "schema": {
+              "business_name": "string",
+              "address": "string",
+              "phone": "string",
+              "website_url": "string|null",
+              "gbp_url": "string|null",
+              "vertical": "string",
+              "metro": "string",
+              "contact_email": "string|null",
+              "signals_detected": "string[]"
+            },
+            "destination": "queue://prospect_raw"
+          }
+        },
+        {
+          "task_id": "P1-T2",
+          "task_name": "YouTube Content Monitoring",
+          "description": "Flag local business owners posting video content whose websites don't match their marketing ambition. These are high-intent prospects already investing in marketing but not SEO.",
+          "inputs": {
+            "search_queries": [
+              "{vertical} business owner tips",
+              "local {vertical} marketing",
+              "small business {metro}"
+            ],
+            "filter": "channel_subscriber_count < 10000 AND has_business_website"
+          },
+          "outputs": {
+            "format": "json_array",
+            "destination": "queue://prospect_raw"
+          }
+        },
+        {
+          "task_id": "P1-T3",
+          "task_name": "Prospect Qualification Scoring",
+          "description": "Apply scoring matrix to raw prospects. Only pass qualified leads to Silas for full audit.",
+          "trigger": "on_new_items_in:queue://prospect_raw",
+          "inputs": {
+            "source": "queue://prospect_raw"
+          },
+          "scoring_matrix": {
+            "no_website_or_broken_site": { "weight": 30, "signal": "critical" },
+            "gbp_incomplete_below_60_pct": { "weight": 25, "signal": "critical" },
+            "active_google_ads_spend": { "weight": 20, "signal": "high" },
+            "fewer_than_10_reviews": { "weight": 10, "signal": "medium" },
+            "no_schema_markup": { "weight": 10, "signal": "medium" },
+            "weak_citation_consistency": { "weight": 8, "signal": "medium" },
+            "video_content_weak_site": { "weight": 7, "signal": "medium" },
+            "competitive_vertical": { "weight": 5, "signal": "bonus" }
+          },
+          "qualification_threshold": 35,
+          "outputs": {
+            "qualified": "queue://prospect_qualified",
+            "disqualified": "log://prospect_disqualified"
+          }
+        }
+      ],
+
+      "success_criteria": {
+        "min_qualified_prospects_per_week": 50,
+        "cost_per_prospect": "$0.15_max",
+        "scoring_accuracy_review": "weekly_manual_sample_10pct"
+      }
+    },
+
+    {
+      "phase_id": "P2",
+      "phase_name": "Audit Generation & Report Creation",
+      "assigned_agents": ["Silas", "Scribe"],
+      "trigger": "on_new_items_in:queue://prospect_qualified",
+      "description": "Run full SEO audit on qualified prospects, generate branded PDF report with personalized deliverable recommendations linking to LocalCatalyst.ai.",
+
+      "tasks": [
+        {
+          "task_id": "P2-T1",
+          "task_name": "Full SEO Audit",
+          "assigned_agent": "Silas",
+          "model_tier": "high_reasoning",
+          "description": "Run comprehensive audit using Silas Engine specs: GBP completeness, on-page SEO, schema markup, citation consistency, site speed, mobile usability, competitor comparison.",
+          "inputs": {
+            "source": "queue://prospect_qualified",
+            "audit_modules": [
+              "gbp_completeness_score",
+              "on_page_seo_analysis",
+              "schema_markup_check",
+              "nap_citation_consistency",
+              "site_speed_mobile_usability",
+              "competitor_comparison_top_3",
+              "keyword_gap_analysis",
+              "review_velocity_assessment"
+            ]
+          },
+          "outputs": {
+            "format": "json",
+            "schema": {
+              "business_slug": "string",
+              "overall_score": "integer_0_100",
+              "critical_issues": [
+                {
+                  "issue_id": "string",
+                  "title": "string",
+                  "description": "string",
+                  "revenue_impact_estimate": "string",
+                  "recommended_deliverable_sku": "string",
+                  "severity": "critical|warning|opportunity"
+                }
+              ],
+              "competitor_comparison": "object",
+              "keyword_gaps": "string[]",
+              "raw_data": "object"
+            },
+            "destination": "queue://audit_complete"
+          }
+        },
+        {
+          "task_id": "P2-T2",
+          "task_name": "Audit Report PDF Generation",
+          "assigned_agent": "Scribe",
+          "model_tier": "bulk_processing",
+          "trigger": "on_new_items_in:queue://audit_complete",
+          "description": "Generate branded PDF audit report from Silas output. Report must include business snapshot, critical issues with revenue framing, competitor comparison, and recommended action plan with direct links to LocalCatalyst deliverables and pricing.",
+          "report_sections": [
+            {
+              "section": "business_snapshot",
+              "content": "Business name, address, vertical, Google visibility score, SERP screenshot. Must feel personalized, not templated."
+            },
+            {
+              "section": "critical_issues",
+              "content": "Top 2-3 most damaging SEO problems. Plain-English revenue impact explanation for each. Red severity badges."
+            },
+            {
+              "section": "opportunities",
+              "content": "Growth areas framed as money left on the table. Yellow badges. Content gaps, review velocity, link opportunities."
+            },
+            {
+              "section": "competitor_comparison",
+              "content": "Side-by-side with top 2-3 local competitors on key metrics. Visual format."
+            },
+            {
+              "section": "recommended_action_plan",
+              "content": "CONVERSION LAYER. Each action links to a specific deliverable on LocalCatalyst.ai with exact price. CTA: localcatalyst.ai/report/{business_slug}"
+            }
+          ],
+          "branding": {
+            "logo": "assets/localcatalyst_logo.png",
+            "color_primary": "#1B9AAA",
+            "color_dark": "#0D1B2A",
+            "footer": "Generated by LocalCatalyst.ai | Catalyst Digital LLC"
+          },
+          "outputs": {
+            "format": "pdf",
+            "filename_pattern": "LocalCatalyst_SEO_Audit_{business_slug}_{date}.pdf",
+            "destinations": [
+              "storage://audit_reports/{business_slug}/",
+              "queue://report_ready_for_outreach"
+            ]
+          }
+        },
+        {
+          "task_id": "P2-T3",
+          "task_name": "Personalized Landing Page Generation",
+          "assigned_agent": "Scribe",
+          "model_tier": "bulk_processing",
+          "trigger": "on_new_items_in:queue://audit_complete",
+          "description": "Create or update the personalized report landing page at localcatalyst.ai/report/{business_slug} that mirrors audit findings with purchasable deliverable CTAs.",
+          "page_structure": {
+            "header": "Business name, location, overall SEO health score",
+            "issues_section": "Each problem with severity badge and one-click 'Fix This' button → deliverable product page",
+            "pricing_table": "À la carte deliverables organized by priority (critical first, growth second)",
+            "social_proof": "Testimonials, case study snippets, trust indicators",
+            "bundle_upsell": "'Fix Everything' package at 20% discount for 3+ deliverables"
+          },
+          "outputs": {
+            "format": "wordpress_page",
+            "url_pattern": "localcatalyst.ai/report/{business_slug}",
+            "destination": "queue://landing_page_live"
+          }
+        }
+      ],
+
+      "success_criteria": {
+        "audit_turnaround": "under_2_hours",
+        "report_quality_score": "manual_qa_first_50_then_10pct_sampling",
+        "cost_per_audit": "$1.50_max",
+        "all_deliverable_links_valid": true
+      }
+    },
+
+    {
+      "phase_id": "P3",
+      "phase_name": "Outreach Sequence",
+      "assigned_agent": "Scribe",
+      "model_tier": "bulk_processing",
+      "trigger": "on_new_items_in:queue://report_ready_for_outreach",
+      "description": "Execute 3-touch email outreach sequence driving prospects to their personalized audit landing page on LocalCatalyst.ai.",
+
+      "tasks": [
+        {
+          "task_id": "P3-T1",
+          "task_name": "Email Sequence Generation",
+          "description": "Generate personalized 3-email sequence for each prospect using audit data.",
+          "sequence": [
+            {
+              "touch": 1,
+              "send_day": 0,
+              "subject_template": "We found something costing {business_name} customers",
+              "content_strategy": "Free audit attached. Lead with single biggest issue. ROI framing: 'This gap is costing you an estimated X customers/month.'",
+              "cta": "View your full report → localcatalyst.ai/report/{business_slug}",
+              "attachment": "audit_report_pdf"
+            },
+            {
+              "touch": 2,
+              "send_day": 4,
+              "subject_template": "How {competitor_name} is outranking {business_name}",
+              "content_strategy": "Competitor comparison highlight. Show specific keyword where competitor ranks #1 and prospect doesn't. Data-driven, not salesy.",
+              "cta": "See what they're doing differently → localcatalyst.ai/report/{business_slug}#competitors",
+              "attachment": null
+            },
+            {
+              "touch": 3,
+              "send_day": 10,
+              "subject_template": "Quick win for {business_name} — $47",
+              "content_strategy": "Highlight single cheapest deliverable with biggest impact. Urgency without pressure. 'For $47, your schema markup gets fixed in 24 hours.'",
+              "cta": "Grab this quick win → localcatalyst.ai/report/{business_slug}#quick-wins",
+              "attachment": null
+            }
+          ],
+          "outputs": {
+            "format": "email_queue_objects",
+            "destination": "queue://outreach_scheduled"
+          }
+        },
+        {
+          "task_id": "P3-T2",
+          "task_name": "Email Dispatch",
+          "description": "Send emails via SendGrid/Mailgun on schedule. Track opens, clicks, bounces, unsubscribes.",
+          "trigger": "cron_based_on_scheduled_send_times",
+          "compliance": {
+            "can_spam": true,
+            "physical_address": "Catalyst Digital LLC, registered address",
+            "unsubscribe_mechanism": "one_click_unsubscribe_header_and_link",
+            "sender_domain": "reports.localcatalyst.ai",
+            "dkim_dmarc_spf": "required_before_first_send"
+          },
+          "throttling": {
+            "max_per_hour": 20,
+            "max_per_day": 50,
+            "ramp_schedule": {
+              "week_1": 10,
+              "week_2": 25,
+              "week_3": 40,
+              "week_4_plus": 50
+            }
+          },
+          "outputs": {
+            "tracking_events": ["sent", "opened", "clicked", "bounced", "unsubscribed", "replied"],
+            "destination": "log://outreach_events"
+          }
+        }
+      ],
+
+      "success_criteria": {
+        "open_rate_target": "25%_minimum",
+        "click_rate_target": "5%_minimum",
+        "bounce_rate_max": "3%",
+        "unsubscribe_rate_max": "1%"
+      }
+    },
+
+    {
+      "phase_id": "P4",
+      "phase_name": "Platform Conversion & Automated Fulfillment",
+      "assigned_agents": ["Archer", "Silas", "Scribe"],
+      "trigger": "woocommerce_webhook:order.completed",
+      "description": "When a customer purchases a deliverable on LocalCatalyst.ai, Archer receives the webhook, assigns the appropriate agent, and manages fulfillment through to delivery.",
+
+      "product_catalog": [
+        { "sku": "LC-GBP-OPT",    "name": "GBP Full Optimization",           "price": 97,  "fulfillment_agent": "Silas",          "turnaround_hours": 48,  "spec_ref": "silas_engine/gbp_optimization" },
+        { "sku": "LC-SCHEMA",      "name": "Schema Markup Package",           "price": 47,  "fulfillment_agent": "Silas",          "turnaround_hours": 24,  "spec_ref": "silas_engine/schema_markup" },
+        { "sku": "LC-NAP-CITE",    "name": "NAP/Citation Audit + Fixes",      "price": 147, "fulfillment_agent": "Silas",          "turnaround_hours": 120, "spec_ref": "silas_engine/citation_building" },
+        { "sku": "LC-TECH-AUDIT",  "name": "Technical SEO Audit Report",      "price": 197, "fulfillment_agent": "Silas",          "turnaround_hours": 48,  "spec_ref": "silas_engine/technical_seo" },
+        { "sku": "LC-CONTENT-CAL", "name": "12-Month Content Calendar",       "price": 197, "fulfillment_agent": "Scribe",         "turnaround_hours": 48,  "spec_ref": "silas_engine/content_strategy" },
+        { "sku": "LC-BLOG-8",      "name": "8 SEO Blog Posts (2000+ words)",   "price": 397, "fulfillment_agent": "Scribe",         "turnaround_hours": 168, "spec_ref": "silas_engine/content_creation" },
+        { "sku": "LC-COMP-REPORT", "name": "Competitor Analysis Report",      "price": 147, "fulfillment_agent": "Silas+Scribe",   "turnaround_hours": 48,  "spec_ref": "silas_engine/competitor_analysis" },
+        { "sku": "LC-REVIEW-STRAT","name": "Review Generation Strategy",      "price": 97,  "fulfillment_agent": "Scribe",         "turnaround_hours": 24,  "spec_ref": "silas_engine/review_generation" },
+        { "sku": "LC-LINK-PLAY",   "name": "Local Link Building Playbook",    "price": 147, "fulfillment_agent": "Silas+Scribe",   "turnaround_hours": 120, "spec_ref": "silas_engine/link_building" },
+        { "sku": "LC-FULL-LAUNCH", "name": "Full Local SEO Launch Package",   "price": 797, "fulfillment_agent": "All",            "turnaround_hours": 240, "spec_ref": "silas_engine/full_launch" }
+      ],
+
+      "fulfillment_workflow": {
+        "step_1": {
+          "action": "receive_webhook",
+          "agent": "Archer",
+          "details": "Parse WooCommerce order webhook. Extract SKU, customer info, business data. Log order in dashboard.localcatalyst.ai."
+        },
+        "step_2": {
+          "action": "assign_agent",
+          "agent": "Archer",
+          "details": "Route to fulfillment agent based on SKU mapping. Pass business data, spec reference, and turnaround deadline."
+        },
+        "step_3": {
+          "action": "generate_deliverable",
+          "agent": "per_sku_mapping",
+          "details": "Fulfillment agent generates deliverable using corresponding Silas Engine spec. Output format per spec (PDF, document, spreadsheet, implementation guide)."
+        },
+        "step_4": {
+          "action": "quality_check",
+          "agent": "Archer",
+          "details": "Validate deliverable completeness against spec requirements. Check for formatting, accuracy, branding. If fail → reassign with error notes. If pass → proceed."
+        },
+        "step_5": {
+          "action": "package_and_deliver",
+          "agent": "Scribe",
+          "details": "Package deliverable with branded cover page, implementation instructions, and 'What's Next' upsell section. Send to customer via email."
+        },
+        "step_6": {
+          "action": "log_completion",
+          "agent": "Archer",
+          "details": "Update order status in WooCommerce. Log completion in dashboard.localcatalyst.ai. Trigger 30-day re-audit scheduler."
+        }
+      },
+
+      "error_handling": {
+        "fulfillment_failure": {
+          "max_retries": 2,
+          "retry_delay_minutes": 30,
+          "escalation": "telegram_alert_to_cody",
+          "customer_notification": "email_delay_notice_if_past_turnaround"
+        },
+        "webhook_failure": {
+          "retry_policy": "exponential_backoff_3_attempts",
+          "dead_letter_queue": "queue://failed_orders",
+          "manual_review_alert": true
+        }
+      },
+
+      "success_criteria": {
+        "fulfillment_within_turnaround": "95%_of_orders",
+        "zero_manual_fulfillment": true,
+        "customer_delivery_confirmation_rate": "100%"
+      }
+    },
+
+    {
+      "phase_id": "P5",
+      "phase_name": "Retention & Upsell Engine",
+      "assigned_agents": ["Silas", "Scribe"],
+      "trigger": "cron_check_daily:customers_at_30_day_mark",
+      "description": "Automated re-audit cycle that validates previous purchase, identifies next deliverable opportunity, and generates repeat revenue without manual intervention.",
+
+      "tasks": [
+        {
+          "task_id": "P5-T1",
+          "task_name": "30-Day Re-Audit",
+          "assigned_agent": "Silas",
+          "description": "Re-run SEO audit on customer's business. Compare before/after metrics against the deliverable they purchased. Generate improvement data.",
+          "trigger": "30_days_post_order_completion",
+          "outputs": {
+            "format": "json",
+            "schema": {
+              "customer_id": "string",
+              "original_order_sku": "string",
+              "before_metrics": "object",
+              "after_metrics": "object",
+              "improvement_summary": "string",
+              "next_recommended_sku": "string",
+              "next_recommended_reason": "string"
+            },
+            "destination": "queue://reaudit_complete"
+          }
+        },
+        {
+          "task_id": "P5-T2",
+          "task_name": "Progress Report & Upsell Email",
+          "assigned_agent": "Scribe",
+          "trigger": "on_new_items_in:queue://reaudit_complete",
+          "description": "Generate branded progress report showing before/after improvement. Include next recommended deliverable with 10% loyalty discount coupon.",
+          "email_content": {
+            "section_1": "Celebration of improvement: 'Your GBP completeness went from {before}% to {after}%.'",
+            "section_2": "Next biggest opportunity: 'Now that {completed_deliverable} is handled, your biggest remaining gap is {next_gap}.'",
+            "section_3": "Loyalty offer: 10% off next deliverable with auto-generated WooCommerce coupon code.",
+            "cta": "localcatalyst.ai/report/{business_slug}#next-steps"
+          },
+          "coupon_generation": {
+            "type": "woocommerce_coupon",
+            "discount": "10_percent",
+            "usage_limit": 1,
+            "expiry_days": 30,
+            "code_pattern": "LOYAL-{customer_id_short}-{random_4}"
+          }
+        },
+        {
+          "task_id": "P5-T3",
+          "task_name": "Referral Link Generation",
+          "assigned_agent": "Archer",
+          "trigger": "on_order_completion",
+          "description": "Generate unique referral link for every fulfilled order. Include in delivery email. Track via UTM parameters.",
+          "referral_config": {
+            "link_pattern": "localcatalyst.ai/?ref={customer_ref_code}",
+            "reward_type": "$25_credit_coupon",
+            "tracking": "utm_source=referral&utm_medium=customer&utm_campaign={customer_ref_code}",
+            "notification": "email_to_referrer_on_referred_purchase"
+          }
+        }
+      ],
+
+      "success_criteria": {
+        "reaudit_completion_rate": "100%_of_customers_at_30_days",
+        "repeat_purchase_rate_target": "15%_within_60_days",
+        "referral_program_participation": "10%_of_customers"
+      }
+    }
+  ],
+
+  "implementation_schedule": {
+    "week_1_2": {
+      "label": "Foundation",
+      "tasks": [
+        "Finalize WooCommerce product catalog with all 10 SKUs",
+        "Build personalized report landing page template (localcatalyst.ai/report/{slug})",
+        "Set up WooCommerce → Archer webhook pipeline",
+        "Configure outreach domain (reports.localcatalyst.ai) with DKIM/DMARC/SPF",
+        "Begin domain warming",
+        "Build Scribe audit report PDF template",
+        "Define Archer queue schema and routing logic for all queues"
+      ]
+    },
+    "week_3_4": {
+      "label": "Pipeline Activation",
+      "tasks": [
+        "Deploy Scout prospecting: 3 verticals × 2 metros",
+        "Generate first batch of 50 audits via Silas",
+        "QA audit reports: accuracy, branding, CTA links, deliverable mapping",
+        "Send first outreach batch: 25 emails",
+        "Monitor full pipeline end-to-end: prospect → audit → outreach → click → purchase → fulfill → deliver",
+        "Fix any broken links in the chain before scaling"
+      ]
+    },
+    "week_5_8": {
+      "label": "Optimization & Scale",
+      "tasks": [
+        "A/B test email subject lines and audit report CTA placement",
+        "Increase outreach to 50/week based on deliverability data",
+        "Build 30-day re-audit automation (P5-T1, P5-T2)",
+        "Implement referral tracking via WooCommerce coupon system",
+        "Review conversion funnel data and adjust pricing if needed",
+        "Expand Scout to 2 additional metros"
+      ]
+    },
+    "week_9_12": {
+      "label": "Growth Mode",
+      "tasks": [
+        "Scale to 150 audits/week across 5+ verticals, 4+ metros",
+        "Launch first industry-specific bundle based on purchase patterns",
+        "Evaluate white-label partnership opportunities",
+        "Build pipeline metrics dashboard on dashboard.localcatalyst.ai",
+        "Assess subscription tier feasibility from repeat purchase rate data"
+      ]
+    }
+  },
+
+  "monitoring_and_alerts": {
+    "dashboard_url": "https://dashboard.localcatalyst.ai/pipeline",
+    "metrics_tracked": [
+      "prospects_scanned_today",
+      "prospects_qualified_today",
+      "audits_generated_today",
+      "outreach_emails_sent_today",
+      "outreach_open_rate_7day",
+      "outreach_click_rate_7day",
+      "landing_page_visits_today",
+      "orders_placed_today",
+      "orders_fulfilled_today",
+      "orders_pending",
+      "revenue_today",
+      "revenue_mtd",
+      "cost_api_mtd",
+      "gross_margin_mtd",
+      "repeat_purchase_rate",
+      "referral_conversions_mtd"
+    ],
+    "alert_triggers": [
+      { "condition": "fulfillment_past_turnaround", "action": "telegram_alert_cody", "severity": "high" },
+      { "condition": "bounce_rate_above_5pct", "action": "pause_outreach_telegram_alert", "severity": "critical" },
+      { "condition": "webhook_failure", "action": "telegram_alert_cody", "severity": "high" },
+      { "condition": "daily_api_cost_above_50", "action": "telegram_alert_cody", "severity": "medium" },
+      { "condition": "zero_orders_3_consecutive_days", "action": "telegram_alert_cody", "severity": "medium" },
+      { "condition": "audit_quality_check_fail", "action": "reassign_with_notes", "severity": "medium" }
+    ]
+  },
+
+  "guardrails": {
+    "never_do": [
+      "NEVER offer retainer/managed service agreements through this pipeline",
+      "NEVER manually fulfill a deliverable — fix the automation instead",
+      "NEVER scale outreach past 50/day until bounce rate is confirmed under 3%",
+      "NEVER add third-party site builders (Base44 etc.) — use existing WordPress stack",
+      "NEVER discount below listed price — loyalty coupons (10%) are the only exception",
+      "NEVER send outreach without valid DKIM/DMARC/SPF and working unsubscribe"
+    ],
+    "always_do": [
+      "ALWAYS route Scout/Scribe bulk tasks to cheap models, reserve Claude for Silas audits and Archer reasoning",
+      "ALWAYS log every pipeline event to dashboard.localcatalyst.ai",
+      "ALWAYS include referral link in every fulfilled delivery email",
+      "ALWAYS run QA sampling on 10% of automated deliverables",
+      "ALWAYS send Telegram alert on any fulfillment delay or pipeline failure"
+    ]
+  }
+}

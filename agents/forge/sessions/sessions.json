@@ -1,7 +1,7 @@
 {
   "agent:forge:main": {
     "sessionId": "7b773bf2-1db4-419f-9283-2db869ee499e",
-    "updatedAt": 1771142868718,
+    "updatedAt": 1771315599145,
     "skillsSnapshot": {
       "prompt": "",
       "skills": [],
@@ -12,9 +12,9 @@
     "model": "claude-opus-4-5",
     "contextTokens": 180000,
     "abortedLastRun": false,
-    "inputTokens": 8,
-    "outputTokens": 222,
-    "totalTokens": 72943,
+    "inputTokens": 10,
+    "outputTokens": 60,
+    "totalTokens": 86725,
     "origin": {
       "label": "telegram:7302669335",
       "provider": "telegram",
@@ -40,7 +40,7 @@
     "authProfileOverrideCompactionCount": 0,
     "systemPromptReport": {
       "source": "run",
-      "generatedAt": 1771092012931,
+      "generatedAt": 1771196355348,
       "sessionId": "7b773bf2-1db4-419f-9283-2db869ee499e",
       "sessionKey": "agent:forge:main",
       "provider": "anthropic",
@@ -120,7 +120,7 @@
       },
       "tools": {
         "listChars": 2021,
-        "schemaChars": 14135,
+        "schemaChars": 14063,
         "entries": [
           {
             "name": "read",
@@ -179,7 +179,7 @@
           {
             "name": "message",
             "summaryChars": 118,
-            "schemaChars": 3294,
+            "schemaChars": 3222,
             "propertiesCount": 79
           },
           {
@@ -265,8 +265,8 @@
     }
   },
   "agent:forge:cron:forge-nightly": {
-    "sessionId": "cc73edef-0482-4cb6-ac41-4e3201f5aba3",
-    "updatedAt": 1771142700030,
+    "sessionId": "761dc419-641b-4b6b-9ccd-e75a0961723e",
+    "updatedAt": 1771315500043,
     "systemSent": true,
     "model": "claude-opus-4-5",
     "contextTokens": 180000,
@@ -278,7 +278,7 @@
     },
     "modelProvider": "anthropic",
     "inputTokens": 8,
-    "outputTokens": 439,
-    "totalTokens": 87062
+    "outputTokens": 440,
+    "totalTokens": 179865
   }
 }

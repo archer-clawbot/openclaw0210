@@ -138,18 +138,20 @@ export const markDelivered = mutation({
 		await ctx.db.patch(args.id, updates);
 
 		// Schedule the email notification via the existing email action
-		const customer = await ctx.db.get(deliverable.customerId);
-		if (customer) {
-			await ctx.scheduler.runAfter(0, api.email.sendDeliverableReadyEmail, {
-				toEmail: customer.email,
-				firstName: customer.firstName,
-				deliverableTitle: deliverable.title,
-				deliverableId: args.id,
-			});
+		if (deliverable.customerId) {
+			const customer = await ctx.db.get(deliverable.customerId);
+			if (customer) {
+				await ctx.scheduler.runAfter(0, api.email.sendDeliverableReadyEmail, {
+					toEmail: customer.email,
+					firstName: customer.firstName,
+					deliverableTitle: deliverable.title,
+					deliverableId: args.id,
+				});
+			}
 		}
 
 		// 5B: Check if all deliverables in this cycle are now complete
-		if (deliverable.cycleNumber != null) {
+		if (deliverable.customerId && deliverable.cycleNumber != null) {
 			await ctx.scheduler.runAfter(0, api.wooDeliverables.checkCycleComplete, {
 				customerId: deliverable.customerId,
 				cycleNumber: deliverable.cycleNumber,
