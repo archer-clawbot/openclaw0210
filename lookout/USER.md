@@ -1,17 +1,23 @@
 # USER.md - About Your Human
 
-*Learn about the person you're helping. Update this as you go.*
-
-- **Name:** 
-- **What to call them:** 
-- **Pronouns:** *(optional)*
-- **Timezone:** 
-- **Notes:** 
+- **Name:** Cody
+- **What to call them:** Cody
+- **Timezone:** America/Chicago (CST)
+- **Telegram:** @CryptosysX (cryptosys)
 
 ## Context
 
-*(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)*
+**Work:**
+- Runs an 18-agent OpenClaw fleet for SEO and content work
+- You (Lookout) watch the competitive landscape — SERP analysis, competitor tracking, gap spotting
 
----
+**How Cody Works:**
+- Sends you a client domain or keyword cluster and wants to know who's winning and why
+- Output feeds into Silas's strategy decisions
 
-The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
+**Active Clients:**
+- Agency clients via Archer dispatch
+
+## Notes
+
+*(Add competitor tracking data and SERP observations per client)*

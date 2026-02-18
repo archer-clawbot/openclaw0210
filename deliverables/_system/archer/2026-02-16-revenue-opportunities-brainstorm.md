@@ -517,6 +517,95 @@ Post-perfection (Week 4+). Address known weaknesses (phantom routing, no visual 
 3. SaaS cloud-hosted version
 4. Industry-specific agent packs
 
+---
+
+## 4. Upwork Freelance Automation Engine
+
+**Concept (Feb 17, 2026 — via Cody, inspired by Orgo demo):**
+
+Sub-agents with their own cloud computers browse Upwork, find AI automation jobs worth $2K-10K+, BUILD the deliverable before applying, then submit with a working demo. Win rate dramatically higher than cold proposals.
+
+**The Core Insight:**
+- Upwork is flooded with AI automation job posts: RPA, Power Automate, workflow automation, AI integrations
+- Most applicants submit proposals. We submit a working build.
+- Pre-built demo = near-unfair competitive advantage
+
+**The Platform: Orgo**
+- Provides cloud computers for each sub-agent
+- Sub-agents get their own browser + terminal (computer use)
+- All running under one OpenClaw instance
+- No need to install OpenClaw on each machine — it spawns sub-agents into cloud computers
+
+**Workflow:**
+```
+Hunter agent (daily scan)
+  → Browses Upwork for AI automation / RPA / Power Automate jobs
+  → Scores jobs by: budget, fit, competition level, time-to-build estimate
+  → Routes top jobs to Archer
+
+Archer reviews + approves
+  → Routes to appropriate builder agent (Wrench / Builder / Specs)
+  → Builder builds the deliverable on its own cloud computer
+
+Scribe writes proposal
+  → References the working demo
+  → Tailored to client's stated problem
+
+Hunter submits proposal + demo link
+  → Monitors for responses
+  → Routes client questions back to Archer
+```
+
+**Target Job Types:**
+- AI chatbot integrations ($2K-8K)
+- Workflow automation (Zapier/Make replacements) ($1K-5K)
+- Power Automate / RPA builds ($3K-10K)
+- Custom AI tools for businesses ($5K-15K)
+- Data scraping + processing pipelines ($1K-4K)
+
+**Revenue Math:**
+- 20 jobs found/week → 5 apply → 2 win
+- Average project: $3K
+- Monthly: $24K gross (before agent costs)
+- Agent costs: ~$50-100/month API usage
+- Net: $23K+/month at steady state
+
+**What We Need to Add:**
+| Gap | Solution |
+|-----|----------|
+| Cloud computers for agents | Orgo account |
+| Hunter agent (Upwork scraper + scorer) | New agent spec needed |
+| Job approval workflow | Archer gate (Cody approves before building) |
+| Demo hosting | GitHub Pages / Vercel free tier |
+| Proposal submission automation | Browser control via Hunter |
+
+**Agents Already Available:**
+- Scout → job research + competitor analysis
+- Wrench / Builder → build the automations
+- Specs → technical implementation
+- Scribe → proposal writing
+- Archer → routing + approval gate
+
+**Missing Agent: Hunter**
+- Role: Upwork job scanner, scorer, and submitter
+- Model: Sonnet (execution, not strategy)
+- Skills: browser control, job scoring rubric, proposal templates, client communication
+
+**Cody Approval Gate:**
+Every job before building gets flagged to Cody with:
+- Job title + budget
+- Estimated build time
+- Win probability score
+- "Build it?" Y/N
+
+**Key Risk:** Upwork TOS — automated bidding may violate terms. Mitigation: Hunter flags jobs, Cody approves, Hunter submits manually (not fully automated bidding).
+
+**Status:** Brainstorm captured. Requires Orgo account + Hunter agent spec.
+**Effort:** Medium (Hunter agent spec = 1 day, Orgo setup = 2 hours)
+**Timeline:** Queue after AI Agent Box prototype OR run parallel
+
+---
+
 ### Deferred Until
 **After Week 4 system stability report.** All concepts ready to execute, but blocked on:
 - Routing verification (mandatory post-spawn confirmation)
@@ -526,6 +615,6 @@ Post-perfection (Week 4+). Address known weaknesses (phantom routing, no visual 
 
 ---
 
-**Status:** Brainstorm complete, all ideas captured  
-**Next Action:** Build prototype hardware (see shopping list)  
+**Status:** Brainstorm updated Feb 17, 2026  
+**Next Action:** Build prototype hardware (see shopping list) + evaluate Orgo for Upwork engine  
 **Timeline:** 2-4 weeks pre-launch (after system perfection)

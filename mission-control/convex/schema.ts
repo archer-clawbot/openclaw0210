@@ -28,6 +28,7 @@ export default defineSchema({
 		description: v.string(),
 		status: v.union(
 			v.literal("inbox"),
+			v.literal("brainstorm_queue"),
 			v.literal("assigned"),
 			v.literal("in_progress"),
 			v.literal("review"),
@@ -68,11 +69,16 @@ export default defineSchema({
 		cacheReadTokens: v.optional(v.number()),
 		cacheWriteTokens: v.optional(v.number()),
 		totalCost: v.optional(v.number()),
+		// Brainstorm & Project grouping
+		sourceBrainstormId: v.optional(v.id("brainstorms")),
+		projectId: v.optional(v.id("projects")),
 	})
 		.index("by_tenant", ["tenantId"])
 		.index("by_tenant_status", ["tenantId", "status"])
 		.index("by_tenant_agent", ["tenantId", "agentId"])
-		.index("by_deliverableId", ["deliverableId"]),
+		.index("by_deliverableId", ["deliverableId"])
+		.index("by_tenant_client", ["tenantId", "clientSlug"])
+		.index("by_tenant_project", ["tenantId", "projectId"]),
 	messages: defineTable({
 		taskId: v.id("tasks"),
 		fromAgentId: v.id("agents"),
@@ -394,6 +400,69 @@ export default defineSchema({
 		tenantId: v.string(),
 	})
 		.index("by_period", ["period", "tenantId"]),
+
+	// ── Projects (task grouping) ────────────────────────────────────
+
+	projects: defineTable({
+		name: v.string(),
+		slug: v.string(),
+		description: v.optional(v.string()),
+		clientSlug: v.optional(v.string()),
+		color: v.string(),
+		sourceBrainstormId: v.optional(v.id("brainstorms")),
+		status: v.union(
+			v.literal("active"),
+			v.literal("completed"),
+			v.literal("archived"),
+		),
+		taskCount: v.number(),
+		completedTaskCount: v.number(),
+		tenantId: v.optional(v.string()),
+	})
+		.index("by_tenant", ["tenantId"])
+		.index("by_slug", ["slug"])
+		.index("by_tenant_client", ["tenantId", "clientSlug"])
+		.index("by_status", ["status"]),
+
+	// ── Clients (lightweight reference for filtering) ───────────────
+
+	clients: defineTable({
+		name: v.string(),
+		slug: v.string(),
+		color: v.optional(v.string()),
+		domain: v.optional(v.string()),
+		active: v.boolean(),
+		tenantId: v.optional(v.string()),
+	})
+		.index("by_tenant", ["tenantId"])
+		.index("by_slug", ["slug"]),
+
+	// ── Brainstorm Library ──────────────────────────────────────────
+
+	brainstorms: defineTable({
+		title: v.string(),
+		slug: v.string(),
+		content: v.string(),
+		summary: v.string(),
+		sourceDate: v.string(),
+		sourceAgent: v.optional(v.string()),
+		sourceVideo: v.optional(v.string()),
+		tags: v.array(v.string()),
+		status: v.union(
+			v.literal("new"),
+			v.literal("reviewed"),
+			v.literal("planned"),
+			v.literal("in_progress"),
+			v.literal("completed"),
+			v.literal("archived"),
+		),
+		planGenerated: v.boolean(),
+		taskCount: v.number(),
+		tenantId: v.optional(v.string()),
+	})
+		.index("by_tenant", ["tenantId"])
+		.index("by_slug", ["slug"])
+		.index("by_status", ["status"]),
 
 	// ── Customer Portal Auth ─────────────────────────────────────────
 

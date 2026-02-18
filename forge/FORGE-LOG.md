@@ -10,6 +10,48 @@ Forge reads this at the start of each nightly cycle to:
 
 <!-- Entries will be appended below by Forge during nightly cycles -->
 
+## 2026-02-18
+
+### Problems Found
+- [P-TOOL] Severity: 4×4=16 | **Mozi 401 API auth — NIGHT 4 (CRITICAL)** — no tasks can route to Mozi
+- [P-COST] Severity: 4×3=12 | Main agent at $38.47 (100% of fleet cost) — up from $26.66 yesterday, worsening trend
+- [P-INFRA] Severity: 2×4=8 | Slack token still missing — blocking Sentinel channel delivery (4th night)
+- [P-TOOL] Severity: 2×3=6 | 37 tool errors in main sessions — mostly older (Feb 14-15) exec/shell failures
+- [P-INFRA] Severity: 3×1=3 | Dispatcher had ~20 min gateway token mismatch (12:22-12:41 UTC), self-resolved
+- [P-INFRA] Severity: 3×1=3 | No Sentinel report generated for Feb 18 — cron may have failed
+
+### Changes Applied
+- [NONE] No auto-applicable changes — all issues require operator action
+
+### Pending Operator Action
+🔴 **Mozi API Key — NIGHT 4 (CRITICAL ESCALATION)**
+- Error: 401 invalid x-api-key from Anthropic
+- First seen: Feb 15 — now 4 consecutive nights
+- Action: Verify/regenerate Mozi's API credentials
+
+⚠️ **Cost Trend Worsening**
+- Feb 15: $31.75 | Feb 16: $18.58 | Feb 17: $31.75 | Feb 18: $38.47
+- Main agent consuming 100% of fleet spend — no other agents running sessions
+- Suggest auditing main's sub-agent spawning patterns
+
+⚠️ **Slack Token — NIGHT 4**
+- Blocking Sentinel report delivery to #sentinel channel
+- Low priority but accumulating
+
+### Tracked (No Action)
+- Dispatcher: HEALTHY — polling 2 clients every 2 min, 0 tasks queued ✅
+- Circuit breaker: CLOSED (healthy) ✅
+- Gateway: Recovered after brief token mismatch ✅
+- Workspace integrity: PASS (last check Feb 17) ✅
+- Telegram bots: All 18 responding (last check Feb 17) ✅
+- Cron jobs: 5/7 enabled ✅
+
+### Metrics
+- Fleet 24h cost: $38.47 (main: $38.47, all others: $0)
+- Session errors: 37 (down from 75 yesterday — but mostly old timestamps)
+- Tasks dispatched: 0 (queue empty — normal)
+- Streak: Night 4 stable (no new patches needed, but no new improvements either)
+
 ## 2026-02-17
 
 ### Problems Found

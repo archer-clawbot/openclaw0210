@@ -79,10 +79,11 @@ For each problem, generate a specific fix proposal:
 - PROMPT-PATCH with risk ≥ 3
 - ROUTING-FIX, MODEL-ADJUST, WORKFLOW-FIX
 - CONFIG-FIX, TEMPLATE-FIX
-- ANY change to Archer's AGENTS.md
+- ANY change to Archer's AGENTS.md (main/AGENTS.md or workspace/AGENTS.md) — but prefer HARD LOCK above; do not even queue these for approval
 
 **Cannot change:**
-- `workspace/AGENTS.md` (Archer's brain — too critical)
+- `main/AGENTS.md` (Archer's brain — HARD LOCK, no exceptions)
+- `workspace/AGENTS.md` (Archer's brain mirror — HARD LOCK, no exceptions)
 - `openclaw.json` (gateway config)
 - `.env` (secrets)
 - Client deliverables

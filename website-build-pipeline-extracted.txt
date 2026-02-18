@@ -1,0 +1,1638 @@
+Autonomous Website Build Pipeline
+Full Agent-Driven Site Design, Build, Review & Launch
+Version 2.0 | 2026-02-07
+
+Vision
+Clients go from signed agreement to live website with near-zero manual work from you. The agent stack handles design, content, development, SEO optimization, staging, client review, revisions, and launch. Your role is oversight — a final QC glance and the occasional client call.
+
+CLIENT SIGNS
+
+     │
+
+     ▼
+
+ARCHER ORCHESTRATES FULL PIPELINE:
+
+     │
+
+     ├─→ Scout: Research & keyword mapping
+
+     ├─→ Mozi: Strategy & positioning
+
+     ├─→ Canvas: Design system, layouts, visual mockups
+
+     ├─→ Scribe: All page content
+
+     ├─→ Builder: WordPress assembly on staging
+
+     ├─→ Specs: Technical SEO & performance
+
+     ├─→ Silas: Final SEO audit & quality scoring
+
+     │
+
+     ▼
+
+STAGING SITE READY → CLIENT REVIEWS VIA PORTAL
+
+     │
+
+     ├─→ Client approves → Agents launch to production
+
+     └─→ Client requests changes → Agents revise → Re-review
+
+
+PART 1: THE NEW AGENT — CANVAS (Design)
+Why a Dedicated Design Agent
+Builder assembles WordPress pages from templates and content. But someone needs to decide what those templates look like — color palette, typography, layout structure, spacing, visual hierarchy, image treatment. That's design, and it's a different skillset from CMS assembly.
+
+Canvas bridges the gap between "we have the client's logo and brand colors" and "here's a fully designed page layout Builder can implement."
+Canvas — Agent Profile
+AGENT: Canvas
+
+ROLE: Visual design system creation and art direction
+
+MODEL: Claude Sonnet (with image generation capability via API)
+
+TIER: Execution agent (reports to Archer, coordinates with Builder)
+
+WHAT CANVAS DOES:
+
+  1. Takes client brand assets (logo, colors, existing materials)
+
+     and creates a complete design system
+
+  2. Generates page layout specifications that Builder follows
+
+  3. Selects and curates stock photography / generates image assets
+
+  4. Creates visual mockups for client review
+
+  5. Defines responsive behavior (how layouts adapt to mobile)
+
+  6. Ensures visual consistency across all pages
+
+WHAT CANVAS DOES NOT DO:
+
+  - Write content (that's Scribe)
+
+  - Build WordPress pages (that's Builder)
+
+  - Handle SEO (that's Silas/Specs)
+
+  - Talk to clients (that's you via GHL)
+Canvas Output: The Design System Document
+For every client, Canvas produces a design system that Builder follows exactly:
+
+DESIGN SYSTEM — [Client Name]
+
+================================
+
+BRAND FOUNDATIONS:
+
+  Primary color: #2B5F8A
+
+  Secondary color: #E8913A
+
+  Accent color: #1A3D5C
+
+  Background: #FFFFFF
+
+  Surface (cards, sections): #F7F9FC
+
+  Text primary: #1A1A2E
+
+  Text secondary: #5A5A7A
+
+  Border/divider: #E2E8F0
+
+TYPOGRAPHY:
+
+  Headings: Montserrat (Google Font)
+
+    H1: 48px / bold / line-height 1.2
+
+    H2: 36px / bold / line-height 1.25
+
+    H3: 24px / semibold / line-height 1.3
+
+    H4: 20px / semibold / line-height 1.35
+
+  Body: Inter (Google Font)
+
+    Regular: 16px / normal / line-height 1.6
+
+    Small: 14px / normal / line-height 1.5
+
+  Button text: 16px / semibold / uppercase tracking 0.5px
+
+SPACING SYSTEM (8px grid):
+
+  Section padding: 80px top/bottom (48px on mobile)
+
+  Container max-width: 1200px
+
+  Card padding: 32px
+
+  Element gap (standard): 24px
+
+  Element gap (tight): 16px
+
+BUTTON STYLES:
+
+  Primary: bg #2B5F8A, text white, rounded 8px, padding 16px 32px
+
+  Secondary: bg transparent, border 2px #2B5F8A, text #2B5F8A
+
+  Hover: darken 10%, subtle shadow
+
+  CTA (large): bg #E8913A, text white, rounded 8px, padding 20px 40px
+
+IMAGE TREATMENT:
+
+  Hero images: full-width, 60vh height, dark overlay 40% opacity,
+
+    text on top
+
+  Card images: rounded 8px, aspect ratio 16:9
+
+  Staff photos: circular crop, 200px diameter
+
+  Icon style: line icons, 2px stroke, primary color
+
+COMPONENT PATTERNS:
+
+  Hero section: full-width image + overlay + H1 + subheading + CTA
+
+  Service cards: image top, title, short description, "Learn More" link
+
+  Testimonial: large quote marks, italic text, name + title below
+
+  CTA banner: colored background + headline + button (used between sections)
+
+  Contact form: card style, floating on colored background
+
+  Footer: dark background, 3-4 columns, logo, links, contact info, social
+
+LAYOUT SPECIFICATIONS (per page — see Page Layouts section):
+
+  [Detailed section-by-section layout for every page type]
+Canvas Page Layout Specs
+Canvas produces detailed layout blueprints for every page type. These aren't mockup images — they're structured specifications Builder can translate directly into WordPress.
+
+HOMEPAGE LAYOUT SPEC:
+
+─────────────────────────────────
+
+SECTION 1: Hero
+
+  Layout: Full-width image background
+
+  Content: H1 (primary keyword), subheading (value prop), CTA button
+
+  Image: [Canvas selects/generates hero image]
+
+  Mobile: Stack vertically, reduce image height to 40vh
+
+SECTION 2: Trust Bar
+
+  Layout: Single row, centered
+
+  Content: 4-5 trust signals (years in business, reviews count,
+
+    certifications, "locally owned", insurance logos)
+
+  Style: Light background, small icons + text
+
+  Mobile: 2×2 grid
+
+SECTION 3: Services Overview
+
+  Layout: 3-column card grid
+
+  Content: Top 3-6 services, each as a card with icon/image,
+
+    title, 2-line description, "Learn More" link
+
+  Mobile: Single column stack
+
+SECTION 4: About / Why Choose Us
+
+  Layout: 2-column (image left, text right)
+
+  Content: H2, 2-3 paragraphs, bullet points of differentiators
+
+  Image: Office/team photo
+
+  Mobile: Image on top, text below
+
+SECTION 5: Testimonials
+
+  Layout: Testimonial slider/carousel (3 testimonials)
+
+  Content: Quote, patient/customer name, star rating
+
+  Style: Card style with quote marks
+
+  Mobile: Single testimonial with swipe
+
+SECTION 6: CTA Banner
+
+  Layout: Full-width colored background
+
+  Content: H2 ("Ready to [outcome]?"), CTA button
+
+  Style: Primary or secondary color background, white text
+
+SECTION 7: Map + Contact
+
+  Layout: 2-column (map left, contact info right)
+
+  Content: Google Map embed, address, phone, hours, quick form
+
+  Mobile: Stack (form on top, map below)
+
+SECTION 8: Footer
+
+  Layout: 4-column
+
+  Content: Logo + tagline, Quick Links, Services, Contact Info
+
+  Bottom bar: Copyright, privacy policy, sitemap link
+
+─────────────────────────────────
+
+Canvas produces one of these for every page type: homepage, service page, location page, about page, staff page, contact page, FAQ page, blog index, and blog post template.
+Canvas + Stock Photography
+Canvas handles image selection and procurement:
+
+Option 1: Client-Provided Photos
+
+Client sends photos in intake form
+Canvas evaluates quality, selects best ones for each placement
+Canvas specifies cropping, sizing, and treatment for each
+
+Option 2: Stock Photography (Most Common)
+
+Canvas searches and selects images from stock sources
+Unsplash API (free, high-quality) for general photography
+Pexels API (free) as backup
+For medical/professional images that need to look authentic: Canvas generates detailed image descriptions → you approve → purchase from Shutterstock/iStock ($10-15/image) or use a subscription ($29/month for 10 images)
+
+Option 3: AI-Generated Images
+
+Canvas generates custom images via API (DALL-E, Midjourney, etc.)
+Best for: abstract graphics, icons, pattern backgrounds
+NOT recommended for: staff photos, office photos (clients should provide real photos or hire a photographer)
+Canvas Model Choice
+Canvas runs on Claude Sonnet for the design system generation (structured output, consistent formatting, design logic). For any image generation tasks, Canvas calls external APIs (DALL-E, Midjourney via API, or Ideogram).
+
+Canvas does NOT need Opus. Design system creation is a structured, rules-based task once you establish the patterns. The first 2-3 builds, you'll review and refine Canvas's output. After that, Canvas produces consistent, professional design systems on autopilot.
+
+
+PART 2: HOSTING INFRASTRUCTURE
+Requirements
+The agents need hosting they can manage programmatically — no clicking through cPanel. This means API-accessible hosting where Builder can:
+
+Create new WordPress installations
+Manage staging environments
+Deploy staging to production
+Handle SSL certificates
+Manage DNS (or at least point domains)
+Push files, run WP-CLI commands
+Monitor uptime and performance
+Recommended Stack: Cloudways
+Why Cloudways:
+
+Full REST API for everything (server management, app management, staging)
+Built-in staging environments (one-click clone to staging, one-click push to live)
+Managed security, backups, SSL
+Runs on DigitalOcean, Vultr, or AWS underneath (you choose)
+WordPress-optimized stack (Apache/Nginx, Varnish, Memcached, PHP 8.x)
+$14-28/month per app on DigitalOcean (cheapest tier handles most small business sites)
+No per-site pricing — you pay for server resources and run multiple sites
+
+Alternative: RunCloud + DigitalOcean
+
+RunCloud is a server management panel with API access ($8-15/month)
+Paired with DigitalOcean droplets ($6-24/month per server)
+More manual setup but cheaper at scale
+Good option once you have 10+ client sites on one server
+
+Alternative: SpinupWP + DigitalOcean
+
+Similar to RunCloud, WordPress-specific
+Clean API, good staging support
+$12/month per server
+
+Recommendation: Start with Cloudways. The API is the most complete, staging is built-in, and the managed layer means you don't have to deal with server maintenance. Switch to RunCloud + DO when you want to optimize costs at 15+ sites.
+Cloudways API — What Builder Uses
+BASE URL: https://api.cloudways.com/api/v1
+
+AUTHENTICATION:
+
+  POST /oauth/access_token
+
+  → Returns bearer token for all subsequent calls
+
+CREATE NEW WORDPRESS APP:
+
+  POST /app
+
+  {
+
+    "server_id": "your_server_id",
+
+    "application": "wordpress",
+
+    "app_label": "client-name",
+
+    "project_name": "client-name"
+
+  }
+
+STAGING OPERATIONS:
+
+  POST /staging/app/{app_id}        → Create staging copy
+
+  POST /staging/app/{app_id}/deploy  → Push staging to live
+
+  DELETE /staging/app/{app_id}       → Remove staging
+
+SSL CERTIFICATE:
+
+  POST /security/lets_encrypt
+
+  {
+
+    "server_id": "...",
+
+    "app_id": "...",
+
+    "ssl_email": "your@email.com"
+
+  }
+
+SSH/SFTP ACCESS:
+
+  Built-in SSH access per application
+
+  Builder uses SSH to run WP-CLI commands:
+
+    wp plugin install rank-math-seo --activate
+
+    wp theme install flavor --activate
+
+    wp option update blogname "Client Business Name"
+
+GIT DEPLOYMENT (optional):
+
+  POST /git  → Connect Git repo for version-controlled deployments
+Server Architecture
+CLOUDWAYS SERVER (DigitalOcean — 2GB RAM, $28/month)
+
+│
+
+├── App 1: client-a.com (production)
+
+│   └── Staging: staging-client-a.cloudways.com
+
+│
+
+├── App 2: client-b.com (production)
+
+│   └── Staging: staging-client-b.cloudways.com
+
+│
+
+├── App 3: client-c.com (production)
+
+│   └── Staging: staging-client-c.cloudways.com
+
+│
+
+└── ... (can host 10-15 small business sites per 2GB server)
+
+SCALING:
+
+  5-10 clients: 1 server ($28/month)
+
+  10-20 clients: 2 servers ($56/month)
+
+  20+ clients: Consider dedicated resources per high-traffic site
+Per-Client Hosting Cost
+Component | Cost | Notes
+Cloudways (shared server) | $2-5/month per site | Based on $28/month server / 6-15 sites
+Domain (if you manage) | $12-15/year | Clients usually own their own domain
+SSL | $0 | Free Let's Encrypt via Cloudways
+CDN (Cloudflare) | $0 | Free tier is sufficient
+Backups | $0 | Included in Cloudways
+
+
+Option A: Client pays hosting directly
+
+You set up the Cloudways app under their account or bill them
+Cleanest separation — they own their hosting, you manage it
+If they leave, they keep everything
+
+Option B: You include hosting in your retainer (recommended)
+
+Add $10-15/month to your retainer price to cover hosting overhead
+Simpler for the client — one invoice, you handle everything
+Gives you more control over the technical environment
+If they leave, you migrate their site to their own hosting
+
+
+PART 3: STAGING & DEVELOPMENT ENVIRONMENT
+How Staging Works
+Every new site build happens on a staging URL that's publicly accessible (for client review) but not indexed by search engines.
+
+STAGING ENVIRONMENT:
+
+  URL: [client-name].staging.youragency.com
+
+       or: staging-[randomhash].cloudways.com (Cloudways default)
+
+  
+
+  Features:
+
+  - Full WordPress installation, identical to production
+
+  - Not indexed (robots.txt: Disallow /, noindex headers)
+
+  - Password-protected (optional, for sensitive clients)
+
+  - All forms work but notifications go to a test inbox
+
+  - Analytics/Search Console NOT installed (prevents polluting data)
+
+  
+
+  Accessible by:
+
+  - All agents (Builder, Canvas, Scribe, Specs, Silas — via API/SSH)
+
+  - You (for QC review)
+
+  - Client (for review and feedback — via a clean preview link)
+Staging Workflow
+PHASE 1: Builder creates WordPress app on Cloudways via API
+
+         URL: staging-clientname.cloudways.com
+
+         │
+
+PHASE 2: Builder installs theme, plugins, configures settings
+
+         Canvas's design system applied (colors, fonts, layout specs)
+
+         │
+
+PHASE 3: Builder creates all pages using Canvas layouts + Scribe content
+
+         Images placed, forms configured, navigation built
+
+         │
+
+PHASE 4: Specs runs technical SEO setup on staging
+
+         Schema, speed optimization, accessibility
+
+         │
+
+PHASE 5: Silas audits staging site against SEO spec rubrics
+
+         Scores each page, flags issues
+
+         │
+
+PHASE 6: Builder fixes any issues Silas flagged
+
+         │
+
+PHASE 7: Silas re-audits, confirms pass
+
+         │
+
+PHASE 8: YOU do visual QC (15-30 min)
+
+         │
+
+PHASE 9: Client review via preview link
+
+         │
+
+PHASE 10: Revisions (if any) → Agents execute → Re-review
+
+          │
+
+PHASE 11: Client approves → Builder deploys staging to production
+
+          DNS pointed, SSL activated, redirects implemented
+
+          │
+
+PHASE 12: Post-launch verification (Specs + Scout)
+Staging Access for Agents
+Builder needs SSH/WP-CLI access to the staging environment. Here's how each agent interacts:
+
+BUILDER:
+
+  Access: SSH + WP-CLI + WordPress REST API + SFTP
+
+  Can: Install plugins, activate themes, create/edit pages and posts,
+
+       upload media, configure settings, manage menus, deploy to production
+
+  
+
+CANVAS:
+
+  Access: None directly — Canvas outputs design specs and image files
+
+  Builder: Consumes Canvas's output and implements it in WordPress
+
+SCRIBE:
+
+  Access: None directly — Scribe outputs structured content files
+
+  Builder: Consumes Scribe's content and populates WordPress pages
+
+SPECS:
+
+  Access: SSH + WP-CLI (read/write)
+
+  Can: Install/configure SEO plugins, edit robots.txt, submit sitemaps,
+
+       add schema markup, optimize images, configure caching, run
+
+       performance tests
+
+SILAS:
+
+  Access: HTTP (read-only) + WordPress REST API (read-only)
+
+  Can: Crawl the staging site, audit pages, validate schema,
+
+       check page speed, score against spec rubrics
+
+  Cannot: Make changes (Silas reviews, Builder/Specs fix)
+
+SCOUT:
+
+  Access: HTTP (read-only)
+
+  Can: Crawl staging to map URL structure, verify content is present,
+
+       check competitor comparison data
+
+
+PART 4: CLIENT REVIEW & FEEDBACK SYSTEM
+The Review Portal
+Clients need a simple, non-technical way to review their staging site and provide feedback. They should NOT be logging into WordPress or Cloudways.
+
+Solution: Dedicated Review Page in GHL Portal
+
+When the staging site is ready, the client gets:
+
+GHL → CLIENT (SMS + Email):
+
+"Hi [First Name], your new website is ready for review! 🎉
+
+Preview your site here: [staging URL]
+
+When you're done reviewing, share your feedback here:
+
+[GHL feedback form link]
+
+You can:
+
+✅ Approve the site to go live
+
+✏️ Request specific changes (tell us exactly what to adjust)
+
+We'll have any changes made within 48 hours."
+The Feedback Form (GHL Custom Form)
+WEBSITE REVIEW — [Client Name]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Have you reviewed the full site on both your 
+
+phone and computer?
+
+  ○ Yes
+
+  ○ Not yet (we recommend reviewing on both before submitting)
+
+OVERALL IMPRESSION:
+
+  ○ Love it — approve to go live
+
+  ○ Mostly good — a few changes needed
+
+  ○ Needs significant changes — let's discuss
+
+SPECIFIC FEEDBACK (if changes needed):
+
+Homepage:
+
+[text field — "What would you change on the homepage?"]
+
+Service Pages:
+
+[text field — "Any changes to service descriptions or pages?"]
+
+About / Team Page:
+
+[text field — "Any corrections to bios, photos, or company info?"]
+
+Contact / Hours:
+
+[text field — "Are contact details and hours correct?"]
+
+Photos & Images:
+
+[text field — "Any photos to add, remove, or replace?"]
+
+Colors & Design:
+
+[text field — "Any changes to colors, fonts, or overall look?"]
+
+Other:
+
+[text field — "Anything else?"]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Feedback → Agent Execution Pipeline
+CLIENT SUBMITS FEEDBACK FORM
+
+       │
+
+       ▼
+
+GHL: Captures form submission
+
+  - Tags contact: "site-review-submitted"
+
+  - Webhook to Archer with form data
+
+       │
+
+       ▼
+
+ARCHER: Parses feedback
+
+       │
+
+       ├── "Approve to go live" selected?
+
+       │   → YES: Move to launch sequence (Part 5)
+
+       │   → Add to YOUR Trello: "Client approved — ready for launch"
+
+       │
+
+       └── "Changes needed" selected?
+
+           → Archer parses each feedback field
+
+           → Creates Trello cards for each change request
+
+           → Routes to appropriate agent:
+
+               │
+
+               ├── Content changes → Scribe revises → Builder updates
+
+               ├── Design/visual changes → Canvas adjusts specs → Builder updates
+
+               ├── Photo changes → Canvas selects new images → Builder swaps
+
+               ├── Factual corrections (hours, names, etc.) → Builder direct edit
+
+               └── Structural changes (add/remove pages) → Full pipeline re-run for affected pages
+
+           │
+
+           ▼
+
+       ALL CHANGES COMPLETE
+
+           │
+
+           ▼
+
+       SILAS: Re-audits changed pages (SEO compliance check)
+
+           │
+
+           ▼
+
+       GHL → CLIENT: "We've made the changes you requested. 
+
+              Take another look: [staging URL]
+
+              [feedback form link]"
+
+           │
+
+           ▼
+
+       (Repeat until approved — max 2 rounds included in price,
+
+        additional rounds $250 each per the build agreement)
+Handling Vague Feedback
+Clients sometimes give feedback like "I don't love it" or "can you make it more modern?" without specifics.
+
+IF FEEDBACK IS VAGUE:
+
+  1. Archer flags it on YOUR Trello board:
+
+     "🟡 Vague client feedback — needs clarification"
+
+  2. You reach out personally:
+
+     "Hey [First Name], thanks for the feedback! To make 
+
+      sure we nail the changes, can you help me understand 
+
+      a bit more about what you'd like different? For 
+
+      example:
+
+      - Are there specific pages that need work?
+
+      - Is it the colors, layout, photos, or text?
+
+      - Do you have examples of sites you like the look of?"
+
+  3. Once clarified → route to agents as normal
+Review Timeline Expectations
+Set these at the start of the project (in the intake call and the build agreement):
+
+STAGING READY → Client has 5 business days to review
+
+  Day 1: Preview link sent
+
+  Day 3: Nudge if no response: "Just checking in — have 
+
+         you had a chance to review the site?"
+
+  Day 5: "Your review period closes tomorrow. If we don't 
+
+         hear from you, we'll proceed with launch."
+
+  Day 6: If no response → You call them
+
+  Day 8: If still no response → Auto-approve 
+
+         (per agreement terms, disclosed upfront)
+
+  
+
+CHANGES REQUESTED → Agents complete within 48 hours
+
+  → Client gets another 3 business days to re-review
+
+  → Same nudge sequence
+
+
+PART 5: THE FULL BUILD PIPELINE (Start to Launch)
+Phase 0: Project Kickoff (Day 1)
+TRIGGER: Agreement signed + 50% deposit received
+
+ARCHER:
+
+  1. Create Trello board for the website build project
+
+     (separate from ongoing SEO board — this is a project board)
+
+  2. Populate with all build phases as lists
+
+  3. Create Cloudways staging app via API
+
+  4. Send client intake form via GHL
+
+  5. Notify you: "Website build initiated for [Client Name]"
+
+  6. Dispatch Scout for research phase
+
+SCOUT:
+
+  - Audit existing site (if migrating) — crawl all URLs,
+
+    identify ranked pages, export backlink profile
+
+  - Competitor website analysis (top 3 local competitors)
+
+  - Industry website benchmarks
+
+  - Full keyword map (service × location matrix)
+
+MOZI:
+
+  - Review Scout's findings
+
+  - Define Grand Slam positioning for the site
+
+  - Recommend site architecture based on keyword opportunities
+
+  - Define conversion strategy and CTA hierarchy
+Phase 1: Client Materials + Architecture (Day 1-7)
+CLIENT: Completes intake form (GHL)
+
+  - Business info, brand assets, content inputs, preferences
+
+  - GHL automation: Tag "intake-complete" when form submitted
+
+  - If intake not complete by Day 5: GHL nudge sequence
+
+SILAS: Creates site architecture
+
+  Based on: Scout keyword map + Mozi strategy + client inputs
+
+  Output:
+
+  - Complete sitemap with URL structure
+
+  - Keyword-to-page mapping
+
+  - Internal linking architecture
+
+  - Content brief for each page (target keyword, word count,
+
+    required sections, CTA, schema type)
+
+YOU: Review architecture (15 min)
+
+  - Verify it makes sense for the client's business
+
+  - Approve or adjust
+
+  - Send to client for sign-off (via GHL approval workflow)
+
+  - Client has 48 hours to approve (auto-approve applies)
+Phase 2: Design System (Day 5-9)
+CANVAS: Creates complete design system
+
+  Input: Client brand assets, design preferences from intake,
+
+         competitor analysis, industry benchmarks
+
+  Output:
+
+  - Full design system document (colors, typography, spacing,
+
+    components — see Part 1)
+
+  - Page layout specifications for every page type
+
+  - Image selection/curation for the site
+
+  - Responsive behavior specs
+
+YOU: Review design system (10 min)
+
+  - Does it look professional?
+
+  - Does it match the client's brand and preferences?
+
+  - Quick gut check — would you be proud to show this?
+
+  
+
+  If Canvas is consistently producing good systems (after 
+
+  the first 2-3 builds), skip this review and let it flow
+
+  straight to Builder.
+Phase 3: Content Generation (Day 7-12)
+SCRIBE: Generates all page content
+
+  Input: Silas's content briefs + client intake materials
+
+  Output: Structured content files for every page
+
+  
+
+  Runs in parallel with Canvas (Phase 2) — both can work 
+
+  simultaneously since they don't depend on each other.
+
+YOU: Review content (1-2 hours, batch all pages at once)
+
+  - Accuracy check (especially for medical/legal content)
+
+  - Brand voice consistency
+
+  - Approve or request revisions from Scribe
+
+  
+
+  Trello: All content cards in "Needs My Review"
+
+  You: Move to "Approved" or "Needs Revision" with notes
+
+  If revision needed: Scribe fixes → re-review (usually one round)
+Phase 4: WordPress Build (Day 10-17)
+BUILDER: Assembles the complete site on staging
+
+  Input: Canvas design system + Scribe content + Silas architecture
+
+  
+
+  Day 10-11: Foundation
+
+    - WordPress installed on Cloudways staging (via API)
+
+    - Theme installed and configured per Canvas design system
+
+    - Standard plugin stack installed and configured
+
+    - Global elements built (header, footer, nav, typography, colors)
+
+    - Forms created and configured
+
+  
+
+  Day 12-14: Page Build
+
+    - Homepage built per Canvas layout spec + Scribe content
+
+    - All service pages built
+
+    - About / team page built
+
+    - Contact page built
+
+    - FAQ page built
+
+    - Location pages built (if multi-location)
+
+    - Blog setup (if included)
+
+    - All images placed and optimized
+
+    - Internal linking implemented per Silas's architecture
+
+    - Mobile responsive verified on every page
+
+  
+
+  Day 15-16: Integration & Polish
+
+    - Third-party integrations (booking, forms, etc.)
+
+    - Cross-browser testing
+
+    - Navigation finalized
+
+    - Footer populated
+
+    - 404 page created
+
+    - Favicon and social sharing images
+
+  Day 17: Builder self-check
+
+    - Automated QC (all pages load, forms submit, links work,
+
+      images have alt text, mobile responsive)
+
+    - Flag any issues for Specs/Silas
+Phase 5: Technical SEO & Quality Audit (Day 17-19)
+SPECS: Technical SEO pass on staging
+
+  - RankMath/Yoast configured for all pages
+
+  - XML sitemap generated (but NOT submitted — staging)
+
+  - Schema markup implemented on all pages
+
+  - Image compression + lazy loading + WebP
+
+  - WP Rocket / caching configured
+
+  - Security hardening (Wordfence, disable XML-RPC, etc.)
+
+  - Accessibility basics (alt text, heading hierarchy, contrast)
+
+  - Core Web Vitals pass (LCP < 2.5s, CLS < 0.1)
+
+SILAS: Full SEO audit of staging site
+
+  Audits against existing spec rubrics:
+
+  - SPEC-001: On-page SEO checklist per page
+
+  - SPEC-003: Technical SEO foundation
+
+  - SPEC-006: Schema markup validation
+
+  - SPEC-007: Content quality scoring
+
+  - [All relevant specs applied]
+
+  
+
+  Output: Scorecard per page
+
+    Page: /emergency-plumbing
+
+    Title tag: ✅ PASS (keyword-optimized, 55 chars)
+
+    Meta description: ✅ PASS (compelling, 148 chars)
+
+    H1: ✅ PASS (primary keyword, natural)
+
+    Content depth: ✅ PASS (1,247 words, comprehensive)
+
+    Internal links: ✅ PASS (3 contextual links)
+
+    Schema: ✅ PASS (Service schema, valid)
+
+    Images: ✅ PASS (alt text, compressed, WebP)
+
+    Mobile: ✅ PASS (responsive, touch targets OK)
+
+    Speed: ✅ PASS (LCP 1.8s)
+
+    Overall: 9.2 / 10
+
+  If any page scores below 8.0:
+
+    → Silas generates fix list → routed to Builder or Specs
+
+    → Fix → re-audit → must pass before client review
+
+ARCHER: Only advances to client review when ALL pages 
+
+  score 8.0+ on Silas's audit
+Phase 6: Your QC Review (Day 19-20)
+ARCHER → YOU (Telegram + Trello):
+
+  "Website build complete for [Client Name].
+
+   Staging URL: [link]
+
+   Silas audit score: 9.1 average
+
+   All pages passed SEO specs.
+
+   Ready for your QC review."
+
+YOU: Visual and functional walkthrough (15-30 min)
+
+  - Does it look professional and polished?
+
+  - Does the design match the client's brand?
+
+  - Any obvious issues a non-technical person would notice?
+
+  - Quick form test (submit one)
+
+  - Quick mobile check (pull up on your phone)
+
+  
+
+  If issues found: Trello card to Builder with notes → fix → done
+
+  If looks good: Approve for client review
+Phase 7: Client Review (Day 20-25)
+ARCHER → GHL: Trigger client review sequence
+
+  - Send preview link + feedback form (see Part 4)
+
+  - Client has 5 business days
+
+  - Nudge sequence if no response
+
+CLIENT RESPONDS:
+
+  ├── Approved → Phase 8 (Launch)
+
+  ├── Minor changes → Agents execute → re-review (48 hours)
+
+  └── Major concerns → You call client → align → agents revise
+Phase 8: Launch (Day 25-28)
+TRIGGER: Client approves staging site
+
+PRE-LAUNCH (Builder + Specs):
+
+  1. Domain DNS preparation
+
+     - If new domain: Configure DNS to point to Cloudways
+
+     - If existing domain: Plan DNS cutover (minimize downtime)
+
+     - If migrating: Finalize redirect map (Scout's URL mapping)
+
+  
+
+  2. Pre-launch checks:
+
+     - Remove staging robots.txt restrictions
+
+     - Remove password protection
+
+     - Switch form notifications from test to production
+
+     - Verify SSL certificate is ready
+
+     - Final backup of staging
+
+LAUNCH (Builder executes):
+
+  Option A (Cloudways native staging):
+
+    - One API call: Deploy staging to production
+
+    - Cloudways handles the file/database transfer
+
+  
+
+  Option B (DNS cutover from old host):
+
+    - Update DNS A record to Cloudways IP
+
+    - Wait for propagation (can take 24-48 hours)
+
+    - Builder monitors until live
+
+  
+
+  Option C (New domain, no migration):
+
+    - Point domain to Cloudways
+
+    - Activate SSL via Let's Encrypt API
+
+    - Site is live
+
+POST-LAUNCH — IMMEDIATE (Builder + Specs):
+
+  - Activate SSL (if not already)
+
+  - Implement all 301 redirects (if migrating)
+
+  - Install Google Analytics (GA4) — production property
+
+  - Connect Google Search Console — production property
+
+  - Submit XML sitemap to Google
+
+  - Request indexing for all key pages
+
+  - Enable caching for production
+
+  - Final speed test on live domain
+
+  - All forms tested on live domain
+
+  - GBP updated with new website URL
+
+POST-LAUNCH — 48 HOURS (Specs + Scout):
+
+  - Monitor Search Console for crawl errors
+
+  - Verify pages are being indexed
+
+  - Check all redirects are resolving
+
+  - Confirm Analytics is tracking
+
+  - Speed test under real traffic
+
+POST-LAUNCH — 2 WEEKS (Scout + Specs):
+
+  - Daily crawl error monitoring
+
+  - Index coverage tracking
+
+  - Redirect health check
+
+  - Performance baseline established
+
+ARCHER → GHL → CLIENT:
+
+  "Your new website is LIVE! 🚀
+
+   [link]
+
+   
+
+   Everything is running smoothly. Your SEO campaign 
+
+   is now fully active — you'll receive your first 
+
+   weekly activity report this Saturday.
+
+   
+
+   Welcome aboard!"
+
+ARCHER:
+
+  - Trigger 50% final payment via Stripe
+
+  - Close website build Trello board
+
+  - Begin 90-day SEO playbook on the client's SEO Trello board
+
+
+PART 6: BUILDER TECHNICAL REQUIREMENTS
+Builder's Toolset
+For Builder to operate autonomously on WordPress, it needs:
+
+1. CLOUDWAYS API ACCESS
+
+   - Create/manage applications
+
+   - Create/deploy staging environments
+
+   - Manage SSL certificates
+
+   - Server monitoring
+
+   
+
+2. SSH ACCESS (per application)
+
+   - Run WP-CLI commands
+
+   - File system operations
+
+   - Database operations (via WP-CLI)
+
+   
+
+3. WORDPRESS REST API (per site)
+
+   - Create/edit/publish pages and posts
+
+   - Upload media
+
+   - Manage menus and navigation
+
+   - Configure settings
+
+   - Manage plugins (install, activate, configure)
+
+   
+
+4. SFTP ACCESS (per application)
+
+   - Upload theme files
+
+   - Upload custom assets (fonts, images, icons)
+
+   - Edit configuration files (wp-config.php, .htaccess)
+
+5. WP-CLI COMMANDS Builder uses most:
+
+   wp core install                    # Initial WordPress setup
+
+   wp theme install [theme] --activate
+
+   wp plugin install [plugin] --activate
+
+   wp option update [option] [value]  # Site settings
+
+   wp menu create [name]              # Navigation menus
+
+   wp menu item add-post [menu] [id]  # Add items to menus
+
+   wp post create --post_type=page    # Create pages
+
+   wp post update [id]                # Edit pages
+
+   wp media import [file]             # Upload images
+
+   wp rewrite flush                   # Permalink refresh
+
+   wp cache flush                     # Clear cache
+
+   wp db export                       # Backup database
+
+   wp search-replace [old] [new]      # URL migration
+Builder's Standard WordPress Configuration
+Every site gets this identical base setup:
+
+WORDPRESS SETTINGS:
+
+  Permalink structure: /%postname%/
+
+  Timezone: Client's timezone
+
+  Date format: F j, Y
+
+  Site title: [Client business name]
+
+  Tagline: [Primary keyword + location — from Silas brief]
+
+  Discourage search engines: ON (staging only, OFF at launch)
+
+  
+
+DISCUSSION:
+
+  Disable comments on pages
+
+  Enable comments on posts (moderate first comment)
+
+READING:
+
+  Homepage: Static page (Homepage)
+
+  Posts page: Blog (if included)
+
+MEDIA:
+
+  Organize uploads by month/year: Yes
+Builder's Standard Plugin Stack
+REQUIRED (every build):
+
+  ├── RankMath SEO (or Yoast)         — SEO management
+
+  ├── WP Rocket                        — Performance/caching
+
+  ├── ShortPixel                       — Image compression
+
+  ├── Wordfence                        — Security
+
+  ├── UpdraftPlus                      — Backups
+
+  ├── WPForms Lite                     — Contact/appointment forms
+
+  ├── Google Site Kit                  — Analytics + GSC in WP
+
+  ├── Redirection                      — 301 redirect management
+
+  └── Schema Pro (or via RankMath)     — Structured data
+
+CONDITIONAL (based on client needs):
+
+  ├── Jetsteak / Jestar for Starter — if using starter theme
+
+  ├── Calendly / Amelia / Jetsteak Bookings — appointment booking
+
+  ├── Jetsteak Reviews Widget — Google review display
+
+  ├── WP Mail SMTP              — reliable form notifications
+
+  └── Cookie Notice             — GDPR/privacy compliance
+
+BANNED (never install):
+
+  ├── Jetpack       — bloated, conflicts with everything
+
+  ├── All-in-One SEO — conflicts with RankMath
+
+  ├── W3 Total Cache — conflicts with WP Rocket
+
+  ├── Any "mega" theme with built-in page builder
+
+  └── Any plugin not updated in 12+ months
+
+
+PART 7: SEO COMPLIANCE FRAMEWORK
+Every page Builder creates must comply with your existing SEO specifications. Silas audits every page against these criteria before the site advances to client review.
+Per-Page SEO Checklist
+REQUIRED TO PASS (score 8.0+ to advance):
+
+ON-PAGE:
+
+  ☐ Title tag: primary keyword + location + brand (50-60 chars)
+
+  ☐ Meta description: compelling, includes keyword (150-160 chars)
+
+  ☐ H1: primary keyword, natural language, one per page
+
+  ☐ H2-H3 structure: logical hierarchy, keywords where natural
+
+  ☐ Content: minimum 800 words (service pages), 
+
+     comprehensive, locally relevant
+
+  ☐ Internal links: minimum 3 contextual links to related pages
+
+  ☐ External links: 1-2 authoritative references where appropriate
+
+  ☐ Images: relevant, alt text with keywords, compressed, WebP
+
+  ☐ CTA: clear call-to-action above and below the fold
+
+  ☐ NAP: business name, address, phone on every page (footer minimum)
+
+TECHNICAL:
+
+  ☐ Schema markup: appropriate type (LocalBusiness, Service, 
+
+     Person, FAQ, etc.), valid JSON-LD
+
+  ☐ URL structure: clean, keyword-included, lowercase, 
+
+     hyphens (no underscores)
+
+  ☐ Canonical tag: self-referencing
+
+  ☐ Mobile responsive: all elements render correctly
+
+  ☐ Page speed: LCP < 2.5s, CLS < 0.1, FID < 100ms
+
+  ☐ No duplicate content (each page targets unique keyword)
+
+  ☐ No orphan pages (every page linked from at least one other)
+
+  ☐ No broken links
+
+  ☐ Image file names: descriptive, keyword-included
+
+CONVERSION:
+
+  ☐ Phone number: clickable (tel: link)
+
+  ☐ Address: links to Google Maps
+
+  ☐ Form: present on or accessible from every page
+
+  ☐ Trust signals: reviews, certifications, years in business
+Site-Wide SEO Checklist
+REQUIRED BEFORE LAUNCH:
+
+  ☐ XML sitemap: generated, includes all public pages
+
+  ☐ Robots.txt: allows crawling, references sitemap
+
+  ☐ SSL: active on all pages (no mixed content)
+
+  ☐ Analytics: GA4 installed and tracking
+
+  ☐ Search Console: verified, sitemap submitted
+
+  ☐ LocalBusiness schema: on homepage at minimum
+
+  ☐ 404 page: custom, helpful, links to main pages
+
+  ☐ Favicon: installed
+
+  ☐ Open Graph tags: configured for social sharing
+
+  ☐ Site speed: homepage loads in under 3 seconds
+
+  ☐ No index issues (no noindex on public pages)
+
+  ☐ Permalink structure: clean and consistent
+
+  ☐ Navigation: logical, keyword-aware, mobile-friendly
+
+  ☐ Footer: NAP, copyright, privacy policy link, sitemap link
+
+  ☐ Internal linking architecture: silo structure verified
+
+
+PART 8: COST ANALYSIS
+Per-Build Agent Costs
+Agent | Model | Est. Tokens Per Build | Cost
+Scout | Local/Sonnet | Research phase | $1-3
+Mozi | Sonnet | Strategy input | $0.50-1
+Canvas | Sonnet | Design system generation | $2-4
+Scribe | Sonnet | Content for 10-15 pages | $3-6
+Builder | Sonnet | WordPress assembly | $5-10
+Specs | Sonnet | Technical SEO setup | $2-4
+Silas | Opus | Audit and quality scoring | $3-5
+Total |  |  | $17-33
+
+Per-Build Infrastructure Costs
+Item | Cost | Notes
+Cloudways hosting (build month) | $3-5 | Shared server
+Stock images (if needed) | $0-30 | Unsplash is free, premium $10-15/image
+Domain (if managing) | $0-15 | Client usually owns
+Total | $3-50 | 
+
+Margin Analysis
+Build Tier | Price | Agent Cost | Infra Cost | Your Hours | Your Effective Rate
+Starter ($3,000) | $3,000 | ~$20 | ~$10 | 4-6 hrs | $495-743/hr
+Professional ($5,000) | $5,000 | ~$25 | ~$20 | 6-10 hrs | $494-828/hr
+Premium ($7,500) | $7,500 | ~$33 | ~$40 | 10-15 hrs | $495-743/hr
+
+
+Gross margin: 98-99%. The agent and infrastructure costs are negligible. Your time is the only real cost.
+
+
+PART 9: PROJECT TIMELINE SUMMARY
+Standard Build (Professional Tier, 8-15 Pages)
+DAY 1-2:   Project kickoff. Intake form sent.
+
+           Scout begins research.
+
+DAY 3-7:   Client completes intake. Scout delivers keyword map.
+
+           Silas creates site architecture + content briefs.
+
+DAY 5-9:   Canvas creates design system (parallel with architecture).
+
+DAY 7-12:  Scribe generates all page content (parallel with Canvas).
+
+DAY 8:     You review architecture (15 min). Client approves.
+
+DAY 9:     You review design system (10 min).
+
+DAY 12:    You review Scribe content (1-2 hours).
+
+DAY 10-17: Builder assembles site on staging.
+
+DAY 17-19: Specs technical SEO. Silas audit. Fixes.
+
+DAY 19-20: Your visual QC (15-30 min).
+
+DAY 20-25: Client review period.
+
+DAY 22-24: Revisions (if needed, agents execute).
+
+DAY 25-28: Launch.
+
+DAY 28-42: Post-launch monitoring (automated).
+
+TOTAL CALENDAR TIME: ~4 weeks
+
+YOUR TOTAL HANDS-ON TIME: ~6-10 hours
+Expedited Build (Starter Tier, Rush)
+If a client needs a site fast (new business opening, existing site is down):
+
+DAY 1:    Intake + Scout research + Silas architecture (parallel)
+
+DAY 2:    Canvas design + Scribe content (parallel)
+
+DAY 2:    You review content (30 min for 5-7 pages)
+
+DAY 3-5:  Builder assembles on staging
+
+DAY 5:    Specs + Silas audit + your QC
+
+DAY 5:    Client preview link sent
+
+DAY 6-7:  Client review + any quick fixes
+
+DAY 7-8:  Launch
+
+TOTAL: ~1 week
+
+PREMIUM: Add $500-1,000 rush fee
+
+
+PART 10: SETUP CHECKLIST
+One-Time Setup (Do Once)
+Hosting:
+
+Create Cloudways account
+Provision first server (DigitalOcean 2GB, $28/month)
+Generate API credentials
+Store API key in Archer's config
+Test: Create a test app via API, verify SSH access
+
+Builder Configuration:
+
+Store Cloudways SSH credentials in Builder's config
+Store WordPress REST API auth method (application passwords)
+Create Builder's standard WordPress setup script (WP-CLI)
+Create Builder's standard plugin install list
+Test: Have Builder install WordPress and set up a test site
+
+Canvas Configuration:
+
+Define 2-3 "design system presets" for different vibes (clean/modern, warm/friendly, bold/professional)
+Canvas learns your preferred font combinations
+Canvas learns your component patterns
+Test: Have Canvas generate a design system from sample brand assets
+
+Templates:
+
+Choose and purchase your standardized WordPress theme
+Create page templates Builder will reuse
+Create form templates (contact, appointment, quote)
+Create standard header/footer patterns
+Test: Builder builds a full test site using templates
+
+Review System:
+
+Create GHL feedback form (per Part 4)
+Create GHL automation: feedback form → webhook to Archer
+Create review reminder sequence (Day 1, 3, 5 nudges)
+Test: Submit test feedback, verify pipeline triggers
+
+Agreement:
+
+Create website build addendum template in PandaDoc
+Test: Send yourself a test addendum
+Per-Client Setup (5 Minutes)
+Once the one-time setup is done, starting a new build is:
+
+Archer creates Cloudways staging app (automated)
+GHL sends intake form to client (automated)
+You verify 50% deposit received
+Archer kicks off the pipeline
+
+Everything else is automated.

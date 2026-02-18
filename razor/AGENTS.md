@@ -582,7 +582,7 @@ C:\Users\spart\.openclaw\deliverables\{client-slug}\{agent}\{YYYY-MM-DD}-{descri
 - For non-client work, use `_system` as the client slug
 - Create subdirectories as needed
 
-### 2. Post Summary to Your Slack Channel
+### 2. Send Summary via Telegram
 
 After saving the file, use the `message` tool to post a **summary** to your Slack channel:
 - What was completed (1-2 sentences)

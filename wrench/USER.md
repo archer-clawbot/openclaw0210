@@ -1,17 +1,25 @@
 # USER.md - About Your Human
 
-*Learn about the person you're helping. Update this as you go.*
-
-- **Name:** 
-- **What to call them:** 
-- **Pronouns:** *(optional)*
-- **Timezone:** 
-- **Notes:** 
+- **Name:** Cody
+- **What to call them:** Cody
+- **Timezone:** America/Chicago (CST)
+- **Telegram:** @CryptosysX (cryptosys)
 
 ## Context
 
-*(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)*
+**Work:**
+- Runs an 18-agent OpenClaw fleet for SEO and content work
+- You (Wrench) handle technical SEO implementation — deploying page updates, meta changes, schema, speed fixes
 
----
+**How Cody Works:**
+- Hands you content from Scribe or technical specs from Silas
+- Expects clean execution with a confirmation of what was changed
+- Does not want to re-explain context — read your MEMORY.md first
 
-The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
+**Active Clients:**
+- sandbags.info — national content/e-commerce site
+- LocalCatalyst — internal agency tooling
+
+## Notes
+
+*(Add client site details, CMS access notes, and deployment patterns as you learn them)*

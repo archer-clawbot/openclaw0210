@@ -94,9 +94,87 @@ function transformProductPayload(wc: any) {
 	};
 }
 
+// ── Auto-Create Deliverables from Order Line Items ──────────────────
+
+function parseAgentId(fulfillmentAgent: string): string {
+	// "Silas + Scribe" → "silas", "Silas" → "silas", "All" → "silas"
+	const first = fulfillmentAgent.split(/[+,&]/)[0].trim().toLowerCase();
+	return first === "all" ? "silas" : first;
+}
+
+function extractDomain(body: any): string | undefined {
+	if (!body.meta_data) return undefined;
+	for (const meta of body.meta_data) {
+		if (meta.key === "domain" || meta.key === "website" || meta.key === "_billing_website") {
+			return meta.value || undefined;
+		}
+	}
+	return undefined;
+}
+
+async function autoCreateDeliverables(
+	ctx: any,
+	body: any,
+	customerConvexId: any,
+	orderConvexId: any,
+) {
+	const customerName = [body.billing?.first_name, body.billing?.last_name]
+		.filter(Boolean)
+		.join(" ") || "Unknown";
+	const customerEmail = body.billing?.email || undefined;
+	const domain = extractDomain(body);
+
+	for (const item of body.line_items || []) {
+		if (!item.sku) continue;
+
+		try {
+			const deliverableResult = await ctx.runMutation(
+				api.pipelineDeliverables.createPipelineDeliverable,
+				{
+					sku: item.sku,
+					customerName,
+					customerEmail,
+					domain,
+					source: "purchase" as const,
+					requestChannel: "woocommerce" as const,
+					wcOrderId: body.id,
+					wcOrderNumber: String(body.number || body.id),
+					price: parseFloat(item.total) || undefined,
+					customerId: customerConvexId || undefined,
+					orderId: orderConvexId || undefined,
+				},
+			);
+
+			// Create dispatcher task for the assigned agent
+			const agentId = parseAgentId(deliverableResult.assignedAgent);
+			await ctx.runMutation(api.dispatcher.createTask, {
+				tenantId: "localcatalyst",
+				title: `[${item.sku}] ${item.name} — Order #${body.number || body.id}`,
+				description: [
+					`Auto-created from WooCommerce order #${body.number || body.id}.`,
+					`Customer: ${customerName} (${customerEmail || "no email"})`,
+					domain ? `Domain: ${domain}` : null,
+					`SKU: ${item.sku}`,
+					`Deliverable: ${deliverableResult.displayId}`,
+				].filter(Boolean).join("\n"),
+				agentId,
+				clientSlug: "localcatalyst",
+				deliverableId: deliverableResult.id,
+				tags: ["auto-order", item.sku],
+				priority: "high" as const,
+			});
+
+			console.log(`Created deliverable ${deliverableResult.displayId} + task for SKU ${item.sku}`);
+		} catch (err: any) {
+			console.error(`Failed to create deliverable for SKU ${item.sku}:`, err.message);
+		}
+	}
+}
+
 // ── Main Webhook Handler ────────────────────────────────────────────
 
 export const handleWebhook = httpAction(async (ctx, request) => {
+	try {
 	const bodyText = await request.text();
 	const signature = request.headers.get("X-WC-Webhook-Signature");
 	const topic = request.headers.get("X-WC-Webhook-Topic");
@@ -152,13 +230,26 @@ export const handleWebhook = httpAction(async (ctx, request) => {
 			topic === "order.created" ||
 			topic === "order.updated"
 		) {
-			// Upsert the customer first if we have billing info
-			// (guest orders won't have a customer_id but will have billing email)
+			// Upsert customer to ensure we have a Convex record + ID
+			let customerConvexId: any = undefined;
+
 			if (body.customer_id && body.customer_id > 0) {
-				// Customer already exists via customer webhook or previous sync
+				// Registered customer — upsert from billing to ensure record exists
+				if (body.billing?.email) {
+					const result = await ctx.runMutation(api.wooMutations.upsertCustomer, {
+						wcCustomerId: body.customer_id,
+						email: body.billing.email,
+						firstName: body.billing.first_name || "",
+						lastName: body.billing.last_name || "",
+						company: body.billing.company || undefined,
+						phone: body.billing.phone || undefined,
+						wcDateCreated: body.date_created || new Date().toISOString(),
+					});
+					customerConvexId = result.id;
+				}
 			} else if (body.billing?.email) {
 				// Guest order — create a minimal customer record from billing info
-				await ctx.runMutation(api.wooMutations.upsertCustomer, {
+				const result = await ctx.runMutation(api.wooMutations.upsertCustomer, {
 					wcCustomerId: 0, // Guest
 					email: body.billing.email,
 					firstName: body.billing.first_name || "",
@@ -167,12 +258,20 @@ export const handleWebhook = httpAction(async (ctx, request) => {
 					phone: body.billing.phone || undefined,
 					wcDateCreated: body.date_created || new Date().toISOString(),
 				});
+				customerConvexId = result.id;
 			}
 
-			await ctx.runMutation(
+			const orderResult = await ctx.runMutation(
 				api.wooMutations.upsertOrder,
 				transformOrderPayload(body),
 			);
+
+			// Auto-trigger deliverables for new paid orders
+			if (topic === "order.created" && orderResult.isNew) {
+				if (body.status === "processing" || body.status === "completed") {
+					await autoCreateDeliverables(ctx, body, customerConvexId, orderResult.id);
+				}
+			}
 		} else if (
 			topic === "product.created" ||
 			topic === "product.updated"
@@ -200,6 +299,12 @@ export const handleWebhook = httpAction(async (ctx, request) => {
 				status: 500,
 				headers: { "Content-Type": "application/json" },
 			},
+		);
+	}
+	} catch (outerError: any) {
+		return new Response(
+			JSON.stringify({ error: "Uncaught: " + outerError.message }),
+			{ status: 500, headers: { "Content-Type": "application/json" } },
 		);
 	}
 });

@@ -1,16 +1,24 @@
 # USER.md - About Your Human
 
-- **Name:** cryptosys
-- **What to call them:** *(TBD — ask)*
-- **Pronouns:** *(TBD)*
+- **Name:** Cody
+- **What to call them:** Cody
 - **Timezone:** America/Chicago (CST)
-- **Telegram:** @CryptosysX
+- **Telegram:** @CryptosysX (cryptosys)
 
 ## Context
 
-Runs a reputation management operation with a multi-agent system:
-- Herald (me) handles GBP operations
-- Silas handles strategy & approvals
-- Scribe handles response writing
+**Work:**
+- Runs an 18-agent OpenClaw fleet for SEO and content work
+- You (Herald) handle GBP operations — classify reviews, alert on negatives, publish approved responses
 
-Expects agents to stay in their lane and follow defined workflows — not improvise general playbooks.
+**How Cody Works:**
+- Expects you to stay strictly in your lane: detect, alert, wait, publish
+- Does not want you improvising response copy — that's Scribe's job
+- Alert him immediately on any negative review (1-2 stars)
+
+**Active Clients:**
+- Agency clients with GBP profiles via Archer dispatch
+
+## Notes
+
+*(Add client GBP profile IDs and review response history as you accumulate it)*

@@ -80,6 +80,12 @@ const Header: React.FC<HeaderProps> = ({ onOpenAgents, onOpenLiveFeed }) => {
 					>
 						Deliverables
 					</Link>
+					<Link
+						to="/admin/brainstorms"
+						className="text-[11px] font-semibold tracking-wider uppercase text-muted-foreground hover:text-foreground bg-muted hover:bg-accent px-3 py-1.5 rounded-lg transition-colors"
+					>
+						Brainstorms
+					</Link>
 				</div>
 			</div>
 

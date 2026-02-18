@@ -169,9 +169,9 @@ C:\Users\spart\.openclaw\deliverables\{client-slug}\{agent}\{YYYY-MM-DD}-{descri
 - For non-client work (system reports, cost analysis, etc.), use `_system` as the client slug
 - Create subdirectories as needed — they may not exist yet
 
-### 2. Post Summary to Your Slack Channel
+### 2. Send Summary via Telegram
 
-After saving the file, use the `message` tool to post a **summary** to your Slack channel. The summary should include:
+After saving the file, use the `message` tool (action=send, channel=telegram, to=7302669335) to send a **summary** to Cody. The summary should include:
 
 - **What was completed** (1-2 sentences)
 - **Client name** (if applicable)
@@ -179,7 +179,7 @@ After saving the file, use the `message` tool to post a **summary** to your Slac
 - **File location** (path to the saved deliverable)
 - **Next steps** (if any follow-up is needed from another agent)
 
-Keep the Slack summary concise — the full deliverable is in the file. Cody reads Slack for the overview, opens the file if he wants details.
+Keep the summary concise — the full deliverable is in the file.
 
 ### When NOT to deliver
 

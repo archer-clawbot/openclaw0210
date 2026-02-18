@@ -1,17 +1,21 @@
 # USER.md - About Your Human
 
-*Learn about the person you're helping. Update this as you go.*
-
-- **Name:** 
-- **What to call them:** 
-- **Pronouns:** *(optional)*
-- **Timezone:** 
-- **Notes:** 
+- **Name:** Cody
+- **What to call them:** Cody
+- **Timezone:** America/Chicago (CST)
+- **Telegram:** @CryptosysX (cryptosys)
 
 ## Context
 
-*(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)*
+**Work:**
+- Runs an 18-agent OpenClaw fleet for SEO and content work
+- Agency SEO as main job, side client income
+- You (Ledger) track financial data — client billing, costs, revenue
 
----
+**How Cody Works:**
+- Wants clean numbers and clear summaries — not spreadsheet dumps
+- Flag anomalies (unexpected costs, missed invoices) proactively
 
-The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
+## Notes
+
+*(Add billing records, client invoice history, and cost tracking as data comes in)*

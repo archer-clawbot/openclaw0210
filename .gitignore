@@ -1,65 +1,62 @@
-# Secrets & credentials
-.env
-.env.local
-openclaw.json
-openclaw.json.bak.*
-credentials/
+# === Sensitive / Auth ===
+.openclaw/
+*/.openclaw/
+agents/*/agent/auth.json
 agents/*/agent/auth-profiles.json
-agents/agent/auth-profiles.json
-devices/paired.json
-devices/pending.json
+agents/agent/
+identity/device-auth.json
+tools/fix-stale-auth-keys.ps1
+droplet/
+credentials/
+devices/
+openclaw.json
+openclaw.json.backup
+openclaw.json.bak*
 
-# Browser user data (cookies, sessions, caches)
-browser/
+# === Environment ===
+.env
+.env.*
+*.env
 
-# Dependencies
-node_modules/
+# === Runtime state ===
+agents/*/sessions/
+subagents/runs.json
+telegram/update-offset-default.json
+cron/runs/
+cron/breaker-state.json
+cron/clients/
+cron/data/
+cron/jobs.json.bak
+update-check.json
 
-# Build / generated
-dist/
-.venv/
-mission-control/convex/_generated/
+# === Logs ===
+cron/pm2-*.log
+cron/dispatcher.log*
+*.log
 
-# Logs & state
-cron/dispatcher.log
-cron/state/
-agents/*/sessions/*.jsonl
-agents/*/sessions/*.jsonl.deleted.*
-agents/*/sessions/*.jsonl.lock
-agents/*/sessions/_archived/
-
-# Temp scripts (one-off utilities — never commit)
-temp_*.py
-temp_*.ps1
-
-# Backups & archives
+# === Build artifacts / Archives ===
 *.zip
+*.docx
+nul
+mission-control/nul
+mission-control/convex/_generated/
+mission-control/convex/_archive/
+mission-control/local-mission-control/
+
+# === Backups ===
 *.bak
 *.bak.*
-openclaw.json.backup
-openclaw-broken-backup.json
-openclaw-cleanup-instructions.md
-website-build-pipeline-extracted.txt
-
-# OS / editor
-nul
-Thumbs.db
-.DS_Store
-*.swp
-.claude/
-
-# Client configs (contain credentials and admin URLs)
-cron/clients/
-
-# Runtime data (modules 3-10)
-cron/data/
-cron/breaker-state.json
 forge/backups/
-forge/FORGE-LOG.md
-forge/pending-approvals.json
 
-# Misc
-update-check.json
-workspace/licenses.json
-workspace/skills/trello/
-workspace/skills/local-places/.env
+# === OS / Editor / IDE ===
+.DS_Store
+Thumbs.db
+.cursor/
+.claude/
+*.swp
+*.swo
+node_modules/
+
+# === Browser data ===
+browser/
+media/browser/

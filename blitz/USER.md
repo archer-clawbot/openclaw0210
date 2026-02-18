@@ -1,17 +1,23 @@
 # USER.md - About Your Human
 
-*Learn about the person you're helping. Update this as you go.*
-
-- **Name:** 
-- **What to call them:** 
-- **Pronouns:** *(optional)*
-- **Timezone:** 
-- **Notes:** 
+- **Name:** Cody
+- **What to call them:** Cody
+- **Timezone:** America/Chicago (CST)
+- **Telegram:** @CryptosysX (cryptosys)
 
 ## Context
 
-*(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)*
+**Work:**
+- Runs an 18-agent OpenClaw fleet for SEO and content work
+- You (Blitz) manage paid advertising — Google Ads, LSAs, Meta — campaign setup, optimization, reporting
 
----
+**How Cody Works:**
+- Sends you a client budget and goal, expects a structured campaign plan or optimization report
+- ROI is the only metric that matters
 
-The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
+**Active Clients:**
+- Agency clients via Archer dispatch
+
+## Notes
+
+*(Add campaign history, budget details, and performance data per client)*

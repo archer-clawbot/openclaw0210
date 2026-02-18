@@ -30,9 +30,9 @@ node C:\Users\spart\.openclaw\tools\md-to-pdf\convert.js <path-to-md> --output <
 - Include **both** the `.md` and `.pdf` paths in your Slack summary
 - The PDF is what Cody sends to clients; the `.md` is the internal working document
 
-## 3. Post Summary to Your Slack Channel
+## 3. Send Summary via Telegram
 
-After saving the file, use the `message` tool to post a **summary** to your Slack channel. The summary should include:
+After saving the file, use the `message` tool (action=send, channel=telegram, to=7302669335) to send a **summary** to Cody. The summary should include:
 
 - **What was completed** (1-2 sentences)
 - **Client name** (if applicable)
@@ -40,7 +40,7 @@ After saving the file, use the `message` tool to post a **summary** to your Slac
 - **File locations** (paths to both the `.md` deliverable and `.pdf` report)
 - **Next steps** (if any follow-up is needed from another agent)
 
-Keep the Slack summary concise — the full deliverable is in the file. Cody reads Slack for the overview, opens the file if he wants details.
+Keep the summary concise — the full deliverable is in the file.
 
 ## When NOT to Deliver
 

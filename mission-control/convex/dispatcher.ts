@@ -1,6 +1,6 @@
 import { v } from "convex/values";
 import { mutation, query } from "./_generated/server";
-import { api } from "./_generated/api";
+import { api, internal } from "./_generated/api";
 
 // ── Queries ─────────────────────────────────────────────────────────
 
@@ -94,16 +94,19 @@ export const complete = mutation({
 				if (isComplete && deliverable.customerId) {
 					const customer = await ctx.db.get(deliverable.customerId);
 					if (customer) {
-						await ctx.scheduler.runAfter(
-							0,
-							api.email.sendDeliverableReadyEmail,
-							{
-								toEmail: customer.email,
-								firstName: customer.firstName,
-								deliverableTitle: deliverable.title,
-								deliverableId: task.deliverableId,
-							},
-						);
+						// Skip generic email for purchase deliverables — pipeline email is better
+						if (deliverable.source !== "purchase") {
+							await ctx.scheduler.runAfter(
+								0,
+								api.email.sendDeliverableReadyEmail,
+								{
+									toEmail: customer.email,
+									firstName: customer.firstName,
+									deliverableTitle: deliverable.title,
+									deliverableId: task.deliverableId,
+								},
+							);
+						}
 
 						// 5B: Check if all deliverables in this cycle are now complete
 						if (deliverable.cycleNumber != null) {
@@ -117,6 +120,24 @@ export const complete = mutation({
 							);
 						}
 					}
+				}
+
+				// Send pipeline delivery email for purchase deliverables
+				if (isComplete && deliverable.source === "purchase" && deliverable.customerEmail) {
+					await ctx.scheduler.runAfter(
+						0,
+						internal.pipelineEmail.sendDeliveryEmail,
+						{ deliverableId: task.deliverableId },
+					);
+				}
+
+				// Schedule WP order fulfillment for purchase deliverables
+				if (isComplete && deliverable.source === "purchase" && deliverable.wcOrderId) {
+					await ctx.scheduler.runAfter(
+						0,
+						internal.bridgeFulfillment.fulfillWooOrder,
+						{ deliverableId: task.deliverableId },
+					);
 				}
 			}
 		}

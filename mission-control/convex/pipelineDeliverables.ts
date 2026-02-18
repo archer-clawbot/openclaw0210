@@ -54,6 +54,8 @@ export const createPipelineDeliverable = mutation({
 		price: v.optional(v.number()),
 		pipelinePhase: v.optional(v.string()),
 		meta: v.optional(v.any()),
+		customerId: v.optional(v.id("wooCustomers")),
+		orderId: v.optional(v.id("wooOrders")),
 	},
 	handler: async (ctx, args) => {
 		// Look up SKU in product catalog
@@ -110,6 +112,8 @@ export const createPipelineDeliverable = mutation({
 				(args.source === "purchase" ? product.defaultPrice : undefined),
 			pipelinePhase: args.pipelinePhase,
 			meta: args.meta,
+			customerId: args.customerId,
+			orderId: args.orderId,
 
 			// Defaults
 			retryCount: 0,
@@ -134,7 +138,7 @@ export const createPipelineDeliverable = mutation({
 			tenantId: DEFAULT_TENANT_ID,
 		});
 
-		return { id, displayId };
+		return { id, displayId, assignedAgent: product.fulfillmentAgent };
 	},
 });
 

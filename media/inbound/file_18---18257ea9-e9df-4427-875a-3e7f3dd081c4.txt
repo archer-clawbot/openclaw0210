@@ -1,0 +1,72 @@
+Okay, if you guys want to make money with openclaw,
+have it spawn sub agents with their own computer
+so your openclaw can have its own mac mini or whatever you use,
+you use or go
+or whatever. So you have a main openclaw, right?
+I have this one starred right here.
+That's my main one.
+And then have it spawn sub agents with their own computers
+so that they can go to upwork
+and find jobs that are AI automation jobs.
+Things like robotic process automations, uh,
+any AI automation in general.
+Power, automate.
+There's all these different things that are outdated
+that you can now automate with AI.
+And have openclaw go find these jobs
+and then build the thing
+that these people are asking to pay thousands of dollars for.
+And it'll build it, it'll put it literally,
+you can see it's inside, like,
+in this computer here. It's in the freaking code here.
+Let me just click this real quick.
+You can see all the files here.
+It's making. It's literally.
+It's literally a. It's finding the jobs and then building.
+Building them out before you even apply to them.
+And i'm talking like, these are like
+multi thousand dollar projects that are being posted on upwork for AI.
+And you could just have your open claw go out,
+find them and build them. I mean,
+if you're gonna apply for any of these,
+if you have it already built out,
+I think your odds are A lot better.
+So, uh,
+this is just incredible. I can link you guys the,
+the skill that you need to make your openclaw
+have access to the sub agents
+so that the sub agents have their own computer like mine do.
+And they're all running under this openclaws.
+It's like one openclaws, it's. It.
+You don't have to install it into these other computers
+and it spawns the subagents into their own computers.
+Uh, this is at a scale of just eight total. Uh,
+but you can see it's really,
+really cool to watch how they're looking into the upwork.
+They're looking at all the different jobs,
+they're building them out.
+It's really cool to see live, um,
+and it's just incredible. So check it out.
+This is on orgo. You can create a project here.
+You just add a new workspace.
+Let me just walk you through it.
+You hit, you know,
+type that in, create a workspace. Boom.
+Once you do that, you can just create a computer.
+You click here, boom,
+launch computer. And a lot of people,
+they make money by setting up openclaw for other, like,
+busy executives. If you wanna do that,
+you could do that here too.
+You could just, you know,
+take this, uh,
+installation code from openclaw's website
+and then just run it in the terminal
+and then just click enter.
+And then boom, you install openclaw into a busy executives computer.
+And if you're ever confused on how to Onboard.
+If you actually don't know how to, like,
+set up your key information or anything like that,
+you can just ask the agent here to do it for you.
+It literally just ask the AI to set up opencl for you.
+Once it's installed and it's set up and you're good to go.

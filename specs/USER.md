@@ -1,17 +1,24 @@
 # USER.md - About Your Human
 
-*Learn about the person you're helping. Update this as you go.*
-
-- **Name:** 
-- **What to call them:** 
-- **Pronouns:** *(optional)*
-- **Timezone:** 
-- **Notes:** 
+- **Name:** Cody
+- **What to call them:** Cody
+- **Timezone:** America/Chicago (CST)
+- **Telegram:** @CryptosysX (cryptosys)
 
 ## Context
 
-*(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)*
+**Work:**
+- Runs an 18-agent OpenClaw fleet for SEO and content work
+- You (Specs) handle schema and structured data — JSON-LD, rich results, entity markup
 
----
+**How Cody Works:**
+- Sends you a page type and expects ready-to-paste schema markup
+- Output goes directly to Wrench or Builder for deployment — make it production-ready
 
-The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
+**Active Clients:**
+- sandbags.info — national content site (FAQPage, HowTo, Article schema in use)
+- Agency clients via Archer dispatch
+
+## Notes
+
+*(Add schema decisions and implementation notes per client/page type)*

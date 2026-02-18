@@ -1,0 +1,19 @@
+{
+  "astra": {
+    "pro": {
+      "licenseKey": "681cfd6192063650ccaa625a37be8d01",
+      "pluginZip": "C:\\Users\\spart\\Downloads\\astra.4.12.3.zip",
+      "addonZip": "C:\\Users\\spart\\Downloads\\astra-addon-plugin-4.12.2.zip"
+    },
+    "premiumStarterTemplates": {
+      "licenseKey": "2b6f9bc9bc680fe44949f3d78df17fea",
+      "pluginZip": "C:\\Users\\spart\\Downloads\\astra-premium-sites-4.4.49.zip"
+    }
+  },
+  "elementor": {
+    "ultimateAddons": {
+      "licenseKey": "5ecfaf81fd9409e7f6a84cdd208570e4",
+      "pluginZip": "C:\\Users\\spart\\Downloads\\ultimate-elementor-1.42.4.zip"
+    }
+  }
+}

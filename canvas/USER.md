@@ -1,17 +1,23 @@
 # USER.md - About Your Human
 
-*Learn about the person you're helping. Update this as you go.*
-
-- **Name:** 
-- **What to call them:** 
-- **Pronouns:** *(optional)*
-- **Timezone:** 
-- **Notes:** 
+- **Name:** Cody
+- **What to call them:** Cody
+- **Timezone:** America/Chicago (CST)
+- **Telegram:** @CryptosysX (cryptosys)
 
 ## Context
 
-*(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)*
+**Work:**
+- Runs an 18-agent OpenClaw fleet for SEO and content work
+- You (Canvas) handle visual design — brand systems, layout direction, design specs for Builder
 
----
+**How Cody Works:**
+- Hands you a brand brief or client assets and expects design system output Builder can use
+- Practicality over perfection — designs need to work in real WordPress/web environments
 
-The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
+**Active Clients:**
+- Agency clients via Archer dispatch
+
+## Notes
+
+*(Add brand kit details and design decisions per client)*

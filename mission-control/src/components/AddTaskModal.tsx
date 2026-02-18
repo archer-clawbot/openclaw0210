@@ -6,6 +6,7 @@ import { DEFAULT_TENANT_ID } from "../lib/tenant";
 
 const STATUS_OPTIONS = [
 	{ value: "inbox", label: "Inbox" },
+	{ value: "brainstorm_queue", label: "Brainstorm Queue" },
 	{ value: "assigned", label: "Assigned" },
 	{ value: "in_progress", label: "In Progress" },
 	{ value: "review", label: "Review" },
@@ -31,6 +32,8 @@ type AddTaskModalProps = {
 
 const AddTaskModal: React.FC<AddTaskModalProps> = ({ onClose, onCreated, initialAssigneeId }) => {
 	const agents = useQuery(api.queries.listAgents, { tenantId: DEFAULT_TENANT_ID });
+	const clients = useQuery(api.clients.list, { tenantId: DEFAULT_TENANT_ID, activeOnly: true });
+	const projects = useQuery(api.projects.list, { tenantId: DEFAULT_TENANT_ID, status: "active" });
 	const createTask = useMutation(api.tasks.createTask);
 	const updateAssignees = useMutation(api.tasks.updateAssignees);
 
@@ -41,6 +44,8 @@ const AddTaskModal: React.FC<AddTaskModalProps> = ({ onClose, onCreated, initial
 	const [tags, setTags] = useState<string[]>([]);
 	const [assigneeId, setAssigneeId] = useState(initialAssigneeId ?? "");
 	const [borderColor, setBorderColor] = useState("");
+	const [clientSlug, setClientSlug] = useState("");
+	const [projectId, setProjectId] = useState("");
 	const [submitting, setSubmitting] = useState(false);
 
 	const handleAddTag = useCallback(
@@ -68,24 +73,26 @@ const AddTaskModal: React.FC<AddTaskModalProps> = ({ onClose, onCreated, initial
 			setSubmitting(true);
 
 			try {
-					const taskId = await createTask({
-						title: title.trim(),
-						description: description.trim() || title.trim(),
-						status,
-						tags,
-						borderColor: borderColor || undefined,
-						tenantId: DEFAULT_TENANT_ID,
-					});
+				const taskId = await createTask({
+					title: title.trim(),
+					description: description.trim() || title.trim(),
+					status,
+					tags,
+					borderColor: borderColor || undefined,
+					tenantId: DEFAULT_TENANT_ID,
+					clientSlug: clientSlug || undefined,
+					projectId: projectId ? (projectId as Id<"projects">) : undefined,
+				});
 
 				if (assigneeId && agents) {
 					const agent = agents.find((a) => a._id === assigneeId);
 					if (agent) {
-							await updateAssignees({
-								taskId,
-								assigneeIds: [assigneeId as Id<"agents">],
-								agentId: agent._id,
-								tenantId: DEFAULT_TENANT_ID,
-							});
+						await updateAssignees({
+							taskId,
+							assigneeIds: [assigneeId as Id<"agents">],
+							agentId: agent._id,
+							tenantId: DEFAULT_TENANT_ID,
+						});
 					}
 				}
 
@@ -95,18 +102,17 @@ const AddTaskModal: React.FC<AddTaskModalProps> = ({ onClose, onCreated, initial
 			}
 		},
 		[
-			title,
-			description,
-			status,
-			tags,
-			borderColor,
-			assigneeId,
-			agents,
-			createTask,
-			updateAssignees,
-			onCreated,
+			title, description, status, tags, borderColor,
+			assigneeId, clientSlug, projectId, agents,
+			createTask, updateAssignees, onCreated,
 		],
 	);
+
+	// Filter projects by selected client
+	const filteredProjects = projects?.filter((p) => {
+		if (!clientSlug) return true;
+		return !p.clientSlug || p.clientSlug === clientSlug;
+	});
 
 	return (
 		<div
@@ -162,6 +168,44 @@ const AddTaskModal: React.FC<AddTaskModalProps> = ({ onClose, onCreated, initial
 							placeholder="Optional — defaults to title"
 							rows={3}
 						/>
+					</div>
+
+					{/* Client + Project row */}
+					<div className="grid grid-cols-2 gap-3">
+						<div>
+							<label className="block text-[11px] font-semibold text-muted-foreground tracking-wide mb-1.5">
+								CLIENT
+							</label>
+							<select
+								value={clientSlug}
+								onChange={(e) => setClientSlug(e.target.value)}
+								className="w-full px-3 py-2 text-sm border border-border rounded-lg bg-card focus:outline-none focus:ring-2 focus:ring-[var(--accent-blue)] focus:border-transparent"
+							>
+								<option value="">None (internal)</option>
+								{clients?.map((c) => (
+									<option key={c._id} value={c.slug}>
+										{c.name}
+									</option>
+								))}
+							</select>
+						</div>
+						<div>
+							<label className="block text-[11px] font-semibold text-muted-foreground tracking-wide mb-1.5">
+								PROJECT
+							</label>
+							<select
+								value={projectId}
+								onChange={(e) => setProjectId(e.target.value)}
+								className="w-full px-3 py-2 text-sm border border-border rounded-lg bg-card focus:outline-none focus:ring-2 focus:ring-[var(--accent-blue)] focus:border-transparent"
+							>
+								<option value="">No project</option>
+								{filteredProjects?.map((p) => (
+									<option key={p._id} value={p._id}>
+										{p.name}
+									</option>
+								))}
+							</select>
+						</div>
 					</div>
 
 					{/* Status */}

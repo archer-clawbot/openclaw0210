@@ -1,5 +1,29 @@
 # MEMORY.md - Long-Term Memory
 
+## Future Roadmap
+
+### Orgo Integration (Phase 2 Infrastructure)
+- **What:** Ephemeral cloud VMs (sub-500ms boot) for AI computer use — "King Claw + Worker" model
+- **Why:** Isolate risky web-touching tasks from the main host; blast radius containment
+- **King:** Archer stays on local hardware, holds credentials/strategy (Opus model)
+- **Workers:** Disposable Orgo VMs per task — burn after completion (Sonnet or Kimi 2.5 for cost efficiency)
+- **Priority agents:** Citadel (directory submissions), Herald (GBP automation), Scout (scraping/SERP), Ghost (PBN — isolated IPs), Blitz (ad platforms — bot detection)
+- **Reference:** https://youtu.be/4KxXUVtorWk, https://docs.orgo.ai
+- **Status:** Future — no account yet, noted Feb 17 2026
+
+**Implementation (when ready — ~1 hour to set up):**
+1. Sign up at orgo.ai (free tier available)
+2. Copy full LLM docs: `docs.orgo.ai` → `llmsfull.txt`
+3. Paste into OpenClaw + say: "Make a skill to connect to Orgo API to spin up VMs for sub-agents"
+4. OpenClaw writes the skill file — restart gateway — done
+5. One Orgo API key handles all VMs in a workspace
+6. Workers export files back to main agent via Orgo's native export API
+7. Sub-agent uniqueness is critical — prompt must specify each agent gets a DIFFERENT task
+8. Nick Vasilescu (creator) has unofficial Orgo MCP on his GitHub (@NickVas...)
+9. No A2A protocol needed — workers report back to Archer via native sessions_spawn
+
+---
+
 ## Active Projects
 
 ### Spectators Bar & Grill (Client)
@@ -93,3 +117,20 @@
 - Reduced manual handoff overhead (agents read each other's deliverables)
 - Proactive monitoring (weekly standups, anomaly detection)
 - Complete documentation for 10 operational agents (8 core + Razor + Blitz)
+
+---
+
+## Completed Work
+
+### 2026-02-17 — System — Pitch Agent Created (Agent #19)
+- **Role:** Conversion copywriter — writes copy that converts humans (ads, landing pages, emails, social)
+- **Brain:** 7 marketing legends synthesized (Hormozi, Gary Vee, Brunson, Kennedy, Schwartz, Godin, Deiss)
+- **Separation:** Scribe = SEO content for Google | Pitch = conversion copy for humans | Mozi = strategy
+- **Model:** Sonnet 4.6
+- **Status:** Brain files complete, openclaw.json updated
+- **Pending:** Telegram bot token, gateway restart
+- **Deliverable:** `deliverables/_system/pitch/2026-02-17-pitch-agent-created.md`
+
+---
+
+**Last Updated:** 2026-02-17

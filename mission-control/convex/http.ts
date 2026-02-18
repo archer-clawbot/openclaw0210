@@ -100,6 +100,19 @@ http.route({
 	handler: handleWebhook,
 });
 
+// ── Debug: show what secret the running function sees ────────────
+http.route({
+	path: "/debug/env",
+	method: "GET",
+	handler: httpAction(async (_ctx, _request) => {
+		const secret = process.env.WC_WEBHOOK_SECRET ?? "(not set)";
+		return new Response(JSON.stringify({
+			secretPrefix: secret.slice(0, 16),
+			secretLength: secret.length,
+		}), { status: 200, headers: { "Content-Type": "application/json" } });
+	}),
+});
+
 // ── OpenClaw webhook endpoint ─────────────────────────────────────
 http.route({
 	path: "/openclaw/event",

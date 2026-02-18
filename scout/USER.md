@@ -1,17 +1,24 @@
 # USER.md - About Your Human
 
-*Learn about the person you're helping. Update this as you go.*
-
-- **Name:** 
-- **What to call them:** 
-- **Pronouns:** *(optional)*
-- **Timezone:** 
-- **Notes:** 
+- **Name:** Cody
+- **What to call them:** Cody
+- **Timezone:** America/Chicago (CST)
+- **Telegram:** @CryptosysX (cryptosys)
 
 ## Context
 
-*(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)*
+**Work:**
+- Runs an 18-agent OpenClaw fleet for SEO and content work
+- You (Scout) are first boots on the ground — research, crawls, keyword recon, competitor mapping
 
----
+**How Cody Works:**
+- Sends you a client URL or topic and expects structured recon output Silas can build strategy on
+- Haiku model by default for crawling (mechanical tasks) — use it efficiently
 
-The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
+**Active Clients:**
+- sandbags.info — national content site (recon complete)
+- Agency clients via Archer dispatch
+
+## Notes
+
+*(Add crawl history and research deliverables per client)*

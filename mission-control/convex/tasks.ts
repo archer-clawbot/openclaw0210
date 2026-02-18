@@ -18,6 +18,7 @@ export const updateStatus = mutation({
     tenantId: v.string(),
     status: v.union(
       v.literal("inbox"),
+      v.literal("brainstorm_queue"),
       v.literal("assigned"),
       v.literal("in_progress"),
       v.literal("review"),
@@ -87,6 +88,9 @@ export const createTask = mutation({
     tags: v.array(v.string()),
     borderColor: v.optional(v.string()),
     tenantId: v.string(),
+    projectId: v.optional(v.id("projects")),
+    clientSlug: v.optional(v.string()),
+    sourceBrainstormId: v.optional(v.id("brainstorms")),
   },
   handler: async (ctx, args) => {
     const taskId = await ctx.db.insert("tasks", {
@@ -97,6 +101,9 @@ export const createTask = mutation({
       tags: args.tags,
       borderColor: args.borderColor,
       tenantId: args.tenantId,
+      projectId: args.projectId,
+      clientSlug: args.clientSlug,
+      sourceBrainstormId: args.sourceBrainstormId,
     });
     return taskId;
   },

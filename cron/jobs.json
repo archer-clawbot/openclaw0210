@@ -17,11 +17,13 @@
       "wakeMode": "next-heartbeat",
       "payload": {
         "kind": "agentTurn",
-        "message": "Daily AI automation news task.\n\n**TOPICS TO SEARCH:**\n1. OpenClaw\n2. Antigravity (AI agent platform)\n3. Claude/Anthropic\n4. AI agent automation systems\n\n**CHANNELS TO CHECK:**\n- Julian Goldie SEO\n- Alex Finn (@AlexFinnOfficial)\n- Nate B Jones (@NateBJones)\n- Matthew Berman\n- Peter Yang\n\n**FORMAT RULES:**\n- Max 3 videos per channel (pick highest view count if more)\n- For each video, include a 1-2 sentence ACTUAL SUMMARY of what the video covers based on transcript — not just the title\n- Group by category (Claude/Anthropic, OpenClaw, AI Agents, etc.)\n- Include channel status section at bottom\n\n**EXAMPLE FORMAT:**\n• \"Video Title\" - Channel Name (duration, time ago)\n  ↳ Actual summary of content: what you learn, key takeaway, main point covered.\n\n**COST OPTIMIZATION:**\n- Use DeepSeek V3 for transcript summarization (bulk text work)\n- Use Claude only for orchestration, formatting final output, and delivery\n\n**DELIVERY:**\nSend compiled brief to Cody via Telegram. If no new relevant videos found, send short 'no new videos today' message.",
-        "deliver": true,
-        "channel": "telegram"
+        "message": "Daily AI automation news task.\n\n**TOPICS TO SEARCH:**\n1. OpenClaw\n2. Antigravity (AI agent platform)\n3. Claude/Anthropic\n4. AI agent automation systems\n\n**CHANNELS TO CHECK:**\n- Julian Goldie SEO\n- Alex Finn (@AlexFinnOfficial)\n- Nate B Jones (@NateBJones)\n- Matthew Berman\n- Peter Yang\n\n**FORMAT RULES:**\n- Max 3 videos per channel (pick highest view count if more)\n- For each video, include a 1-2 sentence ACTUAL SUMMARY of what the video covers based on transcript — not just the title\n- Group by category (Claude/Anthropic, OpenClaw, AI Agents, etc.)\n- Include channel status section at bottom\n\n**EXAMPLE FORMAT:**\n• \"Video Title\" - Channel Name (duration, time ago)\n  ↳ Actual summary of content: what you learn, key takeaway, main point covered.\n\n**COST OPTIMIZATION:**\n- Use DeepSeek V3 for transcript summarization (bulk text work)\n- Use Claude only for orchestration, formatting final output, and delivery\n\n**DELIVERY:**\nSend compiled brief to Cody via Telegram. If no new relevant videos found, send short 'no new videos today' message."
       },
-      "state": {}
+      "state": {},
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram"
+      }
     },
     {
       "id": "b8890acc-185c-4739-8248-988d0660ca46",
@@ -39,17 +41,19 @@
       "wakeMode": "next-heartbeat",
       "payload": {
         "kind": "agentTurn",
-        "message": "Run your nightly health check now. Execute all 7 checks as defined in your AGENTS.md brain prompt, compile the report, and deliver it to Slack #sentinel. If status is CRITICAL, also alert #archer.",
-        "deliver": true,
-        "channel": "slack",
-        "to": "#sentinel"
+        "message": "Run your nightly health check now. Execute all 7 checks as defined in your AGENTS.md brain prompt, compile the report, and deliver it to Slack #sentinel. If status is CRITICAL, also alert #archer."
       },
       "state": {
-        "nextRunAtMs": 1771401600000,
+        "nextRunAtMs": 1771488000000,
         "lastRunAtMs": 1771315200009,
         "lastStatus": "error",
         "lastDurationMs": 122122,
         "lastError": "Error: Slack bot token missing for account \"default\" (set channels.slack.accounts.default.botToken or SLACK_BOT_TOKEN for default)."
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "slack",
+        "to": "#sentinel"
       }
     },
     {
@@ -68,11 +72,13 @@
       "wakeMode": "next-heartbeat",
       "payload": {
         "kind": "agentTurn",
-        "message": "Weekly rollup task. Compile a summary of ALL agent activity from the past 7 days and deliver it to #archer.\n\n**HOW TO COMPILE:**\n1. Use sessions_list to pull recent sessions across all agents\n2. Use sessions_history to review what each agent produced this week\n3. Check the deliverables folder at C:Usersspart.openclawdeliverables for saved outputs\n\n**REPORT FORMAT:**\n\nWEEKLY ROLLUP — {date range}\n\nFor each agent that had activity:\n- **Agent Name**: {1-2 sentence summary of what they did}\n  - Deliverables: {list any saved files or completed tasks}\n  - Clients touched: {which clients got work}\n\nThen a summary section:\n- Total agent sessions this week: {count}\n- Clients with active work: {list}\n- Pending/blocked items: {anything stuck}\n- Sentinel health trend: {any recurring issues from nightly reports}\n\n**DELIVERY:**\nPost the compiled rollup to #archer Slack channel. Keep it scannable — Cody reads this over Sunday morning coffee.",
-        "deliver": true,
-        "channel": "slack"
+        "message": "Weekly rollup task. Compile a summary of ALL agent activity from the past 7 days and deliver it to #archer.\n\n**HOW TO COMPILE:**\n1. Use sessions_list to pull recent sessions across all agents\n2. Use sessions_history to review what each agent produced this week\n3. Check the deliverables folder at C:Usersspart.openclawdeliverables for saved outputs\n\n**REPORT FORMAT:**\n\nWEEKLY ROLLUP — {date range}\n\nFor each agent that had activity:\n- **Agent Name**: {1-2 sentence summary of what they did}\n  - Deliverables: {list any saved files or completed tasks}\n  - Clients touched: {which clients got work}\n\nThen a summary section:\n- Total agent sessions this week: {count}\n- Clients with active work: {list}\n- Pending/blocked items: {anything stuck}\n- Sentinel health trend: {any recurring issues from nightly reports}\n\n**DELIVERY:**\nPost the compiled rollup to #archer Slack channel. Keep it scannable — Cody reads this over Sunday morning coffee."
       },
-      "state": {}
+      "state": {},
+      "delivery": {
+        "mode": "announce",
+        "channel": "slack"
+      }
     },
     {
       "id": "forge-nightly",
@@ -90,16 +96,18 @@
       "wakeMode": "next-heartbeat",
       "payload": {
         "kind": "agentTurn",
-        "message": "Begin your nightly improvement cycle. Current time is 2:05 AM CST. Hard stop at 5:30 AM. Follow your 5-phase protocol: Harvest → Diagnose → Prescribe → Apply → Report. Budget cap: $8. Deliver morning brief to Telegram when complete.",
-        "deliver": true,
-        "channel": "telegram",
-        "to": "7302669335"
+        "message": "Begin your nightly improvement cycle. Current time is 2:05 AM CST. Hard stop at 5:30 AM. Follow your 5-phase protocol: Harvest → Diagnose → Prescribe → Apply → Report. Budget cap: $8. Deliver morning brief to Telegram when complete."
       },
       "state": {
-        "nextRunAtMs": 1771401900000,
+        "nextRunAtMs": 1771488300000,
         "lastRunAtMs": 1771315500014,
         "lastStatus": "ok",
         "lastDurationMs": 126040
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "to": "7302669335"
       }
     },
     {
@@ -175,6 +183,9 @@
         "lastRunAtMs": 1771167600023,
         "lastStatus": "ok",
         "lastDurationMs": 103615
+      },
+      "delivery": {
+        "mode": "announce"
       }
     },
     {
@@ -186,7 +197,7 @@
       "updatedAtMs": 1771300414384,
       "schedule": {
         "kind": "at",
-        "atMs": 1771300495204
+        "at": "2026-02-17T03:54:55.204Z"
       },
       "sessionTarget": "main",
       "wakeMode": "next-heartbeat",
@@ -209,19 +220,21 @@
       "updatedAtMs": 1771321225218,
       "schedule": {
         "kind": "at",
-        "atMs": 1771321225204
+        "at": "2026-02-17T09:40:25.204Z"
       },
       "sessionTarget": "isolated",
       "wakeMode": "next-heartbeat",
       "payload": {
         "kind": "agentTurn",
-        "message": "Spawn Scribe to write Phase 2 Batch 3 for sandbags.info (10 pages). Already written: all Phase 1 + sandbag-levee, door-barrier, garage-door, how-many-sandbags-for-flood, sandbags-for-hurricanes, emergency-sandbag-locations, how-to-store-sandbags, sandbag-shelf-life, sandbag-alternatives-flooding, sandbags-vs-flood-barriers, temporary-flood-barriers, sandbag-removal, contaminated-sandbags, sandbag-emergency-kit, sandbags-florida, sandbags-texas, sandbags-california. Write these 10: /sandbags-louisiana/ (1500-2000w), /burlap-sandbags/ (1200-1800w), /polypropylene-sandbags/ (1200-1800w), /jute-sandbags/ (1000-1500w), /biodegradable-sandbags/ (1000-1500w), /pre-filled-sandbags/ (1000-1500w), /self-inflating-sandbags/ (1000-1500w), /standard-sandbag-size/ (800-1200w), /sandbag-dimensions/ (800-1200w), /woven-vs-non-woven-sandbags/ (1000-1500w). H2/H3, meta descriptions, FAQ+schema per page, CTAs to /sandbag-delivery/ and /sandbag-filling-service/. Save to C:\\Users\\spart\\.openclaw\\deliverables\\sandbags-info\\scribe\\2026-02-17-[slug].md. Use sessions_spawn with agentId scribe to delegate the writing.",
-        "deliver": true
+        "message": "Spawn Scribe to write Phase 2 Batch 3 for sandbags.info (10 pages). Already written: all Phase 1 + sandbag-levee, door-barrier, garage-door, how-many-sandbags-for-flood, sandbags-for-hurricanes, emergency-sandbag-locations, how-to-store-sandbags, sandbag-shelf-life, sandbag-alternatives-flooding, sandbags-vs-flood-barriers, temporary-flood-barriers, sandbag-removal, contaminated-sandbags, sandbag-emergency-kit, sandbags-florida, sandbags-texas, sandbags-california. Write these 10: /sandbags-louisiana/ (1500-2000w), /burlap-sandbags/ (1200-1800w), /polypropylene-sandbags/ (1200-1800w), /jute-sandbags/ (1000-1500w), /biodegradable-sandbags/ (1000-1500w), /pre-filled-sandbags/ (1000-1500w), /self-inflating-sandbags/ (1000-1500w), /standard-sandbag-size/ (800-1200w), /sandbag-dimensions/ (800-1200w), /woven-vs-non-woven-sandbags/ (1000-1500w). H2/H3, meta descriptions, FAQ+schema per page, CTAs to /sandbag-delivery/ and /sandbag-filling-service/. Save to C:\\Users\\spart\\.openclaw\\deliverables\\sandbags-info\\scribe\\2026-02-17-[slug].md. Use sessions_spawn with agentId scribe to delegate the writing."
       },
       "state": {
         "lastRunAtMs": 1771321225218,
         "lastStatus": "ok",
         "lastDurationMs": 19274
+      },
+      "delivery": {
+        "mode": "announce"
       }
     },
     {
@@ -233,19 +246,21 @@
       "updatedAtMs": 1771337740418,
       "schedule": {
         "kind": "at",
-        "atMs": 1771337740405
+        "at": "2026-02-17T14:15:40.405Z"
       },
       "sessionTarget": "isolated",
       "wakeMode": "next-heartbeat",
       "payload": {
         "kind": "agentTurn",
-        "message": "Spawn Scribe to write Phase 2 Batch 5 for sandbags.info — 13 final commercial/military pages. Already written: 50 pages (all Phase 1 + Batches 1-4). Write these 13 pages and save to C:\\Users\\spart\\.openclaw\\deliverables\\sandbags-info\\scribe\\2026-02-17-[slug].md:\n1. /sandbags-for-construction/ (1200-1800w)\n2. /sandbags-for-concrete-curing/ (800-1200w)\n3. /sandbags-for-trench-shoring/ (1000-1500w)\n4. /sandbags-for-dust-control/ (800-1200w)\n5. /military-sandbags/ (1500-2000w)\n6. /sandbag-bunkers/ (1200-1800w)\n7. /tactical-sandbag-walls/ (1000-1500w)\n8. /sandbags-for-erosion-control/ (1200-1800w)\n9. /sandbags-for-landscaping/ (1000-1500w)\n10. /sandbags-for-tree-staking/ (800-1200w)\n11. /sandbags-for-tents/ (1000-1500w)\n12. /sandbags-for-lighting/ (800-1200w)\n13. /sandbags-for-outdoor-events/ (1000-1500w)\nH2/H3, meta descriptions, FAQ+schema per page, CTAs to /sandbag-delivery/ and /sandbag-filling-service/. Use sessions_spawn with agentId scribe to delegate.",
-        "deliver": true
+        "message": "Spawn Scribe to write Phase 2 Batch 5 for sandbags.info — 13 final commercial/military pages. Already written: 50 pages (all Phase 1 + Batches 1-4). Write these 13 pages and save to C:\\Users\\spart\\.openclaw\\deliverables\\sandbags-info\\scribe\\2026-02-17-[slug].md:\n1. /sandbags-for-construction/ (1200-1800w)\n2. /sandbags-for-concrete-curing/ (800-1200w)\n3. /sandbags-for-trench-shoring/ (1000-1500w)\n4. /sandbags-for-dust-control/ (800-1200w)\n5. /military-sandbags/ (1500-2000w)\n6. /sandbag-bunkers/ (1200-1800w)\n7. /tactical-sandbag-walls/ (1000-1500w)\n8. /sandbags-for-erosion-control/ (1200-1800w)\n9. /sandbags-for-landscaping/ (1000-1500w)\n10. /sandbags-for-tree-staking/ (800-1200w)\n11. /sandbags-for-tents/ (1000-1500w)\n12. /sandbags-for-lighting/ (800-1200w)\n13. /sandbags-for-outdoor-events/ (1000-1500w)\nH2/H3, meta descriptions, FAQ+schema per page, CTAs to /sandbag-delivery/ and /sandbag-filling-service/. Use sessions_spawn with agentId scribe to delegate."
       },
       "state": {
         "lastRunAtMs": 1771337740418,
         "lastStatus": "ok",
         "lastDurationMs": 31045
+      },
+      "delivery": {
+        "mode": "announce"
       }
     },
     {
@@ -257,19 +272,73 @@
       "updatedAtMs": 1771344139287,
       "schedule": {
         "kind": "at",
-        "atMs": 1771344139277
+        "at": "2026-02-17T16:02:19.277Z"
       },
       "sessionTarget": "isolated",
       "wakeMode": "next-heartbeat",
       "payload": {
         "kind": "agentTurn",
-        "message": "Spawn Scribe to write Phase 3 Batch 6A for sandbags.info — 11 pages. Already written: 63 pages (all Phase 1 + Phase 2). Write these 11 pages and save to C:\\Users\\spart\\.openclaw\\deliverables\\sandbags-info\\scribe\\2026-02-17-[slug].md:\n1. /colored-sandbags/ (800-1200w) — color coding in construction/emergency\n2. /sandbags-with-ties/ (800-1200w) — tie vs sewn-top comparison\n3. /mini-sandbags/ (800-1200w) — crafts, cornhole, draft stoppers\n4. /large-sandbags/ (800-1200w) — 1000lb+ super sacks, industrial uses\n5. /polyethylene-sandbags/ (1000-1500w) — poly vs polypropylene comparison\n6. /best-sandbags-for-flooding/ (1200-1800w) — top picks by use case\n7. /bulk-sandbags/ (1000-1500w) — wholesale sources, price breaks, pallets\n8. /sandbag-prices/ (1000-1500w) — cost breakdown, price per bag at scale\n9. /best-military-sandbags/ (1000-1500w) — military-spec, UV/ballistic ratings\n10. /best-biodegradable-sandbags/ (800-1200w) — top eco options, composting\n11. /best-colored-sandbags/ (800-1200w) — best colored bags for construction/traffic\nH2/H3, meta descriptions, FAQ+schema per page, CTAs to /sandbag-delivery/ and /sandbag-filling-service/. Use sessions_spawn with agentId scribe to delegate.",
-        "deliver": true
+        "message": "Spawn Scribe to write Phase 3 Batch 6A for sandbags.info — 11 pages. Already written: 63 pages (all Phase 1 + Phase 2). Write these 11 pages and save to C:\\Users\\spart\\.openclaw\\deliverables\\sandbags-info\\scribe\\2026-02-17-[slug].md:\n1. /colored-sandbags/ (800-1200w) — color coding in construction/emergency\n2. /sandbags-with-ties/ (800-1200w) — tie vs sewn-top comparison\n3. /mini-sandbags/ (800-1200w) — crafts, cornhole, draft stoppers\n4. /large-sandbags/ (800-1200w) — 1000lb+ super sacks, industrial uses\n5. /polyethylene-sandbags/ (1000-1500w) — poly vs polypropylene comparison\n6. /best-sandbags-for-flooding/ (1200-1800w) — top picks by use case\n7. /bulk-sandbags/ (1000-1500w) — wholesale sources, price breaks, pallets\n8. /sandbag-prices/ (1000-1500w) — cost breakdown, price per bag at scale\n9. /best-military-sandbags/ (1000-1500w) — military-spec, UV/ballistic ratings\n10. /best-biodegradable-sandbags/ (800-1200w) — top eco options, composting\n11. /best-colored-sandbags/ (800-1200w) — best colored bags for construction/traffic\nH2/H3, meta descriptions, FAQ+schema per page, CTAs to /sandbag-delivery/ and /sandbag-filling-service/. Use sessions_spawn with agentId scribe to delegate."
       },
       "state": {
         "lastRunAtMs": 1771344139287,
         "lastStatus": "ok",
         "lastDurationMs": 33359
+      },
+      "delivery": {
+        "mode": "announce"
+      }
+    },
+    {
+      "id": "85b1d8d6-072f-45f3-9d3a-114fca5ba275",
+      "agentId": "main",
+      "name": "scribe-sprint2a-retry",
+      "createdAtMs": 1771350274562,
+      "updatedAtMs": 1771417753614,
+      "schedule": {
+        "kind": "at",
+        "at": "2026-02-17T18:13:00.000Z"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "next-heartbeat",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Write Sprint 2A — new core pages for sandbags.info Phase 2. Save every file to: C:\\Users\\spart\\.openclaw\\deliverables\\sandbags-info\\scribe\\\n\nSite context: sandbags.info — national flood safety resource. Tone: authoritative, practical, trustworthy. Monetization: lead gen + display ads only. Format: markdown with frontmatter (title, meta_description, slug), H1, H2s, internal link suggestions.\n\nWrite these 10 pages (save each before moving to the next):\n\n1. 2026-02-17-commercial-sandbag-uses.md — /commercial-sandbag-uses/ — Pillar 4 hub. 1800-2500 words. All commercial/industrial applications: construction, erosion control, military, landscaping, events, filming.\n\n2. 2026-02-17-how-long-do-sandbags-last.md — /how-long-do-sandbags-last/ — FAQPage format. Lifespan by material, storage impact, UV degradation. 1200-1800 words.\n\n3. 2026-02-17-emergency-flood-response-guide.md — /emergency-flood-response-guide/ — Emergency cluster hub. What to do in first 24 hours of flood warning. HowTo format. 1800-2500 words.\n\n4. 2026-02-17-flood-preparation-checklist.md — /flood-preparation-checklist/ — 30-point checklist format. Include PDF lead magnet CTA placeholder. 1200-1800 words.\n\n5. 2026-02-17-sandbag-distribution-centers.md — /sandbag-distribution-centers/ — State-by-state directory of emergency distribution centers. 1200-1800 words.\n\n6. 2026-02-17-military-spec-sandbags.md — /military-spec-sandbags/ — MIL-B-52472C specs, civilian availability, tactical vs commercial differences. 1200-1800 words.\n\n7. 2026-02-17-sandbag-filling-machine.md — /sandbag-filling-machine/ — Types, cost, rental vs buy, large-scale deployment. CTA to filling service. 1000-1500 words.\n\n8. 2026-02-17-rapid-flood-barrier-deployment.md — /rapid-flood-barrier-deployment/ — Professional deployment, B2B/municipal audience, service CTA. 1000-1500 words.\n\n9. 2026-02-17-uv-resistant-sandbags.md — /uv-resistant-sandbags/ — UV resistance by material, outdoor longevity, buyer guidance. 1000-1500 words.\n\n10. 2026-02-17-sandbags-for-pipeline-protection.md — /sandbags-for-pipeline-protection/ — Industrial use, flood protection for pipelines, B2B lead gen. 1000-1500 words.\n\nAfter saving all 10 files, update your MEMORY.md and report the complete list of files written.",
+        "timeoutSeconds": 900
+      },
+      "state": {
+        "lastRunAtMs": 1771417534009,
+        "lastStatus": "error",
+        "lastDurationMs": 219605,
+        "lastError": "cron delivery target is missing",
+        "consecutiveErrors": 1
+      },
+      "enabled": false,
+      "delivery": {
+        "mode": "announce"
+      }
+    },
+    {
+      "id": "bab8a46c-61e0-4ba1-a439-a871f93e6fa9",
+      "agentId": "main",
+      "name": "Gateway Restart Reminder",
+      "enabled": false,
+      "createdAtMs": 1771388585712,
+      "updatedAtMs": 1771414628405,
+      "schedule": {
+        "kind": "at",
+        "at": "2026-02-18T10:00:00.000Z"
+      },
+      "sessionTarget": "main",
+      "wakeMode": "next-heartbeat",
+      "payload": {
+        "kind": "systemEvent",
+        "text": "⏰ Reminder: Restart the gateway to load Pitch (Agent #19). Run: openclaw gateway restart"
+      },
+      "state": {
+        "lastRunAtMs": 1771414628405,
+        "lastStatus": "ok",
+        "lastDurationMs": 1
       }
     }
   ]
