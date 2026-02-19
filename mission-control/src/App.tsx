@@ -13,6 +13,7 @@ import AdminDeliverablesPage from "./pages/admin/AdminDeliverablesPage";
 import AdminDeliverableDetailPage from "./pages/admin/AdminDeliverableDetailPage";
 import AdminShellLayout from "./layouts/AdminShellLayout";
 import BrainstormLibrary from "./pages/admin/BrainstormLibrary";
+import ReportingTab from "./pages/products/ReportingTab";
 import PortalLayout from "./layouts/PortalLayout";
 import PortalHome from "./pages/portal/PortalHome";
 import OrdersPage from "./pages/portal/OrdersPage";
@@ -51,6 +52,7 @@ export default function App() {
 						<Route path="/admin/deliverables" element={<AdminDeliverablesPage />} />
 						<Route path="/admin/deliverables/:id" element={<AdminDeliverableDetailPage />} />
 						<Route path="/admin/brainstorms" element={<BrainstormLibrary />} />
+						<Route path="/admin/rankings" element={<ReportingTab />} />
 					</Route>
 
 					{/* Customer portal routes */}

@@ -86,6 +86,12 @@ const Header: React.FC<HeaderProps> = ({ onOpenAgents, onOpenLiveFeed }) => {
 					>
 						Brainstorms
 					</Link>
+					<Link
+						to="/admin/rankings"
+						className="text-[11px] font-semibold tracking-wider uppercase text-muted-foreground hover:text-foreground bg-muted hover:bg-accent px-3 py-1.5 rounded-lg transition-colors"
+					>
+						Rankings
+					</Link>
 				</div>
 			</div>
 
